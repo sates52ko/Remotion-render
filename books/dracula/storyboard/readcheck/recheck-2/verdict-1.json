@@ -1,0 +1,29 @@
+{
+ "run": "dracula-judge-27878920a5c2",
+ "items": [
+  {
+   "id": "b001",
+   "correctness": "CORRECT",
+   "blame": "none",
+   "why": "The guess captures Jonathan's bleak journey through the Carpathian Mountains, matching the narration's core meaning."
+  },
+  {
+   "id": "b002",
+   "correctness": "WRONG",
+   "blame": "place",
+   "why": "Attaching the 'SCALING CASTLE WALL' label to Transylvania while both characters merely change makes the viewer think Jonathan and Dracula are both reacting to someone else climbing instead of Dracula climbing the wall."
+  },
+  {
+   "id": "b003",
+   "correctness": "CORRECT",
+   "blame": "none",
+   "why": "The guess accurately conveys that Dracula attacks Jonathan and is forced back and separated by the holy crucifix."
+  },
+  {
+   "id": "b004",
+   "correctness": "WRONG",
+   "blame": "people",
+   "why": "Having Dracula act beside the earthbox makes the viewer think he is outside taking action next to it rather than being transported inside the box on a cart driven by others."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "b001",
+  "stage": "flow: transylvania, jonathan",
+  "happens": [
+   "change jonathan",
+   "label transylvania \"CARPATHIAN MOUNTAINS\"",
+   "dim transylvania"
+  ]
+ },
+ {
+  "id": "b002",
+  "stage": "flow: jonathan, dracula, transylvania",
+  "happens": [
+   "arrange jonathan and dracula and transylvania",
+   "change jonathan",
+   "change dracula",
+   "label transylvania \"SCALING CASTLE WALL\""
+  ]
+ },
+ {
+  "id": "b003",
+  "stage": "versus: dracula, jonathan",
+  "happens": [
+   "act dracula",
+   "change jonathan",
+   "label jonathan \"HOLY CRUCIFIX\"",
+   "apart dracula and jonathan",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b004",
+  "stage": "flow: earthbox, dracula",
+  "happens": [
+   "arrange earthbox and dracula",
+   "shake earthbox",
+   "act dracula",
+   "label earthbox \"RACING THROUGH SNOW\""
+  ]
+ }
+]

@@ -1,0 +1,1334 @@
+[
+  {
+    "i": 166,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "seward",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "studies",
+          "do": "change",
+          "who": "seward",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "patient",
+          "do": "change",
+          "who": "renfield",
+          "action": "sit"
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward holds his clinical notes while studying his seated patient Renfield.",
+    "noVisual": null
+  },
+  {
+    "i": 167,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "renfield",
+          "renfieldledger"
+        ]
+      },
+      "events": [
+        {
+          "on": "logs",
+          "do": "act",
+          "who": "renfield",
+          "verb": "write",
+          "target": "renfieldledger"
+        },
+        {
+          "on": "spiders",
+          "do": "label",
+          "who": "renfieldledger",
+          "text": "FLIES AND SPIDERS"
+        }
+      ]
+    },
+    "explainedBy": "Renfield writes down the flies and spiders he consumes in his ledger.",
+    "noVisual": null
+  },
+  {
+    "i": 168,
+    "told": {
+      "events": [
+        {
+          "on": "logs",
+          "do": "act",
+          "who": "renfield",
+          "verb": "write",
+          "target": "renfieldledger"
+        },
+        {
+          "on": "escalation",
+          "do": "grow",
+          "who": [
+            "renfieldledger"
+          ],
+          "to": 1.25
+        },
+        {
+          "on": "escalation",
+          "do": "title",
+          "text": "ESCALATING CHAIN OF LIFE"
+        }
+      ]
+    },
+    "explainedBy": "Renfield logs birds as his ledger grows with an escalating chain of consumed life.",
+    "noVisual": null
+  },
+  {
+    "i": 169,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "renfield",
+          "renfieldledger",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "agitated",
+          "do": "change",
+          "who": "renfield",
+          "action": "struggling"
+        },
+        {
+          "on": "agitated",
+          "do": "shake",
+          "who": [
+            "renfield"
+          ]
+        },
+        {
+          "on": "draws near",
+          "do": "together",
+          "who": [
+            "dracula",
+            "renfield"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Renfield grows agitated beside his ledger as Dracula draws near.",
+    "noVisual": null
+  },
+  {
+    "i": 170,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "seward",
+          "renfieldledger",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "read",
+          "do": "change",
+          "who": "seward",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "miss",
+          "do": "cross",
+          "who": [
+            "renfieldledger",
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward studies the data while missing the correlation between Renfield's ledger and Dracula.",
+    "noVisual": null
+  },
+  {
+    "i": 171,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "renfield",
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "fight",
+          "do": "change",
+          "who": "renfield",
+          "action": "fighting"
+        },
+        {
+          "on": "fight",
+          "do": "change",
+          "who": "dracula",
+          "action": "fighting"
+        },
+        {
+          "on": "fight",
+          "do": "collide",
+          "who": [
+            "renfield",
+            "dracula"
+          ]
+        },
+        {
+          "on": "protect",
+          "do": "change",
+          "who": "mina",
+          "action": "stop"
+        }
+      ]
+    },
+    "explainedBy": "Renfield physically clashes with Dracula to protect Mina.",
+    "noVisual": null
+  },
+  {
+    "i": 172,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "breaks",
+          "do": "act",
+          "who": "dracula",
+          "verb": "hit",
+          "target": "renfield"
+        },
+        {
+          "on": "ends",
+          "do": "change",
+          "who": "renfield",
+          "action": "collapsed"
+        }
+      ]
+    },
+    "explainedBy": "Dracula strikes Renfield down, ending his life collapsed on the floor.",
+    "noVisual": null
+  },
+  {
+    "i": 173,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "exit",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "dying",
+          "do": "change",
+          "who": "renfield",
+          "action": "collapsed"
+        },
+        {
+          "on": "dying",
+          "do": "focus",
+          "who": "renfield"
+        },
+        {
+          "on": "mist",
+          "do": "title",
+          "text": "THE MIST"
+        }
+      ]
+    },
+    "explainedBy": "Collapsed and dying, Renfield delivers the missing clue: the mist.",
+    "noVisual": null
+  },
+  {
+    "i": 174,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "renfield",
+          "helsing",
+          "seward",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "at": 0,
+          "do": "wide"
+        },
+        {
+          "at": 0,
+          "do": "change",
+          "who": "renfield",
+          "action": "collapsed"
+        },
+        {
+          "on": "reveals",
+          "do": "change",
+          "who": "seward",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "slid",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ],
+          "to": 1.2
+        },
+        {
+          "on": "mist",
+          "do": "title",
+          "text": "SLID IN LIKE MIST"
+        }
+      ]
+    },
+    "explainedBy": "Dying Renfield tells Van Helsing and Seward how Dracula slid inside like mist.",
+    "noVisual": null
+  },
+  {
+    "i": 175,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "renfield",
+          "renfieldledger"
+        ]
+      },
+      "events": [
+        {
+          "on": "behavior",
+          "do": "change",
+          "who": "renfield",
+          "action": "slump"
+        },
+        {
+          "on": "escalating",
+          "do": "grow",
+          "who": [
+            "renfieldledger"
+          ],
+          "to": 1.25
+        },
+        {
+          "on": "predicted",
+          "do": "title",
+          "text": "BEHAVIOR PREDICTED THE ATTACKS"
+        }
+      ]
+    },
+    "explainedBy": "Renfield's escalating ledger entries predicted Dracula's attacks.",
+    "noVisual": null
+  },
+  {
+    "i": 176,
+    "told": {
+      "events": [
+        {
+          "on": "obscured",
+          "do": "cover",
+          "who": [
+            "renfieldledger"
+          ]
+        },
+        {
+          "on": "broke",
+          "do": "dim",
+          "who": [
+            "renfield",
+            "renfieldledger"
+          ]
+        },
+        {
+          "on": "count",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        },
+        {
+          "on": "fleeing",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        },
+        {
+          "on": "escaping",
+          "do": "change",
+          "who": "dracula",
+          "action": "flee"
+        }
+      ]
+    },
+    "explainedBy": "Renfield's ledger is obscured and dimmed as Dracula flees London down the river.",
+    "noVisual": null
+  },
+  {
+    "i": 177,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "atlas"
+        ]
+      },
+      "events": [
+        {
+          "on": "track",
+          "do": "title",
+          "text": "TRACKING ACROSS THE GLOBE"
+        },
+        {
+          "on": "him",
+          "do": "change",
+          "who": "dracula",
+          "action": "flee"
+        },
+        {
+          "on": "without",
+          "do": "cross",
+          "who": [
+            "atlas"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula flees across the globe with no way to track him on the map.",
+    "noVisual": null
+  },
+  {
+    "i": 178,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "timetable",
+          "dracula",
+          "transylvania"
+        ]
+      },
+      "events": [
+        {
+          "on": "November",
+          "do": "label",
+          "who": "dracula",
+          "text": "NOVEMBER"
+        },
+        {
+          "on": "fleeing",
+          "do": "change",
+          "who": "dracula",
+          "action": "flee"
+        },
+        {
+          "on": "back",
+          "do": "together",
+          "who": [
+            "dracula",
+            "transylvania"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "In November, Dracula flees back toward Transylvania as the timetable enters.",
+    "noVisual": null
+  },
+  {
+    "i": 179,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "helsing",
+          "mina",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "hypnosis",
+          "do": "change",
+          "who": "helsing",
+          "action": "reach"
+        },
+        {
+          "on": "hypnosis",
+          "do": "change",
+          "who": "mina",
+          "action": "sit"
+        },
+        {
+          "on": "tethered",
+          "do": "together",
+          "who": [
+            "mina",
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing hypnotizes Mina, bringing her together with Dracula via their blood tether.",
+    "noVisual": null
+  },
+  {
+    "i": 180,
+    "told": {
+      "events": [
+        {
+          "on": "trance",
+          "do": "focus",
+          "who": "mina"
+        },
+        {
+          "on": "hearing",
+          "do": "change",
+          "who": "mina",
+          "action": "reach"
+        },
+        {
+          "on": "waking",
+          "do": "wide"
+        },
+        {
+          "on": "waking",
+          "do": "change",
+          "who": "mina",
+          "action": "stop"
+        }
+      ]
+    },
+    "explainedBy": "Mina senses waves and masts during her trance before waking abruptly.",
+    "noVisual": null
+  },
+  {
+    "i": 181,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "timetable"
+        ]
+      },
+      "events": [
+        {
+          "on": "opens",
+          "do": "act",
+          "who": "mina",
+          "verb": "read",
+          "target": "timetable"
+        },
+        {
+          "on": "railway",
+          "do": "label",
+          "who": "mina",
+          "text": "RAILWAY GUIDE"
+        }
+      ]
+    },
+    "explainedBy": "Mina opens and reads the railway timetable guide.",
+    "noVisual": null
+  },
+  {
+    "i": 182,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "timetable",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "hypnotic",
+          "do": "label",
+          "who": "dracula",
+          "text": "HYPNOTIC CONNECTION"
+        },
+        {
+          "on": "cross",
+          "do": "act",
+          "who": "mina",
+          "verb": "write",
+          "target": "timetable"
+        }
+      ]
+    },
+    "explainedBy": "With Dracula's hypnotic link present, Mina cross-references his sounds against train timetables.",
+    "noVisual": null
+  },
+  {
+    "i": 183,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "atlas",
+          "timetable"
+        ]
+      },
+      "events": [
+        {
+          "on": "maps",
+          "do": "act",
+          "who": "mina",
+          "verb": "write",
+          "target": "atlas"
+        },
+        {
+          "on": "logistics",
+          "do": "title",
+          "text": "SUBJECTED TO RAILWAY LOGISTICS"
+        }
+      ]
+    },
+    "explainedBy": "Mina maps Dracula's route on the atlas using railway logistics.",
+    "noVisual": null
+  },
+  {
+    "i": 184,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "dracula",
+          "timetable"
+        ]
+      },
+      "events": [
+        {
+          "on": "tether",
+          "do": "together",
+          "who": [
+            "mina",
+            "dracula"
+          ]
+        },
+        {
+          "on": "book",
+          "do": "act",
+          "who": "mina",
+          "verb": "read",
+          "target": "timetable"
+        }
+      ]
+    },
+    "explainedBy": "Though bound to Dracula by a psychic tether, Mina reads the timetable book to solve it.",
+    "noVisual": null
+  },
+  {
+    "i": 185,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "timetable",
+          "dracula",
+          "atlas"
+        ]
+      },
+      "events": [
+        {
+          "on": "timetable",
+          "do": "cross",
+          "who": [
+            "timetable"
+          ]
+        },
+        {
+          "on": "Black",
+          "do": "change",
+          "who": "dracula",
+          "action": "flee"
+        },
+        {
+          "on": "useless",
+          "do": "cover",
+          "who": [
+            "atlas"
+          ]
+        },
+        {
+          "on": "useless",
+          "do": "title",
+          "text": "USELESS WITHOUT SHIPPING DATA"
+        }
+      ]
+    },
+    "explainedBy": "A timetable alone is crossed out as Dracula flees, leaving the map covered without shipping data.",
+    "noVisual": null
+  },
+  {
+    "i": 186,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "london",
+          "atlas"
+        ]
+      },
+      "events": [
+        {
+          "on": "combine",
+          "do": "together",
+          "who": [
+            "mina",
+            "london"
+          ]
+        },
+        {
+          "on": "tracking",
+          "do": "act",
+          "who": "mina",
+          "verb": "point",
+          "target": "atlas"
+        },
+        {
+          "on": "shipping",
+          "do": "label",
+          "who": "london",
+          "text": "MARITIME REPORTS"
+        }
+      ]
+    },
+    "explainedBy": "Mina combines her visions with London maritime shipping reports to track the ship on the atlas.",
+    "noVisual": null
+  },
+  {
+    "i": 187,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "atlas",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "pinpoint",
+          "do": "focus",
+          "who": "atlas"
+        },
+        {
+          "on": "exact",
+          "do": "change",
+          "who": "dracula",
+          "action": "stop"
+        },
+        {
+          "on": "Galat",
+          "do": "stamp",
+          "who": "atlas",
+          "text": "SHIP PINPOINTED"
+        }
+      ]
+    },
+    "explainedBy": "Maritime data halts Dracula's escape and stamps his ship's pinpointed location on the atlas.",
+    "noVisual": null
+  },
+  {
+    "i": 188,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "atlas",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "at": 0,
+          "do": "wide"
+        },
+        {
+          "on": "catch",
+          "do": "act",
+          "who": "mina",
+          "verb": "point",
+          "target": "dracula"
+        },
+        {
+          "on": "only",
+          "do": "dim",
+          "who": [
+            "atlas"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina points out the cornered Count at the port, but the data dims at the limit of tracking.",
+    "noVisual": null
+  },
+  {
+    "i": 189,
+    "concept": "knives",
+    "diagram": null,
+    "callout": {
+      "text": "DATA CANNOT STRIKE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mina"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Data and notes can track Dracula, but they cannot strike the physical final blow.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Data can only track him; it cannot strike the final blow.",
+      "concreteVisual": "Mina standing in the office holding paper notes with a worried expression.",
+      "onScreenText": "DATA CANNOT STRIKE",
+      "relationToPrevious": "Cuts from the dimmed tracking map to Mina confronting the limits of paperwork.",
+      "addedInformation": "Shows the fragility of paper notes when physical force is required."
+    },
+    "place": "carfax"
+  },
+  {
+    "i": 190,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "knives"
+        ]
+      },
+      "events": [
+        {
+          "on": "knives",
+          "do": "grow",
+          "who": [
+            "knives"
+          ],
+          "to": 1.25
+        },
+        {
+          "on": "knives",
+          "do": "title",
+          "text": "KNIVES IN THE SNOW"
+        }
+      ]
+    },
+    "explainedBy": "The crossed knives in the snow grow on screen as the emblem of the grand finale.",
+    "noVisual": null
+  },
+  {
+    "i": 191,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "transylvania"
+        ]
+      },
+      "events": [
+        {
+          "on": "November",
+          "do": "date",
+          "text": "NOV 6 · SUNSET"
+        },
+        {
+          "on": "approaching",
+          "do": "change",
+          "who": "dracula",
+          "action": "flee"
+        }
+      ]
+    },
+    "explainedBy": "On November 6 approaching sunset, Dracula flees toward Castle Dracula in Transylvania.",
+    "noVisual": null
+  },
+  {
+    "i": 192,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "solo",
+          "who": [
+            "earthbox"
+          ]
+        },
+        {
+          "on": "races",
+          "do": "shake",
+          "who": [
+            "earthbox"
+          ]
+        },
+        {
+          "on": "Inside",
+          "do": "label",
+          "who": "earthbox",
+          "text": "DRACULA CONCEALED INSIDE"
+        }
+      ]
+    },
+    "explainedBy": "The wooden box shakes racing through snow while Dracula hides within.",
+    "noVisual": null
+  },
+  {
+    "i": 193,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "knives",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "wields",
+          "do": "change",
+          "who": "jonathan",
+          "action": "chop"
+        },
+        {
+          "on": "massive",
+          "do": "grow",
+          "who": [
+            "knives"
+          ],
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Jonathan Harker swings his massive kukri blade beside the knives and earth box.",
+    "noVisual": null
+  },
+  {
+    "i": 194,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "quincey",
+          "jonathan",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "wields",
+          "do": "change",
+          "who": "quincey",
+          "action": "reach"
+        },
+        {
+          "on": "slashes",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "hit",
+          "target": "dracula"
+        },
+        {
+          "on": "throat",
+          "do": "label",
+          "who": "dracula",
+          "text": "SLASHES THE THROAT"
+        }
+      ]
+    },
+    "explainedBy": "Quincey readies his blade as the earth box bursts open and Jonathan strikes Dracula.",
+    "noVisual": null
+  },
+  {
+    "i": 195,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "quincey",
+          "dracula",
+          "knives"
+        ]
+      },
+      "events": [
+        {
+          "on": "plunges",
+          "do": "act",
+          "who": "quincey",
+          "verb": "hit",
+          "target": "dracula"
+        },
+        {
+          "on": "crumbles",
+          "do": "change",
+          "who": "dracula",
+          "action": "collapsed"
+        },
+        {
+          "on": "dust",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "dust",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "DUST"
+        }
+      ]
+    },
+    "explainedBy": "Quincey Morris strikes Dracula's heart and the Count collapses and dims into dust.",
+    "noVisual": null
+  },
+  {
+    "i": 196,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "knives",
+          "quincey"
+        ]
+      },
+      "events": [
+        {
+          "on": "literal",
+          "do": "change",
+          "who": "jonathan",
+          "action": "chop"
+        },
+        {
+          "on": "blades",
+          "do": "grow",
+          "who": [
+            "knives"
+          ],
+          "to": 1.25
+        },
+        {
+          "on": "charging",
+          "do": "change",
+          "who": "quincey",
+          "action": "fighting"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan and Quincey charge in the snow with physical steel blades.",
+    "noVisual": null
+  },
+  {
+    "i": 197,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "typewriter",
+          "receipts",
+          "knives",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "sever",
+          "do": "cross",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "pierce",
+          "do": "cross",
+          "who": [
+            "receipts"
+          ]
+        },
+        {
+          "on": "audited",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "AUDITED OUT"
+        },
+        {
+          "on": "existence",
+          "do": "change",
+          "who": "dracula",
+          "action": "collapsed"
+        },
+        {
+          "on": "existence",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Typewriter and receipt are crossed out as non-weapons while Dracula is stamped audited out of existence.",
+    "noVisual": null
+  },
+  {
+    "i": 198,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "erased",
+          "do": "exit",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "seven",
+          "do": "date",
+          "text": "SEVEN YEARS LATER"
+        },
+        {
+          "on": "mass",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ],
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Dracula exits erased, leaving only a growing mass of typewriting seven years later.",
+    "noVisual": null
+  },
+  {
+    "i": 199,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "entire",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ],
+          "to": 1.25
+        },
+        {
+          "on": "typed",
+          "do": "stamp",
+          "who": "typewriter",
+          "text": "TYPED COPIES"
+        }
+      ]
+    },
+    "explainedBy": "The entire archive grows and is stamped as typed copies.",
+    "noVisual": null
+  },
+  {
+    "i": 200,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "typewriter",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "no original",
+          "do": "cross",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "prejudice",
+          "do": "stamp",
+          "who": "london",
+          "text": "EMPIRE PREJUDICE"
+        }
+      ]
+    },
+    "explainedBy": "With no original proof on the typewriter, London real-estate fear is stamped as Empire prejudice.",
+    "noVisual": null
+  },
+  {
+    "i": 201,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "typewriter",
+          "knives"
+        ]
+      },
+      "events": [
+        {
+          "on": "curated",
+          "do": "stamp",
+          "who": "typewriter",
+          "text": "CURATED EVIDENCE"
+        },
+        {
+          "on": "no original",
+          "do": "cross",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The evidence is stamped as curated while no original records remain beside the knives.",
+    "noVisual": null
+  },
+  {
+    "i": 202,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "typewriter",
+          "knives"
+        ]
+      },
+      "events": [
+        {
+          "on": "type",
+          "do": "act",
+          "who": "mina",
+          "verb": "type",
+          "target": "typewriter"
+        },
+        {
+          "on": "buried",
+          "do": "cover",
+          "who": [
+            "knives"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina types the curated record while the physical event in the snow is covered over.",
+    "noVisual": null
+  },
+  {
+    "i": 203,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "typewriter",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "controls",
+          "do": "change",
+          "who": "mina",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "staked",
+          "do": "cross",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "believers",
+          "do": "change",
+          "who": "dracula",
+          "action": "slump"
+        }
+      ]
+    },
+    "explainedBy": "Mina holds the notes controlling the narrative while the staked-by-believers image of Dracula is crossed out.",
+    "noVisual": null
+  },
+  {
+    "i": 204,
+    "told": {
+      "events": [
+        {
+          "on": "audited",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "AUDITED BY CLERKS"
+        },
+        {
+          "on": "clerks",
+          "do": "change",
+          "who": "mina",
+          "action": "sign",
+          "holds": "pen"
+        },
+        {
+          "on": "not stand",
+          "do": "cross",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula is stamped as audited by clerks as Mina signs and the typed evidence is crossed out.",
+    "noVisual": null
+  }
+]

@@ -1,0 +1,186 @@
+{
+  "dracula": {
+    "label": "COUNT DRACULA",
+    "kind": "person",
+    "look": {
+      "age": "adult",
+      "height": 1.05,
+      "headScale": 1.0,
+      "outfit": "cloak",
+      "suit": "#1A1A1E",
+      "shirt": "#E6E6E6",
+      "hairStyle": "short",
+      "beard": "mustache"
+    }
+  },
+  "jonathan": {
+    "label": "JONATHAN HARKER",
+    "kind": "person",
+    "look": {
+      "age": "young",
+      "height": 0.98,
+      "headScale": 1.0,
+      "outfit": "suit",
+      "suit": "#2D3136",
+      "shirt": "#F4F1EA",
+      "hairStyle": "short",
+      "beard": "none"
+    }
+  },
+  "mina": {
+    "label": "MINA HARKER",
+    "kind": "person",
+    "look": {
+      "age": "young",
+      "height": 0.92,
+      "headScale": 1.0,
+      "outfit": "dress",
+      "suit": "#1D2736",
+      "shirt": "#FAF8F5",
+      "hairStyle": "bun",
+      "beard": "none"
+    }
+  },
+  "helsing": {
+    "label": "VAN HELSING",
+    "kind": "person",
+    "look": {
+      "age": "old",
+      "height": 1.0,
+      "headScale": 1.05,
+      "outfit": "coat",
+      "suit": "#353839",
+      "shirt": "#EAE5D9",
+      "hairStyle": "receding",
+      "beard": "goatee",
+      "glasses": true
+    }
+  },
+  "seward": {
+    "label": "DR. SEWARD",
+    "kind": "person",
+    "look": {
+      "age": "adult",
+      "height": 0.98,
+      "headScale": 1.0,
+      "outfit": "suit",
+      "suit": "#3B3128",
+      "shirt": "#EFEBE2",
+      "hairStyle": "short",
+      "beard": "muttonchops"
+    }
+  },
+  "renfield": {
+    "label": "RENFIELD",
+    "kind": "person",
+    "look": {
+      "age": "adult",
+      "height": 0.95,
+      "headScale": 1.0,
+      "outfit": "rags",
+      "suit": "#5A5D64",
+      "shirt": "#C8C4BC",
+      "hairStyle": "messy",
+      "beard": "stubble"
+    }
+  },
+  "lucy": {
+    "label": "LUCY WESTENRA",
+    "kind": "person",
+    "look": {
+      "age": "young",
+      "height": 0.92,
+      "headScale": 1.0,
+      "outfit": "dress",
+      "suit": "#E8E6E1",
+      "shirt": "#FFFFFF",
+      "hairStyle": "curly",
+      "beard": "none"
+    }
+  },
+  "quincey": {
+    "label": "QUINCEY MORRIS",
+    "kind": "person",
+    "look": {
+      "age": "young",
+      "height": 1.04,
+      "headScale": 1.0,
+      "outfit": "coat",
+      "suit": "#4E3629",
+      "shirt": "#D9C9B4",
+      "hairStyle": "short",
+      "beard": "stubble"
+    }
+  },
+  "london": {
+    "label": "LONDON",
+    "kind": "place",
+    "glyph": "building"
+  },
+  "transylvania": {
+    "label": "TRANSYLVANIA",
+    "kind": "place",
+    "glyph": "flag"
+  },
+  "whitby": {
+    "label": "WHITBY",
+    "kind": "place",
+    "glyph": "globe"
+  },
+  "varna": {
+    "label": "VARNA",
+    "kind": "place",
+    "glyph": "globe"
+  },
+  "carfax": {
+    "label": "CARFAX ESTATE",
+    "kind": "place",
+    "glyph": "building"
+  },
+  "piccadilly": {
+    "label": "PICCADILLY",
+    "kind": "place",
+    "glyph": "building"
+  },
+  "demeter": {
+    "label": "SCHOONER DEMETER",
+    "kind": "product",
+    "glyph": "globe"
+  },
+  "year1897": {
+    "label": "1897",
+    "kind": "idea",
+    "glyph": "book"
+  },
+  "earthbox": {
+    "label": "EARTH BOX",
+    "kind": "object",
+    "w": 400,
+    "paths": [
+      { "d": "M60 220 L260 140 L460 220 L260 300 Z", "fill": "#5C4033" },
+      { "d": "M60 220 L260 300 L260 420 L60 340 Z", "fill": "#3E2723" },
+      { "d": "M260 300 L460 220 L460 340 L260 420 Z", "fill": "#4E342E" }
+    ]
+  },
+  "typewriter": {
+    "label": "PORTABLE TYPEWRITER",
+    "kind": "object",
+    "w": 380,
+    "paths": [
+      { "d": "M80 260 L440 260 L400 400 L120 400 Z", "fill": "#263238" },
+      { "d": "M130 180 L390 180 L390 260 L130 260 Z", "fill": "#ECEFF1" },
+      { "d": "M150 290 H370 V320 H150 Z", "fill": "#CFD8DC" },
+      { "d": "M160 340 H360 V370 H160 Z", "fill": "#90A4AE" }
+    ]
+  },
+  "phonograph": {
+    "label": "WAX PHONOGRAPH",
+    "kind": "object",
+    "w": 380,
+    "paths": [
+      { "d": "M100 300 H420 V380 H100 Z", "fill": "#4E342E" },
+      { "d": "M180 220 H340 V300 H180 Z", "fill": "#D7CCC8" },
+      { "d": "M240 220 L400 120 L420 180 Z", "fill": "#FFB300" }
+    ]
+  }
+}

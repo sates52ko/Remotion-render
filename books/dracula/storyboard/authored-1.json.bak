@@ -1,0 +1,1305 @@
+[
+  {
+    "i": 0,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "deed"
+        ]
+      },
+      "events": [
+        {
+          "on": "slides",
+          "do": "grow",
+          "who": "deed",
+          "to": 1.2
+        }
+      ]
+    },
+    "explainedBy": "The parchment property deed slides forward onto center stage.",
+    "noVisual": null
+  },
+  {
+    "i": 1,
+    "told": {
+      "events": [
+        {
+          "on": "Transennsylvania",
+          "do": "enter",
+          "who": "transylvania"
+        },
+        {
+          "on": "shadows",
+          "do": "dim",
+          "who": [
+            "transylvania",
+            "deed"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Transylvania enters beside the deed and the stage dims into flickering shadows.",
+    "noVisual": null
+  },
+  {
+    "i": 2,
+    "concept": "deed",
+    "diagram": null,
+    "callout": {
+      "text": "SLIDES TOWARD A HAND",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The parchment deed awaits the unseen hand on the table.",
+    "noVisual": "Wolves howling outside and an unnamed disembodied hand resting on the table cannot be drawn without revealing Count Dracula early.",
+    "storyboard": {
+      "claim": "The deed slides toward an unknown hand on the table while wolves howl outside.",
+      "concreteVisual": "The parchment deed icon alone in a shadowy room.",
+      "onScreenText": "SLIDES TOWARD A HAND",
+      "relationToPrevious": "Transitions from the dim Transylvanian castle atmosphere to focus on the deed reaching the hand.",
+      "addedInformation": "Isolates the legal document as the object moving toward the unseen buyer."
+    }
+  },
+  {
+    "i": 3,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HAIR ON THE PALM",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "silhouette",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "blank",
+    "action": "reach",
+    "explainedBy": "A dark silhouette reaches out to represent the unnatural hand waiting on the table.",
+    "noVisual": "Squat fingers, sharply pointed nails, and thick hair growing in the center of the palm cannot be drawn by the character rig.",
+    "storyboard": {
+      "claim": "The hand waiting on the table has pointed nails and hair in the palm.",
+      "concreteVisual": "A dark silhouette of Dracula reaching out a hand in a dim room.",
+      "onScreenText": "HAIR ON THE PALM",
+      "relationToPrevious": "Shifts from the sliding deed to the monstrous hand reaching for it.",
+      "addedInformation": "Conceals Dracula's identity in silhouette until the title reveal while emphasizing the reaching hand."
+    }
+  },
+  {
+    "i": 4,
+    "told": {
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "dracula",
+          "deed"
+        ]
+      },
+      "events": [
+        {
+          "on": "Dracula",
+          "do": "title",
+          "text": "DRACULA BY BRAM STOKER"
+        },
+        {
+          "on": "pen",
+          "do": "act",
+          "who": "dracula",
+          "verb": "write",
+          "target": "deed"
+        }
+      ]
+    },
+    "explainedBy": "Dracula signs the deed in a flow stage as the title DRACULA BY BRAM STOKER appears.",
+    "noVisual": null
+  },
+  {
+    "i": 5,
+    "told": {
+      "events": [
+        {
+          "on": "signature",
+          "do": "grow",
+          "who": "deed",
+          "to": 1.2
+        },
+        {
+          "on": "threat",
+          "do": "change",
+          "who": "dracula",
+          "look": "smirk",
+          "action": "point"
+        },
+        {
+          "on": "misreading",
+          "do": "stamp",
+          "who": "deed",
+          "text": "MISREAD"
+        }
+      ]
+    },
+    "explainedBy": "Dracula points smugly as the signed deed is stamped to show we have misread the invasion.",
+    "noVisual": null
+  },
+  {
+    "i": 6,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "YOU PICTURE",
+        "claim": "Dracula is beaten by faith",
+        "inputs": [
+          "Fangs and bats",
+          "Rolling fog",
+          "Moonlit crosses"
+        ],
+        "hub": "OLD STORY",
+        "output": "HOW HE FALLS",
+        "verdict": "BEATEN BY FILING",
+        "reason": "Not beaten by faith or courage",
+        "truth": "Every clue is a document",
+        "cues": {
+          "links": "fangs",
+          "result": "moonlight"
+        }
+      }
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The familiar horror imagery of fangs, fog, and crosses builds the standard view of how Dracula is defeated.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "People picture fangs, bats, rolling fog, and crosses held up in moonlight.",
+      "concreteVisual": "A refute diagram building the standard claim from three inputs into the old story hub.",
+      "onScreenText": "YOU PICTURE: FANGS AND BATS, ROLLING FOG, MOONLIT CROSSES -> OLD STORY -> HOW HE FALLS",
+      "relationToPrevious": "Leaves the signed deed to map the conventional horror reading that is about to be overturned.",
+      "addedInformation": "Structures the folkloric tropes as a causal claim before the thesis rejects it."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "YOU PICTURE",
+        "claim": "Dracula is beaten by faith",
+        "inputs": [
+          "Fangs and bats",
+          "Rolling fog",
+          "Moonlit crosses"
+        ],
+        "hub": "OLD STORY",
+        "output": "HOW HE FALLS",
+        "verdict": "BEATEN BY FILING",
+        "reason": "Not beaten by faith or courage",
+        "truth": "Every clue is a document",
+        "cues": {
+          "doubt": "But",
+          "rejected": "not beaten",
+          "reason": "faith or courage",
+          "truth": "filing"
+        }
+      }
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The refute diagram rejects the faith-and-courage myth on the spoken denial and replaces it with filing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula is not beaten by faith or courage, but by filing.",
+      "concreteVisual": "The refute diagram greys out the myth, stamps BEATEN BY FILING, and reveals the document model.",
+      "onScreenText": "BEATEN BY FILING / NOT BEATEN BY FAITH OR COURAGE / EVERY CLUE IS A DOCUMENT",
+      "relationToPrevious": "Continues the refute diagram from beat 6 to execute the rejection and replacement.",
+      "addedInformation": "Pins the exact transition from the conventional myth to the filing thesis onto the spoken words."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "YOU PICTURE",
+        "claim": "Dracula is beaten by faith",
+        "inputs": [
+          "Fangs and bats",
+          "Rolling fog",
+          "Moonlit crosses"
+        ],
+        "hub": "OLD STORY",
+        "output": "HOW HE FALLS",
+        "verdict": "BEATEN BY FILING",
+        "reason": "Not beaten by faith or courage",
+        "truth": "Every clue is a document",
+        "cues": {
+          "run": [
+            "diary",
+            "bill",
+            "telegram"
+          ]
+        }
+      }
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The spotlight hops across the three slots as the narrator cites diaries, bills, and telegrams as the decisive archive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Every single clue that kills him is a document—diary, bill, and telegram.",
+      "concreteVisual": "The refute diagram runs its spotlight from slot to slot on diary, bill, and telegram.",
+      "onScreenText": "EVERY CLUE IS A DOCUMENT",
+      "relationToPrevious": "Continues the refute diagram from beat 7 to walk through the documentary evidence.",
+      "addedInformation": "Synchronizes the three evidence types with the three moving spotlight hops."
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FACED THIS HORROR",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "helsing",
+      "mina"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Van Helsing and Mina stand worried together as the second host argues for the human struggle against the horror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The second host rejects the paperwork premise in favor of the men and women who faced the horror.",
+      "concreteVisual": "Van Helsing and Mina standing together in a room with worried expressions.",
+      "onScreenText": "FACED THIS HORROR",
+      "relationToPrevious": "Cuts from the analytical diagram back to the characters representing the human struggle.",
+      "addedInformation": "weak: characters standing worried illustrate who faced the horror, while the host's rejection is carried by tone."
+    }
+  },
+  {
+    "i": 10,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "CRUCIFIXES AND STAKES",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "helsing",
+      "mina"
+    ],
+    "expression": "angry",
+    "action": "reach",
+    "partnerExpression": "angry",
+    "partnerAction": "reach",
+    "continue": true,
+    "explainedBy": "Van Helsing and Mina brace defiantly beside a shield icon representing their traditional defenses.",
+    "noVisual": "Crucifixes and sharpened wooden stakes are not in the icon or prop vocabulary; the shield concept icon stands for their defense.",
+    "storyboard": {
+      "claim": "They won the day with crucifixes, sharpened stakes, and human resolve.",
+      "concreteVisual": "Van Helsing and Mina reaching forward angrily beside a shield icon in the room.",
+      "onScreenText": "CRUCIFIXES AND STAKES",
+      "relationToPrevious": "Continues the two-person stage from beat 9, shifting from worry to active defiance.",
+      "addedInformation": "Shows active resistance through paired angry gestures and the protective shield motif."
+    }
+  },
+  {
+    "i": 11,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "PAPERWORK DOES NOT KILL",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "A low-angle smirking Dracula beside a war icon embodies the skeptic's view of an invincible warlord.",
+    "noVisual": "Commanding the children of the night and paperwork failing to stop him cannot be drawn literally; the low-angle figure and war icon convey the warlord claim.",
+    "storyboard": {
+      "claim": "Administrative paperwork does not kill a centuries-old warlord commanding the night.",
+      "concreteVisual": "Low-angle shot of Dracula smirking beside a war icon.",
+      "onScreenText": "PAPERWORK DOES NOT KILL",
+      "relationToPrevious": "Shifts from the defenders to the towering warlord the skeptic claims paperwork cannot stop.",
+      "addedInformation": "Uses low-angle framing and a smirk to visualize Dracula's perceived martial superiority."
+    }
+  },
+  {
+    "i": 12,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "deed",
+          "carfax"
+        ]
+      },
+      "events": [
+        {
+          "on": "Exhibit",
+          "do": "title",
+          "text": "THE DEED TO CARFAX"
+        },
+        {
+          "on": "deed",
+          "do": "grow",
+          "who": "deed",
+          "to": 1.2
+        }
+      ]
+    },
+    "explainedBy": "Exhibit one puts the Carfax deed and Carfax estate side by side as the deed enlarges for scrutiny.",
+    "noVisual": null
+  },
+  {
+    "i": 13,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "jonathan",
+            "transylvania"
+          ]
+        },
+        {
+          "on": "solicitor",
+          "do": "label",
+          "who": "jonathan",
+          "text": "English solicitor"
+        },
+        {
+          "on": "sits",
+          "do": "change",
+          "who": "jonathan",
+          "look": "worried",
+          "action": "sit"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan Harker sits worried in Transylvania in early May.",
+    "noVisual": null
+  },
+  {
+    "i": 14,
+    "told": {
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "transylvania",
+          "jonathan"
+        ]
+      },
+      "events": [
+        {
+          "on": "journey",
+          "do": "change",
+          "who": "jonathan",
+          "action": "walk",
+          "look": "afraid"
+        },
+        {
+          "on": "isolated",
+          "do": "label",
+          "who": "transylvania",
+          "text": "CARPATHIAN MOUNTAINS"
+        },
+        {
+          "on": "civilization",
+          "do": "dim",
+          "who": [
+            "transylvania"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Jonathan walks afraid on a terrifying journey through the Carpathian Mountains in total isolation.",
+    "noVisual": null
+  },
+  {
+    "i": 15,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "jonathan",
+            "deed",
+            "dracula"
+          ]
+        },
+        {
+          "on": "lays",
+          "do": "change",
+          "who": "jonathan",
+          "look": "worried",
+          "action": "offer"
+        },
+        {
+          "on": "signs",
+          "do": "act",
+          "who": "dracula",
+          "verb": "write",
+          "target": "deed"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan presents the Carfax deed and Count Dracula sits and signs it.",
+    "noVisual": null
+  },
+  {
+    "i": 16,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "dracula",
+            "deed",
+            "london"
+          ]
+        },
+        {
+          "on": "signature",
+          "do": "change",
+          "who": "dracula",
+          "look": "smirk",
+          "action": "sign"
+        },
+        {
+          "on": "signature",
+          "do": "together",
+          "who": [
+            "dracula",
+            "deed"
+          ]
+        },
+        {
+          "on": "signature",
+          "do": "title",
+          "text": "FIRST ACT IS A SIGNATURE"
+        }
+      ]
+    },
+    "explainedBy": "Dracula moves to the deed and signs it beside London, marking his first English act as a signature.",
+    "noVisual": null
+  },
+  {
+    "i": 17,
+    "told": {
+      "events": [
+        {
+          "on": "enters",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        },
+        {
+          "on": "property law",
+          "do": "label",
+          "who": "deed",
+          "text": "Property law"
+        },
+        {
+          "on": "ignoring",
+          "do": "change",
+          "who": "dracula",
+          "look": "angry",
+          "action": "point"
+        },
+        {
+          "on": "entity",
+          "do": "grow",
+          "who": "dracula",
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Dracula advances toward London through the property deed, then grows angrily to emphasize the entity holding the pen.",
+    "noVisual": null
+  },
+  {
+    "i": 18,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "dracula",
+            "deed"
+          ]
+        },
+        {
+          "on": "meaningless",
+          "do": "dim",
+          "who": [
+            "deed"
+          ]
+        },
+        {
+          "on": "strength",
+          "do": "grow",
+          "who": "dracula",
+          "to": 1.3
+        },
+        {
+          "on": "strength",
+          "do": "change",
+          "who": "dracula",
+          "look": "angry",
+          "action": "reach"
+        }
+      ]
+    },
+    "explainedBy": "The deed dims as a meaningless formality while Dracula looms larger in physical strength.",
+    "noVisual": null
+  },
+  {
+    "i": 19,
+    "diagram": null,
+    "callout": {
+      "text": "CLIMB THE OUTER WALLS",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "dracula",
+      "jonathan"
+    ],
+    "explainedBy": "Jonathan watches in terror as Dracula scales the sheer outer castle wall.",
+    "noVisual": "Climbing face down along sheer outer castle walls is outside the character rig's pose vocabulary.",
+    "storyboard": {
+      "claim": "Harker later watches the creature climb face down the sheer outer walls of his castle.",
+      "concreteVisual": "Jonathan watches in horror as Dracula climbs the castle wall outside.",
+      "onScreenText": "CLIMB THE OUTER WALLS",
+      "relationToPrevious": "Leaves the legal stage to visualize Harker's terror at Dracula's inhuman physical power.",
+      "addedInformation": "Pairs Dracula's predatory reach with Jonathan's fearful reaction."
+    },
+    "told": {
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "jonathan",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "flow",
+          "who": [
+            "jonathan",
+            "dracula"
+          ]
+        },
+        {
+          "on": "watches",
+          "do": "change",
+          "who": "jonathan",
+          "look": "afraid",
+          "action": "slump"
+        },
+        {
+          "on": "climb",
+          "do": "change",
+          "who": "dracula",
+          "look": "angry",
+          "action": "falling"
+        },
+        {
+          "on": "climb",
+          "do": "label",
+          "who": "dracula",
+          "text": "DRACULA CLIMBS FACE DOWN"
+        }
+      ]
+    }
+  },
+  {
+    "i": 20,
+    "concept": "deed",
+    "diagram": null,
+    "callout": {
+      "text": "CONTRACT MEANS NOTHING",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [
+      "dracula",
+      "jonathan"
+    ],
+    "expression": "smirk",
+    "action": "reach",
+    "partnerExpression": "afraid",
+    "partnerAction": "slump",
+    "continue": true,
+    "explainedBy": "Dracula smirks beside the deed icon while Jonathan cowers, illustrating the claim that a contract means nothing to him.",
+    "noVisual": "Crawling over a thousand-foot abyss with a cloak spreading like black wings cannot be drawn by the rig.",
+    "storyboard": {
+      "claim": "A legal contract means nothing to a supernatural terror crawling over an abyss.",
+      "concreteVisual": "Dracula smirking and reaching beside the deed icon while Jonathan remains slumped in fear.",
+      "onScreenText": "CONTRACT MEANS NOTHING",
+      "relationToPrevious": "Continues beat 19, bringing the deed icon into the frame to contrast it with Dracula's terror.",
+      "addedInformation": "Juxtaposes the parchment deed directly against Dracula's mocking smirk."
+    }
+  },
+  {
+    "i": 21,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "dracula",
+          "deed",
+          "jonathan"
+        ]
+      },
+      "events": [
+        {
+          "on": "signs",
+          "do": "change",
+          "who": "dracula",
+          "look": "smirk",
+          "action": "sign"
+        },
+        {
+          "on": "sitting",
+          "do": "change",
+          "who": "jonathan",
+          "look": "neutral",
+          "action": "sit"
+        },
+        {
+          "on": "commerce",
+          "do": "stamp",
+          "who": "deed",
+          "text": "JUST A SHOW"
+        }
+      ]
+    },
+    "explainedBy": "Dracula smirks and signs the deed while Jonathan sits across from him, stamping the transaction as a mere show.",
+    "noVisual": null
+  },
+  {
+    "i": 22,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "jonathan",
+            "carfax"
+          ]
+        },
+        {
+          "on": "notes",
+          "do": "change",
+          "who": "jonathan",
+          "look": "worried",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "layout",
+          "do": "label",
+          "who": "carfax",
+          "text": "Physical property layout"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan holds his journal notes beside the Carfax estate to introduce its physical layout.",
+    "noVisual": null
+  },
+  {
+    "i": 23,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "solo",
+          "who": [
+            "carfax"
+          ]
+        },
+        {
+          "on": "20 acres",
+          "do": "label",
+          "who": "carfax",
+          "text": "20 acres"
+        },
+        {
+          "on": "surrounded",
+          "do": "world",
+          "who": [
+            "carfax"
+          ]
+        },
+        {
+          "on": "stone wall",
+          "do": "label",
+          "who": "carfax",
+          "text": "Ancient stone wall"
+        }
+      ]
+    },
+    "explainedBy": "Carfax stands enclosed inside its own walled boundary with its 20-acre stone wall labeled.",
+    "noVisual": null
+  },
+  {
+    "i": 24,
+    "told": {
+      "events": [
+        {
+          "on": "gloomy",
+          "do": "dim",
+          "who": [
+            "carfax"
+          ]
+        },
+        {
+          "on": "chapel",
+          "do": "label",
+          "who": "carfax",
+          "text": "Old ruined chapel"
+        },
+        {
+          "on": "crucial",
+          "do": "grow",
+          "who": "carfax",
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Carfax dims into gloom, notes its old ruined chapel, and grows to mark its crucial role.",
+    "noVisual": null
+  },
+  {
+    "i": 25,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "restore",
+          "who": [
+            "carfax"
+          ]
+        },
+        {
+          "on": "He",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "hide",
+          "do": "act",
+          "who": "dracula",
+          "verb": "hide",
+          "target": "carfax"
+        },
+        {
+          "on": "50 boxes",
+          "do": "enter",
+          "who": "earthbox"
+        },
+        {
+          "on": "50 boxes",
+          "do": "label",
+          "who": "earthbox",
+          "text": "50 earth boxes"
+        }
+      ]
+    },
+    "explainedBy": "Dracula hides behind Carfax as the Transylvanian earth box enters beside him.",
+    "noVisual": null
+  },
+  {
+    "i": 26,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "flow",
+          "who": [
+            "deed",
+            "carfax",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "fails",
+          "do": "cross",
+          "who": "deed"
+        },
+        {
+          "on": "fails",
+          "do": "dim",
+          "who": [
+            "carfax",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "fails",
+          "do": "label",
+          "who": "earthbox",
+          "text": "COLLAPSE WITHOUT DEED"
+        }
+      ]
+    },
+    "explainedBy": "When the deed is crossed out and fails, Carfax and the earth boxes dim and collapse without the contract.",
+    "noVisual": null
+  },
+  {
+    "i": 27,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "dracula",
+            "carfax"
+          ]
+        },
+        {
+          "on": "secures",
+          "do": "change",
+          "who": "dracula",
+          "look": "smirk",
+          "action": "hold",
+          "holds": "deed"
+        },
+        {
+          "on": "buys",
+          "do": "coins",
+          "who": "dracula"
+        },
+        {
+          "on": "buys",
+          "do": "stamp",
+          "who": "carfax",
+          "text": "SOLD"
+        }
+      ]
+    },
+    "explainedBy": "Dracula holds the deed with coins as Carfax is stamped SOLD.",
+    "noVisual": null
+  },
+  {
+    "i": 28,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "flow",
+          "who": [
+            "deed",
+            "carfax",
+            "london"
+          ]
+        },
+        {
+          "on": "paper",
+          "do": "grow",
+          "who": "deed",
+          "to": 1.2
+        },
+        {
+          "on": "secured",
+          "do": "stamp",
+          "who": "carfax",
+          "text": "SECURED"
+        },
+        {
+          "on": "legally",
+          "do": "title",
+          "text": "SECURED ON PAPER"
+        }
+      ]
+    },
+    "explainedBy": "The flow from deed through Carfax to London locks in as the deed grows and Carfax is stamped SECURED.",
+    "noVisual": null
+  },
+  {
+    "i": 29,
+    "concept": "deed",
+    "diagram": null,
+    "callout": {
+      "text": "CAN A LEASE STOP HIM",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "reach",
+    "explainedBy": "An angry Dracula gesturing beside the deed poses the doubt of whether a lease can restrain a supernatural predator.",
+    "noVisual": "Controlling howling mountain wolves with a wave of the hand cannot be drawn; Dracula reaching beside the deed carries the contrast.",
+    "storyboard": {
+      "claim": "A lingering doubt asks if a lease can stop a creature who commands wolves.",
+      "concreteVisual": "Low-angle Dracula reaching angrily beside the parchment deed icon in a forest.",
+      "onScreenText": "CAN A LEASE STOP HIM",
+      "relationToPrevious": "Steps away from the legal flow to voice the skeptic's lingering doubt.",
+      "addedInformation": "Contrasts the fragile paper lease directly against Dracula's threatening gesture."
+    }
+  },
+  {
+    "i": 30,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "atlas"
+        ]
+      },
+      "events": [
+        {
+          "on": "Exhibit two",
+          "do": "title",
+          "text": "THE ATLAS WITH THREE RINGS"
+        },
+        {
+          "on": "atlas",
+          "do": "grow",
+          "who": "atlas",
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Exhibit two introduces the open atlas with three rings, enlarging it at center stage.",
+    "noVisual": null
+  },
+  {
+    "i": 31,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "jonathan",
+            "transylvania"
+          ]
+        },
+        {
+          "on": "library",
+          "do": "title",
+          "text": "THE CASTLE LIBRARY"
+        },
+        {
+          "on": "wanders",
+          "do": "change",
+          "who": "jonathan",
+          "look": "worried",
+          "action": "walk"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan walks into the Transylvanian castle library.",
+    "noVisual": null
+  },
+  {
+    "i": 32,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "jonathan",
+            "atlas"
+          ]
+        },
+        {
+          "on": "finds",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "point",
+          "target": "atlas"
+        },
+        {
+          "on": "atlas",
+          "do": "grow",
+          "who": "atlas",
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Jonathan points to the open English atlas he discovers on the table.",
+    "noVisual": null
+  },
+  {
+    "i": 33,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "atlas",
+            "london",
+            "whitby"
+          ]
+        },
+        {
+          "on": "three rings",
+          "do": "grow",
+          "who": "atlas",
+          "to": 1.2
+        },
+        {
+          "on": "London",
+          "do": "label",
+          "who": "london",
+          "text": "East side"
+        },
+        {
+          "on": "Whitby",
+          "do": "label",
+          "who": "whitby",
+          "text": "Yorkshire"
+        }
+      ]
+    },
+    "explainedBy": "The ringed atlas appears alongside London and Whitby as each marked location is named.",
+    "noVisual": null
+  },
+  {
+    "i": 34,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "atlas",
+            "timetable"
+          ]
+        },
+        {
+          "on": "beside",
+          "do": "together",
+          "who": [
+            "atlas",
+            "timetable"
+          ]
+        },
+        {
+          "on": "railway guide",
+          "do": "grow",
+          "who": "timetable",
+          "to": 1.2
+        }
+      ]
+    },
+    "explainedBy": "Bradshaw's railway timetable joins right beside the atlas and grows in focus.",
+    "noVisual": null
+  },
+  {
+    "i": 35,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "dracula",
+            "atlas",
+            "timetable"
+          ]
+        },
+        {
+          "on": "clerk",
+          "do": "act",
+          "who": "dracula",
+          "verb": "read",
+          "target": "atlas"
+        },
+        {
+          "on": "clerk",
+          "do": "label",
+          "who": "dracula",
+          "text": "Meticulous clerk"
+        }
+      ]
+    },
+    "explainedBy": "Dracula reads the atlas beside the timetable as he is labeled a meticulous clerk.",
+    "noVisual": null
+  },
+  {
+    "i": 36,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "dracula",
+            "timetable",
+            "london"
+          ]
+        },
+        {
+          "on": "studying",
+          "do": "act",
+          "who": "dracula",
+          "verb": "read",
+          "target": "timetable"
+        },
+        {
+          "on": "against",
+          "do": "collide",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula studies the railway timetable and weaponizes British data in collision against London.",
+    "noVisual": null
+  },
+  {
+    "i": 37,
+    "told": {
+      "events": [
+        {
+          "at": 0,
+          "do": "arrange",
+          "layout": "flow",
+          "who": [
+            "dracula",
+            "atlas",
+            "timetable",
+            "london"
+          ]
+        },
+        {
+          "on": "plotting",
+          "do": "change",
+          "who": "dracula",
+          "look": "smirk",
+          "action": "point"
+        },
+        {
+          "on": "logistical network",
+          "do": "title",
+          "text": "A LOGISTICAL NETWORK"
+        },
+        {
+          "on": "distances",
+          "do": "label",
+          "who": "atlas",
+          "text": "Calculating distances"
+        },
+        {
+          "on": "transit times",
+          "do": "label",
+          "who": "timetable",
+          "text": "Transit times"
+        }
+      ]
+    },
+    "explainedBy": "Dracula points along a flow connecting the atlas, timetable, and London to plot his logistical network.",
+    "noVisual": null
+  },
+  {
+    "i": 38,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHALLENGE THAT INTERPRETATION",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "A close-up of Dracula's angry face anchors the host's challenge to consider who they are dealing with.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The second host challenges the clerk interpretation and asks who we are dealing with.",
+      "concreteVisual": "Close-up of Count Dracula glaring angrily.",
+      "onScreenText": "CHALLENGE THAT INTERPRETATION",
+      "relationToPrevious": "Cuts from Dracula's logistical flow chart to a stark close-up of his menacing face.",
+      "addedInformation": "Refocuses attention on Dracula's terrifying nature rather than his maps."
+    }
+  },
+  {
+    "i": 39,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "CENTURIES OLD WARLORD",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "A low-angle Dracula beside a war icon illustrates his identity as a centuries-old warlord.",
+    "noVisual": "Historical battles against the Turks across the Danube are outside the vocabulary; low-angle Dracula and the war icon convey the warlord identity.",
+    "storyboard": {
+      "claim": "Dracula is a centuries-old Szekely warlord who fought the Turks across the Danube.",
+      "concreteVisual": "Low-angle shot of an angry Dracula standing beside the war icon.",
+      "onScreenText": "CENTURIES OLD WARLORD",
+      "relationToPrevious": "Pulls back from the close-up to show Dracula's warlord stature with the war emblem.",
+      "addedInformation": "Pairs the martial war icon with low-angle framing to emphasize his ancient battlefield pedigree."
+    }
+  }
+]

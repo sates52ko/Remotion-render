@@ -1,0 +1,95 @@
+[
+ {
+  "id": "b001",
+  "narration": "the hair on the palms always gets me. It's so visceral. And then a pen scratches across the paper. Dracula by Bram Stoker.",
+  "onScreen": {
+   "stage": "flow: dracula, deed",
+   "happens": [
+    "title \"DRACULA BY BRAM STOKER\"",
+    "act dracula"
+   ]
+  },
+  "viewerGuess": "The narrator introduces Dracula by Bram Stoker as Dracula takes action involving a deed."
+ },
+ {
+  "id": "b002",
+  "narration": "just a terrifying journey through the Carpathian Mountains. Right. He's completely isolated. Exactly. He is miles from anything resembling modern civilization.",
+  "onScreen": {
+   "happens": [
+    "arrange transylvania and jonathan",
+    "change jonathan",
+    "dim transylvania",
+    "label jonathan \"TRAPPED INSIDE\""
+   ]
+  },
+  "viewerGuess": "Jonathan changes while in Transylvania and ends up trapped inside."
+ },
+ {
+  "id": "b003",
+  "narration": "He's strong. Strong. This is a creature who Harker later watches climb face down the sheer outer walls of his castle. Oh, that scene is wild, right?",
+  "onScreen": {
+   "stage": "row: transylvania, jonathan",
+   "happens": [
+    "arrange transylvania and jonathan",
+    "change jonathan",
+    "label transylvania \"SCALING OUTER WALL\""
+   ]
+  },
+  "viewerGuess": "Jonathan is changing while scaling the outer wall of Transylvania."
+ },
+ {
+  "id": "b004",
+  "narration": "this tactical beach head, his entire invasion fails before he even boards a Okay, I'll give you that. The physical geography of the estate is certainly paramount to his survival.",
+  "onScreen": {
+   "happens": [
+    "arrange deed and carfax and earthbox",
+    "cross deed",
+    "dim carfax and earthbox",
+    "label earthbox \"COLLAPSE WITHOUT DEED\""
+   ]
+  },
+  "viewerGuess": "Crossing out the deed leaves Carfax and the earthbox dimmed and facing collapse without it."
+ },
+ {
+  "id": "b005",
+  "narration": "He lunges for Harker's throat with terrifying speed. His hands clawing like an animal. But he doesn't get it. No, because his hand touches the string of beads holding Harker's crucifix. The count recoils",
+  "onScreen": {
+   "happens": [
+    "change dracula",
+    "change jonathan",
+    "burst dracula",
+    "apart dracula and jonathan",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "Dracula and Jonathan both change as Dracula bursts and separates from Jonathan."
+ },
+ {
+  "id": "b006",
+  "narration": "He pushes her face down onto his bleeding, torn open chest, forcing her to drink his blood. While Jonathan is right there, Jonathan lies beside them on the bed, trapped in a heavy, unnatural stuper.",
+  "onScreen": {
+   "stage": "flow: dracula, mina",
+   "happens": [
+    "act dracula",
+    "enter jonathan",
+    "change jonathan",
+    "dim jonathan",
+    "label mina \"FORCED BAPTISM OF BLOOD\""
+   ]
+  },
+  "viewerGuess": "Dracula subjects Mina to a forced baptism of blood while Jonathan enters, changes, and dims into the background."
+ },
+ {
+  "id": "b007",
+  "narration": "A fastoving cart races through the drifting snow driven by Sagani armed with rifles, racing against the sun. Inside the cart is the final wooden box.",
+  "onScreen": {
+   "stage": "flow: earthbox, dracula",
+   "happens": [
+    "shake earthbox",
+    "change dracula",
+    "label earthbox \"INSIDE FINAL BOX\""
+   ]
+  },
+  "viewerGuess": "The earthbox shakes as Dracula transforms inside the final box."
+ }
+]

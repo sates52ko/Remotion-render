@@ -1,0 +1,21 @@
+[
+ {
+  "id": "b001",
+  "stage": "flow: jonathan, dracula",
+  "happens": [
+   "arrange jonathan and dracula",
+   "change jonathan",
+   "change dracula",
+   "label dracula \"DRACULA CLIMBS FACE DOWN\""
+  ]
+ },
+ {
+  "id": "b002",
+  "stage": "solo: earthbox",
+  "happens": [
+   "arrange earthbox",
+   "shake earthbox",
+   "label earthbox \"DRACULA CONCEALED INSIDE\""
+  ]
+ }
+]

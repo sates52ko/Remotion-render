@@ -1,0 +1,19 @@
+[
+ {
+  "id": "b001",
+  "happens": [
+   "enter atlas",
+   "take dracula the atlas",
+   "dim dracula and atlas"
+  ]
+ },
+ {
+  "id": "b002",
+  "stage": "row: quincey, jonathan, dracula",
+  "happens": [
+   "change quincey",
+   "act jonathan",
+   "label dracula \"SLASHES THE THROAT\""
+  ]
+ }
+]

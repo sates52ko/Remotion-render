@@ -1,0 +1,25 @@
+{
+  "schema": "stills/1",
+  "name": "cast sheet dracula",
+  "composition": "Antidote-lab",
+  "entry": "src/index.ts",
+  "silent": true,
+  "gl": "default",
+  "shards": 1,
+  "jobs": [
+    {
+      "id": "cast",
+      "config": "configs/cast.json",
+      "frames": [
+        45,
+        105,
+        165,
+        225,
+        285,
+        345,
+        405,
+        465
+      ]
+    }
+  ]
+}

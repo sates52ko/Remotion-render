@@ -1,0 +1,395 @@
+{
+  "date": "2026-11-19T08:13:45.837Z",
+  "n": 205,
+  "total": 205,
+  "sources": [
+    "readcheck",
+    "recheck-1",
+    "recheck-2",
+    "recheck-3",
+    "recheck-4",
+    "recheck-5",
+    "recheck-6",
+    "recheck-7",
+    "recheck-8",
+    "recheck-9"
+  ],
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "dracula-prep-d0e6e4beafb4",
+    "folders": {
+      "readcheck": {
+        "run": "dracula-prep-d0e6e4beafb4",
+        "evidenceSha256": "c724ad14f10664db701300cf52c0f81f812f349ec39a873ac2b18e64ad54bd35"
+      },
+      "recheck-1": {
+        "run": "dracula-prep-da8b558e4448",
+        "evidenceSha256": "dbe00978c990919cd85083b7f203dd4450f51412244ab2fb9a6c3e2016ac55ed"
+      },
+      "recheck-2": {
+        "run": "dracula-prep-b03b77403fae",
+        "evidenceSha256": "23fa1aabfd1c66d269562f1bfd292bc872dd7fe915f065cc39cf35b253b95e57"
+      },
+      "recheck-3": {
+        "run": "dracula-prep-b6ed1804f0ae",
+        "evidenceSha256": "c5e6ed2e31f78bba292be0de4e21c1c1d830fb5043325f6b59c9ba48afec2dde"
+      },
+      "recheck-4": {
+        "run": "dracula-prep-9795b0c8c9d3",
+        "evidenceSha256": "0728f21c1bef5f203d4105d22a56721455946a2aa385d24ae66e417e78b4f10c"
+      },
+      "recheck-5": {
+        "run": "dracula-prep-a53b9a41fba3",
+        "evidenceSha256": "6ec073a5a53bfd3787993d787e489adb758bdffa74d87351137d493c6a14e44f"
+      },
+      "recheck-6": {
+        "run": "dracula-prep-e22de70ed4ec",
+        "evidenceSha256": "665b7a82f10f02d4fcdcd30400a1ff160f78dec29799212e12a19a54f5044da2"
+      },
+      "recheck-7": {
+        "run": "dracula-prep-e7a1c75ebc4c",
+        "evidenceSha256": "61ead5b3cbfc2a89303e4d63a8bbb2a89bda0e4812f90f67114f5762db874d9f"
+      },
+      "recheck-8": {
+        "run": "dracula-prep-055cf7ce4216",
+        "evidenceSha256": "5df8255ef4a9b60361f53455eff30bd7bfd0060fde48e4597b17bd4e397aec9a"
+      },
+      "recheck-9": {
+        "run": "dracula-prep-ef94dfbbadd5",
+        "evidenceSha256": "29c73dc61aa3dac4eac6c77f72961c32e58fdb0b6c5f9cfdbc4d84d73c5b51f3"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 170,
+    "NEUTRAL": 35,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {
+    "diagram": 20,
+    "people": 1,
+    "words": 5,
+    "nothing-fits": 2,
+    "body": 5,
+    "icon": 2
+  },
+  "iconBlame": {},
+  "beats": [
+    {
+      "i": 1,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The board only shows Transylvania entering and dimming beside the deed without conveying the gloomy castle room or flickering lamp shadows.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 4,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "The viewer catches the book title introduction, but the acting Dracula and deed stage make it sound like Dracula is acting on a deed rather than describing hairy palms and a scratching pen.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 5,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Stamping MISREAD on the deed leaves it vague whether the deed itself or the invasion is what has been misread.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 6,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "An empty refute diagram signals a refutation is starting without showing the classic horror tropes being challenged.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 7,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The unlabeled refute diagram fails to convey the thesis that filing, not faith or courage, defeats Dracula.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 8,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The blank refute diagram gives no indication that diaries, bills, and telegrams form the evidentiary case.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 9,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The text and worried poses depict people who faced the horror but miss the speaker rejecting the paperwork premise.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "FACED THIS HORROR"
+    },
+    {
+      "i": 15,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Generic act and change tokens do not show that Jonathan presents the deed and Dracula signs it.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 18,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "The guess literally describes the deed fading and Dracula growing and transforming without conveying that the signature is a meaningless formality or that he is a monster of prodigious physical strength.",
+      "from": "recheck-9",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 31,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Pairing Jonathan with Transylvania and a generic change cue omits that he finds a library full of books about England.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 40,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Generic grow, act, and dim motions against the atlas fail to convey that Dracula is out of his depth in the nineteenth century.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 42,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Uncrowning Dracula as he shifts beside Jonathan makes him appear diminished and muddles the transition into his library speech.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 51,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Triggering a change cue on Jonathan makes him appear to react to something rather than calmly shaving.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 54,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Uncovering and growing Dracula without any cue for blood or fury leaves the cause of his reaction vague.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 60,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "A generic act cue on Jonathan gives no indication that he is writing the event down in his journal.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 62,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Acting and shaking without any diary or notes visual show panic without conveying ink as a coping mechanism.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 63,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing Jonathan working on notes omits the crucifix rebuttal and leaves unclear what his desperate entry contains.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 74,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Focusing on the fifty earth boxes and logbook misses the crucial pivot to the crucifix tied in the dead captain's hands.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 79,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "A storm cloud icon by the shore with generic text leaves out the mad mate recounting creeping up on an intangible monster at sea.",
+      "from": "readcheck",
+      "concept": "storm",
+      "callout": "EMPTY AS THE AIR"
+    },
+    {
+      "i": 91,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing Lucy versus London with London covered fails to convey her closed London bedroom at night.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 96,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Covering Lucy's chart while Seward acts leaves it ambiguous whether the chart is blind to reality or being deliberately hidden.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 109,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Shaking and dimming the garlic window without Mrs. Westenra present omits that Lucy's mother opened the window and removed the garlic.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 118,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing only Lucy dimming opposite Helsing omits the drugged maids and dead mother.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 139,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing only a change cue on Mina under October 3 omits that the men are out hunting the boxes while she sleeps in her bedroom.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 140,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Generic stance changes and Dracula entering do not convey him towering over Mina, forcing her hands back, and gripping her neck.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 159,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "The dimmed receipts labeled just a map match half the narration, but an unlabeled letter prop fails to convey placing the sacred wafer inside the box.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 167,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Generic action beside a ledger labeled flies and spiders does not convey that Renfield eats and logs those creatures.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 172,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Generic action and pose changes fail to convey Dracula brutally breaking Renfield's back and killing him.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 179,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Showing Helsing looking on as Mina and Dracula are placed together is too vague to convey hypnosis or a blood tether.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 180,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Camera focus and generic pose changes on Mina fail to convey what she hears in the trance or waking from it.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 185,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Covering the atlas while crossing out the timetable omits Mina's visions and implies the atlas itself is useless without shipping data.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 188,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Fading the atlas while Mina acts beside Dracula is too vague to convey catching him at port or that data alone cannot finish him.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 192,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The solo box and label tell the viewer Dracula is hidden inside a shaking earthbox, missing the narration's armed cart chase through the snow against the sun without contradicting it.",
+      "from": "recheck-3",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 196,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Static poses flanking enlarged knives fail to convey the physical courage of charging armed guards to kill Dracula.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 203,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Mina holding notes by the typewriter while Dracula is crossed out is too vague to convey who the real monster is or that he was not staked by believers.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    }
+  ]
+}

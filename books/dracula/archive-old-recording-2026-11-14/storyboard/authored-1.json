@@ -1,0 +1,1237 @@
+[
+  {
+    "i": 0,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "CASTLE DRACULA",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "shotOverride": "wide",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "holds": null,
+    "explainedBy": "The cold open places the final confrontation outside Castle Dracula against the freezing Transylvanian horizon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The story opens at the frozen final confrontation outside Castle Dracula at sunset.",
+      "concreteVisual": "Count Dracula standing before the looming snow-covered horizon in Transylvania as the storm rages.",
+      "onScreenText": "CASTLE DRACULA",
+      "relationToPrevious": "Cold open.",
+      "addedInformation": "Establishes the geographical and climatic extreme where the final battle takes place."
+    }
+  },
+  {
+    "i": 1,
+    "continue": true,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "VIOLENTLY ORCHESTRATED STRIKE",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "jonathan",
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "reach",
+    "holds": null,
+    "partnerExpression": "afraid",
+    "partnerAction": "slump",
+    "explainedBy": "Jonathan Harker charges forward to deliver a violent final strike against a cowering Count Dracula.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A coordinated final assault converges in the chaos of the blizzard.",
+      "concreteVisual": "Jonathan Harker lunges forward aggressively with raised hands as Count Dracula recoils and cowers against the snow.",
+      "onScreenText": "VIOLENTLY ORCHESTRATED STRIKE",
+      "relationToPrevious": "Follows beat 0; continues the frozen exterior scene as the hunters close in.",
+      "addedInformation": "Shows the hunters narrowing the distance to the vampire before the blow lands."
+    }
+  },
+  {
+    "i": 2,
+    "continue": true,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "SHEARING THROUGH THE NECK",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "jonathan",
+      "dracula"
+    ],
+    "expression": "afraid",
+    "action": "chop",
+    "holds": null,
+    "partnerExpression": "afraid",
+    "partnerAction": "slump",
+    "explainedBy": "Jonathan strikes Dracula with a heavy blade, slashing through the vampire's neck in desperate exhaustion.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Jonathan brings down a heavy blade across Dracula's neck.",
+      "concreteVisual": "Jonathan with terrified, strained face hacking down at Dracula as the vampire recoils in the snow.",
+      "onScreenText": "SHEARING THROUGH THE NECK",
+      "relationToPrevious": "Follows beat 1; the strike connects.",
+      "addedInformation": "Depicts the visceral physical violence required to break Dracula's defensive perimeter."
+    }
+  },
+  {
+    "i": 3,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DIRECTLY INTO THE HEART",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "quincey",
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "fighting",
+    "holds": null,
+    "partnerExpression": "afraid",
+    "partnerAction": "fighting",
+    "explainedBy": "Quincey Morris drives his knife home into Dracula's heart at the same moment as Jonathan's strike.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quincey Morris plunges his blade directly into Dracula's heart.",
+      "concreteVisual": "Quincey grappling fiercely with Dracula in the snow as the final thrust strikes the chest.",
+      "onScreenText": "DIRECTLY INTO THE HEART",
+      "relationToPrevious": "Continues the coordinated assault from beat 2.",
+      "addedInformation": "Shows the simultaneous second strike that breaches Dracula's heart."
+    }
+  },
+  {
+    "i": 4,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE LAST RAYS FADE",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "afraid",
+    "action": "falling",
+    "holds": null,
+    "explainedBy": "The dying sunlight fades over the snow as Count Dracula reels from the mortal wounds.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula falters as the final sunlight disappears behind the mountains.",
+      "concreteVisual": "Count Dracula falling backwards in agony as the last daylight vanishes from the jagged horizon.",
+      "onScreenText": "THE LAST RAYS FADE",
+      "relationToPrevious": "Follows beat 3; Dracula collapses after being struck in the neck and heart.",
+      "addedInformation": "Marks the exact moment of sunset when the vampire's invulnerability fails."
+    }
+  },
+  {
+    "i": 5,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CRUMBLES INTO DUST",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "blank",
+    "action": "collapsed",
+    "holds": null,
+    "explainedBy": "Dracula's physical body collapses and dissolves into dust in the snow.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The five-century-old vampire crumbles into gray dust.",
+      "concreteVisual": "Count Dracula lying collapsed on the frozen earth, his form disintegrating into ash.",
+      "onScreenText": "CRUMBLES INTO DUST",
+      "relationToPrevious": "Continues beat 4; the physical dissolution of the monster upon death.",
+      "addedInformation": "Confirms the permanent bodily destruction of the half-millennium-old entity."
+    }
+  },
+  {
+    "i": 6,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "500 YEARS OF WARFARE",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "The hosts ask how a warlord who endured five centuries of European battle could be defeated.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula survived half a millennium of military conflict across Europe.",
+      "concreteVisual": "Dracula standing with cold confidence beside a war banner motif representing centuries of military survival.",
+      "onScreenText": "500 YEARS OF WARFARE",
+      "relationToPrevious": "Transitions from the cold-open climax to the overarching analytical mystery.",
+      "addedInformation": "Frames Dracula as a seasoned military commander rather than an unthinking beast."
+    }
+  },
+  {
+    "i": 7,
+    "continue": true,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "COMMANDED HISTORIC ARMIES",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "Dracula possessed military leadership and mastery over armies and natural elements.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula commanded imperial armies against the Ottoman Empire.",
+      "concreteVisual": "Dracula gesturing authoritatively beside a military shield representing his imperial feudal reign.",
+      "onScreenText": "COMMANDED HISTORIC ARMIES",
+      "relationToPrevious": "Continues beat 6; detailing Dracula's historical resume of feudal dominance.",
+      "addedInformation": "Emphasizes that feudal force and martial power were Dracula's traditional strengths."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DESTROYED BY A SECRETARY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The central mystery is that the ancient warlord was undone by a Victorian secretary using office tools.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A Victorian secretary armed with administrative tools brought down the ancient monster.",
+      "concreteVisual": "Mina Harker standing composed in an office setting holding documentation notes.",
+      "onScreenText": "DESTROYED BY A SECRETARY",
+      "relationToPrevious": "Contrasts with beat 7's feudal armies; introduces the modern bureaucratic adversary.",
+      "addedInformation": "Presents the thematic core: modern administrative labour defeating archaic military power."
+    }
+  },
+  {
+    "i": 9,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "MODERN IMPERIAL NETWORKS",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "The real terror is an ancient predator hijacking modern London's administrative and transport systems.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The horror stems from modern imperial infrastructure being subverted.",
+      "concreteVisual": "Dracula observing a bustling modern metropolitan street backdrop representing imperial networks.",
+      "onScreenText": "MODERN IMPERIAL NETWORKS",
+      "relationToPrevious": "Reframes the nature of the threat from supernatural legend to infrastructural vulnerability.",
+      "addedInformation": "Connects Dracula's threat directly to Victorian Britain's legal and transit arteries."
+    }
+  },
+  {
+    "i": 10,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ADMINISTRATIVE WAR",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The analysis traces the conflict as an administrative war starting from Jonathan's first property ledger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The novel traces an administrative conflict fought with legal ledgers.",
+      "concreteVisual": "Jonathan Harker examining legal ledgers in an office setting as the audit begins.",
+      "onScreenText": "THE ADMINISTRATIVE WAR",
+      "relationToPrevious": "Introduces Jonathan's starting point in the bureaucratic campaign.",
+      "addedInformation": "Establishes paperwork and ledgers as the tracking mechanism of the investigation."
+    }
+  },
+  {
+    "i": 11,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "BUREAUCRATIC TECHNO THRILLER",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "The hosts define Dracula not as a gothic superstition, but as a bureaucratic techno thriller.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula operates as an early bureaucratic techno-thriller.",
+      "concreteVisual": "Dracula surrounded by leather-bound volumes and dossiers in a gothic archive.",
+      "onScreenText": "BUREAUCRATIC TECHNO THRILLER",
+      "relationToPrevious": "Contrasts the popular myth of garlic and stakes with the novel's actual genre mechanics.",
+      "addedInformation": "Establishes the intellectual framework for re-evaluating the narrative."
+    }
+  },
+  {
+    "i": 12,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "DATA COLLATION",
+        "DESTROYS TERROR"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "holds": null,
+    "explainedBy": "A causal flow showing that systematic data collation dismantles feudal terror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Data collation systematically destroys feudal terror.",
+      "concreteVisual": "A flow diagram connecting Data Collation directly to Destroys Terror.",
+      "onScreenText": "DATA COLLATION -> DESTROYS TERROR",
+      "relationToPrevious": "Summarizes the analytical thesis statement built across beats 11-12.",
+      "addedInformation": "Provides a clean structural visual of how information processing defeats the monster."
+    }
+  },
+  {
+    "i": 13,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "INTENSE INFORMATION WAR",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan",
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The conflict is staged as an information war fought with Victorian documentation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The narrative structure pits documentation technology against archaic terror.",
+      "concreteVisual": "Jonathan and Mina organizing notes and documents in their analytical workspace.",
+      "onScreenText": "INTENSE INFORMATION WAR",
+      "relationToPrevious": "Builds upon beat 12's premise by introducing the investigative alliance.",
+      "addedInformation": "Shows the human team deploying paperwork rather than weapons."
+    }
+  },
+  {
+    "i": 14,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MAPS TRACKS AND STARVES",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "Documentation technology systematically tracks and starves the vampire's movements.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Systematic information tracking isolates and starves the predator.",
+      "concreteVisual": "Mina pointing to an analytical map as tracking data converges.",
+      "onScreenText": "MAPS TRACKS AND STARVES",
+      "relationToPrevious": "Follows beat 13; details the specific tactical mechanism of information warfare.",
+      "addedInformation": "Demonstrates how analytical mapping deprives the vampire of undetected mobility."
+    }
+  },
+  {
+    "i": 15,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE FILING CABINET",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The filing cabinet and organized records become the ultimate weapon against the monster.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The central metaphor is that filing cabinets and archives slay the monster.",
+      "concreteVisual": "Mina standing beside filing drawers with organized dossiers and carbon copies.",
+      "onScreenText": "THE FILING CABINET",
+      "relationToPrevious": "Crystallizes the thematic summary of the entire opening sequence.",
+      "addedInformation": "Anchors the film's core conceptual frame in the physical reality of Victorian office storage."
+    }
+  },
+  {
+    "i": 16,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PLAYERS IN THIS WAR",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan",
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "holds": null,
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The hosts introduce the investigative team, noting they are not traditional warriors.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cast of characters defies traditional heroic warrior tropes.",
+      "concreteVisual": "The investigators seen in their everyday Victorian attire preparing for inquiry.",
+      "onScreenText": "PLAYERS IN THIS WAR",
+      "relationToPrevious": "Transitions from the thematic framing to the individual dossier reviews.",
+      "addedInformation": "Contrasts mythic heroism with professional Victorian vocations."
+    }
+  },
+  {
+    "i": 17,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "jonathan"
+        ]
+      },
+      "events": [
+        {
+          "on": "solicitor",
+          "do": "enter",
+          "who": "jonathan"
+        },
+        {
+          "on": "clerk",
+          "do": "change",
+          "who": "jonathan",
+          "action": "write"
+        },
+        {
+          "on": "estate",
+          "do": "label",
+          "who": "jonathan",
+          "text": "Real estate clerk"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan Harker is introduced as a solicitor's clerk carrying real estate ledgers.",
+    "noVisual": null
+  },
+  {
+    "i": 18,
+    "told": {
+      "events": [
+        {
+          "on": "deeds",
+          "do": "change",
+          "who": "jonathan",
+          "action": "read"
+        },
+        {
+          "on": "legal",
+          "do": "label",
+          "who": "jonathan",
+          "text": "Deeds and leases"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan's primary weapons are his legal expertise and shorthand documentation.",
+    "noVisual": null
+  },
+  {
+    "i": 19,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "mina",
+          "do": "enter",
+          "who": "mina"
+        },
+        {
+          "on": "typewriter",
+          "do": "enter",
+          "who": "typewriter"
+        },
+        {
+          "on": "analytical",
+          "do": "change",
+          "who": "mina",
+          "action": "typing"
+        }
+      ]
+    },
+    "explainedBy": "Mina Harker and her portable typewriter enter as the analytical engine of the investigation.",
+    "noVisual": null
+  },
+  {
+    "i": 20,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "typewriter",
+          "phonograph"
+        ]
+      },
+      "events": [
+        {
+          "on": "recordings",
+          "do": "enter",
+          "who": "phonograph"
+        },
+        {
+          "on": "synthesizes",
+          "do": "change",
+          "who": "mina",
+          "action": "write"
+        },
+        {
+          "on": "intelligence",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina synthesizes disparate recordings, schedules, and diaries into actionable intelligence.",
+    "noVisual": null
+  },
+  {
+    "i": 21,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "helsing"
+        ]
+      },
+      "events": [
+        {
+          "on": "helsing",
+          "do": "enter",
+          "who": "helsing"
+        },
+        {
+          "on": "heavily",
+          "do": "title",
+          "text": "Heavily Misunderstood"
+        },
+        {
+          "on": "misunderstood",
+          "do": "change",
+          "who": "helsing",
+          "action": "talk"
+        }
+      ]
+    },
+    "explainedBy": "Professor Van Helsing enters, introduced as a heavily misunderstood polymath.",
+    "noVisual": null
+  },
+  {
+    "i": 22,
+    "told": {
+      "events": [
+        {
+          "on": "eras",
+          "do": "change",
+          "who": "helsing",
+          "action": "point"
+        },
+        {
+          "on": "medicine",
+          "do": "label",
+          "who": "helsing",
+          "text": "Modern medicine"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing represents the bridge synthesizing modern medical science with ancient knowledge.",
+    "noVisual": null
+  },
+  {
+    "i": 23,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "helsing",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "crucifixes",
+          "do": "change",
+          "who": "helsing",
+          "action": "hold"
+        },
+        {
+          "on": "Dracula",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "himself",
+          "do": "apart",
+          "who": [
+            "helsing",
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Count Dracula enters opposite Van Helsing as the ultimate antagonist.",
+    "noVisual": null
+  },
+  {
+    "i": 24,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "frame",
+          "do": "title",
+          "text": "Not a Gothic Ghoul"
+        },
+        {
+          "on": "ghost",
+          "do": "cross",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "Dracula must not be viewed merely as a ghost or conventional gothic ghoul.",
+    "noVisual": null
+  },
+  {
+    "i": 25,
+    "told": {
+      "events": [
+        {
+          "on": "imperial",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "loopholes",
+          "do": "label",
+          "who": "dracula",
+          "text": "Legal loopholes"
+        }
+      ]
+    },
+    "explainedBy": "Dracula is defined as an imperial predator exploiting the legal loopholes of Victorian capitalism.",
+    "noVisual": null
+  },
+  {
+    "i": 26,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "estate",
+          "do": "enter",
+          "who": "london"
+        },
+        {
+          "on": "invader",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula invades imperial London by securing real estate through commercial channels.",
+    "noVisual": null
+  },
+  {
+    "i": 27,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "CAPITALIST PREDATOR",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "The hosts weigh whether it is fair to describe a blood-drinking monster as a capitalist predator.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula's predation parallels capitalist accumulation.",
+      "concreteVisual": "Dracula posed beside a balance scale weighing blood against capital.",
+      "onScreenText": "CAPITALIST PREDATOR",
+      "relationToPrevious": "Addresses the listener's immediate skepticism about the economic metaphor.",
+      "addedInformation": "Directs visual attention to the structural equation between life force and capital."
+    }
+  },
+  {
+    "i": 28,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "HOARDS LIFE FORCE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Dracula hoards life force in the same manner an industrialist hoards land deeds and capital.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula's consumption mirrors capitalist hoarding.",
+      "concreteVisual": "Dracula holding property deeds beside a coin motif representing predatory accumulation.",
+      "onScreenText": "HOARDS LIFE FORCE",
+      "relationToPrevious": "Deepens beat 27 by explaining the hoarding mechanism.",
+      "addedInformation": "Connects vital blood absorption to commercial accumulation of assets."
+    }
+  },
+  {
+    "i": 29,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "ABSORBS BLOOD",
+        "ACCUMULATES POWER",
+        "TOTAL MONOPOLY"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "holds": null,
+    "explainedBy": "A causal flow tracing how absorbing blood accumulates personal power into a total regional monopoly.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blood absorption creates a predatory monopoly on vital power.",
+      "concreteVisual": "A three-stage flow diagram connecting Absorbs Blood to Accumulates Power to Total Monopoly.",
+      "onScreenText": "ABSORBS BLOOD -> ACCUMULATES POWER -> TOTAL MONOPOLY",
+      "relationToPrevious": "Maps the economic causal chain stated in beat 29.",
+      "addedInformation": "Provides a precise mechanical model of Dracula's biological monopoly."
+    }
+  },
+  {
+    "i": 30,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "SWINGING THE BIGGEST SWORD",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "Dracula realizes late-nineteenth-century power is no longer decided by battlefield swords.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Feudal military swordplay is obsolete in the nineteenth century.",
+      "concreteVisual": "Dracula turning away from obsolete battlefield warfare toward modern influence.",
+      "onScreenText": "SWINGING THE BIGGEST SWORD",
+      "relationToPrevious": "Contrasts ancient military might with the emerging realities of modern power.",
+      "addedInformation": "Marks Dracula's strategic pivot from medieval conqueror to modern manipulator."
+    }
+  },
+  {
+    "i": 31,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "CONTROLS THE REAL ESTATE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "True power lies with whoever controls real estate and moves cargo through customs unnoticed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern dominance belongs to whoever controls real estate and border transit.",
+      "concreteVisual": "Dracula holding shipping manifests and real estate deeds beside a legal scale motif.",
+      "onScreenText": "CONTROLS THE REAL ESTATE",
+      "relationToPrevious": "Answers beat 30's query about where late-Victorian power actually resides.",
+      "addedInformation": "Specifies real estate title and customs clearance as the true levers of conquest."
+    }
+  },
+  {
+    "i": 32,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "transylvania",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "warlord",
+          "do": "dim",
+          "who": [
+            "transylvania"
+          ]
+        },
+        {
+          "on": "ceo",
+          "do": "grow",
+          "who": [
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula trades up from a mountain warlord in Transylvania to a shadow CEO in London.",
+    "noVisual": null
+  },
+  {
+    "i": 33,
+    "told": {
+      "events": [
+        {
+          "on": "center",
+          "do": "grow",
+          "who": [
+            "london"
+          ]
+        },
+        {
+          "on": "global",
+          "do": "label",
+          "who": "london",
+          "text": "Global economy"
+        },
+        {
+          "on": "blood",
+          "do": "label",
+          "who": "london",
+          "text": "Human blood currency"
+        }
+      ]
+    },
+    "explainedBy": "London is targeted as the center of global trade and imperial vitality Dracula seeks to tap.",
+    "noVisual": null
+  },
+  {
+    "i": 34,
+    "told": {
+      "events": [
+        {
+          "on": "integrate",
+          "do": "together",
+          "who": [
+            "transylvania",
+            "london"
+          ]
+        },
+        {
+          "on": "biting",
+          "do": "cross",
+          "who": "transylvania"
+        }
+      ]
+    },
+    "explainedBy": "Dracula cannot simply attack openly; he must legally and systematically integrate.",
+    "noVisual": null
+  },
+  {
+    "i": 35,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "transylvania",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "Picture",
+          "do": "title",
+          "text": "Two opposing forces"
+        },
+        {
+          "on": "side",
+          "do": "collide",
+          "who": [
+            "transylvania",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The hosts set up a visual juxtaposition of two opposing forces placed side by side.",
+    "noVisual": null
+  },
+  {
+    "i": 36,
+    "told": {
+      "events": [
+        {
+          "on": "ancient",
+          "do": "grow",
+          "who": [
+            "transylvania"
+          ]
+        },
+        {
+          "on": "stone",
+          "do": "label",
+          "who": "transylvania",
+          "text": "Ancient stone walls"
+        },
+        {
+          "on": "Carpathian",
+          "do": "label",
+          "who": "transylvania",
+          "text": "Carpathian mountains"
+        }
+      ]
+    },
+    "explainedBy": "The first side shows the towering, ancient stone walls of Castle Dracula in the Carpathians.",
+    "noVisual": null
+  },
+  {
+    "i": 37,
+    "told": {
+      "events": [
+        {
+          "on": "terror",
+          "do": "apart",
+          "who": [
+            "transylvania",
+            "london"
+          ]
+        },
+        {
+          "on": "guide",
+          "do": "label",
+          "who": "london",
+          "text": "Bradshaw railway guide"
+        }
+      ]
+    },
+    "explainedBy": "Resting inside that ancient castle sits an English railway timetable and London guide.",
+    "noVisual": null
+  },
+  {
+    "i": 38,
+    "told": {
+      "events": [
+        {
+          "on": "London",
+          "do": "label",
+          "who": "london",
+          "text": "London directory"
+        },
+        {
+          "on": "juxtaposition",
+          "do": "title",
+          "text": "Visual Juxtaposition"
+        },
+        {
+          "on": "brute",
+          "do": "cross",
+          "who": "transylvania"
+        }
+      ]
+    },
+    "explainedBy": "The visual juxtaposition proves Dracula's strategy relies on logistical assimilation over brute force.",
+    "noVisual": null
+  },
+  {
+    "i": 39,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "transylvania"
+        ]
+      },
+      "events": [
+        {
+          "on": "harker",
+          "do": "enter",
+          "who": "jonathan"
+        },
+        {
+          "on": "imprisonment",
+          "do": "dim",
+          "who": [
+            "jonathan"
+          ]
+        },
+        {
+          "on": "logistical",
+          "do": "title",
+          "text": "Logistical Assimilation"
+        }
+      ]
+    },
+    "explainedBy": "The focus turns to Jonathan Harker's imprisonment inside Castle Dracula.",
+    "noVisual": null
+  },
+  {
+    "i": 40,
+    "told": {
+      "events": [
+        {
+          "on": "Harker",
+          "do": "together",
+          "who": [
+            "jonathan",
+            "transylvania"
+          ]
+        },
+        {
+          "on": "estate",
+          "do": "label",
+          "who": "jonathan",
+          "text": "Real estate transaction"
+        }
+      ]
+    },
+    "explainedBy": "Harker journeys to Transylvania thinking he is completing a routine property deal.",
+    "noVisual": null
+  },
+  {
+    "i": 41,
+    "told": {
+      "events": [
+        {
+          "on": "trip",
+          "do": "title",
+          "text": "Standard Business Trip"
+        },
+        {
+          "on": "deeds",
+          "do": "change",
+          "who": "jonathan",
+          "action": "read"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan arrives armed with maps, deeds, and official legal papers.",
+    "noVisual": null
+  },
+  {
+    "i": 42,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "dracula",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "deeds",
+          "do": "together",
+          "who": [
+            "dracula",
+            "jonathan"
+          ]
+        },
+        {
+          "on": "learn",
+          "do": "change",
+          "who": "dracula",
+          "action": "read"
+        }
+      ]
+    },
+    "explainedBy": "Dracula demands contracts and leases, interrogating Harker to absorb his expertise.",
+    "noVisual": null
+  },
+  {
+    "i": 43,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "library",
+          "do": "title",
+          "text": "Castle Dracula Library"
+        },
+        {
+          "on": "directory",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "London",
+          "do": "change",
+          "who": "dracula",
+          "action": "read"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan discovers Castle Dracula's library stocked with English directories and law books.",
+    "noVisual": null
+  },
+  {
+    "i": 44,
+    "told": {
+      "events": [
+        {
+          "on": "army",
+          "do": "grow",
+          "who": [
+            "london"
+          ]
+        },
+        {
+          "on": "reference",
+          "do": "label",
+          "who": "london",
+          "text": "London reference books"
+        }
+      ]
+    },
+    "explainedBy": "The medieval castle houses an up-to-date Victorian reference archive.",
+    "noVisual": null
+  },
+  {
+    "i": 45,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "transylvania",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "monstrous",
+          "do": "dim",
+          "who": [
+            "transylvania"
+          ]
+        },
+        {
+          "on": "library",
+          "do": "grow",
+          "who": [
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Instead of a monstrous lair, Jonathan discovers a research hub targeting British infrastructure.",
+    "noVisual": null
+  }
+]

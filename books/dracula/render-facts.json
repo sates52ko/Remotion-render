@@ -1,0 +1,56 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-20T07:48:15.512Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "9dc53c68",
+      "tools": "a40a688e",
+      "pin": "9dc53c68f2c7",
+      "configHash": "dacd6719cea2763b",
+      "renderInputHash": "ef7dd50b0ee3c39b",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 275
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run5",
+          "sample": "fresh",
+          "n": 24,
+          "wrong": 0,
+          "dead": 1,
+          "adds": 19,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Operator 2026-11-20: approve render with current quality findings",
+        "covered": 23,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-20T07:48:11.227Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    }
+  ]
+}

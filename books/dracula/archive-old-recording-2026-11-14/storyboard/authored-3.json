@@ -1,0 +1,1232 @@
+[
+  {
+    "i": 79,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "MARITIME COMMERCE",
+      "style": "reveal"
+    },
+    "set": "shore",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "holds": null,
+    "explainedBy": "Dracula travels within the unmonitored blind spots of commercial maritime routes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula exploits modern commercial shipping networks rather than supernatural flight.",
+      "concreteVisual": "Count Dracula stalking along a foggy commercial shoreline at night.",
+      "onScreenText": "MARITIME COMMERCE",
+      "relationToPrevious": "Opens the chunk establishing Dracula's reliance on maritime trade seams.",
+      "addedInformation": "Reframes the gothic vampire as a covert commercial passenger."
+    }
+  },
+  {
+    "i": 80,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "PAID TO LOOK AWAY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Customs agents are bribed or complacently view the shipment as routine cargo.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Bribery and routine complacency prevent port officials from inspecting Dracula's crates.",
+      "concreteVisual": "Jonathan Harker reviewing commercial logs behind a deceptive mask motif.",
+      "onScreenText": "PAID TO LOOK AWAY",
+      "relationToPrevious": "Explains how the administrative barrier is neutralized by bribery.",
+      "addedInformation": "Demonstrates the human failure within the regulatory system."
+    }
+  },
+  {
+    "i": 81,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "LOCAL DISTRICT TAX",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": "book",
+    "explainedBy": "The octroi was a historical municipal tax on consumable goods entering a district.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An octroi officer represents municipal taxation rather than security enforcement.",
+      "concreteVisual": "Jonathan explaining the tax code while consulting legal statute books.",
+      "onScreenText": "LOCAL DISTRICT TAX",
+      "relationToPrevious": "Provides historical exposition defining the obscure octroi tax office.",
+      "addedInformation": "Clarifies that port inspections were fiscal rather than biological."
+    }
+  },
+  {
+    "i": 82,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "demeter"
+        ]
+      },
+      "events": [
+        {
+          "on": "gatekeepers",
+          "do": "title",
+          "text": "Gatekeepers of the economy"
+        },
+        {
+          "on": "Demita",
+          "do": "grow",
+          "who": "demeter"
+        }
+      ]
+    },
+    "explainedBy": "The schooner Demeter enters the jurisdiction of port gatekeepers.",
+    "noVisual": null
+  },
+  {
+    "i": 83,
+    "told": {
+      "events": [
+        {
+          "on": "cargo",
+          "do": "change",
+          "who": "demeter",
+          "action": "read"
+        },
+        {
+          "on": "tax",
+          "do": "stamp",
+          "who": "demeter",
+          "text": "INSPECTED"
+        }
+      ]
+    },
+    "explainedBy": "Customs officers board the Demeter to inspect cargo and assess local taxes.",
+    "noVisual": null
+  },
+  {
+    "i": 84,
+    "told": {
+      "events": [
+        {
+          "on": "Dracula",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "bribe",
+          "do": "coins",
+          "who": "dracula"
+        },
+        {
+          "on": "wave",
+          "do": "stamp",
+          "who": "demeter",
+          "text": "CLEARED"
+        }
+      ]
+    },
+    "explainedBy": "Dracula's agents bribe customs officials to wave the ship through without inspection.",
+    "noVisual": null
+  },
+  {
+    "i": 85,
+    "told": {
+      "events": [
+        {
+          "on": "boxes",
+          "do": "enter",
+          "who": "earthbox"
+        },
+        {
+          "on": "clay",
+          "do": "label",
+          "who": "earthbox",
+          "text": "Experimental clay"
+        },
+        {
+          "on": "order",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "PERFECT ORDER"
+        }
+      ]
+    },
+    "explainedBy": "The earth boxes remain unopened because the falsified manifest declares them experimental clay.",
+    "noVisual": null
+  },
+  {
+    "i": 86,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "TRANSIT THROUGH CUSTOMS",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "explainedBy": "Modern package tracking mirrors Dracula's exploitation of trusted transit networks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Contemporary supply chains operate on the same unquestioned transit trust as Victorian shipping.",
+      "concreteVisual": "A modern transit route visual showing passage from warehouse to door.",
+      "onScreenText": "TRANSIT THROUGH CUSTOMS",
+      "relationToPrevious": "Introduces a modern analogy to explain logistical blind spots.",
+      "addedInformation": "Bridges 19th-century customs loopholes with contemporary e-commerce delivery."
+    }
+  },
+  {
+    "i": 87,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "CUSTOMS DECLARATION",
+      "style": "box"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Dracula exploits systemic trust in documentation and customs declarations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Systemic trust in formal declarations shields illicit cargo from physical scrutiny.",
+      "concreteVisual": "Count Dracula smirking behind a protective customs shield motif.",
+      "onScreenText": "CUSTOMS DECLARATION",
+      "relationToPrevious": "Identifies the psychological trust at the root of systemic vulnerability.",
+      "addedInformation": "Shows Dracula weaponizing bureaucratic trust against the host empire."
+    }
+  },
+  {
+    "i": 88,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "STANDARD SYSTEM UPDATE",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Dracula operates like malware masquerading as an authorized system update.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The falsified invoice acts like digital malware disguised as a legitimate routine update.",
+      "concreteVisual": "Dracula presenting deceptive transit documents behind a mask symbol.",
+      "onScreenText": "STANDARD SYSTEM UPDATE",
+      "relationToPrevious": "Translates bureaucratic deception into a cybersecurity metaphor.",
+      "addedInformation": "Explains why security protocols fail to recognize the threat."
+    }
+  },
+  {
+    "i": 89,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "demeter",
+          "whitby"
+        ]
+      },
+      "events": [
+        {
+          "on": "crashes",
+          "do": "collide",
+          "who": [
+            "demeter",
+            "whitby"
+          ]
+        },
+        {
+          "on": "storm",
+          "do": "label",
+          "who": "whitby",
+          "text": "Massive storm"
+        }
+      ]
+    },
+    "explainedBy": "The Demeter crashes into the port of Whitby amid a violent storm.",
+    "noVisual": null
+  },
+  {
+    "i": 90,
+    "told": {
+      "events": [
+        {
+          "on": "dead",
+          "do": "dim",
+          "who": "demeter"
+        },
+        {
+          "on": "process",
+          "do": "title",
+          "text": "Process the cargo"
+        }
+      ]
+    },
+    "explainedBy": "Authorities treat the ghost ship not as an occult disaster but as routine cargo processing.",
+    "noVisual": null
+  },
+  {
+    "i": 91,
+    "told": {
+      "events": [
+        {
+          "on": "cargo",
+          "do": "enter",
+          "who": "earthbox"
+        },
+        {
+          "on": "consigned",
+          "do": "together",
+          "who": [
+            "earthbox",
+            "whitby"
+          ]
+        },
+        {
+          "on": "Billington",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "CONSIGNED"
+        }
+      ]
+    },
+    "explainedBy": "The cargo at Whitby is legally consigned through proper solicitor paperwork.",
+    "noVisual": null
+  },
+  {
+    "i": 92,
+    "told": {
+      "events": [
+        {
+          "on": "possession",
+          "do": "grow",
+          "who": "earthbox"
+        },
+        {
+          "on": "carriers",
+          "do": "title",
+          "text": "Transfer to carriers"
+        }
+      ]
+    },
+    "explainedBy": "Solicitors transfer the earth boxes from the ship to commercial freight carriers.",
+    "noVisual": null
+  },
+  {
+    "i": 93,
+    "told": {
+      "events": [
+        {
+          "on": "London",
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "earthbox",
+            "carfax",
+            "dracula"
+          ]
+        },
+        {
+          "on": "invasion",
+          "do": "stamp",
+          "who": "carfax",
+          "text": "DELIVERED"
+        }
+      ]
+    },
+    "explainedBy": "British carriers deliver Dracula's earth boxes straight to Carfax estate in London.",
+    "noVisual": null
+  },
+  {
+    "i": 94,
+    "told": {
+      "events": [
+        {
+          "on": "bureaucracy",
+          "do": "title",
+          "text": "Vehicle for invasion"
+        },
+        {
+          "on": "England",
+          "do": "crown",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "Victorian administrative bureaucracy carries Dracula into England without a fight.",
+    "noVisual": null
+  },
+  {
+    "i": 95,
+    "told": {
+      "events": [
+        {
+          "on": "forms",
+          "do": "label",
+          "who": "dracula",
+          "text": "Proper forms"
+        },
+        {
+          "on": "subversion",
+          "do": "dim",
+          "who": "carfax"
+        }
+      ]
+    },
+    "explainedBy": "Dracula subverts Victorian security by simply filling out the correct legal paperwork.",
+    "noVisual": null
+  },
+  {
+    "i": 96,
+    "told": {
+      "events": [
+        {
+          "on": "Predator",
+          "do": "title",
+          "text": "Delivered the predator"
+        },
+        {
+          "on": "smuggles",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        },
+        {
+          "on": "London",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Logistical blind spots deliver the predator Dracula directly into London.",
+    "noVisual": null
+  },
+  {
+    "i": 97,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "NEEDS TO CONSUME",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "walk",
+    "holds": null,
+    "explainedBy": "Once situated in England, Dracula turns from logistics to biological feeding.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Arrival in England immediately triggers Dracula's predatory metabolic appetite.",
+      "concreteVisual": "Count Dracula pacing aggressively across a dark Victorian room.",
+      "onScreenText": "NEEDS TO CONSUME",
+      "relationToPrevious": "Pivots from freight logistics to Dracula's biological imperative.",
+      "addedInformation": "Signals the onset of the personal, corporeal horror."
+    }
+  },
+  {
+    "i": 98,
+    "concept": "door",
+    "diagram": null,
+    "callout": {
+      "text": "THE HUMAN BODY",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "reach",
+    "holds": null,
+    "explainedBy": "The narrative theater of war shifts from shipping docks to the physical human body.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The battlefield shifts from international ports to intimate bodily spaces.",
+      "concreteVisual": "Dracula reaching into an ominous bedroom doorway toward a human victim.",
+      "onScreenText": "THE HUMAN BODY",
+      "relationToPrevious": "Focuses the conflict onto the individual human organism.",
+      "addedInformation": "Establishes somatic violation as the core horror of the novel."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FOUR MEN HOVERING",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "seward",
+      "helsing"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "worried",
+    "partnerAction": "think",
+    "holds": null,
+    "explainedBy": "Four muscular Victorian men frantically hover over Lucy's sickbed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Victorian patriarchy mobilizes massive physical and medical presence around Lucy.",
+      "concreteVisual": "Dr. Seward and Van Helsing hovering anxiously over an unseen sickbed.",
+      "onScreenText": "FOUR MEN HOVERING",
+      "relationToPrevious": "Visualizes the overwhelming male presence assembled to defend the patient.",
+      "addedInformation": "Dramatizes the sheer physical scale of Victorian medical intervention."
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TINY PUNCTURE MARK",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "shotOverride": "medium",
+    "cast": [
+      "lucy"
+    ],
+    "expression": "afraid",
+    "action": "lying",
+    "holds": null,
+    "explainedBy": "The sole cause of the masculine panic is a microscopic puncture on Lucy's neck.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "All Victorian medical panic traces back to two minuscule puncture marks.",
+      "concreteVisual": "Lucy Westenra lying pale and distressed in bed revealing a neck puncture.",
+      "onScreenText": "A TINY PUNCTURE MARK",
+      "relationToPrevious": "Directly contrasts the hovering men of beat 99 with the tiny wound.",
+      "addedInformation": "Exposes the extreme asymmetry between male panic and the vampire's mark."
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "THE ARCHAIC",
+        "DESPERATION OF MODERNITY"
+      ],
+      "values": [
+        0.2,
+        0.8
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The struggle encapsulates the desperation of modern science combating archaic predation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern medical intervention proves desperate and inadequate against archaic predation.",
+      "concreteVisual": "A spectrum diagram plotting the clash between ancient myth and modern science.",
+      "onScreenText": "none",
+      "relationToPrevious": "Conceptualizes the philosophical confrontation underlying the scene.",
+      "addedInformation": "Frames the medical battle as an epistemological crisis of modernity."
+    }
+  },
+  {
+    "i": 102,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "tragedy",
+          "do": "title",
+          "text": "Tragedy of Lucy"
+        },
+        {
+          "on": "Lucy",
+          "do": "grow",
+          "who": "lucy"
+        }
+      ]
+    },
+    "explainedBy": "The narrative turns to the personal tragedy of Lucy Westenra.",
+    "noVisual": null
+  },
+  {
+    "i": 103,
+    "told": {
+      "events": [
+        {
+          "on": "sleepwalking",
+          "do": "change",
+          "who": "lucy",
+          "action": "walk"
+        },
+        {
+          "on": "Whitby",
+          "do": "apart",
+          "who": [
+            "mina",
+            "lucy"
+          ]
+        }
+      ],
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "lucy",
+          "whitby"
+        ]
+      }
+    },
+    "explainedBy": "Lucy Westenra, friend to Mina Harker, begins sleepwalking along the cliffs of Whitby.",
+    "noVisual": null
+  },
+  {
+    "i": 104,
+    "told": {
+      "events": [
+        {
+          "on": "Dracula",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "dracula",
+            "lucy"
+          ]
+        },
+        {
+          "on": "decline",
+          "do": "dim",
+          "who": "lucy"
+        }
+      ]
+    },
+    "explainedBy": "Dracula preys upon Lucy in the churchyard, initiating her rapid physical decline.",
+    "noVisual": null
+  },
+  {
+    "i": 105,
+    "told": {
+      "events": [
+        {
+          "on": "Seard",
+          "do": "arrange",
+          "layout": "court",
+          "who": [
+            "lucy",
+            "seward",
+            "helsing"
+          ]
+        },
+        {
+          "on": "baffled",
+          "do": "shake",
+          "who": "seward"
+        },
+        {
+          "on": "realize",
+          "do": "title",
+          "text": "Completely baffled"
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward and Professor Van Helsing arrive to investigate Lucy's baffling condition.",
+    "noVisual": null
+  },
+  {
+    "i": 106,
+    "told": {
+      "events": [
+        {
+          "on": "dying",
+          "do": "dim",
+          "who": "lucy"
+        },
+        {
+          "on": "loss",
+          "do": "label",
+          "who": "lucy",
+          "text": "Inexplicable blood loss"
+        },
+        {
+          "on": "punctures",
+          "do": "title",
+          "text": "Two tiny punctures"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing and Seward discover Lucy is dying of catastrophic, unexplained blood loss.",
+    "noVisual": null
+  },
+  {
+    "i": 107,
+    "told": {
+      "events": [
+        {
+          "on": "Four",
+          "do": "title",
+          "text": "Men pooling their blood"
+        },
+        {
+          "on": "Quincy",
+          "do": "enter",
+          "who": "quincey"
+        },
+        {
+          "on": "blood",
+          "do": "grow",
+          "who": "quincey"
+        }
+      ]
+    },
+    "explainedBy": "Arthur Holmwood, Dr. Seward, Van Helsing, and Quincey Morris pool their blood to save Lucy.",
+    "noVisual": null
+  },
+  {
+    "i": 108,
+    "told": {
+      "events": [
+        {
+          "on": "transfusion",
+          "do": "enter",
+          "who": "year1897"
+        },
+        {
+          "on": "types",
+          "do": "cross",
+          "who": "year1897"
+        }
+      ]
+    },
+    "explainedBy": "In 1897, blood transfusions were lethal gambles performed before the discovery of blood types.",
+    "noVisual": null
+  },
+  {
+    "i": 109,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "JUST FLYING BLIND",
+      "style": "highlight"
+    },
+    "set": "library",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "afraid",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Victorian physicians conducted transfusions unaware of ABO blood group compatibility.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Victorian doctors performed blood transfusions in complete immunological ignorance.",
+      "concreteVisual": "Van Helsing standing in dread beside a spinning navigational compass.",
+      "onScreenText": "JUST FLYING BLIND",
+      "relationToPrevious": "Explains that blood groups were undiscovered until 1900.",
+      "addedInformation": "Highlights the mortal danger inherent in the Victorian medical procedure."
+    }
+  },
+  {
+    "i": 110,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "year1897"
+        ]
+      },
+      "events": [
+        {
+          "on": "1897",
+          "do": "date",
+          "text": "1897 · EXPERIMENTAL PROCEDURE"
+        },
+        {
+          "on": "dangerous",
+          "do": "stamp",
+          "who": "year1897",
+          "text": "DANGEROUS"
+        }
+      ]
+    },
+    "explainedBy": "Transfusions in 1897 were crude, high-risk surgical operations cutting directly into veins.",
+    "noVisual": null
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CRUDE TUBES",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "seward"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "partnerExpression": "worried",
+    "partnerAction": "think",
+    "holds": "notes",
+    "explainedBy": "Direct vein-to-vein transfusion linked bodies through primitive surgical tubes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "19th-century transfusion required visceral direct linkage of donor and recipient veins.",
+      "concreteVisual": "Van Helsing and Dr. Seward managing surgical connections beside the bed.",
+      "onScreenText": "CRUDE TUBES",
+      "relationToPrevious": "Describes the invasive physical mechanics of the 1897 procedure.",
+      "addedInformation": "Emphasizes the raw, unrefined nature of Victorian surgical apparatus."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRANSFUSION AT ONCE",
+      "style": "box"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "lucy"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "blank",
+    "partnerAction": "lying",
+    "holds": null,
+    "explainedBy": "Van Helsing discovers Lucy completely drained and demands an immediate transfusion.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Van Helsing diagnoses total exsanguination and orders an emergency transfusion.",
+      "concreteVisual": "Van Helsing reaching urgently toward the comatose Lucy lying in bed.",
+      "onScreenText": "TRANSFUSION AT ONCE",
+      "relationToPrevious": "Initiates the emergency bedside procedure on the dying patient.",
+      "addedInformation": "Shows the doctor reacting decisively to catastrophic blood loss."
+    }
+  },
+  {
+    "i": 113,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "FOUR STRONG MEN",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "lucy"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "partnerExpression": "blank",
+    "partnerAction": "lying",
+    "holds": null,
+    "continue": true,
+    "explainedBy": "Over several days, four men pump their blood into Lucy with no permanent recovery.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Repeated transfusions of masculine vitality fail to stabilize Lucy over time.",
+      "concreteVisual": "Van Helsing maintaining the bedside vigil as an hourglass measures passing days.",
+      "onScreenText": "FOUR STRONG MEN",
+      "relationToPrevious": "Demonstrates the failure of repeated transfusions across multiple days.",
+      "addedInformation": "Underscores the inexplicable consumption of massive blood volume."
+    }
+  },
+  {
+    "i": 114,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SOMATIC VULNERABILITY",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "surprised",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "The disappearing blood triggers late-Victorian anxiety over somatic vulnerability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The medical mystery exposes the fragility and porousness of the human body.",
+      "concreteVisual": "Van Helsing slumping beside the sickbed in defeat and bewilderment.",
+      "onScreenText": "SOMATIC VULNERABILITY",
+      "relationToPrevious": "Transitions from medical failure to cultural and psychological analysis.",
+      "addedInformation": "Introduces the theoretical concept of somatic vulnerability."
+    }
+  },
+  {
+    "i": 115,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "SEXUAL PANIC",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "seward"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "The intimate transfusion scene elicits Victorian panic over sexual and bodily penetration.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The transfusion scene carries intense subtextual sexual panic for Victorians.",
+      "concreteVisual": "Dr. Seward analyzing the emotional horror behind a concealing mask symbol.",
+      "onScreenText": "SEXUAL PANIC",
+      "relationToPrevious": "Explores the psycho-sexual subtext of intimate bodily fluid transfer.",
+      "addedInformation": "Exposes the repressed erotic anxiety embedded in the medical act."
+    }
+  },
+  {
+    "i": 116,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "THE PHYSICAL BODY",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "seward"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "continue": true,
+    "explainedBy": "Somatic vulnerability denotes fear that advanced bodies remain inherently fragile.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hygiene and science cannot eliminate the fundamental fragility of the physical body.",
+      "concreteVisual": "Dr. Seward speaking beside a protective shield motif representing physical defenses.",
+      "onScreenText": "THE PHYSICAL BODY",
+      "relationToPrevious": "Explicitly defines somatic vulnerability as physical bodily peril.",
+      "addedInformation": "Contrasts institutional confidence against biological permeability."
+    }
+  },
+  {
+    "i": 117,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "LITERAL FOREIGN BODY",
+      "style": "box"
+    },
+    "set": "abstract",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "reach",
+    "holds": null,
+    "explainedBy": "The ultimate terror is invasion by a foreign biological agent and predatory force.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The body is invaded by a foreign entity that subverts physical autonomy.",
+      "concreteVisual": "Dracula looming with reaching hands beside a controlling puppeteer icon.",
+      "onScreenText": "LITERAL FOREIGN BODY",
+      "relationToPrevious": "Identifies Dracula as the literal invasive organism penetrating the body.",
+      "addedInformation": "Fuses biological contagion with demonic puppet mastery."
+    }
+  },
+  {
+    "i": 118,
+    "concept": "medical",
+    "diagram": null,
+    "callout": {
+      "text": "BLOOD TRANSFUSION",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "medium",
+    "cast": [
+      "lucy",
+      "seward"
+    ],
+    "expression": "sad",
+    "action": "lying",
+    "holds": null,
+    "explainedBy": "Arthur gives his blood in an emergency transfusion to sustain Lucy Westenra.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Arthur donates blood in a desperate transfusion procedure to keep Lucy alive.",
+      "concreteVisual": "Lucy lies pale in bed while Dr. Seward administers blood from Arthur beneath a medical icon.",
+      "onScreenText": "BLOOD TRANSFUSION",
+      "relationToPrevious": "Examines Arthur Holmwood's personal motivation for giving blood.",
+      "addedInformation": "Demonstrates the Victorian conflation of romance, marriage, and biology."
+    },
+    "partnerExpression": "worried",
+    "partnerAction": "reach"
+  },
+  {
+    "i": 119,
+    "concept": "gift",
+    "diagram": null,
+    "callout": {
+      "text": "GLADLY DIE",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "medium",
+    "cast": [
+      "lucy"
+    ],
+    "expression": "sad",
+    "action": "lying",
+    "holds": null,
+    "continue": true,
+    "explainedBy": "Arthur professes he would gladly surrender his own life to restore his beloved.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Arthur views his blood donation as a supreme act of romantic self-sacrifice.",
+      "concreteVisual": "Lucy remaining bedridden beside a symbolic gift icon representing life sacrifice.",
+      "onScreenText": "GLADLY DIE",
+      "relationToPrevious": "Quotes Arthur's emotional pledge of total bodily sacrifice.",
+      "addedInformation": "Frames the transfusion as an act of voluntary sacrificial devotion."
+    }
+  },
+  {
+    "i": 120,
+    "concept": "medical",
+    "diagram": null,
+    "callout": null,
+    "set": "library",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "Van Helsing wryly jokes about four different suitors infusing their blood into Lucy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Multiple male donors inadvertently create a polyandrous biological scandal.",
+      "concreteVisual": "Van Helsing speaking with an ironic smirk beside a balance scale.",
+      "onScreenText": "none",
+      "relationToPrevious": "Reveals the scandalous subversion of Arthur's exclusive marital bond.",
+      "addedInformation": "Exposes the unintentional sexual irony of serial transfusions."
+    }
+  },
+  {
+    "i": 121,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "PHYSIOLOGICAL BATTLE",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "shotOverride": "twoShot",
+    "cast": [
+      "seward",
+      "quincey"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "partnerAction": "hold",
+    "holds": null,
+    "explainedBy": "The men wage a gendered physiological struggle to protect Lucy against the vampire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The transfusion effort represents a masculine physiological war against the predator.",
+      "concreteVisual": "Dr. Seward and Quincey Morris standing ready before a combat war symbol.",
+      "onScreenText": "PHYSIOLOGICAL BATTLE",
+      "relationToPrevious": "Synthesizes the collective masculine effort into an explicit battlefield.",
+      "addedInformation": "Frames the blood supply as ammunition in a gendered biological war."
+    }
+  },
+  {
+    "i": 122,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "OUT SUPPLY THE DEMAND",
+      "style": "box"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "lucy"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "blank",
+    "partnerAction": "lying",
+    "holds": null,
+    "explainedBy": "The doctors inject healthy masculine blood to outpace the vampire's archaic demand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern medicine relies on raw supply volume to overpower supernatural consumption.",
+      "concreteVisual": "Van Helsing infusing pints of blood into Lucy beside a balance scale.",
+      "onScreenText": "OUT SUPPLY THE DEMAND",
+      "relationToPrevious": "Depicts the crude quantitative strategy adopted by the medical team.",
+      "addedInformation": "Illustrates the economic logic governing the transfusion strategy."
+    }
+  },
+  {
+    "i": 123,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "night",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "drains",
+          "do": "dim",
+          "who": "lucy"
+        },
+        {
+          "on": "consumption",
+          "do": "title",
+          "text": "Economy of consumption"
+        }
+      ]
+    },
+    "explainedBy": "Dracula infiltrates by night to drain every pint of blood infused by the doctors.",
+    "noVisual": null
+  },
+  {
+    "i": 124,
+    "concept": "medical",
+    "diagram": null,
+    "callout": {
+      "text": "SCIENTIST AND DOCTOR",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Van Helsing is a rigorous scientist equipped with the latest surgical technology.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Van Helsing represents the apex of late-Victorian scientific and medical expertise.",
+      "concreteVisual": "Van Helsing holding medical charts beside a clinical healthcare symbol.",
+      "onScreenText": "SCIENTIST AND DOCTOR",
+      "relationToPrevious": "Establishes Van Helsing's high-tech medical credentials.",
+      "addedInformation": "Affirms that the vampire hunt is led by an advanced scientific authority."
+    }
+  },
+  {
+    "i": 125,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "INSUFFICIENT ON ITS OWN",
+      "style": "box"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "lucy"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "partnerExpression": "blank",
+    "partnerAction": "lying",
+    "holds": null,
+    "explainedBy": "Van Helsing realizes the modern medical paradigm is powerless without occult defenses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Purely rational medical science fails to halt supernatural exsanguination.",
+      "concreteVisual": "Van Helsing contemplating Lucy's condition beside an uneasy balance symbol.",
+      "onScreenText": "INSUFFICIENT ON ITS OWN",
+      "relationToPrevious": "Forces the realization that empirical medicine requires supernatural wards.",
+      "addedInformation": "Marks the pivot from purely scientific therapy to hybrid occult defense."
+    }
+  },
+  {
+    "i": 126,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "GARLIC AND CRUCIFIXES",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "flower",
+    "explainedBy": "Van Helsing places medical tubes and hypodermics alongside garlic garlands and crucifixes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Scientific tools and superstitious folklore unite in the defense of Lucy's bedroom.",
+      "concreteVisual": "Van Helsing holding protective garlic flowers beside a defensive shield symbol.",
+      "onScreenText": "GARLIC AND CRUCIFIXES",
+      "relationToPrevious": "Concludes the chunk with the memorable juxtaposition of science and folklore.",
+      "addedInformation": "Sets up the twin-pronged defensive strategy continued in the next act."
+    }
+  }
+]

@@ -1,0 +1,1392 @@
+[
+  {
+    "i": 88,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "demeter",
+          "demeterlog",
+          "receipts"
+        ]
+      },
+      "events": [
+        {
+          "on": "death",
+          "do": "stamp",
+          "who": "demeter",
+          "text": "DEATH"
+        },
+        {
+          "on": "survivor",
+          "do": "grow",
+          "who": [
+            "demeterlog"
+          ]
+        },
+        {
+          "on": "perished",
+          "do": "dim",
+          "who": [
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The Demeter brought death under legal cargo paperwork while the crew perished and only the logbook survived.",
+    "noVisual": null
+  },
+  {
+    "i": 89,
+    "told": {
+      "events": [
+        {
+          "on": "shielded",
+          "do": "together",
+          "who": [
+            "demeter",
+            "receipts"
+          ]
+        },
+        {
+          "on": "breaches",
+          "do": "arrange",
+          "layout": "flow",
+          "who": [
+            "demeter",
+            "london"
+          ]
+        },
+        {
+          "on": "London",
+          "do": "burst",
+          "who": [
+            "demeter",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Shielded by cargo manifests, the Demeter's contagion breaches the shore and hits London.",
+    "noVisual": null
+  },
+  {
+    "i": 90,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "lucy",
+          "lucychart"
+        ]
+      },
+      "events": [
+        {
+          "on": "chart",
+          "do": "grow",
+          "who": [
+            "lucychart"
+          ]
+        },
+        {
+          "on": "medical",
+          "do": "change",
+          "who": "lucy",
+          "action": "slump"
+        }
+      ]
+    },
+    "explainedBy": "Exhibit 5 shifts to the medical record of Lucy's decline through her clinical chart.",
+    "noVisual": null
+  },
+  {
+    "i": 91,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "lucy",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "bedroom",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "closed",
+          "do": "cover",
+          "who": [
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Lucy lies in her London bedroom with the windows closed shut against the night air.",
+    "noVisual": null
+  },
+  {
+    "i": 92,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "helsing",
+          "seward",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "Van Helsing",
+          "do": "change",
+          "who": "helsing",
+          "action": "reach"
+        },
+        {
+          "on": "Seward",
+          "do": "change",
+          "who": "seward",
+          "action": "reach"
+        },
+        {
+          "on": "transfusions",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "Highly experimental",
+          "do": "title",
+          "text": "Experimental Blood Transfusions"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing and Dr. Seward reach to perform experimental blood transfusions on lying Lucy.",
+    "noVisual": null
+  },
+  {
+    "i": 93,
+    "told": {
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "seward",
+          "quincey",
+          "helsing",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "John Seward",
+          "do": "change",
+          "who": "seward",
+          "action": "reach"
+        },
+        {
+          "on": "Quincy Morris",
+          "do": "change",
+          "who": "quincey",
+          "action": "reach"
+        },
+        {
+          "on": "Van Helsing",
+          "do": "change",
+          "who": "helsing",
+          "action": "reach"
+        },
+        {
+          "on": "pumped",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "woman's arm",
+          "do": "label",
+          "who": "lucy",
+          "text": "Four men's blood"
+        }
+      ]
+    },
+    "explainedBy": "Blood from Seward, Quincey Morris, and Van Helsing flows directly into Lucy's body.",
+    "noVisual": "Arthur Holmwood (ASR: Arthur Homewood) is not in entities.json; staged the three listed donors flowing into Lucy."
+  },
+  {
+    "i": 94,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "seward",
+          "lucychart"
+        ]
+      },
+      "events": [
+        {
+          "on": "records",
+          "do": "act",
+          "who": "seward",
+          "verb": "write",
+          "target": "lucychart"
+        },
+        {
+          "on": "medical chart",
+          "do": "title",
+          "text": "Records on Medical Chart"
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward sits and records the transfusions on Lucy's medical chart.",
+    "noVisual": null
+  },
+  {
+    "i": 95,
+    "told": {
+      "events": [
+        {
+          "on": "notes",
+          "do": "enter",
+          "who": "lucy"
+        },
+        {
+          "on": "physical",
+          "do": "change",
+          "who": "seward",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "chalky",
+          "do": "change",
+          "who": "lucy",
+          "action": "slump"
+        },
+        {
+          "on": "breathing",
+          "do": "label",
+          "who": "lucychart",
+          "text": "Physical symptoms"
+        }
+      ]
+    },
+    "explainedBy": "Seward holds his notes while documenting Lucy's chalky pallor and labored breathing.",
+    "noVisual": null
+  },
+  {
+    "i": 96,
+    "told": {
+      "events": [
+        {
+          "on": "measures",
+          "do": "act",
+          "who": "seward",
+          "verb": "write",
+          "target": "lucychart"
+        },
+        {
+          "on": "theft",
+          "do": "dim",
+          "who": [
+            "lucy"
+          ]
+        },
+        {
+          "on": "blind",
+          "do": "cover",
+          "who": [
+            "lucychart"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Seward measures Lucy's fading life on the chart, which remains blind to the true cause.",
+    "noVisual": null
+  },
+  {
+    "i": 97,
+    "told": {
+      "events": [
+        {
+          "on": "Blind",
+          "do": "cover",
+          "who": [
+            "seward"
+          ]
+        },
+        {
+          "on": "anemia",
+          "do": "stamp",
+          "who": "lucychart",
+          "text": "MERE ANEMIA"
+        },
+        {
+          "on": "notes",
+          "do": "change",
+          "who": "seward",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "dies",
+          "do": "change",
+          "who": "lucy",
+          "action": "collapsed"
+        }
+      ]
+    },
+    "explainedBy": "Blind to the demonic attack, Seward keeps taking notes on the anemia chart while Lucy collapses.",
+    "noVisual": null
+  },
+  {
+    "i": 98,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "helsing",
+          "lucychart"
+        ]
+      },
+      "events": [
+        {
+          "at": 0,
+          "do": "uncover",
+          "who": [
+            "lucychart"
+          ]
+        },
+        {
+          "on": "data",
+          "do": "grow",
+          "who": [
+            "lucychart"
+          ]
+        },
+        {
+          "on": "Van Helsing's",
+          "do": "act",
+          "who": "helsing",
+          "verb": "read",
+          "target": "lucychart"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing reads the uncovered medical chart data and reaches a frantic realization.",
+    "noVisual": null
+  },
+  {
+    "i": 99,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "helsing",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "pale girl",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "notes",
+          "do": "act",
+          "who": "helsing",
+          "verb": "point",
+          "target": "lucy"
+        },
+        {
+          "on": "four men's blood",
+          "do": "label",
+          "who": "lucy",
+          "text": "Four men's blood"
+        },
+        {
+          "on": "hold",
+          "do": "shake",
+          "who": [
+            "lucy"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing points to pale Lucy and realizes her body could not hold four men's blood.",
+    "noVisual": null
+  },
+  {
+    "i": 100,
+    "told": {
+      "events": [
+        {
+          "on": "took it out",
+          "do": "title",
+          "text": "What Took It Out?"
+        },
+        {
+          "on": "data",
+          "do": "enter",
+          "who": "lucychart"
+        },
+        {
+          "on": "drain",
+          "do": "dim",
+          "who": [
+            "lucy"
+          ]
+        },
+        {
+          "on": "mathematics",
+          "do": "act",
+          "who": "helsing",
+          "verb": "point",
+          "target": "lucychart"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing points to the chart data proving a supernatural drain as Lucy weakens.",
+    "noVisual": null
+  },
+  {
+    "i": 101,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "feeding",
+          "do": "act",
+          "who": "dracula",
+          "verb": "bite",
+          "target": "lucy"
+        },
+        {
+          "on": "failing",
+          "do": "dim",
+          "who": [
+            "lucy"
+          ]
+        },
+        {
+          "on": "failing battle",
+          "do": "title",
+          "text": "A Failing Battle"
+        }
+      ]
+    },
+    "explainedBy": "Dracula feeds on Lucy night after night while medicine documents a losing fight.",
+    "noVisual": null
+  },
+  {
+    "i": 102,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "lucychart",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "couldn't cure",
+          "do": "cross",
+          "who": [
+            "lucychart",
+            "lucy"
+          ]
+        },
+        {
+          "on": "stop",
+          "do": "stamp",
+          "who": "lucychart",
+          "text": "NO CURE"
+        },
+        {
+          "on": "neck",
+          "do": "change",
+          "who": "lucy",
+          "action": "slump"
+        }
+      ]
+    },
+    "explainedBy": "The medical chart is crossed off against Lucy because paperwork cannot cure or heal her.",
+    "noVisual": null
+  },
+  {
+    "i": 103,
+    "told": {
+      "events": [
+        {
+          "on": "failure",
+          "do": "dim",
+          "who": [
+            "lucychart"
+          ]
+        },
+        {
+          "on": "drain",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "huge doubt",
+          "do": "title",
+          "text": "A Huge Doubt"
+        }
+      ]
+    },
+    "explainedBy": "The dimmed chart measures failure while Lucy lies drained, leaving a huge doubt.",
+    "noVisual": null
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SCIENCE FAILS",
+        "ANCIENT SUPERSTITIONS"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "When modern science fails to save a life, they turn to ancient superstitions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When modern medical data fails to save a life, they abandon science for ancient superstitions.",
+      "concreteVisual": "A two-step flow diagram showing science failing and leading to ancient superstitions.",
+      "onScreenText": "SCIENCE FAILS -> ANCIENT SUPERSTITIONS",
+      "relationToPrevious": "Pivots from the failure of Lucy's medical charts (beat 103) to the next exhibit's folk remedy.",
+      "addedInformation": "Makes the structural pivot from medical science to ancient superstition explicit."
+    },
+    "place": "lucyroom"
+  },
+  {
+    "i": 105,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "garlicwindow"
+        ]
+      },
+      "events": [
+        {
+          "on": "garlic",
+          "do": "grow",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "window",
+          "do": "title",
+          "text": "Garlic at the Window"
+        }
+      ]
+    },
+    "explainedBy": "Exhibit 6 introduces the garlic wreath hanging at the open bedroom window.",
+    "noVisual": null
+  },
+  {
+    "i": 106,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "lucy",
+          "garlicwindow"
+        ]
+      },
+      "events": [
+        {
+          "on": "Lucy's room",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "Helsing",
+          "do": "act",
+          "who": "helsing",
+          "verb": "come",
+          "target": "lucy"
+        },
+        {
+          "on": "garlic",
+          "do": "grow",
+          "who": [
+            "garlicwindow"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing walks into Lucy's room with wild garlic to fortify the window.",
+    "noVisual": "Haarlem is ASR-spelled Harlem in the narration."
+  },
+  {
+    "i": 107,
+    "told": {
+      "events": [
+        {
+          "on": "flowers",
+          "do": "change",
+          "who": "helsing",
+          "action": "hold",
+          "holds": "flower"
+        },
+        {
+          "on": "window",
+          "do": "grow",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "places it",
+          "do": "change",
+          "who": "helsing",
+          "action": "offer",
+          "holds": "flower"
+        },
+        {
+          "on": "Lucy's",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing applies garlic flowers to the window and places a wreath on Lucy.",
+    "noVisual": null
+  },
+  {
+    "i": 108,
+    "told": {
+      "events": [
+        {
+          "on": "tells her",
+          "do": "act",
+          "who": "helsing",
+          "verb": "point",
+          "target": "garlicwindow"
+        },
+        {
+          "on": "not to disturb",
+          "do": "title",
+          "text": "Do Not Disturb It"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing strictly warns Lucy not to disturb the garlic ward.",
+    "noVisual": "Mrs. Westenra (ASR: Mrs.) is not in entities.json."
+  },
+  {
+    "i": 109,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "garlicwindow",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "opens",
+          "do": "shake",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "takes",
+          "do": "dim",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "sleeping",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        }
+      ]
+    },
+    "explainedBy": "The window is opened and the garlic ward is stripped from sleeping Lucy.",
+    "noVisual": "Mrs. Westenra (ASR: Wenra/Worenra) is not in entities.json; staged the disturbed garlic window and sleeping Lucy."
+  },
+  {
+    "i": 110,
+    "told": {
+      "events": [
+        {
+          "on": "throws it out",
+          "do": "cross",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "undoes",
+          "do": "change",
+          "who": "lucy",
+          "action": "lying"
+        },
+        {
+          "on": "breach",
+          "do": "stamp",
+          "who": "garlicwindow",
+          "text": "HUMAN BREACH"
+        }
+      ]
+    },
+    "explainedBy": "Throwing out the garlic crosses out the ward as a physical human breach.",
+    "noVisual": null
+  },
+  {
+    "i": 111,
+    "told": {
+      "events": [
+        {
+          "on": "accurate",
+          "do": "restore",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "removing",
+          "do": "apart",
+          "who": [
+            "garlicwindow",
+            "lucy"
+          ]
+        },
+        {
+          "on": "doomed",
+          "do": "dim",
+          "who": [
+            "lucy"
+          ]
+        },
+        {
+          "on": "death",
+          "do": "change",
+          "who": "lucy",
+          "action": "collapsed"
+        }
+      ]
+    },
+    "explainedBy": "The garlic ward was effective, and separating Lucy from it doomed her to death.",
+    "noVisual": "Lucy's mother is not in entities.json."
+  },
+  {
+    "i": 112,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "dracula",
+          "lucy",
+          "garlicwindow"
+        ]
+      },
+      "events": [
+        {
+          "on": "ward",
+          "do": "cross",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "monster",
+          "do": "act",
+          "who": "dracula",
+          "verb": "come",
+          "target": "lucy"
+        },
+        {
+          "on": "bat",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "With the garlic ward broken, Dracula returns to Lucy as a looming predator.",
+    "noVisual": "No bat drawing in entities.json; Count Dracula represents the monster/bat."
+  },
+  {
+    "i": 113,
+    "told": {
+      "events": [
+        {
+          "on": "window",
+          "do": "shake",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "tears",
+          "do": "change",
+          "who": "lucy",
+          "action": "throw"
+        },
+        {
+          "on": "garlic",
+          "do": "cross",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "his",
+          "do": "change",
+          "who": "dracula",
+          "action": "reach"
+        },
+        {
+          "on": "control",
+          "do": "together",
+          "who": [
+            "dracula",
+            "lucy"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Under Dracula's hypnotic reach, Lucy tears away the replaced garlic at the window.",
+    "noVisual": null
+  },
+  {
+    "i": 114,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "garlicwindow",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "powerful",
+          "do": "grow",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "subverted",
+          "do": "dim",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "repel",
+          "do": "apart",
+          "who": [
+            "garlicwindow",
+            "dracula"
+          ]
+        },
+        {
+          "on": "creature",
+          "do": "change",
+          "who": "dracula",
+          "action": "stop"
+        },
+        {
+          "on": "tragically subverted",
+          "do": "cross",
+          "who": [
+            "garlicwindow"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Ancient wards had real power to repel Dracula, until human error subverted them.",
+    "noVisual": null
+  },
+  {
+    "i": 115,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "dracula",
+          "lucy",
+          "garlicwindow"
+        ]
+      },
+      "events": [
+        {
+          "on": "control",
+          "do": "change",
+          "who": "dracula",
+          "action": "reach"
+        },
+        {
+          "on": "victim",
+          "do": "change",
+          "who": "lucy",
+          "action": "slump"
+        },
+        {
+          "on": "defenses fell",
+          "do": "dim",
+          "who": [
+            "garlicwindow"
+          ]
+        },
+        {
+          "on": "agonizing doubt",
+          "do": "title",
+          "text": "An Agonizing Doubt"
+        }
+      ]
+    },
+    "explainedBy": "Dracula's hypnotic control over Lucy defeats the garlic defenses, raising an agonizing doubt.",
+    "noVisual": null
+  },
+  {
+    "i": 116,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "lucy",
+          "lucymemo"
+        ]
+      },
+      "events": [
+        {
+          "on": "final human act",
+          "do": "title",
+          "text": "Lucy's Final Human Act"
+        },
+        {
+          "on": "consumes",
+          "do": "change",
+          "who": "lucy",
+          "action": "slump"
+        },
+        {
+          "on": "exhibit 7",
+          "do": "grow",
+          "who": [
+            "lucymemo"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Exhibit 7 introduces Lucy's final human act before the curse consumes her.",
+    "noVisual": null
+  },
+  {
+    "i": 117,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "helsing",
+          "seward",
+          "quincey",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "chaos",
+          "do": "shake",
+          "who": [
+            "lucy"
+          ]
+        },
+        {
+          "on": "The men",
+          "do": "change",
+          "who": "helsing",
+          "action": "run"
+        },
+        {
+          "on": "burst",
+          "do": "change",
+          "who": "seward",
+          "action": "run"
+        },
+        {
+          "on": "into",
+          "do": "change",
+          "who": "quincey",
+          "action": "run"
+        },
+        {
+          "on": "fatal attack",
+          "do": "change",
+          "who": "lucy",
+          "action": "collapsed"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing, Seward, and Quincey burst into Lucy's room to find her collapsed after the fatal attack.",
+    "noVisual": null
+  },
+  {
+    "i": 118,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "helsing",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "dead",
+          "do": "dim",
+          "who": [
+            "lucy"
+          ]
+        },
+        {
+          "on": "Lucy",
+          "do": "change",
+          "who": "helsing",
+          "action": "slump"
+        },
+        {
+          "on": "dying",
+          "do": "change",
+          "who": "lucy",
+          "action": "collapsed"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing slumps beside dying Lucy amid the household catastrophe.",
+    "noVisual": "The drugged maids and Mrs. Westenra are not in entities.json; staged Van Helsing beside dying Lucy."
+  },
+  {
+    "i": 119,
+    "told": {
+      "events": [
+        {
+          "on": "defeat",
+          "do": "change",
+          "who": "helsing",
+          "action": "lift"
+        },
+        {
+          "on": "carry",
+          "do": "change",
+          "who": "lucy",
+          "action": "lifted"
+        },
+        {
+          "on": "piece of paper",
+          "do": "enter",
+          "who": "lucymemo"
+        },
+        {
+          "on": "drops",
+          "do": "grow",
+          "who": [
+            "lucymemo"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "As Van Helsing lifts and carries Lucy, her written memorandum drops into view.",
+    "noVisual": null
+  },
+  {
+    "i": 120,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "lucy",
+          "lucymemo"
+        ]
+      },
+      "events": [
+        {
+          "on": "memorandum",
+          "do": "grow",
+          "who": [
+            "lucymemo"
+          ]
+        },
+        {
+          "on": "written",
+          "do": "act",
+          "who": "lucy",
+          "verb": "write",
+          "target": "lucymemo"
+        },
+        {
+          "on": "hid",
+          "do": "change",
+          "who": "lucy",
+          "action": "hold",
+          "holds": "lucymemo"
+        }
+      ]
+    },
+    "explainedBy": "Before dying, Lucy wrote down what happened on the memorandum and hid it on her person.",
+    "noVisual": "Lucy's mother, swirling mist, and red eyes are not in entities.json; staged Lucy writing and hiding the memorandum."
+  },
+  {
+    "i": 121,
+    "told": {
+      "events": [
+        {
+          "on": "file",
+          "do": "change",
+          "who": "lucy",
+          "action": "offer",
+          "holds": "lucymemo"
+        },
+        {
+          "on": "testimony",
+          "do": "grow",
+          "who": [
+            "lucymemo"
+          ]
+        },
+        {
+          "on": "record",
+          "do": "stamp",
+          "who": "lucymemo",
+          "text": "TESTIMONY"
+        }
+      ]
+    },
+    "explainedBy": "Lucy offers her memorandum as crucial victim testimony and a permanent record.",
+    "noVisual": null
+  },
+  {
+    "i": 122,
+    "told": {
+      "events": [
+        {
+          "on": "useless",
+          "do": "cross",
+          "who": [
+            "lucymemo"
+          ]
+        },
+        {
+          "on": "dies",
+          "do": "change",
+          "who": "lucy",
+          "action": "collapsed",
+          "holds": "none"
+        },
+        {
+          "on": "monster",
+          "do": "stamp",
+          "who": "lucy",
+          "text": "MONSTER"
+        }
+      ]
+    },
+    "explainedBy": "The report proves useless as Lucy drops it, dies, and becomes a monster.",
+    "noVisual": null
+  },
+  {
+    "i": 123,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "helsing",
+          "lucy",
+          "lucymemo"
+        ]
+      },
+      "events": [
+        {
+          "on": "cut off",
+          "do": "change",
+          "who": "helsing",
+          "action": "chop"
+        },
+        {
+          "on": "heart",
+          "do": "burst",
+          "who": [
+            "helsing",
+            "lucy"
+          ]
+        },
+        {
+          "on": "stop",
+          "do": "change",
+          "who": "lucy",
+          "action": "collapsed"
+        },
+        {
+          "on": "didn't stop",
+          "do": "cross",
+          "who": [
+            "lucymemo"
+          ]
+        },
+        {
+          "on": "fangs",
+          "do": "dim",
+          "who": [
+            "lucymemo"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing strikes Lucy down physically while the hidden memorandum is crossed out as unable to stop the fangs.",
+    "noVisual": null
+  },
+  {
+    "i": 124,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "helsing",
+          "lucymemo"
+        ]
+      },
+      "events": [
+        {
+          "on": "threat",
+          "do": "stamp",
+          "who": "lucymemo",
+          "text": "MASSIVE THREAT"
+        },
+        {
+          "on": "seizes",
+          "do": "take",
+          "who": "helsing",
+          "what": "lucymemo"
+        },
+        {
+          "on": "hides",
+          "do": "change",
+          "who": "helsing",
+          "action": "hold",
+          "holds": "none"
+        }
+      ]
+    },
+    "explainedBy": "Treated as a massive threat, the memorandum is seized and hidden away by Van Helsing.",
+    "noVisual": null
+  },
+  {
+    "i": 125,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "helsing",
+          "seward",
+          "lucymemo"
+        ]
+      },
+      "events": [
+        {
+          "on": "states to Seward",
+          "do": "together",
+          "who": [
+            "helsing",
+            "seward"
+          ]
+        },
+        {
+          "on": "conceal",
+          "do": "cover",
+          "who": [
+            "lucymemo"
+          ]
+        },
+        {
+          "on": "inquest",
+          "do": "cross",
+          "who": [
+            "lucymemo"
+          ]
+        },
+        {
+          "on": "not well",
+          "do": "change",
+          "who": "helsing",
+          "action": "stop"
+        },
+        {
+          "on": "strangers",
+          "do": "change",
+          "who": "seward",
+          "action": "think"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing confers with Seward to conceal the memorandum and block a public inquest.",
+    "noVisual": "The coroner is not in entities.json."
+  },
+  {
+    "i": 126,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "lucymemo"
+        ]
+      },
+      "events": [
+        {
+          "on": "dangerously real",
+          "do": "grow",
+          "who": [
+            "lucymemo"
+          ],
+          "to": 1.35
+        },
+        {
+          "on": "evidence",
+          "do": "stamp",
+          "who": "lucymemo",
+          "text": "REAL EVIDENCE"
+        },
+        {
+          "on": "total exposure",
+          "do": "burst",
+          "who": [
+            "lucymemo"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Lucy's memorandum stands as dangerously real evidence threatening total exposure.",
+    "noVisual": "Police and law are not entities in entities.json."
+  }
+]

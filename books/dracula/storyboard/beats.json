@@ -1,0 +1,2043 @@
+{
+  "book": {
+    "slug": "dracula",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "horror"
+  },
+  "instructions": [
+    "Rewrite `callout.text` per beat: 2-4 words, concrete and loaded, in the viewer's second person where it fits.",
+    "NEVER an abstract noun (ORGANIZATION / MANAGEMENT / INFORMATION). Prefer what a person can see, feel or do.",
+    "Set callout to null when the beat has no hook worth stamping — silence is a valid, good choice.",
+    "`style`: reveal (3-4 words) | highlight (2 words) | strike (a negation) | outline (a real stat) | box | stack.",
+    "`concept`: the beat's LITERAL subject → a scene icon that gets shown instead of talking heads.",
+    "  Allowed: alarmClock, butterfly, subway, car, coffee, codeWindow, rocketLaunch, funnelMetrics, dollarExchange, laptopMockup, crash, ledge, water, grave, medical, notes, phone, school, home, family, road, storm, star, heart, fire, tree, mask, mirror, key, law, photo, war, game, work, city, food, coin, door, lightbulb, shadowSelf, puppeteer, chains, compass, dominoCascade, icebergDepth, funnelTrap, thirtyTyrants, ringOfGyges, caveAllegory, shipOfState, tripartiteSoul, kallipolis, fiveRegimes, mythOfEr, boulder, summit, ladder, crack, clock, balance, book, shield, trophy, hourglass, sword, target, magnifier, wallet, gift, inheritance, zap. Set a string when the beat is really ABOUT that thing",
+    "  (a crash, a home, a lake, a wall of notes); null or omitted = no icon (there is no lexicon",
+    "  fallback). Use only when it's the true subject — a wrong icon is worse than none. The icon must",
+    "  be in the book's story-bible visualProvenance.allowedMotifs or it is dropped with a warning.",
+    "`set` (optional): the location, one of the renderer's sets — honoured as written.",
+    "`shotOverride` (optional): force a framing. `shot` above is only the director's first guess.",
+    "The director stages the body itself from the concept — a beat whose subject is a",
+    "  letter/phone/key/photo/book/coin/mirror/mask/idea/compass/meal/love/job/court puts that",
+    "  object IN THE LEAD'S HAND, an outdoor beat can make them walk across the set, an indoor",
+    "  one can sit them down. You do not author that here; naming the right `concept` is what",
+    "  turns it on. A wrong concept costs more now than it used to.",
+    "`diagram`: an EXPLANATORY self-drawing graphic that BECOMES the whole beat (cast dropped,",
+    "  no callout). Author one ONLY on a genuinely conceptual beat; leave null otherwise — a weak",
+    "  or generic diagram is worse than none. Use at most a handful across the whole book. Shape:",
+    "  { type, title?, labels[], values[] }, where type is one of:",
+    "    sorter   — a taxonomy sorting into buckets. labels = the 2-4 category names; values = optional per-bucket counts.",
+    "    matchWave— two rhythms drifting then locking into sync. labels[0] = the payoff word (e.g. IN SYNC).",
+    "    flow     — a cause→effect chain. labels = 2-3 ordered node names.",
+    "    spectrum — a marker on a continuum. labels = [leftPole, rightPole]; values = [0..1 marker position].",
+    "  Keep labels 1-2 words. Best on the beat that first NAMES a framework, a sync, a process or a scale.",
+    "`concept: null` means NO icon on this beat (not even a decorative one); omitting the key is ALSO no icon — there is no lexicon fallback (Faz 0). Every beat needs an entry; an unauthored beat fails gate-authorship.",
+    "Do not leave a beat silent when its narration names concrete things (a list of objects, an anecdote, a person doing something) — give it the narrator's phrase or the object.",
+    "Prefer the narrator's concrete phrase over an abstract metaphor label (\"PAUSE THE IMPULSE\", not \"A LOGIC FILTER\").",
+    "A diagram title must not promise a shape its type cannot draw (no \"LOOP\"/\"PYRAMID\" on a straight flow).",
+    "Keep the array order and length. Then re-run plan-antidote with --callouts=<this file>.",
+    "After re-running: node scripts/audit-antidote.js --slug=<slug> — it FAILS the plan if any",
+    "  window runs longer than 8s with nothing happening on screen."
+  ],
+  "beats": [
+    {
+      "i": 0,
+      "shot": "lowAngle",
+      "beat": "title",
+      "concept": null,
+      "diagram": null,
+      "narration": "A heavy parchment property deed slides across a massive scarred oak table.",
+      "callout": {
+        "text": "SCARRED OAK TABLE",
+        "style": "box"
+      }
+    },
+    {
+      "i": 1,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "we are in a gloomy ruined castle in Transennsylvania. The shadows in this room are long and they're uh they're flickering violently in the light of a single antique silver lamp that burns without a chimney.",
+      "callout": null
+    },
+    {
+      "i": 2,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Sounds cozy, right? And outside the heavy window, wolves are howling in the deep valleys of the Borgo Pass, So, the parchment slides toward a hand resting on the table.",
+      "callout": null
+    },
+    {
+      "i": 3,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The hand is broad with squat fingers, long, sharply pointed nails, and uh thick dark hair growing in the very center of the palm.",
+      "callout": null
+    },
+    {
+      "i": 4,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the hair on the palms always gets me. It's so visceral. And then a pen scratches across the paper. Dracula by Bram Stoker.",
+      "callout": null
+    },
+    {
+      "i": 5,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "See that signature on that parchment? It fundamentally changes the entire nature of the threat for me. And that is exactly why I'm bringing this case file to you the listener today because I mean we have been misreading this invasion for",
+      "callout": null
+    },
+    {
+      "i": 6,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "over a century. You think so? I really do. You think you know this story. You know you picture the fangs, the bats, the rolling fog, the crosses held up in the moonlight.",
+      "callout": {
+        "text": "KNOW THIS STORY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 7,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But I am laying out a central thesis here and Let's hear it. Dracula is not beaten by faith or courage. He is beaten by filing.",
+      "callout": null
+    },
+    {
+      "i": 8,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "like clerical work. Yes. Paperwork. Yes. Every single clue that kills him is a document somebody kept. I mean, I have read every diary, bill, and telegram in this archive to build this case.",
+      "callout": null
+    },
+    {
+      "i": 9,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And I I reject that premise from the outset. I really do. I figured you would because the men and women who faced this horror.",
+      "callout": null
+    },
+    {
+      "i": 10,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "They won the day with crucifixes, with sharpened wooden stakes, and with sheer unflinching human Okay, but no, listen.",
+      "callout": null
+    },
+    {
+      "i": 11,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Administrative paperwork does not kill a centuries old warlord who commands the children of the night.",
+      "callout": {
+        "text": "NOT KILL",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 12,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I will not accept any conclusion until every single piece of evidence is presented on this table and scrutinized. Fair enough. Let's get into it then. Exhibit one, the deed to Carfax.",
+      "callout": null
+    },
+    {
+      "i": 13,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "All right, let us put the scene right in front of you. It is early May in Transennsylvania. Jonathan Harker, a young English solicitor, sits in that firelit, oppressive room after a well,",
+      "callout": null
+    },
+    {
+      "i": 14,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "just a terrifying journey through the Carpathian Mountains. Right. He's completely isolated. Exactly. He is miles from anything resembling modern civilization.",
+      "callout": null
+    },
+    {
+      "i": 15,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And he lays the deed to the Carfax estate on the count's table and the count signs them. He takes the pen and signs them.",
+      "callout": null
+    },
+    {
+      "i": 16,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "This proves the monster's first act in England is a signature. He doesn't arrive as a conquering warlord reigning fire on the beaches.",
+      "callout": null
+    },
+    {
+      "i": 17,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "You know, he enters society through property law. Yeah, but you were looking at the ink and you are completely ignoring the entity holding the pen.",
+      "callout": null
+    },
+    {
+      "i": 18,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "How so? The signature is just a meaningless formality to him. We are talking about a monster of prodigious physical strength. Oh, sure.",
+      "callout": null
+    },
+    {
+      "i": 19,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "He's strong. Strong. This is a creature who Harker later watches climb face down the sheer outer walls of his castle. Oh, that scene is wild, right?",
+      "callout": {
+        "text": "HE'S STRONG",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 20,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Crawling over an abyss of a thousand ft. His cloak spreading out around him like great black wings. A legal contract means literally nothing to a creature of supernatural terror.",
+      "callout": null
+    },
+    {
+      "i": 21,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "You think it's just a show? Yeah, he signs it merely to appease the clerk sitting across from him. It's a pantoime of human commerce.",
+      "callout": null
+    },
+    {
+      "i": 22,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, but let me bring in Harker's own notes on the Carfax estate to settle this because Harker describes the physical property in his journal in immense detail. The layout of the house, you mean?",
+      "callout": null
+    },
+    {
+      "i": 23,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. It contains 20 acres completely surrounded by a high, heavy, ancient stone wall Exactly.",
+      "callout": {
+        "text": "STONE WALL",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 24,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Inside it's gloomy with massive trees. There is a deep dark pond fed by natural springs and an old ruined chapel which is very important crucial. The count requires this exact",
+      "callout": null
+    },
+    {
+      "i": 25,
+      "shot": "closeUp",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "physical geography. He needs a massive enclosed fortified space to hide his 50 boxes of Transian Earth. Well, yeah, he needs a place to sleep during the day. So, without the legal contract securing",
+      "callout": {
+        "text": "SPACE TO HIDE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 26,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "this tactical beach head, his entire invasion fails before he even boards a Okay, I'll give you that. The physical geography of the estate is certainly paramount to his survival.",
+      "callout": null
+    },
+    {
+      "i": 27,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He secures his physical foothold through the proper administrative channels because it is He needs a fortress and he buys one.",
+      "callout": null
+    },
+    {
+      "i": 28,
+      "shot": "overShoulder",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, we agree the invasion starts on paper and the tactical beach head is secured legally.",
+      "callout": {
+        "text": "BEACH HEAD",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 29,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But a lingering doubt remains. Can an airtight lease agreement actually stop a creature who controls the howling wolves of the mountains with a single wave of his hand?",
+      "callout": null
+    },
+    {
+      "i": 30,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, come on. Oh, let's look at what he does next. Exhibit Exhibit two, the atlas with three rings. Ah, the library scene.",
+      "callout": null
+    },
+    {
+      "i": 31,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. We are inside the count's library in the castle. Harker wanders into this massive dusty room and finds it lined from floor to ceiling with books mostly on England.",
+      "callout": {
+        "text": "DUSTY ROOM",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 32,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right. Yeah. English history, geography, political economy. And on the center table, Harker finds a large English atlas lying open just sitting there.",
+      "callout": null
+    },
+    {
+      "i": 33,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Just sitting there. and three rings are marked on it in colored pencil. Let me guess, London. London on the east side, exit in the southwest, and Whitby on the Yorkshire Right.",
+      "callout": null
+    },
+    {
+      "i": 34,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Key locations. And beside the atlas sit a Bradshaw's railway guide and the law list.",
+      "callout": null
+    },
+    {
+      "i": 35,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "See, I know where you're going with Well, it proves Dracula is a meticulous clerk of his own invasion. A clerk? Yes.",
+      "callout": null
+    },
+    {
+      "i": 36,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is studying shipping routes, railway timets, legal directories. He is weaponizing modern British data against the empire itself.",
+      "callout": {
+        "text": "MODERN BRITISH DATA",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 37,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's a stretch. Is it? He is plotting a logistical network calculating distances and transit times just like a Victorian",
+      "callout": null
+    },
+    {
+      "i": 38,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I challenge that interpretation Consider who we are dealing with here.",
+      "callout": null
+    },
+    {
+      "i": 39,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "This is a centuries old secly warlord who fought the Turks across the Danube.",
+      "callout": null
+    },
+    {
+      "i": 40,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "A man who boasts that the blood of Aillaa flows in his veins which is terrifying. Sure. He relies on a physical map and a directory because he is completely out of his depth in the 19th century.",
+      "callout": null
+    },
+    {
+      "i": 41,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You think he's lost? He is a stranger in a strange land. His true threat lies in his ancient conquering bloodline,",
+      "callout": {
+        "text": "TRUE THREAT LIES",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 42,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "his brute force and his supernatural abilities, not his reading habits. So the books are just the books are a crutch for a relic of the dark ages. That's all. Okay, but listen to the count's own speech to Harker in that very library.",
+      "callout": null
+    },
+    {
+      "i": 43,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Remind me. He states explicitly that he wants to know London's crowded streets so he can be master still. Well, yeah, he wants to rule.",
+      "callout": {
+        "text": "WANTS TO RULE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 44,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But he says to Harker, I am content if I am like the rest. So that no man stops if he see me or pause in his speaking if he hear my words to say ha a stranger.",
+      "callout": null
+    },
+    {
+      "i": 45,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is actively learning the English intonation, the slang, the mechanics of their society to blend in completely.",
+      "callout": null
+    },
+    {
+      "i": 46,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The data is his camouflage. He is absorbing the empire's information to become invisible within it. Okay. The intention is clear enough.",
+      "callout": {
+        "text": "CLEAR ENOUGH",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 47,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I suppose he's exploiting modern information to mask his ancient evil.",
+      "callout": null
+    },
+    {
+      "i": 48,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He wraps himself in the trappings of a gentleman scholar to move unseen among the populace. So the paperwork secures his arrival and he is using modern data to hide his ancient nature.",
+      "callout": {
+        "text": "DATA TO HIDE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 49,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But this leads us to the next terrible question, which is, what happens when the physical reality of this creature defies all logic and cannot be recorded in any normal way?",
+      "callout": null
+    },
+    {
+      "i": 50,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, that brings us to exhibit 3, the shaving mirror. it is the morning of May 8th.",
+      "callout": null
+    },
+    {
+      "i": 51,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Parker is standing in his room, shaving by the light of a small glass he hung by the heavy window. A very mundane morning task.",
+      "callout": null
+    },
+    {
+      "i": 52,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Totally normal. Then he hears a voice say, \"Good morning.\" feels a hand on his shoulder and looks into the glass. And this is where it goes wrong. The glass shows the entire room behind him.",
+      "callout": {
+        "text": "GOES WRONG",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 53,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "The fire burning in the great, the heavy furniture, but no count. No reflection at all. None. Harker cuts himself in his shock.",
+      "callout": null
+    },
+    {
+      "i": 54,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The blood trickles down his chin. And the count reacts to that, right? The count sees the blood and his eyes just blaze with a demoniac fury.",
+      "callout": null
+    },
+    {
+      "i": 55,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He lunges for Harker's throat with terrifying speed. His hands clawing like an animal. But he doesn't get it. No, because his hand touches the string of beads holding Harker's crucifix. The count recoils",
+      "callout": null
+    },
+    {
+      "i": 56,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "instantly, his fury vanishing. He grabs the mirror, declares it a foul bobble of man's vanity, and throws it out the heavy window, shattering it on the stones a thousand ft below. See, the mirror isn't the focal point of",
+      "callout": null
+    },
+    {
+      "i": 57,
+      "shot": "insert",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "SCENE EXPLICITLY PROVES THE PHYSICAL",
+          "HOW CAN YOU SAY"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "that encounter at all. How can you say that? Because the scene explicitly proves the physical, undeniable power of the crucifix.",
+      "callout": null
+    },
+    {
+      "i": 58,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Faith and a tangible holy object stopped a lethal attack in its tracks. Well, yes, it stopped the attack.",
+      "callout": null
+    },
+    {
+      "i": 59,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "A journal entry did not save Jonathan Harker's throat. A symbol of divine protection did. But look at what Harker does next, He freaks out because Dracula leaves no physical reflection,",
+      "callout": null
+    },
+    {
+      "i": 60,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "no footprint, no shadow. Harker is forced to write this impossible event down that very night in his journal to process it.",
+      "callout": null
+    },
+    {
+      "i": 61,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, more than that. He realizes he is trapped in a castle with a phantom. The written diary must literally become the mirror to prove the monster exists.",
+      "callout": null
+    },
+    {
+      "i": 62,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Harker is trying to anchor himself to reality using ink. I mean, the diary is a coping mechanism for a terrified young man.",
+      "callout": null
+    },
+    {
+      "i": 63,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "The crucifix is the weapon that actually saved his But listen to Harker's desperate journal entry written immediately after this What does he write?",
+      "callout": null
+    },
+    {
+      "i": 64,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He realizes he must rely on quote bare meager facts verified by books and figures to keep his sanity. Books and figures.",
+      "callout": null
+    },
+    {
+      "i": 65,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The horror is so vast, so inexplicable that he has to reduce it to data to survive it. He needs a written record to prove to himself that he is not losing his mind because his",
+      "callout": {
+        "text": "NOT LOSING HIS MIND",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 66,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "own eyes cannot be Okay, we can observe that the lack of a reflection forces the victims to create a meticulous paper trail just to prove to themselves they aren't insane.",
+      "callout": null
+    },
+    {
+      "i": 67,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right? The written word replaces the physical evidence of his presence. Yes, a diary might save your sanity when you are locked in a castle bedroom.",
+      "callout": null
+    },
+    {
+      "i": 68,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the doubt arises. Will a log book save a crew trapped on the open sea? That is exhibit 4. The demeanor's log. A brutal chapter.",
+      "callout": null
+    },
+    {
+      "i": 69,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So brutal. It is August in the seaside town of Whitby. A sudden violent storm brings a derelict Russian schooner, the demeanor, tearing into the harbor, just completely",
+      "callout": null
+    },
+    {
+      "i": 70,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "out of control. A Coast Guard boards her and finds a dead captain lashed to the wheel. Lashed to the wheel.",
+      "callout": {
+        "text": "FINDS A DEAD",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 71,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The man's hands are tied one over the other to the spokes, the cords cutting the flesh to the bone. And in his pocket is a carefully cked bottle containing a roll of paper.",
+      "callout": null
+    },
+    {
+      "i": 72,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is the ship's log. the only thing left. This log proves that when physical survival fails completely,",
+      "callout": null
+    },
+    {
+      "i": 73,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the written record is the only thing that lives on. The log meticulously documents the exact cargo that brought the doom upon the ship.",
+      "callout": null
+    },
+    {
+      "i": 74,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "50 boxes of earth. It chronicles the disaster. Okay, but look at the captain's hands. What about them? He died with a crucifix tied between his inner hand and the wood of the",
+      "callout": null
+    },
+    {
+      "i": 75,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "wheel. I know, but it was a martyr's courage, a holy stand against the devil himself, not a log book that defined his final moments.",
+      "callout": null
+    },
+    {
+      "i": 76,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He bowed himself to his duty and his god. He faced down a demon in a raging storm. Yeah. The board of trade inspector reads the log and it tracks the systematic, horrifying disappearance of the crew, man by man, date by date.",
+      "callout": null
+    },
+    {
+      "i": 77,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "A list of the dead. The record survives the men. But let me bring in the second scene from this The climax of the log. Yes, it is August 3rd on the ship.",
+      "callout": null
+    },
+    {
+      "i": 78,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "The fog is incredibly thick, clinging to the masts. The captain goes to relieve the man at the wheel, but no one is there.",
+      "callout": null
+    },
+    {
+      "i": 79,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Just gone. He shots for the mate. The mate rushes up on deck, wildeyed and haggarded, stark raving mad. He's lost it. He whispers to the captain that it is empty as the air. He says he crept behind it",
+      "callout": {
+        "text": "HE'S LOST",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 80,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "in the night and drove his knife into it, but the blade went through empty space. A physical attack that completely fails, right? And then the mate takes his knife, drives it savagely into the air to demonstrate, and then goes down to the hold to unscrew the wooden boxes,",
+      "callout": null
+    },
+    {
+      "i": 81,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "looking for it. Finally, in absolute despair, realizing physical force is useless, the mate screams, springs onto the ball work, and throws himself into the sea.",
+      "callout": {
+        "text": "BALL WORK",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 82,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "So grim. So the mate dried physical force. He used a knife, and it went right through the monster. The captain watched this happen and realized violence was entirely useless against this creature.",
+      "callout": null
+    },
+    {
+      "i": 83,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The only way to transmit the warning, the only action left to a rational man facing an immortal phantom was documentation. He put the log in the bottle. Look, the log didn't save a single soul on board that ship.",
+      "callout": null
+    },
+    {
+      "i": 84,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It warned people, did it? It just served as a coroner's report for a ghost ship. It recorded their deaths and did absolutely nothing to prevent them.",
+      "callout": null
+    },
+    {
+      "i": 85,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "The paper offered no protection whatsoever. But the settling evidence is what happens on land. What do you mean?",
+      "callout": null
+    },
+    {
+      "i": 86,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "The Whippby solicitor, Mr. Billington legally receives those 50 boxes of mold the very next day because of the paperwork. He has the consignment papers.",
+      "callout": null
+    },
+    {
+      "i": 87,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The legal consignment papers triumph over the tragedy of the ghost ship. The cargo is delivered because the bureaucracy is in order regardless of the dead men floating in the harbor.",
+      "callout": null
+    },
+    {
+      "i": 88,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. The ship brought death via completely legal documented cargo. The log was the sole survivor of the voyage while the crew perished despite their physical struggles. So, we see the ship brought death,",
+      "callout": {
+        "text": "SHIP BROUGHT DEATH",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 89,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "completely shielded by legitimate cargo manifests. But how can they measure the spread of this disease once it breaches the shore and takes root in London? Which brings us to exhibit 5,",
+      "callout": null
+    },
+    {
+      "i": 90,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Lucy's chart. Now, we get to the medical side of things, right? It is September.",
+      "callout": null
+    },
+    {
+      "i": 91,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We are inside Lucy Westenra's bedroom in London. The windows are closed against the night air.",
+      "callout": null
+    },
+    {
+      "i": 92,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Dr. Van Helsing and Dr. Seward perform a series of ghastly experimental blood transfusions. Highly experimental for the time.",
+      "callout": null
+    },
+    {
+      "i": 93,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Very. Over the course of several days, the blood of four strong men, Arthur Homewood, John Seward, Quincy Morris, and Van Helsing himself is pumped directly into one young woman's arm.",
+      "callout": {
+        "text": "FOUR STRONG",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 94,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And Seard is keeping track of all of Yes. Dr. Seard records it all on his phonograph diary, which operates as a medical chart.",
+      "callout": null
+    },
+    {
+      "i": 95,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He notes every physical Like what? her chalky power, her sturdous breathing,",
+      "callout": {
+        "text": "CHALKY POWER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 96,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "the white edges of the twin wounds on her neck. He meticulously measures the theft of her life cylinder by cylinder. But the medical charts are utterly blind to the reality of this situation.",
+      "callout": null
+    },
+    {
+      "i": 97,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Blind. They're recording everything. They are treating a spiritual curse, a demonic attack, as mere anemia. Science is just taking notes while she dies. They are weighing and measuring the",
+      "callout": null
+    },
+    {
+      "i": 98,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "symptoms of a supernatural predator using Victorian instruments. But the data is exactly what reveals the Listen to Van Helsing's frantic realization.",
+      "callout": null
+    },
+    {
+      "i": 99,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He looks at the pale girl and notes that four men's blood went into her veins. And he says her whole body wouldn't hold it",
+      "callout": {
+        "text": "WHOLE BODY",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 100,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "because it's too much liquid, right? And he asks the crucial question, what took it out? The data itself proves a supernatural drain is occurring. The mathematics of the blood loss",
+      "callout": null
+    },
+    {
+      "i": 101,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "prove a monster is feeding on her night after I mean, medical science impeccably documented a failing battle.",
+      "callout": null
+    },
+    {
+      "i": 102,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They recorded the immense loss of blood, but the charts couldn't cure her or stop the attacks from happening. The paper didn't heal her neck.",
+      "callout": {
+        "text": "STOP",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 103,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "They measured the failure perfectly, proving the supernatural drain, which leaves us with a huge doubt.",
+      "callout": {
+        "text": "HUGE DOUBT",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 104,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Go ahead. If modern science and medical data fail to save a life, what happens when they abandon science and turn to ancient superstitions?",
+      "callout": {
+        "text": "MEDICAL DATA FAIL",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 105,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, exhibit six. The garlic at the open window.",
+      "callout": null
+    },
+    {
+      "i": 106,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "This one is so frustrating to read. It really is. We are still in Lucy's room. Then Helsing brings a box of wild garlic all the way from Harlem.",
+      "callout": {
+        "text": "LUCY'S ROOM",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 107,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Special delivery. He rubs the flowers all over the window sashes, the jam of the door and the fireplace. He fashions a thick wreath of it and places it securely around Lucy's And he's very",
+      "callout": null
+    },
+    {
+      "i": 108,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "strict about this. He tells her not to disturb it under any circumstances. But in the morning, Lucy's loving mother, Mrs.",
+      "callout": null
+    },
+    {
+      "i": 109,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Wenra, comes Oh, Mrs. Worenra. She thinks the room feels stuffy and smells foul. So, she opens the window, takes the garlic wreath off her sleeping daughter's neck, and",
+      "callout": {
+        "text": "THINKS THE ROOM",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 110,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "throws it out. Just completely undoes the whole Yes, this exhibit points the other way. The failure here wasn't a lack of paperwork or data. It was a physical human breach.",
+      "callout": null
+    },
+    {
+      "i": 111,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The belief in the garlic was profoundly accurate and removing it doomed her. It proves that human ignorance and a lack of respect for the strict rules of the occult led to her death. The mother didn't understand the physical",
+      "callout": {
+        "text": "STRICT RULES",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 112,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "power of the ward and her mundane action invited the monster back And look at the consequence. The settling evidence is the scene that the bat.",
+      "callout": null
+    },
+    {
+      "i": 113,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "The great bat flaps at the window in the moonlight and Lucy in her lethargic, mesmerized state tears the replaced garlic flowers from her own throat in her sleep cuz she's under his control now, right?",
+      "callout": null
+    },
+    {
+      "i": 114,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The physical ward was incredibly powerful, but the human element subverted it from within. So, belief in ancient wards held real physical power to repel the creature, but they were tragically subverted",
+      "callout": {
+        "text": "HUMAN ELEMENT SUBVERTED",
+        "style": "box"
+      }
+    },
+    {
+      "i": 115,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "by human error and the monster's hypnotic control over his victim. The physical defenses fell to human interference, which leads to the agonizing doubt.",
+      "callout": null
+    },
+    {
+      "i": 116,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "What is Lucy's final human act before the curse consumes her completely? Let's look at exhibit 7.",
+      "callout": null
+    },
+    {
+      "i": 117,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Lucy's The scene is chaos. Absolute chaos. The men burst into Lucy's room after the final fatal attack.",
+      "callout": null
+    },
+    {
+      "i": 118,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The maids are drugged on the floor in the hallway. The mother is dead of a heart attack on the bed. And Lucy is dying.",
+      "callout": {
+        "text": "DEAD OF A HEART",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 119,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a total defeat. And when they carry her to the bath, a piece of paper drops from her breast.",
+      "callout": null
+    },
+    {
+      "i": 120,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The memorandum dying. As her mother collapsed beside her in the room filled with a swirling mist and red eyes, she had written down exactly what happened. She hid the paper in her dress.",
+      "callout": null
+    },
+    {
+      "i": 121,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "See, even as her soul is being ripped away, Lucy's final human instinct is to file a report. A report? Yes. This memorandum is the crucial victim witness testimony. She ensures there is a record",
+      "callout": null
+    },
+    {
+      "i": 122,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "of the attack. It is a tragic, ultimately useless gesture. Yes. She files a report. She dies. She becomes a monster.",
+      "callout": null
+    },
+    {
+      "i": 123,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And the men ultimately have to go to her tomb, physically cut off her head, and drive a wooden steak through her heart to stop But the paper, a piece of paper hidden in a night gown didn't stop the fangs from piercing her throat.",
+      "callout": null
+    },
+    {
+      "i": 124,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Action stopped her, not her But the paper is treated as a massive threat by her protectors. Van Helsing seizes the memorandum and immediately hides it.",
+      "callout": null
+    },
+    {
+      "i": 125,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He explicitly states to Seward that he must conceal it from the coroner to avoid an inquest. Well, yeah, an inquest would be a He says it is not well that her very thoughts go into the hands of strangers.",
+      "callout": null
+    },
+    {
+      "i": 126,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The paper is dangerously real evidence. It could bring the police, the law, and total exposure to their hunt.",
+      "callout": {
+        "text": "REAL EVIDENCE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 127,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. Her final act was creating an archive of the attack, but the men immediately suppressed it to protect their own operation and her reputation.",
+      "callout": null
+    },
+    {
+      "i": 128,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The evidence was buried. They hid the file to protect themselves from the And the doubt that remains is how can these hidden fragmented secrets locked in photograph cylinders and concealed diaries ever be weaponized against the",
+      "callout": null
+    },
+    {
+      "i": 129,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "That is exhibit 8. Mina's typewriter. It is late September. Mina Harker sits at her typewriter in Dr. Seard's asylum study. She is surrounded by a chaotic",
+      "callout": null
+    },
+    {
+      "i": 130,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "pile of media. Just a mountain of different formats. Seward's wax photograph cylinders. Jonathan's shorthand journal from Transennsylvania.",
+      "callout": null
+    },
+    {
+      "i": 131,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Lucy's letters and Whitby newspaper clippings, She is typing them all out, translating the shortorthhand, transcribing the audio, and organizing every single piece of data into one massive chronological getting",
+      "callout": {
+        "text": "PIECE OF DATA",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 132,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "it all in one place. This is the ultimate turning point of the war. Dracula is defeated by administrative collation.",
+      "callout": null
+    },
+    {
+      "i": 133,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, come on. He is. By typing the data in order, the timeline suddenly reveals the existence, the movement, and the exact number of the 50 boxes of Earth.",
+      "callout": {
+        "text": "TYPING THE DATA",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 134,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The pattern emerges from the chaos. The typewriter is just a machine processing words.",
+      "callout": null
+    },
+    {
+      "i": 135,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are elevating clerical work over combat. It's intelligence work. It is the men's physical courage. Their willingness confront a demon and their solemn vow to destroy the monster that actually gives them",
+      "callout": null
+    },
+    {
+      "i": 136,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "power. The typewriter doesn't swing a knife. It just records the bravery of those who do.",
+      "callout": null
+    },
+    {
+      "i": 137,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But look at the moment Lord Godlming and Quincy Morris read the typed manuscript in the library when they finally see the big picture.",
+      "callout": {
+        "text": "SEE THE BIG",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 138,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "For the first time, they understand the total terrifying truth of what they are fighting. The data connects the ghost ship in Whitby to the lunatic in the asylum to the house next door. It does connect the dots.",
+      "callout": {
+        "text": "FIRST TIME",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 139,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. But let me tell you the second scene involving this data. October 3rd. Yes. October 3rd. The men are out hunting the boxes. Mina is asleep in her bedroom.",
+      "callout": null
+    },
+    {
+      "i": 140,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The moonlight suddenly fails. Inside the room, a tall, thin man in black stands over Mina. He forces her hands back and grips her neck.",
+      "callout": {
+        "text": "INSIDE THE ROOM",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 141,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He pushes her face down onto his bleeding, torn open chest, forcing her to drink his blood. While Jonathan is right there, Jonathan lies beside them on the bed, trapped in a heavy, unnatural stuper.",
+      "callout": null
+    },
+    {
+      "i": 142,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "The count has breached the asylum. It's one of the most violating scenes in literature. It is. But ask yourself, why does he attack Mina? Dracula attacks her specifically",
+      "callout": {
+        "text": "ASK YOURSELF",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 143,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "because she is the archist. Oh, he attacks her because she's Before he attacks her, he goes to the study and burns the typed manuscripts and the wax cylinders.",
+      "callout": null
+    },
+    {
+      "i": 144,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He does destroy the room. Yeah. He throws them in the fire. He is executing a targeted destruction of their files.",
+      "callout": null
+    },
+    {
+      "i": 145,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He recognizes that the organized information is his greatest vulnerability. He attacks her out of sheer predatory vengeance. He wants to punish the men by corrupting their most cherished ally.",
+      "callout": null
+    },
+    {
+      "i": 146,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the files, and he is only stopped when Van Helsing bursts into the room and holds up the envelope containing the sacred wafer, the host.",
+      "callout": null
+    },
+    {
+      "i": 147,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "The count cowers from the host. Faith makes him turn to a faint vapor and flee, not paperwork. The holy relic repel the demon. But the immediate desperate",
+      "callout": null
+    },
+    {
+      "i": 148,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "realization after the attack settles the matter. What realization? Mina, her face smeared with blood, realizes he burned the files, but she cries out, \"Thank God, there is the other copy in",
+      "callout": {
+        "text": "MINA HER FACE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 149,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the safe.\" The backup file survives the vampire. The archive defeats the fire. The knowledge is preserved.",
+      "callout": null
+    },
+    {
+      "i": 150,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, the count recognized the massive threat of the compiled information and tried to wipe out their data, but their backup system survived the physical The data lives safe in a steel box.",
+      "callout": {
+        "text": "DATA LIVES SAFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 151,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "But having the data in a safe is one right? The doubt is how do they physically audit his properties scattered across the vast sprawl of",
+      "callout": null
+    },
+    {
+      "i": 152,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exhibit nine, the Carter's receipts. Back to the grunt work. Jonathan Harker tracks down a working-class Carter named Joseph Smalllet in Walworth, right?",
+      "callout": {
+        "text": "GRUNT WORK",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 153,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The guy who moved the boxes. Smalllet is in his shirt sleeves drinking tea from a saucer. Harker asks him about moving boxes from the Carfax estate. Smalllet pulls out a dogeared",
+      "callout": null
+    },
+    {
+      "i": 154,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "pocket ledger from his coat filled with thick, half obliterated pencil entries. his work log.",
+      "callout": null
+    },
+    {
+      "i": 155,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Dracula is undone by the workingclass keeping receipts. Smalllet's delivery addresses Chickan Street and Mile End, Jamaica Lane and Burmany",
+      "callout": null
+    },
+    {
+      "i": 156,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "provide the exact physical map to the counselors. They finally have the addresses.",
+      "callout": null
+    },
+    {
+      "i": 157,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "The audit trail exposes the monster's hidden network. Okay, but finding the boxes on a piece of paper isn't enough to end the threat.",
+      "callout": {
+        "text": "PAPER ISN'T ENOUGH",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 158,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's the first step. The men have to physically travel to those properties, break into them, pry open the heavy wooden lids with tools, and manually sterilize the earth",
+      "callout": null
+    },
+    {
+      "i": 159,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "by placing pieces of the sacred wafer inside, which is terrifying. Obviously, the receipts are just a map.",
+      "callout": null
+    },
+    {
+      "i": 160,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The sterilization is a physical holy act requiring immense bravery. You can't just read an address and banish a But the audit proves",
+      "callout": null
+    },
+    {
+      "i": 161,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "crucial to understanding their peril. The hunters break into the Piccadilly house. They open the boxes and check off the tally against Smlet's receipts, right?",
+      "callout": {
+        "text": "BREAK",
+        "style": "box"
+      }
+    },
+    {
+      "i": 162,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They count them. They expect to find nine boxes based on the shipping data.",
+      "callout": null
+    },
+    {
+      "i": 163,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They only find eight. One is missing. One is missing. The paperwork reveals the tactical flaw in their operation.",
+      "callout": null
+    },
+    {
+      "i": 164,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Without the ledger, they would have assumed victory. So, the receipts provided the map to the layers, but the missing box means the audit is dangerously incomplete. He has a physical refuge left somewhere",
+      "callout": null
+    },
+    {
+      "i": 165,
+      "shot": "closeUp",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "in the city. The paper trail led them to the layers, but now a box is missing. The doubt is how do they track a monster when the paper trail runs completely Which brings us to exhibit 10. Renfield's ledger.",
+      "callout": null
+    },
+    {
+      "i": 166,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "This is a disturbing one. Very. Inside the lunatic asylum, Dr. Seard studies his patient, Renfield.",
+      "callout": null
+    },
+    {
+      "i": 167,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Renfield keeps a literal ledger of consumed life, the flies. He eats flies, logs them in his pocketbook. He feeds the flies to spiders, eats the spiders, logs them. And then the birds.",
+      "callout": null
+    },
+    {
+      "i": 168,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He feeds the spiders to birds, eats the birds and logs them. It is a deranged mathematical escalation of absorbing life. It's a sickness.",
+      "callout": null
+    },
+    {
+      "i": 169,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Renfield is the count's biological barometer. He is logging the predator's approach in his twisted ledger, getting more agitated and murderous as the count draws near. The data is right there.",
+      "callout": null
+    },
+    {
+      "i": 170,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the doctors read the data too late. They see the numbers, but miss the correlation to the vampires movements. Look, you cannot classify Renfield's madness as data. Why not?",
+      "callout": {
+        "text": "DATA TOO LATE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 171,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "He's tracking it. He is a corrupted, broken soul manipulated by a demon. And look at his end. When Renfield finally tries to physically fight the count to protect Mina, the count doesn't alter a ledger.",
+      "callout": null
+    },
+    {
+      "i": 172,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, he doesn't. He physically breaks Renfield's back and smashes his face into the floor, leaving him in a pool of blood. Brute strength ends the patient's life.",
+      "callout": null
+    },
+    {
+      "i": 173,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Renfield's dying words provide the crucial data point the hunters missed. The mist.",
+      "callout": null
+    },
+    {
+      "i": 174,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He reveals to Van Helsing in Seward that the count slid into his room like mist, bypassing all physical locks, heavy doors, and barred windows.",
+      "callout": null
+    },
+    {
+      "i": 175,
+      "shot": "diorama",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "The physical defenses were entirely useless. But Renfield's behavior predicted the exact attack vector. Okay. Renfield's escalating behavior predicted the attacks,",
+      "callout": null
+    },
+    {
+      "i": 176,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "but his sheer madness obscured the meaning of the data until it was too late to save him. The barometer broke. So, with the count now fleeing London, escaping down the river,",
+      "callout": {
+        "text": "TOO LATE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 177,
+      "shot": "medium",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. How can they possibly track him across the globe without a shipping Exhibit 11.",
+      "callout": null
+    },
+    {
+      "i": 178,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The timet. This part is fascinating. It is November. The count is on a ship fleeing back to Transennsylvania.",
+      "callout": null
+    },
+    {
+      "i": 179,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "At dawn, Mina is placed under hypnosis by Van Helsing. Because of the blood tie, she is spiritually tethered to the count because she drank his blood.",
+      "callout": null
+    },
+    {
+      "i": 180,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "In the trance, she reports hearing lapping waves, creaking masts, and wind. And immediately after waking from the trance, what does she do?",
+      "callout": null
+    },
+    {
+      "i": 181,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She looks for a train. She opens a railway guide. She admits she is a train fiend who studies timets, which is such a weird detail, but",
+      "callout": null
+    },
+    {
+      "i": 182,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "it works. She uses the hypnotic connection not for mysticism, but to cross reference the sounds of the water with train timets, finding the 630",
+      "callout": {
+        "text": "630",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 183,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "train for Galat. She maps his route. The supernatural is subjected to railway logistics. She treats uh psychic vision as raw transit data. The hypnotic trance is a",
+      "callout": null
+    },
+    {
+      "i": 184,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "spiritual link forged in blood. It is a psychic tether, a dark miracle that allows her to see through his eyes and hear through his But she uses a book to figure it out. It is a cult power, not a",
+      "callout": {
+        "text": "CULT POWER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 185,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "timetable, that finds him on the Black Sea. The magic provides the location, but the visions are useless without the shipping data.",
+      "callout": null
+    },
+    {
+      "i": 186,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The hunters combine Mina's psychic visions with daily telegrams sent from Lloyds of London to Lord God tracking the ships tracking global maritime shipping reports. They merge the blood magic with the",
+      "callout": null
+    },
+    {
+      "i": 187,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "maritime data to pinpoint the exact location of his ship the Zarina Catherine at the port of Galat.",
+      "callout": null
+    },
+    {
+      "i": 188,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "All right. The hunters successfully merge ancient blood magic with modern transit data to catch him at the port. But data can only track him.",
+      "callout": null
+    },
+    {
+      "i": 189,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "It cannot strike the final blow. And that is the ultimate doubt.",
+      "callout": null
+    },
+    {
+      "i": 190,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "What happens when the men finally catch the cart in the snow? Exhibit 12, the knives in the snow. The grand finale.",
+      "callout": null
+    },
+    {
+      "i": 191,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is November 6th, approaching sunset. We are in the frozen shadow of Castle Dracula.",
+      "callout": null
+    },
+    {
+      "i": 192,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "A fastoving cart races through the drifting snow driven by Sagani armed with rifles, racing against the sun. Inside the cart is the final wooden box.",
+      "callout": null
+    },
+    {
+      "i": 193,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "The hunters surround them. Jonathan Harker, his eyes blazing, wields his great kukri knife, a massive blade.",
+      "callout": null
+    },
+    {
+      "i": 194,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Quincy Morris wields a Bowie knife. The box is breached, the lid thrown back. Harker's blade slashes through the count's throat.",
+      "callout": null
+    },
+    {
+      "i": 195,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Morris's blade plunges into his heart and he's gone. The knives flash just as the sun dips below the horizon, and the count crumbles instantly into a pile of dust.",
+      "callout": null
+    },
+    {
+      "i": 196,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Look at the scene you just described. I know it's very physical. It was the literal knives, the trenchant steel blades, and the immense physical courage of the men charging armed guards in the snow that killed him.",
+      "callout": null
+    },
+    {
+      "i": 197,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Well, yes, but a typewriter did not sever his head. A shipping manifest did not pierce his heart. Courage and steel ended the Yes, but the monster is finally audited out of existence.",
+      "callout": {
+        "text": "NOT SEVER HIS HEAD",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 198,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is erased. And the novel ends with a note seven years later stating that hardly one authentic paper remains. only a mass of typewriting,",
+      "callout": null
+    },
+    {
+      "i": 199,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "which is a very strange way to end the Here's the honest criticism of this entire archive. Let's hear it. The entire collection of evidence we just read, the book itself, consists of typed copies",
+      "callout": null
+    },
+    {
+      "i": 200,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "made by the winners. Right? There's no original proof. The fear of the foreigner, the dread of the Eastern Invader bringing contagion and buying up London real estate is simply the British Empire's prejudice filed",
+      "callout": {
+        "text": "NO ORIGINAL PROOF",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 201,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "as absolute fact. That's a heavy reading. But think about it. that the evidence was entirely curated, typed, and controlled by the people who committed the murder in the snow. There are no original records left.",
+      "callout": null
+    },
+    {
+      "i": 202,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "We only have what Mina chose to type. So, the physical threat of the vampire was destroyed in the snow by brave men, but the objective truth of the event is buried forever in subjective paperwork. If history is just a curated",
+      "callout": null
+    },
+    {
+      "i": 203,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "file of type copies, who was the real monster and who controls the narrative? Dracula was not staked by believers.",
+      "callout": null
+    },
+    {
+      "i": 204,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He was audited by clerks. on evidence that would not stand in",
+      "callout": null
+    }
+  ]
+}

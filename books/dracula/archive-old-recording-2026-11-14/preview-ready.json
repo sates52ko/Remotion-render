@@ -1,0 +1,19 @@
+{
+  "ready": false,
+  "at": "2026-11-16T08:11:42.592Z",
+  "head": "7980f07f169b0b1b7a4af7e8dd7df6c82993e355",
+  "configSha256": "2d7a128b127ee984e2cc2853bb496ced49a3b42c8aaffe8ad6f1eb3c646f1075",
+  "renderInputHash": "58126eed2950b40f",
+  "mute": {
+    "label": "final",
+    "sample": "fresh",
+    "n": 30,
+    "wrong": 2,
+    "dead": 2,
+    "adds": 9,
+    "pass": false
+  },
+  "failed": [
+    "blind mute test (fresh holdout sample)"
+  ]
+}

@@ -1,0 +1,934 @@
+[
+  {
+    "i": 243,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "typewriters",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Modern logistics"
+        },
+        {
+          "on": "strength",
+          "do": "cross",
+          "who": "dracula"
+        },
+        {
+          "on": "logistics",
+          "do": "title",
+          "text": "A BATTLE OF LOGISTICS",
+          "box": "accent"
+        }
+      ]
+    },
+    "explainedBy": "Modern administrative machinery turns the confrontation into a battle of logistics rather than strength.",
+    "noVisual": null
+  },
+  {
+    "i": 244,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SYSTEM DEFEATS THE ANOMALY",
+      "style": "box"
+    },
+    "set": "horizon",
+    "shotOverride": "wide",
+    "cast": [
+      "quincey",
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "fighting",
+    "partnerExpression": "afraid",
+    "partnerAction": "fighting",
+    "explainedBy": "Quincey intercepts Dracula outside his castle after the hunters map his route and beat him to the gates.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The vampire hunters intercept Dracula by calculating his travel route and arriving ahead of him.",
+      "concreteVisual": "Quincey Morris tackles and pins Dracula on the cold mountain approach before the vampire reaches the castle.",
+      "onScreenText": "SYSTEM DEFEATS THE ANOMALY",
+      "relationToPrevious": "Follows the logistical pursuit into the physical interception.",
+      "addedInformation": "Shows Quincey subduing Dracula through calculated positioning rather than magical intervention."
+    }
+  },
+  {
+    "i": 245,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A BROADER CRITICAL LENS",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "seward"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "A critical lens reveals that the celebrated triumph of progress carries darker ideological underpinnings.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The apparent victory for technological progress requires examination through a broader critical perspective.",
+      "concreteVisual": "Dr. Seward reviews case records in his study, contemplating the deeper implications of their victory.",
+      "onScreenText": "A BROADER CRITICAL LENS",
+      "relationToPrevious": "Shifts from the immediate physical victory to critical cultural analysis.",
+      "addedInformation": "Seward's uneasy study introduces the academic critique of Victorian anxiety."
+    }
+  },
+  {
+    "i": 246,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "technology",
+          "do": "dim",
+          "who": "dracula"
+        },
+        {
+          "on": "dracula",
+          "do": "label",
+          "who": "dracula",
+          "text": "Target of anxiety"
+        }
+      ]
+    },
+    "explainedBy": "Dracula is defeated by technology, but his character embodies deep Victorian conservative anxiety.",
+    "noVisual": null
+  },
+  {
+    "i": 247,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CUTTING EDGE SCIENCE TO WIN",
+      "style": "highlight"
+    },
+    "set": "library",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Jonathan questions the paradox of cutting-edge scientific victory masking reactionary conservative dread.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The listener questions how a story utilizing cutting-edge science can be driven by conservative anxiety.",
+      "concreteVisual": "Jonathan Harker stands in his study with an inquisitive, bewildered expression as the apparent paradox is raised.",
+      "onScreenText": "CUTTING EDGE SCIENCE TO WIN",
+      "relationToPrevious": "Voices the listener's perplexity at juxtaposing modern science with reactionary motives.",
+      "addedInformation": "Presents Jonathan's bewilderment at the tension between technological triumph and cultural dread."
+    }
+  },
+  {
+    "i": 248,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "year1897"
+        ]
+      },
+      "events": [
+        {
+          "on": "reverse",
+          "do": "title",
+          "text": "REVERSE COLONIZATION"
+        },
+        {
+          "on": "Empire",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "writing",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The year 1897 marks the apex of the British Empire and the birth of reverse colonization anxiety.",
+    "noVisual": null
+  },
+  {
+    "i": 249,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SPANNED THE GLOBE",
+      "style": "highlight"
+    },
+    "set": "library",
+    "shotOverride": "medium",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The vast global expansion of the British Empire bred deep anxiety over vulnerable imperial borders.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The global reach of the Victorian empire produced profound geopolitical vulnerability.",
+      "concreteVisual": "Van Helsing gestures thoughtfully before his book collection, describing imperial overextension.",
+      "onScreenText": "SPANNED THE GLOBE",
+      "relationToPrevious": "Elaborates on the vast imperial extent introduced in 1897.",
+      "addedInformation": "Frames imperial expansion as the underlying cause of Victorian paranoia."
+    }
+  },
+  {
+    "i": 250,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "INFECTED FROM THE OUTSIDE",
+      "style": "reveal"
+    },
+    "set": "library",
+    "shotOverride": "medium",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "afraid",
+    "action": "point",
+    "explainedBy": "The British imperial center feared biological and cultural infection from foreign outsiders.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Imperial expansion generated a xenophobic terror of external contamination entering Britain.",
+      "concreteVisual": "Van Helsing points with growing dread toward an ominous storm gathering beyond the empire's borders.",
+      "onScreenText": "INFECTED FROM THE OUTSIDE",
+      "relationToPrevious": "Defines the specific nature of the conservative anxiety: fear of foreign infection.",
+      "addedInformation": "Visualizes the foreign threat as an encroaching tempest threatening the metropole."
+    }
+  },
+  {
+    "i": 251,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "UNCIVILIZED MARGINS",
+        "IMPERIAL CENTER"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A flow diagram diagrams the feared reverse assault from marginal colonies to the imperial center.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Reverse colonization imagines peripheral territories striking back into the metropolitan heartland.",
+      "concreteVisual": "A two-stage flow diagram tracing the trajectory from uncivilized margins to the imperial center.",
+      "onScreenText": "UNCIVILIZED MARGINS → IMPERIAL CENTER",
+      "relationToPrevious": "Formalizes the geopolitical direction of the threat into a causal flow.",
+      "addedInformation": "Shows how imperial fear diagrams the vector of retaliation from margins to center."
+    }
+  },
+  {
+    "i": 252,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "fear",
+          "do": "title",
+          "text": "REPRESENTING THE FEAR"
+        },
+        {
+          "on": "corruption",
+          "do": "shake",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula personifies the Victorian fear of Eastern European disease and cultural corruption.",
+    "noVisual": null
+  },
+  {
+    "i": 253,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "feudalism",
+          "do": "label",
+          "who": "dracula",
+          "text": "Archaic feudalism"
+        },
+        {
+          "on": "infect",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        },
+        {
+          "on": "london",
+          "do": "label",
+          "who": "london",
+          "text": "Modern metropolis"
+        }
+      ]
+    },
+    "explainedBy": "Dracula's archaic feudalism moves to infect the modern metropolis of London.",
+    "noVisual": null
+  },
+  {
+    "i": 254,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "lucy"
+        ]
+      },
+      "events": [
+        {
+          "on": "property",
+          "do": "title",
+          "text": "BUYS CARFAX ESTATE",
+          "box": "accent"
+        },
+        {
+          "on": "draining",
+          "do": "dim",
+          "who": "lucy"
+        }
+      ]
+    },
+    "explainedBy": "Dracula acquires property near the asylum and drains the vitality of aristocratic Lucy Westenra.",
+    "noVisual": null
+  },
+  {
+    "i": 255,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A FOREIGN CONTAMINANT",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "jonathan"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "hold",
+    "holds": "notes",
+    "explainedBy": "The professional elite—men of law and science—organize to purge the foreign contaminant from the empire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula threatens imperial purity as a foreign biological and genealogical contaminant.",
+      "concreteVisual": "Van Helsing and Jonathan Harker confer in their legal study, representing science and law aligned against contamination.",
+      "onScreenText": "A FOREIGN CONTAMINANT",
+      "relationToPrevious": "Expands the attack on Lucy into a systemic threat against imperial bloodlines.",
+      "addedInformation": "Frames Jonathan and Van Helsing as institutional defenders of the social hierarchy."
+    }
+  },
+  {
+    "i": 256,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "BUREAUCRATIC EMPIRE",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "explainedBy": "The men of science and law wield administrative paperwork and legal authority as weapons.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern scientific and administrative methods are not morally neutral instruments.",
+      "concreteVisual": "Jonathan Harker grips administrative case notes and legal documents with a stern, focused face beside a law scale icon.",
+      "onScreenText": "BUREAUCRATIC EMPIRE",
+      "relationToPrevious": "Questions the objective, neutral framing of the protagonists' tools.",
+      "addedInformation": "Prepares the critical reveal that Victorian administrative science serves ideological power."
+    },
+    "holds": "notes"
+  },
+  {
+    "i": 257,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "A DEFENSIVE SHIELD",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "Modern tools serve as an aggressive defensive shield to preserve Victorian patriarchal dominance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Victorian technology serves as a defensive bulwark preserving racial and patriarchal hegemony.",
+      "concreteVisual": "Van Helsing stands resolute beside the shield emblem, defending imperial Victorian dominance.",
+      "onScreenText": "A DEFENSIVE SHIELD",
+      "relationToPrevious": "Answers the question of neutrality by defining the tools as an ideological shield.",
+      "addedInformation": "Unmasks scientific progress as an instrument of conservative institutional preservation."
+    }
+  },
+  {
+    "i": 258,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "typewriter",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "threat",
+          "do": "title",
+          "text": "DEFENDING THE EMPIRE",
+          "box": "accent"
+        },
+        {
+          "on": "typewriter",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Tool of modernity"
+        },
+        {
+          "on": "contamination",
+          "do": "cross",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "The typewriter is weaponized to defend the British Empire against foreign contamination.",
+    "noVisual": null
+  },
+  {
+    "i": 259,
+    "told": {
+      "events": [
+        {
+          "on": "typewriter",
+          "do": "grow",
+          "who": "typewriter",
+          "to": 1.25
+        },
+        {
+          "on": "conservative",
+          "do": "title",
+          "text": "CONSERVATIVE STATUS QUO",
+          "box": "ink"
+        }
+      ]
+    },
+    "explainedBy": "Modern technologies are weaponized to re-establish and cement the conservative Victorian status quo.",
+    "noVisual": null
+  },
+  {
+    "i": 260,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "mina",
+          "do": "change",
+          "who": "mina",
+          "action": "typing"
+        },
+        {
+          "on": "processor",
+          "do": "title",
+          "text": "BRILLIANT DATA PROCESSOR",
+          "box": "accent"
+        },
+        {
+          "on": "dracula",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina types and synthesizes information to expose and undermine Dracula.",
+    "noVisual": null
+  },
+  {
+    "i": 261,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EXCLUDE HER FROM THEIR MEETINGS",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "mina",
+      "helsing"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "angry",
+    "partnerAction": "point",
+    "explainedBy": "The men enforce traditional gender roles by shutting Mina out of the investigation she enabled.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The male hunters sideline and exclude Mina under the paternalistic pretense of protection.",
+      "concreteVisual": "Van Helsing bars the door while Mina Harker clutches her case notes in sadness, shut out of the council.",
+      "onScreenText": "EXCLUDE HER FROM THEIR MEETINGS",
+      "relationToPrevious": "Contrasts Mina's brilliant analytical contributions with her patriarchal exclusion.",
+      "addedInformation": "Exposes the hypocrisy of relying on Mina's modern labor while denying her agency."
+    }
+  },
+  {
+    "i": 262,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "BORDER CONTROL AND IMPERIAL HYGIENE",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The bureaucratic filing system operates as a mechanism of border control and racial hygiene.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Bureaucratic documentation functions simultaneously as an apparatus of imperial border control.",
+      "concreteVisual": "Jonathan Harker audits immigration dossiers beside the filing notes, enforcing imperial hygiene.",
+      "onScreenText": "BORDER CONTROL AND IMPERIAL HYGIENE",
+      "relationToPrevious": "Connects the technology of filing cabinets directly to border enforcement.",
+      "addedInformation": "Reveals that Victorian paper records operate as exclusionary border machinery."
+    }
+  },
+  {
+    "i": 263,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "THE MODERN",
+        "THE TRADITIONAL"
+      ],
+      "values": [
+        0.8
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A spectrum illustrates the synthesis of modern instruments deployed to preserve traditional structures.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The novel synthesizes modern technological instruments to defend reactionary traditional values.",
+      "concreteVisual": "A spectrum diagram mapping the dialectic between the modern and the traditional.",
+      "onScreenText": "THE MODERN ↔ THE TRADITIONAL",
+      "relationToPrevious": "Distills the central cultural thesis into a clear conceptual spectrum.",
+      "addedInformation": "Provides visual structure for the counterpoint between progressive tools and conservative ends."
+    }
+  },
+  {
+    "i": 264,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "REGULATING ITS BORDERS",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "The vampire hunt reframes moral combat as the aggressive imperial regulation of national borders.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The narrative conflict is fundamentally an exercise in imperial border regulation rather than moral melodrama.",
+      "concreteVisual": "Van Helsing gestures with strict authority beside the imperial law icon.",
+      "onScreenText": "REGULATING ITS BORDERS",
+      "relationToPrevious": "Replaces simplistic good versus evil with geopolitical border regulation.",
+      "addedInformation": "Anchors the story's climax in state border patrol rather than theological combat."
+    }
+  },
+  {
+    "i": 265,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "dracula",
+          "do": "title",
+          "text": "NEVER FELLED BY PIETY",
+          "box": "red"
+        },
+        {
+          "on": "strength",
+          "do": "cross",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "Count Dracula was never defeated by religious piety or raw physical strength.",
+    "noVisual": null
+  },
+  {
+    "i": 266,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "quincey"
+        ]
+      },
+      "events": [
+        {
+          "on": "strategy",
+          "do": "title",
+          "text": "NOT THE STRATEGY"
+        },
+        {
+          "on": "finishing",
+          "do": "dim",
+          "who": [
+            "quincey"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Quincey Morris and his Bowie knife were mere finishing tools rather than the actual strategic victory.",
+    "noVisual": null
+  },
+  {
+    "i": 267,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "THE STRATEGY WAS DATA",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "mina",
+      "jonathan"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "smirk",
+    "partnerAction": "point",
+    "explainedBy": "The vampire is audited, tracked, and dismantled by bureaucratic data trails and communication networks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The vampire was systematically dismantled by bureaucratic data collection and communication networks.",
+      "concreteVisual": "Mina and Jonathan Harker review cross-indexed dossiers and telegraph logs in their administrative office.",
+      "onScreenText": "THE STRATEGY WAS DATA",
+      "relationToPrevious": "Reveals what the actual winning strategy was: systematic data collation.",
+      "addedInformation": "Shows the husband-and-wife clerks operating as the intellectual vanguard of the bureaucratic state."
+    }
+  },
+  {
+    "i": 268,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "THE SHIPPING MANIFEST",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Commercial shipping manifests and train timetables served as the decisive weapon against the vampire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Commercial shipping manifests and train schedules formed the real lethal weapon against Dracula.",
+      "concreteVisual": "Jonathan Harker holds up railway and shipping schedules beside the timetable clock.",
+      "onScreenText": "THE SHIPPING MANIFEST",
+      "relationToPrevious": "Identifies the specific administrative documents that trapped Dracula.",
+      "addedInformation": "Substitutes wooden stakes with logistics schedules as the instrument of execution."
+    }
+  },
+  {
+    "i": 269,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "typewritten",
+          "do": "label",
+          "who": "jonathan",
+          "text": "Administrative clerk"
+        },
+        {
+          "on": "warlord",
+          "do": "label",
+          "who": "dracula",
+          "text": "Archaic warlord"
+        },
+        {
+          "on": "dismantled",
+          "do": "dim",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "The administrative clerk Jonathan Harker completely dismantles the archaic warlord Dracula with paper records.",
+    "noVisual": null
+  },
+  {
+    "i": 270,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "year1897",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "typewriters",
+          "do": "title",
+          "text": "DEFEATED BY TYPEWRITERS"
+        },
+        {
+          "on": "defeated",
+          "do": "dim",
+          "who": [
+            "year1897"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Reflects on how the vampire was defeated in 1897 through typewriters and mechanical schedules.",
+    "noVisual": null
+  },
+  {
+    "i": 271,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "ALGORITHMS AND DATA BROKERS",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "silhouette",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Poses how an ancient predatory evil would exploit modern algorithms and global data brokers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern algorithms and global data networks offer far greater avenues of manipulation for an ancient predator.",
+      "concreteVisual": "Count Dracula's shadow looms beside the puppeteer icon, contemplating manipulation of algorithmic networks.",
+      "onScreenText": "ALGORITHMS AND DATA BROKERS",
+      "relationToPrevious": "Translates Victorian administrative horror into modern algorithmic exploitation.",
+      "addedInformation": "Visualizes the ancient predator as a puppetmaster of contemporary data networks."
+    }
+  },
+  {
+    "i": 272,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "dracula",
+          "do": "title",
+          "text": "IF DRACULA ARRIVED TODAY",
+          "box": "accent"
+        },
+        {
+          "on": "ceo",
+          "do": "crown",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "Speculates whether Dracula would be defeated by modern information systems or crowned their corporate CEO.",
+    "noVisual": null
+  },
+  {
+    "i": 273,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "TERMS OF SERVICE",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Modern consumers struggle to untangle the deliberate legal labyrinths of tech monopolies.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern consumer bureaucracy and monopoly legal terms mirror the obfuscation of predatory systems.",
+      "concreteVisual": "Jonathan Harker stares bewildered at a dense corporate contract beside the law emblem.",
+      "onScreenText": "TERMS OF SERVICE",
+      "relationToPrevious": "Grounds the predatory threat in mundane modern bureaucratic frustration.",
+      "addedInformation": "Connects Victorian legal labyrinths to opaque contemporary terms of service."
+    }
+  },
+  {
+    "i": 274,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "disguised",
+          "do": "cover",
+          "who": "dracula"
+        },
+        {
+          "on": "dracula",
+          "do": "title",
+          "text": "Hidden in shell companies",
+          "box": "red"
+        }
+      ]
+    },
+    "explainedBy": "A predator disguised as legitimate transactions obscures detection behind shell corporations.",
+    "noVisual": null
+  },
+  {
+    "i": 275,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "london",
+          "year1897"
+        ]
+      },
+      "events": [
+        {
+          "on": "directory",
+          "do": "change",
+          "who": "london",
+          "action": "read"
+        },
+        {
+          "on": "server",
+          "do": "title",
+          "text": "SERVER FARM TODAY"
+        }
+      ]
+    },
+    "explainedBy": "If Dracula mastered London's Victorian directories in 1897, modern server infrastructure would multiply his power.",
+    "noVisual": null
+  },
+  {
+    "i": 276,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "shipping",
+          "do": "title",
+          "text": "LOOSE SHIPPING MANIFESTS",
+          "box": "accent"
+        },
+        {
+          "on": "inside",
+          "do": "shake",
+          "who": "earthbox"
+        }
+      ]
+    },
+    "explainedBy": "The final warning cautions viewers to watch shipping manifests, as the mysterious earth box stirs.",
+    "noVisual": null
+  }
+]

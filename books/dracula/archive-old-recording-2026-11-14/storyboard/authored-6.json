@@ -1,0 +1,996 @@
+[
+  {
+    "i": 206,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GAINS ACCESS TO MINA",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "mina"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Dracula gains entry to the asylum and corners Mina in her room.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula's invitation into the asylum grants him access to Mina.",
+      "concreteVisual": "Count Dracula entering the Victorian bedroom with a predatory smile while Mina cowers back in fear.",
+      "onScreenText": "GAINS ACCESS TO MINA",
+      "relationToPrevious": "Advances from Seward's blindness to the arrival of the monster in Mina's bedroom.",
+      "addedInformation": "Establishes the physical proximity that enables Dracula's assault."
+    }
+  },
+  {
+    "i": 207,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MOST BRILLIANT COUNTERATTACK",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Dracula's devastating attack provokes Van Helsing's brilliant counterattack.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula's attack sets the stage for Van Helsing's decisive counterattack.",
+      "concreteVisual": "Van Helsing standing resolutely holding notes while facing a hostile Count Dracula.",
+      "onScreenText": "MOST BRILLIANT COUNTERATTACK",
+      "relationToPrevious": "Introduces the impending counter-offensive that will reverse Dracula's advantage.",
+      "addedInformation": "Frames the conflict as an intellectual and strategic duel between the two men."
+    }
+  },
+  {
+    "i": 208,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "OPEN CHAOTIC WATER",
+      "style": "reveal"
+    },
+    "set": "shore",
+    "shotOverride": "wide",
+    "cast": [],
+    "explainedBy": "The vast churning expanse of the Black Sea represents chaotic infinite space.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Black Sea represents hundreds of miles of open, chaotic water.",
+      "concreteVisual": "The wide shore framing open turbulent water beneath a stormy sky.",
+      "onScreenText": "OPEN CHAOTIC WATER",
+      "relationToPrevious": "Establishes the first half of the scale contrast: infinite natural space.",
+      "addedInformation": "Visualizes Dracula's marine escape route as an uncontrollable wilderness."
+    }
+  },
+  {
+    "i": 209,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "PRECISE VICTORIAN TIMEKEEPING",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Van Helsing's ticking pocket watch pins down Dracula's infinite escape route.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Victorian timekeeping pins down Dracula's chaotic escape route.",
+      "concreteVisual": "Van Helsing pointing to a clock symbol in his study, measuring precise intervals.",
+      "onScreenText": "PRECISE VICTORIAN TIMEKEEPING",
+      "relationToPrevious": "Completes the contrast: small mechanical precision conquering vast natural space.",
+      "addedInformation": "Shows modern technology neutralizing supernatural wilderness."
+    }
+  },
+  {
+    "i": 210,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "dracula",
+          "london",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "war",
+          "do": "dim",
+          "who": "dracula"
+        },
+        {
+          "on": "sterilized",
+          "do": "cross",
+          "who": "earthbox"
+        }
+      ]
+    },
+    "explainedBy": "Dracula loses the war in London as the heroes sterilize his earth boxes.",
+    "noVisual": null
+  },
+  {
+    "i": 211,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ATTACKS MINA IN RETALIATION",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "mina"
+    ],
+    "expression": "angry",
+    "action": "walk",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Cut off from his assets, Dracula retaliates by attacking Mina in her bedroom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula lashes out in retaliation by attacking Mina.",
+      "concreteVisual": "Count Dracula angrily stalking toward Mina in her bedroom as she shrinks away in fear.",
+      "onScreenText": "ATTACKS MINA IN RETALIATION",
+      "relationToPrevious": "Transitions from Dracula's loss in London to his direct assault on Mina.",
+      "addedInformation": "Frames the attack on Mina as a desperate act of biological retaliation."
+    }
+  },
+  {
+    "i": 212,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FORCES HER TO DRINK",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "mina"
+    ],
+    "expression": "angry",
+    "action": "grabbing",
+    "partnerExpression": "afraid",
+    "partnerAction": "struggling",
+    "continue": true,
+    "explainedBy": "Dracula breaks into Mina's room and violently forces her to drink his blood.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula forces Mina to drink his blood from his chest.",
+      "concreteVisual": "Count Dracula forcefully grabbing Mina as she struggles desperately in horror.",
+      "onScreenText": "FORCES HER TO DRINK",
+      "relationToPrevious": "Continues the bedroom attack to the moment of violent physical violation.",
+      "addedInformation": "Directly depicts the novel's climactic assault using the paired grab/struggle actions."
+    }
+  },
+  {
+    "i": 213,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BOUNTIFUL WINE PRESS",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "mina"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "says": "flesh of my flesh blood of my blood",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "Dracula binds Mina to himself with a sinister covenant of blood.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula proclaims Mina as flesh of his flesh and his future companion.",
+      "concreteVisual": "Dracula speaking with a predatory smirk to Mina, who remains frozen in terror.",
+      "onScreenText": "BOUNTIFUL WINE PRESS",
+      "relationToPrevious": "Continues the assault sequence with Dracula's vocal pronouncement.",
+      "addedInformation": "Directly quotes Dracula's blasphemous wedding vow."
+    }
+  },
+  {
+    "i": 214,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "tether",
+          "do": "together",
+          "who": [
+            "dracula",
+            "mina"
+          ]
+        },
+        {
+          "on": "surveillance",
+          "do": "label",
+          "who": "dracula",
+          "text": "Psychic surveillance"
+        }
+      ]
+    },
+    "explainedBy": "Dracula establishes a psychic tether to Mina as an invasive surveillance technique.",
+    "noVisual": null
+  },
+  {
+    "i": 215,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "dracula",
+          "mina",
+          "helsing"
+        ]
+      },
+      "events": [
+        {
+          "on": "device",
+          "do": "shake",
+          "who": [
+            "mina"
+          ]
+        },
+        {
+          "on": "plans",
+          "do": "together",
+          "who": [
+            "helsing",
+            "mina"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula turns Mina into a transmitting device, but Van Helsing intervenes.",
+    "noVisual": null
+  },
+  {
+    "i": 216,
+    "told": {
+      "events": [
+        {
+          "on": "tether",
+          "do": "title",
+          "text": "THE TETHER GOES BOTH WAYS"
+        },
+        {
+          "on": "ways",
+          "do": "change",
+          "who": "helsing",
+          "action": "hypnosis"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing turns the tables, realizing the psychic tether operates in both directions.",
+    "noVisual": null
+  },
+  {
+    "i": 217,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MINA SEES THROUGH DRACULA",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "mina",
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "The mutual psychic tether allows Mina to see into Dracula's mind.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If Dracula can see through Mina, Mina can see through Dracula.",
+      "concreteVisual": "Mina pointing knowingly toward Dracula as his expression shifts to alarm.",
+      "onScreenText": "MINA SEES THROUGH DRACULA",
+      "relationToPrevious": "Translates the reciprocal connection into a visual confrontation.",
+      "addedInformation": "Shows the psychological reversal where the victim becomes the tracker."
+    }
+  },
+  {
+    "i": 218,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "BOUND BY STRICT RULES",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "slump",
+    "explainedBy": "Dracula is constrained by the strict natural limits placed upon his powers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula is bound by strict natural rules governing his powers.",
+      "concreteVisual": "Count Dracula standing slumped in frustration beside the chains icon.",
+      "onScreenText": "BOUND BY STRICT RULES",
+      "relationToPrevious": "Exposes the vampire's fundamental vulnerability: temporal limitation.",
+      "addedInformation": "Highlights that supernatural strength cannot break physical temporal laws."
+    }
+  },
+  {
+    "i": 219,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "STANDARDIZED TIMEKEEPING",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "Van Helsing uses standardized timekeeping to target the exact moments of Dracula's vulnerability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Van Helsing uses his gold pocket watch to time Dracula's moments of change.",
+      "concreteVisual": "Van Helsing pointing to a clock icon, calculating the precise moments of dawn and dusk.",
+      "onScreenText": "STANDARDIZED TIMEKEEPING",
+      "relationToPrevious": "Applies the vampire's temporal weakness to practical Victorian mechanics.",
+      "addedInformation": "Establishes modern standardized time as the weapon that counters ancient evil."
+    }
+  },
+  {
+    "i": 220,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HYPNOTIZES MINA AT DAWN",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "reach",
+    "partnerExpression": "blank",
+    "partnerAction": "sit",
+    "continue": true,
+    "explainedBy": "Van Helsing hypnotizes Mina at the exact transition times of dawn and dusk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At the exact moments of dawn and dusk, Van Helsing hypnotizes Mina.",
+      "concreteVisual": "Van Helsing reaching out to hypnotize Mina, who sits in a quiet trance.",
+      "onScreenText": "HYPNOTIZES MINA AT DAWN",
+      "relationToPrevious": "Synchronizes the pocket watch timing with the hypnotic interrogation.",
+      "addedInformation": "Stages the precise psychological procedure that taps Dracula's feed."
+    }
+  },
+  {
+    "i": 221,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "year1897"
+        ]
+      },
+      "events": [
+        {
+          "on": "hypnosis",
+          "do": "stamp",
+          "who": "year1897",
+          "text": "PSYCHIATRIC TOOL"
+        }
+      ]
+    },
+    "explainedBy": "In 1897, hypnosis evolved from a parlor trick into a legitimate psychiatric tool.",
+    "noVisual": null
+  },
+  {
+    "i": 222,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REPORTS SENSORY FEED",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "mina",
+      "helsing"
+    ],
+    "expression": "blank",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Mina drops into a trance and reports Dracula's sensory feed back to Van Helsing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mina enters a trance and eavesdrops on Dracula's sensory feed.",
+      "concreteVisual": "Mina speaking in a blank trance while Van Helsing listens attentively.",
+      "onScreenText": "REPORTS SENSORY FEED",
+      "relationToPrevious": "Begins the hypnotic interrogation of Dracula's immediate experience.",
+      "addedInformation": "Shows Mina acting as the living receiver of Dracula's sensory feed."
+    }
+  },
+  {
+    "i": 223,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WAVES LAPPING AGAINST THE SHIP",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "mina"
+    ],
+    "expression": "blank",
+    "action": "talk",
+    "says": "I can hear the waves lapping against the ship",
+    "explainedBy": "In her trance, Mina directly reports the sounds of waves and ship rigging.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mina recites Dracula's sensory perception of waves and ship rigging.",
+      "concreteVisual": "Close-up of Mina with eyes unfocused speaking the sounds of the sailing vessel.",
+      "onScreenText": "WAVES LAPPING AGAINST THE SHIP",
+      "relationToPrevious": "Provides the direct sensory testimony from inside Dracula's environment.",
+      "addedInformation": "Confirms that Dracula has escaped aboard a sailing ship."
+    }
+  },
+  {
+    "i": 224,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "BIOLOGICAL TETHER",
+        "MILITARY RECONNAISSANCE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The heroes convert Dracula's biological tether into military reconnaissance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The biological tether is weaponized into military reconnaissance.",
+      "concreteVisual": "A flow diagram linking Biological Tether directly to Military Reconnaissance.",
+      "onScreenText": "none",
+      "relationToPrevious": "Explains the analytical inversion of the vampire's psychic bond.",
+      "addedInformation": "Shows the strategic conversion of an invasive curse into a military asset."
+    }
+  },
+  {
+    "i": 225,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OVERPOWERS ANCIENT CURSE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "mina"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Precise Victorian timekeeping and hypnosis overpower Dracula's ancient curse.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pocket watch precision and hypnosis overpower the ancient blood curse.",
+      "concreteVisual": "Van Helsing smirking with satisfaction as he holds notes beside a recovered Mina.",
+      "onScreenText": "OVERPOWERS ANCIENT CURSE",
+      "relationToPrevious": "Reaches the breakthrough where the hunters discover Dracula's escape route.",
+      "addedInformation": "Affirms the triumph of modern analytical method over gothic horror."
+    }
+  },
+  {
+    "i": 226,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "transylvania"
+        ]
+      },
+      "events": [
+        {
+          "on": "Transylvania",
+          "do": "together",
+          "who": [
+            "dracula",
+            "transylvania"
+          ]
+        },
+        {
+          "on": "final",
+          "do": "title",
+          "text": "THE FINAL RACE"
+        }
+      ]
+    },
+    "explainedBy": "Dracula flees toward Transylvania, triggering the book's final logistical race.",
+    "noVisual": null
+  },
+  {
+    "i": 227,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FINAL CONTRAST",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "shotOverride": "wide",
+    "cast": [],
+    "explainedBy": "The host introduces the final contrast between ancient transport and modern communication.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The final sequence contrasts two modes of transport and communication side by side.",
+      "concreteVisual": "An abstract split visual framing the ideological divide between two eras.",
+      "onScreenText": "FINAL CONTRAST",
+      "relationToPrevious": "Sets up the overarching comparative framework for the final pursuit.",
+      "addedInformation": "Frames the climax not as a sword fight, but as an epochal contest of speeds."
+    }
+  },
+  {
+    "i": 228,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "SLOW HEAVY CARRIAGE",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "shotOverride": "wide",
+    "cast": [],
+    "explainedBy": "Dracula's slow, heavy carriage struggles along a snowy Eastern European riverbank.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula relies on a slow carriage struggling through snow.",
+      "concreteVisual": "A wide road through a dark snowy forest representing primitive physical transit.",
+      "onScreenText": "SLOW HEAVY CARRIAGE",
+      "relationToPrevious": "Depicts the first pole of the contrast: heavy physical struggle against terrain.",
+      "addedInformation": "Emphasizes the agonizing friction of archaic transport."
+    }
+  },
+  {
+    "i": 229,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "SPEED OF MODERN COMMUNICATION",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "wide",
+    "cast": [],
+    "explainedBy": "Modern telegraph wires and steam travel completely bypass ancient physical transit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Telegraphy and steam power bypass ancient physical transport.",
+      "concreteVisual": "A wide view of an industrialized telegraph station and urban rail network.",
+      "onScreenText": "SPEED OF MODERN COMMUNICATION",
+      "relationToPrevious": "Depicts the second pole: weightless instant information bypassing terrain.",
+      "addedInformation": "Shows Victorian technology eradicating spatial distance."
+    }
+  },
+  {
+    "i": 230,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "london",
+          "dracula",
+          "varna"
+        ]
+      },
+      "events": [
+        {
+          "on": "flees",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        },
+        {
+          "on": "Varna",
+          "do": "together",
+          "who": [
+            "dracula",
+            "varna"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula flees London on the Tsarina Catherine, sailing toward the port of Varna.",
+    "noVisual": null
+  },
+  {
+    "i": 231,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "hiding",
+          "do": "cover",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "infrastructure",
+          "do": "title",
+          "text": "INFRASTRUCTURE OF THE EMPIRE"
+        }
+      ]
+    },
+    "explainedBy": "Dracula hides inside his last earth box while the hunters mobilize imperial infrastructure.",
+    "noVisual": null
+  },
+  {
+    "i": 232,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "jonathan",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "race",
+          "do": "title",
+          "text": "THE LOGISTICAL RACE"
+        },
+        {
+          "on": "pack",
+          "do": "together",
+          "who": [
+            "mina",
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The hunters pack typewriters and documents for a logistical race across Europe.",
+    "noVisual": null
+  },
+  {
+    "i": 233,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ORIENT EXPRESS AND STEAM LAUNCHES",
+      "style": "reveal"
+    },
+    "set": "street",
+    "shotOverride": "twoShot",
+    "cast": [
+      "mina",
+      "jonathan"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "partnerExpression": "neutral",
+    "partnerAction": "walk",
+    "explainedBy": "The hunters board the Orient Express and mobilize steam launches and rail links.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The heroes take the Orient Express and rail connections to intercept Dracula.",
+      "concreteVisual": "Mina and Jonathan Harker walking purposefully along a Victorian street toward the train station.",
+      "onScreenText": "ORIENT EXPRESS AND STEAM LAUNCHES",
+      "relationToPrevious": "Mobilizes the group onto the continental rail network.",
+      "addedInformation": "Depicts the transition from domestic planning to rapid transit."
+    }
+  },
+  {
+    "i": 234,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "INTERNATIONAL TELEGRAPH LINES",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "wide",
+    "cast": [],
+    "explainedBy": "Industrialization and international telegraph lines allow the group to outpace nature.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "International telegraph lines bypass nature through industrial networks.",
+      "concreteVisual": "A wide office view framing telegraph network lines that span across borders.",
+      "onScreenText": "INTERNATIONAL TELEGRAPH LINES",
+      "relationToPrevious": "Highlights the communication layer running parallel to the train travel.",
+      "addedInformation": "Emphasizes imperial telecommunications as the network that outruns wind and tide."
+    }
+  },
+  {
+    "i": 235,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "reports",
+          "do": "title",
+          "text": "DAILY SHIPPING REPORTS"
+        },
+        {
+          "on": "shipping",
+          "do": "shake",
+          "who": [
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Arthur Holmwood secures daily telegraphic shipping reports from Lloyds of London.",
+    "noVisual": null
+  },
+  {
+    "i": 236,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRACKING IN REAL TIME",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "helsing",
+      "mina"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "letter",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The hunters track the Tsarina Catherine in real time via telegram reports.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Telegrams report the ship's coordinates, tracking Dracula in real time.",
+      "concreteVisual": "Van Helsing reading a telegram dispatch in the office beside Mina.",
+      "onScreenText": "TRACKING IN REAL TIME",
+      "relationToPrevious": "Translates telegraph data into actionable intel held in hand.",
+      "addedInformation": "Demonstrates that physical visual contact is made obsolete by data."
+    }
+  },
+  {
+    "i": 237,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE TRAIN FIEND",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "mina"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Mina's expertise in studying railway timetables provides their tactical edge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mina's passion for studying train timetables becomes their tactical weapon.",
+      "concreteVisual": "Mina Harker holding a railway timetable book with a confident smile.",
+      "onScreenText": "THE TRAIN FIEND",
+      "relationToPrevious": "Profiles Mina's unique logistical intellect.",
+      "addedInformation": "Celebrates Mina's bureaucratic competence as the ultimate foil to Dracula."
+    }
+  },
+  {
+    "i": 238,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "varna",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "Varna",
+          "do": "together",
+          "who": [
+            "mina",
+            "varna"
+          ]
+        },
+        {
+          "on": "bypassed",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "varna"
+          ]
+        },
+        {
+          "on": "instead",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "REROUTED TO GALATZ"
+        }
+      ]
+    },
+    "explainedBy": "The hunters reach Varna only to find Dracula bypassed them and rerouted to Galatz.",
+    "noVisual": null
+  },
+  {
+    "i": 239,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NEXT TRAIN AT SIX THIRTY",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "mina",
+      "helsing"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": "worried",
+    "partnerAction": "talk",
+    "explainedBy": "Van Helsing asks about the train and Mina immediately provides the 6:30 departure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mina immediately solves Dracula's diversion by identifying the 6:30 AM train to Galatz.",
+      "concreteVisual": "Mina calmly holding the timetable book with a confident smile as Van Helsing asks for departure times.",
+      "onScreenText": "NEXT TRAIN AT SIX THIRTY",
+      "relationToPrevious": "Overcomes Dracula's supernatural detour with instant logistical knowledge.",
+      "addedInformation": "Demonstrates that Victorian schedule data beats supernatural deception."
+    }
+  },
+  {
+    "i": 240,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "victory",
+          "do": "title",
+          "text": "DATA OVER GEOGRAPHY"
+        },
+        {
+          "on": "trapped",
+          "do": "cover",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula is trapped inside his wooden earth box as data defeats geography.",
+    "noVisual": null
+  },
+  {
+    "i": 241,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "unaware",
+          "do": "dim",
+          "who": "dracula"
+        },
+        {
+          "on": "speed",
+          "do": "pair",
+          "left": "15TH CENTURY",
+          "right": "19TH CENTURY"
+        }
+      ]
+    },
+    "explainedBy": "Dracula moves at 15th-century speed while the hunters travel at 19th-century speed.",
+    "noVisual": null
+  },
+  {
+    "i": 242,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LOCAL SLOVAK CARRIERS",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "shotOverride": "wide",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "worried",
+    "action": "walk",
+    "explainedBy": "Dracula relies on manual wilderness transport through local Slovak carriers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula must rely on local Slovak carriers to haul his box.",
+      "concreteVisual": "Count Dracula walking through a dense, snowy forest escorted by wilderness carriers.",
+      "onScreenText": "LOCAL SLOVAK CARRIERS",
+      "relationToPrevious": "Illustrates the primitive physical reality of Dracula's slow escape.",
+      "addedInformation": "Contrasts manual wilderness hauling with modern industrial velocity."
+    }
+  }
+]

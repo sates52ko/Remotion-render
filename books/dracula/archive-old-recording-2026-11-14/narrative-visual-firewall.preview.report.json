@@ -1,0 +1,3747 @@
+{
+  "version": "P2.0",
+  "slug": "dracula",
+  "status": "PREVIEW-REVIEW",
+  "counts": {
+    "scenes": 277,
+    "violations": 252,
+    "diagnostics": 154,
+    "blocks": 0,
+    "reviews": 406
+  },
+  "violations": [
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "intro",
+      "index": 0,
+      "kind": "fallback",
+      "unmet": "shot 'lowAngle' is not the measured-safe fallback lever 'diorama'",
+      "severity": "diagnostic",
+      "reason": "title card: no authorable lever (fixed callout style, no motif arc)",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "intro",
+      "index": 0,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'storm' is not grounded in this segment's narration",
+      "sceneId": "scene-01",
+      "index": 1,
+      "concept": "storm",
+      "severity": "diagnostic",
+      "segment": "It's casting these long, desperate shadows across the snow. And in the center of this chaos, a violently orchestrated final strike\nIt's casting these long, desp",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-01",
+      "index": 1,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crash' is not grounded in this segment's narration",
+      "sceneId": "scene-02",
+      "index": 2,
+      "concept": "crash",
+      "severity": "diagnostic",
+      "segment": "is taking place. Jonathan Harker, driven by sheer exhaustion and terror, brings down a heavy cookery knife, slicing through the air and shearing through the nec",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-02",
+      "index": 2,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-03",
+      "index": 3,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-04",
+      "index": 4,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-05",
+      "index": 5,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-05",
+      "index": 5,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'war' is not grounded in this segment's narration",
+      "sceneId": "scene-06",
+      "index": 6,
+      "concept": "war",
+      "severity": "diagnostic",
+      "segment": "question. How exactly was a creature who survived 500 years of brutal European warfare,\nquestion. How exactly was a creature who survived 500 years of brutal Eu",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-06",
+      "index": 6,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-07",
+      "index": 7,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "who fought the Ottoman Empire, who commanded armies in the very elements of nature, ultimately outmaneuvered\nwho fought the Ottoman Empire, who commanded armies",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-07",
+      "index": 7,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-08",
+      "index": 8,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'city' is not grounded in this segment's narration",
+      "sceneId": "scene-09",
+      "index": 9,
+      "concept": "city",
+      "severity": "diagnostic",
+      "segment": "In Dracula by Bram Stoker, the true terror isn't superstition. It is the nightmare that a modern empire's legal, administrative, and transport networks\nIn Dracu",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-09",
+      "index": 9,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-09",
+      "index": 9,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-09",
+      "index": 9,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-10",
+      "index": 10,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-11",
+      "index": 11,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "snow. You probably think Dracula is a Gothic fable about garlic, stakes, and religious faith. But in this deep dive, you will realize it is the world's first bu",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-11",
+      "index": 11,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-11",
+      "index": 11,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-13",
+      "index": 13,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-13",
+      "index": 13,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-14",
+      "index": 14,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-14",
+      "index": 14,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-15",
+      "index": 15,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-16",
+      "index": 16,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-16",
+      "index": 16,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-17",
+      "index": 17,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-17",
+      "index": 17,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-18",
+      "index": 18,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-18",
+      "index": 18,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-19",
+      "index": 19,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-20",
+      "index": 20,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-21",
+      "index": 21,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-21",
+      "index": 21,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-22",
+      "index": 22,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-23",
+      "index": 23,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-23",
+      "index": 23,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-24",
+      "index": 24,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-25",
+      "index": 25,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-25",
+      "index": 25,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-26",
+      "index": 26,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'balance' is not grounded in this segment's narration",
+      "sceneId": "scene-27",
+      "index": 27,
+      "concept": "balance",
+      "severity": "diagnostic",
+      "segment": "Is it really fair to call Dracula a capitalist predator when he's literally physically drinking people's blood?\" All right. They think, \"Isn't he just a monster",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-27",
+      "index": 27,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-27",
+      "index": 27,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-27",
+      "index": 27,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'coin' is not grounded in this segment's narration",
+      "sceneId": "scene-28",
+      "index": 28,
+      "concept": "coin",
+      "severity": "diagnostic",
+      "segment": "It's essential to understanding his mechanics. Think about it. Dracula hoards life force the exact same way a ruthless industrialist hoards land deeds,\nIt's ess",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-28",
+      "index": 28,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-28",
+      "index": 28,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'war' is not grounded in this segment's narration",
+      "sceneId": "scene-30",
+      "index": 30,
+      "concept": "war",
+      "severity": "diagnostic",
+      "segment": "He is a feudal warlord who has realized that in the late 19th century, true power isn't held by the guy swinging the biggest sword on a\nHe is a feudal warlord w",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-30",
+      "index": 30,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-30",
+      "index": 30,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-30",
+      "index": 30,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-31",
+      "index": 31,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "Right. tell by the guy who holds the Yes, the guy who controls the real estate, who can move goods across borders without being inspected by customs.\nRight. tel",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-31",
+      "index": 31,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-32",
+      "index": 32,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-33",
+      "index": 33,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-34",
+      "index": 34,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-34",
+      "index": 34,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-35",
+      "index": 35,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-36",
+      "index": 36,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-37",
+      "index": 37,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-37",
+      "index": 37,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-38",
+      "index": 38,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-39",
+      "index": 39,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-40",
+      "index": 40,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-41",
+      "index": 41,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-42",
+      "index": 42,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-43",
+      "index": 43,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-44",
+      "index": 44,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-45",
+      "index": 45,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-46",
+      "index": 46,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-46",
+      "index": 46,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-47",
+      "index": 47,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-47",
+      "index": 47,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-48",
+      "index": 48,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-50",
+      "index": 50,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-50",
+      "index": 50,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-51",
+      "index": 51,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-51",
+      "index": 51,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-51",
+      "index": 51,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-52",
+      "index": 52,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-52",
+      "index": 52,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-53",
+      "index": 53,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-53",
+      "index": 53,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-54",
+      "index": 54,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-54",
+      "index": 54,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-54",
+      "index": 54,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-55",
+      "index": 55,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-55",
+      "index": 55,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-56",
+      "index": 56,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-57",
+      "index": 57,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-57",
+      "index": 57,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-58",
+      "index": 58,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-59",
+      "index": 59,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-60",
+      "index": 60,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-61",
+      "index": 61,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-62",
+      "index": 62,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-63",
+      "index": 63,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-64",
+      "index": 64,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-64",
+      "index": 64,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-65",
+      "index": 65,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-65",
+      "index": 65,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-65",
+      "index": 65,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-66",
+      "index": 66,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-67",
+      "index": 67,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-68",
+      "index": 68,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-68",
+      "index": 68,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-69",
+      "index": 69,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-70",
+      "index": 70,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-70",
+      "index": 70,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-71",
+      "index": 71,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-72",
+      "index": 72,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-73",
+      "index": 73,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'concrete' is not satisfied by the scene: shot 'twoShot' not in [illustration,diorama,insert] and no diagram",
+      "sceneId": "scene-74",
+      "index": 74,
+      "kind": "concrete",
+      "unmet": "shot 'twoShot' not in [illustration,diorama,insert] and no diagram",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-75",
+      "index": 75,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-76",
+      "index": 76,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-76",
+      "index": 76,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-77",
+      "index": 77,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-77",
+      "index": 77,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-78",
+      "index": 78,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'water' is not grounded in this segment's narration",
+      "sceneId": "scene-79",
+      "index": 79,
+      "concept": "water",
+      "severity": "diagnostic",
+      "segment": "He travels entirely within the blind spots of modern maritime commerce. This is so fascinating. It is because he exploits the customs and Octroy\nHe travels enti",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-79",
+      "index": 79,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'mask' is not grounded in this segment's narration",
+      "sceneId": "scene-80",
+      "index": 80,
+      "concept": "mask",
+      "severity": "diagnostic",
+      "segment": "officers by using local agents who are paid to look the other way or who simply see a routine Wait, pause for a second.\nofficers by using local agents who are p",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-80",
+      "index": 80,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-81",
+      "index": 81,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "Yeah. What exactly is an Octroy officer? I think a lot of people hear that and just sort of gloss over it. Yeah, that's a great question. So, in the 19th centur",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-81",
+      "index": 81,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-81",
+      "index": 81,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-82",
+      "index": 82,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-83",
+      "index": 83,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-84",
+      "index": 84,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-84",
+      "index": 84,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-85",
+      "index": 85,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'road' is not grounded in this segment's narration",
+      "sceneId": "scene-86",
+      "index": 86,
+      "concept": "road",
+      "severity": "diagnostic",
+      "segment": "So, if we relate this to today, think about the last time you ordered something online and track the package. You see it move from a warehouse to a transit faci",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-87",
+      "index": 87,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "door. You trust that the system knows what's inside the box because of the barcode and the customs declaration. And Dracula is exploiting\ndoor. You trust that t",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-87",
+      "index": 87,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'mask' is not grounded in this segment's narration",
+      "sceneId": "scene-88",
+      "index": 88,
+      "concept": "mask",
+      "severity": "diagnostic",
+      "segment": "that exact trust. It's like a computer virus sneaking past a firewall by disguising itself as a standard system update. The system doesn't flag it because the c",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-88",
+      "index": 88,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-89",
+      "index": 89,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-90",
+      "index": 90,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-90",
+      "index": 90,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-91",
+      "index": 91,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-92",
+      "index": 92,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-93",
+      "index": 93,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-94",
+      "index": 94,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-95",
+      "index": 95,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-96",
+      "index": 96,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'target' is not grounded in this segment's narration",
+      "sceneId": "scene-97",
+      "index": 97,
+      "concept": "target",
+      "severity": "diagnostic",
+      "segment": "But once he's there, his goal isn't just to sit in an empty house. He needs to consume.\nBut once he's there, his goal isn't just to sit in an empty house. He ne",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-97",
+      "index": 97,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-97",
+      "index": 97,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-97",
+      "index": 97,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'door' is not grounded in this segment's narration",
+      "sceneId": "scene-98",
+      "index": 98,
+      "concept": "door",
+      "severity": "diagnostic",
+      "segment": "This shifts the war from the shipping docks to the human body. This is where things get incredibly intimate and horrifying. Right?\nThis shifts the war from the ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-98",
+      "index": 98,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-99",
+      "index": 99,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-100",
+      "index": 100,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-102",
+      "index": 102,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-104",
+      "index": 104,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-105",
+      "index": 105,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-106",
+      "index": 106,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-107",
+      "index": 107,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-108",
+      "index": 108,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'compass' is not grounded in this segment's narration",
+      "sceneId": "scene-109",
+      "index": 109,
+      "concept": "compass",
+      "severity": "diagnostic",
+      "segment": "absolutely did not. Carl Landsteiner didn't discover blood groups until 1900 a few years after Dracula was published. Oh wow. So they're just flying blind.\nabso",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-109",
+      "index": 109,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-110",
+      "index": 110,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-111",
+      "index": 111,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-112",
+      "index": 112,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'hourglass' is not grounded in this segment's narration",
+      "sceneId": "scene-113",
+      "index": 113,
+      "concept": "hourglass",
+      "severity": "diagnostic",
+      "segment": "and over the course of several days they literally pump the blood of four strong men into her. But no matter how much they put in,\nand over the course of severa",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-113",
+      "index": 113,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-114",
+      "index": 114,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'mask' is not grounded in this segment's narration",
+      "sceneId": "scene-115",
+      "index": 115,
+      "concept": "mask",
+      "severity": "diagnostic",
+      "segment": "and sexual panic in relation to this scene. Right? Let's break that down. What does somatic vulnerability mean here?\nand sexual panic in relation to this scene.",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-115",
+      "index": 115,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-116",
+      "index": 116,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "Somatic just refers to the physical body. Somatic vulnerability is the Victorian fear that the physical body despite all the advancements in hygiene and medicin",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-116",
+      "index": 116,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-116",
+      "index": 116,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'puppeteer' is not grounded in this segment's narration",
+      "sceneId": "scene-117",
+      "index": 117,
+      "concept": "puppeteer",
+      "severity": "diagnostic",
+      "segment": "That it could be invaded by disease or degeneracy or in this case a literal foreign body. Exactly. And the sexual panic comes from the intimacy of the act. The ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-117",
+      "index": 117,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'medical' is not grounded in this segment's narration",
+      "sceneId": "scene-118",
+      "index": 118,
+      "concept": "medical",
+      "severity": "diagnostic",
+      "segment": "an intense almost marital economy of life force. Yeah. Arthur Holmwood who fiance gives his blood first\nan intense almost marital economy of life force. Yeah. A",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-118",
+      "index": 118,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'gift' is not grounded in this segment's narration",
+      "sceneId": "scene-119",
+      "index": 119,
+      "concept": "gift",
+      "severity": "diagnostic",
+      "segment": "and he says if you only knew how gladly I would die for her you would understand.\nand he says if you only knew how gladly I would die for her you would understa",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-119",
+      "index": 119,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'medical' is not grounded in this segment's narration",
+      "sceneId": "scene-120",
+      "index": 120,
+      "concept": "medical",
+      "severity": "diagnostic",
+      "segment": "He feels that giving her his blood makes them truly married in the eyes of God. But then three other men also give her their blood. And Van Helsing later jokes ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-120",
+      "index": 120,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-120",
+      "index": 120,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-120",
+      "index": 120,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'war' is not grounded in this segment's narration",
+      "sceneId": "scene-121",
+      "index": 121,
+      "concept": "war",
+      "severity": "diagnostic",
+      "segment": "other men also gave their blood to his fiance, he might be rather jealous. It's a highly gendered physiological battle.\nother men also gave their blood to his f",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-121",
+      "index": 121,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'balance' is not grounded in this segment's narration",
+      "sceneId": "scene-122",
+      "index": 122,
+      "concept": "balance",
+      "severity": "diagnostic",
+      "segment": "The men are using their modern, scientifically processed masculine blood to try and out supply the vampire's archaic demand. They are injecting pints and pints ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-122",
+      "index": 122,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-123",
+      "index": 123,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'medical' is not grounded in this segment's narration",
+      "sceneId": "scene-124",
+      "index": 124,
+      "concept": "medical",
+      "severity": "diagnostic",
+      "segment": "completely oblivious to the mechanism of the drain. Right. Van Helsing is a scientist. He is a doctor who uses hypodermic injections of morphia and complex surg",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-124",
+      "index": 124,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'balance' is not grounded in this segment's narration",
+      "sceneId": "scene-125",
+      "index": 125,
+      "concept": "balance",
+      "severity": "diagnostic",
+      "segment": "But he is also forced to recognize that the modern medical paradigm is insufficient on its own. This is why you get that strange jarring justosition in Lucy's b",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-125",
+      "index": 125,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-126",
+      "index": 126,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "stethoscopes, and hypodermic needles right alongside superstitious garlic garlands and crucifixes.\nstethoscopes, and hypodermic needles right alongside supersti",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-126",
+      "index": 126,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-127",
+      "index": 127,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-128",
+      "index": 128,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-128",
+      "index": 128,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-129",
+      "index": 129,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-129",
+      "index": 129,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-130",
+      "index": 130,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'concrete' is not satisfied by the scene: shot 'medium' not in [illustration,diorama,insert] and no diagram",
+      "sceneId": "scene-131",
+      "index": 131,
+      "kind": "concrete",
+      "unmet": "shot 'medium' not in [illustration,diorama,insert] and no diagram",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-131",
+      "index": 131,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-132",
+      "index": 132,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-132",
+      "index": 132,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'balance' is not grounded in this segment's narration",
+      "sceneId": "scene-134",
+      "index": 134,
+      "concept": "balance",
+      "severity": "diagnostic",
+      "segment": "Yes. And I want you to picture the ultimate contrast of this entire deep dive.\nYes. And I want you to picture the ultimate contrast of this entire deep dive.",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-134",
+      "index": 134,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-134",
+      "index": 134,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-135",
+      "index": 135,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-136",
+      "index": 136,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-137",
+      "index": 137,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-137",
+      "index": 137,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-138",
+      "index": 138,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-139",
+      "index": 139,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-140",
+      "index": 140,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-140",
+      "index": 140,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-141",
+      "index": 141,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-142",
+      "index": 142,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-143",
+      "index": 143,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-143",
+      "index": 143,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-144",
+      "index": 144,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-145",
+      "index": 145,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-146",
+      "index": 146,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-146",
+      "index": 146,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-147",
+      "index": 147,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-148",
+      "index": 148,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-148",
+      "index": 148,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-149",
+      "index": 149,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-149",
+      "index": 149,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-150",
+      "index": 150,
+      "kind": "fallback",
+      "unmet": "shot 'silhouette' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-151",
+      "index": 151,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-152",
+      "index": 152,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-152",
+      "index": 152,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-153",
+      "index": 153,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-154",
+      "index": 154,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-155",
+      "index": 155,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-156",
+      "index": 156,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-157",
+      "index": 157,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-158",
+      "index": 158,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-159",
+      "index": 159,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-160",
+      "index": 160,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-161",
+      "index": 161,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-161",
+      "index": 161,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-162",
+      "index": 162,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-163",
+      "index": 163,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-164",
+      "index": 164,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-165",
+      "index": 165,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-166",
+      "index": 166,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-167",
+      "index": 167,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-168",
+      "index": 168,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-168",
+      "index": 168,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-169",
+      "index": 169,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-170",
+      "index": 170,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "They follow the paper trail. They talk to the railway officials. They track down Thomas Snelling and Joseph Smalllet, the Carters, who physically moved the boxe",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-171",
+      "index": 171,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-171",
+      "index": 171,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-172",
+      "index": 172,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-173",
+      "index": 173,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-174",
+      "index": 174,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-175",
+      "index": 175,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-176",
+      "index": 176,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-177",
+      "index": 177,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-178",
+      "index": 178,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-179",
+      "index": 179,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-179",
+      "index": 179,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-180",
+      "index": 180,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-180",
+      "index": 180,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-181",
+      "index": 181,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "The system has caught up to him. Now, while all this highle data processing and logistical tracking is happening, there is a subplot running parallel to it that",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-181",
+      "index": 181,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-181",
+      "index": 181,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-182",
+      "index": 182,
+      "kind": "fallback",
+      "unmet": "shot 'lowAngle' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-182",
+      "index": 182,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-183",
+      "index": 183,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-184",
+      "index": 184,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-185",
+      "index": 185,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-186",
+      "index": 186,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-187",
+      "index": 187,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'medical' is not grounded in this segment's narration",
+      "sceneId": "scene-188",
+      "index": 188,
+      "concept": "medical",
+      "severity": "diagnostic",
+      "segment": "And then he wants a bird to eat the spiders so he can eat the bird. Dr. Seard classifies him as a zuagus or\nAnd then he wants a bird to eat the spiders so he ca",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-188",
+      "index": 188,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-191",
+      "index": 191,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-191",
+      "index": 191,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-192",
+      "index": 192,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-193",
+      "index": 193,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-194",
+      "index": 194,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-194",
+      "index": 194,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-195",
+      "index": 195,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-196",
+      "index": 196,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-197",
+      "index": 197,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-198",
+      "index": 198,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-198",
+      "index": 198,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-199",
+      "index": 199,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-199",
+      "index": 199,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-200",
+      "index": 200,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'medical' is not grounded in this segment's narration",
+      "sceneId": "scene-201",
+      "index": 201,
+      "concept": "medical",
+      "severity": "diagnostic",
+      "segment": "But this subplot does something really important for the novel. It exposes the utter fragility of Victorian psychological science. How so?\nBut this subplot does",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-201",
+      "index": 201,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-202",
+      "index": 202,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-202",
+      "index": 202,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-203",
+      "index": 203,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-203",
+      "index": 203,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'balance' is not grounded in this segment's narration",
+      "sceneId": "scene-204",
+      "index": 204,
+      "concept": "balance",
+      "severity": "diagnostic",
+      "segment": "Precisely. The scientific method fails here because it refuses to account for the irrational.\nPrecisely. The scientific method fails here because it refuses to ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-204",
+      "index": 204,
+      "kind": "fallback",
+      "unmet": "shot 'illustration' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-205",
+      "index": 205,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-205",
+      "index": 205,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-206",
+      "index": 206,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-206",
+      "index": 206,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-207",
+      "index": 207,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-207",
+      "index": 207,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'clock' is not grounded in this segment's narration",
+      "sceneId": "scene-209",
+      "index": 209,
+      "concept": "clock",
+      "severity": "diagnostic",
+      "segment": "ticking gold pocket watch held in an old man's hand. The infinite chaotic space of Dracula's escape route is pinned down by the precise mechanism of Victorian t",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-209",
+      "index": 209,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-209",
+      "index": 209,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-210",
+      "index": 210,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-211",
+      "index": 211,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-211",
+      "index": 211,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-212",
+      "index": 212,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-213",
+      "index": 213,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-213",
+      "index": 213,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-214",
+      "index": 214,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-215",
+      "index": 215,
+      "kind": "fallback",
+      "unmet": "shot 'wide' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-215",
+      "index": 215,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-216",
+      "index": 216,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-217",
+      "index": 217,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-217",
+      "index": 217,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'chains' is not grounded in this segment's narration",
+      "sceneId": "scene-218",
+      "index": 218,
+      "concept": "chains",
+      "severity": "diagnostic",
+      "segment": "The vampire is bound by the strict rules of nature. He can only change his form or exercise his supernatural powers at specific times,\nThe vampire is bound by t",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-218",
+      "index": 218,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'clock' is not grounded in this segment's narration",
+      "sceneId": "scene-219",
+      "index": 219,
+      "concept": "clock",
+      "severity": "diagnostic",
+      "segment": "at dawn, at noon, or at dusk. So, Van Helsing pulls out his gold pocket watch. Yes. The ultimate symbol of modern standardized timekeeping. He uses his watch to",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-219",
+      "index": 219,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-219",
+      "index": 219,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-219",
+      "index": 219,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-220",
+      "index": 220,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-221",
+      "index": 221,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-222",
+      "index": 222,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-222",
+      "index": 222,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-223",
+      "index": 223,
+      "kind": "fallback",
+      "unmet": "shot 'closeUp' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-223",
+      "index": 223,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-225",
+      "index": 225,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-225",
+      "index": 225,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-226",
+      "index": 226,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-227",
+      "index": 227,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'road' is not grounded in this segment's narration",
+      "sceneId": "scene-228",
+      "index": 228,
+      "concept": "road",
+      "severity": "diagnostic",
+      "segment": "On one side, a slow, heavy, horsedrawn carriage struggling along a snowy riverbank in Eastern Europe. And on the other side, racing past it entirely unseen, is ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'city' is not grounded in this segment's narration",
+      "sceneId": "scene-229",
+      "index": 229,
+      "concept": "city",
+      "severity": "diagnostic",
+      "segment": "spark of electricity shooting down a telegraph wire. Ancient physical transport is entirely bypassed by the speed of modern communication and steam travel.\nspar",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-230",
+      "index": 230,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-231",
+      "index": 231,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-231",
+      "index": 231,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-232",
+      "index": 232,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-233",
+      "index": 233,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'city' is not grounded in this segment's narration",
+      "sceneId": "scene-234",
+      "index": 234,
+      "concept": "city",
+      "severity": "diagnostic",
+      "segment": "They are bypassing the natural elements entirely through industrialization. And crucially, they use international telegraph lines to track his ship.\nThey are by",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-235",
+      "index": 235,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-236",
+      "index": 236,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-236",
+      "index": 236,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-237",
+      "index": 237,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-238",
+      "index": 238,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-239",
+      "index": 239,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-240",
+      "index": 240,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-241",
+      "index": 241,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-242",
+      "index": 242,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-243",
+      "index": 243,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-243",
+      "index": 243,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-244",
+      "index": 244,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'concrete' is not satisfied by the scene: shot 'medium' not in [illustration,diorama,insert] and no diagram",
+      "sceneId": "scene-245",
+      "index": 245,
+      "kind": "concrete",
+      "unmet": "shot 'medium' not in [illustration,diorama,insert] and no diagram",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-245",
+      "index": 245,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-246",
+      "index": 246,
+      "kind": "fallback",
+      "unmet": "shot 'split' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-247",
+      "index": 247,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-248",
+      "index": 248,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-249",
+      "index": 249,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-249",
+      "index": 249,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-249",
+      "index": 249,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'storm' is not grounded in this segment's narration",
+      "sceneId": "scene-250",
+      "index": 250,
+      "concept": "storm",
+      "severity": "diagnostic",
+      "segment": "well a xenophobic fear that the empire could be infected from the outside.\nwell a xenophobic fear that the empire could be infected from the outside.",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-250",
+      "index": 250,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-250",
+      "index": 250,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-253",
+      "index": 253,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-254",
+      "index": 254,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-255",
+      "index": 255,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-256",
+      "index": 256,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "we have to recognize that the modern science and administration they use aren't just tools of neutral,\nwe have to recognize that the modern science and administ",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-256",
+      "index": 256,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-257",
+      "index": 257,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-257",
+      "index": 257,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-258",
+      "index": 258,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-259",
+      "index": 259,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-260",
+      "index": 260,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-261",
+      "index": 261,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-262",
+      "index": 262,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "The triumph of the filing cabinet is also the triumph of border control and imperial hygiene.\nThe triumph of the filing cabinet is also the triumph of border co",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-262",
+      "index": 262,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-264",
+      "index": 264,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "It's not just good versus evil. It's the empire aggressively regulating its borders.\nIt's not just good versus evil. It's the empire aggressively regulating its",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-264",
+      "index": 264,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-264",
+      "index": 264,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-264",
+      "index": 264,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-265",
+      "index": 265,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-266",
+      "index": 266,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "sceneId": "scene-266",
+      "index": 266,
+      "violation": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-267",
+      "index": 267,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "The strategy was data. The vampire was audited, tracked, and dismantled by the unstoppable paper trail and communication networks of the modern bureaucratic sta",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-267",
+      "index": 267,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'clock' is not grounded in this segment's narration",
+      "sceneId": "scene-268",
+      "index": 268,
+      "concept": "clock",
+      "severity": "diagnostic",
+      "segment": "The true stake through the heart of the vampire was the shipping manifest, the train timetable,\nThe true stake through the heart of the vampire was the shipping",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-268",
+      "index": 268,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-269",
+      "index": 269,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-270",
+      "index": 270,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'puppeteer' is not grounded in this segment's narration",
+      "sceneId": "scene-271",
+      "index": 271,
+      "concept": "puppeteer",
+      "severity": "diagnostic",
+      "segment": "how would an ancient predatory evil manipulate today's algorithms, data brokers, and global supply chains?\nhow would an ancient predatory evil manipulate today'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-271",
+      "index": 271,
+      "kind": "fallback",
+      "unmet": "shot 'silhouette' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+      "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "sceneId": "scene-271",
+      "index": 271,
+      "violation": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor",
+      "severity": "diagnostic",
+      "source": "shared-semantic-judge",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "sceneId": "scene-272",
+      "index": 272,
+      "kind": "fallback",
+      "unmet": "shot 'twoShot' is not the measured-safe fallback lever 'closeUp'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-273",
+      "index": 273,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "track a lost package online, or untangle the terms of service of a tech monopoly.\ntrack a lost package online, or untangle the terms of service of a tech monopo",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-273",
+      "index": 273,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "sceneId": "scene-274",
+      "index": 274,
+      "kind": "fallback",
+      "unmet": "shot 'medium' is not the measured-safe fallback lever 'diorama'",
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_UNRESOLVED",
+      "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "sceneId": "scene-275",
+      "index": 275,
+      "outcome": "REVIEW"
+    },
+    {
+      "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+      "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "sceneId": "scene-276",
+      "index": 276,
+      "kind": "absence",
+      "unmet": "none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])",
+      "outcome": "REVIEW"
+    }
+  ],
+  "mode": "PREVIEW-ONLY",
+  "productionStatus": "FAIL",
+  "configHash": "1e89b1264db8e7a9",
+  "renderInputHash": "11e12841600665fc"
+}

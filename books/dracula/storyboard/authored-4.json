@@ -1,0 +1,1386 @@
+[
+  {
+    "i": 127,
+    "concept": "lucymemo",
+    "diagram": null,
+    "callout": {
+      "text": "SUPPRESSED HER ARCHIVE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "helsing",
+      "seward"
+    ],
+    "expression": "worried",
+    "action": "place",
+    "holds": "letter",
+    "actionCue": "suppressed",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Van Helsing sets Lucy's memorandum down and hides it away while Seward watches in worry, showing how the men suppressed her archive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The men immediately suppressed Lucy's written archive to protect their operation and her reputation.",
+      "concreteVisual": "Van Helsing puts the letter down out of sight on the table as Seward looks on with worry.",
+      "onScreenText": "SUPPRESSED HER ARCHIVE",
+      "relationToPrevious": "Summarizes Van Helsing hiding Lucy's memorandum from the coroner and law.",
+      "addedInformation": "Shows the physical act of putting away the document as deliberate suppression by the two men."
+    },
+    "place": "asylum"
+  },
+  {
+    "i": 128,
+    "concept": "lucymemo",
+    "diagram": null,
+    "callout": {
+      "text": "HOW TO WEAPONIZE SECRETS",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "seward"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Dr. Seward slumps in worry beside the scattered notes, showing the doubt over how hidden diaries and recordings can ever be weaponized.",
+    "noVisual": "Phonograph wax cylinders are not in the icon vocabulary; represented with notes for the concealed diaries and records.",
+    "storyboard": {
+      "claim": "Hidden fragmented secrets in cylinders and diaries raise the doubt of how they can ever be turned into a weapon.",
+      "concreteVisual": "Seward slumped in concern beside the notes icon representing the concealed diaries.",
+      "onScreenText": "HOW TO WEAPONIZE SECRETS",
+      "relationToPrevious": "Moves from hiding Lucy's paper to the wider problem of scattered, unusable evidence.",
+      "addedInformation": "Connects the buried evidence directly to Seward's dilemma over fragmented records."
+    },
+    "place": "asylum"
+  },
+  {
+    "i": 129,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "exhibit",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Exhibit 8"
+        },
+        {
+          "on": "typewriter",
+          "do": "title",
+          "text": "MINA'S TYPEWRITER"
+        },
+        {
+          "on": "sits",
+          "do": "change",
+          "who": "mina",
+          "action": "sit"
+        }
+      ]
+    },
+    "explainedBy": "Mina Harker sits down at her typewriter, labeled Exhibit 8, ready to process the chaotic pile of media.",
+    "noVisual": null
+  },
+  {
+    "i": 130,
+    "told": {
+      "events": [
+        {
+          "on": "pile",
+          "do": "change",
+          "who": "mina",
+          "action": "hold",
+          "holds": "notes",
+          "look": "worried"
+        },
+        {
+          "on": "mountain",
+          "do": "title",
+          "text": "MOUNTAIN OF FORMATS"
+        },
+        {
+          "on": "cylinders",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Wax cylinders"
+        },
+        {
+          "on": "journal",
+          "do": "label",
+          "who": "mina",
+          "text": "Shorthand journal"
+        }
+      ]
+    },
+    "explainedBy": "Seated beside the typewriter, Mina holds the stack of notes representing Seward's wax cylinders and Jonathan's shorthand journal.",
+    "noVisual": "Seward's wax phonograph cylinders and Jonathan's Transylvanian journal are referenced only as raw formats in the pile, not physical appearances by Seward or Jonathan."
+  },
+  {
+    "i": 131,
+    "told": {
+      "events": [
+        {
+          "on": "typing",
+          "do": "act",
+          "who": "mina",
+          "verb": "type",
+          "target": "typewriter"
+        },
+        {
+          "on": "organizing",
+          "do": "title",
+          "text": "ONE CHRONOLOGICAL FILE"
+        }
+      ]
+    },
+    "explainedBy": "Mina sits at the typewriter and types out the letters, shorthand, and audio into one chronological file.",
+    "noVisual": null
+  },
+  {
+    "i": 132,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "mina",
+          "typewriter",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "place",
+          "do": "change",
+          "who": "mina",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "defeated",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "defeated",
+          "do": "change",
+          "who": "dracula",
+          "action": "slump",
+          "look": "worried"
+        },
+        {
+          "on": "administrative",
+          "do": "title",
+          "text": "DEFEATED BY COLLATION"
+        }
+      ]
+    },
+    "explainedBy": "With the compiled notes collated by Mina's typewriter, Count Dracula dims and slumps in defeat.",
+    "noVisual": null
+  },
+  {
+    "i": 133,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "typing",
+          "do": "act",
+          "who": "mina",
+          "verb": "type",
+          "target": "typewriter"
+        },
+        {
+          "on": "reveals",
+          "do": "enter",
+          "who": "earthbox"
+        },
+        {
+          "on": "50",
+          "do": "label",
+          "who": "earthbox",
+          "text": "50 boxes of earth"
+        }
+      ]
+    },
+    "explainedBy": "As Mina types the timeline in order, the fifty boxes of earth appear on stage.",
+    "noVisual": null
+  },
+  {
+    "i": 134,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "just",
+          "do": "dim",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "machine",
+          "do": "title",
+          "text": "JUST A MACHINE"
+        }
+      ]
+    },
+    "explainedBy": "The typewriter stands alone and dims as the skeptic dismisses it as just a word-processing machine.",
+    "noVisual": null
+  },
+  {
+    "i": 135,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CONFRONT THE MONSTER",
+      "style": "highlight"
+    },
+    "set": "none",
+    "cast": [
+      "quincey",
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Quincey angrily points at a smirking Dracula, illustrating the argument that physical courage to confront the monster is what gives the hunters power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The men's physical courage and vow to confront the monster are what actually give them power, not clerical work.",
+      "concreteVisual": "Quincey Morris facing Count Dracula and pointing angrily while Dracula smirks back.",
+      "onScreenText": "CONFRONT THE MONSTER",
+      "relationToPrevious": "Expands the skeptic's dismissal of the typewriter into a defense of physical bravery.",
+      "addedInformation": "Puts the confrontation between hunter and monster directly on screen to embody physical courage."
+    },
+    "place": "piccadilly"
+  },
+  {
+    "i": 136,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "typewriter",
+          "knives"
+        ]
+      },
+      "events": [
+        {
+          "on": "doesn't",
+          "do": "cross",
+          "who": [
+            "typewriter",
+            "knives"
+          ]
+        },
+        {
+          "on": "knife",
+          "do": "title",
+          "text": "NOT A WEAPON"
+        },
+        {
+          "on": "records",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Records their bravery"
+        }
+      ]
+    },
+    "explainedBy": "A cross separates the typewriter from the knives to show it does not swing a weapon, only records the bravery of those who do.",
+    "noVisual": null
+  },
+  {
+    "i": 137,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "quincey"
+        ]
+      },
+      "events": [
+        {
+          "on": "read",
+          "do": "change",
+          "who": "quincey",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "big",
+          "do": "change",
+          "who": "quincey",
+          "action": "hold",
+          "holds": "notes",
+          "look": "surprised"
+        },
+        {
+          "on": "picture",
+          "do": "title",
+          "text": "SEE THE BIG PICTURE"
+        }
+      ]
+    },
+    "explainedBy": "Quincey Morris holds the typed manuscript notes and reacts in surprise as he finally sees the big picture.",
+    "noVisual": "Lord Godalming is not in entities.json; staged with Quincey Morris reading the typed manuscript."
+  },
+  {
+    "i": 138,
+    "told": {
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "demeter",
+          "renfield",
+          "carfax"
+        ]
+      },
+      "events": [
+        {
+          "on": "connects",
+          "do": "title",
+          "text": "CONNECTING THE DOTS"
+        },
+        {
+          "on": "ship",
+          "do": "label",
+          "who": "demeter",
+          "text": "Ghost ship"
+        },
+        {
+          "on": "lunatic",
+          "do": "change",
+          "who": "renfield",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "house",
+          "do": "label",
+          "who": "carfax",
+          "text": "House next door"
+        },
+        {
+          "on": "dots",
+          "do": "grow",
+          "who": [
+            "demeter",
+            "renfield",
+            "carfax"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "A flow links the Demeter ghost ship to Renfield in the asylum to the Carfax estate next door as the data connects the dots.",
+    "noVisual": null
+  },
+  {
+    "i": 139,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "October",
+          "do": "date",
+          "text": "OCT 3"
+        },
+        {
+          "on": "asleep",
+          "do": "change",
+          "who": "mina",
+          "action": "lying",
+          "look": "neutral"
+        }
+      ]
+    },
+    "explainedBy": "Dated October 3rd, Mina lies asleep alone in her bedroom while the men are away.",
+    "noVisual": null
+  },
+  {
+    "i": 140,
+    "told": {
+      "events": [
+        {
+          "on": "black",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "grips",
+          "do": "change",
+          "who": "dracula",
+          "action": "grabbing",
+          "look": "angry"
+        },
+        {
+          "on": "grips",
+          "do": "change",
+          "who": "mina",
+          "action": "struggling",
+          "look": "afraid"
+        }
+      ]
+    },
+    "explainedBy": "Count Dracula enters the bedroom and grabs a terrified, struggling Mina.",
+    "noVisual": null
+  },
+  {
+    "i": 141,
+    "told": {
+      "events": [
+        {
+          "on": "forcing",
+          "do": "act",
+          "who": "dracula",
+          "verb": "bite",
+          "target": "mina"
+        },
+        {
+          "on": "Jonathan",
+          "do": "enter",
+          "who": "jonathan"
+        },
+        {
+          "on": "stuper",
+          "do": "change",
+          "who": "jonathan",
+          "action": "lying",
+          "look": "blank"
+        },
+        {
+          "on": "stuper",
+          "do": "dim",
+          "who": [
+            "jonathan"
+          ]
+        },
+        {
+          "on": "blood",
+          "do": "label",
+          "who": "mina",
+          "text": "FORCED BAPTISM OF BLOOD"
+        }
+      ],
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      }
+    },
+    "explainedBy": "Dracula forces Mina in a blood pact while Jonathan lies unconscious and dimmed beside them.",
+    "noVisual": "Forced drinking of blood from Dracula's chest cannot be drawn literally; staged with Dracula leaning onto Mina while Jonathan lies dimmed in a stupor."
+  },
+  {
+    "i": 142,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "why",
+          "do": "title",
+          "text": "WHY ATTACK MINA?"
+        },
+        {
+          "on": "attacks",
+          "do": "change",
+          "who": "dracula",
+          "action": "point",
+          "look": "angry"
+        },
+        {
+          "on": "specifically",
+          "do": "change",
+          "who": "mina",
+          "action": "slump",
+          "look": "afraid"
+        }
+      ]
+    },
+    "explainedBy": "Dracula angrily points at a frightened, slumped Mina as the hosts ask why he targets her specifically.",
+    "noVisual": null
+  },
+  {
+    "i": 143,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "archist",
+          "do": "title",
+          "text": "TARGETING THE ARCHIVIST"
+        },
+        {
+          "on": "burns",
+          "do": "change",
+          "who": "dracula",
+          "action": "throw",
+          "look": "angry"
+        },
+        {
+          "on": "burns",
+          "do": "burst",
+          "who": [
+            "dracula",
+            "typewriter"
+          ]
+        },
+        {
+          "on": "manuscripts",
+          "do": "dim",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula attacks the study archive, throwing and bursting against the typewriter as the manuscripts dim.",
+    "noVisual": "Wax phonograph cylinders are not in entities.json; represented alongside the typed manuscripts by Mina's typewriter."
+  },
+  {
+    "i": 144,
+    "told": {
+      "events": [
+        {
+          "on": "throws",
+          "do": "change",
+          "who": "dracula",
+          "action": "throw",
+          "holds": "notes",
+          "look": "angry"
+        },
+        {
+          "on": "fire",
+          "do": "shake",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "destruction",
+          "do": "stamp",
+          "who": "typewriter",
+          "text": "DESTROYED"
+        }
+      ]
+    },
+    "explainedBy": "Dracula throws the notes into the fire as the typewriter shakes and is stamped DESTROYED.",
+    "noVisual": null
+  },
+  {
+    "i": 145,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "vulnerability",
+          "do": "label",
+          "who": "mina",
+          "text": "Greatest vulnerability"
+        },
+        {
+          "on": "attacks",
+          "do": "change",
+          "who": "dracula",
+          "action": "grabbing",
+          "look": "angry"
+        },
+        {
+          "on": "attacks",
+          "do": "change",
+          "who": "mina",
+          "action": "struggling",
+          "look": "afraid"
+        },
+        {
+          "on": "vengeance",
+          "do": "title",
+          "text": "PREDATORY VENGEANCE"
+        }
+      ]
+    },
+    "explainedBy": "Mina is labeled Dracula's greatest vulnerability as he grabs her in predatory vengeance while she struggles.",
+    "noVisual": null
+  },
+  {
+    "i": 146,
+    "told": {
+      "events": [
+        {
+          "on": "Van",
+          "do": "enter",
+          "who": "helsing"
+        },
+        {
+          "on": "stopped",
+          "do": "change",
+          "who": "dracula",
+          "action": "stop",
+          "look": "surprised"
+        },
+        {
+          "on": "stopped",
+          "do": "change",
+          "who": "mina",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "holds",
+          "do": "change",
+          "who": "helsing",
+          "action": "offer",
+          "holds": "letter",
+          "look": "angry"
+        },
+        {
+          "on": "host",
+          "do": "label",
+          "who": "helsing",
+          "text": "The sacred host"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing enters and stops Dracula by holding out the envelope containing the sacred host while Mina slumps free.",
+    "noVisual": "The sacred wafer inside the envelope is not a separate entity; staged as Van Helsing offering the letter envelope labeled The sacred host."
+  },
+  {
+    "i": 147,
+    "told": {
+      "events": [
+        {
+          "on": "cowers",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "cowers",
+          "do": "change",
+          "who": "dracula",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "flee",
+          "do": "change",
+          "who": "dracula",
+          "action": "flee",
+          "look": "afraid"
+        },
+        {
+          "on": "repel",
+          "do": "title",
+          "text": "REPELLED BY THE HOST"
+        }
+      ]
+    },
+    "explainedBy": "Dracula dims, cowers, and flees from Van Helsing and the sacred host.",
+    "noVisual": null
+  },
+  {
+    "i": 148,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "burned",
+          "do": "dim",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "realizes",
+          "do": "change",
+          "who": "mina",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "cries",
+          "do": "change",
+          "who": "mina",
+          "action": "point",
+          "look": "surprised"
+        },
+        {
+          "on": "other",
+          "do": "title",
+          "text": "ANOTHER COPY EXISTS"
+        }
+      ]
+    },
+    "explainedBy": "Seeing the burned files at the dimmed typewriter, Mina shifts from fear to sudden realization that another copy exists in the safe.",
+    "noVisual": null
+  },
+  {
+    "i": 149,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "typewriter",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "survives",
+          "do": "restore",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "survives",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "defeats",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "defeats",
+          "do": "change",
+          "who": "dracula",
+          "action": "slump",
+          "look": "angry"
+        },
+        {
+          "on": "preserved",
+          "do": "title",
+          "text": "ARCHIVE SURVIVES THE FIRE"
+        }
+      ]
+    },
+    "explainedBy": "The typewriter archive is restored and grows while Dracula dims and slumps, showing the backup survives the fire.",
+    "noVisual": null
+  },
+  {
+    "i": 150,
+    "told": {
+      "events": [
+        {
+          "on": "wipe",
+          "do": "change",
+          "who": "dracula",
+          "action": "throw",
+          "look": "angry"
+        },
+        {
+          "on": "wipe",
+          "do": "shake",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "survived",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ]
+        },
+        {
+          "on": "safe",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Safe in steel box"
+        }
+      ]
+    },
+    "explainedBy": "Dracula tries to wipe out the compiled files, shaking the typewriter, but the archive grows back safe in its steel box.",
+    "noVisual": "Steel box / safe is not a distinct entity in entities.json; staged with the typewriter representing the surviving backup archive."
+  },
+  {
+    "i": 151,
+    "concept": "deed",
+    "diagram": null,
+    "callout": {
+      "text": "HOW TO AUDIT PROPERTIES",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Jonathan slumps in worry beside the city icon, posing the problem of physically auditing Dracula's scattered urban properties.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Having the data in a safe is not enough; they still must figure out how to physically audit properties across the city.",
+      "concreteVisual": "Jonathan slumped in worry next to the standing city icon.",
+      "onScreenText": "HOW TO AUDIT PROPERTIES",
+      "relationToPrevious": "Shifts from the preserved archive in the safe to the physical problem of locating properties in the city.",
+      "addedInformation": "Connects the administrative puzzle to Jonathan's anxiety over the vast urban sprawl."
+    },
+    "place": "piccadilly"
+  },
+  {
+    "i": 152,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "receipts"
+        ]
+      },
+      "events": [
+        {
+          "on": "Exhibit",
+          "do": "label",
+          "who": "receipts",
+          "text": "Exhibit 9"
+        },
+        {
+          "on": "receipts",
+          "do": "title",
+          "text": "THE CARTER'S RECEIPTS"
+        },
+        {
+          "on": "tracks",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "come",
+          "target": "receipts"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan Harker physically tracks down Exhibit 9, the carter's delivery receipts.",
+    "noVisual": "Joseph Smollet and Walworth are not in entities.json; staged with Jonathan walking up to the carter's receipts."
+  },
+  {
+    "i": 153,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "carfax",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "asks",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "point",
+          "target": "carfax"
+        },
+        {
+          "on": "boxes",
+          "do": "label",
+          "who": "earthbox",
+          "text": "Boxes moved"
+        },
+        {
+          "on": "pulls",
+          "do": "enter",
+          "who": "receipts"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan points to the Carfax estate to ask about the moved earth boxes, and the receipts enter.",
+    "noVisual": "Joseph Smollet is not in entities.json; staged with Jonathan questioning about Carfax and the boxes as the receipts appear."
+  },
+  {
+    "i": 154,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "receipts"
+        ]
+      },
+      "events": [
+        {
+          "on": "entries",
+          "do": "label",
+          "who": "receipts",
+          "text": "Pencil work log"
+        },
+        {
+          "on": "log",
+          "do": "focus",
+          "who": "receipts"
+        },
+        {
+          "on": "ledger",
+          "do": "take",
+          "who": "jonathan",
+          "what": "receipts"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan takes the dog-eared pocket work log filled with pencil entries as the camera focuses on the receipts.",
+    "noVisual": null
+  },
+  {
+    "i": 155,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "receipts",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "undone",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "undone",
+          "do": "change",
+          "who": "dracula",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "undone",
+          "do": "title",
+          "text": "UNDONE BY RECEIPTS"
+        },
+        {
+          "on": "addresses",
+          "do": "label",
+          "who": "receipts",
+          "text": "Delivery addresses"
+        }
+      ]
+    },
+    "explainedBy": "Dracula dims and slumps in fear against the delivery addresses recorded on the carter's receipts.",
+    "noVisual": null
+  },
+  {
+    "i": 156,
+    "told": {
+      "stage": {
+        "layout": "flow",
+        "who": [
+          "receipts",
+          "atlas",
+          "jonathan"
+        ]
+      },
+      "events": [
+        {
+          "on": "map",
+          "do": "grow",
+          "who": [
+            "atlas"
+          ]
+        },
+        {
+          "on": "addresses",
+          "do": "title",
+          "text": "THE PHYSICAL MAP"
+        },
+        {
+          "on": "have",
+          "do": "change",
+          "who": "jonathan",
+          "action": "point",
+          "look": "surprised"
+        }
+      ]
+    },
+    "explainedBy": "A flow moves from the receipts to the growing atlas map to Jonathan, who points in surprise now that they have the addresses.",
+    "noVisual": null
+  },
+  {
+    "i": 157,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "receipts",
+          "earthbox",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "exposes",
+          "do": "change",
+          "who": "dracula",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "enough",
+          "do": "cross",
+          "who": "receipts"
+        },
+        {
+          "on": "enough",
+          "do": "title",
+          "text": "PAPER IS NOT ENOUGH"
+        },
+        {
+          "on": "threat",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "threat",
+          "do": "change",
+          "who": "dracula",
+          "action": "point",
+          "look": "smirk"
+        }
+      ]
+    },
+    "explainedBy": "First exposed by the audit trail, Dracula grows back smirking while the receipts are crossed out to show paper alone cannot end the threat.",
+    "noVisual": null
+  },
+  {
+    "i": 158,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "quincey",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "break",
+          "do": "burst",
+          "who": [
+            "jonathan",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "pry",
+          "do": "change",
+          "who": "jonathan",
+          "action": "chop",
+          "look": "worried"
+        },
+        {
+          "on": "tools",
+          "do": "change",
+          "who": "quincey",
+          "action": "hold",
+          "holds": "wrench",
+          "look": "worried"
+        },
+        {
+          "on": "sterilize",
+          "do": "title",
+          "text": "STERILIZING THE EARTH"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan pries open the earth box while Quincey holds a wrench tool beside him to break in and sterilize the soil.",
+    "noVisual": null
+  },
+  {
+    "i": 159,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "helsing",
+          "earthbox",
+          "receipts"
+        ]
+      },
+      "events": [
+        {
+          "on": "placing",
+          "do": "change",
+          "who": "helsing",
+          "action": "place",
+          "holds": "letter",
+          "look": "afraid"
+        },
+        {
+          "on": "receipts",
+          "do": "dim",
+          "who": [
+            "receipts"
+          ]
+        },
+        {
+          "on": "map",
+          "do": "label",
+          "who": "receipts",
+          "text": "Just a map"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing fearfully places the sacred wafer envelope into the earth box while the receipts dim beside them as just a map.",
+    "noVisual": "Sacred wafer pieces are represented by the envelope/letter prop placed by Van Helsing."
+  },
+  {
+    "i": 160,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REQUIRES IMMENSE BRAVERY",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "helsing",
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Van Helsing confronts a smirking Dracula with the struck phrase JUST READ AN ADDRESS, showing paperwork alone cannot banish the vampire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sterilization is a courageous holy act; you cannot banish a vampire simply by reading an address.",
+      "concreteVisual": "Van Helsing pointing angrily at a smirking Dracula with JUST READ AN ADDRESS struck through.",
+      "onScreenText": "JUST READ AN ADDRESS (struck through)",
+      "relationToPrevious": "Contrasts the physical bravery of placing the host with the insufficiency of merely reading addresses.",
+      "addedInformation": "Shows Dracula unmoved by paperwork alone while Van Helsing faces him directly."
+    },
+    "place": "piccadilly"
+  },
+  {
+    "i": 161,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "piccadilly",
+          "earthbox",
+          "receipts"
+        ]
+      },
+      "events": [
+        {
+          "on": "break",
+          "do": "burst",
+          "who": [
+            "jonathan",
+            "piccadilly"
+          ]
+        },
+        {
+          "on": "Piccadilly",
+          "do": "label",
+          "who": "piccadilly",
+          "text": "Piccadilly house"
+        },
+        {
+          "on": "check",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "write",
+          "target": "receipts"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan breaks into the Piccadilly house and checks off the earth boxes against the carter's receipts.",
+    "noVisual": null
+  },
+  {
+    "i": 162,
+    "told": {
+      "events": [
+        {
+          "on": "count",
+          "do": "change",
+          "who": "jonathan",
+          "action": "point"
+        },
+        {
+          "on": "expect",
+          "do": "title",
+          "text": "EXPECTING NINE BOXES"
+        },
+        {
+          "on": "nine",
+          "do": "label",
+          "who": "receipts",
+          "text": "Expected nine boxes"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan counts the boxes, expecting nine according to the shipping receipts.",
+    "noVisual": null
+  },
+  {
+    "i": 163,
+    "told": {
+      "events": [
+        {
+          "on": "eight",
+          "do": "label",
+          "who": "earthbox",
+          "text": "Only eight found"
+        },
+        {
+          "on": "missing",
+          "do": "shake",
+          "who": [
+            "receipts",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "missing",
+          "do": "change",
+          "who": "jonathan",
+          "action": "slump",
+          "look": "afraid"
+        },
+        {
+          "on": "flaw",
+          "do": "stamp",
+          "who": "receipts",
+          "text": "ONE MISSING"
+        }
+      ]
+    },
+    "explainedBy": "Only eight boxes are found; the receipts and earth box shake as Jonathan slumps in fear and the ledger is stamped ONE MISSING.",
+    "noVisual": null
+  },
+  {
+    "i": 164,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "receipts",
+          "earthbox",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "incomplete",
+          "do": "dim",
+          "who": [
+            "receipts"
+          ]
+        },
+        {
+          "on": "incomplete",
+          "do": "title",
+          "text": "AUDIT IS INCOMPLETE"
+        },
+        {
+          "on": "refuge",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "refuge",
+          "do": "change",
+          "who": "dracula",
+          "action": "point",
+          "look": "smirk"
+        }
+      ]
+    },
+    "explainedBy": "The receipts dim as the audit is declared incomplete, while Dracula grows and smirks because a physical refuge remains.",
+    "noVisual": null
+  },
+  {
+    "i": 165,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "renfieldledger"
+        ]
+      },
+      "events": [
+        {
+          "on": "Renfield's",
+          "do": "grow",
+          "who": "renfieldledger",
+          "to": 1.2
+        },
+        {
+          "on": "ledger",
+          "do": "title",
+          "text": "RENFIELD'S LEDGER"
+        }
+      ]
+    },
+    "explainedBy": "With the missing earth box dimmed and the receipts crossed out as the paper trail ends, Renfield's ledger enters as Exhibit 10.",
+    "noVisual": null
+  }
+]

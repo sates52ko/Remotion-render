@@ -1,0 +1,35 @@
+[
+ {
+  "id": "b001",
+  "stage": "solo: deed",
+  "happens": [
+   "grow deed",
+   "label deed \"SLIDES TOWARD A HAND\""
+  ]
+ },
+ {
+  "id": "b002",
+  "stage": "versus: jonathan, dracula",
+  "happens": [
+   "change dracula",
+   "change jonathan",
+   "label dracula \"CONTRACT MEANS NOTHING\""
+  ]
+ },
+ {
+  "id": "b003",
+  "stage": "solo: dracula",
+  "happens": [
+   "change dracula",
+   "label dracula \"CAN A LEASE STOP HIM\""
+  ]
+ },
+ {
+  "id": "b004",
+  "stage": "solo: earthbox",
+  "happens": [
+   "label earthbox \"BLADE THROUGH EMPTY SPACE\"",
+   "grow earthbox"
+  ]
+ }
+]

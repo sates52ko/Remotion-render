@@ -1,0 +1,1487 @@
+[
+  {
+    "i": 40,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "atlas"
+        ]
+      },
+      "events": [
+        {
+          "on": "boasts",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "relies",
+          "do": "act",
+          "who": "dracula",
+          "verb": "read",
+          "target": "atlas"
+        },
+        {
+          "on": "out of his depth",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula boasts of ancient blood, yet relies on a physical map because he is out of his depth in the 19th century.",
+    "noVisual": null
+  },
+  {
+    "i": 41,
+    "told": {
+      "events": [
+        {
+          "on": "lost?",
+          "do": "restore",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "stranger",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "atlas"
+          ]
+        },
+        {
+          "on": "threat",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "conquering",
+          "do": "crown",
+          "who": "dracula"
+        },
+        {
+          "on": "bloodline",
+          "do": "label",
+          "who": "dracula",
+          "text": "CONQUERING WARLORD"
+        }
+      ],
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "atlas"
+        ]
+      }
+    },
+    "explainedBy": "The challenger rejects the idea that Dracula is lost, casting his ancient conquering bloodline as his true threat.",
+    "noVisual": null
+  },
+  {
+    "i": 42,
+    "told": {
+      "events": [
+        {
+          "on": "not",
+          "do": "cross",
+          "who": "atlas"
+        },
+        {
+          "on": "crutch",
+          "do": "dim",
+          "who": [
+            "atlas"
+          ]
+        },
+        {
+          "on": "relic",
+          "do": "uncrown",
+          "who": "dracula"
+        },
+        {
+          "on": "listen",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "dracula",
+            "jonathan"
+          ]
+        },
+        {
+          "on": "speech",
+          "do": "change",
+          "who": "dracula",
+          "action": "talk"
+        }
+      ],
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "atlas"
+        ]
+      }
+    },
+    "explainedBy": "The books are dismissed as a relic's crutch before turning to Dracula's own speech to Jonathan in the library.",
+    "noVisual": null
+  },
+  {
+    "i": 43,
+    "told": {
+      "events": [
+        {
+          "on": "London's",
+          "do": "arrange",
+          "layout": "row",
+          "who": [
+            "dracula",
+            "london",
+            "jonathan"
+          ]
+        },
+        {
+          "on": "streets",
+          "do": "change",
+          "who": "dracula",
+          "action": "reach"
+        },
+        {
+          "on": "master",
+          "do": "crown",
+          "who": "dracula"
+        },
+        {
+          "on": "rule",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula tells Jonathan he wants to know London's streets so he can remain master and rule.",
+    "noVisual": null
+  },
+  {
+    "i": 44,
+    "told": {
+      "events": [
+        {
+          "on": "says",
+          "do": "change",
+          "who": "dracula",
+          "action": "talk"
+        },
+        {
+          "on": "content",
+          "do": "uncrown",
+          "who": "dracula"
+        },
+        {
+          "on": "like the rest",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula explains to Jonathan that he wants to blend in with Londoners so no one notices a stranger.",
+    "noVisual": null
+  },
+  {
+    "i": 45,
+    "told": {
+      "events": [
+        {
+          "on": "learning",
+          "do": "exit",
+          "who": "jonathan"
+        },
+        {
+          "on": "intonation",
+          "do": "change",
+          "who": "dracula",
+          "action": "talk"
+        },
+        {
+          "on": "blend",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula practices English speech and social mechanics to merge completely into London.",
+    "noVisual": null
+  },
+  {
+    "i": 46,
+    "told": {
+      "events": [
+        {
+          "on": "data",
+          "do": "enter",
+          "who": "atlas"
+        },
+        {
+          "on": "absorbing",
+          "do": "take",
+          "who": "dracula",
+          "what": "atlas"
+        },
+        {
+          "on": "invisible",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula absorbs the empire's geographic data as camouflage to become invisible within London.",
+    "noVisual": null
+  },
+  {
+    "i": 47,
+    "told": {
+      "events": [
+        {
+          "on": "exploiting",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "information",
+          "do": "change",
+          "who": "dracula",
+          "action": "hold",
+          "holds": "atlas"
+        },
+        {
+          "on": "mask",
+          "do": "label",
+          "who": "dracula",
+          "text": "Masked ancient evil"
+        }
+      ]
+    },
+    "explainedBy": "Dracula exploits modern information to conceal his ancient evil.",
+    "noVisual": null
+  },
+  {
+    "i": 48,
+    "told": {
+      "events": [
+        {
+          "on": "trappings",
+          "do": "uncover",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "move",
+          "do": "change",
+          "who": "dracula",
+          "action": "walk"
+        },
+        {
+          "on": "paperwork",
+          "do": "enter",
+          "who": "deed"
+        },
+        {
+          "on": "secures",
+          "do": "stamp",
+          "who": "deed",
+          "text": "SECURED"
+        },
+        {
+          "on": "hide",
+          "do": "cover",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Legal paperwork secures Dracula's arrival while he walks unseen behind scholarly trappings and modern data.",
+    "noVisual": null
+  },
+  {
+    "i": 49,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DEFYING ALL LOGIC",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "The hosts pose the transition question of what happens when Dracula's physical reality defies logic and cannot be recorded normally.",
+    "noVisual": "Rhetorical transition question about an unrecordable creature; no concrete action or named document yet.",
+    "storyboard": {
+      "claim": "Dracula's physical reality defies logic and normal recording.",
+      "concreteVisual": "Dracula in a stark low-angle abstract frame, smirking as an anomaly outside normal logic.",
+      "onScreenText": "DEFYING ALL LOGIC",
+      "relationToPrevious": "Pivots from Dracula's paperwork camouflage to his supernatural physical anomaly.",
+      "addedInformation": "Signals the start of the next exhibit with Dracula's sinister composure."
+    },
+    "place": "transylvania"
+  },
+  {
+    "i": 50,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "mirror"
+        ]
+      },
+      "events": [
+        {
+          "on": "mirror",
+          "do": "focus",
+          "who": "mirror"
+        },
+        {
+          "on": "May",
+          "do": "date",
+          "text": "MAY 8 · MORNING"
+        }
+      ]
+    },
+    "explainedBy": "Exhibit 3 opens on the shaving mirror on the morning of May 8th.",
+    "noVisual": null
+  },
+  {
+    "i": 51,
+    "told": {
+      "events": [
+        {
+          "on": "Parker",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "jonathan",
+            "mirror"
+          ]
+        },
+        {
+          "on": "shaving",
+          "do": "change",
+          "who": "jonathan",
+          "action": "reach"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan stands in his room performing the ordinary morning routine of shaving before the small mirror.",
+    "noVisual": null
+  },
+  {
+    "i": 52,
+    "told": {
+      "events": [
+        {
+          "on": "voice",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "hand",
+          "do": "together",
+          "who": [
+            "dracula",
+            "jonathan"
+          ]
+        },
+        {
+          "on": "wrong",
+          "do": "shake",
+          "who": [
+            "jonathan"
+          ]
+        },
+        {
+          "on": "shows",
+          "do": "focus",
+          "who": "mirror"
+        }
+      ]
+    },
+    "explainedBy": "Dracula steps behind Jonathan and puts a hand on his shoulder, startling Jonathan as he looks into the mirror.",
+    "noVisual": null
+  },
+  {
+    "i": 53,
+    "told": {
+      "events": [
+        {
+          "on": "The fire",
+          "do": "wide"
+        },
+        {
+          "on": "no count",
+          "do": "cover",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "No reflection",
+          "do": "label",
+          "who": "mirror",
+          "text": "No reflection"
+        },
+        {
+          "on": "cuts",
+          "do": "burst",
+          "who": [
+            "jonathan"
+          ]
+        },
+        {
+          "on": "shock",
+          "do": "shake",
+          "who": [
+            "jonathan"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The mirror reflects no count at all, shocking Jonathan into cutting himself.",
+    "noVisual": null
+  },
+  {
+    "i": 54,
+    "told": {
+      "events": [
+        {
+          "on": "reacts",
+          "do": "uncover",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "blaze",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "fury",
+          "do": "change",
+          "who": "dracula",
+          "action": "reach"
+        }
+      ]
+    },
+    "explainedBy": "Seeing Jonathan's blood, Dracula swells with demoniac fury.",
+    "noVisual": null
+  },
+  {
+    "i": 55,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "jonathan"
+        ]
+      },
+      "events": [
+        {
+          "on": "lunges",
+          "do": "act",
+          "who": "dracula",
+          "verb": "bite",
+          "target": "jonathan"
+        },
+        {
+          "on": "throat",
+          "do": "change",
+          "who": "jonathan",
+          "action": "struggling"
+        },
+        {
+          "on": "crucifix",
+          "do": "label",
+          "who": "jonathan",
+          "text": "HOLY CRUCIFIX"
+        },
+        {
+          "on": "recoils",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "jonathan"
+          ]
+        },
+        {
+          "on": "recoils",
+          "do": "change",
+          "who": "dracula",
+          "look": "angry",
+          "action": "flee"
+        }
+      ]
+    },
+    "explainedBy": "Dracula lunges for Jonathan, is repelled by the holy crucifix, and flees in angry recoil.",
+    "noVisual": null
+  },
+  {
+    "i": 56,
+    "told": {
+      "events": [
+        {
+          "on": "vanishing",
+          "do": "change",
+          "who": "dracula",
+          "action": "grabbing"
+        },
+        {
+          "on": "grabs",
+          "do": "take",
+          "who": "dracula",
+          "what": "mirror"
+        },
+        {
+          "on": "throws",
+          "do": "change",
+          "who": "dracula",
+          "action": "throw"
+        },
+        {
+          "on": "shattering",
+          "do": "title",
+          "text": "SHATTERED ON THE STONES"
+        }
+      ],
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mirror"
+        ]
+      }
+    },
+    "explainedBy": "Dracula snatches the shaving mirror and flings it out the window to shatter below.",
+    "noVisual": null
+  },
+  {
+    "i": 57,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "POWER OF THE CRUCIFIX",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "jonathan",
+      "dracula"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "stop",
+    "explainedBy": "The encounter demonstrates the physical, undeniable protective power of the crucifix halting Dracula's attack.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The scene proves the physical protective power of the crucifix.",
+      "concreteVisual": "Jonathan terrified beside a protective shield icon while an angry Dracula stops in his tracks.",
+      "onScreenText": "POWER OF THE CRUCIFIX",
+      "relationToPrevious": "Interprets the recoil just shown: the holy symbol, not the mirror, is the focal point.",
+      "addedInformation": "Connects the shield of faith directly to halting the vampire's assault."
+    },
+    "place": "transylvania"
+  },
+  {
+    "i": 58,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "STOPPED A LETHAL ATTACK",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "cast": [
+      "jonathan",
+      "dracula"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "slump",
+    "continue": true,
+    "explainedBy": "Faith and a tangible holy object stopped Dracula's lethal attack in its tracks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Faith and a tangible object stopped the lethal attack.",
+      "concreteVisual": "Dracula forced into defeat while Jonathan reacts in shock behind the protective shield.",
+      "onScreenText": "STOPPED A LETHAL ATTACK",
+      "relationToPrevious": "Continues the same bedroom standoff, showing Dracula's attack thwarted.",
+      "addedInformation": "Shows the physical consequence of the barrier on the attacker."
+    },
+    "place": "transylvania"
+  },
+  {
+    "i": 59,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "journal",
+          "do": "title",
+          "text": "NOT A JOURNAL ENTRY"
+        },
+        {
+          "on": "freaks",
+          "do": "shake",
+          "who": [
+            "jonathan"
+          ]
+        },
+        {
+          "on": "Dracula leaves",
+          "do": "enter",
+          "who": "mirror"
+        },
+        {
+          "on": "no physical",
+          "do": "cover",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "A journal entry did not save Jonathan, yet he panics because Dracula casts no reflection in the mirror.",
+    "noVisual": null
+  },
+  {
+    "i": 60,
+    "told": {
+      "events": [
+        {
+          "on": "shadow",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "write",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "write"
+        }
+      ]
+    },
+    "explainedBy": "With Dracula leaving no shadow or footprint, Jonathan writes the impossible event in his journal that night.",
+    "noVisual": null
+  },
+  {
+    "i": 61,
+    "told": {
+      "events": [
+        {
+          "on": "trapped",
+          "do": "change",
+          "who": "jonathan",
+          "action": "slump"
+        },
+        {
+          "on": "diary",
+          "do": "label",
+          "who": "mirror",
+          "text": "Diary as mirror"
+        },
+        {
+          "on": "prove",
+          "do": "restore",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "exists",
+          "do": "uncover",
+          "who": [
+            "dracula"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Trapped with a phantom, Jonathan makes his written diary serve as the mirror to prove Dracula exists.",
+    "noVisual": null
+  },
+  {
+    "i": 62,
+    "told": {
+      "events": [
+        {
+          "on": "Harker",
+          "do": "arrange",
+          "layout": "solo",
+          "who": [
+            "jonathan"
+          ]
+        },
+        {
+          "on": "anchor",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "write"
+        },
+        {
+          "on": "terrified",
+          "do": "shake",
+          "who": [
+            "jonathan"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Terrified and alone, Jonathan tries to anchor himself to reality by writing in ink.",
+    "noVisual": null
+  },
+  {
+    "i": 63,
+    "told": {
+      "events": [
+        {
+          "on": "journal",
+          "do": "change",
+          "who": "jonathan",
+          "action": "hold",
+          "holds": "notes"
+        },
+        {
+          "on": "written",
+          "do": "act",
+          "who": "jonathan",
+          "verb": "write"
+        }
+      ]
+    },
+    "explainedBy": "The hosts turn to the desperate journal entry Jonathan wrote immediately after the mirror encounter.",
+    "noVisual": null
+  },
+  {
+    "i": 64,
+    "told": {
+      "events": [
+        {
+          "on": "rely",
+          "do": "change",
+          "who": "jonathan",
+          "action": "hold",
+          "holds": "book"
+        },
+        {
+          "on": "facts",
+          "do": "label",
+          "who": "jonathan",
+          "text": "Bare meager facts"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan resolves to rely on bare, meager facts verified by books and figures to preserve his sanity.",
+    "noVisual": null
+  },
+  {
+    "i": 65,
+    "concept": "timetable",
+    "diagram": null,
+    "callout": {
+      "text": "REDUCE IT TO DATA",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Facing inexplicable horror, Jonathan reduces his experience to written data to keep from losing his mind.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He must reduce inexplicable horror to data to survive.",
+      "concreteVisual": "A terrified Jonathan clutching his written notes in the castle library.",
+      "onScreenText": "REDUCE IT TO DATA",
+      "relationToPrevious": "Deepens the previous beat's reliance on bare facts into psychological survival.",
+      "addedInformation": "Shows the emotional terror driving Jonathan's need for a written record."
+    },
+    "place": "transylvania"
+  },
+  {
+    "i": 66,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "NO REFLECTION",
+        "PAPER TRAIL"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The lack of a physical reflection forces the victims to build a meticulous paper trail to prove their own sanity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No reflection forces victims to build a meticulous paper trail.",
+      "concreteVisual": "A two-step causal flow from NO REFLECTION to PAPER TRAIL.",
+      "onScreenText": "NO REFLECTION -> PAPER TRAIL",
+      "relationToPrevious": "Abstracts Jonathan's individual diary coping into a general mechanism.",
+      "addedInformation": "Makes the cause-and-effect link between missing evidence and written records explicit."
+    },
+    "place": "transylvania"
+  },
+  {
+    "i": 67,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "NO REFLECTION",
+        "PAPER TRAIL",
+        "SAVES SANITY"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The written word replaces physical evidence and saves sanity inside the castle bedroom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The written word replaces physical evidence and saves sanity.",
+      "concreteVisual": "The flow diagram completes with a third step: SAVES SANITY.",
+      "onScreenText": "NO REFLECTION -> PAPER TRAIL -> SAVES SANITY",
+      "relationToPrevious": "Adds the final outcome node to the previous beat's flow diagram.",
+      "addedInformation": "Completes the causal chain before testing whether it holds at sea."
+    },
+    "place": "transylvania"
+  },
+  {
+    "i": 68,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "demeter",
+          "demeterlog"
+        ]
+      },
+      "events": [
+        {
+          "on": "open sea",
+          "do": "shake",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "demeanor's",
+          "do": "grow",
+          "who": [
+            "demeterlog"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Exhibit 4 asks whether the Demeter's logbook can save a crew trapped on the open sea.",
+    "noVisual": null
+  },
+  {
+    "i": 69,
+    "told": {
+      "events": [
+        {
+          "on": "August",
+          "do": "date",
+          "text": "AUGUST · WHITBY"
+        },
+        {
+          "on": "Whitby",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "demeter",
+            "whitby"
+          ]
+        },
+        {
+          "on": "storm",
+          "do": "shake",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "tearing",
+          "do": "together",
+          "who": [
+            "demeter",
+            "whitby"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "In August, a violent storm drives the derelict schooner Demeter tearing into Whitby harbor.",
+    "noVisual": null
+  },
+  {
+    "i": 70,
+    "told": {
+      "events": [
+        {
+          "on": "out of control",
+          "do": "shake",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "dead",
+          "do": "dim",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "Lashed",
+          "do": "label",
+          "who": "demeter",
+          "text": "Dead captain at wheel"
+        }
+      ]
+    },
+    "explainedBy": "Boarders find the Demeter out of control with its dead captain lashed to the wheel.",
+    "noVisual": null
+  },
+  {
+    "i": 71,
+    "told": {
+      "events": [
+        {
+          "on": "cutting",
+          "do": "burst",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "bottle",
+          "do": "enter",
+          "who": "demeterlog"
+        },
+        {
+          "on": "paper",
+          "do": "focus",
+          "who": "demeterlog"
+        }
+      ]
+    },
+    "explainedBy": "From the dead captain's pocket comes a corked bottle holding the rolled paper log.",
+    "noVisual": null
+  },
+  {
+    "i": 72,
+    "told": {
+      "events": [
+        {
+          "on": "log.",
+          "do": "wide"
+        },
+        {
+          "on": "only",
+          "do": "grow",
+          "who": [
+            "demeterlog"
+          ]
+        },
+        {
+          "on": "fails",
+          "do": "cross",
+          "who": "demeter"
+        }
+      ]
+    },
+    "explainedBy": "The ship's log is the sole survivor when physical survival on the Demeter fails completely.",
+    "noVisual": null
+  },
+  {
+    "i": 73,
+    "told": {
+      "events": [
+        {
+          "on": "lives",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "demeterlog",
+            "demeter"
+          ]
+        },
+        {
+          "on": "cargo",
+          "do": "enter",
+          "who": "earthbox"
+        },
+        {
+          "on": "doom",
+          "do": "collide",
+          "who": [
+            "earthbox",
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The surviving logbook documents the exact cargo that brought doom upon the Demeter.",
+    "noVisual": null
+  },
+  {
+    "i": 74,
+    "told": {
+      "events": [
+        {
+          "on": "50 boxes",
+          "do": "label",
+          "who": "earthbox",
+          "text": "50 boxes of earth"
+        },
+        {
+          "on": "chronicles",
+          "do": "focus",
+          "who": "demeterlog"
+        },
+        {
+          "on": "died",
+          "do": "wide"
+        },
+        {
+          "on": "died",
+          "do": "dim",
+          "who": [
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The log records the 50 boxes of earth while the captain died with a crucifix tied to his hands.",
+    "noVisual": null
+  },
+  {
+    "i": 75,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "A HOLY STAND",
+      "style": "reveal"
+    },
+    "set": "shore",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "angry",
+    "action": "stop",
+    "explainedBy": "One host argues that a martyr's holy stand against the devil, not a logbook, defined the captain's final moments.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A holy stand against evil, not a logbook, defined the captain's end.",
+      "concreteVisual": "Dracula halted in fury beside the protective shield icon on the Whitby shore.",
+      "onScreenText": "A HOLY STAND",
+      "relationToPrevious": "Shifts from the captain's physical crucifix at the wheel to its spiritual defense.",
+      "addedInformation": "Frames the captain's death as resistance against Dracula."
+    },
+    "place": "whitby"
+  },
+  {
+    "i": 76,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "demeter"
+        ]
+      },
+      "events": [
+        {
+          "on": "demon",
+          "do": "change",
+          "who": "dracula",
+          "action": "reach"
+        },
+        {
+          "on": "storm",
+          "do": "shake",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "log",
+          "do": "arrange",
+          "layout": "solo",
+          "who": [
+            "demeterlog"
+          ]
+        },
+        {
+          "on": "tracks",
+          "do": "focus",
+          "who": "demeterlog"
+        },
+        {
+          "on": "disappearance",
+          "do": "label",
+          "who": "demeterlog",
+          "text": "Disappearing crew"
+        }
+      ]
+    },
+    "explainedBy": "After the storm-tossed standoff with Dracula, the inspector reads the log tracking the crew's date-by-date disappearance.",
+    "noVisual": null
+  },
+  {
+    "i": 77,
+    "told": {
+      "events": [
+        {
+          "on": "A list",
+          "do": "wide"
+        },
+        {
+          "on": "survives",
+          "do": "grow",
+          "who": [
+            "demeterlog"
+          ]
+        },
+        {
+          "on": "August",
+          "do": "date",
+          "text": "AUGUST 3 · DEMETER"
+        },
+        {
+          "on": "ship.",
+          "do": "enter",
+          "who": "demeter"
+        }
+      ]
+    },
+    "explainedBy": "The list of the dead outlives the crew, introducing the log's August 3rd climax aboard the Demeter.",
+    "noVisual": null
+  },
+  {
+    "i": 78,
+    "told": {
+      "events": [
+        {
+          "on": "fog",
+          "do": "cover",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "no one",
+          "do": "exit",
+          "who": "demeterlog"
+        },
+        {
+          "on": "no one",
+          "do": "title",
+          "text": "NO ONE AT THE WHEEL"
+        }
+      ]
+    },
+    "explainedBy": "Thick fog shrouds the Demeter as the captain finds the helmsman missing from the wheel.",
+    "noVisual": null
+  },
+  {
+    "i": 79,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "EMPTY AS THE AIR",
+      "style": "reveal"
+    },
+    "set": "shore",
+    "cast": [],
+    "explainedBy": "The mad first mate rushes on deck and whispers that the creature on board is empty as the air.",
+    "noVisual": "Captain and first mate are not in the cast vocabulary; staged via shore storm set and callout.",
+    "storyboard": {
+      "claim": "The terrified mate reports the intruder is empty as the air.",
+      "concreteVisual": "A stormy coastal backdrop with no crew figures visible, pairing emptiness with the callout.",
+      "onScreenText": "EMPTY AS THE AIR",
+      "relationToPrevious": "Follows the missing helmsman in thick fog with the mate's panic on deck.",
+      "addedInformation": "Leaves the cast empty to reinforce the uncanny intangibility described."
+    },
+    "place": "whitby"
+  },
+  {
+    "i": 80,
+    "explainedBy": "The mate's knife passes through empty space, so he descends into the hold to open the wooden earth boxes.",
+    "noVisual": "The first mate is not in the cast vocabulary; shows the earthbox target in the hold while the callout carries the failed knife thrust.",
+    "storyboard": {
+      "claim": "Physical force fails against empty air, leading the mate to the boxes.",
+      "concreteVisual": "The wooden earth box in the shadowy maritime setting.",
+      "onScreenText": "BLADE THROUGH EMPTY SPACE",
+      "relationToPrevious": "Moves from the mate's report on deck to the failed stabbing and search of the cargo hold.",
+      "addedInformation": "Points visually to the wooden boxes where the mate next searches."
+    },
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "knife",
+          "do": "label",
+          "who": "earthbox",
+          "text": "BLADE THROUGH EMPTY SPACE"
+        },
+        {
+          "on": "boxes",
+          "do": "grow",
+          "who": "earthbox",
+          "to": 1.2
+        }
+      ]
+    }
+  },
+  {
+    "i": 81,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "THROWS HIMSELF INTO THE SEA",
+      "style": "reveal"
+    },
+    "set": "shore",
+    "cast": [],
+    "explainedBy": "Realizing physical force is useless, the desperate mate leaps overboard into the sea.",
+    "noVisual": "The first mate is not in the cast vocabulary; staged via water icon and callout.",
+    "storyboard": {
+      "claim": "In despair over useless force, the mate leaps into the sea.",
+      "concreteVisual": "Dark open water representing the sea into which the mate plunges.",
+      "onScreenText": "THROWS HIMSELF INTO THE SEA",
+      "relationToPrevious": "Follows the failed search of the hold with the mate's fatal leap.",
+      "addedInformation": "Shows the destination of the mate's desperate jump."
+    },
+    "place": "whitby"
+  },
+  {
+    "i": 82,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "PHYSICAL FORCE",
+        "EMPTY SPACE",
+        "VIOLENCE USELESS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The captain watches the knife pass through empty space and concludes that violence is useless against this creature.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Watching the knife strike empty air proves violence is useless.",
+      "concreteVisual": "A three-step causal flow: PHYSICAL FORCE -> EMPTY SPACE -> VIOLENCE USELESS.",
+      "onScreenText": "PHYSICAL FORCE -> EMPTY SPACE -> VIOLENCE USELESS",
+      "relationToPrevious": "Distills the mate's failed attack and suicide into the captain's realization.",
+      "addedInformation": "Makes the causal takeaway explicit without sound."
+    },
+    "place": "whitby"
+  },
+  {
+    "i": 83,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "demeterlog",
+          "demeter"
+        ]
+      },
+      "events": [
+        {
+          "on": "documentation",
+          "do": "grow",
+          "who": [
+            "demeterlog"
+          ]
+        },
+        {
+          "on": "bottle",
+          "do": "label",
+          "who": "demeterlog",
+          "text": "Sealed in bottle"
+        },
+        {
+          "on": "didn't save",
+          "do": "cross",
+          "who": [
+            "demeterlog",
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The captain seals his warning in the bottle, though the logbook never saved a single soul aboard the Demeter.",
+    "noVisual": null
+  },
+  {
+    "i": 84,
+    "told": {
+      "events": [
+        {
+          "on": "coroner's",
+          "do": "stamp",
+          "who": "demeterlog",
+          "text": "POST-MORTEM"
+        },
+        {
+          "on": "ghost",
+          "do": "dim",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "nothing",
+          "do": "cross",
+          "who": "demeterlog"
+        }
+      ]
+    },
+    "explainedBy": "The log acted merely as a post-mortem report for a ghost ship, preventing none of the crew's deaths.",
+    "noVisual": null
+  },
+  {
+    "i": 85,
+    "told": {
+      "events": [
+        {
+          "on": "no protection",
+          "do": "dim",
+          "who": [
+            "demeterlog"
+          ]
+        },
+        {
+          "on": "land",
+          "do": "arrange",
+          "layout": "versus",
+          "who": [
+            "demeter",
+            "whitby"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Paper offered no protection at sea, shifting the focus to the decisive events on land at Whitby.",
+    "noVisual": null
+  },
+  {
+    "i": 86,
+    "told": {
+      "events": [
+        {
+          "on": "Whippby",
+          "do": "arrange",
+          "layout": "flow",
+          "who": [
+            "demeter",
+            "earthbox",
+            "whitby"
+          ]
+        },
+        {
+          "on": "legally",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "LEGAL"
+        },
+        {
+          "on": "50 boxes",
+          "do": "grow",
+          "who": [
+            "earthbox"
+          ]
+        },
+        {
+          "on": "consignment",
+          "do": "label",
+          "who": "whitby",
+          "text": "Consignment papers"
+        }
+      ]
+    },
+    "explainedBy": "The Whitby solicitor legally receives the 50 boxes of earth from the Demeter because the consignment papers are valid.",
+    "noVisual": null
+  },
+  {
+    "i": 87,
+    "told": {
+      "events": [
+        {
+          "on": "triumph",
+          "do": "dim",
+          "who": [
+            "demeter"
+          ]
+        },
+        {
+          "on": "delivered",
+          "do": "together",
+          "who": [
+            "earthbox",
+            "whitby"
+          ]
+        },
+        {
+          "on": "dead men",
+          "do": "cross",
+          "who": "demeter"
+        }
+      ]
+    },
+    "explainedBy": "Orderly bureaucracy delivers the earth boxes into Whitby while the dead crew and ghost ship are overshadowed.",
+    "noVisual": null
+  }
+]

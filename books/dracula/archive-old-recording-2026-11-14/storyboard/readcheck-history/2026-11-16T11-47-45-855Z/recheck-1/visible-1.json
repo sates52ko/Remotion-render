@@ -1,0 +1,81 @@
+[
+ {
+  "id": "b001",
+  "stage": "versus: transylvania, london",
+  "happens": [
+   "title \"Two opposing forces\""
+  ]
+ },
+ {
+  "id": "b002",
+  "happens": [
+   "title \"Men pooling their blood\"",
+   "enter quincey",
+   "grow quincey"
+  ]
+ },
+ {
+  "id": "b003",
+  "stage": "versus: dracula, typewriter",
+  "happens": [
+   "grow dracula",
+   "title \"Two opposing forces\""
+  ]
+ },
+ {
+  "id": "b004",
+  "happens": [
+   "label dracula \"An ancient warlord\"",
+   "title \"Ancient telepathic mind\""
+  ]
+ },
+ {
+  "id": "b005",
+  "happens": [
+   "focus typewriter",
+   "title \"The filing cabinet slays\""
+  ]
+ },
+ {
+  "id": "b006",
+  "stage": "versus: transylvania, mina",
+  "happens": [
+   "label mina \"Waiting for Jonathan\"",
+   "label transylvania \"Transylvania expedition\"",
+   "title \"Mina prepares her mind\""
+  ]
+ },
+ {
+  "id": "b007",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "enter london",
+   "title \"The analytical nerve center\"",
+   "label mina \"Real nerve center\""
+  ]
+ },
+ {
+  "id": "b008",
+  "stage": "solo: earthbox",
+  "happens": [
+   "title \"Fifty boxes of earth\"",
+   "grow earthbox"
+  ]
+ },
+ {
+  "id": "b009",
+  "stage": "solo: year1897",
+  "happens": [
+   "title \"REVERSE COLONIZATION\"",
+   "date \"1897 · Stoker writes\""
+  ]
+ },
+ {
+  "id": "b010",
+  "stage": "solo: dracula",
+  "happens": [
+   "cover dracula",
+   "title \"Hidden in shell companies\""
+  ]
+ }
+]

@@ -1,0 +1,2488 @@
+{
+  "slug": "dracula",
+  "totalSequences": 54,
+  "totalScenes": 205,
+  "averageDurationSecs": 34.2,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "engine",
+      "fromFrame": 2,
+      "durationFrames": 1049,
+      "durationSeconds": 35,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 2,
+          "durationFrames": 164,
+          "role": "setup",
+          "narration": "A heavy parchment property deed slides across a massive scarred oak table."
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 166,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "we are in a gloomy ruined castle in Transennsylvania. The shadows in this room are long and they're "
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 490,
+          "durationFrames": 309,
+          "role": "complication",
+          "narration": "Sounds cozy, right? And outside the heavy window, wolves are howling in the deep valleys of the Borg"
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 799,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "The hand is broad with squat fingers, long, sharply pointed nails, and uh thick dark hair growing in"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 1051,
+      "durationFrames": 631,
+      "durationSeconds": 21,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1051,
+          "durationFrames": 245,
+          "role": "setup",
+          "narration": "the hair on the palms always gets me. It's so visceral. And then a pen scratches across the paper. D"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1296,
+          "durationFrames": 386,
+          "role": "reveal",
+          "narration": "See that signature on that parchment? It fundamentally changes the entire nature of the threat for m"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "authored",
+      "fromFrame": 1682,
+      "durationFrames": 862,
+      "durationSeconds": 28.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1682,
+          "durationFrames": 269,
+          "role": "authored-start",
+          "narration": "over a century. You think so? I really do. You think you know this story. You know you picture the f"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1951,
+          "durationFrames": 279,
+          "role": "authored-kept",
+          "narration": "But I am laying out a central thesis here and Let's hear it. Dracula is not beaten by faith or coura"
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2230,
+          "durationFrames": 314,
+          "role": "authored-kept",
+          "narration": "like clerical work. Yes. Paperwork. Yes. Every single clue that kills him is a document somebody kep"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "authored",
+      "fromFrame": 2544,
+      "durationFrames": 545,
+      "durationSeconds": 18.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2544,
+          "durationFrames": 262,
+          "role": "authored-start",
+          "narration": "And I I reject that premise from the outset. I really do. I figured you would because the men and wo"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2806,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "They won the day with crucifixes, with sharpened wooden stakes, and with sheer unflinching human Oka"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 3089,
+      "durationFrames": 1118,
+      "durationSeconds": 37.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 3089,
+          "durationFrames": 189,
+          "role": "setup",
+          "narration": "Administrative paperwork does not kill a centuries old warlord who commands the children of the nigh"
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3278,
+          "durationFrames": 348,
+          "role": "question",
+          "narration": "I will not accept any conclusion until every single piece of evidence is presented on this table and"
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3626,
+          "durationFrames": 329,
+          "role": "complication",
+          "narration": "All right, let us put the scene right in front of you. It is early May in Transennsylvania. Jonathan"
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3955,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "just a terrifying journey through the Carpathian Mountains. Right. He's completely isolated. Exactly"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "engine",
+      "fromFrame": 4207,
+      "durationFrames": 1126,
+      "durationSeconds": 37.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 4207,
+          "durationFrames": 223,
+          "role": "setup",
+          "narration": "And he lays the deed to the Carfax estate on the count's table and the count signs them. He takes th"
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4430,
+          "durationFrames": 216,
+          "role": "question",
+          "narration": "This proves the monster's first act in England is a signature. He doesn't arrive as a conquering war"
+        },
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4646,
+          "durationFrames": 202,
+          "role": "complication",
+          "narration": "You know, he enters society through property law. Yeah, but you were looking at the ink and you are "
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4848,
+          "durationFrames": 230,
+          "role": "complication",
+          "narration": "How so? The signature is just a meaningless formality to him. We are talking about a monster of prod"
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 5078,
+          "durationFrames": 255,
+          "role": "reveal",
+          "narration": "He's strong. Strong. This is a creature who Harker later watches climb face down the sheer outer wal"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 5333,
+      "durationFrames": 1022,
+      "durationSeconds": 34.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5333,
+          "durationFrames": 305,
+          "role": "setup",
+          "narration": "Crawling over an abyss of a thousand ft. His cloak spreading out around him like great black wings. "
+        },
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5638,
+          "durationFrames": 206,
+          "role": "question",
+          "narration": "You think it's just a show? Yeah, he signs it merely to appease the clerk sitting across from him. I"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5844,
+          "durationFrames": 300,
+          "role": "complication",
+          "narration": "Okay, but let me bring in Harker's own notes on the Carfax estate to settle this because Harker desc"
+        },
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 6144,
+          "durationFrames": 211,
+          "role": "reveal",
+          "narration": "Yeah. It contains 20 acres completely surrounded by a high, heavy, ancient stone wall Exactly."
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "engine",
+      "fromFrame": 6355,
+      "durationFrames": 970,
+      "durationSeconds": 32.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6355,
+          "durationFrames": 336,
+          "role": "setup",
+          "narration": "Inside it's gloomy with massive trees. There is a deep dark pond fed by natural springs and an old r"
+        },
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6691,
+          "durationFrames": 339,
+          "role": "question",
+          "narration": "physical geography. He needs a massive enclosed fortified space to hide his 50 boxes of Transian Ear"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 7030,
+          "durationFrames": 295,
+          "role": "reveal",
+          "narration": "this tactical beach head, his entire invasion fails before he even boards a Okay, I'll give you that"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "engine",
+      "fromFrame": 7325,
+      "durationFrames": 1233,
+      "durationSeconds": 41.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7325,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "He secures his physical foothold through the proper administrative channels because it is He needs a"
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7589,
+          "durationFrames": 168,
+          "role": "question",
+          "narration": "So, we agree the invasion starts on paper and the tactical beach head is secured legally."
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7757,
+          "durationFrames": 271,
+          "role": "complication",
+          "narration": "But a lingering doubt remains. Can an airtight lease agreement actually stop a creature who controls"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 8028,
+          "durationFrames": 230,
+          "role": "complication",
+          "narration": "I mean, come on. Oh, let's look at what he does next. Exhibit Exhibit two, the atlas with three ring"
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8258,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "Yes. We are inside the count's library in the castle. Harker wanders into this massive dusty room an"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "engine",
+      "fromFrame": 8558,
+      "durationFrames": 982,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8558,
+          "durationFrames": 284,
+          "role": "setup",
+          "narration": "Right. Yeah. English history, geography, political economy. And on the center table, Harker finds a "
+        },
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8842,
+          "durationFrames": 314,
+          "role": "question",
+          "narration": "Just sitting there. and three rings are marked on it in colored pencil. Let me guess, London. London"
+        },
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 9156,
+          "durationFrames": 158,
+          "role": "complication",
+          "narration": "Key locations. And beside the atlas sit a Bradshaw's railway guide and the law list."
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9314,
+          "durationFrames": 226,
+          "role": "reveal",
+          "narration": "See, I know where you're going with Well, it proves Dracula is a meticulous clerk of his own invasio"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "engine",
+      "fromFrame": 9540,
+      "durationFrames": 1188,
+      "durationSeconds": 39.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9540,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "He is studying shipping routes, railway timets, legal directories. He is weaponizing modern British "
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9804,
+          "durationFrames": 278,
+          "role": "question",
+          "narration": "That's a stretch. Is it? He is plotting a logistical network calculating distances and transit times"
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 10082,
+          "durationFrames": 156,
+          "role": "partial_answer",
+          "narration": "I challenge that interpretation Consider who we are dealing with here."
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10238,
+          "durationFrames": 164,
+          "role": "complication",
+          "narration": "This is a centuries old secly warlord who fought the Turks across the Danube."
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10402,
+          "durationFrames": 326,
+          "role": "reveal",
+          "narration": "A man who boasts that the blood of Aillaa flows in his veins which is terrifying. Sure. He relies on"
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "engine",
+      "fromFrame": 10728,
+      "durationFrames": 1169,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10728,
+          "durationFrames": 218,
+          "role": "setup",
+          "narration": "You think he's lost? He is a stranger in a strange land. His true threat lies in his ancient conquer"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10946,
+          "durationFrames": 377,
+          "role": "question",
+          "narration": "his brute force and his supernatural abilities, not his reading habits. So the books are just the bo"
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11323,
+          "durationFrames": 238,
+          "role": "complication",
+          "narration": "Remind me. He states explicitly that he wants to know London's crowded streets so he can be master s"
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11561,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "But he says to Harker, I am content if I am like the rest. So that no man stops if he see me or paus"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "engine",
+      "fromFrame": 11897,
+      "durationFrames": 1253,
+      "durationSeconds": 41.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11897,
+          "durationFrames": 206,
+          "role": "setup",
+          "narration": "He is actively learning the English intonation, the slang, the mechanics of their society to blend i"
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 12103,
+          "durationFrames": 219,
+          "role": "question",
+          "narration": "The data is his camouflage. He is absorbing the empire's information to become invisible within it. "
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12322,
+          "durationFrames": 170,
+          "role": "partial_answer",
+          "narration": "I suppose he's exploiting modern information to mask his ancient evil."
+        },
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12492,
+          "durationFrames": 317,
+          "role": "complication",
+          "narration": "He wraps himself in the trappings of a gentleman scholar to move unseen among the populace. So the p"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12809,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "But this leads us to the next terrible question, which is, what happens when the physical reality of"
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "engine",
+      "fromFrame": 13150,
+      "durationFrames": 962,
+      "durationSeconds": 32.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 13150,
+          "durationFrames": 165,
+          "role": "setup",
+          "narration": "Oh, that brings us to exhibit 3, the shaving mirror. it is the morning of May 8th."
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13315,
+          "durationFrames": 202,
+          "role": "question",
+          "narration": "Parker is standing in his room, shaving by the light of a small glass he hung by the heavy window. A"
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13517,
+          "durationFrames": 338,
+          "role": "complication",
+          "narration": "Totally normal. Then he hears a voice say, \"Good morning.\" feels a hand on his shoulder and looks in"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13855,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "The fire burning in the great, the heavy furniture, but no count. No reflection at all. None. Harker"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "engine",
+      "fromFrame": 14112,
+      "durationFrames": 946,
+      "durationSeconds": 31.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 14112,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "The blood trickles down his chin. And the count reacts to that, right? The count sees the blood and "
+        },
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14352,
+          "durationFrames": 343,
+          "role": "question",
+          "narration": "He lunges for Harker's throat with terrifying speed. His hands clawing like an animal. But he doesn'"
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14695,
+          "durationFrames": 363,
+          "role": "reveal",
+          "narration": "instantly, his fury vanishing. He grabs the mirror, declares it a foul bobble of man's vanity, and t"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "authored",
+      "fromFrame": 15058,
+      "durationFrames": 398,
+      "durationSeconds": 13.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 15058,
+          "durationFrames": 201,
+          "role": "authored-start",
+          "narration": "that encounter at all. How can you say that? Because the scene explicitly proves the physical, unden"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 15259,
+          "durationFrames": 197,
+          "role": "authored-kept",
+          "narration": "Faith and a tangible holy object stopped a lethal attack in its tracks. Well, yes, it stopped the at"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "engine",
+      "fromFrame": 15456,
+      "durationFrames": 1051,
+      "durationSeconds": 35,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15456,
+          "durationFrames": 290,
+          "role": "setup",
+          "narration": "A journal entry did not save Jonathan Harker's throat. A symbol of divine protection did. But look a"
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15746,
+          "durationFrames": 212,
+          "role": "question",
+          "narration": "no footprint, no shadow. Harker is forced to write this impossible event down that very night in his"
+        },
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 15958,
+          "durationFrames": 304,
+          "role": "complication",
+          "narration": "No, more than that. He realizes he is trapped in a castle with a phantom. The written diary must lit"
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16262,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "Harker is trying to anchor himself to reality using ink. I mean, the diary is a coping mechanism for"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "engine",
+      "fromFrame": 16507,
+      "durationFrames": 833,
+      "durationSeconds": 27.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16507,
+          "durationFrames": 259,
+          "role": "setup",
+          "narration": "The crucifix is the weapon that actually saved his But listen to Harker's desperate journal entry wr"
+        },
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 16766,
+          "durationFrames": 255,
+          "role": "question",
+          "narration": "He realizes he must rely on quote bare meager facts verified by books and figures to keep his sanity"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 17021,
+          "durationFrames": 319,
+          "role": "reveal",
+          "narration": "The horror is so vast, so inexplicable that he has to reduce it to data to survive it. He needs a wr"
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "authored",
+      "fromFrame": 17340,
+      "durationFrames": 518,
+      "durationSeconds": 17.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17340,
+          "durationFrames": 286,
+          "role": "authored-start",
+          "narration": "own eyes cannot be Okay, we can observe that the lack of a reflection forces the victims to create a"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 17626,
+          "durationFrames": 232,
+          "role": "authored-kept",
+          "narration": "Right? The written word replaces the physical evidence of his presence. Yes, a diary might save your"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "engine",
+      "fromFrame": 17858,
+      "durationFrames": 1248,
+      "durationSeconds": 41.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 17858,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "But the doubt arises. Will a log book save a crew trapped on the open sea? That is exhibit 4. The de"
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 18122,
+          "durationFrames": 392,
+          "role": "question",
+          "narration": "So brutal. It is August in the seaside town of Whitby. A sudden violent storm brings a derelict Russ"
+        },
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 18514,
+          "durationFrames": 237,
+          "role": "complication",
+          "narration": "out of control. A Coast Guard boards her and finds a dead captain lashed to the wheel. Lashed to the"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 18751,
+          "durationFrames": 355,
+          "role": "reveal",
+          "narration": "The man's hands are tied one over the other to the spokes, the cords cutting the flesh to the bone. "
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "engine",
+      "fromFrame": 19106,
+      "durationFrames": 1042,
+      "durationSeconds": 34.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 19106,
+          "durationFrames": 209,
+          "role": "setup",
+          "narration": "It is the ship's log. the only thing left. This log proves that when physical survival fails complet"
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 19315,
+          "durationFrames": 267,
+          "role": "question",
+          "narration": "the written record is the only thing that lives on. The log meticulously documents the exact cargo t"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19582,
+          "durationFrames": 316,
+          "role": "complication",
+          "narration": "50 boxes of earth. It chronicles the disaster. Okay, but look at the captain's hands. What about the"
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 19898,
+          "durationFrames": 250,
+          "role": "reveal",
+          "narration": "wheel. I know, but it was a martyr's courage, a holy stand against the devil himself, not a log book"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "engine",
+      "fromFrame": 20148,
+      "durationFrames": 1171,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 20148,
+          "durationFrames": 374,
+          "role": "setup",
+          "narration": "He bowed himself to his duty and his god. He faced down a demon in a raging storm. Yeah. The board o"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 20522,
+          "durationFrames": 250,
+          "role": "question",
+          "narration": "A list of the dead. The record survives the men. But let me bring in the second scene from this The "
+        },
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 20772,
+          "durationFrames": 211,
+          "role": "complication",
+          "narration": "The fog is incredibly thick, clinging to the masts. The captain goes to relieve the man at the wheel"
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 20983,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "Just gone. He shots for the mate. The mate rushes up on deck, wildeyed and haggarded, stark raving m"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 21319,
+      "durationFrames": 965,
+      "durationSeconds": 32.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 21319,
+          "durationFrames": 394,
+          "role": "setup",
+          "narration": "in the night and drove his knife into it, but the blade went through empty space. A physical attack "
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 21713,
+          "durationFrames": 249,
+          "role": "question",
+          "narration": "looking for it. Finally, in absolute despair, realizing physical force is useless, the mate screams,"
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 21962,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "So grim. So the mate dried physical force. He used a knife, and it went right through the monster. T"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "engine",
+      "fromFrame": 22284,
+      "durationFrames": 1056,
+      "durationSeconds": 35.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 22284,
+          "durationFrames": 314,
+          "role": "setup",
+          "narration": "The only way to transmit the warning, the only action left to a rational man facing an immortal phan"
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 22598,
+          "durationFrames": 255,
+          "role": "partial_answer",
+          "narration": "It warned people, did it? It just served as a coroner's report for a ghost ship. It recorded their d"
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 22853,
+          "durationFrames": 189,
+          "role": "question",
+          "narration": "The paper offered no protection whatsoever. But the settling evidence is what happens on land. What "
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 23042,
+          "durationFrames": 298,
+          "role": "reveal",
+          "narration": "The Whippby solicitor, Mr. Billington legally receives those 50 boxes of mold the very next day beca"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "engine",
+      "fromFrame": 23340,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 23340,
+          "durationFrames": 305,
+          "role": "setup",
+          "narration": "The legal consignment papers triumph over the tragedy of the ghost ship. The cargo is delivered beca"
+        },
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23645,
+          "durationFrames": 365,
+          "role": "question",
+          "narration": "Okay. The ship brought death via completely legal documented cargo. The log was the sole survivor of"
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 24010,
+          "durationFrames": 326,
+          "role": "reveal",
+          "narration": "completely shielded by legitimate cargo manifests. But how can they measure the spread of this disea"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "engine",
+      "fromFrame": 24336,
+      "durationFrames": 974,
+      "durationSeconds": 32.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 24336,
+          "durationFrames": 168,
+          "role": "setup",
+          "narration": "Lucy's chart. Now, we get to the medical side of things, right? It is September."
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 24504,
+          "durationFrames": 182,
+          "role": "question",
+          "narration": "We are inside Lucy Westenra's bedroom in London. The windows are closed against the night air."
+        },
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24686,
+          "durationFrames": 260,
+          "role": "complication",
+          "narration": "Dr. Van Helsing and Dr. Seward perform a series of ghastly experimental blood transfusions. Highly e"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 24946,
+          "durationFrames": 364,
+          "role": "reveal",
+          "narration": "Very. Over the course of several days, the blood of four strong men, Arthur Homewood, John Seward, Q"
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "engine",
+      "fromFrame": 25310,
+      "durationFrames": 1092,
+      "durationSeconds": 36.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 25310,
+          "durationFrames": 212,
+          "role": "setup",
+          "narration": "And Seard is keeping track of all of Yes. Dr. Seard records it all on his phonograph diary, which op"
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 25522,
+          "durationFrames": 199,
+          "role": "question",
+          "narration": "He notes every physical Like what? her chalky power, her sturdous breathing,"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25721,
+          "durationFrames": 329,
+          "role": "complication",
+          "narration": "the white edges of the twin wounds on her neck. He meticulously measures the theft of her life cylin"
+        },
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 26050,
+          "durationFrames": 352,
+          "role": "reveal",
+          "narration": "Blind. They're recording everything. They are treating a spiritual curse, a demonic attack, as mere "
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 26402,
+      "durationFrames": 994,
+      "durationSeconds": 33.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 26402,
+          "durationFrames": 279,
+          "role": "setup",
+          "narration": "symptoms of a supernatural predator using Victorian instruments. But the data is exactly what reveal"
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26681,
+          "durationFrames": 206,
+          "role": "question",
+          "narration": "He looks at the pale girl and notes that four men's blood went into her veins. And he says her whole"
+        },
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 26887,
+          "durationFrames": 312,
+          "role": "complication",
+          "narration": "because it's too much liquid, right? And he asks the crucial question, what took it out? The data it"
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 27199,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "prove a monster is feeding on her night after I mean, medical science impeccably documented a failin"
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "engine",
+      "fromFrame": 27396,
+      "durationFrames": 1118,
+      "durationSeconds": 37.3,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 27396,
+          "durationFrames": 269,
+          "role": "setup",
+          "narration": "They recorded the immense loss of blood, but the charts couldn't cure her or stop the attacks from h"
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27665,
+          "durationFrames": 213,
+          "role": "partial_answer",
+          "narration": "They measured the failure perfectly, proving the supernatural drain, which leaves us with a huge dou"
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27878,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "Go ahead. If modern science and medical data fail to save a life, what happens when they abandon sci"
+        },
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 28130,
+          "durationFrames": 144,
+          "role": "complication",
+          "narration": "Okay, exhibit six. The garlic at the open window."
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 28274,
+          "durationFrames": 240,
+          "role": "reveal",
+          "narration": "This one is so frustrating to read. It really is. We are still in Lucy's room. Then Helsing brings a"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "engine",
+      "fromFrame": 28514,
+      "durationFrames": 1198,
+      "durationSeconds": 39.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28514,
+          "durationFrames": 327,
+          "role": "setup",
+          "narration": "Special delivery. He rubs the flowers all over the window sashes, the jam of the door and the firepl"
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28841,
+          "durationFrames": 223,
+          "role": "question",
+          "narration": "strict about this. He tells her not to disturb it under any circumstances. But in the morning, Lucy'"
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 29064,
+          "durationFrames": 322,
+          "role": "complication",
+          "narration": "Wenra, comes Oh, Mrs. Worenra. She thinks the room feels stuffy and smells foul. So, she opens the w"
+        },
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29386,
+          "durationFrames": 326,
+          "role": "reveal",
+          "narration": "throws it out. Just completely undoes the whole Yes, this exhibit points the other way. The failure "
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "engine",
+      "fromFrame": 29712,
+      "durationFrames": 1296,
+      "durationSeconds": 43.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29712,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "The belief in the garlic was profoundly accurate and removing it doomed her. It proves that human ig"
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 30065,
+          "durationFrames": 247,
+          "role": "question",
+          "narration": "power of the ward and her mundane action invited the monster back And look at the consequence. The s"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 30312,
+          "durationFrames": 355,
+          "role": "complication",
+          "narration": "The great bat flaps at the window in the moonlight and Lucy in her lethargic, mesmerized state tears"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30667,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "The physical ward was incredibly powerful, but the human element subverted it from within. So, belie"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 31008,
+      "durationFrames": 1111,
+      "durationSeconds": 37,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 31008,
+          "durationFrames": 293,
+          "role": "setup",
+          "narration": "by human error and the monster's hypnotic control over his victim. The physical defenses fell to hum"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 31301,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "What is Lucy's final human act before the curse consumes her completely? Let's look at exhibit 7."
+        },
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 31486,
+          "durationFrames": 271,
+          "role": "partial_answer",
+          "narration": "Lucy's The scene is chaos. Absolute chaos. The men burst into Lucy's room after the final fatal atta"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31757,
+          "durationFrames": 185,
+          "role": "complication",
+          "narration": "The maids are drugged on the floor in the hallway. The mother is dead of a heart attack on the bed. "
+        },
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 31942,
+          "durationFrames": 177,
+          "role": "reveal",
+          "narration": "It's a total defeat. And when they carry her to the bath, a piece of paper drops from her breast."
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "engine",
+      "fromFrame": 32119,
+      "durationFrames": 1265,
+      "durationSeconds": 42.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 32119,
+          "durationFrames": 334,
+          "role": "setup",
+          "narration": "The memorandum dying. As her mother collapsed beside her in the room filled with a swirling mist and"
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 32453,
+          "durationFrames": 345,
+          "role": "question",
+          "narration": "See, even as her soul is being ripped away, Lucy's final human instinct is to file a report. A repor"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32798,
+          "durationFrames": 224,
+          "role": "complication",
+          "narration": "of the attack. It is a tragic, ultimately useless gesture. Yes. She files a report. She dies. She be"
+        },
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 33022,
+          "durationFrames": 362,
+          "role": "reveal",
+          "narration": "And the men ultimately have to go to her tomb, physically cut off her head, and drive a wooden steak"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 33384,
+      "durationFrames": 1090,
+      "durationSeconds": 36.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 33384,
+          "durationFrames": 298,
+          "role": "setup",
+          "narration": "Action stopped her, not her But the paper is treated as a massive threat by her protectors. Van Hels"
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33682,
+          "durationFrames": 362,
+          "role": "question",
+          "narration": "He explicitly states to Seward that he must conceal it from the coroner to avoid an inquest. Well, y"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 34044,
+          "durationFrames": 192,
+          "role": "complication",
+          "narration": "The paper is dangerously real evidence. It could bring the police, the law, and total exposure to th"
+        },
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 34236,
+          "durationFrames": 238,
+          "role": "reveal",
+          "narration": "Okay. Her final act was creating an archive of the attack, but the men immediately suppressed it to "
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "engine",
+      "fromFrame": 34474,
+      "durationFrames": 1300,
+      "durationSeconds": 43.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 34474,
+          "durationFrames": 410,
+          "role": "setup",
+          "narration": "The evidence was buried. They hid the file to protect themselves from the And the doubt that remains"
+        },
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 34884,
+          "durationFrames": 283,
+          "role": "question",
+          "narration": "That is exhibit 8. Mina's typewriter. It is late September. Mina Harker sits at her typewriter in Dr"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 35167,
+          "durationFrames": 231,
+          "role": "complication",
+          "narration": "pile of media. Just a mountain of different formats. Seward's wax photograph cylinders. Jonathan's s"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 35398,
+          "durationFrames": 376,
+          "role": "reveal",
+          "narration": "Lucy's letters and Whitby newspaper clippings, She is typing them all out, translating the shortorth"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "engine",
+      "fromFrame": 35774,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 35774,
+          "durationFrames": 197,
+          "role": "setup",
+          "narration": "it all in one place. This is the ultimate turning point of the war. Dracula is defeated by administr"
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35971,
+          "durationFrames": 298,
+          "role": "question",
+          "narration": "Oh, come on. He is. By typing the data in order, the timeline suddenly reveals the existence, the mo"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 36269,
+          "durationFrames": 156,
+          "role": "complication",
+          "narration": "The pattern emerges from the chaos. The typewriter is just a machine processing words."
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 36425,
+          "durationFrames": 345,
+          "role": "reveal",
+          "narration": "You are elevating clerical work over combat. It's intelligence work. It is the men's physical courag"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "engine",
+      "fromFrame": 36770,
+      "durationFrames": 994,
+      "durationSeconds": 33.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 36770,
+          "durationFrames": 147,
+          "role": "setup",
+          "narration": "power. The typewriter doesn't swing a knife. It just records the bravery of those who do."
+        },
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36917,
+          "durationFrames": 206,
+          "role": "question",
+          "narration": "But look at the moment Lord Godlming and Quincy Morris read the typed manuscript in the library when"
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 37123,
+          "durationFrames": 336,
+          "role": "complication",
+          "narration": "For the first time, they understand the total terrifying truth of what they are fighting. The data c"
+        },
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 37459,
+          "durationFrames": 305,
+          "role": "reveal",
+          "narration": "Yes. But let me tell you the second scene involving this data. October 3rd. Yes. October 3rd. The me"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "engine",
+      "fromFrame": 37764,
+      "durationFrames": 1010,
+      "durationSeconds": 33.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 37764,
+          "durationFrames": 326,
+          "role": "setup",
+          "narration": "The moonlight suddenly fails. Inside the room, a tall, thin man in black stands over Mina. He forces"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 38090,
+          "durationFrames": 353,
+          "role": "question",
+          "narration": "He pushes her face down onto his bleeding, torn open chest, forcing her to drink his blood. While Jo"
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 38443,
+          "durationFrames": 331,
+          "role": "reveal",
+          "narration": "The count has breached the asylum. It's one of the most violating scenes in literature. It is. But a"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "engine",
+      "fromFrame": 38774,
+      "durationFrames": 1059,
+      "durationSeconds": 35.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 38774,
+          "durationFrames": 288,
+          "role": "setup",
+          "narration": "because she is the archist. Oh, he attacks her because she's Before he attacks her, he goes to the s"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 39062,
+          "durationFrames": 207,
+          "role": "question",
+          "narration": "He does destroy the room. Yeah. He throws them in the fire. He is executing a targeted destruction o"
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 39269,
+          "durationFrames": 314,
+          "role": "complication",
+          "narration": "He recognizes that the organized information is his greatest vulnerability. He attacks her out of sh"
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 39583,
+          "durationFrames": 250,
+          "role": "reveal",
+          "narration": "But the files, and he is only stopped when Van Helsing bursts into the room and holds up the envelop"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "engine",
+      "fromFrame": 39833,
+      "durationFrames": 1229,
+      "durationSeconds": 41,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 39833,
+          "durationFrames": 336,
+          "role": "setup",
+          "narration": "The count cowers from the host. Faith makes him turn to a faint vapor and flee, not paperwork. The h"
+        },
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 40169,
+          "durationFrames": 348,
+          "role": "question",
+          "narration": "realization after the attack settles the matter. What realization? Mina, her face smeared with blood"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 40517,
+          "durationFrames": 225,
+          "role": "complication",
+          "narration": "the safe.\" The backup file survives the vampire. The archive defeats the fire. The knowledge is pres"
+        },
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 40742,
+          "durationFrames": 320,
+          "role": "reveal",
+          "narration": "So, the count recognized the massive threat of the compiled information and tried to wipe out their "
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "engine",
+      "fromFrame": 41062,
+      "durationFrames": 1012,
+      "durationSeconds": 33.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 41062,
+          "durationFrames": 266,
+          "role": "setup",
+          "narration": "But having the data in a safe is one right? The doubt is how do they physically audit his properties"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 41328,
+          "durationFrames": 254,
+          "role": "question",
+          "narration": "Exhibit nine, the Carter's receipts. Back to the grunt work. Jonathan Harker tracks down a working-c"
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 41582,
+          "durationFrames": 317,
+          "role": "complication",
+          "narration": "The guy who moved the boxes. Smalllet is in his shirt sleeves drinking tea from a saucer. Harker ask"
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 41899,
+          "durationFrames": 175,
+          "role": "reveal",
+          "narration": "pocket ledger from his coat filled with thick, half obliterated pencil entries. his work log."
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "engine",
+      "fromFrame": 42074,
+      "durationFrames": 968,
+      "durationSeconds": 32.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 42074,
+          "durationFrames": 293,
+          "role": "setup",
+          "narration": "Dracula is undone by the workingclass keeping receipts. Smalllet's delivery addresses Chickan Street"
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 42367,
+          "durationFrames": 161,
+          "role": "question",
+          "narration": "provide the exact physical map to the counselors. They finally have the addresses."
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 42528,
+          "durationFrames": 223,
+          "role": "complication",
+          "narration": "The audit trail exposes the monster's hidden network. Okay, but finding the boxes on a piece of pape"
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 42751,
+          "durationFrames": 291,
+          "role": "reveal",
+          "narration": "It's the first step. The men have to physically travel to those properties, break into them, pry ope"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "engine",
+      "fromFrame": 43042,
+      "durationFrames": 1041,
+      "durationSeconds": 34.7,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 43042,
+          "durationFrames": 170,
+          "role": "setup",
+          "narration": "by placing pieces of the sacred wafer inside, which is terrifying. Obviously, the receipts are just "
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 43212,
+          "durationFrames": 281,
+          "role": "complication",
+          "narration": "The sterilization is a physical holy act requiring immense bravery. You can't just read an address a"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 43493,
+          "durationFrames": 242,
+          "role": "question",
+          "narration": "crucial to understanding their peril. The hunters break into the Piccadilly house. They open the box"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 43735,
+          "durationFrames": 147,
+          "role": "complication",
+          "narration": "They count them. They expect to find nine boxes based on the shipping data."
+        },
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 43882,
+          "durationFrames": 201,
+          "role": "reveal",
+          "narration": "They only find eight. One is missing. One is missing. The paperwork reveals the tactical flaw in the"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "engine",
+      "fromFrame": 44083,
+      "durationFrames": 1227,
+      "durationSeconds": 40.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 44083,
+          "durationFrames": 346,
+          "role": "setup",
+          "narration": "Without the ledger, they would have assumed victory. So, the receipts provided the map to the layers"
+        },
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 44429,
+          "durationFrames": 350,
+          "role": "question",
+          "narration": "in the city. The paper trail led them to the layers, but now a box is missing. The doubt is how do t"
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 44779,
+          "durationFrames": 195,
+          "role": "complication",
+          "narration": "This is a disturbing one. Very. Inside the lunatic asylum, Dr. Seard studies his patient, Renfield."
+        },
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 44974,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "Renfield keeps a literal ledger of consumed life, the flies. He eats flies, logs them in his pocketb"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "engine",
+      "fromFrame": 45310,
+      "durationFrames": 1180,
+      "durationSeconds": 39.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 45310,
+          "durationFrames": 237,
+          "role": "setup",
+          "narration": "He feeds the spiders to birds, eats the birds and logs them. It is a deranged mathematical escalatio"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 45547,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "But Renfield is the count's biological barometer. He is logging the predator's approach in his twist"
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 45871,
+          "durationFrames": 300,
+          "role": "complication",
+          "narration": "But the doctors read the data too late. They see the numbers, but miss the correlation to the vampir"
+        },
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 46171,
+          "durationFrames": 319,
+          "role": "reveal",
+          "narration": "He's tracking it. He is a corrupted, broken soul manipulated by a demon. And look at his end. When R"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "engine",
+      "fromFrame": 46490,
+      "durationFrames": 970,
+      "durationSeconds": 32.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 46490,
+          "durationFrames": 257,
+          "role": "setup",
+          "narration": "No, he doesn't. He physically breaks Renfield's back and smashes his face into the floor, leaving hi"
+        },
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 46747,
+          "durationFrames": 147,
+          "role": "question",
+          "narration": "But Renfield's dying words provide the crucial data point the hunters missed. The mist."
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 46894,
+          "durationFrames": 292,
+          "role": "complication",
+          "narration": "He reveals to Van Helsing in Seward that the count slid into his room like mist, bypassing all physi"
+        },
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 47186,
+          "durationFrames": 274,
+          "role": "reveal",
+          "narration": "The physical defenses were entirely useless. But Renfield's behavior predicted the exact attack vect"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "engine",
+      "fromFrame": 47460,
+      "durationFrames": 965,
+      "durationSeconds": 32.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 47460,
+          "durationFrames": 302,
+          "role": "setup",
+          "narration": "but his sheer madness obscured the meaning of the data until it was too late to save him. The barome"
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 47762,
+          "durationFrames": 183,
+          "role": "question",
+          "narration": "Yeah. How can they possibly track him across the globe without a shipping Exhibit 11."
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 47945,
+          "durationFrames": 228,
+          "role": "complication",
+          "narration": "The timet. This part is fascinating. It is November. The count is on a ship fleeing back to Transenn"
+        },
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 48173,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "At dawn, Mina is placed under hypnosis by Van Helsing. Because of the blood tie, she is spiritually "
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "engine",
+      "fromFrame": 48425,
+      "durationFrames": 1171,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 48425,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "In the trance, she reports hearing lapping waves, creaking masts, and wind. And immediately after wa"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 48665,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "She looks for a train. She opens a railway guide. She admits she is a train fiend who studies timets"
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 48953,
+          "durationFrames": 288,
+          "role": "complication",
+          "narration": "it works. She uses the hypnotic connection not for mysticism, but to cross reference the sounds of t"
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 49241,
+          "durationFrames": 355,
+          "role": "reveal",
+          "narration": "train for Galat. She maps his route. The supernatural is subjected to railway logistics. She treats "
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "engine",
+      "fromFrame": 49596,
+      "durationFrames": 1133,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 49596,
+          "durationFrames": 370,
+          "role": "setup",
+          "narration": "spiritual link forged in blood. It is a psychic tether, a dark miracle that allows her to see throug"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 49966,
+          "durationFrames": 220,
+          "role": "question",
+          "narration": "timetable, that finds him on the Black Sea. The magic provides the location, but the visions are use"
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 50186,
+          "durationFrames": 363,
+          "role": "complication",
+          "narration": "The hunters combine Mina's psychic visions with daily telegrams sent from Lloyds of London to Lord G"
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 50549,
+          "durationFrames": 180,
+          "role": "reveal",
+          "narration": "maritime data to pinpoint the exact location of his ship the Zarina Catherine at the port of Galat."
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "engine",
+      "fromFrame": 50729,
+      "durationFrames": 1109,
+      "durationSeconds": 37,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 50729,
+          "durationFrames": 247,
+          "role": "setup",
+          "narration": "All right. The hunters successfully merge ancient blood magic with modern transit data to catch him "
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 50976,
+          "durationFrames": 156,
+          "role": "question",
+          "narration": "It cannot strike the final blow. And that is the ultimate doubt."
+        },
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 51132,
+          "durationFrames": 221,
+          "role": "partial_answer",
+          "narration": "What happens when the men finally catch the cart in the snow? Exhibit 12, the knives in the snow. Th"
+        },
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 51353,
+          "durationFrames": 182,
+          "role": "complication",
+          "narration": "It is November 6th, approaching sunset. We are in the frozen shadow of Castle Dracula."
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 51535,
+          "durationFrames": 303,
+          "role": "reveal",
+          "narration": "A fastoving cart races through the drifting snow driven by Sagani armed with rifles, racing against "
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "engine",
+      "fromFrame": 51838,
+      "durationFrames": 1106,
+      "durationSeconds": 36.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 51838,
+          "durationFrames": 208,
+          "role": "setup",
+          "narration": "The hunters surround them. Jonathan Harker, his eyes blazing, wields his great kukri knife, a massiv"
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 52046,
+          "durationFrames": 226,
+          "role": "question",
+          "narration": "Quincy Morris wields a Bowie knife. The box is breached, the lid thrown back. Harker's blade slashes"
+        },
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 52272,
+          "durationFrames": 338,
+          "role": "complication",
+          "narration": "Morris's blade plunges into his heart and he's gone. The knives flash just as the sun dips below the"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 52610,
+          "durationFrames": 334,
+          "role": "reveal",
+          "narration": "Look at the scene you just described. I know it's very physical. It was the literal knives, the tren"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "engine",
+      "fromFrame": 52944,
+      "durationFrames": 984,
+      "durationSeconds": 32.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 52944,
+          "durationFrames": 360,
+          "role": "setup",
+          "narration": "Well, yes, but a typewriter did not sever his head. A shipping manifest did not pierce his heart. Co"
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 53304,
+          "durationFrames": 295,
+          "role": "question",
+          "narration": "He is erased. And the novel ends with a note seven years later stating that hardly one authentic pap"
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 53599,
+          "durationFrames": 329,
+          "role": "reveal",
+          "narration": "which is a very strange way to end the Here's the honest criticism of this entire archive. Let's hea"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "engine",
+      "fromFrame": 53928,
+      "durationFrames": 1070,
+      "durationSeconds": 35.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 53928,
+          "durationFrames": 350,
+          "role": "setup",
+          "narration": "made by the winners. Right? There's no original proof. The fear of the foreigner, the dread of the E"
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 54278,
+          "durationFrames": 322,
+          "role": "question",
+          "narration": "as absolute fact. That's a heavy reading. But think about it. that the evidence was entirely curated"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 54600,
+          "durationFrames": 398,
+          "role": "reveal",
+          "narration": "We only have what Mina chose to type. So, the physical threat of the vampire was destroyed in the sn"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "engine",
+      "fromFrame": 54998,
+      "durationFrames": 325,
+      "durationSeconds": 10.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 54998,
+          "durationFrames": 207,
+          "role": "setup",
+          "narration": "file of type copies, who was the real monster and who controls the narrative? Dracula was not staked"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 55205,
+          "durationFrames": 118,
+          "role": "reveal",
+          "narration": "He was audited by clerks. on evidence that would not stand in"
+        }
+      ]
+    }
+  ]
+}

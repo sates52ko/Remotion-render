@@ -1,0 +1,845 @@
+[
+  {
+    "i": 46,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KNOW YOUR GREAT ENGLAND",
+      "style": "reveal"
+    },
+    "set": "library",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "jonathan"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": "book",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Dracula holds an English book and explains to an anxious Jonathan that he has studied England for years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula has used English reference books to study his future hunting ground.",
+      "concreteVisual": "In Castle Dracula library, Count Dracula speaks with a cold smirk holding an English book, facing an anxious Jonathan Harker.",
+      "onScreenText": "KNOW YOUR GREAT ENGLAND",
+      "relationToPrevious": "Continues from Jonathan discovering the modern English reference library inside Castle Dracula.",
+      "addedInformation": "Shows Dracula's calculated charm and Jonathan's immediate unease during their conversation."
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STUDYING THE INFRASTRUCTURE",
+      "style": "highlight"
+    },
+    "set": "library",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula",
+      "jonathan"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "Dracula views England as a predator surveying hunting ground and infrastructure rather than culture.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula's study of England is predatory preparation, targeting legal and physical infrastructure.",
+      "concreteVisual": "Count Dracula smirks while holding the book, as Jonathan looks on in growing fear in the castle library.",
+      "onScreenText": "STUDYING THE INFRASTRUCTURE",
+      "relationToPrevious": "Reveals the predatory motive behind Dracula's study of England introduced in the previous beat.",
+      "addedInformation": "Contrasts outward admiration with predatory intent targeting infrastructure."
+    }
+  },
+  {
+    "i": 48,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CAPTIVE INDEXER OF PROPERTY LAW",
+      "style": "reveal"
+    },
+    "set": "library",
+    "shotOverride": "twoShot",
+    "cast": [
+      "jonathan",
+      "dracula"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "smirk",
+    "partnerAction": "point",
+    "explainedBy": "Jonathan is forced to work as a captive legal clerk indexing property law under Dracula's command.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Jonathan Harker is kept prisoner to serve as Dracula's involuntary legal and administrative tutor.",
+      "concreteVisual": "Jonathan anxiously holds legal notes while Count Dracula points commanding orders over his shoulder.",
+      "onScreenText": "CAPTIVE INDEXER OF PROPERTY LAW",
+      "relationToPrevious": "Shifts from Dracula's general motive to Jonathan's specific forced labor as a legal indexer.",
+      "addedInformation": "Visualizes the coercion: Dracula directing Harker's legal research."
+    }
+  },
+  {
+    "i": 49,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "TWO SOLICITORS",
+        "SHIPPING GOODS",
+        "BANKING"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Jonathan breaks down the three separate administrative silos: two solicitors, shipping goods, and banking.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula demands instruction on three legal pillars: having two solicitors, shipping goods, and banking.",
+      "concreteVisual": "A three-part sorter diagram displaying TWO SOLICITORS, SHIPPING GOODS, and BANKING.",
+      "onScreenText": "none",
+      "relationToPrevious": "Categorizes the specific commercial mechanics Harker is forced to explain.",
+      "addedInformation": "Structures Dracula's administrative inquiries into three distinct legal operations."
+    }
+  },
+  {
+    "i": 50,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LEGALLY BYPASS THE SYSTEM",
+      "style": "reveal"
+    },
+    "set": "library",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "jonathan"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Dracula probes Jonathan to find legal loopholes to bypass English regulatory scrutiny.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula questions Harker to find methods of bypassing English legal and regulatory scrutiny.",
+      "concreteVisual": "Count Dracula speaks with a calculated smirk while an uneasy Jonathan listens in the castle library.",
+      "onScreenText": "LEGALLY BYPASS THE SYSTEM",
+      "relationToPrevious": "Connects Jonathan's legal instruction to Dracula's sinister strategy of exploitation.",
+      "addedInformation": "Emphasizes the calculating nature of Dracula's legal inquiries."
+    }
+  },
+  {
+    "i": 51,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DO NOT COMMUNICATE",
+      "style": "box"
+    },
+    "set": "abstract",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "Dracula intentionally separates his English agents so none can communicate or see the full plan.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula isolates his English agents from each other to prevent communication and discovery.",
+      "concreteVisual": "Count Dracula with a predatory smirk points deliberately, orchestrating the separation of his agents.",
+      "onScreenText": "DO NOT COMMUNICATE",
+      "relationToPrevious": "Explains Dracula's motive for splitting shipping and banking responsibilities.",
+      "addedInformation": "Shows Dracula's strategic compartmentalization of his English operations."
+    }
+  },
+  {
+    "i": 52,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COMPARTMENTALIZED CORPORATE STRUCTURE",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Dracula constructs a decentralized corporate apparatus designed to import himself invisibly into England.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula constructs a modern decentralized corporate structure to smuggle his body into England.",
+      "concreteVisual": "Count Dracula smirks in an abstract space as his corporate strategy is outlined.",
+      "onScreenText": "COMPARTMENTALIZED CORPORATE STRUCTURE",
+      "relationToPrevious": "Synthesizes Dracula's separate agent strategy into an overarching corporate structure.",
+      "addedInformation": "Reframes gothic horror as Victorian corporate logistics."
+    }
+  },
+  {
+    "i": 53,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO SINGLE PERSON",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Because the agents never communicate, no single person in England grasps the full scope of Dracula's arrival.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Separating the banker, shipping clerk, and estate agent ensures no English contact sees the whole invasion.",
+      "concreteVisual": "Count Dracula smirks as the complete secrecy of his compartmentalized importation is revealed.",
+      "onScreenText": "NO SINGLE PERSON",
+      "relationToPrevious": "Traces the practical outcome of Dracula's compartmentalization strategy.",
+      "addedInformation": "Highlights the blind spot created in the English commercial system."
+    }
+  },
+  {
+    "i": 54,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SETTING UP SHELL CORPORATIONS",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Dracula uses Victorian shell corporations, contrasting bureaucratic terror with supernatural monster tropes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula operates through shell entities, moving beyond traditional gothic vampire terror.",
+      "concreteVisual": "Count Dracula gestures smoothly in conversation, embodying bureaucratic invasion.",
+      "onScreenText": "SETTING UP SHELL CORPORATIONS",
+      "relationToPrevious": "Names the modern commercial mechanism behind Dracula's compartmentalization.",
+      "addedInformation": "Contrasts corporate maneuvering with the castle's traditional vampire brides."
+    }
+  },
+  {
+    "i": 55,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRUE CREEPING TERROR",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "Jonathan experiences true creeping terror not only from physical danger but from methodical exploitation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The deepest horror in Castle Dracula is methodical administrative violation rather than physical assault.",
+      "concreteVisual": "Jonathan Harker slumps in dread in his castle quarters, trembling with anxiety.",
+      "onScreenText": "TRUE CREEPING TERROR",
+      "relationToPrevious": "Shifts from the physical threat of vampire brides to psychological and administrative terror.",
+      "addedInformation": "Captures Jonathan's internal despair and vulnerability."
+    }
+  },
+  {
+    "i": 56,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ADMINISTRATIVE THEFT OF IDENTITY",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "jonathan",
+      "dracula"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "partnerExpression": "smirk",
+    "partnerAction": "talk",
+    "explainedBy": "Dracula methodically strips Jonathan of his professional identity and legal standing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula systematically steals Harker's legal identity and professional utility.",
+      "concreteVisual": "A slumped, terrified Jonathan sits as Count Dracula towers over him, speaking with sinister authority.",
+      "onScreenText": "ADMINISTRATIVE THEFT OF IDENTITY",
+      "relationToPrevious": "Defines the specific form of creeping terror: administrative identity theft.",
+      "addedInformation": "Depicts the total power imbalance between solicitor clerk and vampire predator."
+    }
+  },
+  {
+    "i": 57,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ALL THE DOORS LOCKED",
+      "style": "box"
+    },
+    "set": "room",
+    "shotOverride": "wide",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "explainedBy": "Jonathan discovers he is a prisoner upon finding every door in the castle locked.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Jonathan discovers he is trapped when he tests the doors and finds every exit locked.",
+      "concreteVisual": "Jonathan reaches desperately toward the walls in Castle Dracula, realizing he is completely trapped.",
+      "onScreenText": "ALL THE DOORS LOCKED",
+      "relationToPrevious": "Reveals Jonathan's physical entrapment following his administrative subjugation.",
+      "addedInformation": "Demonstrates Jonathan's panic upon finding every escape route sealed."
+    }
+  },
+  {
+    "i": 58,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "jonathan"
+        ]
+      },
+      "events": [
+        {
+          "on": "forces",
+          "do": "change",
+          "who": "dracula",
+          "action": "point"
+        },
+        {
+          "on": "write",
+          "do": "change",
+          "who": "jonathan",
+          "action": "hold",
+          "holds": "letter"
+        },
+        {
+          "on": "dictated",
+          "do": "title",
+          "text": "DICTATED LETTERS"
+        }
+      ]
+    },
+    "explainedBy": "Dracula forces a captive Jonathan to write dictated letters to his employer and Mina.",
+    "noVisual": null
+  },
+  {
+    "i": 59,
+    "told": {
+      "events": [
+        {
+          "on": "advance",
+          "do": "title",
+          "text": "DATED IN ADVANCE"
+        },
+        {
+          "on": "June 12th",
+          "do": "date",
+          "text": "12 JUNE"
+        },
+        {
+          "on": "June 19th",
+          "do": "date",
+          "text": "19 JUNE"
+        },
+        {
+          "on": "June 29th",
+          "do": "date",
+          "text": "29 JUNE"
+        }
+      ]
+    },
+    "explainedBy": "Dracula forces Jonathan to predate letters across three advancing June dates to create a false timeline.",
+    "noVisual": null
+  },
+  {
+    "i": 60,
+    "told": {
+      "events": [
+        {
+          "on": "false",
+          "do": "stamp",
+          "who": "jonathan",
+          "text": "FALSE TRAIL"
+        },
+        {
+          "on": "manipulating",
+          "do": "title",
+          "text": "MANIPULATING THE MAIL SYSTEM"
+        }
+      ]
+    },
+    "explainedBy": "Dracula forces Jonathan to construct a false paper trail to conceal Harker's impending murder.",
+    "noVisual": null
+  },
+  {
+    "i": 61,
+    "told": {
+      "events": [
+        {
+          "on": "false",
+          "do": "title",
+          "text": "INJECTING FALSE DATA"
+        },
+        {
+          "on": "predate",
+          "do": "change",
+          "who": "jonathan",
+          "action": "write"
+        },
+        {
+          "on": "letters",
+          "do": "stamp",
+          "who": "jonathan",
+          "text": "FORGERY"
+        }
+      ]
+    },
+    "explainedBy": "Dracula injects falsified correspondence into the Victorian postal network to buy time.",
+    "noVisual": null
+  },
+  {
+    "i": 62,
+    "told": {
+      "events": [
+        {
+          "on": "london",
+          "do": "enter",
+          "who": "london"
+        },
+        {
+          "on": "undetected",
+          "do": "together",
+          "who": [
+            "dracula",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula buys time with false postmarks to slip into London unnoticed amidst the crowd.",
+    "noVisual": null
+  },
+  {
+    "i": 63,
+    "told": {
+      "events": [
+        {
+          "on": "cover",
+          "do": "title",
+          "text": "LEGAL COVER"
+        },
+        {
+          "on": "fine",
+          "do": "cover",
+          "who": [
+            "jonathan"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The fraudulent letters convince London correspondents that Jonathan remains safe and well.",
+    "noVisual": null
+  },
+  {
+    "i": 64,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IDENTITY THEFT BEFORE DIGITAL",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "holds": "notes",
+    "explainedBy": "Jonathan Harker is subjected to Victorian identity theft through forced legal and agency paperwork.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Harker's forced agency paperwork constitutes Victorian identity theft before digital technology.",
+      "concreteVisual": "Jonathan Harker holds agency notes in an office setting, looking troubled as he explains consignments.",
+      "onScreenText": "IDENTITY THEFT BEFORE DIGITAL",
+      "relationToPrevious": "Reframes the London deception as an early historic form of identity theft.",
+      "addedInformation": "Grounds the gothic crime in historical business administrative reality."
+    }
+  },
+  {
+    "i": 65,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT JUST TO EAT JONATHAN",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Dracula preserves Jonathan because administrative legal utility is far more valuable than immediate blood.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula's restraint proves Jonathan's legal knowledge is more valuable than his blood.",
+      "concreteVisual": "Count Dracula speaks with a calculating smirk, displaying patience over primal vampiric hunger.",
+      "onScreenText": "NOT JUST TO EAT JONATHAN",
+      "relationToPrevious": "Explains why Dracula keeps Jonathan alive rather than feeding immediately.",
+      "addedInformation": "Emphasizes the predator's discipline and strategic calculation."
+    }
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EXTRACT EVERY OUNCE",
+      "style": "stack"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "jonathan"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "partnerExpression": "afraid",
+    "partnerAction": "slump",
+    "explainedBy": "Dracula extracts every ounce of Jonathan's administrative competence before intending to discard him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula plans to drain Jonathan of all legal competence before murdering him.",
+      "concreteVisual": "Count Dracula points commandingly while Jonathan slumps in terrified exhaustion beside him.",
+      "onScreenText": "EXTRACT EVERY OUNCE",
+      "relationToPrevious": "Defines the exact predatory calculus: extraction of utility before disposal.",
+      "addedInformation": "Depicts Harker's total depletion under Dracula's administrative exploitation."
+    }
+  },
+  {
+    "i": 67,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PAPERWORK MORE VALUABLE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Completed legal paperwork clears the way for Dracula's physical voyage to England.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The secured paperwork proves more critical than blood in enabling Dracula's voyage to England.",
+      "concreteVisual": "Count Dracula holds the finalized paperwork with a triumphant smirk, ready for travel.",
+      "onScreenText": "PAPERWORK MORE VALUABLE",
+      "relationToPrevious": "Concludes the Transylvanian legal prep and transitions to the physical journey.",
+      "addedInformation": "Elevates administrative paperwork as the decisive prerequisite for invasion."
+    }
+  },
+  {
+    "i": 68,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PHYSICALLY MOVE HIS ASSETS",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "shotOverride": "wide",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "explainedBy": "Having secured legal frameworks, Dracula must physically transport his assets across the sea.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "With legal cover established, Dracula prepares the physical transport of his physical assets.",
+      "concreteVisual": "Count Dracula walks against a misty maritime horizon, preparing his logistical passage.",
+      "onScreenText": "PHYSICALLY MOVE HIS ASSETS",
+      "relationToPrevious": "Bridges legal preparation to physical maritime transit.",
+      "addedInformation": "Introduces the impending suspenseful voyage of the Russian schooner."
+    }
+  },
+  {
+    "i": 69,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "demeter"
+        ]
+      },
+      "events": [
+        {
+          "on": "creaking",
+          "do": "grow",
+          "who": "demeter",
+          "to": 1.3
+        },
+        {
+          "on": "drifting",
+          "do": "title",
+          "text": "RUSSIAN SCHOONER DEMETER"
+        },
+        {
+          "on": "English",
+          "do": "label",
+          "who": "demeter",
+          "text": "Drifting in sea fog"
+        }
+      ]
+    },
+    "explainedBy": "The Russian schooner Demeter drifts aimlessly through dense sea fog toward the English coast.",
+    "noVisual": null
+  },
+  {
+    "i": 70,
+    "told": {
+      "events": [
+        {
+          "on": "bottle",
+          "do": "title",
+          "text": "A TINY GLASS BOTTLE"
+        },
+        {
+          "on": "rolled",
+          "do": "label",
+          "who": "demeter",
+          "text": "Single rolled paper"
+        }
+      ]
+    },
+    "explainedBy": "Contrasted with the massive ship is a tiny glass bottle containing a single rolled piece of paper.",
+    "noVisual": null
+  },
+  {
+    "i": 71,
+    "told": {
+      "events": [
+        {
+          "on": "record",
+          "do": "title",
+          "text": "ONLY ADMINISTRATIVE RECORD"
+        },
+        {
+          "on": "log",
+          "do": "grow",
+          "who": [
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The captain's log book is the sole administrative record documenting the destruction of the ship.",
+    "noVisual": null
+  },
+  {
+    "i": 72,
+    "told": {
+      "events": [
+        {
+          "on": "massacre",
+          "do": "stamp",
+          "who": "demeter",
+          "text": "MASSACRE"
+        },
+        {
+          "on": "chilling",
+          "do": "title",
+          "text": "The paper trail remains"
+        }
+      ]
+    },
+    "explainedBy": "The log book serves as the administrative data trace of a maritime massacre.",
+    "noVisual": null
+  },
+  {
+    "i": 73,
+    "told": {
+      "events": [
+        {
+          "on": "cargo",
+          "do": "enter",
+          "who": "earthbox"
+        },
+        {
+          "on": "varna",
+          "do": "enter",
+          "who": "varna"
+        },
+        {
+          "on": "silver",
+          "do": "together",
+          "who": [
+            "earthbox",
+            "varna"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The Demeter leaves the port of Varna carrying silver sand and boxes of earth.",
+    "noVisual": null
+  },
+  {
+    "i": 74,
+    "told": {
+      "events": [
+        {
+          "on": "ledger",
+          "do": "title",
+          "text": "LEDGER OF DEATH"
+        },
+        {
+          "on": "death",
+          "do": "stamp",
+          "who": "demeter",
+          "text": "MASSACRE"
+        }
+      ]
+    },
+    "explainedBy": "The captain methodically records each disappearance, turning the log book into a ledger of death.",
+    "noVisual": null
+  },
+  {
+    "i": 75,
+    "told": {
+      "events": [
+        {
+          "on": "july",
+          "do": "date",
+          "text": "17 JULY"
+        },
+        {
+          "on": "thin",
+          "do": "title",
+          "text": "A TALL THIN MAN"
+        },
+        {
+          "on": "crew",
+          "do": "shake",
+          "who": [
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The log entry on 17 July records a sighting of a tall, thin phantom man who was not part of the crew.",
+    "noVisual": null
+  },
+  {
+    "i": 76,
+    "told": {
+      "events": [
+        {
+          "on": "phantom",
+          "do": "title",
+          "text": "PHANTOM DISAPPEARANCES"
+        },
+        {
+          "on": "dracula",
+          "do": "enter",
+          "who": "dracula"
+        },
+        {
+          "on": "disappearances",
+          "do": "dim",
+          "who": [
+            "demeter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The log systematically documents disappearances while revealing how Dracula actually travels.",
+    "noVisual": null
+  },
+  {
+    "i": 77,
+    "told": {
+      "events": [
+        {
+          "on": "uninspected",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "UNINSPECTED"
+        },
+        {
+          "on": "shipped",
+          "do": "title",
+          "text": "SHIPPED IN BOXES OF DIRT"
+        },
+        {
+          "on": "dirt",
+          "do": "grow",
+          "who": "earthbox",
+          "to": 1.25
+        }
+      ]
+    },
+    "explainedBy": "Dracula travels not as a supernatural bat, but as uninspected freight packed in boxes of dirt.",
+    "noVisual": null
+  },
+  {
+    "i": 78,
+    "told": {
+      "events": [
+        {
+          "on": "Invoiced",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "COMMON EARTH"
+        },
+        {
+          "on": "experimental",
+          "do": "title",
+          "text": "EXPERIMENTAL PURPOSES"
+        },
+        {
+          "on": "purposes",
+          "do": "label",
+          "who": "earthbox",
+          "text": "Invoiced as clay"
+        }
+      ]
+    },
+    "explainedBy": "The cargo of soil containing Dracula is invoiced as common earth for experimental purposes.",
+    "noVisual": null
+  }
+]

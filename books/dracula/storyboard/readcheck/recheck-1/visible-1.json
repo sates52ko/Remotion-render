@@ -1,0 +1,67 @@
+[
+ {
+  "id": "b001",
+  "stage": "flow: dracula, deed",
+  "happens": [
+   "title \"DRACULA BY BRAM STOKER\"",
+   "act dracula"
+  ]
+ },
+ {
+  "id": "b002",
+  "happens": [
+   "arrange transylvania and jonathan",
+   "change jonathan",
+   "dim transylvania",
+   "label jonathan \"TRAPPED INSIDE\""
+  ]
+ },
+ {
+  "id": "b003",
+  "stage": "row: transylvania, jonathan",
+  "happens": [
+   "arrange transylvania and jonathan",
+   "change jonathan",
+   "label transylvania \"SCALING OUTER WALL\""
+  ]
+ },
+ {
+  "id": "b004",
+  "happens": [
+   "arrange deed and carfax and earthbox",
+   "cross deed",
+   "dim carfax and earthbox",
+   "label earthbox \"COLLAPSE WITHOUT DEED\""
+  ]
+ },
+ {
+  "id": "b005",
+  "happens": [
+   "change dracula",
+   "change jonathan",
+   "burst dracula",
+   "apart dracula and jonathan",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b006",
+  "stage": "flow: dracula, mina",
+  "happens": [
+   "act dracula",
+   "enter jonathan",
+   "change jonathan",
+   "dim jonathan",
+   "label mina \"FORCED BAPTISM OF BLOOD\""
+  ]
+ },
+ {
+  "id": "b007",
+  "stage": "flow: earthbox, dracula",
+  "happens": [
+   "shake earthbox",
+   "change dracula",
+   "label earthbox \"INSIDE FINAL BOX\""
+  ]
+ }
+]

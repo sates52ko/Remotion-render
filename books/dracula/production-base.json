@@ -1,0 +1,54 @@
+{
+  "productionBase": "9dc53c68f2c7bcf20c8bf1a8530c714335c18011",
+  "from": "origin/god-mode",
+  "at": "2026-11-19T07:44:51.340Z",
+  "worktree": "wt-book-dracula",
+  "repinned": [
+    {
+      "from": "b7d00c2bfd3b51e5c4800a7623cfc5a5f2973ea3",
+      "to": "1ce54b4e5c8ffe1e92d18383dd78bd35cd88774d",
+      "at": "2026-11-14T12:24:17.278Z",
+      "reason": "operator 2026-11-14: guncelleme yapman gerekiyorsa guncelleme yap — Film Flow 2 (told stages) icin guncel koda tasi",
+      "evidence": "no production work (no pipeline step, storyboard, config, film or render state)"
+    },
+    {
+      "from": "da05baadf8e18465ff168aa699d0a6b04241047e",
+      "to": "08f9e34fdefc33940b93d204958cc30485f150d7",
+      "at": "2026-11-18T16:29:49.127Z",
+      "reason": "Operator 2026-11-18: new recording (case-file form), restart on current code",
+      "evidence": "no production work (no pipeline step, storyboard, config, film or render state)"
+    },
+    {
+      "from": "08f9e34fdefc33940b93d204958cc30485f150d7",
+      "to": "9dc53c68f2c7bcf20c8bf1a8530c714335c18011",
+      "at": "2026-11-19T07:44:51.334Z",
+      "reason": "Operator 2026-11-19: prep now requires heads + home; firewall accepts entity drawings",
+      "evidence": "Operator explicit repin order"
+    }
+  ],
+  "previousProductionBase": "08f9e34fdefc33940b93d204958cc30485f150d7",
+  "repin": {
+    "kind": "before-preview",
+    "approvedByOperator": true,
+    "reason": "Operator 2026-11-16: 'Evet, tasi' - told 1.2 stage layout fix; mute test FAILED on 1.1, fix round not started",
+    "scope": "engine / planner code, before any preview verdict (maintenance-upgrade.js --before-preview)",
+    "files": 13
+  },
+  "pinHistory": [
+    {
+      "productionBase": "1ce54b4e5c8ffe1e92d18383dd78bd35cd88774d",
+      "until": "2026-11-16T06:31:27.424Z"
+    },
+    {
+      "productionBase": "7980f07f169b0b1b7a4af7e8dd7df6c82993e355",
+      "until": "2026-11-16T11:17:35.276Z",
+      "repin": {
+        "kind": "before-preview",
+        "approvedByOperator": true,
+        "reason": "Operator 2026-11-16: 'Evet, tasi' - told 1.1 fix (screen-text gate + label expiry), no preview verdict yet",
+        "scope": "engine / planner code, before any preview verdict (maintenance-upgrade.js --before-preview)",
+        "files": 11
+      }
+    }
+  ]
+}

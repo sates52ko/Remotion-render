@@ -1,0 +1,56 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "reach"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "angry",
+    "body": "reach"
+   }
+  ],
+  "icon": "a shield",
+  "place": "room",
+  "words": "NOT KILLED BY PAPERS"
+ },
+ {
+  "id": "b002",
+  "stage": "versus: dracula, atlas",
+  "happens": [
+   "restore dracula",
+   "apart dracula and atlas",
+   "grow dracula",
+   "crown dracula",
+   "label dracula \"CONQUERING WARLORD\""
+  ]
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "REQUIRES IMMENSE BRAVERY"
+ },
+ {
+  "id": "b004",
+  "stage": "solo: renfieldledger",
+  "happens": [
+   "grow renfieldledger",
+   "title \"RENFIELD'S LEDGER\""
+  ]
+ }
+]

@@ -1,0 +1,608 @@
+{
+  "note": "CANDIDATES from the narration (proper names said in 2+ beats, years, and the book's own TERMS). Write storyboard/entities.json from them: keep what a viewer should SEE, fix ASR spellings, add what is missing, give each a kind.",
+  "terms": {
+    "note": "phrases this narration says in many beats and the other films of the channel do not — the book's own IDEAS. Keep the ones that are its ideas (not every frequent word), give each ONE drawing a stranger could name (kind \"idea\" or \"object\": a stock is a bathtub, a delay is an hourglass on the pipe — the book's own picture when it gives one), with \"states\" for what the narration changes (full / empty), and stage them in told beats. A book of ideas with no drawn ideas stands in the shared office.",
+    "list": [
+      {
+        "term": "count",
+        "saidInBeats": 19,
+        "beats": [
+          15,
+          24,
+          31,
+          42,
+          53,
+          54,
+          55,
+          142,
+          147,
+          150,
+          162,
+          169
+        ]
+      },
+      {
+        "term": "attack",
+        "saidInBeats": 13,
+        "beats": [
+          58,
+          80,
+          97,
+          102,
+          117,
+          118,
+          122,
+          127,
+          142,
+          143,
+          145,
+          148
+        ]
+      },
+      {
+        "term": "monster",
+        "saidInBeats": 13,
+        "beats": [
+          16,
+          18,
+          61,
+          82,
+          101,
+          112,
+          115,
+          122,
+          135,
+          157,
+          165,
+          197
+        ]
+      },
+      {
+        "term": "boxes",
+        "saidInBeats": 10,
+        "beats": [
+          25,
+          74,
+          80,
+          86,
+          133,
+          139,
+          153,
+          157,
+          161,
+          162
+        ]
+      },
+      {
+        "term": "window",
+        "saidInBeats": 9,
+        "beats": [
+          2,
+          51,
+          56,
+          91,
+          105,
+          107,
+          109,
+          113,
+          174
+        ]
+      },
+      {
+        "term": "doubt",
+        "saidInBeats": 8,
+        "beats": [
+          29,
+          68,
+          103,
+          115,
+          128,
+          151,
+          165,
+          189
+        ]
+      },
+      {
+        "term": "paperwork",
+        "saidInBeats": 8,
+        "beats": [
+          8,
+          11,
+          48,
+          86,
+          110,
+          147,
+          163,
+          202
+        ]
+      },
+      {
+        "term": "ancient",
+        "saidInBeats": 7,
+        "beats": [
+          23,
+          41,
+          47,
+          48,
+          104,
+          114,
+          188
+        ]
+      },
+      {
+        "term": "record",
+        "saidInBeats": 7,
+        "beats": [
+          65,
+          73,
+          77,
+          94,
+          121,
+          136,
+          201
+        ]
+      },
+      {
+        "term": "track",
+        "saidInBeats": 7,
+        "beats": [
+          58,
+          76,
+          94,
+          152,
+          165,
+          177,
+          188
+        ]
+      },
+      {
+        "term": "castle",
+        "saidInBeats": 6,
+        "beats": [
+          1,
+          19,
+          31,
+          61,
+          67,
+          191
+        ]
+      },
+      {
+        "term": "creature",
+        "saidInBeats": 6,
+        "beats": [
+          19,
+          20,
+          29,
+          49,
+          82,
+          114
+        ]
+      },
+      {
+        "term": "jonathan",
+        "saidInBeats": 6,
+        "beats": [
+          13,
+          59,
+          130,
+          141,
+          152,
+          193
+        ]
+      },
+      {
+        "term": "ledger",
+        "saidInBeats": 6,
+        "beats": [
+          154,
+          164,
+          165,
+          167,
+          169,
+          171
+        ]
+      },
+      {
+        "term": "shipping",
+        "saidInBeats": 6,
+        "beats": [
+          36,
+          162,
+          177,
+          185,
+          186,
+          197
+        ]
+      },
+      {
+        "term": "supernatural",
+        "saidInBeats": 6,
+        "beats": [
+          20,
+          42,
+          98,
+          100,
+          103,
+          183
+        ]
+      },
+      {
+        "term": "written",
+        "saidInBeats": 6,
+        "beats": [
+          61,
+          63,
+          65,
+          67,
+          73,
+          120
+        ],
+        "alsoInOtherFilms": 2
+      }
+    ]
+  },
+  "kinds": [
+    "company",
+    "product",
+    "place",
+    "idea",
+    "person",
+    "object",
+    "animal"
+  ],
+  "glyphs": [
+    "monitor",
+    "search",
+    "doc",
+    "browser",
+    "building",
+    "book",
+    "coin",
+    "globe",
+    "gear",
+    "phone",
+    "chart",
+    "star",
+    "heart",
+    "flag",
+    "cart",
+    "people",
+    "bolt",
+    "leaf"
+  ],
+  "drawing": [
+    "DRAW the things that carry the book — a ship, a chest, a machine, an animal, a city — of ANY kind (product, place, idea, company, object, animal): \"paths\" on the entity. A thing without a drawing is shown as a coloured tile with a stock glyph (the fallback).",
+    "Box: viewBox \"0 0 520 520\" (leave it out for this default); the drawing fills at least 60 % of the box along its longer side and stays inside it.",
+    "Layers, back to front: (1) the SILHOUETTE — one or two big filled shapes a stranger could name from the outline alone; (2) the PARTS that make it this kind of thing (masts and sails, keys and a roller, a horn and a cylinder); (3) one or two details in the accent colour. 5–40 paths, at least 24 path commands in all, absolute or relative commands, no text, no gradients.",
+    "Colours: 2–6, from the book's palette by token — \"ink\" (#1A1412), \"accent\" (#C2410C), \"paper\" (#FAF7F2) — plus hex tones of them where a part needs its own. Never a real logo, a brand mark or a copyrighted character: an original flat drawing made for this book.",
+    "\"reads\": the 1-3 word names a stranger may give it (\"ship\", \"sailing ship\") — written BEFORE the blind test; never add the word it was mistaken for.",
+    "STATES — what the narration CHANGES gets a drawing per state it shows (2-3 at most): \"states\": { \"wrecked\": { \"reads\": [\"shipwreck\", \"wrecked ship\"], \"paths\": [...] } } in the same box with the same base silhouette, only the change drawn differently. Authors then write { \"do\": \"change\", \"who\": \"<id>\", \"state\": \"wrecked\" }.",
+    "A PLACE may also be the stage's background: \"backdrop\": { \"viewBox\": \"0 0 1920 760\", \"reads\": [...], \"paths\": [...] } — a wide, simple skyline / landscape standing on the bottom edge (it is drawn pale behind the things; up to 70 paths). Authors write \"stage\": { ..., \"at\": \"<place id>\" }.",
+    "THE BOOK'S HOME: mark ONE drawn place \"home\": true — it stands behind every scene that names no place, told or not, instead of blank paper or a generic office. A story's home is where it mostly happens; a book of IDEAS draws the room its ideas live in (a systems book: a workshop of tanks and pipes; a book on habits: one kitchen at 6 a.m.) — never \"an office\". Draw it along the edges and the top: the things and the people stand in the MIDDLE of it, so keep the middle third quiet.",
+    "EVERY place the story stands in gets a backdrop — interiors too (her bedroom, the asylum, the cellar), not only the cities: it is also drawn behind the beats that are not told (\"place\": \"<place id>\"). A backdrop holds NO thing that is an entity of its own (no ship in the harbour when the ship is on stage: the viewer sees two) and nobody of the cast.",
+    "THE SAME DRAWING EVERYWHERE: a thing drawn here is also an own icon of the beats that are NOT told — an author writes \"concept\": \"<entity id>\" and the same ship stands beside the cast. So draw the book's recurring IDEAS too, as THIS book's thing (not \"law\" but the deed of the estate; not \"medical\" but the transfusion flask): a film whose icons are the shared scales, shield and clock could be any book.",
+    "ONE SOURCE: an object that is already an own icon in books/<slug>/motifs.json is not drawn again — write \"motif\": \"<its key>\" on the entity (and on a state).",
+    "Then SEE them: node scripts/own-icons-sheet.js --slug=<slug> → a fresh agent names each numbered drawing blind → node scripts/own-icons-sheet.js --slug=<slug> --judge=<answers.json>. Merge refuses a told beat that uses a drawing nobody could name."
+  ],
+  "cast": [
+    "GIVE THE PEOPLE WHO CARRY THE BOOK A HEAD OF THEIR OWN — \"look\": { …, \"drawn\": { \"back\": […], \"face\": […], \"hair\": […], \"top\": […], \"cape\": […], \"body\": […] } }. Without it every person is the same face in another coat.",
+    "You draw in the rig's own units (400 wide). The rig keeps the eyes (at 168,132 and 232,132), the brows above them, the mouth (200,216), the neck and the limbs, and animates them; do not draw them. The default face is the ellipse centred 200,150, 92 wide and 104 high (x 108–292, y 46–254); shoulders start at y ≈ 290.",
+    "Layers, back to front: \"back\" behind the face (back hair, a hood, the back of a hat) · \"face\" only if THIS face is not an ellipse (long, square, gaunt — it must hold the eyes and the mouth) · \"hair\" on the face but UNDER the eyes and mouth (a fringe, sideburns, a moustache below the nose line y ≈ 180–200, a beard) · \"top\" over everything (a hat above y ≈ 100, spectacles as a STROKE round the eyes) · \"cape\" behind the body · \"body\" over the torso (a collar, lapels, a shawl; x 96–304, y 290–620).",
+    "As soon as one head layer is drawn the wardrobe's hair, beard and headwear are NOT drawn for that person: the head is your drawing. At least 3 paths / 14 commands, at most 24 paths; head layers stay inside 20 -140 380 310.",
+    "Colours by token — \"skin\", \"hair\", \"suit\", \"shirt\" (this person's own), \"ink\", \"accent\", \"paper\" (the book's) — or hex. One silhouette per person: what a stranger would SAY of them (a widow's peak and a high collar; a bun and a brooch; a broad-brimmed hat). Two people must differ in outline, not in colour.",
+    "Then SEE them: node scripts/cast-sheet.js --slug=<slug> --cloud → one picture per person, without the name → one fresh agent per picture says who it is → --judge. A person nobody can tell is refused at merge."
+  ],
+  "example": {
+    "microsoft": {
+      "label": "MICROSOFT",
+      "kind": "company",
+      "glyph": "monitor"
+    },
+    "mozart": {
+      "label": "MOZART",
+      "kind": "person",
+      "look": {
+        "age": "child",
+        "height": 0.72,
+        "headScale": 1.18,
+        "outfit": "coat",
+        "hairStyle": "curly"
+      }
+    },
+    "piano": {
+      "label": "PIANO",
+      "kind": "object",
+      "w": 330,
+      "reads": [
+        "piano",
+        "grand piano"
+      ],
+      "paths": [
+        {
+          "d": "M40 150 H480 V200 H40 Z",
+          "fill": "ink"
+        },
+        {
+          "d": "…at least five paths: body, lid, keys, legs, the accent detail…",
+          "fill": "accent"
+        }
+      ],
+      "states": {
+        "closed": {
+          "reads": [
+            "piano",
+            "closed piano"
+          ],
+          "paths": [
+            {
+              "d": "…",
+              "fill": "ink"
+            }
+          ]
+        }
+      }
+    },
+    "vienna": {
+      "label": "VIENNA",
+      "kind": "place",
+      "glyph": "building",
+      "reads": [
+        "city",
+        "cathedral"
+      ],
+      "paths": [
+        {
+          "d": "…",
+          "fill": "ink"
+        }
+      ],
+      "backdrop": {
+        "reads": [
+          "city skyline",
+          "skyline"
+        ],
+        "paths": [
+          {
+            "d": "…",
+            "fill": "ink"
+          }
+        ]
+      }
+    }
+  },
+  "candidates": [
+    {
+      "name": "Harker",
+      "kind": "name",
+      "saidInBeats": 12,
+      "beats": [
+        13,
+        19,
+        22,
+        32,
+        42,
+        44,
+        55,
+        59,
+        63,
+        129,
+        152,
+        193
+      ]
+    },
+    {
+      "name": "Helsing",
+      "kind": "name",
+      "saidInBeats": 8,
+      "beats": [
+        92,
+        93,
+        98,
+        106,
+        124,
+        146,
+        174,
+        179
+      ]
+    },
+    {
+      "name": "Lucy",
+      "kind": "name",
+      "saidInBeats": 8,
+      "beats": [
+        106,
+        107,
+        108,
+        113,
+        116,
+        117,
+        118,
+        121
+      ]
+    },
+    {
+      "name": "London",
+      "kind": "name",
+      "saidInBeats": 7,
+      "beats": [
+        33,
+        43,
+        89,
+        91,
+        176,
+        186,
+        200
+      ]
+    },
+    {
+      "name": "Renfield",
+      "kind": "name",
+      "saidInBeats": 7,
+      "beats": [
+        166,
+        169,
+        170,
+        171,
+        172,
+        173,
+        175
+      ]
+    },
+    {
+      "name": "Mina",
+      "kind": "name",
+      "saidInBeats": 6,
+      "beats": [
+        140,
+        142,
+        171,
+        179,
+        186,
+        202
+      ]
+    },
+    {
+      "name": "Carfax",
+      "kind": "name",
+      "saidInBeats": 4,
+      "beats": [
+        12,
+        15,
+        22,
+        153
+      ]
+    },
+    {
+      "name": "Transennsylvania",
+      "kind": "name",
+      "saidInBeats": 4,
+      "beats": [
+        1,
+        13,
+        130,
+        178
+      ]
+    },
+    {
+      "name": "Whitby",
+      "kind": "name",
+      "saidInBeats": 4,
+      "beats": [
+        33,
+        69,
+        131,
+        138
+      ]
+    },
+    {
+      "name": "Dracula",
+      "kind": "name",
+      "saidInBeats": 3,
+      "beats": [
+        35,
+        59,
+        191
+      ]
+    },
+    {
+      "name": "August",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        69,
+        77
+      ]
+    },
+    {
+      "name": "Earth",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        25,
+        133
+      ]
+    },
+    {
+      "name": "England",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        16,
+        31
+      ]
+    },
+    {
+      "name": "Exhibit",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        30,
+        177
+      ]
+    },
+    {
+      "name": "Galat",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        183,
+        187
+      ]
+    },
+    {
+      "name": "May",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        13,
+        50
+      ]
+    },
+    {
+      "name": "November",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        178,
+        191
+      ]
+    },
+    {
+      "name": "Quincy Morris",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        137,
+        194
+      ]
+    },
+    {
+      "name": "September",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        90,
+        129
+      ]
+    },
+    {
+      "name": "Seward",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        125,
+        174
+      ]
+    },
+    {
+      "name": "Victorian",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        37,
+        98
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+[
+ {
+  "id": "b001",
+  "narration": "Yeah. When you look at the text, Jonathan notes that the library in Castle Dracula is filled with English books, history, geography, politics, law. He literally finds the London Directory,",
+  "onScreen": {
+   "stage": "versus: jonathan, london",
+   "happens": [
+    "title \"Castle Dracula Library\"",
+    "enter dracula",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "Jonathan arrives at the library of Castle Dracula, where the mysterious host reveals his true nature."
+ },
+ {
+  "id": "b002",
+  "narration": "She's Mina's best friend, a wealthy aristocratic young woman. She starts sleepwalking in Whitby.",
+  "onScreen": {
+   "stage": "row: mina, lucy, whitby",
+   "happens": [
+    "change lucy",
+    "apart mina and lucy"
+   ]
+  },
+  "viewerGuess": "In Whitby, Lucy's condition changes as she begins to drift away from Mina."
+ },
+ {
+  "id": "b003",
+  "narration": "What kind of conservative anxiety are we talking about? In academic circles, it's referred to as the fear of reverse colonization. At the time Bram Stoker was writing in 1897, the British Empire",
+  "onScreen": {
+   "stage": "solo: year1897",
+   "happens": [
+    "title \"REVERSE COLONIZATION\"",
+    "enter dracula",
+    "grow dracula"
+   ]
+  },
+  "viewerGuess": "In 1897, Dracula's expanding influence represents the terrifying threat of reverse colonization."
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": "b001",
+  "narration": "Sounds cozy, right? And outside the heavy window, wolves are howling in the deep valleys of the Borgo Pass, So, the parchment slides toward a hand resting on the table.",
+  "onScreen": {
+   "stage": "solo: deed",
+   "happens": [
+    "grow deed",
+    "label deed \"SLIDES TOWARD A HAND\""
+   ]
+  },
+  "viewerGuess": "The property deed or ownership document is being passed or transferred directly into someone's waiting hands."
+ },
+ {
+  "id": "b002",
+  "narration": "Crawling over an abyss of a thousand ft. His cloak spreading out around him like great black wings. A legal contract means literally nothing to a creature of supernatural terror.",
+  "onScreen": {
+   "stage": "versus: jonathan, dracula",
+   "happens": [
+    "change dracula",
+    "change jonathan",
+    "label dracula \"CONTRACT MEANS NOTHING\""
+   ]
+  },
+  "viewerGuess": "Jonathan confronts Dracula, realizing that their legal agreement and contract hold no power over the monster."
+ },
+ {
+  "id": "b003",
+  "narration": "But a lingering doubt remains. Can an airtight lease agreement actually stop a creature who controls the howling wolves of the mountains with a single wave of his hand?",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "change dracula",
+    "label dracula \"CAN A LEASE STOP HIM\""
+   ]
+  },
+  "viewerGuess": "The narrator questions whether a simple property lease has any chance of halting Dracula's plans."
+ },
+ {
+  "id": "b004",
+  "narration": "in the night and drove his knife into it, but the blade went through empty space. A physical attack that completely fails, right? And then the mate takes his knife, drives it savagely into the air to demonstrate, and then goes down to the hold to unscrew the wooden boxes,",
+  "onScreen": {
+   "stage": "solo: earthbox",
+   "happens": [
+    "label earthbox \"BLADE THROUGH EMPTY SPACE\"",
+    "grow earthbox"
+   ]
+  },
+  "viewerGuess": "An attack aimed into the wooden box of earth strikes only thin air instead of its target."
+ }
+]

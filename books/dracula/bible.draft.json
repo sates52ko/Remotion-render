@@ -1,0 +1,535 @@
+{
+  "slug": "dracula",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=dracula --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "dracula",
+    "world": {
+      "era": "1897–1900",
+      "eraEvidence": "stated years",
+      "worldId": "",
+      "approxYear": 1897,
+      "setting": "",
+      "register": "",
+      "forbid": [
+        "phone",
+        "codeWindow",
+        "laptopMockup",
+        "rocketLaunch",
+        "funnelMetrics",
+        "dollarExchange",
+        "subway",
+        "car",
+        "alarmClock",
+        "medical",
+        "coffee"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "dracula",
+      "worldId": "",
+      "allowedMotifs": [],
+      "forbiddenMotifs": [],
+      "allowedCharacters": [],
+      "allowedLocations": [],
+      "allowedProps": []
+    },
+    "cast": {
+      "dracula": {
+        "name": "Dracula",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 19
+      },
+      "renfield": {
+        "name": "Renfield",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 5
+      },
+      "jonathan": {
+        "name": "Jonathan",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 4
+      },
+      "harker": {
+        "name": "Harker",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 3
+      },
+      "helsing": {
+        "name": "Helsing",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 3
+      },
+      "seward": {
+        "name": "Seward",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 3
+      },
+      "mina": {
+        "name": "Mina",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      },
+      "london": {
+        "name": "London",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      }
+    },
+    "places": {
+      "shipDeck": {
+        "set": "shipDeck",
+        "look": "",
+        "mentions": 19
+      },
+      "manuscript": {
+        "set": "manuscript",
+        "look": "",
+        "mentions": 4
+      },
+      "library": {
+        "set": "library",
+        "look": "",
+        "mentions": 3
+      },
+      "bedroom": {
+        "set": "bedroom",
+        "look": "",
+        "mentions": 2
+      },
+      "street": {
+        "set": "street",
+        "look": "",
+        "mentions": 1
+      },
+      "shore": {
+        "set": "shore",
+        "look": "",
+        "mentions": 1
+      }
+    },
+    "objects": [
+      {
+        "concept": "war",
+        "mentions": 19,
+        "why": ""
+      },
+      {
+        "concept": "notes",
+        "mentions": 16,
+        "why": ""
+      },
+      {
+        "concept": "law",
+        "mentions": 13,
+        "why": ""
+      },
+      {
+        "concept": "road",
+        "mentions": 11,
+        "why": ""
+      },
+      {
+        "concept": "shipOfState",
+        "mentions": 10,
+        "why": ""
+      },
+      {
+        "concept": "shield",
+        "mentions": 10,
+        "why": ""
+      },
+      {
+        "concept": "inheritance",
+        "mentions": 9,
+        "why": ""
+      },
+      {
+        "concept": "subway",
+        "mentions": 9,
+        "why": ""
+      },
+      {
+        "concept": "water",
+        "mentions": 8,
+        "why": ""
+      },
+      {
+        "concept": "phone",
+        "mentions": 6,
+        "why": ""
+      },
+      {
+        "concept": "codeWindow",
+        "mentions": 6,
+        "why": ""
+      },
+      {
+        "concept": "storm",
+        "mentions": 5,
+        "why": ""
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 5,
+        "claim": ""
+      },
+      {
+        "act": "development",
+        "fromFrame": 15775,
+        "claim": ""
+      },
+      {
+        "act": "turn",
+        "fromFrame": 29986,
+        "claim": ""
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 44940,
+        "claim": ""
+      },
+      {
+        "act": "close",
+        "fromFrame": 59083,
+        "claim": ""
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 479,
+    "cast": [
+      {
+        "name": "Dracula",
+        "asSubject": 19,
+        "total": 54,
+        "samples": [
+          "You probably think Dracula is a Gothic fable about garlic, stakes, and religious faith.",
+          "Yeah. When you look at the text, Jonathan notes that the library in Castle Dracula is filled with English books, history, geography, politics, law.",
+          "Dracula has been studying these books for years."
+        ]
+      },
+      {
+        "name": "Renfield",
+        "asSubject": 5,
+        "total": 13,
+        "samples": [
+          "Oh, totally. And Renfield has this bizarre, terrifying mania.",
+          "Renfield is trying to indefinitely prolong his own life by consuming a multitude of life things.",
+          "Renfield is the microeconomy of Dracula's macro predation."
+        ]
+      },
+      {
+        "name": "Jonathan",
+        "asSubject": 4,
+        "total": 16,
+        "samples": [
+          "And it gets worse because Jonathan realizes he is a prisoner when he finds all the doors locked.",
+          "Once those letters are sent, the people back in London will look at the postmarks and the dates and think, \"Oh, Jonathan is fine.",
+          "Exactly. When the men are completely baffled by what has happened to Lucy and Jonathan is suffering a mental breakdown from his trauma in Transennylvania, it is"
+        ]
+      },
+      {
+        "name": "Harker",
+        "asSubject": 3,
+        "total": 9,
+        "samples": [
+          "Harker is basically kidnapped to be an administrative tutor.",
+          "Harker goes to the carrier company and traces the movement of goods.",
+          "Dracula cannot just walk into Seward's asylum where Mina Harker is currently staying for her own protection."
+        ]
+      },
+      {
+        "name": "Helsing",
+        "asSubject": 3,
+        "total": 9,
+        "samples": [
+          "Right. Van Helsing is a scientist.",
+          "Uh Van Helsing knows the mythology of but none of them see the whole board.",
+          "Van Helsing asks, \"When does the next train start for Galat?\" And Mina immediately knows at 6:30 tomorrow morning."
+        ]
+      },
+      {
+        "name": "Seward",
+        "asSubject": 3,
+        "total": 6,
+        "samples": [
+          "Seward is using an Edison wax cylinder photograph to record his voice.",
+          "Seward writes, \"What he desires is to absorb as many lives as he can, and he has laid himself out to achieve it in a cumulative way.",
+          "Seward is so locked into his medical paradigm that he can't see the monster standing outside the window."
+        ]
+      },
+      {
+        "name": "Mina",
+        "asSubject": 2,
+        "total": 18,
+        "samples": [
+          "Mina takes Jonathan's journal, which is written in shortorthhand, and she translates it and types it out.",
+          "If Dracula can see through Mina, Mina can see through Dracula."
+        ]
+      },
+      {
+        "name": "London",
+        "asSubject": 2,
+        "total": 16,
+        "samples": [
+          "He is he recognizes that London is the center of the global economy, the bustling heart of the British Empire, and he wants to tap into that massive endless flo",
+          "Once those letters are sent, the people back in London will look at the postmarks and the dates and think, \"Oh, Jonathan is fine."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "shipDeck",
+        "mentions": 19,
+        "samples": [
+          "On one side, a massive creaking Russian schooner, the demeanor, drifting aimlessly through thick sea fog towards the English coast, seemingly guided b",
+          "And that rolled up piece of paper, the ship's log book, is the only administrative record of the physical destruction of the ship."
+        ]
+      },
+      {
+        "set": "manuscript",
+        "mentions": 4,
+        "samples": [
+          "Yeah. When you look at the text, Jonathan notes that the library in Castle Dracula is filled with English books, history, geography, politics, law.",
+          "She transcribes the audio into verifiable text."
+        ]
+      },
+      {
+        "set": "library",
+        "mentions": 3,
+        "samples": [
+          "Yeah. When you look at the text, Jonathan notes that the library in Castle Dracula is filled with English books, history, geography, politics, law.",
+          "It's basically a modern reference library in a medieval castle."
+        ]
+      },
+      {
+        "set": "bedroom",
+        "mentions": 2,
+        "samples": [
+          "This is why you get that strange jarring justosition in Lucy's bedroom.",
+          "He breaks into her room and he forces her to drink his blood from a wound in his chest."
+        ]
+      },
+      {
+        "set": "street",
+        "mentions": 1,
+        "samples": [
+          "He can't just fly in as a bat and start biting people in the street."
+        ]
+      },
+      {
+        "set": "shore",
+        "mentions": 1,
+        "samples": [
+          "Right when they arrive in Varna and find out that Dracula actually bypassed them, using his supernatural influence to steer the ship up the river to t"
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "war",
+        "mentions": 19,
+        "sample": "How exactly was a creature who survived 500 years of brutal European warfare, who fought the Ottoman Empire, who commanded armies in the ver"
+      },
+      {
+        "concept": "notes",
+        "mentions": 16,
+        "sample": "It's his Pitman shorthand journal and his ability to execute property deeds."
+      },
+      {
+        "concept": "law",
+        "mentions": 13,
+        "sample": "It is the nightmare that a modern empire's legal, administrative, and transport networks can be hijacked by an archaic parasite."
+      },
+      {
+        "concept": "road",
+        "mentions": 11,
+        "sample": "Harker travels all the way to Transennsylvania just to finalize a real estate transaction."
+      },
+      {
+        "concept": "shipOfState",
+        "mentions": 10,
+        "sample": "And that rolled up piece of paper, the ship's log book, is the only administrative record of the physical destruction of the ship."
+      },
+      {
+        "concept": "shield",
+        "mentions": 10,
+        "sample": "It is a brilliant subversion of the Victorian belief that their administrative systems protected them."
+      },
+      {
+        "concept": "inheritance",
+        "mentions": 9,
+        "sample": "This is a complete analysis of the novel, tracing the administrative war from Jonathan's very first real estate ledger down to that final bl"
+      },
+      {
+        "concept": "subway",
+        "mentions": 9,
+        "sample": "She takes disperate pieces of information like train schedules, diaries, photograph recordings, and she synthesizes them into actionable int"
+      },
+      {
+        "concept": "water",
+        "mentions": 8,
+        "sample": "On one side, a massive creaking Russian schooner, the demeanor, drifting aimlessly through thick sea fog towards the English coast, seemingl"
+      },
+      {
+        "concept": "phone",
+        "mentions": 6,
+        "sample": "Is it really fair to call Dracula a capitalist predator when he's literally physically drinking people's blood?\" All right."
+      },
+      {
+        "concept": "codeWindow",
+        "mentions": 6,
+        "sample": "The system doesn't flag it because the code or in this case the invoice looks completely legitimate."
+      },
+      {
+        "concept": "storm",
+        "mentions": 5,
+        "sample": "We are standing in the freezing, howling snow drifts outside the looming stone walls of Castle Dracula in Transennsylvania."
+      }
+    ],
+    "openingLines": [
+      "We are standing in the freezing, howling snow drifts outside the looming stone walls of Castle Dracula in Transennsylvania.",
+      "The sun is just moments away from slipping below the jagged horizon.",
+      "It's casting these long, desperate shadows across the snow.",
+      "And in the center of this chaos, a violently orchestrated final strike is taking place.",
+      "Jonathan Harker, driven by sheer exhaustion and terror, brings down a heavy cookery knife, slicing through the air and shearing through the neck of the century old vampire warlord.",
+      "Right. And simultaneously, the Texan Quincy Morris plunges his massive Bowie knife directly into the creature's heart."
+    ],
+    "closingLines": [
+      "If a predator enters the system disguised as a legitimate transaction hidden behind shell companies and offshore servers, the diagnostic landscape becomes incredibly murky.",
+      "If Dracula learned to use the London directory in 1897, imagine what he could do with a server farm today.",
+      "Keep an eye on loose shipping manifests.",
+      "You never know what's inside the"
+    ]
+  }
+}

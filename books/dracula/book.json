@@ -1,0 +1,85 @@
+{
+  "slug": "dracula",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "genre": "horror",
+  "engine": "antidote",
+  "engineRationale": "a speculative world with a 1897 frame: invented look, characters and objects drawn symbolically in Antidote",
+  "engineDecidedBy": "claude-explicit",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "speculative",
+    "era": 1897,
+    "realPeople": false,
+    "format": "story",
+    "violence": "central",
+    "minorHarm": false,
+    "mustSee": [
+      "Count Dracula in Castle Dracula",
+      "Jonathan Harker trapped in Transylvania",
+      "Lucy Westenra falling under the vampiric curse",
+      "Van Helsing tracking Dracula"
+    ]
+  },
+  "bgTint": true,
+  "opening": {
+    "hook": "ending",
+    "naming": "early",
+    "promise": "bet",
+    "at": "2026-11-14T07:22:58.184Z",
+    "by": "opening-grammar"
+  },
+  "engineCheck": {
+    "at": "2026-11-19",
+    "fit": "vox",
+    "confidence": "moderate",
+    "voxScore": 11.8,
+    "antidoteScore": 4.4,
+    "signals": {
+      "year": 0,
+      "history": 2.4,
+      "second": 4.8,
+      "abstract": 1.1,
+      "sensitive": 7.2,
+      "era": 1897,
+      "words": 5406
+    },
+    "reasons": [
+      "set around 1897 → period realism favours Vox"
+    ],
+    "risks": [
+      "violence/death 7.2/1k (> 6) → Flux will refuse many Vox images of the key scenes (CONTENT_FILTERED); Antidote draws them symbolically"
+    ],
+    "confirmed": true,
+    "confirmedBy": "appr-3"
+  },
+  "audioSource": "public/audio/dracula.mp3",
+  "form": {
+    "key": "case",
+    "part": "EXHIBIT",
+    "at": "2026-11-18T16:31:45.042Z",
+    "by": "agent",
+    "why": "every clue that kills the Count is a document somebody kept; the recording is built as twelve exhibits",
+    "parts": [
+      "The deed to Carfax",
+      "The atlas with three rings",
+      "The shaving mirror",
+      "The Demeter's log",
+      "Lucy's chart",
+      "The garlic at the open window",
+      "Lucy's memorandum",
+      "Mina's typewriter",
+      "The carter's receipts",
+      "Renfield's ledger",
+      "The timetable",
+      "The knives in the snow"
+    ]
+  },
+  "skin": {
+    "caption": "tape",
+    "plate": "dark",
+    "font": "serif",
+    "at": "2026-11-18T16:31:46.478Z",
+    "by": "book-skin"
+  }
+}

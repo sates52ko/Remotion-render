@@ -1,0 +1,12 @@
+{
+  "slug": "dracula",
+  "status": "READY",
+  "at": "2026-11-20T07:47:27.642Z",
+  "metaSha256": "442ea73e76329c43779208b435e2cd9b62804beb6c438cbfb50f4d133ecbd323",
+  "mdSha256": "9cb4c5d6d509cb04dde461986de3c515f205c19ba555f0aaa053cafebdf77a18",
+  "cleanVttSha256": "f42b4e1ab1d34321ad34cdab17e42791aac743acccd590256a74b1c70ba01c70",
+  "errors": [],
+  "warnings": [
+    "HOOK_UNVERIFIED: no books/dracula/thumbnail-check.json — run render-thumbnails.js (it checks the hook pixels in every variant)"
+  ]
+}

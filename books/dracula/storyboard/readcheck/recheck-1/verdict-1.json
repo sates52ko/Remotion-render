@@ -1,0 +1,47 @@
+{
+  "run": "dracula-judge-9b7ac02425be",
+  "items": [
+    {
+      "id": "b001",
+      "correctness": "NEUTRAL",
+      "blame": "people",
+      "why": "The viewer catches the book title introduction, but the acting Dracula and deed stage make it sound like Dracula is acting on a deed rather than describing hairy palms and a scratching pen."
+    },
+    {
+      "id": "b002",
+      "correctness": "WRONG",
+      "blame": "words",
+      "why": "The \"TRAPPED INSIDE\" label and Jonathan changing lead the viewer to think Jonathan transforms and is trapped indoors instead of making an isolated journey through the mountains."
+    },
+    {
+      "id": "b003",
+      "correctness": "WRONG",
+      "blame": "people",
+      "why": "Showing Jonathan changing alongside the wall-scaling label without Dracula makes the viewer think Jonathan is climbing the outer wall instead of watching Dracula do it."
+    },
+    {
+      "id": "b004",
+      "correctness": "CORRECT",
+      "blame": "nothing-fits",
+      "why": "Crossing out the deed and showing Carfax and the earthbox facing collapse accurately conveys that losing the estate's legal beachhead dooms the plan."
+    },
+    {
+      "id": "b005",
+      "correctness": "WRONG",
+      "blame": "people",
+      "why": "Abstract change, burst, and separation cues on the two character figures hide Dracula's lunge and recoil from Harker's crucifix."
+    },
+    {
+      "id": "b006",
+      "correctness": "CORRECT",
+      "blame": "nothing-fits",
+      "why": "The viewer correctly understands that Dracula forces a blood baptism on Mina while Jonathan fades incapacitated into the background."
+    },
+    {
+      "id": "b007",
+      "correctness": "WRONG",
+      "blame": "people",
+      "why": "Using a state change on Dracula next to the shaking box makes the viewer think Dracula is transforming inside the box rather than being driven in a racing cart through snow."
+    }
+  ]
+}

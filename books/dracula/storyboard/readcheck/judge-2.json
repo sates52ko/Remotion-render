@@ -1,0 +1,864 @@
+[
+ {
+  "id": "b141",
+  "narration": "The moonlight suddenly fails. Inside the room, a tall, thin man in black stands over Mina. He forces her hands back and grips her neck.",
+  "onScreen": {
+   "happens": [
+    "enter dracula",
+    "change dracula",
+    "change mina"
+   ]
+  },
+  "viewerGuess": "Dracula enters and both he and Mina shift their stance as they come face to face."
+ },
+ {
+  "id": "b142",
+  "narration": "He pushes her face down onto his bleeding, torn open chest, forcing her to drink his blood. While Jonathan is right there, Jonathan lies beside them on the bed, trapped in a heavy, unnatural stuper.",
+  "onScreen": {
+   "happens": [
+    "act dracula",
+    "enter jonathan",
+    "change jonathan",
+    "dim jonathan"
+   ]
+  },
+  "viewerGuess": "Dracula acts while Jonathan enters, reacts, and dims into the background."
+ },
+ {
+  "id": "b143",
+  "narration": "The count has breached the asylum. It's one of the most violating scenes in literature. It is. But ask yourself, why does he attack Mina? Dracula attacks her specifically",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "title \"WHY ATTACK MINA?\"",
+    "change dracula",
+    "change mina"
+   ]
+  },
+  "viewerGuess": "Standing opposite Mina, Dracula prompts the question of why he is attacking her."
+ },
+ {
+  "id": "b144",
+  "narration": "because she is the archist. Oh, he attacks her because she's Before he attacks her, he goes to the study and burns the typed manuscripts and the wax cylinders.",
+  "onScreen": {
+   "stage": "versus: dracula, typewriter",
+   "happens": [
+    "title \"TARGETING THE ARCHIVIST\"",
+    "change dracula",
+    "burst dracula and typewriter",
+    "dim typewriter"
+   ]
+  },
+  "viewerGuess": "Dracula strikes at the archivist's typewriter, dimming the machine."
+ },
+ {
+  "id": "b145",
+  "narration": "He does destroy the room. Yeah. He throws them in the fire. He is executing a targeted destruction of their files.",
+  "onScreen": {
+   "happens": [
+    "change dracula holds notes",
+    "shake typewriter",
+    "stamp typewriter \"DESTROYED\"",
+    "title \"DESTRUCTION OF FILES\""
+   ]
+  },
+  "viewerGuess": "Dracula seizes the notes and shakes the typewriter until the files are stamped destroyed."
+ },
+ {
+  "id": "b146",
+  "narration": "He recognizes that the organized information is his greatest vulnerability. He attacks her out of sheer predatory vengeance. He wants to punish the men by corrupting their most cherished ally.",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "label mina \"Greatest vulnerability\"",
+    "change dracula",
+    "change mina",
+    "title \"PREDATORY VENGEANCE\""
+   ]
+  },
+  "viewerGuess": "Driven by predatory vengeance, Dracula targets Mina as the greatest vulnerability."
+ },
+ {
+  "id": "b147",
+  "narration": "But the files, and he is only stopped when Van Helsing bursts into the room and holds up the envelope containing the sacred wafer, the host.",
+  "onScreen": {
+   "happens": [
+    "enter helsing",
+    "change dracula",
+    "change mina",
+    "change helsing holds letter",
+    "label helsing \"The sacred host\""
+   ]
+  },
+  "viewerGuess": "Helsing enters holding an item labeled as the sacred host to intervene between Dracula and Mina."
+ },
+ {
+  "id": "b148",
+  "narration": "The count cowers from the host. Faith makes him turn to a faint vapor and flee, not paperwork. The holy relic repel the demon. But the immediate desperate",
+  "onScreen": {
+   "happens": [
+    "dim dracula",
+    "change dracula",
+    "change dracula",
+    "title \"REPELLED BY THE HOST\""
+   ]
+  },
+  "viewerGuess": "Dracula weakens and dims, repelled by the sacred host."
+ },
+ {
+  "id": "b149",
+  "narration": "realization after the attack settles the matter. What realization? Mina, her face smeared with blood, realizes he burned the files, but she cries out, \"Thank God, there is the other copy in",
+  "onScreen": {
+   "stage": "versus: mina, typewriter",
+   "happens": [
+    "dim typewriter",
+    "change mina",
+    "change mina",
+    "title \"ANOTHER COPY EXISTS\""
+   ]
+  },
+  "viewerGuess": "Although the typewriter is dimmed, Mina indicates that another copy still exists."
+ },
+ {
+  "id": "b150",
+  "narration": "the safe.\" The backup file survives the vampire. The archive defeats the fire. The knowledge is preserved.",
+  "onScreen": {
+   "stage": "versus: typewriter, dracula",
+   "happens": [
+    "restore typewriter",
+    "grow typewriter",
+    "dim dracula",
+    "change dracula",
+    "title \"ARCHIVE SURVIVES THE FIRE\""
+   ]
+  },
+  "viewerGuess": "The typewriter grows back in strength as Dracula fades, showing that the archive survived the fire."
+ },
+ {
+  "id": "b151",
+  "narration": "So, the count recognized the massive threat of the compiled information and tried to wipe out their data, but their backup system survived the physical The data lives safe in a steel box.",
+  "onScreen": {
+   "happens": [
+    "change dracula",
+    "shake typewriter",
+    "grow typewriter",
+    "label typewriter \"Safe in steel box\""
+   ]
+  },
+  "viewerGuess": "Even as Dracula threatens and the typewriter shakes, the archive grows because it is safe in a steel box."
+ },
+ {
+  "id": "b152",
+  "narration": "But having the data in a safe is one right? The doubt is how do they physically audit his properties scattered across the vast sprawl of",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "an intact city skyline",
+   "place": "office",
+   "words": "HOW TO AUDIT PROPERTIES"
+  },
+  "viewerGuess": "A worried young Englishman in an office wonders how to audit properties across the city."
+ },
+ {
+  "id": "b153",
+  "narration": "Exhibit nine, the Carter's receipts. Back to the grunt work. Jonathan Harker tracks down a working-class Carter named Joseph Smalllet in Walworth, right?",
+  "onScreen": {
+   "stage": "versus: jonathan, receipts",
+   "happens": [
+    "label receipts \"Exhibit 9\"",
+    "title \"THE CARTER'S RECEIPTS\"",
+    "act jonathan"
+   ]
+  },
+  "viewerGuess": "Jonathan examines the carter's receipts labeled as Exhibit 9."
+ },
+ {
+  "id": "b154",
+  "narration": "The guy who moved the boxes. Smalllet is in his shirt sleeves drinking tea from a saucer. Harker asks him about moving boxes from the Carfax estate. Smalllet pulls out a dogeared",
+  "onScreen": {
+   "stage": "row: jonathan, carfax, earthbox",
+   "happens": [
+    "act jonathan",
+    "label earthbox \"Boxes moved\"",
+    "enter receipts"
+   ]
+  },
+  "viewerGuess": "Jonathan connects Carfax and the moved earth box as the receipts enter the scene."
+ },
+ {
+  "id": "b155",
+  "narration": "pocket ledger from his coat filled with thick, half obliterated pencil entries. his work log.",
+  "onScreen": {
+   "stage": "versus: jonathan, receipts",
+   "happens": [
+    "take jonathan the receipts",
+    "label receipts \"Pencil work log\"",
+    "focus receipts"
+   ]
+  },
+  "viewerGuess": "Jonathan takes the receipts and focuses closely on their pencil work log."
+ },
+ {
+  "id": "b156",
+  "narration": "Dracula is undone by the workingclass keeping receipts. Smalllet's delivery addresses Chickan Street and Mile End, Jamaica Lane and Burmany",
+  "onScreen": {
+   "stage": "versus: receipts, dracula",
+   "happens": [
+    "dim dracula",
+    "change dracula",
+    "title \"UNDONE BY RECEIPTS\"",
+    "label receipts \"Delivery addresses\""
+   ]
+  },
+  "viewerGuess": "Dracula dims and is undone by the delivery addresses recorded on the receipts."
+ },
+ {
+  "id": "b157",
+  "narration": "provide the exact physical map to the counselors. They finally have the addresses.",
+  "onScreen": {
+   "stage": "flow: receipts, atlas, jonathan",
+   "happens": [
+    "grow atlas",
+    "title \"THE PHYSICAL MAP\"",
+    "change jonathan"
+   ]
+  },
+  "viewerGuess": "From the receipts, an enlarged atlas leads Jonathan onto a physical map."
+ },
+ {
+  "id": "b158",
+  "narration": "The audit trail exposes the monster's hidden network. Okay, but finding the boxes on a piece of paper isn't enough to end the threat.",
+  "onScreen": {
+   "stage": "row: receipts, earthbox, dracula",
+   "happens": [
+    "change dracula",
+    "cross receipts",
+    "title \"PAPER IS NOT ENOUGH\"",
+    "grow dracula",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "The receipts are crossed out as insufficient paper while Dracula grows larger beside the earth box."
+ },
+ {
+  "id": "b159",
+  "narration": "It's the first step. The men have to physically travel to those properties, break into them, pry open the heavy wooden lids with tools, and manually sterilize the earth",
+  "onScreen": {
+   "stage": "row: jonathan, quincey, earthbox",
+   "happens": [
+    "burst jonathan and earthbox",
+    "change jonathan",
+    "change quincey holds wrench",
+    "title \"STERILIZING THE EARTH\""
+   ]
+  },
+  "viewerGuess": "Jonathan bursts onto the earth box alongside Quincey, who holds a wrench to sterilize the earth."
+ },
+ {
+  "id": "b160",
+  "narration": "by placing pieces of the sacred wafer inside, which is terrifying. Obviously, the receipts are just a map.",
+  "onScreen": {
+   "stage": "row: helsing, earthbox, receipts",
+   "happens": [
+    "change helsing holds letter",
+    "dim receipts",
+    "label receipts \"Just a map\""
+   ]
+  },
+  "viewerGuess": "Helsing holds a letter beside the earth box while the receipts dim as merely a map."
+ },
+ {
+  "id": "b161",
+  "narration": "The sterilization is a physical holy act requiring immense bravery. You can't just read an address and banish a But the audit proves",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "JUST READ AN ADDRESS (crossed out)"
+  },
+  "viewerGuess": "An angry older man points at a smirking pale aristocrat in a room as the idea of merely reading an address is crossed out."
+ },
+ {
+  "id": "b162",
+  "narration": "crucial to understanding their peril. The hunters break into the Piccadilly house. They open the boxes and check off the tally against Smlet's receipts, right?",
+  "onScreen": {
+   "stage": "row: jonathan, piccadilly, earthbox, receipts",
+   "happens": [
+    "burst jonathan and piccadilly",
+    "label piccadilly \"Piccadilly house\"",
+    "act jonathan"
+   ]
+  },
+  "viewerGuess": "Jonathan bursts into action at the Piccadilly house alongside the earth box and receipts."
+ },
+ {
+  "id": "b163",
+  "narration": "They count them. They expect to find nine boxes based on the shipping data.",
+  "onScreen": {
+   "happens": [
+    "change jonathan",
+    "title \"EXPECTING NINE BOXES\"",
+    "label receipts \"Expected nine boxes\""
+   ]
+  },
+  "viewerGuess": "Jonathan notes from the receipts that they are expecting nine boxes."
+ },
+ {
+  "id": "b164",
+  "narration": "They only find eight. One is missing. One is missing. The paperwork reveals the tactical flaw in their operation.",
+  "onScreen": {
+   "happens": [
+    "label earthbox \"Only eight found\"",
+    "shake receipts and earthbox",
+    "change jonathan",
+    "stamp receipts \"ONE MISSING\""
+   ]
+  },
+  "viewerGuess": "Finding only eight earth boxes shakes the audit, and the receipts are stamped with one missing."
+ },
+ {
+  "id": "b165",
+  "narration": "Without the ledger, they would have assumed victory. So, the receipts provided the map to the layers, but the missing box means the audit is dangerously incomplete. He has a physical refuge left somewhere",
+  "onScreen": {
+   "stage": "row: receipts, earthbox, dracula",
+   "happens": [
+    "dim receipts",
+    "title \"AUDIT IS INCOMPLETE\"",
+    "grow dracula",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "With the audit incomplete, the receipts dim and Dracula grows larger beside the earth box."
+ },
+ {
+  "id": "b166",
+  "narration": "in the city. The paper trail led them to the layers, but now a box is missing. The doubt is how do they track a monster when the paper trail runs completely Which brings us to exhibit 10. Renfield's ledger.",
+  "onScreen": {
+   "stage": "versus: receipts, earthbox",
+   "happens": [
+    "dim earthbox",
+    "cross receipts",
+    "enter renfieldledger",
+    "title \"RENFIELD'S LEDGER\""
+   ]
+  },
+  "viewerGuess": "Dimming the earth box and crossing out the receipts, the focus turns to Renfield's ledger."
+ },
+ {
+  "id": "b167",
+  "narration": "This is a disturbing one. Very. Inside the lunatic asylum, Dr. Seard studies his patient, Renfield.",
+  "onScreen": {
+   "stage": "versus: seward, renfield",
+   "happens": [
+    "change seward holds notes",
+    "change renfield"
+   ]
+  },
+  "viewerGuess": "Seward holds his notes while facing and observing Renfield."
+ },
+ {
+  "id": "b168",
+  "narration": "Renfield keeps a literal ledger of consumed life, the flies. He eats flies, logs them in his pocketbook. He feeds the flies to spiders, eats the spiders, logs them. And then the birds.",
+  "onScreen": {
+   "stage": "versus: renfield, renfieldledger",
+   "happens": [
+    "act renfield",
+    "label renfieldledger \"FLIES AND SPIDERS\""
+   ]
+  },
+  "viewerGuess": "Renfield acts beside his ledger labeled flies and spiders."
+ },
+ {
+  "id": "b169",
+  "narration": "He feeds the spiders to birds, eats the birds and logs them. It is a deranged mathematical escalation of absorbing life. It's a sickness.",
+  "onScreen": {
+   "happens": [
+    "act renfield",
+    "grow renfieldledger",
+    "title \"ESCALATING CHAIN OF LIFE\""
+   ]
+  },
+  "viewerGuess": "Renfield's growing ledger illustrates an escalating chain of life."
+ },
+ {
+  "id": "b170",
+  "narration": "But Renfield is the count's biological barometer. He is logging the predator's approach in his twisted ledger, getting more agitated and murderous as the count draws near. The data is right there.",
+  "onScreen": {
+   "stage": "row: renfield, renfieldledger, dracula",
+   "happens": [
+    "change renfield",
+    "shake renfield",
+    "together dracula and renfield"
+   ]
+  },
+  "viewerGuess": "Renfield shakes and changes as he and Dracula come together beside the ledger."
+ },
+ {
+  "id": "b171",
+  "narration": "But the doctors read the data too late. They see the numbers, but miss the correlation to the vampires movements. Look, you cannot classify Renfield's madness as data. Why not?",
+  "onScreen": {
+   "stage": "row: seward, renfieldledger, dracula",
+   "happens": [
+    "change seward holds notes",
+    "cross renfieldledger and dracula"
+   ]
+  },
+  "viewerGuess": "Seward holds his notes while the link between Renfield's ledger and Dracula is crossed out."
+ },
+ {
+  "id": "b172",
+  "narration": "He's tracking it. He is a corrupted, broken soul manipulated by a demon. And look at his end. When Renfield finally tries to physically fight the count to protect Mina, the count doesn't alter a ledger.",
+  "onScreen": {
+   "stage": "row: renfield, dracula, mina",
+   "happens": [
+    "change renfield",
+    "change dracula",
+    "collide renfield and dracula",
+    "change mina"
+   ]
+  },
+  "viewerGuess": "Renfield and Dracula collide violently as Mina reacts nearby."
+ },
+ {
+  "id": "b173",
+  "narration": "No, he doesn't. He physically breaks Renfield's back and smashes his face into the floor, leaving him in a pool of blood. Brute strength ends the patient's life.",
+  "onScreen": {
+   "stage": "versus: dracula, renfield",
+   "happens": [
+    "act dracula",
+    "change renfield"
+   ]
+  },
+  "viewerGuess": "Dracula acts against Renfield, forcing a change in him."
+ },
+ {
+  "id": "b174",
+  "narration": "But Renfield's dying words provide the crucial data point the hunters missed. The mist.",
+  "onScreen": {
+   "happens": [
+    "exit dracula",
+    "change renfield",
+    "focus renfield",
+    "title \"THE MIST\""
+   ]
+  },
+  "viewerGuess": "Dracula exits under the title of the mist, leaving focus on the shaken Renfield."
+ },
+ {
+  "id": "b175",
+  "narration": "He reveals to Van Helsing in Seward that the count slid into his room like mist, bypassing all physical locks, heavy doors, and barred windows.",
+  "onScreen": {
+   "stage": "row: renfield, helsing, seward, dracula",
+   "happens": [
+    "wide",
+    "change renfield",
+    "change seward holds notes",
+    "grow dracula",
+    "title \"SLID IN LIKE MIST\""
+   ]
+  },
+  "viewerGuess": "In a wide view with Renfield, Helsing, and Seward holding notes, Dracula grows larger after sliding in like mist."
+ },
+ {
+  "id": "b176",
+  "narration": "The physical defenses were entirely useless. But Renfield's behavior predicted the exact attack vector. Okay. Renfield's escalating behavior predicted the attacks,",
+  "onScreen": {
+   "stage": "versus: renfield, renfieldledger",
+   "happens": [
+    "change renfield",
+    "grow renfieldledger",
+    "title \"BEHAVIOR PREDICTED THE ATTACKS\""
+   ]
+  },
+  "viewerGuess": "Renfield's growing ledger reveals that his behavior predicted the attacks."
+ },
+ {
+  "id": "b177",
+  "narration": "but his sheer madness obscured the meaning of the data until it was too late to save him. The barometer broke. So, with the count now fleeing London, escaping down the river,",
+  "onScreen": {
+   "happens": [
+    "cover renfieldledger",
+    "dim renfield and renfieldledger",
+    "arrange dracula and london",
+    "apart dracula and london",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "Renfield and his covered ledger dim as Dracula moves apart from London."
+ },
+ {
+  "id": "b178",
+  "narration": "Yeah. How can they possibly track him across the globe without a shipping Exhibit 11.",
+  "onScreen": {
+   "stage": "versus: dracula, atlas",
+   "happens": [
+    "title \"TRACKING ACROSS THE GLOBE\"",
+    "change dracula",
+    "cross atlas"
+   ]
+  },
+  "viewerGuess": "Tracking Dracula across the globe begins even as the atlas is crossed out."
+ },
+ {
+  "id": "b179",
+  "narration": "The timet. This part is fascinating. It is November. The count is on a ship fleeing back to Transennsylvania.",
+  "onScreen": {
+   "stage": "row: timetable, dracula, transylvania",
+   "happens": [
+    "label dracula \"NOVEMBER\"",
+    "change dracula",
+    "together dracula and transylvania"
+   ]
+  },
+  "viewerGuess": "Labeled November, Dracula moves back together with Transylvania alongside the timetable."
+ },
+ {
+  "id": "b180",
+  "narration": "At dawn, Mina is placed under hypnosis by Van Helsing. Because of the blood tie, she is spiritually tethered to the count because she drank his blood.",
+  "onScreen": {
+   "stage": "row: helsing, mina, dracula",
+   "happens": [
+    "change helsing",
+    "change mina",
+    "together mina and dracula"
+   ]
+  },
+  "viewerGuess": "Helsing looks on as Mina and Dracula are placed together."
+ },
+ {
+  "id": "b181",
+  "narration": "In the trance, she reports hearing lapping waves, creaking masts, and wind. And immediately after waking from the trance, what does she do?",
+  "onScreen": {
+   "happens": [
+    "focus mina",
+    "change mina",
+    "wide",
+    "change mina"
+   ]
+  },
+  "viewerGuess": "Focusing tightly on Mina before pulling wide, Mina undergoes repeated changes."
+ },
+ {
+  "id": "b182",
+  "narration": "She looks for a train. She opens a railway guide. She admits she is a train fiend who studies timets, which is such a weird detail, but",
+  "onScreen": {
+   "stage": "versus: mina, timetable",
+   "happens": [
+    "act mina",
+    "label mina \"RAILWAY GUIDE\""
+   ]
+  },
+  "viewerGuess": "Mina works actively with a railway guide and timetable."
+ },
+ {
+  "id": "b183",
+  "narration": "it works. She uses the hypnotic connection not for mysticism, but to cross reference the sounds of the water with train timets, finding the 630",
+  "onScreen": {
+   "stage": "row: mina, timetable, dracula",
+   "happens": [
+    "label dracula \"HYPNOTIC CONNECTION\"",
+    "act mina"
+   ]
+  },
+  "viewerGuess": "Mina acts alongside the timetable using Dracula's hypnotic connection."
+ },
+ {
+  "id": "b184",
+  "narration": "train for Galat. She maps his route. The supernatural is subjected to railway logistics. She treats uh psychic vision as raw transit data. The hypnotic trance is a",
+  "onScreen": {
+   "stage": "row: mina, atlas, timetable",
+   "happens": [
+    "act mina",
+    "title \"SUBJECTED TO RAILWAY LOGISTICS\""
+   ]
+  },
+  "viewerGuess": "Mina applies railway logistics across the atlas and timetable."
+ },
+ {
+  "id": "b185",
+  "narration": "spiritual link forged in blood. It is a psychic tether, a dark miracle that allows her to see through his eyes and hear through his But she uses a book to figure it out. It is a cult power, not a",
+  "onScreen": {
+   "stage": "row: mina, dracula, timetable",
+   "happens": [
+    "together mina and dracula",
+    "act mina"
+   ]
+  },
+  "viewerGuess": "Connected together with Dracula, Mina acts beside the timetable."
+ },
+ {
+  "id": "b186",
+  "narration": "timetable, that finds him on the Black Sea. The magic provides the location, but the visions are useless without the shipping data.",
+  "onScreen": {
+   "stage": "row: timetable, dracula, atlas",
+   "happens": [
+    "cross timetable",
+    "change dracula",
+    "cover atlas",
+    "title \"USELESS WITHOUT SHIPPING DATA\""
+   ]
+  },
+  "viewerGuess": "The timetable is crossed out and the atlas covered because both are useless without shipping data to track Dracula."
+ },
+ {
+  "id": "b187",
+  "narration": "The hunters combine Mina's psychic visions with daily telegrams sent from Lloyds of London to Lord God tracking the ships tracking global maritime shipping reports. They merge the blood magic with the",
+  "onScreen": {
+   "stage": "row: mina, london, atlas",
+   "happens": [
+    "together mina and london",
+    "act mina",
+    "label london \"MARITIME REPORTS\""
+   ]
+  },
+  "viewerGuess": "From London, Mina works with maritime reports to plot on the atlas."
+ },
+ {
+  "id": "b188",
+  "narration": "maritime data to pinpoint the exact location of his ship the Zarina Catherine at the port of Galat.",
+  "onScreen": {
+   "stage": "versus: atlas, dracula",
+   "happens": [
+    "focus atlas",
+    "change dracula",
+    "stamp atlas \"SHIP PINPOINTED\""
+   ]
+  },
+  "viewerGuess": "Focusing on the atlas, the ship carrying Dracula is pinpointed."
+ },
+ {
+  "id": "b189",
+  "narration": "All right. The hunters successfully merge ancient blood magic with modern transit data to catch him at the port. But data can only track him.",
+  "onScreen": {
+   "stage": "row: mina, atlas, dracula",
+   "happens": [
+    "wide",
+    "act mina",
+    "dim atlas"
+   ]
+  },
+  "viewerGuess": "In a wide view, Mina acts beside Dracula while the atlas fades."
+ },
+ {
+  "id": "b190",
+  "narration": "It cannot strike the final blow. And that is the ultimate doubt.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "worried",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "place": "office",
+   "words": "DATA CANNOT STRIKE"
+  },
+  "viewerGuess": "A worried determined woman holding notes in an office realizes that data alone cannot strike."
+ },
+ {
+  "id": "b191",
+  "narration": "What happens when the men finally catch the cart in the snow? Exhibit 12, the knives in the snow. The grand finale.",
+  "onScreen": {
+   "stage": "solo: knives",
+   "happens": [
+    "grow knives",
+    "title \"KNIVES IN THE SNOW\""
+   ]
+  },
+  "viewerGuess": "Knives grow larger on screen under the title \"KNIVES IN THE SNOW\"."
+ },
+ {
+  "id": "b192",
+  "narration": "It is November 6th, approaching sunset. We are in the frozen shadow of Castle Dracula.",
+  "onScreen": {
+   "stage": "versus: dracula, transylvania",
+   "happens": [
+    "date \"NOV 6 · SUNSET\"",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "At sunset on November 6, Dracula nears Transylvania."
+ },
+ {
+  "id": "b193",
+  "narration": "A fastoving cart races through the drifting snow driven by Sagani armed with rifles, racing against the sun. Inside the cart is the final wooden box.",
+  "onScreen": {
+   "stage": "versus: earthbox, dracula",
+   "happens": [
+    "shake earthbox",
+    "change dracula",
+    "label earthbox \"FINAL WOODEN BOX\""
+   ]
+  },
+  "viewerGuess": "Dracula faces his shaking final wooden earth box."
+ },
+ {
+  "id": "b194",
+  "narration": "The hunters surround them. Jonathan Harker, his eyes blazing, wields his great kukri knife, a massive blade.",
+  "onScreen": {
+   "stage": "row: jonathan, knives, earthbox",
+   "happens": [
+    "change jonathan",
+    "grow knives"
+   ]
+  },
+  "viewerGuess": "Jonathan shifts into action beside growing knives and the earth box."
+ },
+ {
+  "id": "b195",
+  "narration": "Quincy Morris wields a Bowie knife. The box is breached, the lid thrown back. Harker's blade slashes through the count's throat.",
+  "onScreen": {
+   "stage": "row: quincey, jonathan, earthbox, dracula",
+   "happens": [
+    "change quincey",
+    "burst earthbox",
+    "act jonathan"
+   ]
+  },
+  "viewerGuess": "Quincey and Jonathan burst open the earth box while facing Dracula."
+ },
+ {
+  "id": "b196",
+  "narration": "Morris's blade plunges into his heart and he's gone. The knives flash just as the sun dips below the horizon, and the count crumbles instantly into a pile of dust.",
+  "onScreen": {
+   "stage": "row: quincey, dracula, knives",
+   "happens": [
+    "act quincey",
+    "change dracula",
+    "dim dracula",
+    "stamp dracula \"DUST\""
+   ]
+  },
+  "viewerGuess": "Quincey strikes with the knives as Dracula dims and is stamped dust."
+ },
+ {
+  "id": "b197",
+  "narration": "Look at the scene you just described. I know it's very physical. It was the literal knives, the trenchant steel blades, and the immense physical courage of the men charging armed guards in the snow that killed him.",
+  "onScreen": {
+   "stage": "row: jonathan, knives, quincey",
+   "happens": [
+    "change jonathan",
+    "grow knives",
+    "change quincey"
+   ]
+  },
+  "viewerGuess": "Jonathan and Quincey stand on either side of the enlarged knives."
+ },
+ {
+  "id": "b198",
+  "narration": "Well, yes, but a typewriter did not sever his head. A shipping manifest did not pierce his heart. Courage and steel ended the Yes, but the monster is finally audited out of existence.",
+  "onScreen": {
+   "stage": "row: typewriter, receipts, knives, dracula",
+   "happens": [
+    "cross typewriter",
+    "cross receipts",
+    "stamp dracula \"AUDITED OUT\"",
+    "change dracula",
+    "dim dracula"
+   ]
+  },
+  "viewerGuess": "With the typewriter and receipts crossed out, Dracula dims and is stamped audited out beside the knives."
+ },
+ {
+  "id": "b199",
+  "narration": "He is erased. And the novel ends with a note seven years later stating that hardly one authentic paper remains. only a mass of typewriting,",
+  "onScreen": {
+   "stage": "versus: dracula, typewriter",
+   "happens": [
+    "exit dracula",
+    "date \"SEVEN YEARS LATER\"",
+    "grow typewriter"
+   ]
+  },
+  "viewerGuess": "Dracula exits, and seven years later the typewriter grows back to prominence."
+ },
+ {
+  "id": "b200",
+  "narration": "which is a very strange way to end the Here's the honest criticism of this entire archive. Let's hear it. The entire collection of evidence we just read, the book itself, consists of typed copies",
+  "onScreen": {
+   "stage": "solo: typewriter",
+   "happens": [
+    "grow typewriter",
+    "stamp typewriter \"TYPED COPIES\""
+   ]
+  },
+  "viewerGuess": "The typewriter grows alone on screen, stamped to highlight that only typed copies remain."
+ },
+ {
+  "id": "b201",
+  "narration": "made by the winners. Right? There's no original proof. The fear of the foreigner, the dread of the Eastern Invader bringing contagion and buying up London real estate is simply the British Empire's prejudice filed",
+  "onScreen": {
+   "stage": "versus: typewriter, london",
+   "happens": [
+    "cross typewriter",
+    "stamp london \"EMPIRE PREJUDICE\""
+   ]
+  },
+  "viewerGuess": "The typewriter is crossed out opposite London, which is stamped with empire prejudice."
+ },
+ {
+  "id": "b202",
+  "narration": "as absolute fact. That's a heavy reading. But think about it. that the evidence was entirely curated, typed, and controlled by the people who committed the murder in the snow. There are no original records left.",
+  "onScreen": {
+   "stage": "versus: typewriter, knives",
+   "happens": [
+    "stamp typewriter \"CURATED EVIDENCE\"",
+    "cross typewriter"
+   ]
+  },
+  "viewerGuess": "Opposite the knives, the typewriter is stamped curated evidence and crossed out."
+ },
+ {
+  "id": "b203",
+  "narration": "We only have what Mina chose to type. So, the physical threat of the vampire was destroyed in the snow by brave men, but the objective truth of the event is buried forever in subjective paperwork. If history is just a curated",
+  "onScreen": {
+   "stage": "row: mina, typewriter, knives",
+   "happens": [
+    "act mina",
+    "cover knives"
+   ]
+  },
+  "viewerGuess": "Mina works at the typewriter while covering up the knives."
+ },
+ {
+  "id": "b204",
+  "narration": "file of type copies, who was the real monster and who controls the narrative? Dracula was not staked by believers.",
+  "onScreen": {
+   "stage": "row: mina, typewriter, dracula",
+   "happens": [
+    "change mina holds notes",
+    "cross dracula",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "Mina holds her notes beside the typewriter while Dracula is crossed out."
+ },
+ {
+  "id": "b205",
+  "narration": "He was audited by clerks. on evidence that would not stand in",
+  "onScreen": {
+   "happens": [
+    "stamp dracula \"AUDITED BY CLERKS\"",
+    "change mina holds pen",
+    "cross typewriter"
+   ]
+  },
+  "viewerGuess": "Mina switches to holding a pen as the typewriter is crossed out and Dracula is stamped audited by clerks."
+ }
+]

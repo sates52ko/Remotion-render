@@ -1,0 +1,1420 @@
+{
+  "note": "Operator render decisions. Written only by render.js --accept-quality-debt. Each binds to one config hash; BLOCK findings are never accepted.",
+  "decisions": [
+    {
+      "kind": "quality-debt",
+      "at": "2026-11-20T07:48:10.820Z",
+      "commit": "9dc53c68",
+      "tools": "a40a688e",
+      "pin": "9dc53c68f2c7",
+      "configHash": "dacd6719cea2763b",
+      "renderInputHash": "ef7dd50b0ee3c39b",
+      "reason": "Operator 2026-11-20: approve render with current quality findings",
+      "keys": [
+        {
+          "key": "4712d6c0d9f82d8b",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "664366d0d300a9b6",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'war' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "13f9b4b7cb2e5eee",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'concrete' is not satisfied by the scene: shot 'medium' not in [illustration,diorama,insert] and no diagram"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "664366d0d300a9b6",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'war' is not grounded in this segment's narration"
+        },
+        {
+          "key": "4712d6c0d9f82d8b",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'lowAngle' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "b6830a0906e406f8",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'timetable' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "e588a4c574fbf58f",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'shield' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "1c2b2d6e6e946975",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "a689a1c3af721ff9",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'storm' is not grounded in this segment's narration"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7ae5f7afdba73d98",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'water' is not grounded in this segment's narration"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "1c2b2d6e6e946975",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "3523b2a3734c593d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'concrete' is not satisfied by the scene: shot 'closeUp' not in [illustration,diorama,insert] and no diagram"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "14781299841330db",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'lucymemo' is not grounded in this segment's narration"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "14781299841330db",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'lucymemo' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "160cf2353d51790d",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "8dc51b9df17f704e",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'deed' is not grounded in this segment's narration"
+        },
+        {
+          "key": "f2895f16f14b0917",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'illustration' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "a43b494aa3ed0015",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "IDLE_ACTOR_WALLPAPER: Complex proposition or psychological claim rendered with idle/talking statue actor"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "1c2b2d6e6e946975",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "0fae0002e1189376",
+          "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+          "message": "visual subject 'knives' is not grounded in this segment's narration"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "c5f2a937cd058d10",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'twoShot' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "e9ceb5bc1a37eddc",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'wide' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "7cb46cf1797c5217",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'medium' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "9d04a1bb65620469",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'closeUp' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "aa861dc71f6e69a2",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'silhouette' is not the measured-safe fallback lever 'diorama'"
+        },
+        {
+          "key": "fa35e03e82edd39b",
+          "reasonCode": "STRATEGY_UNRESOLVED",
+          "message": "scene carries no proof for its unresolved strategy: unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+        },
+        {
+          "key": "1c2b2d6e6e946975",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'fallback' is not satisfied by the scene: shot 'split' is not the measured-safe fallback lever 'closeUp'"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        },
+        {
+          "key": "50a50fe9f76d5741",
+          "reasonCode": "STRATEGY_REQUIREMENT_UNMET",
+          "message": "representation requirement 'absence' is not satisfied by the scene: none of the required levers present (textStyles:[strike] propArcs:[shrink,closein])"
+        },
+        {
+          "key": "ddf2675d02b7f386",
+          "reasonCode": "SEMANTIC_STAGING_VIOLATION",
+          "message": "MISSING_STRUCTURAL_EQUIVALENCE: Claim asserts equivalence/analogy, but scene only depicts single domain without structural parallel"
+        }
+      ]
+    },
+    {
+      "kind": "render-authorization",
+      "at": "2026-11-20T07:48:11.227Z",
+      "commit": "9dc53c68",
+      "tools": "a40a688e",
+      "pin": "9dc53c68f2c7",
+      "configHash": "dacd6719cea2763b",
+      "renderInputHash": "ef7dd50b0ee3c39b",
+      "reason": "bütün github hesaplarından render başlat ve youtube a ahzırla",
+      "keys": [],
+      "preview": {
+        "state": "READY",
+        "at": "2026-11-19T09:31:37.183Z",
+        "mute": {
+          "label": "run5",
+          "sample": "fresh",
+          "n": 24,
+          "wrong": 0,
+          "dead": 1,
+          "adds": 19,
+          "pass": true
+        }
+      },
+      "quality": {
+        "status": "ACCEPTED_DEBT",
+        "reviews": 275
+      }
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+[
+ {
+  "id": "b141",
+  "happens": [
+   "enter dracula",
+   "change dracula",
+   "change mina"
+  ]
+ },
+ {
+  "id": "b142",
+  "happens": [
+   "act dracula",
+   "enter jonathan",
+   "change jonathan",
+   "dim jonathan"
+  ]
+ },
+ {
+  "id": "b143",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "title \"WHY ATTACK MINA?\"",
+   "change dracula",
+   "change mina"
+  ]
+ },
+ {
+  "id": "b144",
+  "stage": "versus: dracula, typewriter",
+  "happens": [
+   "title \"TARGETING THE ARCHIVIST\"",
+   "change dracula",
+   "burst dracula and typewriter",
+   "dim typewriter"
+  ]
+ },
+ {
+  "id": "b145",
+  "happens": [
+   "change dracula holds notes",
+   "shake typewriter",
+   "stamp typewriter \"DESTROYED\"",
+   "title \"DESTRUCTION OF FILES\""
+  ]
+ },
+ {
+  "id": "b146",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "label mina \"Greatest vulnerability\"",
+   "change dracula",
+   "change mina",
+   "title \"PREDATORY VENGEANCE\""
+  ]
+ },
+ {
+  "id": "b147",
+  "happens": [
+   "enter helsing",
+   "change dracula",
+   "change mina",
+   "change helsing holds letter",
+   "label helsing \"The sacred host\""
+  ]
+ },
+ {
+  "id": "b148",
+  "happens": [
+   "dim dracula",
+   "change dracula",
+   "change dracula",
+   "title \"REPELLED BY THE HOST\""
+  ]
+ },
+ {
+  "id": "b149",
+  "stage": "versus: mina, typewriter",
+  "happens": [
+   "dim typewriter",
+   "change mina",
+   "change mina",
+   "title \"ANOTHER COPY EXISTS\""
+  ]
+ },
+ {
+  "id": "b150",
+  "stage": "versus: typewriter, dracula",
+  "happens": [
+   "restore typewriter",
+   "grow typewriter",
+   "dim dracula",
+   "change dracula",
+   "title \"ARCHIVE SURVIVES THE FIRE\""
+  ]
+ },
+ {
+  "id": "b151",
+  "happens": [
+   "change dracula",
+   "shake typewriter",
+   "grow typewriter",
+   "label typewriter \"Safe in steel box\""
+  ]
+ },
+ {
+  "id": "b152",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "an intact city skyline",
+  "place": "office",
+  "words": "HOW TO AUDIT PROPERTIES"
+ },
+ {
+  "id": "b153",
+  "stage": "versus: jonathan, receipts",
+  "happens": [
+   "label receipts \"Exhibit 9\"",
+   "title \"THE CARTER'S RECEIPTS\"",
+   "act jonathan"
+  ]
+ },
+ {
+  "id": "b154",
+  "stage": "row: jonathan, carfax, earthbox",
+  "happens": [
+   "act jonathan",
+   "label earthbox \"Boxes moved\"",
+   "enter receipts"
+  ]
+ },
+ {
+  "id": "b155",
+  "stage": "versus: jonathan, receipts",
+  "happens": [
+   "take jonathan the receipts",
+   "label receipts \"Pencil work log\"",
+   "focus receipts"
+  ]
+ },
+ {
+  "id": "b156",
+  "stage": "versus: receipts, dracula",
+  "happens": [
+   "dim dracula",
+   "change dracula",
+   "title \"UNDONE BY RECEIPTS\"",
+   "label receipts \"Delivery addresses\""
+  ]
+ },
+ {
+  "id": "b157",
+  "stage": "flow: receipts, atlas, jonathan",
+  "happens": [
+   "grow atlas",
+   "title \"THE PHYSICAL MAP\"",
+   "change jonathan"
+  ]
+ },
+ {
+  "id": "b158",
+  "stage": "row: receipts, earthbox, dracula",
+  "happens": [
+   "change dracula",
+   "cross receipts",
+   "title \"PAPER IS NOT ENOUGH\"",
+   "grow dracula",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b159",
+  "stage": "row: jonathan, quincey, earthbox",
+  "happens": [
+   "burst jonathan and earthbox",
+   "change jonathan",
+   "change quincey holds wrench",
+   "title \"STERILIZING THE EARTH\""
+  ]
+ },
+ {
+  "id": "b160",
+  "stage": "row: helsing, earthbox, receipts",
+  "happens": [
+   "change helsing holds letter",
+   "dim receipts",
+   "label receipts \"Just a map\""
+  ]
+ },
+ {
+  "id": "b161",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "JUST READ AN ADDRESS (crossed out)"
+ },
+ {
+  "id": "b162",
+  "stage": "row: jonathan, piccadilly, earthbox, receipts",
+  "happens": [
+   "burst jonathan and piccadilly",
+   "label piccadilly \"Piccadilly house\"",
+   "act jonathan"
+  ]
+ },
+ {
+  "id": "b163",
+  "happens": [
+   "change jonathan",
+   "title \"EXPECTING NINE BOXES\"",
+   "label receipts \"Expected nine boxes\""
+  ]
+ },
+ {
+  "id": "b164",
+  "happens": [
+   "label earthbox \"Only eight found\"",
+   "shake receipts and earthbox",
+   "change jonathan",
+   "stamp receipts \"ONE MISSING\""
+  ]
+ },
+ {
+  "id": "b165",
+  "stage": "row: receipts, earthbox, dracula",
+  "happens": [
+   "dim receipts",
+   "title \"AUDIT IS INCOMPLETE\"",
+   "grow dracula",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b166",
+  "stage": "versus: receipts, earthbox",
+  "happens": [
+   "dim earthbox",
+   "cross receipts",
+   "enter renfieldledger",
+   "title \"RENFIELD'S LEDGER\""
+  ]
+ },
+ {
+  "id": "b167",
+  "stage": "versus: seward, renfield",
+  "happens": [
+   "change seward holds notes",
+   "change renfield"
+  ]
+ },
+ {
+  "id": "b168",
+  "stage": "versus: renfield, renfieldledger",
+  "happens": [
+   "act renfield",
+   "label renfieldledger \"FLIES AND SPIDERS\""
+  ]
+ },
+ {
+  "id": "b169",
+  "happens": [
+   "act renfield",
+   "grow renfieldledger",
+   "title \"ESCALATING CHAIN OF LIFE\""
+  ]
+ },
+ {
+  "id": "b170",
+  "stage": "row: renfield, renfieldledger, dracula",
+  "happens": [
+   "change renfield",
+   "shake renfield",
+   "together dracula and renfield"
+  ]
+ },
+ {
+  "id": "b171",
+  "stage": "row: seward, renfieldledger, dracula",
+  "happens": [
+   "change seward holds notes",
+   "cross renfieldledger and dracula"
+  ]
+ },
+ {
+  "id": "b172",
+  "stage": "row: renfield, dracula, mina",
+  "happens": [
+   "change renfield",
+   "change dracula",
+   "collide renfield and dracula",
+   "change mina"
+  ]
+ },
+ {
+  "id": "b173",
+  "stage": "versus: dracula, renfield",
+  "happens": [
+   "act dracula",
+   "change renfield"
+  ]
+ },
+ {
+  "id": "b174",
+  "happens": [
+   "exit dracula",
+   "change renfield",
+   "focus renfield",
+   "title \"THE MIST\""
+  ]
+ },
+ {
+  "id": "b175",
+  "stage": "row: renfield, helsing, seward, dracula",
+  "happens": [
+   "wide",
+   "change renfield",
+   "change seward holds notes",
+   "grow dracula",
+   "title \"SLID IN LIKE MIST\""
+  ]
+ },
+ {
+  "id": "b176",
+  "stage": "versus: renfield, renfieldledger",
+  "happens": [
+   "change renfield",
+   "grow renfieldledger",
+   "title \"BEHAVIOR PREDICTED THE ATTACKS\""
+  ]
+ },
+ {
+  "id": "b177",
+  "happens": [
+   "cover renfieldledger",
+   "dim renfield and renfieldledger",
+   "arrange dracula and london",
+   "apart dracula and london",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b178",
+  "stage": "versus: dracula, atlas",
+  "happens": [
+   "title \"TRACKING ACROSS THE GLOBE\"",
+   "change dracula",
+   "cross atlas"
+  ]
+ },
+ {
+  "id": "b179",
+  "stage": "row: timetable, dracula, transylvania",
+  "happens": [
+   "label dracula \"NOVEMBER\"",
+   "change dracula",
+   "together dracula and transylvania"
+  ]
+ },
+ {
+  "id": "b180",
+  "stage": "row: helsing, mina, dracula",
+  "happens": [
+   "change helsing",
+   "change mina",
+   "together mina and dracula"
+  ]
+ },
+ {
+  "id": "b181",
+  "happens": [
+   "focus mina",
+   "change mina",
+   "wide",
+   "change mina"
+  ]
+ },
+ {
+  "id": "b182",
+  "stage": "versus: mina, timetable",
+  "happens": [
+   "act mina",
+   "label mina \"RAILWAY GUIDE\""
+  ]
+ },
+ {
+  "id": "b183",
+  "stage": "row: mina, timetable, dracula",
+  "happens": [
+   "label dracula \"HYPNOTIC CONNECTION\"",
+   "act mina"
+  ]
+ },
+ {
+  "id": "b184",
+  "stage": "row: mina, atlas, timetable",
+  "happens": [
+   "act mina",
+   "title \"SUBJECTED TO RAILWAY LOGISTICS\""
+  ]
+ },
+ {
+  "id": "b185",
+  "stage": "row: mina, dracula, timetable",
+  "happens": [
+   "together mina and dracula",
+   "act mina"
+  ]
+ },
+ {
+  "id": "b186",
+  "stage": "row: timetable, dracula, atlas",
+  "happens": [
+   "cross timetable",
+   "change dracula",
+   "cover atlas",
+   "title \"USELESS WITHOUT SHIPPING DATA\""
+  ]
+ },
+ {
+  "id": "b187",
+  "stage": "row: mina, london, atlas",
+  "happens": [
+   "together mina and london",
+   "act mina",
+   "label london \"MARITIME REPORTS\""
+  ]
+ },
+ {
+  "id": "b188",
+  "stage": "versus: atlas, dracula",
+  "happens": [
+   "focus atlas",
+   "change dracula",
+   "stamp atlas \"SHIP PINPOINTED\""
+  ]
+ },
+ {
+  "id": "b189",
+  "stage": "row: mina, atlas, dracula",
+  "happens": [
+   "wide",
+   "act mina",
+   "dim atlas"
+  ]
+ },
+ {
+  "id": "b190",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "worried",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "place": "office",
+  "words": "DATA CANNOT STRIKE"
+ },
+ {
+  "id": "b191",
+  "stage": "solo: knives",
+  "happens": [
+   "grow knives",
+   "title \"KNIVES IN THE SNOW\""
+  ]
+ },
+ {
+  "id": "b192",
+  "stage": "versus: dracula, transylvania",
+  "happens": [
+   "date \"NOV 6 · SUNSET\"",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b193",
+  "stage": "versus: earthbox, dracula",
+  "happens": [
+   "shake earthbox",
+   "change dracula",
+   "label earthbox \"FINAL WOODEN BOX\""
+  ]
+ },
+ {
+  "id": "b194",
+  "stage": "row: jonathan, knives, earthbox",
+  "happens": [
+   "change jonathan",
+   "grow knives"
+  ]
+ },
+ {
+  "id": "b195",
+  "stage": "row: quincey, jonathan, earthbox, dracula",
+  "happens": [
+   "change quincey",
+   "burst earthbox",
+   "act jonathan"
+  ]
+ },
+ {
+  "id": "b196",
+  "stage": "row: quincey, dracula, knives",
+  "happens": [
+   "act quincey",
+   "change dracula",
+   "dim dracula",
+   "stamp dracula \"DUST\""
+  ]
+ },
+ {
+  "id": "b197",
+  "stage": "row: jonathan, knives, quincey",
+  "happens": [
+   "change jonathan",
+   "grow knives",
+   "change quincey"
+  ]
+ },
+ {
+  "id": "b198",
+  "stage": "row: typewriter, receipts, knives, dracula",
+  "happens": [
+   "cross typewriter",
+   "cross receipts",
+   "stamp dracula \"AUDITED OUT\"",
+   "change dracula",
+   "dim dracula"
+  ]
+ },
+ {
+  "id": "b199",
+  "stage": "versus: dracula, typewriter",
+  "happens": [
+   "exit dracula",
+   "date \"SEVEN YEARS LATER\"",
+   "grow typewriter"
+  ]
+ },
+ {
+  "id": "b200",
+  "stage": "solo: typewriter",
+  "happens": [
+   "grow typewriter",
+   "stamp typewriter \"TYPED COPIES\""
+  ]
+ },
+ {
+  "id": "b201",
+  "stage": "versus: typewriter, london",
+  "happens": [
+   "cross typewriter",
+   "stamp london \"EMPIRE PREJUDICE\""
+  ]
+ },
+ {
+  "id": "b202",
+  "stage": "versus: typewriter, knives",
+  "happens": [
+   "stamp typewriter \"CURATED EVIDENCE\"",
+   "cross typewriter"
+  ]
+ },
+ {
+  "id": "b203",
+  "stage": "row: mina, typewriter, knives",
+  "happens": [
+   "act mina",
+   "cover knives"
+  ]
+ },
+ {
+  "id": "b204",
+  "stage": "row: mina, typewriter, dracula",
+  "happens": [
+   "change mina holds notes",
+   "cross dracula",
+   "change dracula"
+  ]
+ },
+ {
+  "id": "b205",
+  "happens": [
+   "stamp dracula \"AUDITED BY CLERKS\"",
+   "change mina holds pen",
+   "cross typewriter"
+  ]
+ }
+]

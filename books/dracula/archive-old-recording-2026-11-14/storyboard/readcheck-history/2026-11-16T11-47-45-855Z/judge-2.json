@@ -1,0 +1,1994 @@
+[
+ {
+  "id": "b141",
+  "narration": "Before she even fully knows what is going on, while she's just waiting for Jonathan to come back from Transennsylvania, she is actively preparing herself.",
+  "onScreen": {
+   "stage": "versus: transylvania, mina",
+   "happens": [
+    "label mina \"Waiting for Jonathan\"",
+    "label transylvania \"Transylvania expedition\"",
+    "title \"Mina actively prepares herself\""
+   ]
+  },
+  "viewerGuess": "While Jonathan was away on his expedition, Mina didn't just wait for him but actively prepared herself."
+ },
+ {
+  "id": "b142",
+  "narration": "She is learning Pitman Shortorthhand. She's practicing on her typewriter. She is studying trained timetables.",
+  "onScreen": {
+   "stage": "versus: mina, typewriter",
+   "happens": [
+    "label mina \"Pitman shorthand\"",
+    "label typewriter \"Typewriter practice\"",
+    "title \"Studying train timetables\""
+   ]
+  },
+  "viewerGuess": "Mina learned shorthand, practiced the typewriter and studied train timetables."
+ },
+ {
+  "id": "b143",
+  "narration": "She is training herself to be an efficient modern administrator. And the labor of this cannot be overstated.",
+  "onScreen": {
+   "happens": [
+    "title \"Modern administrative training\"",
+    "label mina \"Efficient administrator\""
+   ]
+  },
+  "viewerGuess": "This was modern administrative training that made her an efficient administrator."
+ },
+ {
+  "id": "b144",
+  "narration": "In 1897, typing was physical, demanding And Shortoran was essentially learning a new language of phonetic symbols. Exactly. When the men are completely baffled by what has happened to Lucy and Jonathan",
+  "onScreen": {
+   "stage": "row: year1897, mina",
+   "happens": [
+    "date \"1897 · PHYSICAL TYPING\"",
+    "label mina \"Demanding physical labor\"",
+    "title \"The men completely baffled\""
+   ]
+  },
+  "viewerGuess": "In 1897 typing was demanding physical labor, and the men were completely baffled by her skill."
+ },
+ {
+  "id": "b145",
+  "narration": "is suffering a mental breakdown from his trauma in Transennylvania, it is Mina who steps up and takes control of the information because the men are all holding these different puzzle pieces.",
+  "onScreen": {
+   "stage": "versus: jonathan, mina",
+   "happens": [
+    "dim jonathan",
+    "label jonathan \"Trauma in Transylvania\"",
+    "grow mina",
+    "title \"Mina takes control\""
+   ]
+  },
+  "viewerGuess": "Jonathan is traumatized by Transylvania, so Mina takes control."
+ },
+ {
+  "id": "b146",
+  "narration": "Jonathan has his shorthand journal about the castle. Dr. Seart has these photographed wax cylinders where he's been recording his notes on a crazy patient named Renfield. Uh Van Helsing knows the mythology of",
+  "onScreen": {
+   "stage": "row: jonathan, seward, helsing",
+   "happens": [
+    "label jonathan \"Shorthand journal\"",
+    "label seward \"Wax phonograph cylinders\"",
+    "enter renfield",
+    "label helsing \"Folklore mythology\""
+   ]
+  },
+  "viewerGuess": "Jonathan keeps a shorthand journal, Seward records on wax phonograph cylinders, Renfield appears, and Van Helsing holds folklore knowledge."
+ },
+ {
+  "id": "b147",
+  "narration": "but none of them see the whole board. They are completely isolated. To use a modern corporate term, they are siloed.",
+  "onScreen": {
+   "happens": [
+    "world jonathan and seward and helsing",
+    "title \"Completely siloed information\""
+   ]
+  },
+  "viewerGuess": "Each of them held their information separately, completely siloed from the others."
+ },
+ {
+  "id": "b148",
+  "narration": "They lack interdep departmental Right? And this is where the how of the data collation is so fascinating. Mina takes Jonathan's journal, which is written in shortorthhand,",
+  "onScreen": {
+   "stage": "versus: jonathan, mina",
+   "happens": [
+    "title \"Data collation begins\"",
+    "together jonathan and mina"
+   ]
+  },
+  "viewerGuess": "Then the data collation begins as Jonathan and Mina come together."
+ },
+ {
+  "id": "b149",
+  "narration": "and she translates it and types it out. But she doesn't just type it once.",
+  "onScreen": {
+   "stage": "versus: mina, typewriter",
+   "happens": [
+    "label mina \"Translating shorthand\"",
+    "focus typewriter"
+   ]
+  },
+  "viewerGuess": "Mina translates the shorthand and puts it on the typewriter."
+ },
+ {
+  "id": "b150",
+  "narration": "She types it in manifold. And we should explain what that means, typing in manifold. Go ahead. It means using carbon paper to create multiple identical copies of the document simultaneously.",
+  "onScreen": {
+   "happens": [
+    "title \"Typing in manifold\"",
+    "label typewriter \"Multiple identical copies\""
+   ]
+  },
+  "viewerGuess": "She types in manifold, producing multiple identical copies."
+ },
+ {
+  "id": "b151",
+  "narration": "You strike the typewriter key, it hits the ribbon, marks the first page, and the pressure transfers the ink from the carbon paper onto the pages beneath it. It requires striking the keys with significant physical",
+  "onScreen": {
+   "happens": [
+    "shake typewriter",
+    "label typewriter \"Carbon paper transfer\""
+   ]
+  },
+  "viewerGuess": "The typewriter shakes as carbon paper transfers each page onto the copies."
+ },
+ {
+  "id": "b152",
+  "narration": "force. Yes, she is literally building a secure redundant database. Data backup. Data backup. Exactly. And she does the same thing with Dr. Seard's photograph This is such a cool",
+  "onScreen": {
+   "happens": [
+    "title \"Secure redundant database\"",
+    "label mina \"Decentralized data backup\"",
+    "enter phonograph"
+   ]
+  },
+  "viewerGuess": "The result is a secure, redundant database, with Mina's decentralized backups, while the phonograph enters."
+ },
+ {
+  "id": "b153",
+  "narration": "detail. Seward is using an Edison wax cylinder photograph to record his voice. This was cutting edge technology, but it's locked in audio format, right? And wax cylinders are fragile.",
+  "onScreen": {
+   "stage": "versus: seward, phonograph",
+   "happens": [
+    "label seward \"Voice recordings\"",
+    "title \"Locked in audio format\"",
+    "label phonograph \"Fragile wax cylinders\""
+   ]
+  },
+  "viewerGuess": "Seward's voice recordings are locked in an audio format on fragile wax cylinders."
+ },
+ {
+  "id": "b154",
+  "narration": "Furthermore, if you wanted to record over them, you had to physically shave the wax down, so the audio is ephemeral. So Mina sits down with the photograph, puts the tubes in her ears, listens to",
+  "onScreen": {
+   "stage": "versus: mina, phonograph",
+   "happens": [
+    "title \"Ephemeral audio recordings\"",
+    "together mina and phonograph",
+    "label mina \"Listening through tubes\""
+   ]
+  },
+  "viewerGuess": "Audio recordings are ephemeral, so Mina listens to the phonograph through tubes."
+ },
+ {
+  "id": "b155",
+  "narration": "Seward's recordings, and types them out. She transcribes the audio into verifiable text. She compiles the diaries, the ship's log from the de meter, the newspaper clippings from Whitby, the letters,",
+  "onScreen": {
+   "happens": [
+    "title \"Audio into verifiable text\"",
+    "enter demeter",
+    "enter whitby"
+   ]
+  },
+  "viewerGuess": "She turns audio into verifiable text, bringing in the ship Demeter and Whitby records."
+ },
+ {
+  "id": "b156",
+  "narration": "the shipping invoices. She takes all this fragmented localized data and synthesizes it into a single cohesive chronological typewritten database.",
+  "onScreen": {
+   "stage": "versus: mina, typewriter",
+   "happens": [
+    "title \"Synthesizing localized data\"",
+    "label typewriter \"Chronological master dossier\""
+   ]
+  },
+  "viewerGuess": "She synthesizes all the localized data into one chronological master dossier typed up."
+ },
+ {
+  "id": "b157",
+  "narration": "She tells the men, \"In this matter, dates are everything. And I think that if we get all our material ready and have every item put in chronological order, we shall have done much.\" And",
+  "onScreen": {
+   "happens": [
+    "title \"Dates are everything\"",
+    "label mina \"Strict chronological order\""
+   ]
+  },
+  "viewerGuess": "Dates are everything, so she puts it in strict chronological order."
+ },
+ {
+  "id": "b158",
+  "narration": "the moment she does this, the pattern of the vampires movements is finally revealed. Once Seward's notes on his patient Renfield are placed next to Jonathan's and then placed next to the shipping manifests of the boxes of Earth, the fog",
+  "onScreen": {
+   "stage": "row: seward, renfield, jonathan, earthbox",
+   "happens": [
+    "title \"Vampire pattern revealed\"",
+    "label renfield \"Renfield's behavior\"",
+    "label earthbox \"50 boxes of earth\""
+   ]
+  },
+  "viewerGuess": "A vampire pattern is revealed by lining up Renfield's behavior with the fifty boxes of earth."
+ },
+ {
+  "id": "b159",
+  "narration": "lifts. They can suddenly see how Dracula got to London, where his boxes are, and what his methodology is. Mina's cross-indexing forms the real nerve center of the operation. Modern information systems become the",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "enter london",
+    "title \"Cross-indexing nerve center\"",
+    "label mina \"Real nerve center\""
+   ]
+  },
+  "viewerGuess": "London becomes the cross-indexing nerve center, and Mina is the real nerve center against Dracula."
+ },
+ {
+  "id": "b160",
+  "narration": "ultimate weapon. It outperforms Dracula's telepathic connection because it is objectively recorded and sharable.",
+  "onScreen": {
+   "happens": [
+    "title \"The ultimate weapon\"",
+    "dim dracula",
+    "label mina \"Objectively recorded data\""
+   ]
+  },
+  "viewerGuess": "Objectively recorded data is the ultimate weapon against Dracula."
+ },
+ {
+  "id": "b161",
+  "narration": "Dracula operates in shadows, secrecy, and memory, the typewriter brings his actions into the harsh light of verifiable data. Dracula's power is concentrated in a single ancient node himself.",
+  "onScreen": {
+   "stage": "versus: dracula, typewriter",
+   "happens": [
+    "cover dracula",
+    "uncover dracula",
+    "label dracula \"Single ancient node\""
+   ]
+  },
+  "viewerGuess": "Dracula is a single ancient node, covered and then uncovered."
+ },
+ {
+  "id": "b162",
+  "narration": "While Mina's power is distributed, once every man has a manifold copy of the chronological database, Dracula cannot destroy the information just by",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "grow mina",
+    "label mina \"Distributed network\"",
+    "cross dracula"
+   ]
+  },
+  "viewerGuess": "Mina is a distributed network and so Dracula's approach is crossed out."
+ },
+ {
+  "id": "b163",
+  "narration": "killing one person. The data is decentralized, which changes the entire nature of the hunt. Once they have the data, they realize what they actually have to do, which gives us another incredible",
+  "onScreen": {
+   "happens": [
+    "title \"Decentralized data network\"",
+    "label mina \"Nature of hunt changed\""
+   ]
+  },
+  "viewerGuess": "A decentralized data network means the nature of the hunt changed."
+ },
+ {
+  "id": "b164",
+  "narration": "visual. Picture this. Two things of different size side by side. On one side, 50 massive,",
+  "onScreen": {
+   "stage": "solo: earthbox",
+   "happens": [
+    "title \"50 massive earth boxes\"",
+    "grow earthbox"
+   ]
+  },
+  "viewerGuess": "They are hunting fifty massive earth boxes."
+ },
+ {
+  "id": "b165",
+  "narration": "heavy wooden boxes filled with consecrated Transian dirt. And on the other side, a single small crumpled shipping invoice.",
+  "onScreen": {
+   "happens": [
+    "label earthbox \"Consecrated earth boxes\"",
+    "title \"Single shipping invoice\""
+   ]
+  },
+  "viewerGuess": "The boxes are consecrated earth, all tracked by a single shipping invoice."
+ },
+ {
+  "id": "b166",
+  "narration": "The hunt for a supernatural monster is abruptly reduced to forensic accounting.",
+  "onScreen": {
+   "happens": [
+    "stamp earthbox \"FORENSIC ACCOUNTING\"",
+    "title \"Reduced to forensic accounting\""
+   ]
+  },
+  "viewerGuess": "The hunt is reduced to forensic accounting."
+ },
+ {
+  "id": "b167",
+  "narration": "We established from the deer logs that Dracula arrived with 50 boxes of earth.",
+  "onScreen": {
+   "stage": "row: demeter, dracula, earthbox",
+   "happens": [
+    "label demeter \"Demeter ship logs\"",
+    "label dracula \"50 boxes of earth\""
+   ]
+  },
+  "viewerGuess": "The Demeter ship logs record Dracula's fifty boxes of earth."
+ },
+ {
+  "id": "b168",
+  "narration": "These boxes are his biological assets. He must sleep in the consecrated soil of his homeland to maintain his power and rest during the day. If he doesn't have the dirt, he is",
+  "onScreen": {
+   "stage": "versus: dracula, earthbox",
+   "happens": [
+    "label earthbox \"BIOLOGICAL ASSETS\"",
+    "together dracula and earthbox",
+    "crown dracula"
+   ]
+  },
+  "viewerGuess": "The boxes are Dracula's biological assets, and he is crowned their owner."
+ },
+ {
+  "id": "b169",
+  "narration": "He distributes these assets across London to create a network of safe houses. But because he used human logistics to move them,",
+  "onScreen": {
+   "stage": "court: london, dracula, earthbox",
+   "happens": [
+    "arrange london and dracula and earthbox",
+    "label london \"NETWORK OF SAFE HOUSES\"",
+    "label earthbox \"HUMAN LOGISTICS\""
+   ]
+  },
+  "viewerGuess": "London is a network of safe houses, with the boxes as human logistics."
+ },
+ {
+  "id": "b170",
+  "narration": "he left a paper He did. So they defeat him with bureaucracy. They absolutely do. They are auditing Dracula.",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "label dracula \"FATAL PAPER TRAIL\"",
+    "shake dracula",
+    "stamp dracula \"AUDITED\""
+   ]
+  },
+  "viewerGuess": "Dracula leaves a fatal paper trail and ends up audited."
+ },
+ {
+  "id": "b171",
+  "narration": "They follow the paper trail. They talk to the railway officials. They track down Thomas Snelling and Joseph Smalllet, the Carters, who physically moved the boxes for Carter Patterson.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "icon": "sheets of written notes",
+   "place": "street",
+   "words": "FOLLOW THE PAPER TRAIL"
+  },
+  "viewerGuess": "The narrator says to follow the paper trail."
+ },
+ {
+  "id": "b172",
+  "narration": "And Carter Patterson was basically the Victorian equivalent of Amazon delivery. Exactly. They were a massive parcel delivery and moving firm in London.",
+  "onScreen": {
+   "stage": "solo: london",
+   "happens": [
+    "title \"VICTORIAN PARCEL DELIVERY\"",
+    "label london \"CARTER PATTERSON FIRM\""
+   ]
+  },
+  "viewerGuess": "They traced the boxes through Victorian parcel delivery, the Carter Paterson firm."
+ },
+ {
+  "id": "b173",
+  "narration": "The heroes look at Smalllet's dogeared notebook, which has these hieroglyphical entries written in thick",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "notes"
+    },
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "worried",
+     "body": "think"
+    }
+   ],
+   "place": "office",
+   "words": "DOGEARED NOTEBOOK"
+  },
+  "viewerGuess": "Two men go over a dog-eared notebook in an office."
+ },
+ {
+  "id": "b174",
+  "narration": "half obliterated pencil. They decipher his They trace six boxes to a house in my end, six to Burmany, and eventually the rest to a massive house in Piccadilly.",
+  "onScreen": {
+   "stage": "versus: earthbox, piccadilly",
+   "happens": [
+    "label earthbox \"DISTRIBUTED BOXES\"",
+    "label piccadilly \"MASSIVE HOUSE\"",
+    "together earthbox and piccadilly"
+   ]
+  },
+  "viewerGuess": "The boxes were distributed across London, including a massive house in Piccadilly."
+ },
+ {
+  "id": "b175",
+  "narration": "Harker goes to the carrier company and traces the movement of goods. He uses his legal background as a solicitor to find out who bought the house in Piccadilly. Discovering Dracula used an alias,",
+  "onScreen": {
+   "stage": "court: jonathan, piccadilly, dracula",
+   "happens": [
+    "change jonathan",
+    "focus piccadilly",
+    "stamp dracula \"COUNT DEVILLE\""
+   ]
+  },
+  "viewerGuess": "Jonathan investigates the Piccadilly house, which was bought under the name Count de Ville."
+ },
+ {
+  "id": "b176",
+  "narration": "Count Deville. They transform vampire hunting into an administrative real estate search. They literally break into his houses and sterilize the dirt by placing a piece of the sacred host, the communion wafer, in each box.",
+  "onScreen": {
+   "stage": "solo: earthbox",
+   "happens": [
+    "title \"REAL ESTATE SEARCH\"",
+    "stamp earthbox \"STERILIZED\"",
+    "label earthbox \"SACRED HOST WAFER\""
+   ]
+  },
+  "viewerGuess": "In the real estate search, each box is sterilized with a sacred host wafer."
+ },
+ {
+  "id": "b177",
+  "narration": "They are liquidating his assets. Dr. Seward notes in his diary, \"We must sterilize all the imported earth between sunrise and sunset.",
+  "onScreen": {
+   "stage": "versus: seward, earthbox",
+   "happens": [
+    "stamp earthbox \"LIQUIDATED\"",
+    "change seward",
+    "label seward \"SUNRISE TO SUNSET\""
+   ]
+  },
+  "viewerGuess": "Boxes are liquidated, and Seward works from sunrise to sunset."
+ },
+ {
+  "id": "b178",
+  "narration": "We shall thus catch the count at its weakest and without a refuge to fly to.\" They methodically and systematically map and sterilize his safe houses,",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "dim dracula",
+    "cross dracula",
+    "label dracula \"NO SAFE HOUSES\""
+   ]
+  },
+  "viewerGuess": "With the boxes gone Dracula has no safe houses."
+ },
+ {
+  "id": "b179",
+  "narration": "starving him of his refues. Dracula thought he was being clever by decentralizing his hiding places. He thought he was building an unassalable",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "title \"DECENTRALIZED HIDING PLACES\"",
+    "change dracula",
+    "label dracula \"UNASSAILABLE STRUCTURE\""
+   ]
+  },
+  "viewerGuess": "His decentralized hiding places seemed an unassailable structure."
+ },
+ {
+  "id": "b180",
+  "narration": "corporate structure. But he left a paper trail. And in the modern world, a paper trail is fatal. Van Helsing notes that Dracula is actually experimenting and learning. The vampire starts trying to move",
+  "onScreen": {
+   "stage": "versus: helsing, dracula",
+   "happens": [
+    "label dracula \"FATAL PAPER TRAIL\"",
+    "change helsing",
+    "label dracula \"LEARNING AND ADAPTING\""
+   ]
+  },
+  "viewerGuess": "His paper trail is fatal because Van Helsing is learning and adapting."
+ },
+ {
+  "id": "b181",
+  "narration": "the final boxes himself to avoid using human agents who leave records. But it's too late. It is too late. The invoice has already doomed him.",
+  "onScreen": {
+   "stage": "versus: dracula, earthbox",
+   "happens": [
+    "apart dracula and earthbox",
+    "cross earthbox",
+    "stamp dracula \"DOOMED\""
+   ]
+  },
+  "viewerGuess": "Dracula is cut off from his boxes and doomed."
+ },
+ {
+  "id": "b182",
+  "narration": "The system has caught up to him. Now, while all this highle data processing and logistical tracking is happening, there is a subplot running parallel to it that reveals the dark underbelly of",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "worried",
+     "body": "think"
+    }
+   ],
+   "icon": "a courthouse / gavel",
+   "place": "office",
+   "words": "A PARALLEL SUBPLOT"
+  },
+  "viewerGuess": "That is a parallel subplot, as a senior man ponders in an office."
+ },
+ {
+  "id": "b183",
+  "narration": "what they are fighting. Picture this. Two things of different size side by side. On one side, a towering dark figure with red eyes sweeping into a room",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "walk"
+    }
+   ],
+   "place": "room",
+   "words": "TOWERING DARK FIGURE"
+  },
+  "viewerGuess": "Dracula appears as a towering dark figure."
+ },
+ {
+  "id": "b184",
+  "narration": "is missed. And on the other side, mirroring him perfectly, is a tiny, insignificant",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+     "face": "afraid",
+     "body": "sit"
+    }
+   ],
+   "place": "room",
+   "words": "TINY AND INSIGNIFICANT"
+  },
+  "viewerGuess": "By comparison another man is tiny and insignificant."
+ },
+ {
+  "id": "b185",
+  "narration": "housefly caught in a web. The grand cosmic horror of the vampire is mirrored in the pathetic clinical obsession of an asylum patient. We have to talk about Renfield.",
+  "onScreen": {
+   "stage": "versus: dracula, renfield",
+   "happens": [
+    "grow dracula",
+    "together dracula and renfield",
+    "title \"THE ASYLUM MIRROR\"",
+    "focus renfield"
+   ]
+  },
+  "viewerGuess": "The asylum mirror: Dracula looms large while Renfield mirrors him."
+ },
+ {
+  "id": "b186",
+  "narration": "He is a patient in Dr. Seard's lunatic asylum. And quite conveniently, Seward's asylum backs right up to the Carfax estate, which is the property Dracula bought.",
+  "onScreen": {
+   "stage": "court: carfax, seward, renfield",
+   "happens": [
+    "label renfield \"ASYLUM PATIENT\"",
+    "label carfax \"ADJACENT PROPERTY\"",
+    "label carfax \"BOUGHT BY DRACULA\""
+   ]
+  },
+  "viewerGuess": "Renfield is an asylum patient next to the adjacent property, Carfax, bought by Dracula."
+ },
+ {
+  "id": "b187",
+  "narration": "A very strategic location for Dracula. Oh, totally. And Renfield has this bizarre, terrifying mania. He catches flies and eats them alive.",
+  "onScreen": {
+   "stage": "versus: dracula, renfield",
+   "happens": [
+    "label dracula \"STRATEGIC LOCATION\"",
+    "label renfield \"CATCHES LIVING FLIES\"",
+    "shake renfield"
+   ]
+  },
+  "viewerGuess": "Dracula picked a strategic location, while Renfield catches living flies."
+ },
+ {
+  "id": "b188",
+  "narration": "Then he realizes flies are small, so he uses the flies to catch spiders and he eats the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+     "face": "smirk",
+     "body": "sit"
+    }
+   ],
+   "place": "bedroom",
+   "words": "FLIES TO CATCH SPIDERS"
+  },
+  "viewerGuess": "Renfield feeds flies to catch spiders, smirking in his room."
+ },
+ {
+  "id": "b189",
+  "narration": "And then he wants a bird to eat the spiders so he can eat the bird. Dr. Seard classifies him as a zuagus or",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "neutral",
+     "body": "talk"
+    },
+    {
+     "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a medical cross with a heartbeat line",
+   "place": "office",
+   "words": "A ZOOPHAGOUS MANIAC"
+  },
+  "viewerGuess": "Seward describes Renfield as a zoophagous maniac."
+ },
+ {
+  "id": "b190",
+  "narration": "lifeing maniac. Seward writes, \"What he desires is to absorb as many lives as he can, and he has laid himself out to achieve it in a cumulative way.",
+  "onScreen": {
+   "stage": "versus: seward, phonograph",
+   "happens": [
+    "change seward",
+    "label phonograph \"ABSORBING MULTIPLE LIVES\"",
+    "label seward \"CUMULATIVE CONSUMPTION\""
+   ]
+  },
+  "viewerGuess": "Renfield is absorbing multiple lives, a cumulative consumption Seward records."
+ },
+ {
+  "id": "b191",
+  "narration": "Renfield is trying to indefinitely prolong his own life by consuming a multitude of life things. He is building a pyramid scheme of life force,",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: MULTIPLE LIVES / PYRAMID SCHEME / PROLONG LIFE"
+  },
+  "viewerGuess": "Multiple lives, like a pyramid scheme, prolong life."
+ },
+ {
+  "id": "b192",
+  "narration": "and this perfectly mirrors Dracula's own metabolic accumulation of blood.\" Exactly. Renfield is the microeconomy",
+  "onScreen": {
+   "stage": "versus: dracula, renfield",
+   "happens": [
+    "together dracula and renfield",
+    "label dracula \"METABOLIC ACCUMULATION\"",
+    "label renfield \"PREDATORY MICROECONOMY\""
+   ]
+  },
+  "viewerGuess": "Dracula has metabolic accumulation, Renfield a predatory microeconomy."
+ },
+ {
+  "id": "b193",
+  "narration": "of Dracula's macro predation. Dracula consumes human blood to maintain his immortality and power. Renfield consumes flies and spiders to",
+  "onScreen": {
+   "stage": "versus: dracula, renfield",
+   "happens": [
+    "title \"MACRO PREDATION\"",
+    "grow dracula",
+    "dim renfield"
+   ]
+  },
+  "viewerGuess": "Dracula is macro predation, and Renfield is dwarfed by him."
+ },
+ {
+  "id": "b194",
+  "narration": "try and achieve a lesser version of the exact same thing. Refield literally tells Seward, quoting scripture, \"For the blood is the life.\" It exposes the fundamental parasitic nature of the vampire.",
+  "onScreen": {
+   "stage": "versus: renfield, seward",
+   "happens": [
+    "change renfield",
+    "title \"THE BLOOD IS THE LIFE\"",
+    "stamp renfield \"PARASITIC\""
+   ]
+  },
+  "viewerGuess": "The blood is the life: Renfield is parasitic."
+ },
+ {
+  "id": "b195",
+  "narration": "But Dracula also actively uses Renfield. Renfield isn't just a thematic mirror for the reader. He's a tactical pawn in the war.",
+  "onScreen": {
+   "stage": "versus: dracula, renfield",
+   "happens": [
+    "crown dracula",
+    "stamp renfield \"TACTICAL PAWN\""
+   ]
+  },
+  "viewerGuess": "Dracula is crowned while Renfield is only a tactical pawn."
+ },
+ {
+  "id": "b196",
+  "narration": "Right? A vampire, according to the rule Stoker sets out, must be invited into a building for the first time by an inmate or resident of that building. Dracula cannot just walk into Seward's asylum",
+  "onScreen": {
+   "stage": "versus: dracula, seward",
+   "happens": [
+    "cross dracula",
+    "label seward \"REQUIRES INVITATION\""
+   ]
+  },
+  "viewerGuess": "Dracula is blocked because he requires an invitation to enter Seward's house."
+ },
+ {
+  "id": "b197",
+  "narration": "where Mina Harker is currently staying for her own protection. He needs a legal invitation.",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "cover mina",
+    "title \"LEGAL INVITATION REQUIRED\""
+   ]
+  },
+  "viewerGuess": "A legal invitation is required, and Mina is covered over."
+ },
+ {
+  "id": "b198",
+  "narration": "So, he exploits Renfield's mental fragility. He comes to the window of the cell and promises Renfield endless lives, rats, dogs,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+     "face": "afraid",
+     "body": "think"
+    }
+   ],
+   "place": "room",
+   "words": "PROMISES ENDLESS LIVES"
+  },
+  "viewerGuess": "Dracula promises Renfield endless lives."
+ },
+ {
+  "id": "b199",
+  "narration": "cats, if Renfield will just fall down and worship him. Renfield is so overwhelmed by the promise of all this life force that he breaks.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+     "face": "sad",
+     "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "OVERWHELMED AND BREAKS"
+  },
+  "viewerGuess": "Renfield is overwhelmed and breaks, collapsing while Dracula looks on."
+ },
+ {
+  "id": "b200",
+  "narration": "He says, \"I found myself opening the sash and saying to him,\" come in, lord and master.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+     "face": "afraid",
+     "body": "sit"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "speech": [
+    "the first person says, in a speech balloon above their head: \"come in lord and master\""
+   ],
+   "place": "room",
+   "words": "OPENING THE SASH"
+  },
+  "viewerGuess": "Renfield opens the sash, saying come in lord and master."
+ },
+ {
+  "id": "b201",
+  "narration": "And with that, Dracula gains a legal invited entrance through the asylum's weakest link.",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "title \"LEGAL INVITED ENTRANCE\"",
+    "change dracula",
+    "stamp dracula \"BREACHED\""
+   ]
+  },
+  "viewerGuess": "The legal invited entrance means Dracula has breached the asylum."
+ },
+ {
+  "id": "b202",
+  "narration": "But this subplot does something really important for the novel. It exposes the utter fragility of Victorian psychological science. How so?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "worried",
+     "body": "think"
+    }
+   ],
+   "icon": "a medical cross with a heartbeat line",
+   "place": "office",
+   "words": "PSYCHOLOGICAL SCIENCE"
+  },
+  "viewerGuess": "Seward practices psychological science."
+ },
+ {
+  "id": "b203",
+  "narration": "Well, think about it. Dr. Seard is observing Renfield every day. He is analyzing him, writing extensive notes in his diary, classifying his mania, but he",
+  "onScreen": {
+   "stage": "versus: seward, renfield",
+   "happens": [
+    "change seward",
+    "change renfield",
+    "label seward \"ANALYZING AND CLASSIFYING\""
+   ]
+  },
+  "viewerGuess": "Seward is analyzing and classifying Renfield."
+ },
+ {
+  "id": "b204",
+  "narration": "completely misses the actual supernatural threat exploiting his patient right under his nose. Seart thinks he is studying madness, but he is actually observing the localized effects of an ancient predator.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "notes"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "office",
+   "words": "STUDYING MADNESS (crossed out)"
+  },
+  "viewerGuess": "Seward thinks he is studying madness, but Dracula stands behind it all."
+ },
+ {
+  "id": "b205",
+  "narration": "Precisely. The scientific method fails here because it refuses to account for the irrational.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a balance scale",
+   "place": "office",
+   "words": "SCIENTIFIC METHOD FAILS"
+  },
+  "viewerGuess": "The scientific method fails him."
+ },
+ {
+  "id": "b206",
+  "narration": "Seward is so locked into his medical paradigm that he can't see the monster standing outside the window.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "worried",
+     "body": "think"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "LOCKED INTO HIS PARADIGM"
+  },
+  "viewerGuess": "Seward is locked into his paradigm while Dracula watches."
+ },
+ {
+  "id": "b207",
+  "narration": "It proves that science without an understanding of the archaic is blind. And because Dracula gets that invitation into the asylum, he gains access to Mina, which leads to the most devastating",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "walk"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "GAINS ACCESS TO MINA"
+  },
+  "viewerGuess": "Dracula gains access to Mina in her bedroom."
+ },
+ {
+  "id": "b208",
+  "narration": "attack in the book, but also the most brilliant counterattack. Picture this. Two things of different size side by side.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "notes"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "MOST BRILLIANT COUNTERATTACK"
+  },
+  "viewerGuess": "The older man hails his most brilliant counterattack, while Dracula is angry."
+ },
+ {
+  "id": "b209",
+  "narration": "On one side, the vast churning expanse of the Black Sea. Hundreds of miles of open, chaotic water. And on the other side, pinning all of that infinite space down, is a small,",
+  "onScreen": {
+   "icon": "water waves",
+   "place": "shore",
+   "words": "OPEN CHAOTIC WATER"
+  },
+  "viewerGuess": "Dracula's journey is across open, chaotic water."
+ },
+ {
+  "id": "b210",
+  "narration": "ticking gold pocket watch held in an old man's hand. The infinite chaotic space of Dracula's escape route is pinned down by the precise mechanism of Victorian timekeeping and hypnosis.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "neutral",
+     "body": "point"
+    }
+   ],
+   "icon": "a clock face",
+   "place": "room",
+   "words": "PRECISE VICTORIAN TIMEKEEPING"
+  },
+  "viewerGuess": "In contrast, Victorian timekeeping was precise."
+ },
+ {
+  "id": "b211",
+  "narration": "Dracula realizes he's losing the war in London. His boxes are being sterilized by the heroes.",
+  "onScreen": {
+   "stage": "row: dracula, london, earthbox",
+   "happens": [
+    "dim dracula",
+    "cross earthbox"
+   ]
+  },
+  "viewerGuess": "Dracula's strength fades and the earth boxes in London are cancelled."
+ },
+ {
+  "id": "b212",
+  "narration": "He's cut off from his biological assets. So in retaliation, he attacks Mina.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "walk"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "ATTACKS MINA IN RETALIATION"
+  },
+  "viewerGuess": "Dracula attacks Mina in retaliation."
+ },
+ {
+  "id": "b213",
+  "narration": "He breaks into her room and he forces her to drink his blood from a wound in his chest. It's a horrifying violating",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "grabbing"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "afraid",
+     "body": "struggling"
+    }
+   ],
+   "place": "bedroom",
+   "words": "FORCES HER TO DRINK"
+  },
+  "viewerGuess": "He forces her to drink his blood."
+ },
+ {
+  "id": "b214",
+  "narration": "He tells her, \"You are now to me flesh of my flesh, blood of my blood, kin of my kin, my bountiful wine press for a while, and shall be later on my companion and",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "talk"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "speech": [
+    "the first person says, in a speech balloon above their head: \"flesh of my flesh blood of my blood\""
+   ],
+   "place": "bedroom",
+   "words": "BOUNTIFUL WINE PRESS"
+  },
+  "viewerGuess": "He says flesh of my flesh, blood of my blood, calling her his bounty."
+ },
+ {
+  "id": "b215",
+  "narration": "my helper.\" He establishes a psychic tether to her. It's an invasive surveillance technique.",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "together dracula and mina",
+    "label dracula \"Psychic surveillance\""
+   ]
+  },
+  "viewerGuess": "Dracula and Mina are now linked through psychic surveillance."
+ },
+ {
+  "id": "b216",
+  "narration": "By forcing her to ingest his blood, he marks her. He turns her into a transmitting device, hoping to spy on the group's plans through her mind. But Van Heling, the brilliant synthesizer",
+  "onScreen": {
+   "stage": "row: dracula, mina, helsing",
+   "happens": [
+    "label mina \"Transmitting device\"",
+    "enter helsing"
+   ]
+  },
+  "viewerGuess": "Mina is a transmitting device, and Van Helsing enters."
+ },
+ {
+  "id": "b217",
+  "narration": "of the ancient and the modern, turns the tables. He realizes that the tether goes both ways.",
+  "onScreen": {
+   "happens": [
+    "focus helsing",
+    "title \"THE TETHER GOES BOTH WAYS\""
+   ]
+  },
+  "viewerGuess": "The tether goes both ways, Van Helsing realizes."
+ },
+ {
+  "id": "b218",
+  "narration": "If Dracula can see through Mina, Mina can see through Dracula. But there is a What's the catch?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "smirk",
+     "body": "point"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "MINA SEES THROUGH DRACULA"
+  },
+  "viewerGuess": "Mina sees through Dracula."
+ },
+ {
+  "id": "b219",
+  "narration": "The vampire is bound by the strict rules of nature. He can only change his form or exercise his supernatural powers at specific times,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "chain links",
+   "place": "abstract",
+   "words": "BOUND BY STRICT RULES"
+  },
+  "viewerGuess": "Dracula is bound by strict rules."
+ },
+ {
+  "id": "b220",
+  "narration": "at dawn, at noon, or at dusk. So, Van Helsing pulls out his gold pocket watch. Yes. The ultimate symbol of modern standardized timekeeping. He uses his watch to time",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "smirk",
+     "body": "point"
+    }
+   ],
+   "icon": "a clock face",
+   "place": "room",
+   "words": "STANDARDIZED TIMEKEEPING"
+  },
+  "viewerGuess": "Van Helsing uses standardized timekeeping."
+ },
+ {
+  "id": "b221",
+  "narration": "the exact precise moment of dawn and dusk. And at those moments, he hypnotizes Mina.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "neutral",
+     "body": "reach"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "blank",
+     "body": "sit"
+    }
+   ],
+   "place": "room",
+   "words": "HYPNOTIZES MINA AT DAWN"
+  },
+  "viewerGuess": "Van Helsing hypnotizes Mina at dawn."
+ },
+ {
+  "id": "b222",
+  "narration": "Now, we should note that in 1897, hypnosis or mesmeriism was transitioning from a parlor trick to a legitimate psychiatric tool.",
+  "onScreen": {
+   "stage": "solo: year1897",
+   "happens": [
+    "date \"1897 · PSYCHIATRIC HYPNOSIS\"",
+    "label year1897 \"Legitimate psychiatric tool\""
+   ]
+  },
+  "viewerGuess": "In 1897 hypnosis was a legitimate psychiatric tool."
+ },
+ {
+  "id": "b223",
+  "narration": "Right. Van Helsson uses it to drop Mina into a trance, an eaves drop on Dracula's sensory feed. She goes into this trance and reports exactly what Dracula is experiencing.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "blank",
+     "body": "talk"
+    },
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "REPORTS SENSORY FEED"
+  },
+  "viewerGuess": "Mina reports a sensory feed under hypnosis."
+ },
+ {
+  "id": "b224",
+  "narration": "I can hear the waves lapping against the ship and the water rushing by. Canvas and cordage strain and masts and yards creek. They reverse the vampire's invasive",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "blank",
+     "body": "talk"
+    }
+   ],
+   "speech": [
+    "the first person says, in a speech balloon above their head: \"I can hear the waves lapping against the ship\""
+   ],
+   "place": "room",
+   "words": "WAVES LAPPING AGAINST THE SHIP"
+  },
+  "viewerGuess": "Mina says she can hear the waves lapping against the ship."
+ },
+ {
+  "id": "b225",
+  "narration": "surveillance into military reconnaissance. They weaponize the biological tether against him using timed psychological analysis. Dracula thinks he has planted a bug in their headquarters, but instead",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: BIOLOGICAL TETHER / MILITARY RECONNAISSANCE"
+  },
+  "viewerGuess": "A biological tether becomes military reconnaissance."
+ },
+ {
+  "id": "b226",
+  "narration": "he has handed them a GPS tracker on his own Exactly. The precision of the pocket watch and the technique of hypnosis overpower the ancient blood curse. They know he is fleeing back",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "notes"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "OVERPOWERS ANCIENT CURSE"
+  },
+  "viewerGuess": "Van Helsing's method overpowers the ancient curse."
+ },
+ {
+  "id": "b227",
+  "narration": "to Transylvania on a ship, which triggers the final sequence of the book.",
+  "onScreen": {
+   "stage": "versus: dracula, transylvania",
+   "happens": [
+    "together dracula and transylvania",
+    "title \"THE FINAL RACE\""
+   ]
+  },
+  "viewerGuess": "The final race: Dracula heads back to Transylvania."
+ },
+ {
+  "id": "b228",
+  "narration": "And I want you to picture this final contrast. Two things of different sides side by side.",
+  "onScreen": {
+   "place": "abstract",
+   "words": "FINAL CONTRAST"
+  },
+  "viewerGuess": "The final contrast is drawn."
+ },
+ {
+  "id": "b229",
+  "narration": "On one side, a slow, heavy, horsedrawn carriage struggling along a snowy riverbank in Eastern Europe. And on the other side, racing past it entirely unseen, is a tiny, invisible",
+  "onScreen": {
+   "icon": "a road",
+   "place": "forest",
+   "words": "SLOW HEAVY CARRIAGE"
+  },
+  "viewerGuess": "Dracula travels by slow, heavy carriage on a road through a forest."
+ },
+ {
+  "id": "b230",
+  "narration": "spark of electricity shooting down a telegraph wire. Ancient physical transport is entirely bypassed by the speed of modern communication and steam travel.",
+  "onScreen": {
+   "icon": "an intact city skyline",
+   "place": "office",
+   "words": "SPEED OF MODERN COMMUNICATION"
+  },
+  "viewerGuess": "Against the speed of modern communication."
+ },
+ {
+  "id": "b231",
+  "narration": "Dracula flees London via a ship called the Zarena Catherine, heading back to Varna, the port where he started. He uses his supernatural control over the wind and fog to speed his ship's journey,",
+  "onScreen": {
+   "stage": "row: london, dracula, varna",
+   "happens": [
+    "apart dracula and london",
+    "together dracula and varna"
+   ]
+  },
+  "viewerGuess": "Dracula leaves London and arrives at Varna."
+ },
+ {
+  "id": "b232",
+  "narration": "hiding inside his very last box of earth. But the heroes don't try to chase him on another sailing ship. They don't try to out sail the weather. They use the infrastructure of the empire.",
+  "onScreen": {
+   "stage": "versus: dracula, earthbox",
+   "happens": [
+    "cover dracula",
+    "title \"INFRASTRUCTURE OF THE EMPIRE\""
+   ]
+  },
+  "viewerGuess": "He relies on the infrastructure of the empire, but his coverage hides him."
+ },
+ {
+  "id": "b233",
+  "narration": "This is the logistical race across Europe. They pack their weapons, their typewriters, and their documents,",
+  "onScreen": {
+   "stage": "row: mina, jonathan, typewriter",
+   "happens": [
+    "title \"THE LOGISTICAL RACE\"",
+    "together mina and typewriter"
+   ]
+  },
+  "viewerGuess": "It is the logistical race: Mina and her typewriter against him."
+ },
+ {
+  "id": "b234",
+  "narration": "and they head for the train station. They take the Orient Express. They use steam launches and rail connections.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "neutral",
+     "body": "walk"
+    },
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "neutral",
+     "body": "walk"
+    }
+   ],
+   "place": "street",
+   "words": "ORIENT EXPRESS AND STEAM LAUNCHES"
+  },
+  "viewerGuess": "Mina and Jonathan take the Orient Express and steam launches."
+ },
+ {
+  "id": "b235",
+  "narration": "They are bypassing the natural elements entirely through industrialization. And crucially, they use international telegraph lines to track his ship.",
+  "onScreen": {
+   "icon": "an intact city skyline",
+   "place": "office",
+   "words": "INTERNATIONAL TELEGRAPH LINES"
+  },
+  "viewerGuess": "International telegraph lines carry the news."
+ },
+ {
+  "id": "b236",
+  "narration": "Lord God, who is Arthur Holmwood, uses his massive wealth and status to have an agent at Lloyds of London, the massive insurance market, telegraphing him daily shipping reports.",
+  "onScreen": {
+   "stage": "solo: london",
+   "happens": [
+    "label london \"Lloyds shipping reports\"",
+    "title \"DAILY SHIPPING REPORTS\""
+   ]
+  },
+  "viewerGuess": "Lloyd's shipping reports provide daily shipping reports."
+ },
+ {
+  "id": "b237",
+  "narration": "They are receiving telegrams that say Zarina Catherine reported this morning from Dardinell's. They are tracking him in real time without ever having to physically see his ship.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "letter"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "office",
+   "words": "TRACKING IN REAL TIME"
+  },
+  "viewerGuess": "A man tracks the ship in real time with a letter, with Mina beside him."
+ },
+ {
+  "id": "b238",
+  "narration": "Mina, who earlier in the book called herself the train fiend because she loves studying timetables for fun,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "book"
+    }
+   ],
+   "place": "room",
+   "words": "THE TRAIN FIEND"
+  },
+  "viewerGuess": "Mina, nicknamed the train fiend, holds her timetable book."
+ },
+ {
+  "id": "b239",
+  "narration": "uses her knowledge to plot their interception. Right when they arrive in Varna and find out that Dracula actually bypassed them, using his supernatural influence to steer the ship up the river to the port of Galat instead.",
+  "onScreen": {
+   "stage": "row: mina, varna, dracula",
+   "happens": [
+    "together mina and varna",
+    "apart dracula and varna",
+    "stamp dracula \"REROUTED TO GALATZ\""
+   ]
+  },
+  "viewerGuess": "Mina is at Varna while Dracula is rerouted to Galatz."
+ },
+ {
+  "id": "b240",
+  "narration": "They don't despair. They don't give up. Mina just consults the timets. Van Helsing asks, \"When does the next train start for Galat?\" And Mina immediately knows at 6:30",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "book"
+    },
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "worried",
+     "body": "talk"
+    }
+   ],
+   "place": "room",
+   "words": "NEXT TRAIN AT SIX THIRTY"
+  },
+  "viewerGuess": "The next train is at six thirty, she tells him."
+ },
+ {
+  "id": "b241",
+  "narration": "tomorrow morning. It is a stunning victory of data over geography. Dracula is essentially trapped in his wooden box, floating up a frozen",
+  "onScreen": {
+   "stage": "versus: dracula, earthbox",
+   "happens": [
+    "title \"DATA OVER GEOGRAPHY\"",
+    "cover dracula"
+   ]
+  },
+  "viewerGuess": "Data over geography: Dracula is covered up and the earth boxes don't matter."
+ },
+ {
+  "id": "b242",
+  "narration": "river on a boat propelled by orars or poles, completely unaware that he is being outpaced by telegrams tracking his He is moving at the speed of the 15th century. They are moving at the speed",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "dim dracula",
+    "pair \"15TH CENTURY\" vs \"19TH CENTURY\""
+   ]
+  },
+  "viewerGuess": "15th century versus 19th century; Dracula is dimmed."
+ },
+ {
+  "id": "b243",
+  "narration": "of the 19th century. Right. He uses gypsies and local Slovak carriers.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "worried",
+     "body": "walk"
+    }
+   ],
+   "place": "forest",
+   "words": "LOCAL SLOVAK CARRIERS"
+  },
+  "viewerGuess": "Dracula depends on local Slovak carriers."
+ },
+ {
+  "id": "b244",
+  "narration": "They use steam engines, typewriters, and telegraph wires. The final confrontation, where they intercept him just outside his castle and use the knives, isn't really a battle of strength. It's a battle of logistics.",
+  "onScreen": {
+   "stage": "versus: dracula, typewriter",
+   "happens": [
+    "label typewriter \"Modern logistics\"",
+    "cross dracula",
+    "title \"A BATTLE OF LOGISTICS\""
+   ]
+  },
+  "viewerGuess": "A battle of logistics: modern logistics beats Dracula."
+ },
+ {
+  "id": "b245",
+  "narration": "They intercept him right before he reaches the safety of his castle gates because they mapped his route and got there first. The system defeats the anomaly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tall sunburnt athletic man in his late twenties with dark short hair",
+     "face": "angry",
+     "body": "fighting"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "afraid",
+     "body": "fighting"
+    }
+   ],
+   "place": "horizon",
+   "words": "SYSTEM DEFEATS THE ANOMALY"
+  },
+  "viewerGuess": "The system defeats the anomaly in a fight with Dracula."
+ },
+ {
+  "id": "b246",
+  "narration": "It does. It seems like a resounding victory for progress. But we have to introduce a broader critical lens here before we wrap up.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "worried",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "place": "office",
+   "words": "A BROADER CRITICAL LENS"
+  },
+  "viewerGuess": "A broader critical lens is needed, says a worried physician."
+ },
+ {
+  "id": "b247",
+  "narration": "Because while technology defeats Dracula, the novel itself is driven by a very deep, very",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "dim dracula",
+    "label dracula \"Target of anxiety\""
+   ]
+  },
+  "viewerGuess": "Dracula is a target of anxiety."
+ },
+ {
+  "id": "b248",
+  "narration": "specific conservative anxiety. Wait, hold on. Let me make sure I'm wrapping my head around this. They just used all this cutting edge science to win.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "surprised",
+     "body": "hold",
+     "holds": "book"
+    }
+   ],
+   "place": "library",
+   "words": "CUTTING EDGE SCIENCE TO WIN"
+  },
+  "viewerGuess": "They used cutting edge science to win."
+ },
+ {
+  "id": "b249",
+  "narration": "What kind of conservative anxiety are we talking about? In academic circles, it's referred to as the fear of reverse colonization. At the time Bram Stoker was writing in 1897, the British Empire",
+  "onScreen": {
+   "stage": "solo: year1897",
+   "happens": [
+    "title \"REVERSE COLONIZATION\"",
+    "date \"1897 · BRAM STOKER WRITES\""
+   ]
+  },
+  "viewerGuess": "In 1897 Bram Stoker writes about reverse colonization."
+ },
+ {
+  "id": "b250",
+  "narration": "was vast. It spanned the globe. But with that expansion came a kind of growing",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "worried",
+     "body": "talk"
+    }
+   ],
+   "place": "library",
+   "words": "SPANNED THE GLOBE"
+  },
+  "viewerGuess": "The empire spanned the globe."
+ },
+ {
+  "id": "b251",
+  "narration": "well a xenophobic fear that the empire could be infected from the outside.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "afraid",
+     "body": "point"
+    }
+   ],
+   "icon": "a storm cloud with lightning",
+   "place": "library",
+   "words": "INFECTED FROM THE OUTSIDE"
+  },
+  "viewerGuess": "The empire is infected from the outside."
+ },
+ {
+  "id": "b252",
+  "narration": "So so a fear that the uh univilized margins of the world could strike back at at the imperial center. Yeah.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: UNCIVILIZED MARGINS / IMPERIAL CENTER"
+  },
+  "viewerGuess": "Uncivilized margins threaten the imperial center."
+ },
+ {
+  "id": "b253",
+  "narration": "Right. Dracula represents this fear perfectly. He is Eastern European corruption and disease and",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "title \"REPRESENTING THE FEAR\"",
+    "label dracula \"Eastern corruption\""
+   ]
+  },
+  "viewerGuess": "Dracula represents the fear, eastern corruption."
+ },
+ {
+  "id": "b254",
+  "narration": "archaic feudalism attempting to infect the pure modern metropolis of London.",
+  "onScreen": {
+   "stage": "versus: dracula, london",
+   "happens": [
+    "label dracula \"Archaic feudalism\"",
+    "together dracula and london",
+    "label london \"Modern metropolis\""
+   ]
+  },
+  "viewerGuess": "Archaic feudalism meets the modern metropolis of London."
+ },
+ {
+  "id": "b255",
+  "narration": "Yeah, he he literally buys property next to like what the the lunatic asylum and starts draining the blood of these, you know, upper class English women like uh Lucy Wenra.",
+  "onScreen": {
+   "stage": "versus: dracula, lucy",
+   "happens": [
+    "title \"BUYS CARFAX ESTATE\"",
+    "dim lucy"
+   ]
+  },
+  "viewerGuess": "He buys the Carfax estate, and Lucy is dimmed."
+ },
+ {
+  "id": "b256",
+  "narration": "I mean, he's tainting the bloodline He is a foreign contaminant in the bloodstream of the empire. So when we view the heroes of the novel, these men of science, law, and aristocracy,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "talk",
+     "holds": "notes"
+    },
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "worried",
+     "body": "hold"
+    }
+   ],
+   "place": "office",
+   "words": "A FOREIGN CONTAMINANT"
+  },
+  "viewerGuess": "He is a foreign contaminant, the older man insists angrily."
+ },
+ {
+  "id": "b257",
+  "narration": "we have to recognize that the modern science and administration they use aren't just tools of neutral,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "office",
+   "words": "MODERN SCIENCE AND ADMINISTRATION"
+  },
+  "viewerGuess": "Modern science and administration respond, with a worried clerk."
+ },
+ {
+  "id": "b258",
+  "narration": "benevolent right? They act as a defensive shield used to aggressively maintain Victorian racial, social, and patriarchal dominance",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "point"
+    }
+   ],
+   "icon": "a shield",
+   "place": "office",
+   "words": "A DEFENSIVE SHIELD"
+  },
+  "viewerGuess": "The group acts as a defensive shield."
+ },
+ {
+  "id": "b259",
+  "narration": "against an outsider threat. They are using the typewriter and the telegram to protect their women, their property, and their empire from foreign contamination. Yes, the tools of modernity,",
+  "onScreen": {
+   "stage": "versus: typewriter, dracula",
+   "happens": [
+    "title \"DEFENDING THE EMPIRE\"",
+    "label typewriter \"Tool of modernity\"",
+    "cross dracula"
+   ]
+  },
+  "viewerGuess": "Defending the empire: the typewriter is a tool of modernity that defeats Dracula."
+ },
+ {
+  "id": "b260",
+  "narration": "the telegraph, the typewriter, the blood transfusion are weaponized to reestablish the conservative status quo.",
+  "onScreen": {
+   "happens": [
+    "grow typewriter",
+    "title \"CONSERVATIVE STATUS QUO\""
+   ]
+  },
+  "viewerGuess": "The typewriter grows, and the conservative status quo is preserved."
+ },
+ {
+  "id": "b261",
+  "narration": "And you see this most clearly in how they treat Mina. She is a brilliant data processor. The entire reason they figure out Dracula's plan,",
+  "onScreen": {
+   "stage": "versus: mina, dracula",
+   "happens": [
+    "label mina \"Essential analyst\"",
+    "title \"BRILLIANT DATA PROCESSOR\"",
+    "label dracula \"Plan uncovered\""
+   ]
+  },
+  "viewerGuess": "Mina is a brilliant data processor, an essential analyst who uncovered the plan."
+ },
+ {
+  "id": "b262",
+  "narration": "but the men constantly try to sideline her to protect her. They exclude her from their meetings, enforcing traditional gender roles, even as they desperately rely on her modern skills.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "sad",
+     "body": "hold",
+     "holds": "notes"
+    },
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "point"
+    }
+   ],
+   "place": "office",
+   "words": "EXCLUDE HER FROM THEIR MEETINGS"
+  },
+  "viewerGuess": "Yet the men exclude her from their meetings."
+ },
+ {
+  "id": "b263",
+  "narration": "The triumph of the filing cabinet is also the triumph of border control and imperial hygiene.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "icon": "sheets of written notes",
+   "place": "office",
+   "words": "BORDER CONTROL AND IMPERIAL HYGIENE"
+  },
+  "viewerGuess": "It is about border control and imperial hygiene."
+ },
+ {
+  "id": "b264",
+  "narration": "They use the modern to protect the traditional. That is a fascinating counterpoint and it really changes how you read the ending.",
+  "onScreen": {
+   "diagram": "a scale from one label to another with a marker: THE MODERN / THE TRADITIONAL"
+  },
+  "viewerGuess": "It sits on a scale between the modern and the traditional."
+ },
+ {
+  "id": "b265",
+  "narration": "It's not just good versus evil. It's the empire aggressively regulating its borders.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "point"
+    }
+   ],
+   "icon": "a courthouse / gavel",
+   "place": "office",
+   "words": "REGULATING ITS BORDERS"
+  },
+  "viewerGuess": "The empire is regulating its borders."
+ },
+ {
+  "id": "b266",
+  "narration": "So to reframe the entire novel for you, Count Dracula was never felled by religious piety or sheer brute strength alone. Yes.",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "title \"NEVER FELLED BY PIETY\"",
+    "cross dracula"
+   ]
+  },
+  "viewerGuess": "Dracula is never felled by piety."
+ },
+ {
+  "id": "b267",
+  "narration": "They used crucifixes and yes, they used a Bowie knife at the very end. But those were just the finishing tools. They weren't the strategy.",
+  "onScreen": {
+   "stage": "solo: quincey",
+   "happens": [
+    "label quincey \"Finishing tool\"",
+    "title \"NOT THE STRATEGY\""
+   ]
+  },
+  "viewerGuess": "Quincey is the finishing tool, not the strategy."
+ },
+ {
+  "id": "b268",
+  "narration": "The strategy was data. The vampire was audited, tracked, and dismantled by the unstoppable paper trail and communication networks of the modern bureaucratic state.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "notes"
+    },
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "smirk",
+     "body": "point"
+    }
+   ],
+   "icon": "sheets of written notes",
+   "place": "office",
+   "words": "THE STRATEGY WAS DATA"
+  },
+  "viewerGuess": "The strategy was data."
+ },
+ {
+  "id": "b269",
+  "narration": "The true stake through the heart of the vampire was the shipping manifest, the train timetable,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "icon": "a clock face",
+   "place": "office",
+   "words": "THE SHIPPING MANIFEST"
+  },
+  "viewerGuess": "The shipping manifest was the key."
+ },
+ {
+  "id": "b270",
+  "narration": "and the typewritten chronological database. Once again, it was the filing cabinet that slays the monster. The archaic warlord was completely dismantled by the administrative clerk, which leaves us",
+  "onScreen": {
+   "stage": "versus: jonathan, dracula",
+   "happens": [
+    "label jonathan \"Administrative clerk\"",
+    "label dracula \"Archaic warlord\"",
+    "dim dracula"
+   ]
+  },
+  "viewerGuess": "An administrative clerk beats an archaic warlord."
+ },
+ {
+  "id": "b271",
+  "narration": "with a final lingering question to ponder. Think about how much our world has changed since 1897. If Braum Stoker's vampire was defeated by typewriters, telegraphs, and train schedules,",
+  "onScreen": {
+   "stage": "row: year1897, typewriter",
+   "happens": [
+    "label year1897 \"World of 1897\"",
+    "title \"DEFEATED BY TYPEWRITERS\""
+   ]
+  },
+  "viewerGuess": "In the world of 1897 he was defeated by typewriters."
+ },
+ {
+  "id": "b272",
+  "narration": "how would an ancient predatory evil manipulate today's algorithms, data brokers, and global supply chains?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "talk"
+    }
+   ],
+   "icon": "a hand working puppet strings",
+   "place": "office",
+   "words": "ALGORITHMS AND DATA BROKERS"
+  },
+  "viewerGuess": "Dracula today would use algorithms and data brokers."
+ },
+ {
+  "id": "b273",
+  "narration": "That's a terrifying thought, right? If Dracula arrived today, would our modern information systems defeat him, or would he become the CEO of them? Think about the last time you tried to",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "title \"IF DRACULA ARRIVED TODAY\"",
+    "crown dracula"
+   ]
+  },
+  "viewerGuess": "If Dracula arrived today, he would rule."
+ },
+ {
+  "id": "b274",
+  "narration": "track a lost package online, or untangle the terms of service of a tech monopoly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "worried",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "icon": "a courthouse / gavel",
+   "place": "office",
+   "words": "TERMS OF SERVICE"
+  },
+  "viewerGuess": "He would hide behind terms of service."
+ },
+ {
+  "id": "b275",
+  "narration": "If a predator enters the system disguised as a legitimate transaction hidden behind shell companies and offshore servers, the diagnostic landscape becomes incredibly murky. If Dracula learned to",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "cover dracula",
+    "title \"HIDDEN BEHIND SHELL COMPANIES\""
+   ]
+  },
+  "viewerGuess": "He would be hidden behind shell companies."
+ },
+ {
+  "id": "b276",
+  "narration": "use the London directory in 1897, imagine what he could do with a server farm today.",
+  "onScreen": {
+   "stage": "versus: london, year1897",
+   "happens": [
+    "label london \"London directory\"",
+    "date \"1897 · DIRECTORY SEARCH\"",
+    "title \"SERVER FARM TODAY\""
+   ]
+  },
+  "viewerGuess": "The London directory is the server farm today."
+ },
+ {
+  "id": "b277",
+  "narration": "Keep an eye on loose shipping manifests. You never know what's inside the",
+  "onScreen": {
+   "stage": "solo: earthbox",
+   "happens": [
+    "title \"LOOSE SHIPPING MANIFESTS\"",
+    "shake earthbox"
+   ]
+  },
+  "viewerGuess": "Loose shipping manifests would shake things up."
+ }
+]

@@ -1,0 +1,1436 @@
+[
+ {
+  "id": "b141",
+  "stage": "versus: transylvania, mina",
+  "happens": [
+   "title \"Mina prepares her mind\"",
+   "change mina"
+  ]
+ },
+ {
+  "id": "b142",
+  "stage": "versus: mina, typewriter",
+  "happens": [
+   "change mina",
+   "title \"Studying train timetables\""
+  ]
+ },
+ {
+  "id": "b143",
+  "happens": [
+   "title \"Modern administrative training\"",
+   "grow mina"
+  ]
+ },
+ {
+  "id": "b144",
+  "stage": "row: year1897, mina",
+  "happens": [
+   "change mina",
+   "title \"The men completely baffled\""
+  ]
+ },
+ {
+  "id": "b145",
+  "stage": "versus: jonathan, mina",
+  "happens": [
+   "dim jonathan",
+   "label jonathan \"Trauma in Transylvania\"",
+   "grow mina",
+   "title \"Mina takes control\""
+  ]
+ },
+ {
+  "id": "b146",
+  "stage": "row: jonathan, seward, helsing",
+  "happens": [
+   "change jonathan",
+   "change seward",
+   "enter renfield"
+  ]
+ },
+ {
+  "id": "b147",
+  "happens": [
+   "world jonathan and seward and helsing",
+   "title \"Completely siloed information\""
+  ]
+ },
+ {
+  "id": "b148",
+  "stage": "versus: jonathan, mina",
+  "happens": [
+   "title \"Data collation begins\"",
+   "together jonathan and mina"
+  ]
+ },
+ {
+  "id": "b149",
+  "stage": "versus: mina, typewriter",
+  "happens": [
+   "change mina",
+   "grow typewriter"
+  ]
+ },
+ {
+  "id": "b150",
+  "happens": [
+   "title \"Typing in manifold\"",
+   "grow typewriter"
+  ]
+ },
+ {
+  "id": "b151",
+  "happens": [
+   "shake typewriter",
+   "label typewriter \"Carbon paper transfer\""
+  ]
+ },
+ {
+  "id": "b152",
+  "happens": [
+   "title \"Secure redundant database\"",
+   "enter phonograph"
+  ]
+ },
+ {
+  "id": "b153",
+  "stage": "versus: seward, phonograph",
+  "happens": [
+   "title \"Locked in audio format\"",
+   "shake phonograph"
+  ]
+ },
+ {
+  "id": "b154",
+  "stage": "versus: mina, phonograph",
+  "happens": [
+   "title \"Ephemeral audio recordings\"",
+   "together mina and phonograph",
+   "label mina \"Listening through tubes\""
+  ]
+ },
+ {
+  "id": "b155",
+  "happens": [
+   "title \"Audio into verifiable text\"",
+   "enter whitby"
+  ]
+ },
+ {
+  "id": "b156",
+  "stage": "versus: mina, typewriter",
+  "happens": [
+   "title \"Synthesizing localized data\"",
+   "change mina"
+  ]
+ },
+ {
+  "id": "b157",
+  "happens": [
+   "title \"Dates are everything\"",
+   "grow mina"
+  ]
+ },
+ {
+  "id": "b158",
+  "stage": "row: seward, renfield, jonathan, earthbox",
+  "happens": [
+   "title \"Vampire pattern revealed\"",
+   "together renfield and earthbox"
+  ]
+ },
+ {
+  "id": "b159",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "enter london",
+   "title \"The analytical nerve center\"",
+   "together mina and london"
+  ]
+ },
+ {
+  "id": "b160",
+  "happens": [
+   "title \"The ultimate weapon\"",
+   "dim dracula",
+   "label mina \"Objectively recorded data\""
+  ]
+ },
+ {
+  "id": "b161",
+  "stage": "versus: dracula, typewriter",
+  "happens": [
+   "cover dracula",
+   "uncover dracula",
+   "label dracula \"Single ancient node\""
+  ]
+ },
+ {
+  "id": "b162",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "grow mina",
+   "label mina \"Distributed network\"",
+   "cross dracula"
+  ]
+ },
+ {
+  "id": "b163",
+  "happens": [
+   "title \"Decentralized data network\"",
+   "grow mina"
+  ]
+ },
+ {
+  "id": "b164",
+  "stage": "solo: earthbox",
+  "happens": [
+   "title \"Fifty boxes of earth\"",
+   "grow earthbox"
+  ]
+ },
+ {
+  "id": "b165",
+  "happens": [
+   "title \"Single shipping invoice\"",
+   "stamp earthbox \"LOCATED\""
+  ]
+ },
+ {
+  "id": "b166",
+  "happens": [
+   "stamp earthbox \"FORENSIC ACCOUNTING\"",
+   "title \"Auditing the monster\""
+  ]
+ },
+ {
+  "id": "b167",
+  "stage": "row: demeter, dracula, earthbox",
+  "happens": [
+   "change demeter",
+   "apart dracula and earthbox"
+  ]
+ },
+ {
+  "id": "b168",
+  "stage": "versus: dracula, earthbox",
+  "happens": [
+   "label earthbox \"BIOLOGICAL ASSETS\"",
+   "together dracula and earthbox",
+   "crown dracula"
+  ]
+ },
+ {
+  "id": "b169",
+  "stage": "court: london, dracula, earthbox",
+  "happens": [
+   "apart dracula and earthbox",
+   "together earthbox and london"
+  ]
+ },
+ {
+  "id": "b170",
+  "stage": "solo: dracula",
+  "happens": [
+   "label dracula \"FATAL PAPER TRAIL\"",
+   "shake dracula",
+   "stamp dracula \"AUDITED\""
+  ]
+ },
+ {
+  "id": "b171",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "icon": "sheets of written notes",
+  "place": "street",
+  "words": "FOLLOW THE PAPER TRAIL"
+ },
+ {
+  "id": "b172",
+  "stage": "solo: london",
+  "happens": [
+   "title \"VICTORIAN PARCEL DELIVERY\"",
+   "shake london"
+  ]
+ },
+ {
+  "id": "b173",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "notes"
+   },
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "worried",
+    "body": "think"
+   }
+  ],
+  "place": "office",
+  "words": "DOGEARED NOTEBOOK"
+ },
+ {
+  "id": "b174",
+  "stage": "versus: earthbox, piccadilly",
+  "happens": [
+   "label earthbox \"DISTRIBUTED BOXES\"",
+   "label piccadilly \"MASSIVE HOUSE\"",
+   "together earthbox and piccadilly"
+  ]
+ },
+ {
+  "id": "b175",
+  "stage": "court: jonathan, piccadilly, dracula",
+  "happens": [
+   "change jonathan",
+   "focus piccadilly",
+   "stamp dracula \"COUNT DEVILLE\""
+  ]
+ },
+ {
+  "id": "b176",
+  "stage": "solo: earthbox",
+  "happens": [
+   "title \"REAL ESTATE SEARCH\"",
+   "stamp earthbox \"STERILIZED\"",
+   "label earthbox \"SACRED HOST WAFER\""
+  ]
+ },
+ {
+  "id": "b177",
+  "stage": "versus: seward, earthbox",
+  "happens": [
+   "stamp earthbox \"LIQUIDATED\"",
+   "change seward",
+   "label seward \"SUNRISE TO SUNSET\""
+  ]
+ },
+ {
+  "id": "b178",
+  "stage": "solo: dracula",
+  "happens": [
+   "dim dracula",
+   "cross dracula",
+   "label dracula \"NO SAFE HOUSES\""
+  ]
+ },
+ {
+  "id": "b179",
+  "stage": "solo: dracula",
+  "happens": [
+   "title \"DECENTRALIZED HIDING PLACES\"",
+   "change dracula",
+   "label dracula \"UNASSAILABLE STRUCTURE\""
+  ]
+ },
+ {
+  "id": "b180",
+  "stage": "versus: helsing, dracula",
+  "happens": [
+   "label dracula \"FATAL PAPER TRAIL\"",
+   "change helsing",
+   "label dracula \"LEARNING AND ADAPTING\""
+  ]
+ },
+ {
+  "id": "b181",
+  "stage": "versus: dracula, earthbox",
+  "happens": [
+   "apart dracula and earthbox",
+   "cross earthbox",
+   "stamp dracula \"DOOMED\""
+  ]
+ },
+ {
+  "id": "b182",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "worried",
+    "body": "think"
+   }
+  ],
+  "icon": "a courthouse / gavel",
+  "place": "office",
+  "words": "A PARALLEL SUBPLOT"
+ },
+ {
+  "id": "b183",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "walk"
+   }
+  ],
+  "place": "room",
+  "words": "TOWERING DARK FIGURE"
+ },
+ {
+  "id": "b184",
+  "people": [
+   {
+    "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+    "face": "afraid",
+    "body": "sit"
+   }
+  ],
+  "place": "room",
+  "words": "TINY AND INSIGNIFICANT"
+ },
+ {
+  "id": "b185",
+  "stage": "versus: dracula, renfield",
+  "happens": [
+   "grow dracula",
+   "together dracula and renfield",
+   "title \"THE ASYLUM MIRROR\"",
+   "focus renfield"
+  ]
+ },
+ {
+  "id": "b186",
+  "stage": "court: carfax, seward, renfield",
+  "happens": [
+   "together renfield and carfax",
+   "stamp carfax \"PURCHASED\""
+  ]
+ },
+ {
+  "id": "b187",
+  "stage": "versus: dracula, renfield",
+  "happens": [
+   "label dracula \"STRATEGIC LOCATION\"",
+   "label renfield \"CATCHES LIVING FLIES\"",
+   "shake renfield"
+  ]
+ },
+ {
+  "id": "b188",
+  "people": [
+   {
+    "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+    "face": "smirk",
+    "body": "sit"
+   }
+  ],
+  "place": "bedroom",
+  "words": "FLIES TO CATCH SPIDERS"
+ },
+ {
+  "id": "b189",
+  "people": [
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a medical cross with a heartbeat line",
+  "place": "office",
+  "words": "A ZOOPHAGOUS MANIAC"
+ },
+ {
+  "id": "b190",
+  "stage": "versus: seward, phonograph",
+  "happens": [
+   "change seward",
+   "label phonograph \"ABSORBING MULTIPLE LIVES\"",
+   "label seward \"CUMULATIVE CONSUMPTION\""
+  ]
+ },
+ {
+  "id": "b191",
+  "diagram": "arrows linking labels in a chain: MULTIPLE LIVES / PYRAMID SCHEME / PROLONG LIFE"
+ },
+ {
+  "id": "b192",
+  "stage": "versus: dracula, renfield",
+  "happens": [
+   "together dracula and renfield",
+   "label dracula \"METABOLIC ACCUMULATION\"",
+   "label renfield \"PREDATORY MICROECONOMY\""
+  ]
+ },
+ {
+  "id": "b193",
+  "stage": "versus: dracula, renfield",
+  "happens": [
+   "title \"MACRO PREDATION\"",
+   "grow dracula",
+   "dim renfield"
+  ]
+ },
+ {
+  "id": "b194",
+  "stage": "versus: renfield, seward",
+  "happens": [
+   "change renfield",
+   "title \"THE BLOOD IS THE LIFE\"",
+   "stamp renfield \"PARASITIC\""
+  ]
+ },
+ {
+  "id": "b195",
+  "stage": "versus: dracula, renfield",
+  "happens": [
+   "crown dracula",
+   "stamp renfield \"TACTICAL PAWN\""
+  ]
+ },
+ {
+  "id": "b196",
+  "stage": "versus: dracula, seward",
+  "happens": [
+   "cross dracula",
+   "label seward \"REQUIRES INVITATION\""
+  ]
+ },
+ {
+  "id": "b197",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "cover mina",
+   "title \"LEGAL INVITATION REQUIRED\""
+  ]
+ },
+ {
+  "id": "b198",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+    "face": "afraid",
+    "body": "think"
+   }
+  ],
+  "place": "room",
+  "words": "PROMISES ENDLESS LIVES"
+ },
+ {
+  "id": "b199",
+  "people": [
+   {
+    "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+    "face": "sad",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "OVERWHELMED AND BREAKS"
+ },
+ {
+  "id": "b200",
+  "people": [
+   {
+    "looks": "an intense dishevelled man in his late forties with erratic greying hair",
+    "face": "afraid",
+    "body": "sit"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "speech": [
+   "the first person says, in a speech balloon above their head: \"come in lord and master\""
+  ],
+  "place": "room",
+  "words": "OPENING THE SASH"
+ },
+ {
+  "id": "b201",
+  "stage": "solo: dracula",
+  "happens": [
+   "title \"LEGAL INVITED ENTRANCE\"",
+   "change dracula",
+   "stamp dracula \"BREACHED\""
+  ]
+ },
+ {
+  "id": "b202",
+  "people": [
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "worried",
+    "body": "think"
+   }
+  ],
+  "icon": "a medical cross with a heartbeat line",
+  "place": "office",
+  "words": "PSYCHOLOGICAL SCIENCE"
+ },
+ {
+  "id": "b203",
+  "stage": "versus: seward, renfield",
+  "happens": [
+   "change seward",
+   "change renfield",
+   "label seward \"ANALYZING AND CLASSIFYING\""
+  ]
+ },
+ {
+  "id": "b204",
+  "people": [
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "notes"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "office",
+  "words": "STUDYING MADNESS (crossed out)"
+ },
+ {
+  "id": "b205",
+  "people": [
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a balance scale",
+  "place": "office",
+  "words": "SCIENTIFIC METHOD FAILS"
+ },
+ {
+  "id": "b206",
+  "people": [
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "worried",
+    "body": "think"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "LOCKED INTO HIS PARADIGM"
+ },
+ {
+  "id": "b207",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "walk"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "GAINS ACCESS TO MINA"
+ },
+ {
+  "id": "b208",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "notes"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "MOST BRILLIANT COUNTERATTACK"
+ },
+ {
+  "id": "b209",
+  "icon": "water waves",
+  "place": "shore",
+  "words": "OPEN CHAOTIC WATER"
+ },
+ {
+  "id": "b210",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "neutral",
+    "body": "point"
+   }
+  ],
+  "icon": "a clock face",
+  "place": "room",
+  "words": "PRECISE VICTORIAN TIMEKEEPING"
+ },
+ {
+  "id": "b211",
+  "stage": "row: dracula, london, earthbox",
+  "happens": [
+   "dim dracula",
+   "cross earthbox"
+  ]
+ },
+ {
+  "id": "b212",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "angry",
+    "body": "walk"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "ATTACKS MINA IN RETALIATION"
+ },
+ {
+  "id": "b213",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "angry",
+    "body": "grabbing"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "afraid",
+    "body": "struggling"
+   }
+  ],
+  "place": "bedroom",
+  "words": "FORCES HER TO DRINK"
+ },
+ {
+  "id": "b214",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "talk"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "speech": [
+   "the first person says, in a speech balloon above their head: \"flesh of my flesh blood of my blood\""
+  ],
+  "place": "bedroom",
+  "words": "BOUNTIFUL WINE PRESS"
+ },
+ {
+  "id": "b215",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "together dracula and mina",
+   "label dracula \"Psychic surveillance\""
+  ]
+ },
+ {
+  "id": "b216",
+  "stage": "row: dracula, mina, helsing",
+  "happens": [
+   "shake mina",
+   "together helsing and mina"
+  ]
+ },
+ {
+  "id": "b217",
+  "happens": [
+   "title \"THE TETHER GOES BOTH WAYS\"",
+   "change helsing"
+  ]
+ },
+ {
+  "id": "b218",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "smirk",
+    "body": "point"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "MINA SEES THROUGH DRACULA"
+ },
+ {
+  "id": "b219",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "angry",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "chain links",
+  "place": "abstract",
+  "words": "BOUND BY STRICT RULES"
+ },
+ {
+  "id": "b220",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "smirk",
+    "body": "point"
+   }
+  ],
+  "icon": "a clock face",
+  "place": "room",
+  "words": "STANDARDIZED TIMEKEEPING"
+ },
+ {
+  "id": "b221",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "neutral",
+    "body": "reach"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "blank",
+    "body": "sit"
+   }
+  ],
+  "place": "room",
+  "words": "HYPNOTIZES MINA AT DAWN"
+ },
+ {
+  "id": "b222",
+  "stage": "solo: year1897",
+  "happens": [
+   "stamp year1897 \"PSYCHIATRIC TOOL\""
+  ]
+ },
+ {
+  "id": "b223",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "blank",
+    "body": "talk"
+   },
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "REPORTS SENSORY FEED"
+ },
+ {
+  "id": "b224",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "blank",
+    "body": "talk"
+   }
+  ],
+  "speech": [
+   "the first person says, in a speech balloon above their head: \"I can hear the waves lapping against the ship\""
+  ],
+  "place": "room",
+  "words": "WAVES LAPPING AGAINST THE SHIP"
+ },
+ {
+  "id": "b225",
+  "diagram": "arrows linking labels in a chain: BIOLOGICAL TETHER / MILITARY RECONNAISSANCE"
+ },
+ {
+  "id": "b226",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "notes"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "OVERPOWERS ANCIENT CURSE"
+ },
+ {
+  "id": "b227",
+  "stage": "versus: dracula, transylvania",
+  "happens": [
+   "together dracula and transylvania",
+   "title \"THE FINAL RACE\""
+  ]
+ },
+ {
+  "id": "b228",
+  "place": "abstract",
+  "words": "FINAL CONTRAST"
+ },
+ {
+  "id": "b229",
+  "icon": "a road",
+  "place": "forest",
+  "words": "SLOW HEAVY CARRIAGE"
+ },
+ {
+  "id": "b230",
+  "icon": "an intact city skyline",
+  "place": "office",
+  "words": "SPEED OF MODERN COMMUNICATION"
+ },
+ {
+  "id": "b231",
+  "stage": "row: london, dracula, varna",
+  "happens": [
+   "apart dracula and london",
+   "together dracula and varna"
+  ]
+ },
+ {
+  "id": "b232",
+  "stage": "versus: dracula, earthbox",
+  "happens": [
+   "cover dracula",
+   "title \"INFRASTRUCTURE OF THE EMPIRE\""
+  ]
+ },
+ {
+  "id": "b233",
+  "stage": "row: mina, jonathan, typewriter",
+  "happens": [
+   "title \"THE LOGISTICAL RACE\"",
+   "together mina and typewriter"
+  ]
+ },
+ {
+  "id": "b234",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "neutral",
+    "body": "walk"
+   },
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "neutral",
+    "body": "walk"
+   }
+  ],
+  "place": "street",
+  "words": "ORIENT EXPRESS AND STEAM LAUNCHES"
+ },
+ {
+  "id": "b235",
+  "icon": "an intact city skyline",
+  "place": "office",
+  "words": "INTERNATIONAL TELEGRAPH LINES"
+ },
+ {
+  "id": "b236",
+  "stage": "solo: london",
+  "happens": [
+   "title \"DAILY SHIPPING REPORTS\"",
+   "shake london"
+  ]
+ },
+ {
+  "id": "b237",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "letter"
+   },
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "office",
+  "words": "TRACKING IN REAL TIME"
+ },
+ {
+  "id": "b238",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "book"
+   }
+  ],
+  "place": "room",
+  "words": "THE TRAIN FIEND"
+ },
+ {
+  "id": "b239",
+  "stage": "row: mina, varna, dracula",
+  "happens": [
+   "together mina and varna",
+   "apart dracula and varna",
+   "stamp dracula \"REROUTED TO GALATZ\""
+  ]
+ },
+ {
+  "id": "b240",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "book"
+   },
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "worried",
+    "body": "talk"
+   }
+  ],
+  "place": "room",
+  "words": "NEXT TRAIN AT SIX THIRTY"
+ },
+ {
+  "id": "b241",
+  "stage": "versus: dracula, earthbox",
+  "happens": [
+   "title \"DATA OVER GEOGRAPHY\"",
+   "cover dracula"
+  ]
+ },
+ {
+  "id": "b242",
+  "stage": "versus: dracula, mina",
+  "happens": [
+   "dim dracula",
+   "pair \"15TH CENTURY\" vs \"19TH CENTURY\""
+  ]
+ },
+ {
+  "id": "b243",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "worried",
+    "body": "walk"
+   }
+  ],
+  "place": "forest",
+  "words": "LOCAL SLOVAK CARRIERS"
+ },
+ {
+  "id": "b244",
+  "stage": "versus: dracula, typewriter",
+  "happens": [
+   "label typewriter \"Modern logistics\"",
+   "cross dracula",
+   "title \"A BATTLE OF LOGISTICS\""
+  ]
+ },
+ {
+  "id": "b245",
+  "people": [
+   {
+    "looks": "a tall sunburnt athletic man in his late twenties with dark short hair",
+    "face": "angry",
+    "body": "fighting"
+   },
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "afraid",
+    "body": "fighting"
+   }
+  ],
+  "place": "horizon",
+  "words": "SYSTEM DEFEATS THE ANOMALY"
+ },
+ {
+  "id": "b246",
+  "people": [
+   {
+    "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+    "face": "worried",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "place": "office",
+  "words": "A BROADER CRITICAL LENS"
+ },
+ {
+  "id": "b247",
+  "stage": "solo: dracula",
+  "happens": [
+   "dim dracula",
+   "label dracula \"Target of anxiety\""
+  ]
+ },
+ {
+  "id": "b248",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "surprised",
+    "body": "hold",
+    "holds": "book"
+   }
+  ],
+  "place": "library",
+  "words": "CUTTING EDGE SCIENCE TO WIN"
+ },
+ {
+  "id": "b249",
+  "stage": "solo: year1897",
+  "happens": [
+   "title \"REVERSE COLONIZATION\"",
+   "grow dracula"
+  ]
+ },
+ {
+  "id": "b250",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "worried",
+    "body": "talk"
+   }
+  ],
+  "place": "library",
+  "words": "SPANNED THE GLOBE"
+ },
+ {
+  "id": "b251",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "afraid",
+    "body": "point"
+   }
+  ],
+  "icon": "a storm cloud with lightning",
+  "place": "library",
+  "words": "INFECTED FROM THE OUTSIDE"
+ },
+ {
+  "id": "b252",
+  "diagram": "arrows linking labels in a chain: UNCIVILIZED MARGINS / IMPERIAL CENTER"
+ },
+ {
+  "id": "b253",
+  "stage": "solo: dracula",
+  "happens": [
+   "title \"REPRESENTING THE FEAR\"",
+   "shake dracula"
+  ]
+ },
+ {
+  "id": "b254",
+  "stage": "versus: dracula, london",
+  "happens": [
+   "label dracula \"Archaic feudalism\"",
+   "together dracula and london",
+   "label london \"Modern metropolis\""
+  ]
+ },
+ {
+  "id": "b255",
+  "stage": "versus: dracula, lucy",
+  "happens": [
+   "title \"BUYS CARFAX ESTATE\"",
+   "dim lucy"
+  ]
+ },
+ {
+  "id": "b256",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "talk",
+    "holds": "notes"
+   },
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "worried",
+    "body": "hold"
+   }
+  ],
+  "place": "office",
+  "words": "A FOREIGN CONTAMINANT"
+ },
+ {
+  "id": "b257",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "worried",
+    "body": "reach",
+    "holds": "notes"
+   }
+  ],
+  "icon": "a courthouse / gavel",
+  "place": "office",
+  "words": "BUREAUCRATIC EMPIRE"
+ },
+ {
+  "id": "b258",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "point"
+   }
+  ],
+  "icon": "a shield",
+  "place": "office",
+  "words": "A DEFENSIVE SHIELD"
+ },
+ {
+  "id": "b259",
+  "stage": "versus: typewriter, dracula",
+  "happens": [
+   "title \"DEFENDING THE EMPIRE\"",
+   "label typewriter \"Tool of modernity\"",
+   "cross dracula"
+  ]
+ },
+ {
+  "id": "b260",
+  "happens": [
+   "grow typewriter",
+   "title \"CONSERVATIVE STATUS QUO\""
+  ]
+ },
+ {
+  "id": "b261",
+  "stage": "versus: mina, dracula",
+  "happens": [
+   "change mina",
+   "title \"BRILLIANT DATA PROCESSOR\"",
+   "dim dracula"
+  ]
+ },
+ {
+  "id": "b262",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "sad",
+    "body": "hold",
+    "holds": "notes"
+   },
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "point"
+   }
+  ],
+  "place": "office",
+  "words": "EXCLUDE HER FROM THEIR MEETINGS"
+ },
+ {
+  "id": "b263",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "icon": "sheets of written notes",
+  "place": "office",
+  "words": "BORDER CONTROL AND IMPERIAL HYGIENE"
+ },
+ {
+  "id": "b264",
+  "diagram": "a scale from one label to another with a marker: THE MODERN / THE TRADITIONAL"
+ },
+ {
+  "id": "b265",
+  "people": [
+   {
+    "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+    "face": "angry",
+    "body": "point"
+   }
+  ],
+  "icon": "a courthouse / gavel",
+  "place": "office",
+  "words": "REGULATING ITS BORDERS"
+ },
+ {
+  "id": "b266",
+  "stage": "solo: dracula",
+  "happens": [
+   "title \"NEVER FELLED BY PIETY\"",
+   "cross dracula"
+  ]
+ },
+ {
+  "id": "b267",
+  "stage": "solo: quincey",
+  "happens": [
+   "title \"NOT THE STRATEGY\"",
+   "dim quincey"
+  ]
+ },
+ {
+  "id": "b268",
+  "people": [
+   {
+    "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "notes"
+   },
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "smirk",
+    "body": "point"
+   }
+  ],
+  "icon": "sheets of written notes",
+  "place": "office",
+  "words": "THE STRATEGY WAS DATA"
+ },
+ {
+  "id": "b269",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "icon": "a clock face",
+  "place": "office",
+  "words": "THE SHIPPING MANIFEST"
+ },
+ {
+  "id": "b270",
+  "stage": "versus: jonathan, dracula",
+  "happens": [
+   "label jonathan \"Administrative clerk\"",
+   "label dracula \"Archaic warlord\"",
+   "dim dracula"
+  ]
+ },
+ {
+  "id": "b271",
+  "stage": "row: year1897, typewriter",
+  "happens": [
+   "title \"DEFEATED BY TYPEWRITERS\"",
+   "dim year1897"
+  ]
+ },
+ {
+  "id": "b272",
+  "people": [
+   {
+    "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "icon": "a hand working puppet strings",
+  "place": "office",
+  "words": "ALGORITHMS AND DATA BROKERS"
+ },
+ {
+  "id": "b273",
+  "stage": "solo: dracula",
+  "happens": [
+   "title \"IF DRACULA ARRIVED TODAY\"",
+   "crown dracula"
+  ]
+ },
+ {
+  "id": "b274",
+  "people": [
+   {
+    "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+    "face": "worried",
+    "body": "hold",
+    "holds": "notes"
+   }
+  ],
+  "icon": "a courthouse / gavel",
+  "place": "office",
+  "words": "TERMS OF SERVICE"
+ },
+ {
+  "id": "b275",
+  "stage": "solo: dracula",
+  "happens": [
+   "cover dracula",
+   "title \"Hidden in shell companies\""
+  ]
+ },
+ {
+  "id": "b276",
+  "stage": "versus: london, year1897",
+  "happens": [
+   "change london",
+   "title \"SERVER FARM TODAY\""
+  ]
+ },
+ {
+  "id": "b277",
+  "stage": "solo: earthbox",
+  "happens": [
+   "title \"LOOSE SHIPPING MANIFESTS\"",
+   "shake earthbox"
+  ]
+ }
+]

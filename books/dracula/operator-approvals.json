@@ -1,0 +1,59 @@
+{
+  "note": "operator approvals for routine production work (preview-state.js approve). Append-only. A record matches only its attempt (engine, pin, audio, VTT). Quality debt, render, upload, publish and cleanup are NEVER recorded here.",
+  "approvals": [
+    {
+      "id": "appr-1",
+      "at": "2026-11-14T13:05:06.959Z",
+      "by": "savas",
+      "book": "dracula",
+      "words": "Antidote ile devam et. Ses bu motor icin kaydedildi ve bu kitap Film Flow 2 testidir.",
+      "scope": "engineKeep",
+      "attempt": {
+        "engine": "antidote",
+        "productionBase": "1ce54b4e5c8ffe1e92d18383dd78bd35cd88774d",
+        "audioSha256": "5082e3ba0e771ee384de69f3d1041989e0149924c9ae05166ae43f5a91ac600e",
+        "vttSha256": "5d062bc25dc8575b2bdc2b8805361c3bc916cdd5806e0a9a5f25cd72a612261c"
+      },
+      "limits": {
+        "conditions": "Operator confirmed: Ses bu motor icin kaydedildi ve bu kitap Film Flow 2 testidir."
+      },
+      "used": []
+    },
+    {
+      "id": "appr-2",
+      "at": "2026-11-18T17:59:13.376Z",
+      "by": "savas",
+      "book": "dracula",
+      "words": "Operator 2026-11-18: new recording (case-file form), restart on current code",
+      "scope": "engineKeep",
+      "attempt": {
+        "engine": "antidote",
+        "productionBase": "08f9e34fdefc33940b93d204958cc30485f150d7",
+        "audioSha256": "cbcdbea67f8f514fc7c4c3952e51dfa18124c8b1555853a17317f760bcd04dce",
+        "vttSha256": "97926d41f862f1b8868715b703fae3955eae2b97fd945c63288d1a94f8b76522"
+      },
+      "limits": {
+        "conditions": "Operator 2026-11-18: new recording (case-file form), restart on current code"
+      },
+      "used": []
+    },
+    {
+      "id": "appr-3",
+      "at": "2026-11-19T07:43:57.582Z",
+      "by": "savas",
+      "book": "dracula",
+      "words": "Operator 2026-11-19: prep now requires heads + home; firewall accepts entity drawings",
+      "scope": "engineKeep",
+      "attempt": {
+        "engine": "antidote",
+        "productionBase": "08f9e34fdefc33940b93d204958cc30485f150d7",
+        "audioSha256": "cbcdbea67f8f514fc7c4c3952e51dfa18124c8b1555853a17317f760bcd04dce",
+        "vttSha256": "97926d41f862f1b8868715b703fae3955eae2b97fd945c63288d1a94f8b76522"
+      },
+      "limits": {
+        "conditions": "Operator 2026-11-19: prep now requires heads + home; firewall accepts entity drawings"
+      },
+      "used": []
+    }
+  ]
+}

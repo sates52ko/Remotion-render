@@ -1,0 +1,409 @@
+{
+  "slug": "dracula",
+  "world": {
+    "era": "Victorian late 19th-century (1897): Transylvanian Carpathians, Whitby coast, and imperial London",
+    "worldId": "victorianDracula",
+    "approxYear": 1897,
+    "setting": "Castle Dracula in the Carpathian mountains, misty gothic Whitby port, Dr. Seward's Carfax asylum, Victorian drawing rooms, and legal offices across London",
+    "register": "gothic techno-thriller, bureaucratic investigation, epistemological horror, Victorian administrative collation",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "thirtyTyrants",
+      "ringOfGyges",
+      "caveAllegory",
+      "shipOfState",
+      "tripartiteSoul",
+      "kallipolis",
+      "fiveRegimes",
+      "mythOfEr"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "dracula",
+    "worldId": "victorianDracula",
+    "allowedMotifs": [
+      "notes",
+      "book",
+      "law",
+      "door",
+      "key",
+      "storm",
+      "grave",
+      "water",
+      "clock",
+      "hourglass",
+      "shield",
+      "sword",
+      "mirror",
+      "mask",
+      "chains",
+      "fire",
+      "tree",
+      "forest",
+      "road",
+      "city",
+      "home",
+      "bedroom",
+      "library",
+      "room",
+      "office",
+      "shore",
+      "street",
+      "crash",
+      "war",
+      "balance",
+      "coin",
+      "target",
+      "puppeteer",
+      "gift",
+      "medical",
+      "deed",
+      "atlas",
+      "demeterlog",
+      "lucychart",
+      "garlicwindow",
+      "lucymemo",
+      "typewriter",
+      "receipts",
+      "renfieldledger",
+      "timetable",
+      "knives",
+      "earthbox"
+    ],
+    "forbiddenMotifs": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock"
+    ],
+    "allowedCharacters": [
+      "dracula",
+      "jonathan",
+      "mina",
+      "helsing",
+      "seward",
+      "renfield",
+      "lucy",
+      "quincey"
+    ],
+    "allowedLocations": [
+      "room",
+      "office",
+      "library",
+      "bedroom",
+      "street",
+      "shore",
+      "forest",
+      "horizon",
+      "abstract",
+      "stage",
+      "none"
+    ],
+    "allowedProps": [
+      "notes",
+      "book",
+      "key",
+      "law",
+      "door",
+      "shield",
+      "deed",
+      "atlas",
+      "mirror",
+      "demeterlog",
+      "lucychart",
+      "garlicwindow",
+      "lucymemo",
+      "typewriter",
+      "receipts",
+      "renfieldledger",
+      "timetable",
+      "knives",
+      "earthbox"
+    ]
+  },
+  "cast": {
+    "dracula": {
+      "name": "Count Dracula",
+      "role": "ancient Transylvanian noble and predatory biological monopoly invading London via real estate and maritime loopholes",
+      "look": "an aristocratic pale man in his early fifties with sharp aquiline features, cold piercing eyes, swept-back iron-grey hair, heavy silver moustache, dressed in high-collared Victorian black frock coat and dark woollen cape",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "build": "slight",
+        "outfit": "cloak",
+        "suit": "#1A1A1E",
+        "shirt": "#E6E6E6",
+        "skin": "#E8DDD5",
+        "hair": "#4A4D54",
+        "hairStyle": "short",
+        "headwear": "none",
+        "beard": "mustache",
+        "glasses": false,
+        "accessory": "collar"
+      },
+      "mentions": 54
+    },
+    "jonathan": {
+      "name": "Jonathan Harker",
+      "role": "earnest young English solicitor's clerk who discovers Dracula's true nature and audits the vampire's movements",
+      "look": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair, anxious intelligent grey eyes, wearing a dark charcoal wool three-piece suit with high stiff collar and silk cravat",
+      "variant": {
+        "gender": "m",
+        "age": "young",
+        "build": "average",
+        "outfit": "suit",
+        "suit": "#2D3136",
+        "shirt": "#F4F1EA",
+        "skin": "#F2D3BC",
+        "hair": "#6B4A2F",
+        "hairStyle": "short",
+        "headwear": "none",
+        "beard": "none",
+        "glasses": false,
+        "accessory": "tie"
+      },
+      "mentions": 25
+    },
+    "mina": {
+      "name": "Mina Harker",
+      "role": "schoolmistress and analytical mastermind whose cross-indexed dossiers, shorthand, and reverse hypnosis dismantle Dracula",
+      "look": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair, thoughtful brown eyes, wearing an austere high-necked dark navy Victorian day dress with crisp white collar and lace cuffs",
+      "variant": {
+        "gender": "f",
+        "age": "young",
+        "build": "slight",
+        "outfit": "dress",
+        "suit": "#1D2736",
+        "shirt": "#FAF8F5",
+        "skin": "#F3D8C4",
+        "hair": "#3B2117",
+        "hairStyle": "bun",
+        "headwear": "none",
+        "beard": "none",
+        "glasses": false,
+        "accessory": "collar"
+      },
+      "mentions": 20
+    },
+    "helsing": {
+      "name": "Abraham Van Helsing",
+      "role": "Dutch polymath doctor and philosopher bridging advanced medicine and arcane folklore to coordinate the hunt",
+      "look": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair, penetrating blue eyes behind wire spectacles, bushy eyebrows, dressed in a tailored dark tweed overcoat and wool waistcoat",
+      "variant": {
+        "gender": "m",
+        "age": "old",
+        "build": "heavy",
+        "outfit": "coat",
+        "suit": "#353839",
+        "shirt": "#EAE5D9",
+        "skin": "#E0C0A6",
+        "hair": "#787B80",
+        "hairStyle": "receding",
+        "headwear": "none",
+        "beard": "goatee",
+        "glasses": true,
+        "accessory": "bowtie"
+      },
+      "mentions": 12
+    },
+    "seward": {
+      "name": "Dr. John Seward",
+      "role": "earnest superintendent of the Purfleet lunatic asylum who records patient Renfield and the vampire hunt on wax cylinders",
+      "look": "a serious thoughtful physician in his early thirties with dark brown sideburns, tired strained eyes, wearing a dark brown tailored frock coat, dark vest and physician's pocket watch chain",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "build": "average",
+        "outfit": "suit",
+        "suit": "#3B3128",
+        "shirt": "#EFEBE2",
+        "skin": "#E8C8B0",
+        "hair": "#4A3525",
+        "hairStyle": "short",
+        "headwear": "none",
+        "beard": "muttonchops",
+        "glasses": false,
+        "accessory": "tie"
+      },
+      "mentions": 9
+    },
+    "renfield": {
+      "name": "R. M. Renfield",
+      "role": "asylum patient whose zoophagous consumption of flies, spiders, and birds mirrors Dracula's metabolic life-absorption",
+      "look": "an intense dishevelled man in his late forties with erratic greying hair, wild manic eyes, hollow cheeks, wearing a rumpled grey institutional asylum jacket and collarless canvas shirt",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "build": "slight",
+        "outfit": "rags",
+        "suit": "#5A5D64",
+        "shirt": "#C8C4BC",
+        "skin": "#DDC5B2",
+        "hair": "#55524E",
+        "hairStyle": "messy",
+        "headwear": "none",
+        "beard": "stubble",
+        "glasses": false,
+        "accessory": "none"
+      },
+      "mentions": 18
+    },
+    "lucy": {
+      "name": "Lucy Westenra",
+      "role": "aristocratic debutante whose somnambulism and gradual vampiric infection expose Victorian somatic vulnerability",
+      "look": "a delicate pale twenty-year-old woman with golden blonde curls, vacant feverish blue eyes, wearing a flowing white Victorian nightgown with high lace trim",
+      "variant": {
+        "gender": "f",
+        "age": "young",
+        "build": "slight",
+        "outfit": "dress",
+        "suit": "#E8E6E1",
+        "shirt": "#FFFFFF",
+        "skin": "#F7E2D5",
+        "hair": "#B89758",
+        "hairStyle": "curly",
+        "headwear": "none",
+        "beard": "none",
+        "glasses": false,
+        "accessory": "necklace"
+      },
+      "mentions": 8
+    },
+    "quincey": {
+      "name": "Quincey Morris",
+      "role": "wealthy adventurous American hunter from Texas who finances the expedition and delivers the fatal heart strike",
+      "look": "a tall sunburnt athletic man in his late twenties with dark short hair, steady grey eyes, wearing a rugged brown leather travelling coat, wide-brimmed felt hat and sturdy leather holster",
+      "variant": {
+        "gender": "m",
+        "age": "young",
+        "build": "heavy",
+        "outfit": "coat",
+        "suit": "#4E3629",
+        "shirt": "#D9C9B4",
+        "skin": "#CE9E77",
+        "hair": "#2D221E",
+        "hairStyle": "short",
+        "headwear": "cowboy",
+        "beard": "stubble",
+        "glasses": false,
+        "accessory": "scarf"
+      },
+      "mentions": 6
+    }
+  },
+  "places": {
+    "library": {
+      "set": "library",
+      "look": "a grand gloomy gothic library in Castle Dracula lined with ancient stone walls and tall oak shelves packed with modern English books and maps",
+      "mentions": 6
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "a shadowy Victorian bedchamber with tall drapes, garlic flowers strung across the windows, and an ornate four-poster bed",
+      "mentions": 4
+    },
+    "office": {
+      "set": "office",
+      "look": "a cluttered London administrative office with rolltop desks, stacks of legal parchment, rail timetables, and a typewriter surrounded by phonograph cylinders",
+      "mentions": 6
+    },
+    "room": {
+      "set": "room",
+      "look": "a stone-walled examination room in Dr. Seward's asylum with barred high windows and iron-frame medical furnishings",
+      "mentions": 5
+    },
+    "shore": {
+      "set": "shore",
+      "look": "a wind-battered gothic harbour at Whitby beneath crumbling abbey ruins, shrouded in thick sea fog and crashing surf",
+      "mentions": 4
+    },
+    "street": {
+      "set": "street",
+      "look": "a cobblestone gaslit London street slick with rain, lined with brick facades and horse-drawn carriages",
+      "mentions": 3
+    }
+  },
+  "objects": [
+    {
+      "concept": "notes",
+      "mentions": 16,
+      "why": "Jonathan's shorthand diary, Mina's typed transcripts, and Dr. Seward's phonograph records that constitute the evidence dossier"
+    },
+    {
+      "concept": "law",
+      "mentions": 13,
+      "why": "Real estate deeds, lease contracts, and legal mandates used by Dracula to infiltrate London and by the hunters to audit him"
+    },
+    {
+      "concept": "book",
+      "mentions": 10,
+      "why": "English history and rail timetable directories studied by Dracula in Transylvania and consulted by the hunters"
+    },
+    {
+      "concept": "door",
+      "mentions": 8,
+      "why": "The locked portals of Castle Dracula and the barred windows of Carfax estate and Seward's asylum"
+    },
+    {
+      "concept": "key",
+      "mentions": 7,
+      "why": "Heavy iron keys representing captive enclosure in Transylvania and access to the Carfax earth boxes"
+    },
+    {
+      "concept": "storm",
+      "mentions": 5,
+      "why": "The supernatural tempest that steers the doomed schooner Demeter into Whitby harbor"
+    },
+    {
+      "concept": "water",
+      "mentions": 8,
+      "why": "The North Sea and the Black Sea rivers over which Dracula travels as cargo"
+    },
+    {
+      "concept": "shield",
+      "mentions": 10,
+      "why": "The protective barrier of consecrated wafers, garlic garlands, and bureaucratic documentation"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 5,
+      "claim": "Dracula structures his invasion as a legal and administrative property transaction, turning Jonathan Harker into an unwilling tutor."
+    },
+    {
+      "act": "development",
+      "fromFrame": 15775,
+      "claim": "The Demeter logbook and Lucy's medical collapse prove that Dracula travels through the blind spots of modern transport and medicine."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 29986,
+      "claim": "Mina Harker transforms disparate diaries, phonograph wax, and train timetables into a coordinated analytical database."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 44940,
+      "claim": "Forensic accounting tracks down Dracula's distributed earth boxes and cuts off his metropolitan escape routes."
+    },
+    {
+      "act": "close",
+      "fromFrame": 59083,
+      "claim": "Steam engines, telegraph lines, and administrative speed intercept Dracula before he reaches his fortress, proving the triumph of modern collation."
+    }
+  ],
+  "authored": true
+}

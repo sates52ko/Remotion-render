@@ -1,0 +1,845 @@
+{
+  "run": "dracula-judge-4a4d5e183b88",
+  "items": [
+    {
+      "id": "b001",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The viewer recognizes the legal property deed as the opening focus."
+    },
+    {
+      "id": "b002",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The board only shows Transylvania entering and dimming beside the deed without conveying the gloomy castle room or flickering lamp shadows."
+    },
+    {
+      "id": "b003",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The room setting, deed icon, and text convey the parchment sliding toward a hand."
+    },
+    {
+      "id": "b004",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The reaching figure and text accurately convey the strange hand with hair on the palm."
+    },
+    {
+      "id": "b005",
+      "correctness": "WRONG",
+      "blame": "diagram",
+      "why": "Using a versus layout leads the viewer to think Dracula is confronting the deed rather than signing it."
+    },
+    {
+      "id": "b006",
+      "correctness": "NEUTRAL",
+      "blame": "words",
+      "why": "Stamping MISREAD on the deed leaves it vague whether the deed itself or the invasion is what has been misread."
+    },
+    {
+      "id": "b007",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "An empty refute diagram signals a refutation is starting without showing the classic horror tropes being challenged."
+    },
+    {
+      "id": "b008",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The unlabeled refute diagram fails to convey the thesis that filing, not faith or courage, defeats Dracula."
+    },
+    {
+      "id": "b009",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The blank refute diagram gives no indication that diaries, bills, and telegrams form the evidentiary case."
+    },
+    {
+      "id": "b010",
+      "correctness": "NEUTRAL",
+      "blame": "words",
+      "why": "The text and worried poses depict people who faced the horror but miss the speaker rejecting the paperwork premise."
+    },
+    {
+      "id": "b011",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The reaching protagonists, shield icon, and text convey fighting the horror with crucifixes and stakes."
+    },
+    {
+      "id": "b012",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The smirking aristocrat and text accurately convey that paperwork cannot kill a warlord."
+    },
+    {
+      "id": "b013",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The title and growing deed correctly introduce Exhibit 1, the deed to Carfax."
+    },
+    {
+      "id": "b014",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The layout and label establish Jonathan as an English solicitor arriving in Transylvania."
+    },
+    {
+      "id": "b015",
+      "correctness": "WRONG",
+      "blame": "diagram",
+      "why": "Moving Jonathan apart from Transylvania makes the viewer think he left Transylvania instead of being isolated inside it away from civilization."
+    },
+    {
+      "id": "b016",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Generic act and change tokens do not show that Jonathan presents the deed and Dracula signs it."
+    },
+    {
+      "id": "b017",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Joining Dracula with the deed toward London and the title accurately convey that his first act is a signature."
+    },
+    {
+      "id": "b018",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The labels and growing Dracula convey both his entry via property law and his underlying menace."
+    },
+    {
+      "id": "b019",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dimming the deed while Dracula grows accurately conveys that the signature is secondary to his physical threat."
+    },
+    {
+      "id": "b020",
+      "correctness": "WRONG",
+      "blame": "body",
+      "why": "Staging Dracula reaching angrily over a cowering Jonathan depicts a face-to-face intimidation instead of Dracula crawling down the castle's outer walls."
+    },
+    {
+      "id": "b021",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The towering monster beside the deed icon and text captures that a legal contract means nothing to him."
+    },
+    {
+      "id": "b022",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Lining up Dracula, the deed, and Jonathan with the JUST A SHOW stamp conveys the pantomime of commerce."
+    },
+    {
+      "id": "b023",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Jonathan holding notes beside Carfax with its layout label captures his detailed journal description of the property."
+    },
+    {
+      "id": "b024",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The labels directly communicate the twenty-acre estate enclosed by an ancient stone wall."
+    },
+    {
+      "id": "b025",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dimming and expanding Carfax around the chapel label captures its gloomy grounds and crucial ruined chapel."
+    },
+    {
+      "id": "b026",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Bringing Dracula and the fifty labeled earth boxes into Carfax conveys why he needs the enclosed space."
+    },
+    {
+      "id": "b027",
+      "correctness": "WRONG",
+      "blame": "diagram",
+      "why": "Crossing out the deed while restoring Carfax and the earth boxes implies the estate works without the contract rather than failing without it."
+    },
+    {
+      "id": "b028",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula holding the deed, paying coins, and Carfax stamped SOLD convey that he legally buys his fortress."
+    },
+    {
+      "id": "b029",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The growing deed, SECURED stamp, and title capture that the beachhead is legally secured on paper."
+    },
+    {
+      "id": "b030",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The menacing aristocrat beside the deed icon and question text accurately convey the doubt over whether a lease can stop him."
+    },
+    {
+      "id": "b031",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The title and growing atlas clearly introduce Exhibit 2, the atlas with three rings."
+    },
+    {
+      "id": "b032",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Pairing Jonathan with Transylvania and a generic change cue omits that he finds a library full of books about England."
+    },
+    {
+      "id": "b033",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Jonathan interacting with the growing atlas captures him finding and examining the English atlas."
+    },
+    {
+      "id": "b034",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The labeled London and Whitby locations on the expanding atlas convey the marked targets."
+    },
+    {
+      "id": "b035",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Pairing the atlas with a growing timetable captures the railway guide and directories sitting beside it."
+    },
+    {
+      "id": "b036",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula working over the atlas and timetable under the meticulous clerk label captures the claim directly."
+    },
+    {
+      "id": "b037",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula using the timetable to strike London conveys his weaponization of British transit data."
+    },
+    {
+      "id": "b038",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The title and labels on the atlas and timetable capture Dracula plotting a logistical network into London."
+    },
+    {
+      "id": "b039",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The angry aristocrat and text accurately signal a challenge to the clerk interpretation."
+    },
+    {
+      "id": "b040",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The battlefield icon and text reframe Dracula as a centuries-old warlord."
+    },
+    {
+      "id": "b041",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Generic grow, act, and dim motions against the atlas fail to convey that Dracula is out of his depth in the nineteenth century."
+    },
+    {
+      "id": "b042",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Separating Dracula from the atlas while crowning and growing him conveys his ancient conquering bloodline."
+    },
+    {
+      "id": "b043",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Uncrowning Dracula as he shifts beside Jonathan makes him appear diminished and muddles the transition into his library speech."
+    },
+    {
+      "id": "b044",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crowning and growing Dracula alongside London captures his desire to rule as master."
+    },
+    {
+      "id": "b045",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Setting aside the crown and merging with London conveys his wish to blend in like everyone else."
+    },
+    {
+      "id": "b046",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula transforming and merging directly with London captures him adapting to pass unnoticed."
+    },
+    {
+      "id": "b047",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula taking the atlas and covering himself behind it conveys using data as camouflage."
+    },
+    {
+      "id": "b048",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Holding the atlas under the masked ancient evil label directly matches the narration."
+    },
+    {
+      "id": "b049",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The secured deed and Dracula covering himself again summarize how paperwork secures his arrival and data hides him."
+    },
+    {
+      "id": "b050",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The smirking aristocrat and text capture the pivot to Dracula defying all logic."
+    },
+    {
+      "id": "b051",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Focusing on the mirror with the May 8 morning date directly introduces Exhibit 3."
+    },
+    {
+      "id": "b052",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Triggering a change cue on Jonathan makes him appear to react to something rather than calmly shaving."
+    },
+    {
+      "id": "b053",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula appearing close beside a startled Jonathan as focus snaps to the mirror captures the moment."
+    },
+    {
+      "id": "b054",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Covering Dracula with the no-reflection label while Jonathan bursts captures the shock of the empty mirror."
+    },
+    {
+      "id": "b055",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Uncovering and growing Dracula without any cue for blood or fury leaves the cause of his reaction vague."
+    },
+    {
+      "id": "b056",
+      "correctness": "WRONG",
+      "blame": "diagram",
+      "why": "Putting the burst effect on Jonathan makes it look like Jonathan recoils from Dracula instead of Dracula lunging and recoiling from the crucifix."
+    },
+    {
+      "id": "b057",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula taking the mirror and the shattered-on-the-stones title convey him throwing it out the window."
+    },
+    {
+      "id": "b058",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The stopped aristocrat, shield icon, and text capture the physical power of the crucifix."
+    },
+    {
+      "id": "b059",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The surprised gentleman, shield, and text convey that faith and the crucifix stopped a lethal attack."
+    },
+    {
+      "id": "b060",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Jonathan shaking beside the mirror while Dracula stays covered captures both the rebuttal title and Jonathan's panic over the missing reflection."
+    },
+    {
+      "id": "b061",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "A generic act cue on Jonathan gives no indication that he is writing the event down in his journal."
+    },
+    {
+      "id": "b062",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Labeling the mirror as a diary that uncovers Dracula captures how the journal becomes proof of the monster."
+    },
+    {
+      "id": "b063",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Acting and shaking without any diary or notes visual show panic without conveying ink as a coping mechanism."
+    },
+    {
+      "id": "b064",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing Jonathan working on notes omits the crucifix rebuttal and leaves unclear what his desperate entry contains."
+    },
+    {
+      "id": "b065",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Jonathan holding a book under the bare-meager-facts label accurately matches the narration."
+    },
+    {
+      "id": "b066",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The frightened gentleman clutching notes with the text captures reducing the horror to data to keep his sanity."
+    },
+    {
+      "id": "b067",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The causal chain directly links having no reflection to creating a paper trail."
+    },
+    {
+      "id": "b068",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The completed diagram chain captures how turning the missing reflection into a paper trail saves sanity."
+    },
+    {
+      "id": "b069",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The shaking ship and growing logbook introduce Exhibit 4 and the question of whether a log can save a crew at sea."
+    },
+    {
+      "id": "b070",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The date and shaking Demeter arriving at Whitby capture the ship's storm-tossed entry into the harbor."
+    },
+    {
+      "id": "b071",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The shuddering, dimming ship with the dead-captain label matches the Coast Guard discovery."
+    },
+    {
+      "id": "b072",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Focusing on the logbook emerging from the Demeter captures the discovery of the bottled roll of paper."
+    },
+    {
+      "id": "b073",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crossing out the ship while the logbook grows captures that the written record outlives physical survival."
+    },
+    {
+      "id": "b074",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "An earth box colliding with the Demeter beside the logbook conveys the cargo that doomed the ship."
+    },
+    {
+      "id": "b075",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Focusing on the fifty earth boxes and logbook misses the crucial pivot to the crucifix tied in the dead captain's hands."
+    },
+    {
+      "id": "b076",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula halting before the shield and HOLY STAND text captures the captain's spiritual defiance against the devil."
+    },
+    {
+      "id": "b077",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The Demeter shaking against Dracula while the logbook tracks a disappearing crew captures the inspector's reading."
+    },
+    {
+      "id": "b078",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The August 3 date aboard the Demeter and growing logbook introduce the climax of the ship's log."
+    },
+    {
+      "id": "b079",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Covering the ship with the title NO ONE AT THE WHEEL captures the thick fog and vanished helmsman."
+    },
+    {
+      "id": "b080",
+      "correctness": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "A storm cloud icon by the shore with generic text leaves out the mad mate recounting creeping up on an intangible monster at sea."
+    },
+    {
+      "id": "b081",
+      "correctness": "NEUTRAL",
+      "blame": "place",
+      "why": "Placing the earth box and words on the shore mislocates the shipboard scene and leaves out that the mate's knife attack failed."
+    },
+    {
+      "id": "b082",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The waves icon and text convey someone throwing himself into the sea."
+    },
+    {
+      "id": "b083",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The diagram chain directly summarizes that physical force hits empty space and makes violence useless."
+    },
+    {
+      "id": "b084",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Sealing the log in a bottle while crossing out both log and ship captures both the warning and its failure to save anyone."
+    },
+    {
+      "id": "b085",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Stamping the crossed-out logbook POST-MORTEM captures that it was only a coroner's report after the deaths."
+    },
+    {
+      "id": "b086",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dimming the logbook and moving the ship next to Whitby captures the pivot to what happens on land."
+    },
+    {
+      "id": "b087",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Stamping the earth boxes LEGAL under Whitby's consignment papers captures Billington legally receiving the cargo."
+    },
+    {
+      "id": "b088",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Delivering the earth boxes to Whitby while the ship dims and is crossed out captures bureaucracy triumphing over the tragedy."
+    },
+    {
+      "id": "b089",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Stamping the Demeter DEATH alongside receipts and the surviving logbook summarizes the voyage's outcome."
+    },
+    {
+      "id": "b090",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Pairing the Demeter with receipts and bursting into London conveys the legally shielded threat spreading to London."
+    },
+    {
+      "id": "b091",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Growing Lucy's medical chart alongside Lucy changing introduces Exhibit 5 and the medical perspective."
+    },
+    {
+      "id": "b092",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing Lucy versus London with London covered fails to convey her closed London bedroom at night."
+    },
+    {
+      "id": "b093",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Grouping Helsing, Seward, and Lucy under the title conveys the experimental blood transfusions."
+    },
+    {
+      "id": "b094",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Flowing from Seward, Quincey, and Helsing to Lucy with the label captures four men's blood being transfused into her."
+    },
+    {
+      "id": "b095",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Seward acting beside Lucy's chart under the title conveys him recording everything on his medical chart."
+    },
+    {
+      "id": "b096",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Seward holding notes and labeling the chart with physical symptoms matches him logging her condition."
+    },
+    {
+      "id": "b097",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Covering Lucy's chart while Seward acts leaves it ambiguous whether the chart is blind to reality or being deliberately hidden."
+    },
+    {
+      "id": "b098",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Stamping Lucy's chart MERE ANEMIA while Seward takes notes and Lucy worsens captures science missing the curse."
+    },
+    {
+      "id": "b099",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Helsing uncovering and growing the medical chart captures how the data sparks his realization."
+    },
+    {
+      "id": "b100",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Helsing examining Lucy labeled with four men's blood captures his observation of the transfusions."
+    },
+    {
+      "id": "b101",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The title WHAT TOOK IT OUT beside the chart and dimming Lucy conveys the mathematical proof of a supernatural drain."
+    },
+    {
+      "id": "b102",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dracula acting against a dimming Lucy under A FAILING BATTLE captures the monster feeding on her."
+    },
+    {
+      "id": "b103",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crossing out both and stamping the chart NO CURE conveys that the records could not heal or save her."
+    },
+    {
+      "id": "b104",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dimming the chart as Lucy changes under A HUGE DOUBT summarizes the failure of medical measurement."
+    },
+    {
+      "id": "b105",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The diagram chain directly links failing science to turning toward ancient superstitions."
+    },
+    {
+      "id": "b106",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Growing the garlic window under the title directly introduces Exhibit 6."
+    },
+    {
+      "id": "b107",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Helsing acting to enlarge the garlic window around Lucy captures him bringing garlic to protect her room."
+    },
+    {
+      "id": "b108",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Helsing holding flowers while enlarging the garlic barrier around Lucy conveys securing the room and wreath."
+    },
+    {
+      "id": "b109",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Helsing acting with the title DO NOT DISTURB IT captures his strict warning."
+    },
+    {
+      "id": "b110",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Shaking and dimming the garlic window without Mrs. Westenra present omits that Lucy's mother opened the window and removed the garlic."
+    },
+    {
+      "id": "b111",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crossing out the garlic window and stamping it HUMAN BREACH captures that human interference undid the defense."
+    },
+    {
+      "id": "b112",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Restoring the garlic window while keeping it apart from a dimming Lucy captures that removing an effective ward doomed her."
+    },
+    {
+      "id": "b113",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crossing out the garlic window as Dracula acts and grows conveys that breaking the ward invited the monster back."
+    },
+    {
+      "id": "b114",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Breaking the garlic ward as Dracula joins together with Lucy captures her falling back under his control."
+    },
+    {
+      "id": "b115",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The garlic window growing before dimming and crossing out captures a real ward tragically subverted."
+    },
+    {
+      "id": "b116",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Aligning Dracula, Lucy, and the dimmed garlic window under AN AGONIZING DOUBT captures the fallen defense."
+    },
+    {
+      "id": "b117",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Growing Lucy's memo under the title introduces Exhibit 7 as Lucy's final human act."
+    },
+    {
+      "id": "b118",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Shaking Lucy surrounded by Helsing, Seward, and Quincey conveys the chaotic scene after the final attack."
+    },
+    {
+      "id": "b119",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing only Lucy dimming opposite Helsing omits the drugged maids and dead mother."
+    },
+    {
+      "id": "b120",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Lucy's memo entering and growing between Helsing and Lucy captures the discovery of the hidden paper."
+    },
+    {
+      "id": "b121",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Lucy holding onto her growing memo conveys that she wrote and hid an account of what happened."
+    },
+    {
+      "id": "b122",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Stamping the memo held by Lucy as TESTIMONY captures her final act of leaving a witness record."
+    },
+    {
+      "id": "b123",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crossing out the dropped memo and stamping Lucy MONSTER captures her death and transformation."
+    },
+    {
+      "id": "b124",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "A violent clash between Helsing and Lucy while the memo is crossed out captures physical action stopping her where paper failed."
+    },
+    {
+      "id": "b125",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Stamping the memo MASSIVE THREAT as Helsing takes and puts it away conveys him seizing and hiding it."
+    },
+    {
+      "id": "b126",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Helsing and Seward standing together to cover and cross out the memo captures concealing it from outsiders."
+    },
+    {
+      "id": "b127",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The memo growing and bursting under REAL EVIDENCE conveys the explosive legal exposure it poses."
+    },
+    {
+      "id": "b128",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The worried men putting the letter away under SUPPRESSED HER ARCHIVE matches the narration directly."
+    },
+    {
+      "id": "b129",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The worried physician beside notes and the question text conveys the doubt over how to weaponize hidden secrets."
+    },
+    {
+      "id": "b130",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Mina facing the typewriter labeled Exhibit 8 directly introduces Mina's typewriter."
+    },
+    {
+      "id": "b131",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The labels for shorthand journal, wax cylinders, and mountain of formats capture the varied media pile."
+    },
+    {
+      "id": "b132",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Mina acting under ONE CHRONOLOGICAL FILE captures her transcribing and organizing all the records."
+    },
+    {
+      "id": "b133",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Mina holding collated notes while Dracula dims under DEFEATED BY COLLATION matches the turning point claim."
+    },
+    {
+      "id": "b134",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Mina typing and bringing the fifty boxes of earth into view conveys the timeline revealing the boxes."
+    },
+    {
+      "id": "b135",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Dimming the typewriter under JUST A MACHINE conveys the skepticism that it only processes words."
+    },
+    {
+      "id": "b136",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "The angry man pointing at Dracula with CONFRONT THE MONSTER captures the argument for physical courage."
+    },
+    {
+      "id": "b137",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Crossing out the typewriter against knives under NOT A WEAPON and its bravery-record label matches the narration."
+    },
+    {
+      "id": "b138",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Quincey holding notes under SEE THE BIG PICTURE conveys reading the typed manuscript and understanding the whole threat."
+    },
+    {
+      "id": "b139",
+      "correctness": "CORRECT",
+      "blame": "",
+      "why": "Connecting the ghost ship Demeter, Renfield, and Carfax under CONNECTING THE DOTS matches the narration directly."
+    },
+    {
+      "id": "b140",
+      "correctness": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Showing only a change cue on Mina under October 3 omits that the men are out hunting the boxes while she sleeps in her bedroom."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+[
+ {
+  "id": "b001",
+  "narration": "Which brings us to the first major phase of his plan. And I want to set a visual for you to keep in mind. Picture this. Two things of different size side by side. On one side, the towering",
+  "onScreen": {
+   "stage": "versus: transylvania, london",
+   "happens": [
+    "title \"Two opposing forces\""
+   ]
+  },
+  "viewerGuess": "The story pits two opposing forces against each other, one rooted in Transylvania and the other in London."
+ },
+ {
+  "id": "b002",
+  "narration": "Four different men, Arthur Holmwood, who is her fiance, Dr. Seward Van Helsing himself and the American adventurer Quincy Morris all pull their blood",
+  "onScreen": {
+   "happens": [
+    "title \"Men pooling their blood\"",
+    "enter quincey",
+    "grow quincey"
+   ]
+  },
+  "viewerGuess": "A group of men, with Quincey stepping forward, give their own blood to save someone."
+ },
+ {
+  "id": "b003",
+  "narration": "Picture this. Two things of different size side by side. On one side, the vast",
+  "onScreen": {
+   "stage": "versus: dracula, typewriter",
+   "happens": [
+    "grow dracula",
+    "title \"Two opposing forces\""
+   ]
+  },
+  "viewerGuess": "On one side stands Dracula, set against the modern tool of the typewriter, as the two opposing forces."
+ },
+ {
+  "id": "b004",
+  "narration": "ancient telepathic mind of a 500-year-old warlord, a creature who can command packs of wolves, turn into mist, and control the weather.",
+  "onScreen": {
+   "happens": [
+    "label dracula \"An ancient warlord\"",
+    "title \"Ancient telepathic mind\""
+   ]
+  },
+  "viewerGuess": "Dracula is an ancient warlord with a telepathic mind that reaches across distance."
+ },
+ {
+  "id": "b005",
+  "narration": "is a small clicking mechanical portable This is it. This is the moment the filing cabinet slays the monster.",
+  "onScreen": {
+   "happens": [
+    "focus typewriter",
+    "title \"The filing cabinet slays\""
+   ]
+  },
+  "viewerGuess": "The humble modern typewriter and its filing system become the weapon that defeats the monster."
+ },
+ {
+  "id": "b006",
+  "narration": "Before she even fully knows what is going on, while she's just waiting for Jonathan to come back from Transennsylvania, she is actively preparing herself.",
+  "onScreen": {
+   "stage": "versus: transylvania, mina",
+   "happens": [
+    "label mina \"Waiting for Jonathan\"",
+    "label transylvania \"Transylvania expedition\"",
+    "title \"Mina prepares her mind\""
+   ]
+  },
+  "viewerGuess": "Mina waits for Jonathan, who is away on his expedition in Transylvania, while she prepares her mind."
+ },
+ {
+  "id": "b007",
+  "narration": "lifts. They can suddenly see how Dracula got to London, where his boxes are, and what his methodology is. Mina's cross-indexing forms the real nerve center of the operation. Modern information systems become the",
+  "onScreen": {
+   "stage": "versus: dracula, mina",
+   "happens": [
+    "enter london",
+    "title \"The analytical nerve center\"",
+    "label mina \"Real nerve center\""
+   ]
+  },
+  "viewerGuess": "Back in London, Mina is the real analytical nerve center of the group that opposes Dracula."
+ },
+ {
+  "id": "b008",
+  "narration": "visual. Picture this. Two things of different size side by side. On one side, 50 massive,",
+  "onScreen": {
+   "stage": "solo: earthbox",
+   "happens": [
+    "title \"Fifty boxes of earth\"",
+    "grow earthbox"
+   ]
+  },
+  "viewerGuess": "Dracula ships fifty boxes of earth to England to serve as his resting places."
+ },
+ {
+  "id": "b009",
+  "narration": "What kind of conservative anxiety are we talking about? In academic circles, it's referred to as the fear of reverse colonization. At the time Bram Stoker was writing in 1897, the British Empire",
+  "onScreen": {
+   "stage": "solo: year1897",
+   "happens": [
+    "title \"REVERSE COLONIZATION\"",
+    "date \"1897 · Stoker writes\""
+   ]
+  },
+  "viewerGuess": "Stoker wrote the book in 1897 as a tale of reverse colonization, with the foreign invader coming to Britain."
+ },
+ {
+  "id": "b010",
+  "narration": "If a predator enters the system disguised as a legitimate transaction hidden behind shell companies and offshore servers, the diagnostic landscape becomes incredibly murky. If Dracula learned to",
+  "onScreen": {
+   "stage": "solo: dracula",
+   "happens": [
+    "cover dracula",
+    "title \"Hidden in shell companies\""
+   ]
+  },
+  "viewerGuess": "Dracula hides his property and activities behind shell companies in his plan to take over England."
+ }
+]

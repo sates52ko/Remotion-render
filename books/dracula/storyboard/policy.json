@@ -1,0 +1,20 @@
+{
+  "policy": "baseline",
+  "promptSha256": "f86f9b361ebc97918207bb4513f7dc339815cee159128b3461225e865d1be1d2",
+  "codeSha": "9dc53c68f2c7bcf20c8bf1a8530c714335c18011",
+  "code": {
+    "head": "9dc53c68f2c7bcf20c8bf1a8530c714335c18011",
+    "dirty": 0,
+    "treeSha256": null,
+    "changed": [],
+    "untracked": []
+  },
+  "engine": "antidote",
+  "beatSource": "plan-antidote (VTT)",
+  "model": "unrecorded",
+  "generation": {
+    "chunk": 40,
+    "mode": "claude-authored"
+  },
+  "recordedAt": "2026-11-19T08:06:28.879Z"
+}

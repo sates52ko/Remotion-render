@@ -1,0 +1,17 @@
+{
+  "run": "dracula-judge-2bed7e23d8fa",
+  "items": [
+    {
+      "id": "b001",
+      "correctness": "CORRECT",
+      "blame": "none",
+      "why": "The viewer correctly identifies Jonathan and Dracula and the key event of Dracula climbing face down."
+    },
+    {
+      "id": "b002",
+      "correctness": "NEUTRAL",
+      "blame": "words",
+      "why": "The solo box and label tell the viewer Dracula is hidden inside a shaking earthbox, missing the narration's armed cart chase through the snow against the sun without contradicting it."
+    }
+  ]
+}

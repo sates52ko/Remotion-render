@@ -1,0 +1,115 @@
+{
+  "schema": "own-drawings/1",
+  "drawings": {
+    "person:dracula": {
+      "n": 1,
+      "hash": "9ea1708ecf19365c",
+      "intended": "COUNT DRACULA",
+      "accepted": [
+        "cape",
+        "vampire",
+        "widows peak",
+        "collar"
+      ],
+      "answer": "vampire in cape with collar and widows peak",
+      "ok": true
+    },
+    "person:jonathan": {
+      "n": 2,
+      "hash": "e644d85afee726e1",
+      "intended": "JONATHAN HARKER",
+      "accepted": [
+        "clerk",
+        "neat hair",
+        "tie",
+        "side part"
+      ],
+      "answer": "young clerk in suit with tie and side part",
+      "ok": true
+    },
+    "person:mina": {
+      "n": 3,
+      "hash": "53027138eb2ef05a",
+      "intended": "MINA HARKER",
+      "accepted": [
+        "bun",
+        "woman",
+        "brooch",
+        "lace collar"
+      ],
+      "answer": "woman with hair in a bun wearing lace collar and brooch",
+      "ok": true
+    },
+    "person:helsing": {
+      "n": 4,
+      "hash": "719df5f05ccbe9d8",
+      "intended": "VAN HELSING",
+      "accepted": [
+        "glasses",
+        "spectacles",
+        "beard",
+        "professor",
+        "goatee"
+      ],
+      "answer": "professor with glasses goatee and beard",
+      "ok": true
+    },
+    "person:seward": {
+      "n": 5,
+      "hash": "fffdcdaf2601a309",
+      "intended": "DR. SEWARD",
+      "accepted": [
+        "muttonchops",
+        "sideburns",
+        "doctor",
+        "physician"
+      ],
+      "answer": "doctor with thick muttonchops and sideburns",
+      "ok": true
+    },
+    "person:renfield": {
+      "n": 6,
+      "hash": "385551b4472f6ba4",
+      "intended": "RENFIELD",
+      "accepted": [
+        "wild hair",
+        "rags",
+        "disheveled",
+        "patient",
+        "prisoner"
+      ],
+      "answer": "disheveled patient in rags with wild hair",
+      "ok": true
+    },
+    "person:lucy": {
+      "n": 7,
+      "hash": "f541c9ab88dc5f6f",
+      "intended": "LUCY WESTENRA",
+      "accepted": [
+        "curly hair",
+        "pale",
+        "necklace",
+        "young woman"
+      ],
+      "answer": "young woman with curly hair pale and necklace",
+      "ok": true
+    },
+    "person:quincey": {
+      "n": 8,
+      "hash": "a72ae02f6263665c",
+      "intended": "QUINCEY MORRIS",
+      "accepted": [
+        "hat",
+        "cowboy",
+        "stetson",
+        "wide brim"
+      ],
+      "answer": "cowboy wearing broad brim stetson hat",
+      "ok": true
+    }
+  },
+  "named": 8,
+  "total": 8,
+  "slug": "dracula",
+  "at": "2026-11-19T08:03:54.959Z"
+}

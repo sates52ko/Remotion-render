@@ -1,0 +1,23 @@
+{
+  "run": "dracula-judge-5304f4aab5fb",
+  "items": [
+    {
+      "id": "b001",
+      "correctness": "WRONG",
+      "blame": "people",
+      "why": "The guess focuses on Dracula revealing his true nature rather than Jonathan discovering English books and research materials in the castle library."
+    },
+    {
+      "id": "b002",
+      "correctness": "NEUTRAL",
+      "blame": "body",
+      "why": "The guess captures Lucy drifting apart from Mina in Whitby, but misses her specific sleepwalking condition."
+    },
+    {
+      "id": "b003",
+      "correctness": "CORRECT",
+      "blame": "nothing-fits",
+      "why": "The guess accurately identifies the core concept of reverse colonization represented by Dracula in 1897."
+    }
+  ]
+}

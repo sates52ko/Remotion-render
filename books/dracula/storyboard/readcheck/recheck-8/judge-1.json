@@ -1,0 +1,72 @@
+[
+ {
+  "id": "b001",
+  "narration": "They won the day with crucifixes, with sharpened wooden stakes, and with sheer unflinching human Okay, but no, listen.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "reach"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "angry",
+     "body": "reach"
+    }
+   ],
+   "icon": "a shield",
+   "place": "room",
+   "words": "NOT KILLED BY PAPERS"
+  },
+  "viewerGuess": "An older man and a young woman angrily reach to defend themselves, discovering that paperwork alone cannot destroy the threat."
+ },
+ {
+  "id": "b002",
+  "narration": "You think he's lost? He is a stranger in a strange land. His true threat lies in his ancient conquering bloodline,",
+  "onScreen": {
+   "stage": "versus: dracula, atlas",
+   "happens": [
+    "restore dracula",
+    "apart dracula and atlas",
+    "grow dracula",
+    "crown dracula",
+    "label dracula \"CONQUERING WARLORD\""
+   ]
+  },
+  "viewerGuess": "Dracula overpowers his rival and rises as a crowned, conquering warlord dominating the conflict."
+ },
+ {
+  "id": "b003",
+  "narration": "The sterilization is a physical holy act requiring immense bravery. You can't just read an address and banish a But the audit proves",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "REQUIRES IMMENSE BRAVERY"
+  },
+  "viewerGuess": "An enraged older man accuses a smirking, pale aristocrat, emphasizing that confronting him demands immense bravery."
+ },
+ {
+  "id": "b004",
+  "narration": "in the city. The paper trail led them to the layers, but now a box is missing. The doubt is how do they track a monster when the paper trail runs completely Which brings us to exhibit 10. Renfield's ledger.",
+  "onScreen": {
+   "stage": "solo: renfieldledger",
+   "happens": [
+    "grow renfieldledger",
+    "title \"RENFIELD'S LEDGER\""
+   ]
+  },
+  "viewerGuess": "The focus turns to Renfield's ledger, highlighting the crucial records and observations kept inside."
+ }
+]

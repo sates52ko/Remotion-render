@@ -1,0 +1,1849 @@
+[
+ {
+  "id": "b001",
+  "narration": "A heavy parchment property deed slides across a massive scarred oak table.",
+  "onScreen": {
+   "stage": "solo: deed",
+   "happens": [
+    "grow deed"
+   ]
+  },
+  "viewerGuess": "The video opens on a legal deed that grows in size and importance."
+ },
+ {
+  "id": "b002",
+  "narration": "we are in a gloomy ruined castle in Transennsylvania. The shadows in this room are long and they're uh they're flickering violently in the light of a single antique silver lamp that burns without a chimney.",
+  "onScreen": {
+   "happens": [
+    "enter transylvania",
+    "dim transylvania and deed"
+   ]
+  },
+  "viewerGuess": "Transylvania enters beside the deed before both fade into the background."
+ },
+ {
+  "id": "b003",
+  "narration": "Sounds cozy, right? And outside the heavy window, wolves are howling in the deep valleys of the Borgo Pass, So, the parchment slides toward a hand resting on the table.",
+  "onScreen": {
+   "icon": "an icon of deed",
+   "place": "room",
+   "words": "SLIDES TOWARD A HAND"
+  },
+  "viewerGuess": "Inside a room, the deed slides across toward a hand."
+ },
+ {
+  "id": "b004",
+  "narration": "The hand is broad with squat fingers, long, sharply pointed nails, and uh thick dark hair growing in the very center of the palm.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "blank",
+     "body": "reach"
+    }
+   ],
+   "place": "room",
+   "words": "HAIR ON THE PALM"
+  },
+  "viewerGuess": "In the room, a blank-faced pale aristocrat reaches out as the text highlights hair on the palm."
+ },
+ {
+  "id": "b005",
+  "narration": "the hair on the palms always gets me. It's so visceral. And then a pen scratches across the paper. Dracula by Bram Stoker.",
+  "onScreen": {
+   "stage": "versus: dracula, deed",
+   "happens": [
+    "act dracula",
+    "title \"DRACULA BY BRAM STOKER\""
+   ]
+  },
+  "viewerGuess": "Dracula by Bram Stoker is introduced as a confrontation between Dracula and the deed."
+ },
+ {
+  "id": "b006",
+  "narration": "See that signature on that parchment? It fundamentally changes the entire nature of the threat for me. And that is exactly why I'm bringing this case file to you the listener today because I mean we have been misreading this invasion for",
+  "onScreen": {
+   "happens": [
+    "grow deed",
+    "change dracula",
+    "stamp deed \"MISREAD\""
+   ]
+  },
+  "viewerGuess": "As the deed grows and Dracula changes, the deed is stamped as misread."
+ },
+ {
+  "id": "b007",
+  "narration": "over a century. You think so? I really do. You think you know this story. You know you picture the fangs, the bats, the rolling fog, the crosses held up in the moonlight.",
+  "onScreen": {
+   "place": "abstract",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "The narrator begins refuting an opposing idea using an abstract diagram."
+ },
+ {
+  "id": "b008",
+  "narration": "But I am laying out a central thesis here and Let's hear it. Dracula is not beaten by faith or courage. He is beaten by filing.",
+  "onScreen": {
+   "place": "abstract",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "The narrator continues the refutation on the abstract diagram."
+ },
+ {
+  "id": "b009",
+  "narration": "like clerical work. Yes. Paperwork. Yes. Every single clue that kills him is a document somebody kept. I mean, I have read every diary, bill, and telegram in this archive to build this case.",
+  "onScreen": {
+   "place": "abstract",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "The narrator finishes the refutation on the abstract diagram."
+ },
+ {
+  "id": "b010",
+  "narration": "And I I reject that premise from the outset. I really do. I figured you would because the men and women who faced this horror.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "FACED THIS HORROR"
+  },
+  "viewerGuess": "An older broad-shouldered man and a young auburn-haired woman stand worried in a room, recalling how they faced this horror."
+ },
+ {
+  "id": "b011",
+  "narration": "They won the day with crucifixes, with sharpened wooden stakes, and with sheer unflinching human Okay, but no, listen.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "angry",
+     "body": "reach"
+    },
+    {
+     "looks": "a poised determined twenty-six-year-old woman with pinned-up dark auburn hair",
+     "face": "angry",
+     "body": "reach"
+    }
+   ],
+   "icon": "a shield",
+   "place": "room",
+   "words": "CRUCIFIXES AND STAKES"
+  },
+  "viewerGuess": "Angry and reaching forward in the room, the pair turns to crucifixes and stakes for defense."
+ },
+ {
+  "id": "b012",
+  "narration": "Administrative paperwork does not kill a centuries old warlord who commands the children of the night.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a tank / battlefield",
+   "place": "room",
+   "words": "PAPERWORK DOES NOT KILL"
+  },
+  "viewerGuess": "The pale aristocrat smirks in the room as the text declares that paperwork does not kill."
+ },
+ {
+  "id": "b013",
+  "narration": "I will not accept any conclusion until every single piece of evidence is presented on this table and scrutinized. Fair enough. Let's get into it then. Exhibit one, the deed to Carfax.",
+  "onScreen": {
+   "stage": "versus: deed, carfax",
+   "happens": [
+    "title \"THE DEED TO CARFAX\"",
+    "grow deed"
+   ]
+  },
+  "viewerGuess": "The focus narrows to the deed to Carfax, contrasting the deed with Carfax itself."
+ },
+ {
+  "id": "b014",
+  "narration": "All right, let us put the scene right in front of you. It is early May in Transennsylvania. Jonathan Harker, a young English solicitor, sits in that firelit, oppressive room after a well,",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan and transylvania",
+    "label jonathan \"English solicitor\"",
+    "change jonathan"
+   ]
+  },
+  "viewerGuess": "Jonathan, labeled an English solicitor, is placed with Transylvania and undergoes a change."
+ },
+ {
+  "id": "b015",
+  "narration": "just a terrifying journey through the Carpathian Mountains. Right. He's completely isolated. Exactly. He is miles from anything resembling modern civilization.",
+  "onScreen": {
+   "happens": [
+    "change jonathan",
+    "apart jonathan and transylvania",
+    "title \"COMPLETELY ISOLATED\""
+   ]
+  },
+  "viewerGuess": "Jonathan changes further as he is separated from Transylvania, completely isolated."
+ },
+ {
+  "id": "b016",
+  "narration": "And he lays the deed to the Carfax estate on the count's table and the count signs them. He takes the pen and signs them.",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan and deed and dracula",
+    "change jonathan",
+    "act dracula"
+   ]
+  },
+  "viewerGuess": "Dracula acts upon the deed alongside Jonathan, causing Jonathan to change."
+ },
+ {
+  "id": "b017",
+  "narration": "This proves the monster's first act in England is a signature. He doesn't arrive as a conquering warlord reigning fire on the beaches.",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and deed and london",
+    "change dracula",
+    "together dracula and deed",
+    "title \"FIRST ACT IS A SIGNATURE\""
+   ]
+  },
+  "viewerGuess": "Dracula joins with the deed aimed at London, showing that his first act is a signature."
+ },
+ {
+  "id": "b018",
+  "narration": "You know, he enters society through property law. Yeah, but you were looking at the ink and you are completely ignoring the entity holding the pen.",
+  "onScreen": {
+   "happens": [
+    "together dracula and london",
+    "label deed \"Property law\"",
+    "change dracula",
+    "grow dracula"
+   ]
+  },
+  "viewerGuess": "Using property law, Dracula connects directly to London and grows larger."
+ },
+ {
+  "id": "b019",
+  "narration": "How so? The signature is just a meaningless formality to him. We are talking about a monster of prodigious physical strength. Oh, sure.",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and deed",
+    "dim deed",
+    "grow dracula",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "As the deed fades into the background, Dracula looms larger and changes."
+ },
+ {
+  "id": "b020",
+  "narration": "He's strong. Strong. This is a creature who Harker later watches climb face down the sheer outer walls of his castle. Oh, that scene is wild, right?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "reach"
+    },
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "afraid",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "forest",
+   "words": "CLIMB THE OUTER WALLS"
+  },
+  "viewerGuess": "Facing the angry pale aristocrat, the frightened young gentleman cowers forward as the words mention climbing the outer walls."
+ },
+ {
+  "id": "b021",
+  "narration": "Crawling over an abyss of a thousand ft. His cloak spreading out around him like great black wings. A legal contract means literally nothing to a creature of supernatural terror.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "reach"
+    },
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "afraid",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "an icon of deed",
+   "place": "forest",
+   "words": "CONTRACT MEANS NOTHING"
+  },
+  "viewerGuess": "The smirking aristocrat towers over the cowering gentleman beside a deed icon, proving the contract means nothing."
+ },
+ {
+  "id": "b022",
+  "narration": "You think it's just a show? Yeah, he signs it merely to appease the clerk sitting across from him. It's a pantoime of human commerce.",
+  "onScreen": {
+   "stage": "row: dracula, deed, jonathan",
+   "happens": [
+    "change dracula",
+    "change jonathan",
+    "stamp deed \"JUST A SHOW\""
+   ]
+  },
+  "viewerGuess": "With Dracula, the deed, and Jonathan lined up together, the deed is stamped as just a show."
+ },
+ {
+  "id": "b023",
+  "narration": "Okay, but let me bring in Harker's own notes on the Carfax estate to settle this because Harker describes the physical property in his journal in immense detail. The layout of the house, you mean?",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan and carfax",
+    "change jonathan holds notes",
+    "label carfax \"Physical property layout\""
+   ]
+  },
+  "viewerGuess": "Jonathan holds notes as he examines the physical property layout of Carfax."
+ },
+ {
+  "id": "b024",
+  "narration": "Yeah. It contains 20 acres completely surrounded by a high, heavy, ancient stone wall Exactly.",
+  "onScreen": {
+   "happens": [
+    "arrange carfax",
+    "label carfax \"20 acres\"",
+    "world carfax",
+    "label carfax \"Ancient stone wall\""
+   ]
+  },
+  "viewerGuess": "Carfax is laid out as a twenty-acre estate enclosed by an ancient stone wall."
+ },
+ {
+  "id": "b025",
+  "narration": "Inside it's gloomy with massive trees. There is a deep dark pond fed by natural springs and an old ruined chapel which is very important crucial. The count requires this exact",
+  "onScreen": {
+   "happens": [
+    "dim carfax",
+    "label carfax \"Old ruined chapel\"",
+    "grow carfax"
+   ]
+  },
+  "viewerGuess": "Carfax darkens and expands around the feature of an old ruined chapel."
+ },
+ {
+  "id": "b026",
+  "narration": "physical geography. He needs a massive enclosed fortified space to hide his 50 boxes of Transian Earth. Well, yeah, he needs a place to sleep during the day. So, without the legal contract securing",
+  "onScreen": {
+   "happens": [
+    "restore carfax",
+    "enter dracula",
+    "act dracula",
+    "enter earthbox",
+    "label earthbox \"50 earth boxes\""
+   ]
+  },
+  "viewerGuess": "With Carfax restored, Dracula enters and acts alongside fifty earth boxes."
+ },
+ {
+  "id": "b027",
+  "narration": "this tactical beach head, his entire invasion fails before he even boards a Okay, I'll give you that. The physical geography of the estate is certainly paramount to his survival.",
+  "onScreen": {
+   "happens": [
+    "arrange deed and carfax and earthbox",
+    "cross deed",
+    "dim carfax and earthbox",
+    "restore carfax and earthbox"
+   ]
+  },
+  "viewerGuess": "The deed is crossed out while Carfax and the earth boxes remain in focus."
+ },
+ {
+  "id": "b028",
+  "narration": "He secures his physical foothold through the proper administrative channels because it is He needs a fortress and he buys one.",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and carfax",
+    "change dracula holds deed",
+    "coins dracula",
+    "stamp carfax \"SOLD\""
+   ]
+  },
+  "viewerGuess": "Holding the deed and paying coins, Dracula buys Carfax and stamps it sold."
+ },
+ {
+  "id": "b029",
+  "narration": "So, we agree the invasion starts on paper and the tactical beach head is secured legally.",
+  "onScreen": {
+   "happens": [
+    "arrange deed and carfax and london",
+    "grow deed",
+    "stamp carfax \"SECURED\"",
+    "title \"SECURED ON PAPER\""
+   ]
+  },
+  "viewerGuess": "With the deed growing alongside London, Carfax is stamped secured on paper."
+ },
+ {
+  "id": "b030",
+  "narration": "But a lingering doubt remains. Can an airtight lease agreement actually stop a creature who controls the howling wolves of the mountains with a single wave of his hand?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "reach"
+    }
+   ],
+   "icon": "an icon of deed",
+   "place": "forest",
+   "words": "CAN A LEASE STOP HIM"
+  },
+  "viewerGuess": "As the angry pale aristocrat reaches out beside the deed icon, the text asks whether a lease can stop him."
+ },
+ {
+  "id": "b031",
+  "narration": "I mean, come on. Oh, let's look at what he does next. Exhibit Exhibit two, the atlas with three rings. Ah, the library scene.",
+  "onScreen": {
+   "stage": "solo: atlas",
+   "happens": [
+    "title \"THE ATLAS WITH THREE RINGS\"",
+    "grow atlas"
+   ]
+  },
+  "viewerGuess": "The scene introduces an atlas with three rings that grows in prominence."
+ },
+ {
+  "id": "b032",
+  "narration": "Yes. We are inside the count's library in the castle. Harker wanders into this massive dusty room and finds it lined from floor to ceiling with books mostly on England.",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan and transylvania",
+    "title \"THE CASTLE LIBRARY\"",
+    "change jonathan"
+   ]
+  },
+  "viewerGuess": "In the castle library in Transylvania, Jonathan encounters something that changes him."
+ },
+ {
+  "id": "b033",
+  "narration": "Right. Yeah. English history, geography, political economy. And on the center table, Harker finds a large English atlas lying open just sitting there.",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan and atlas",
+    "act jonathan",
+    "grow atlas"
+   ]
+  },
+  "viewerGuess": "Jonathan interacts with the atlas, causing it to grow in importance."
+ },
+ {
+  "id": "b034",
+  "narration": "Just sitting there. and three rings are marked on it in colored pencil. Let me guess, London. London on the east side, exit in the southwest, and Whitby on the Yorkshire Right.",
+  "onScreen": {
+   "happens": [
+    "arrange atlas and london and whitby",
+    "grow atlas",
+    "label london \"East side\"",
+    "label whitby \"Yorkshire\""
+   ]
+  },
+  "viewerGuess": "The atlas expands to link London's east side with Whitby in Yorkshire."
+ },
+ {
+  "id": "b035",
+  "narration": "Key locations. And beside the atlas sit a Bradshaw's railway guide and the law list.",
+  "onScreen": {
+   "happens": [
+    "arrange atlas and timetable",
+    "together atlas and timetable",
+    "grow timetable"
+   ]
+  },
+  "viewerGuess": "The atlas is paired with a timetable that grows alongside it."
+ },
+ {
+  "id": "b036",
+  "narration": "See, I know where you're going with Well, it proves Dracula is a meticulous clerk of his own invasion. A clerk? Yes.",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and atlas and timetable",
+    "act dracula",
+    "label dracula \"Meticulous clerk\""
+   ]
+  },
+  "viewerGuess": "Working over the atlas and timetable, Dracula acts like a meticulous clerk."
+ },
+ {
+  "id": "b037",
+  "narration": "He is studying shipping routes, railway timets, legal directories. He is weaponizing modern British data against the empire itself.",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and timetable and london",
+    "act dracula",
+    "collide dracula and london"
+   ]
+  },
+  "viewerGuess": "Using the timetable, Dracula moves directly to collide with London."
+ },
+ {
+  "id": "b038",
+  "narration": "That's a stretch. Is it? He is plotting a logistical network calculating distances and transit times just like a Victorian",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and atlas and timetable and london",
+    "change dracula",
+    "title \"A LOGISTICAL NETWORK\"",
+    "label atlas \"Calculating distances\"",
+    "label timetable \"Transit times\""
+   ]
+  },
+  "viewerGuess": "Combining distances from the atlas and transit times from the timetable, Dracula builds a logistical network into London."
+ },
+ {
+  "id": "b039",
+  "narration": "I challenge that interpretation Consider who we are dealing with here.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "CHALLENGE THAT INTERPRETATION"
+  },
+  "viewerGuess": "Showing the angry pale aristocrat idle in a room, the text urges viewers to challenge that interpretation."
+ },
+ {
+  "id": "b040",
+  "narration": "This is a centuries old secly warlord who fought the Turks across the Danube.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "icon": "a tank / battlefield",
+   "place": "room",
+   "words": "CENTURIES OLD WARLORD"
+  },
+  "viewerGuess": "The angry pale aristocrat is reframed as a centuries-old warlord."
+ },
+ {
+  "id": "b041",
+  "narration": "A man who boasts that the blood of Aillaa flows in his veins which is terrifying. Sure. He relies on a physical map and a directory because he is completely out of his depth in the 19th century.",
+  "onScreen": {
+   "stage": "versus: dracula, atlas",
+   "happens": [
+    "grow dracula",
+    "act dracula",
+    "dim dracula"
+   ]
+  },
+  "viewerGuess": "Set against the atlas, Dracula grows and acts before dimming."
+ },
+ {
+  "id": "b042",
+  "narration": "You think he's lost? He is a stranger in a strange land. His true threat lies in his ancient conquering bloodline,",
+  "onScreen": {
+   "happens": [
+    "restore dracula",
+    "apart dracula and atlas",
+    "grow dracula",
+    "crown dracula"
+   ]
+  },
+  "viewerGuess": "Dracula returns to full strength, separates from the atlas, grows larger, and wears a crown."
+ },
+ {
+  "id": "b043",
+  "narration": "his brute force and his supernatural abilities, not his reading habits. So the books are just the books are a crutch for a relic of the dark ages. That's all. Okay, but listen to the count's own speech to Harker in that very library.",
+  "onScreen": {
+   "happens": [
+    "cross atlas",
+    "dim atlas",
+    "uncrown dracula",
+    "arrange dracula and jonathan",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "The atlas is crossed out and dimmed as Dracula loses his crown and shifts beside Jonathan."
+ },
+ {
+  "id": "b044",
+  "narration": "Remind me. He states explicitly that he wants to know London's crowded streets so he can be master still. Well, yeah, he wants to rule.",
+  "onScreen": {
+   "happens": [
+    "arrange dracula and london and jonathan",
+    "change dracula",
+    "crown dracula",
+    "grow dracula"
+   ]
+  },
+  "viewerGuess": "With London and Jonathan present, Dracula changes back into a crowned and growing figure."
+ },
+ {
+  "id": "b045",
+  "narration": "But he says to Harker, I am content if I am like the rest. So that no man stops if he see me or pause in his speaking if he hear my words to say ha a stranger.",
+  "onScreen": {
+   "happens": [
+    "change dracula",
+    "uncrown dracula",
+    "together dracula and london"
+   ]
+  },
+  "viewerGuess": "Dracula changes, sets aside his crown, and joins together with London."
+ },
+ {
+  "id": "b046",
+  "narration": "He is actively learning the English intonation, the slang, the mechanics of their society to blend in completely.",
+  "onScreen": {
+   "happens": [
+    "exit jonathan",
+    "change dracula",
+    "together dracula and london"
+   ]
+  },
+  "viewerGuess": "Once Jonathan exits, Dracula transforms and merges directly with London."
+ },
+ {
+  "id": "b047",
+  "narration": "The data is his camouflage. He is absorbing the empire's information to become invisible within it. Okay. The intention is clear enough.",
+  "onScreen": {
+   "happens": [
+    "enter atlas",
+    "take dracula the atlas",
+    "cover dracula"
+   ]
+  },
+  "viewerGuess": "Dracula takes the atlas back in hand and covers himself behind it."
+ },
+ {
+  "id": "b048",
+  "narration": "I suppose he's exploiting modern information to mask his ancient evil.",
+  "onScreen": {
+   "happens": [
+    "grow dracula",
+    "change dracula holds atlas",
+    "label dracula \"Masked ancient evil\""
+   ]
+  },
+  "viewerGuess": "Holding the atlas, Dracula grows larger under the label of a masked ancient evil."
+ },
+ {
+  "id": "b049",
+  "narration": "He wraps himself in the trappings of a gentleman scholar to move unseen among the populace. So the paperwork secures his arrival and he is using modern data to hide his ancient nature.",
+  "onScreen": {
+   "happens": [
+    "uncover dracula",
+    "change dracula",
+    "enter deed",
+    "stamp deed \"SECURED\"",
+    "cover dracula"
+   ]
+  },
+  "viewerGuess": "Briefly uncovered, Dracula uses a deed stamped secured before covering himself again."
+ },
+ {
+  "id": "b050",
+  "narration": "But this leads us to the next terrible question, which is, what happens when the physical reality of this creature defies all logic and cannot be recorded in any normal way?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "abstract",
+   "words": "DEFYING ALL LOGIC"
+  },
+  "viewerGuess": "In an abstract space, the pale aristocrat smirks, defying all logic."
+ },
+ {
+  "id": "b051",
+  "narration": "Oh, that brings us to exhibit 3, the shaving mirror. it is the morning of May 8th.",
+  "onScreen": {
+   "stage": "solo: mirror",
+   "happens": [
+    "focus mirror",
+    "date \"MAY 8 · MORNING\""
+   ]
+  },
+  "viewerGuess": "On the morning of May 8, the camera focuses tightly on a mirror."
+ },
+ {
+  "id": "b052",
+  "narration": "Parker is standing in his room, shaving by the light of a small glass he hung by the heavy window. A very mundane morning task.",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan and mirror",
+    "change jonathan"
+   ]
+  },
+  "viewerGuess": "Jonathan stands beside the mirror and reacts to something."
+ },
+ {
+  "id": "b053",
+  "narration": "Totally normal. Then he hears a voice say, \"Good morning.\" feels a hand on his shoulder and looks into the glass. And this is where it goes wrong. The glass shows the entire room behind him.",
+  "onScreen": {
+   "happens": [
+    "enter dracula",
+    "together dracula and jonathan",
+    "shake jonathan",
+    "focus mirror"
+   ]
+  },
+  "viewerGuess": "Dracula enters close beside Jonathan, startling him as focus snaps to the mirror."
+ },
+ {
+  "id": "b054",
+  "narration": "The fire burning in the great, the heavy furniture, but no count. No reflection at all. None. Harker cuts himself in his shock.",
+  "onScreen": {
+   "happens": [
+    "wide",
+    "cover dracula",
+    "label mirror \"No reflection\"",
+    "burst jonathan",
+    "shake jonathan"
+   ]
+  },
+  "viewerGuess": "In a wide view, Dracula casts no reflection in the mirror, sending Jonathan into a shocked burst."
+ },
+ {
+  "id": "b055",
+  "narration": "The blood trickles down his chin. And the count reacts to that, right? The count sees the blood and his eyes just blaze with a demoniac fury.",
+  "onScreen": {
+   "happens": [
+    "uncover dracula",
+    "grow dracula",
+    "change dracula"
+   ]
+  },
+  "viewerGuess": "Dracula is uncovered in full view, growing larger and shifting."
+ },
+ {
+  "id": "b056",
+  "narration": "He lunges for Harker's throat with terrifying speed. His hands clawing like an animal. But he doesn't get it. No, because his hand touches the string of beads holding Harker's crucifix. The count recoils",
+  "onScreen": {
+   "happens": [
+    "change dracula",
+    "change jonathan",
+    "burst jonathan",
+    "apart dracula and jonathan"
+   ]
+  },
+  "viewerGuess": "Both men react sharply before Jonathan bursts back and puts space between them."
+ },
+ {
+  "id": "b057",
+  "narration": "instantly, his fury vanishing. He grabs the mirror, declares it a foul bobble of man's vanity, and throws it out the heavy window, shattering it on the stones a thousand ft below. See, the mirror isn't the focal point of",
+  "onScreen": {
+   "happens": [
+    "change jonathan",
+    "take dracula the mirror",
+    "change dracula holds none",
+    "title \"SHATTERED ON THE STONES\""
+   ]
+  },
+  "viewerGuess": "Dracula takes the mirror and drops it, leaving it shattered on the stones."
+ },
+ {
+  "id": "b058",
+  "narration": "that encounter at all. How can you say that? Because the scene explicitly proves the physical, undeniable power of the crucifix.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "stop"
+    }
+   ],
+   "icon": "a shield",
+   "place": "bedroom",
+   "words": "POWER OF THE CRUCIFIX"
+  },
+  "viewerGuess": "In the bedroom, the frightened gentleman is shielded from the angry aristocrat by the power of the crucifix."
+ },
+ {
+  "id": "b059",
+  "narration": "Faith and a tangible holy object stopped a lethal attack in its tracks. Well, yes, it stopped the attack.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "surprised",
+     "body": "idle"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a shield",
+   "place": "bedroom",
+   "words": "STOPPED A LETHAL ATTACK"
+  },
+  "viewerGuess": "The gentleman watches in surprise in the bedroom as the hunching aristocrat's lethal attack is stopped."
+ },
+ {
+  "id": "b060",
+  "narration": "A journal entry did not save Jonathan Harker's throat. A symbol of divine protection did. But look at what Harker does next, He freaks out because Dracula leaves no physical reflection,",
+  "onScreen": {
+   "stage": "versus: jonathan, dracula",
+   "happens": [
+    "title \"NOT A JOURNAL ENTRY\"",
+    "shake jonathan",
+    "enter mirror",
+    "cover dracula"
+   ]
+  },
+  "viewerGuess": "As Jonathan shakes beside the mirror while Dracula stays covered, the title says this is not a journal entry."
+ },
+ {
+  "id": "b061",
+  "narration": "no footprint, no shadow. Harker is forced to write this impossible event down that very night in his journal to process it.",
+  "onScreen": {
+   "happens": [
+    "dim dracula",
+    "act jonathan"
+   ]
+  },
+  "viewerGuess": "With Dracula dimmed out, Jonathan takes action."
+ },
+ {
+  "id": "b062",
+  "narration": "No, more than that. He realizes he is trapped in a castle with a phantom. The written diary must literally become the mirror to prove the monster exists.",
+  "onScreen": {
+   "happens": [
+    "change jonathan",
+    "label mirror \"Diary as mirror\"",
+    "restore dracula",
+    "uncover dracula"
+   ]
+  },
+  "viewerGuess": "Using the diary as a mirror, Jonathan brings Dracula back into uncovered view."
+ },
+ {
+  "id": "b063",
+  "narration": "Harker is trying to anchor himself to reality using ink. I mean, the diary is a coping mechanism for a terrified young man.",
+  "onScreen": {
+   "happens": [
+    "arrange jonathan",
+    "act jonathan",
+    "shake jonathan"
+   ]
+  },
+  "viewerGuess": "Alone, Jonathan acts frantically while visibly shaken."
+ },
+ {
+  "id": "b064",
+  "narration": "The crucifix is the weapon that actually saved his But listen to Harker's desperate journal entry written immediately after this What does he write?",
+  "onScreen": {
+   "happens": [
+    "change jonathan holds notes",
+    "act jonathan"
+   ]
+  },
+  "viewerGuess": "Jonathan takes hold of his notes and gets to work."
+ },
+ {
+  "id": "b065",
+  "narration": "He realizes he must rely on quote bare meager facts verified by books and figures to keep his sanity. Books and figures.",
+  "onScreen": {
+   "happens": [
+    "change jonathan holds book",
+    "label jonathan \"Bare meager facts\""
+   ]
+  },
+  "viewerGuess": "Now holding a book, Jonathan confines himself to the bare meager facts."
+ },
+ {
+  "id": "b066",
+  "narration": "The horror is so vast, so inexplicable that he has to reduce it to data to survive it. He needs a written record to prove to himself that he is not losing his mind because his",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tidy English gentleman in his late twenties with neat sandy-brown parted hair",
+     "face": "afraid",
+     "body": "hold",
+     "holds": "notes"
+    }
+   ],
+   "icon": "sheets of written notes",
+   "place": "library",
+   "words": "REDUCE IT TO DATA"
+  },
+  "viewerGuess": "In a library, the frightened gentleman clutches sheets of notes to reduce the ordeal to data."
+ },
+ {
+  "id": "b067",
+  "narration": "own eyes cannot be Okay, we can observe that the lack of a reflection forces the victims to create a meticulous paper trail just to prove to themselves they aren't insane.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: NO REFLECTION / PAPER TRAIL"
+  },
+  "viewerGuess": "The diagram links having no reflection directly to a paper trail."
+ },
+ {
+  "id": "b068",
+  "narration": "Right? The written word replaces the physical evidence of his presence. Yes, a diary might save your sanity when you are locked in a castle bedroom.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: NO REFLECTION / PAPER TRAIL / SAVES SANITY"
+  },
+  "viewerGuess": "The completed chain shows that turning an unseeable threat into a paper trail saves sanity."
+ },
+ {
+  "id": "b069",
+  "narration": "But the doubt arises. Will a log book save a crew trapped on the open sea? That is exhibit 4. The demeanor's log. A brutal chapter.",
+  "onScreen": {
+   "stage": "versus: demeter, demeterlog",
+   "happens": [
+    "shake demeter",
+    "grow demeterlog"
+   ]
+  },
+  "viewerGuess": "As the Demeter shakes, its logbook grows in importance."
+ },
+ {
+  "id": "b070",
+  "narration": "So brutal. It is August in the seaside town of Whitby. A sudden violent storm brings a derelict Russian schooner, the demeanor, tearing into the harbor, just completely",
+  "onScreen": {
+   "happens": [
+    "date \"AUGUST · WHITBY\"",
+    "arrange demeter and whitby",
+    "shake demeter",
+    "together demeter and whitby"
+   ]
+  },
+  "viewerGuess": "In August, the shaking Demeter reaches Whitby."
+ },
+ {
+  "id": "b071",
+  "narration": "out of control. A Coast Guard boards her and finds a dead captain lashed to the wheel. Lashed to the wheel.",
+  "onScreen": {
+   "happens": [
+    "shake demeter",
+    "dim demeter",
+    "label demeter \"Dead captain at wheel\""
+   ]
+  },
+  "viewerGuess": "The Demeter shudders and dims with a dead captain at its wheel."
+ },
+ {
+  "id": "b072",
+  "narration": "The man's hands are tied one over the other to the spokes, the cords cutting the flesh to the bone. And in his pocket is a carefully cked bottle containing a roll of paper.",
+  "onScreen": {
+   "happens": [
+    "burst demeter",
+    "enter demeterlog",
+    "focus demeterlog"
+   ]
+  },
+  "viewerGuess": "After the Demeter's dramatic burst onto shore, its logbook enters and takes focus."
+ },
+ {
+  "id": "b073",
+  "narration": "It is the ship's log. the only thing left. This log proves that when physical survival fails completely,",
+  "onScreen": {
+   "happens": [
+    "wide",
+    "grow demeterlog",
+    "cross demeter"
+   ]
+  },
+  "viewerGuess": "In a wide view, the logbook grows larger while the ship is crossed out."
+ },
+ {
+  "id": "b074",
+  "narration": "the written record is the only thing that lives on. The log meticulously documents the exact cargo that brought the doom upon the ship.",
+  "onScreen": {
+   "happens": [
+    "arrange demeterlog and demeter",
+    "enter earthbox",
+    "collide earthbox and demeter"
+   ]
+  },
+  "viewerGuess": "Beside the logbook and ship, an earth box enters and collides with the Demeter."
+ },
+ {
+  "id": "b075",
+  "narration": "50 boxes of earth. It chronicles the disaster. Okay, but look at the captain's hands. What about them? He died with a crucifix tied between his inner hand and the wood of the",
+  "onScreen": {
+   "happens": [
+    "label earthbox \"50 boxes of earth\"",
+    "focus demeterlog",
+    "wide",
+    "dim demeter"
+   ]
+  },
+  "viewerGuess": "With fifty boxes of earth aboard the dimming ship, focus returns to the logbook."
+ },
+ {
+  "id": "b076",
+  "narration": "wheel. I know, but it was a martyr's courage, a holy stand against the devil himself, not a log book that defined his final moments.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "angry",
+     "body": "stop"
+    }
+   ],
+   "icon": "a shield",
+   "place": "shore",
+   "words": "A HOLY STAND"
+  },
+  "viewerGuess": "On the shore, the angry pale aristocrat halts before a shield representing a holy stand."
+ },
+ {
+  "id": "b077",
+  "narration": "He bowed himself to his duty and his god. He faced down a demon in a raging storm. Yeah. The board of trade inspector reads the log and it tracks the systematic, horrifying disappearance of the crew, man by man, date by date.",
+  "onScreen": {
+   "stage": "versus: dracula, demeter",
+   "happens": [
+    "change dracula",
+    "shake demeter",
+    "arrange demeterlog",
+    "focus demeterlog",
+    "label demeterlog \"Disappearing crew\""
+   ]
+  },
+  "viewerGuess": "Pitted against Dracula, the Demeter shakes while its logbook records a disappearing crew."
+ },
+ {
+  "id": "b078",
+  "narration": "A list of the dead. The record survives the men. But let me bring in the second scene from this The climax of the log. Yes, it is August 3rd on the ship.",
+  "onScreen": {
+   "happens": [
+    "wide",
+    "grow demeterlog",
+    "date \"AUGUST 3 · DEMETER\"",
+    "enter demeter"
+   ]
+  },
+  "viewerGuess": "On August 3 aboard the Demeter, the logbook grows larger as the ship continues."
+ },
+ {
+  "id": "b079",
+  "narration": "The fog is incredibly thick, clinging to the masts. The captain goes to relieve the man at the wheel, but no one is there.",
+  "onScreen": {
+   "happens": [
+    "cover demeter",
+    "exit demeterlog",
+    "title \"NO ONE AT THE WHEEL\""
+   ]
+  },
+  "viewerGuess": "The ship is covered and the logbook exits, leaving no one at the wheel."
+ },
+ {
+  "id": "b080",
+  "narration": "Just gone. He shots for the mate. The mate rushes up on deck, wildeyed and haggarded, stark raving mad. He's lost it. He whispers to the captain that it is empty as the air. He says he crept behind it",
+  "onScreen": {
+   "icon": "a storm cloud with lightning",
+   "place": "shore",
+   "words": "EMPTY AS THE AIR"
+  },
+  "viewerGuess": "Under a storm cloud with lightning by the shore, something proves as empty as the air."
+ },
+ {
+  "id": "b081",
+  "narration": "in the night and drove his knife into it, but the blade went through empty space. A physical attack that completely fails, right? And then the mate takes his knife, drives it savagely into the air to demonstrate, and then goes down to the hold to unscrew the wooden boxes,",
+  "onScreen": {
+   "icon": "an icon of earthbox",
+   "place": "shore",
+   "words": "BLADE THROUGH EMPTY SPACE"
+  },
+  "viewerGuess": "Beside the earth box on the shore, a blade passes through empty space."
+ },
+ {
+  "id": "b082",
+  "narration": "looking for it. Finally, in absolute despair, realizing physical force is useless, the mate screams, springs onto the ball work, and throws himself into the sea.",
+  "onScreen": {
+   "icon": "water waves",
+   "place": "shore",
+   "words": "THROWS HIMSELF INTO THE SEA"
+  },
+  "viewerGuess": "Looking out at waves on the shore, someone throws himself into the sea."
+ },
+ {
+  "id": "b083",
+  "narration": "So grim. So the mate dried physical force. He used a knife, and it went right through the monster. The captain watched this happen and realized violence was entirely useless against this creature.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: PHYSICAL FORCE / EMPTY SPACE / VIOLENCE USELESS"
+  },
+  "viewerGuess": "The chain concludes that physical force meets empty space, making violence useless."
+ },
+ {
+  "id": "b084",
+  "narration": "The only way to transmit the warning, the only action left to a rational man facing an immortal phantom was documentation. He put the log in the bottle. Look, the log didn't save a single soul on board that ship.",
+  "onScreen": {
+   "stage": "versus: demeterlog, demeter",
+   "happens": [
+    "grow demeterlog",
+    "label demeterlog \"Sealed in bottle\"",
+    "cross demeterlog and demeter"
+   ]
+  },
+  "viewerGuess": "The logbook, sealed in a bottle, grows against the ship before both are crossed out."
+ },
+ {
+  "id": "b085",
+  "narration": "It warned people, did it? It just served as a coroner's report for a ghost ship. It recorded their deaths and did absolutely nothing to prevent them.",
+  "onScreen": {
+   "happens": [
+    "stamp demeterlog \"POST-MORTEM\"",
+    "dim demeter",
+    "cross demeterlog"
+   ]
+  },
+  "viewerGuess": "As the ship fades, the logbook is stamped post-mortem and crossed out."
+ },
+ {
+  "id": "b086",
+  "narration": "The paper offered no protection whatsoever. But the settling evidence is what happens on land. What do you mean?",
+  "onScreen": {
+   "happens": [
+    "dim demeterlog",
+    "arrange demeter and whitby"
+   ]
+  },
+  "viewerGuess": "With the logbook dimmed, the ship is positioned next to Whitby."
+ },
+ {
+  "id": "b087",
+  "narration": "The Whippby solicitor, Mr. Billington legally receives those 50 boxes of mold the very next day because of the paperwork. He has the consignment papers.",
+  "onScreen": {
+   "happens": [
+    "arrange demeter and earthbox and whitby",
+    "stamp earthbox \"LEGAL\"",
+    "grow earthbox",
+    "label whitby \"Consignment papers\""
+   ]
+  },
+  "viewerGuess": "In Whitby, the earth boxes grow and are stamped legal under consignment papers."
+ },
+ {
+  "id": "b088",
+  "narration": "The legal consignment papers triumph over the tragedy of the ghost ship. The cargo is delivered because the bureaucracy is in order regardless of the dead men floating in the harbor.",
+  "onScreen": {
+   "happens": [
+    "dim demeter",
+    "together earthbox and whitby",
+    "cross demeter"
+   ]
+  },
+  "viewerGuess": "While the ship dims and is crossed out, the earth boxes arrive together in Whitby."
+ },
+ {
+  "id": "b089",
+  "narration": "Okay. The ship brought death via completely legal documented cargo. The log was the sole survivor of the voyage while the crew perished despite their physical struggles. So, we see the ship brought death,",
+  "onScreen": {
+   "stage": "row: demeter, demeterlog, receipts",
+   "happens": [
+    "stamp demeter \"DEATH\"",
+    "grow demeterlog",
+    "dim demeter"
+   ]
+  },
+  "viewerGuess": "Lined up with the logbook and receipts, the Demeter is stamped with death and fades as the logbook grows."
+ },
+ {
+  "id": "b090",
+  "narration": "completely shielded by legitimate cargo manifests. But how can they measure the spread of this disease once it breaches the shore and takes root in London? Which brings us to exhibit 5,",
+  "onScreen": {
+   "happens": [
+    "together demeter and receipts",
+    "arrange demeter and london",
+    "burst demeter and london"
+   ]
+  },
+  "viewerGuess": "Paired with receipts, the Demeter's arrival connects straight to London in an explosive burst."
+ },
+ {
+  "id": "b091",
+  "narration": "Lucy's chart. Now, we get to the medical side of things, right? It is September.",
+  "onScreen": {
+   "stage": "versus: lucy, lucychart",
+   "happens": [
+    "grow lucychart",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "As Lucy's medical chart grows, Lucy herself changes."
+ },
+ {
+  "id": "b092",
+  "narration": "We are inside Lucy Westenra's bedroom in London. The windows are closed against the night air.",
+  "onScreen": {
+   "stage": "versus: lucy, london",
+   "happens": [
+    "change lucy",
+    "cover london"
+   ]
+  },
+  "viewerGuess": "Lucy changes further while London becomes covered."
+ },
+ {
+  "id": "b093",
+  "narration": "Dr. Van Helsing and Dr. Seward perform a series of ghastly experimental blood transfusions. Highly experimental for the time.",
+  "onScreen": {
+   "stage": "row: helsing, seward, lucy",
+   "happens": [
+    "change helsing",
+    "change seward",
+    "change lucy",
+    "title \"Experimental Blood Transfusions\""
+   ]
+  },
+  "viewerGuess": "Helsing, Seward, and Lucy all react as experimental blood transfusions begin."
+ },
+ {
+  "id": "b094",
+  "narration": "Very. Over the course of several days, the blood of four strong men, Arthur Homewood, John Seward, Quincy Morris, and Van Helsing himself is pumped directly into one young woman's arm.",
+  "onScreen": {
+   "stage": "flow: seward, quincey, helsing, lucy",
+   "happens": [
+    "change seward",
+    "change quincey",
+    "change helsing",
+    "change lucy",
+    "label lucy \"Four men's blood\""
+   ]
+  },
+  "viewerGuess": "Through Seward, Quincey, and Helsing, Lucy receives what is labeled four men's blood."
+ },
+ {
+  "id": "b095",
+  "narration": "And Seard is keeping track of all of Yes. Dr. Seard records it all on his phonograph diary, which operates as a medical chart.",
+  "onScreen": {
+   "stage": "versus: seward, lucychart",
+   "happens": [
+    "act seward",
+    "title \"Records on Medical Chart\""
+   ]
+  },
+  "viewerGuess": "Seward works over the records on Lucy's medical chart."
+ },
+ {
+  "id": "b096",
+  "narration": "He notes every physical Like what? her chalky power, her sturdous breathing,",
+  "onScreen": {
+   "happens": [
+    "enter lucy",
+    "change seward holds notes",
+    "change lucy",
+    "label lucychart \"Physical symptoms\""
+   ]
+  },
+  "viewerGuess": "As Lucy enters and shifts, Seward holds notes to log her physical symptoms on the chart."
+ },
+ {
+  "id": "b097",
+  "narration": "the white edges of the twin wounds on her neck. He meticulously measures the theft of her life cylinder by cylinder. But the medical charts are utterly blind to the reality of this situation.",
+  "onScreen": {
+   "happens": [
+    "act seward",
+    "dim lucy",
+    "cover lucychart"
+   ]
+  },
+  "viewerGuess": "Seward acts while Lucy dims and her medical chart is covered over."
+ },
+ {
+  "id": "b098",
+  "narration": "Blind. They're recording everything. They are treating a spiritual curse, a demonic attack, as mere anemia. Science is just taking notes while she dies. They are weighing and measuring the",
+  "onScreen": {
+   "happens": [
+    "cover seward",
+    "stamp lucychart \"MERE ANEMIA\"",
+    "change seward holds notes",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "Under cover of his notes, Seward stamps Lucy's chart as mere anemia while she keeps changing."
+ },
+ {
+  "id": "b099",
+  "narration": "symptoms of a supernatural predator using Victorian instruments. But the data is exactly what reveals the Listen to Van Helsing's frantic realization.",
+  "onScreen": {
+   "stage": "versus: helsing, lucychart",
+   "happens": [
+    "uncover lucychart",
+    "grow lucychart",
+    "act helsing"
+   ]
+  },
+  "viewerGuess": "Helsing uncovers the medical chart, lets it grow, and steps in to act."
+ },
+ {
+  "id": "b100",
+  "narration": "He looks at the pale girl and notes that four men's blood went into her veins. And he says her whole body wouldn't hold it",
+  "onScreen": {
+   "stage": "versus: helsing, lucy",
+   "happens": [
+    "change lucy",
+    "act helsing",
+    "label lucy \"Four men's blood\"",
+    "shake lucy"
+   ]
+  },
+  "viewerGuess": "Helsing attends to a shaking Lucy, who holds four men's blood."
+ },
+ {
+  "id": "b101",
+  "narration": "because it's too much liquid, right? And he asks the crucial question, what took it out? The data itself proves a supernatural drain is occurring. The mathematics of the blood loss",
+  "onScreen": {
+   "happens": [
+    "title \"What Took It Out?\"",
+    "enter lucychart",
+    "dim lucy",
+    "act helsing"
+   ]
+  },
+  "viewerGuess": "As Lucy fades beside her medical chart, Helsing asks what took the blood out."
+ },
+ {
+  "id": "b102",
+  "narration": "prove a monster is feeding on her night after I mean, medical science impeccably documented a failing battle.",
+  "onScreen": {
+   "stage": "versus: dracula, lucy",
+   "happens": [
+    "act dracula",
+    "dim lucy",
+    "title \"A Failing Battle\""
+   ]
+  },
+  "viewerGuess": "Dracula acts directly against a dimming Lucy in a failing battle."
+ },
+ {
+  "id": "b103",
+  "narration": "They recorded the immense loss of blood, but the charts couldn't cure her or stop the attacks from happening. The paper didn't heal her neck.",
+  "onScreen": {
+   "stage": "versus: lucychart, lucy",
+   "happens": [
+    "cross lucychart and lucy",
+    "stamp lucychart \"NO CURE\"",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "Both Lucy and her chart are crossed out and stamped no cure as she changes."
+ },
+ {
+  "id": "b104",
+  "narration": "They measured the failure perfectly, proving the supernatural drain, which leaves us with a huge doubt.",
+  "onScreen": {
+   "happens": [
+    "dim lucychart",
+    "change lucy",
+    "title \"A Huge Doubt\""
+   ]
+  },
+  "viewerGuess": "With the medical chart dimmed and Lucy changing, a huge doubt sets in."
+ },
+ {
+  "id": "b105",
+  "narration": "Go ahead. If modern science and medical data fail to save a life, what happens when they abandon science and turn to ancient superstitions?",
+  "onScreen": {
+   "place": "abstract",
+   "diagram": "arrows linking labels in a chain: SCIENCE FAILS / ANCIENT SUPERSTITIONS"
+  },
+  "viewerGuess": "The abstract diagram shows science failing and leading to ancient superstitions."
+ },
+ {
+  "id": "b106",
+  "narration": "Okay, exhibit six. The garlic at the open window.",
+  "onScreen": {
+   "stage": "solo: garlicwindow",
+   "happens": [
+    "grow garlicwindow",
+    "title \"Garlic at the Window\""
+   ]
+  },
+  "viewerGuess": "A window adorned with garlic grows into focus."
+ },
+ {
+  "id": "b107",
+  "narration": "This one is so frustrating to read. It really is. We are still in Lucy's room. Then Helsing brings a box of wild garlic all the way from Harlem.",
+  "onScreen": {
+   "stage": "versus: lucy, garlicwindow",
+   "happens": [
+    "change lucy",
+    "act helsing",
+    "grow garlicwindow"
+   ]
+  },
+  "viewerGuess": "Helsing acts to protect the changing Lucy as the garlic window grows."
+ },
+ {
+  "id": "b108",
+  "narration": "Special delivery. He rubs the flowers all over the window sashes, the jam of the door and the fireplace. He fashions a thick wreath of it and places it securely around Lucy's And he's very",
+  "onScreen": {
+   "happens": [
+    "change helsing holds flower",
+    "grow garlicwindow",
+    "change helsing holds flower",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "Helsing holds blossoms while enlarging the garlic barrier at the window around Lucy."
+ },
+ {
+  "id": "b109",
+  "narration": "strict about this. He tells her not to disturb it under any circumstances. But in the morning, Lucy's loving mother, Mrs.",
+  "onScreen": {
+   "happens": [
+    "act helsing",
+    "title \"Do Not Disturb It\""
+   ]
+  },
+  "viewerGuess": "Helsing acts to set a rule: do not disturb it."
+ },
+ {
+  "id": "b110",
+  "narration": "Wenra, comes Oh, Mrs. Worenra. She thinks the room feels stuffy and smells foul. So, she opens the window, takes the garlic wreath off her sleeping daughter's neck, and",
+  "onScreen": {
+   "stage": "versus: garlicwindow, lucy",
+   "happens": [
+    "shake garlicwindow",
+    "dim garlicwindow",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "The garlic window shakes and dims as Lucy changes."
+ },
+ {
+  "id": "b111",
+  "narration": "throws it out. Just completely undoes the whole Yes, this exhibit points the other way. The failure here wasn't a lack of paperwork or data. It was a physical human breach.",
+  "onScreen": {
+   "happens": [
+    "cross garlicwindow",
+    "change lucy",
+    "stamp garlicwindow \"HUMAN BREACH\""
+   ]
+  },
+  "viewerGuess": "The garlic window is crossed out and stamped as a human breach while Lucy changes."
+ },
+ {
+  "id": "b112",
+  "narration": "The belief in the garlic was profoundly accurate and removing it doomed her. It proves that human ignorance and a lack of respect for the strict rules of the occult led to her death. The mother didn't understand the physical",
+  "onScreen": {
+   "happens": [
+    "restore garlicwindow",
+    "apart garlicwindow and lucy",
+    "dim lucy",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "Though the garlic window is restored, it sits apart from Lucy as she dims and changes."
+ },
+ {
+  "id": "b113",
+  "narration": "power of the ward and her mundane action invited the monster back And look at the consequence. The settling evidence is the scene that the bat.",
+  "onScreen": {
+   "stage": "row: dracula, lucy, garlicwindow",
+   "happens": [
+    "cross garlicwindow",
+    "act dracula",
+    "grow dracula"
+   ]
+  },
+  "viewerGuess": "With the garlic window crossed out beside Lucy, Dracula strikes and grows stronger."
+ },
+ {
+  "id": "b114",
+  "narration": "The great bat flaps at the window in the moonlight and Lucy in her lethargic, mesmerized state tears the replaced garlic flowers from her own throat in her sleep cuz she's under his control now, right?",
+  "onScreen": {
+   "happens": [
+    "shake garlicwindow",
+    "change lucy",
+    "cross garlicwindow",
+    "change dracula",
+    "together dracula and lucy"
+   ]
+  },
+  "viewerGuess": "As the garlic window shakes and is crossed out, Dracula changes and joins together with Lucy."
+ },
+ {
+  "id": "b115",
+  "narration": "The physical ward was incredibly powerful, but the human element subverted it from within. So, belief in ancient wards held real physical power to repel the creature, but they were tragically subverted",
+  "onScreen": {
+   "stage": "versus: garlicwindow, dracula",
+   "happens": [
+    "grow garlicwindow",
+    "dim garlicwindow",
+    "apart garlicwindow and dracula",
+    "change dracula",
+    "cross garlicwindow"
+   ]
+  },
+  "viewerGuess": "The garlic window grows, dims, and fails to keep Dracula apart before being crossed out."
+ },
+ {
+  "id": "b116",
+  "narration": "by human error and the monster's hypnotic control over his victim. The physical defenses fell to human interference, which leads to the agonizing doubt.",
+  "onScreen": {
+   "stage": "row: dracula, lucy, garlicwindow",
+   "happens": [
+    "change dracula",
+    "change lucy",
+    "dim garlicwindow",
+    "title \"An Agonizing Doubt\""
+   ]
+  },
+  "viewerGuess": "With Dracula, Lucy, and the dimmed garlic window aligned, an agonizing doubt hangs over the outcome."
+ },
+ {
+  "id": "b117",
+  "narration": "What is Lucy's final human act before the curse consumes her completely? Let's look at exhibit 7.",
+  "onScreen": {
+   "stage": "versus: lucy, lucymemo",
+   "happens": [
+    "title \"Lucy's Final Human Act\"",
+    "change lucy",
+    "grow lucymemo"
+   ]
+  },
+  "viewerGuess": "As Lucy changes, her written memo grows as Lucy's final human act."
+ },
+ {
+  "id": "b118",
+  "narration": "Lucy's The scene is chaos. Absolute chaos. The men burst into Lucy's room after the final fatal attack.",
+  "onScreen": {
+   "stage": "row: helsing, seward, quincey, lucy",
+   "happens": [
+    "shake lucy",
+    "change helsing",
+    "change seward",
+    "change quincey",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "Lucy shakes before Helsing, Seward, and Quincey as all four react."
+ },
+ {
+  "id": "b119",
+  "narration": "The maids are drugged on the floor in the hallway. The mother is dead of a heart attack on the bed. And Lucy is dying.",
+  "onScreen": {
+   "stage": "versus: helsing, lucy",
+   "happens": [
+    "dim lucy",
+    "change helsing",
+    "change lucy"
+   ]
+  },
+  "viewerGuess": "Lucy dims opposite Helsing as both undergo a shift."
+ },
+ {
+  "id": "b120",
+  "narration": "It's a total defeat. And when they carry her to the bath, a piece of paper drops from her breast.",
+  "onScreen": {
+   "happens": [
+    "change helsing",
+    "change lucy",
+    "enter lucymemo",
+    "grow lucymemo"
+   ]
+  },
+  "viewerGuess": "Between Helsing and Lucy, Lucy's memo enters and grows."
+ },
+ {
+  "id": "b121",
+  "narration": "The memorandum dying. As her mother collapsed beside her in the room filled with a swirling mist and red eyes, she had written down exactly what happened. She hid the paper in her dress.",
+  "onScreen": {
+   "stage": "versus: lucy, lucymemo",
+   "happens": [
+    "grow lucymemo",
+    "act lucy",
+    "change lucy holds lucymemo"
+   ]
+  },
+  "viewerGuess": "Lucy acts and holds fast to her growing memo."
+ },
+ {
+  "id": "b122",
+  "narration": "See, even as her soul is being ripped away, Lucy's final human instinct is to file a report. A report? Yes. This memorandum is the crucial victim witness testimony. She ensures there is a record",
+  "onScreen": {
+   "happens": [
+    "change lucy holds lucymemo",
+    "grow lucymemo",
+    "stamp lucymemo \"TESTIMONY\""
+   ]
+  },
+  "viewerGuess": "Held by Lucy, the memo grows and is stamped as testimony."
+ },
+ {
+  "id": "b123",
+  "narration": "of the attack. It is a tragic, ultimately useless gesture. Yes. She files a report. She dies. She becomes a monster.",
+  "onScreen": {
+   "happens": [
+    "cross lucymemo",
+    "change lucy holds none",
+    "stamp lucy \"MONSTER\""
+   ]
+  },
+  "viewerGuess": "The memo is crossed out as Lucy lets go of it, and Lucy herself is stamped a monster."
+ },
+ {
+  "id": "b124",
+  "narration": "And the men ultimately have to go to her tomb, physically cut off her head, and drive a wooden steak through her heart to stop But the paper, a piece of paper hidden in a night gown didn't stop the fangs from piercing her throat.",
+  "onScreen": {
+   "stage": "row: helsing, lucy, lucymemo",
+   "happens": [
+    "change helsing",
+    "burst helsing and lucy",
+    "change lucy",
+    "cross lucymemo",
+    "dim lucymemo"
+   ]
+  },
+  "viewerGuess": "A shock erupts between Helsing and Lucy while her memo is crossed out and dimmed."
+ },
+ {
+  "id": "b125",
+  "narration": "Action stopped her, not her But the paper is treated as a massive threat by her protectors. Van Helsing seizes the memorandum and immediately hides it.",
+  "onScreen": {
+   "stage": "versus: helsing, lucymemo",
+   "happens": [
+    "stamp lucymemo \"MASSIVE THREAT\"",
+    "take helsing the lucymemo",
+    "change helsing holds none"
+   ]
+  },
+  "viewerGuess": "Stamped as a massive threat, Lucy's memo is taken by Helsing and put out of hand."
+ },
+ {
+  "id": "b126",
+  "narration": "He explicitly states to Seward that he must conceal it from the coroner to avoid an inquest. Well, yeah, an inquest would be a He says it is not well that her very thoughts go into the hands of strangers.",
+  "onScreen": {
+   "stage": "row: helsing, seward, lucymemo",
+   "happens": [
+    "together helsing and seward",
+    "cover lucymemo",
+    "cross lucymemo",
+    "change helsing",
+    "change seward"
+   ]
+  },
+  "viewerGuess": "Helsing and Seward stand together to cover up and cross out Lucy's memo."
+ },
+ {
+  "id": "b127",
+  "narration": "The paper is dangerously real evidence. It could bring the police, the law, and total exposure to their hunt.",
+  "onScreen": {
+   "stage": "solo: lucymemo",
+   "happens": [
+    "grow lucymemo",
+    "stamp lucymemo \"REAL EVIDENCE\"",
+    "burst lucymemo"
+   ]
+  },
+  "viewerGuess": "Alone, Lucy's memo grows and bursts forward stamped as real evidence."
+ },
+ {
+  "id": "b128",
+  "narration": "Okay. Her final act was creating an archive of the attack, but the men immediately suppressed it to protect their own operation and her reputation.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "an authoritative broad-shouldered man in his late fifties with receding iron-grey hair",
+     "face": "worried",
+     "body": "place",
+     "holds": "letter"
+    },
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "motion": "the first person sets the letter down in front of them; their hand comes back empty and the letter stays there",
+   "place": "room",
+   "words": "SUPPRESSED HER ARCHIVE"
+  },
+  "viewerGuess": "In a room, the worried older man sets a letter down before the worried physician, showing they suppressed her archive."
+ },
+ {
+  "id": "b129",
+  "narration": "The evidence was buried. They hid the file to protect themselves from the And the doubt that remains is how can these hidden fragmented secrets locked in photograph cylinders and concealed diaries ever be weaponized against the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a serious thoughtful physician in his early thirties with dark brown sideburns",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "sheets of written notes",
+   "place": "office",
+   "words": "HOW TO WEAPONIZE SECRETS"
+  },
+  "viewerGuess": "Standing bowed and worried in an office beside written notes, the physician considers how to weaponize secrets."
+ },
+ {
+  "id": "b130",
+  "narration": "That is exhibit 8. Mina's typewriter. It is late September. Mina Harker sits at her typewriter in Dr. Seard's asylum study. She is surrounded by a chaotic",
+  "onScreen": {
+   "stage": "versus: mina, typewriter",
+   "happens": [
+    "label typewriter \"Exhibit 8\"",
+    "title \"MINA'S TYPEWRITER\"",
+    "change mina"
+   ]
+  },
+  "viewerGuess": "Mina changes as she faces her typewriter, labeled Exhibit 8."
+ },
+ {
+  "id": "b131",
+  "narration": "pile of media. Just a mountain of different formats. Seward's wax photograph cylinders. Jonathan's shorthand journal from Transennsylvania.",
+  "onScreen": {
+   "happens": [
+    "change mina holds notes",
+    "title \"MOUNTAIN OF FORMATS\"",
+    "label typewriter \"Wax cylinders\"",
+    "label mina \"Shorthand journal\""
+   ]
+  },
+  "viewerGuess": "Holding notes from her shorthand journal, Mina faces a mountain of formats including wax cylinders on her typewriter."
+ },
+ {
+  "id": "b132",
+  "narration": "Lucy's letters and Whitby newspaper clippings, She is typing them all out, translating the shortorthhand, transcribing the audio, and organizing every single piece of data into one massive chronological getting",
+  "onScreen": {
+   "happens": [
+    "act mina",
+    "title \"ONE CHRONOLOGICAL FILE\""
+   ]
+  },
+  "viewerGuess": "Mina gets to work organizing everything into one chronological file."
+ },
+ {
+  "id": "b133",
+  "narration": "it all in one place. This is the ultimate turning point of the war. Dracula is defeated by administrative collation.",
+  "onScreen": {
+   "stage": "row: mina, typewriter, dracula",
+   "happens": [
+    "change mina holds notes",
+    "dim dracula",
+    "change dracula",
+    "title \"DEFEATED BY COLLATION\""
+   ]
+  },
+  "viewerGuess": "As Mina holds her collated notes beside the typewriter, Dracula dims and falters, defeated by collation."
+ },
+ {
+  "id": "b134",
+  "narration": "Oh, come on. He is. By typing the data in order, the timeline suddenly reveals the existence, the movement, and the exact number of the 50 boxes of Earth.",
+  "onScreen": {
+   "stage": "versus: mina, typewriter",
+   "happens": [
+    "act mina",
+    "enter earthbox",
+    "label earthbox \"50 boxes of earth\""
+   ]
+  },
+  "viewerGuess": "Working at her typewriter, Mina brings the fifty boxes of earth into view."
+ },
+ {
+  "id": "b135",
+  "narration": "The pattern emerges from the chaos. The typewriter is just a machine processing words.",
+  "onScreen": {
+   "stage": "solo: typewriter",
+   "happens": [
+    "dim typewriter",
+    "title \"JUST A MACHINE\""
+   ]
+  },
+  "viewerGuess": "The typewriter dims as the title reminds viewers it is just a machine."
+ },
+ {
+  "id": "b136",
+  "narration": "You are elevating clerical work over combat. It's intelligence work. It is the men's physical courage. Their willingness confront a demon and their solemn vow to destroy the monster that actually gives them",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tall sunburnt athletic man in his late twenties with dark short hair",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "an aristocratic pale man in his early fifties with sharp aquiline features",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "place": "none",
+   "words": "CONFRONT THE MONSTER"
+  },
+  "viewerGuess": "The angry athletic young man points directly at the smirking pale aristocrat to confront the monster."
+ },
+ {
+  "id": "b137",
+  "narration": "power. The typewriter doesn't swing a knife. It just records the bravery of those who do.",
+  "onScreen": {
+   "stage": "versus: typewriter, knives",
+   "happens": [
+    "cross typewriter and knives",
+    "title \"NOT A WEAPON\"",
+    "label typewriter \"Records their bravery\""
+   ]
+  },
+  "viewerGuess": "Contrasted with knives, the typewriter is not a weapon, though it records their bravery."
+ },
+ {
+  "id": "b138",
+  "narration": "But look at the moment Lord Godlming and Quincy Morris read the typed manuscript in the library when they finally see the big picture.",
+  "onScreen": {
+   "stage": "solo: quincey",
+   "happens": [
+    "change quincey holds notes",
+    "change quincey holds notes",
+    "title \"SEE THE BIG PICTURE\""
+   ]
+  },
+  "viewerGuess": "Holding the notes, Quincey is finally able to see the big picture."
+ },
+ {
+  "id": "b139",
+  "narration": "For the first time, they understand the total terrifying truth of what they are fighting. The data connects the ghost ship in Whitby to the lunatic in the asylum to the house next door. It does connect the dots.",
+  "onScreen": {
+   "stage": "flow: demeter, renfield, carfax",
+   "happens": [
+    "title \"CONNECTING THE DOTS\"",
+    "label demeter \"Ghost ship\"",
+    "change renfield",
+    "label carfax \"House next door\"",
+    "grow demeter and renfield and carfax"
+   ]
+  },
+  "viewerGuess": "Connecting the dots, the ghost ship Demeter, Renfield's changes, and Carfax the house next door all grow together."
+ },
+ {
+  "id": "b140",
+  "narration": "Yes. But let me tell you the second scene involving this data. October 3rd. Yes. October 3rd. The men are out hunting the boxes. Mina is asleep in her bedroom.",
+  "onScreen": {
+   "stage": "solo: mina",
+   "happens": [
+    "date \"OCT 3\"",
+    "change mina"
+   ]
+  },
+  "viewerGuess": "On October 3, Mina undergoes a pivotal change."
+ }
+]

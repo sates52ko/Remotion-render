@@ -1,0 +1,454 @@
+{
+  "note": "CANDIDATES from the narration (proper names said in 2+ beats, and years). Write storyboard/entities.json from them: keep what a viewer should SEE, fix ASR spellings, add what is missing, give each a kind.",
+  "kinds": [
+    "company",
+    "product",
+    "place",
+    "idea",
+    "person",
+    "object",
+    "animal"
+  ],
+  "glyphs": [
+    "monitor",
+    "search",
+    "doc",
+    "browser",
+    "building",
+    "book",
+    "coin",
+    "globe",
+    "gear",
+    "phone",
+    "chart",
+    "star",
+    "heart",
+    "flag",
+    "cart",
+    "people",
+    "bolt",
+    "leaf"
+  ],
+  "example": {
+    "microsoft": {
+      "label": "MICROSOFT",
+      "kind": "company",
+      "glyph": "monitor"
+    },
+    "mozart": {
+      "label": "MOZART",
+      "kind": "person",
+      "look": {
+        "age": "child",
+        "height": 0.72,
+        "headScale": 1.18,
+        "outfit": "coat",
+        "hairStyle": "curly"
+      }
+    },
+    "piano": {
+      "label": "",
+      "kind": "object",
+      "paths": [
+        {
+          "d": "M40 150 H480 V200 H40 Z",
+          "fill": "#3A322B"
+        }
+      ],
+      "w": 330
+    }
+  },
+  "candidates": [
+    {
+      "name": "Dracula",
+      "kind": "name",
+      "saidInBeats": 44,
+      "beats": [
+        0,
+        4,
+        9,
+        11,
+        23,
+        27,
+        36,
+        38,
+        39,
+        42,
+        43,
+        57
+      ]
+    },
+    {
+      "name": "Jonathan",
+      "kind": "name",
+      "saidInBeats": 15,
+      "beats": [
+        10,
+        43,
+        44,
+        48,
+        50,
+        55,
+        56,
+        60,
+        61,
+        63,
+        65,
+        140
+      ]
+    },
+    {
+      "name": "London",
+      "kind": "name",
+      "saidInBeats": 12,
+      "beats": [
+        32,
+        62,
+        63,
+        96,
+        158,
+        168,
+        171,
+        210,
+        230,
+        235,
+        253,
+        275
+      ]
+    },
+    {
+      "name": "Mina",
+      "kind": "name",
+      "saidInBeats": 11,
+      "beats": [
+        103,
+        144,
+        153,
+        161,
+        206,
+        211,
+        217,
+        220,
+        222,
+        239,
+        260
+      ]
+    },
+    {
+      "name": "Victorian",
+      "kind": "name",
+      "saidInBeats": 11,
+      "beats": [
+        13,
+        25,
+        61,
+        95,
+        101,
+        114,
+        116,
+        171,
+        201,
+        209,
+        257
+      ]
+    },
+    {
+      "name": "Renfield",
+      "kind": "name",
+      "saidInBeats": 8,
+      "beats": [
+        145,
+        157,
+        184,
+        186,
+        194,
+        197,
+        198,
+        202
+      ]
+    },
+    {
+      "name": "1897",
+      "kind": "year",
+      "saidInBeats": 7,
+      "beats": [
+        108,
+        110,
+        143,
+        221,
+        248,
+        270,
+        275
+      ]
+    },
+    {
+      "name": "Harker",
+      "kind": "name",
+      "saidInBeats": 7,
+      "beats": [
+        2,
+        17,
+        19,
+        39,
+        42,
+        139,
+        196
+      ]
+    },
+    {
+      "name": "Van Helsing",
+      "kind": "name",
+      "saidInBeats": 6,
+      "beats": [
+        120,
+        124,
+        127,
+        179,
+        219,
+        239
+      ]
+    },
+    {
+      "name": "England",
+      "kind": "name",
+      "saidInBeats": 5,
+      "beats": [
+        46,
+        51,
+        53,
+        67,
+        94
+      ]
+    },
+    {
+      "name": "Stoker",
+      "kind": "name",
+      "saidInBeats": 5,
+      "beats": [
+        9,
+        12,
+        195,
+        248,
+        270
+      ]
+    },
+    {
+      "name": "Octroy",
+      "kind": "name",
+      "saidInBeats": 4,
+      "beats": [
+        79,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "name": "Seward",
+      "kind": "name",
+      "saidInBeats": 4,
+      "beats": [
+        157,
+        185,
+        193,
+        195
+      ]
+    },
+    {
+      "name": "Whitby",
+      "kind": "name",
+      "saidInBeats": 4,
+      "beats": [
+        89,
+        91,
+        103,
+        154
+      ]
+    },
+    {
+      "name": "Arthur Holmwood",
+      "kind": "name",
+      "saidInBeats": 3,
+      "beats": [
+        107,
+        118,
+        235
+      ]
+    },
+    {
+      "name": "Carter Patterson",
+      "kind": "name",
+      "saidInBeats": 3,
+      "beats": [
+        92,
+        170,
+        171
+      ]
+    },
+    {
+      "name": "Lucy",
+      "kind": "name",
+      "saidInBeats": 3,
+      "beats": [
+        112,
+        125,
+        143
+      ]
+    },
+    {
+      "name": "Transennsylvania",
+      "kind": "name",
+      "saidInBeats": 3,
+      "beats": [
+        0,
+        40,
+        140
+      ]
+    },
+    {
+      "name": "Varna",
+      "kind": "name",
+      "saidInBeats": 3,
+      "beats": [
+        73,
+        230,
+        238
+      ]
+    },
+    {
+      "name": "Billington",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        91,
+        92
+      ]
+    },
+    {
+      "name": "Black Sea",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        73,
+        208
+      ]
+    },
+    {
+      "name": "Bowie",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        3,
+        266
+      ]
+    },
+    {
+      "name": "British Empire",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        33,
+        248
+      ]
+    },
+    {
+      "name": "Carfax",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        93,
+        185
+      ]
+    },
+    {
+      "name": "Carpathian Mountains",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        17,
+        36
+      ]
+    },
+    {
+      "name": "CEO",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        32,
+        272
+      ]
+    },
+    {
+      "name": "Earth",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        85,
+        157
+      ]
+    },
+    {
+      "name": "Europe",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        228,
+        232
+      ]
+    },
+    {
+      "name": "European",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        6,
+        252
+      ]
+    },
+    {
+      "name": "Galat",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        238,
+        239
+      ]
+    },
+    {
+      "name": "Gothic",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        11,
+        24
+      ]
+    },
+    {
+      "name": "Piccadilly",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        173,
+        174
+      ]
+    },
+    {
+      "name": "Smalllet",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        170,
+        172
+      ]
+    },
+    {
+      "name": "Van Heling",
+      "kind": "name",
+      "saidInBeats": 2,
+      "beats": [
+        112,
+        215
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-19T08:14:23.070Z",
+  "at": "2026-11-19T08:15:49.998Z",
+  "config": "config.antidote.json",
+  "configSha256": "dacd6719cea2763bf26c9043d0217f9cf8d5cdb7bb0c8ce65d8cad9ab0ea0e2d",
+  "inputs": {
+    "storyboard": {
+      "path": "books/dracula/art.json",
+      "sha256": "2d7b2207c78e90c615013717ca6a09822287ceeb02dd7e1c202bf7c0132ec457"
+    },
+    "storyBible": {
+      "path": "books/dracula/story-bible.json",
+      "sha256": "b147c5277c2576e85f1bbe1cd8d2ae7ea17afcd38607ef5bcc4a7980fa8e4908"
+    },
+    "motifs": {
+      "path": "books/dracula/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/dracula.vtt",
+      "sha256": "97926d41f862f1b8868715b703fae3955eae2b97fd945c63288d1a94f8b76522"
+    },
+    "audio": {
+      "path": "public/audio/dracula.mp3",
+      "sha256": "cbcdbea67f8f514fc7c4c3952e51dfa18124c8b1555853a17317f760bcd04dce"
+    },
+    "singleRelation": {
+      "path": "books/dracula/single-relation/active.json",
+      "sha256": null
+    }
+  },
+  "head": "9dc53c68f2c7bcf20c8bf1a8530c714335c18011",
+  "previewOnly": true,
+  "skipPack": true
+}

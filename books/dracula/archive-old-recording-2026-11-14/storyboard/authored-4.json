@@ -1,0 +1,1038 @@
+[
+  {
+    "i": 127,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GARLIC FLOWERS AROUND HER NECK",
+      "style": "box"
+    },
+    "set": "bedroom",
+    "cast": [
+      "helsing",
+      "lucy"
+    ],
+    "expression": "worried",
+    "action": "offer",
+    "holds": "flower",
+    "partnerExpression": "sad",
+    "partnerAction": "lying",
+    "explainedBy": "Van Helsing places garlic flowers around Lucy's neck to fight the vampire's drain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Van Helsing combines folklore and medicine by placing garlic flowers around Lucy's neck.",
+      "concreteVisual": "Van Helsing leans over Lucy lying ill in the Victorian bedroom, holding garlic flowers to her neck.",
+      "onScreenText": "GARLIC FLOWERS AROUND HER NECK",
+      "relationToPrevious": "Establishes Lucy's sickroom and Van Helsing's dual defense.",
+      "addedInformation": "Shows the physical ritual combining medical caution and folk superstition."
+    }
+  },
+  {
+    "i": 128,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A WAR ON TWO FRONTS",
+      "style": "stack"
+    },
+    "set": "bedroom",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "Van Helsing's two-front defense faces a critical systemic failure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Van Helsing fights across two fronts but his medical strategy has a critical blindspot.",
+      "concreteVisual": "Van Helsing stands slumped with deep concern in the bedroom as his defensive efforts fail.",
+      "onScreenText": "A WAR ON TWO FRONTS",
+      "relationToPrevious": "Continues in the bedroom with Van Helsing realizing the intervention is failing.",
+      "addedInformation": "Emphasizes that bodily defense cannot defeat an unknown logistical network."
+    }
+  },
+  {
+    "i": 129,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "POURING BLOOD INTO A SIEVE",
+      "style": "strike"
+    },
+    "set": "bedroom",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "continue": true,
+    "explainedBy": "Without understanding the vampire's logistical system, blood transfusions are entirely futile.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Treating blood loss without stopping Dracula's supply chain is like pouring blood into a sieve.",
+      "concreteVisual": "Van Helsing gestures urgently in the sickroom, warning that transfusions cannot solve the drain.",
+      "onScreenText": "POURING BLOOD INTO A SIEVE",
+      "relationToPrevious": "Extends the failure explanation to the futility of purely physiological treatment.",
+      "addedInformation": "Highlights the core thesis: logistics trump reactive medicine."
+    }
+  },
+  {
+    "i": 130,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LUCY DIES AND BECOMES UNDEAD",
+      "style": "box"
+    },
+    "set": "bedroom",
+    "cast": [
+      "lucy"
+    ],
+    "expression": "blank",
+    "action": "collapsed",
+    "explainedBy": "The medical intervention fails completely as Lucy dies and turns into an undead creature.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The doctors fail to save Lucy, who dies from the attacks and rises as a vampire.",
+      "concreteVisual": "Lucy lies collapsed and motionless in the bedroom after the fatal attack.",
+      "onScreenText": "LUCY DIES AND BECOMES UNDEAD",
+      "relationToPrevious": "Marks the tragic culmination of the failed medical attempts.",
+      "addedInformation": "Presents the physical consequence of treating symptoms rather than causes."
+    }
+  },
+  {
+    "i": 131,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BECOMES A VAMPIRE HERSELF",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "lucy"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Lucy transforms into a predatory vampire because the doctors lacked the full dataset.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Lucy becomes a vampire herself because the men lacked the data needed to stop Dracula.",
+      "concreteVisual": "Lucy stands transformed with a sinister predatory smirk in the shadowed room.",
+      "onScreenText": "BECOMES A VAMPIRE HERSELF",
+      "relationToPrevious": "Follows Lucy's death with her rebirth as an undead creature.",
+      "addedInformation": "Reveals the monstrous cost of fighting an informational war in the dark."
+    }
+  },
+  {
+    "i": 132,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TREATING SYMPTOM NOT THE SOURCE",
+      "style": "strike"
+    },
+    "set": "bedroom",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": "notes",
+    "explainedBy": "The doctors realize they were treating blood loss rather than Dracula's logistical network.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The novel reaches its turning point when the heroes realize they must attack the source rather than the symptom.",
+      "concreteVisual": "Van Helsing reviews his notes in grim realization that blood loss is merely a secondary symptom.",
+      "onScreenText": "TREATING SYMPTOM NOT THE SOURCE",
+      "relationToPrevious": "Transitions from Lucy's tragedy to the diagnostic pivot of the story.",
+      "addedInformation": "Frames the failure as an analytical error that demands a new approach."
+    }
+  },
+  {
+    "i": 133,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "REACTIVE MEDICINE",
+        "DATA MANAGEMENT"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The operational strategy shifts from reactive medicine to proactive data management.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The heroes pivot from reactive medical responses to systematic proactive data management.",
+      "concreteVisual": "A flow diagram maps the fundamental transition from REACTIVE MEDICINE to DATA MANAGEMENT.",
+      "onScreenText": "none",
+      "relationToPrevious": "Formalizes the strategic shift resulting from the failure with Lucy.",
+      "addedInformation": "Highlights the methodological transformation at the core of the novel."
+    }
+  },
+  {
+    "i": 134,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "THE ULTIMATE CONTRAST",
+      "style": "box"
+    },
+    "set": "stage",
+    "cast": [],
+    "explainedBy": "Introduces the defining clash between supernatural power and modern information technology.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts set up the ultimate thematic contrast between ancient cosmic force and modern clerical bureaucracy.",
+      "concreteVisual": "A balance scale icon appears against a stark dark background introducing the central clash.",
+      "onScreenText": "THE ULTIMATE CONTRAST",
+      "relationToPrevious": "Prepares the audience for the direct comparative showdown between Dracula and Mina.",
+      "addedInformation": "Sharpens viewer focus on the upcoming visual matchup."
+    }
+  },
+  {
+    "i": 135,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "side",
+          "do": "grow",
+          "who": "dracula",
+          "to": 1.25
+        },
+        {
+          "on": "vast",
+          "do": "title",
+          "text": "Two opposing forces",
+          "box": "accent"
+        }
+      ]
+    },
+    "explainedBy": "Dracula and the portable typewriter are placed side by side in sharp contrast.",
+    "noVisual": null
+  },
+  {
+    "i": 136,
+    "told": {
+      "events": [
+        {
+          "on": "warlord",
+          "do": "change",
+          "who": "dracula",
+          "action": "point"
+        },
+        {
+          "on": "telepathic",
+          "do": "title",
+          "text": "Ancient telepathic mind"
+        }
+      ]
+    },
+    "explainedBy": "Dracula's ancient supernatural powers and telepathic mind are cataloged on screen.",
+    "noVisual": null
+  },
+  {
+    "i": 137,
+    "told": {
+      "events": [
+        {
+          "on": "knees",
+          "do": "dim",
+          "who": "dracula"
+        },
+        {
+          "on": "power",
+          "do": "title",
+          "text": "Cosmic power to its knees",
+          "box": "accent"
+        }
+      ]
+    },
+    "explainedBy": "Dracula's ancient cosmic power is brought to its knees by an unexpected adversary.",
+    "noVisual": null
+  },
+  {
+    "i": 138,
+    "told": {
+      "events": [
+        {
+          "on": "filing",
+          "do": "title",
+          "text": "The filing cabinet slays"
+        },
+        {
+          "on": "slays",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The mechanical portable typewriter takes center stage as the tool that slays the monster.",
+    "noVisual": null
+  },
+  {
+    "i": 139,
+    "told": {
+      "events": [
+        {
+          "on": "Dracula's",
+          "do": "wide"
+        },
+        {
+          "on": "outmatched",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "OUTMATCHED"
+        },
+        {
+          "on": "Mina",
+          "do": "enter",
+          "who": "mina"
+        },
+        {
+          "on": "organization",
+          "do": "crown",
+          "who": "mina"
+        }
+      ]
+    },
+    "explainedBy": "Dracula's omniscience is stamped as outmatched as Mina Harker is crowned for her clerical organization.",
+    "noVisual": null
+  },
+  {
+    "i": 140,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "transylvania",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "waiting",
+          "do": "title",
+          "text": "Mina prepares her mind"
+        },
+        {
+          "on": "preparing",
+          "do": "change",
+          "who": "mina",
+          "action": "read"
+        }
+      ]
+    },
+    "explainedBy": "While Jonathan is trapped in Transylvania, Mina prepares herself with rigorous discipline.",
+    "noVisual": null
+  },
+  {
+    "i": 141,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "learning",
+          "do": "change",
+          "who": "mina",
+          "action": "typing"
+        },
+        {
+          "on": "timetables",
+          "do": "title",
+          "text": "Studying train timetables"
+        }
+      ]
+    },
+    "explainedBy": "Mina trains in Pitman shorthand, typewriter operation, and railway timetables.",
+    "noVisual": null
+  },
+  {
+    "i": 142,
+    "told": {
+      "events": [
+        {
+          "on": "training",
+          "do": "title",
+          "text": "Modern administrative training"
+        },
+        {
+          "on": "administrator",
+          "do": "grow",
+          "who": [
+            "mina"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina equips herself to become an efficient modern administrator.",
+    "noVisual": null
+  },
+  {
+    "i": 143,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "year1897",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "typing",
+          "do": "change",
+          "who": "mina",
+          "action": "typing"
+        },
+        {
+          "on": "baffled",
+          "do": "title",
+          "text": "The men completely baffled"
+        }
+      ]
+    },
+    "explainedBy": "In 1897 typing was strenuous physical labor, contrasting with the baffled men.",
+    "noVisual": null
+  },
+  {
+    "i": 144,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "trauma",
+          "do": "dim",
+          "who": "jonathan"
+        },
+        {
+          "on": "Transennylvania",
+          "do": "label",
+          "who": "jonathan",
+          "text": "Trauma in Transylvania"
+        },
+        {
+          "on": "steps",
+          "do": "grow",
+          "who": "mina",
+          "to": 1.25
+        },
+        {
+          "on": "information",
+          "do": "title",
+          "text": "Mina takes control",
+          "box": "accent"
+        }
+      ]
+    },
+    "explainedBy": "As Jonathan suffers from his trauma, Mina steps up to take control of the fragmented information.",
+    "noVisual": null
+  },
+  {
+    "i": 145,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "jonathan",
+          "seward",
+          "helsing"
+        ]
+      },
+      "events": [
+        {
+          "on": "journal",
+          "do": "change",
+          "who": "jonathan",
+          "action": "write"
+        },
+        {
+          "on": "cylinders",
+          "do": "change",
+          "who": "seward",
+          "action": "talk"
+        },
+        {
+          "on": "Renfield",
+          "do": "enter",
+          "who": "renfield"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan, Seward, and Van Helsing each hold isolated fragments of the puzzle.",
+    "noVisual": null
+  },
+  {
+    "i": 146,
+    "told": {
+      "events": [
+        {
+          "on": "isolated",
+          "do": "world",
+          "who": [
+            "jonathan",
+            "seward",
+            "helsing"
+          ]
+        },
+        {
+          "on": "siloed",
+          "do": "title",
+          "text": "Completely siloed information",
+          "box": "accent"
+        }
+      ]
+    },
+    "explainedBy": "The men are completely isolated in separate silos, unable to see the whole board.",
+    "noVisual": null
+  },
+  {
+    "i": 147,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "jonathan",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "collation",
+          "do": "title",
+          "text": "Data collation begins",
+          "box": "accent"
+        },
+        {
+          "on": "shortorthhand",
+          "do": "together",
+          "who": [
+            "jonathan",
+            "mina"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina brings Jonathan's shorthand journal into her collation workflow.",
+    "noVisual": null
+  },
+  {
+    "i": 148,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "translates",
+          "do": "change",
+          "who": "mina",
+          "action": "typing"
+        },
+        {
+          "on": "types",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina translates the shorthand journal and begins typing it on her machine.",
+    "noVisual": null
+  },
+  {
+    "i": 149,
+    "told": {
+      "events": [
+        {
+          "on": "manifold",
+          "do": "title",
+          "text": "Typing in manifold"
+        },
+        {
+          "on": "copies",
+          "do": "grow",
+          "who": [
+            "typewriter"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina uses carbon paper to type multiple identical copies of the records simultaneously.",
+    "noVisual": null
+  },
+  {
+    "i": 150,
+    "told": {
+      "events": [
+        {
+          "on": "strike",
+          "do": "shake",
+          "who": "typewriter"
+        },
+        {
+          "on": "pressure",
+          "do": "label",
+          "who": "typewriter",
+          "text": "Carbon paper transfer"
+        }
+      ]
+    },
+    "explainedBy": "Striking the typewriter key transfers ink through carbon paper to create redundant copies.",
+    "noVisual": null
+  },
+  {
+    "i": 151,
+    "told": {
+      "events": [
+        {
+          "on": "database",
+          "do": "title",
+          "text": "Secure redundant database"
+        },
+        {
+          "on": "photograph",
+          "do": "enter",
+          "who": "phonograph"
+        }
+      ]
+    },
+    "explainedBy": "Mina constructs a secure redundant database and incorporates Seward's phonograph records.",
+    "noVisual": null
+  },
+  {
+    "i": 152,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "seward",
+          "phonograph"
+        ]
+      },
+      "events": [
+        {
+          "on": "locked",
+          "do": "title",
+          "text": "Locked in audio format"
+        },
+        {
+          "on": "voice",
+          "do": "shake",
+          "who": [
+            "phonograph"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Seward's observations are trapped in fragile, ephemeral wax cylinder audio format.",
+    "noVisual": null
+  },
+  {
+    "i": 153,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "phonograph"
+        ]
+      },
+      "events": [
+        {
+          "on": "ephemeral",
+          "do": "title",
+          "text": "Ephemeral audio recordings",
+          "box": "accent"
+        },
+        {
+          "on": "Mina",
+          "do": "together",
+          "who": [
+            "mina",
+            "phonograph"
+          ]
+        },
+        {
+          "on": "listens",
+          "do": "label",
+          "who": "mina",
+          "text": "Listening through tubes"
+        }
+      ]
+    },
+    "explainedBy": "Mina listens to Seward's phonograph cylinders through listening tubes to transcribe them.",
+    "noVisual": null
+  },
+  {
+    "i": 154,
+    "told": {
+      "events": [
+        {
+          "on": "verifiable",
+          "do": "title",
+          "text": "Audio into verifiable text"
+        },
+        {
+          "on": "Whitby",
+          "do": "enter",
+          "who": "whitby"
+        }
+      ]
+    },
+    "explainedBy": "Mina transcribes the audio and incorporates the Demeter ship log and Whitby clippings.",
+    "noVisual": null
+  },
+  {
+    "i": 155,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "mina",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "fragmented",
+          "do": "title",
+          "text": "Synthesizing localized data"
+        },
+        {
+          "on": "database",
+          "do": "change",
+          "who": "mina",
+          "action": "write"
+        }
+      ]
+    },
+    "explainedBy": "Mina synthesizes all fragmented records into a single cohesive chronological database.",
+    "noVisual": null
+  },
+  {
+    "i": 156,
+    "told": {
+      "events": [
+        {
+          "on": "dates",
+          "do": "title",
+          "text": "Dates are everything"
+        },
+        {
+          "on": "order",
+          "do": "grow",
+          "who": [
+            "mina"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina emphasizes to the men that establishing chronological order is the decisive weapon.",
+    "noVisual": null
+  },
+  {
+    "i": 157,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "seward",
+          "renfield",
+          "jonathan",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "pattern",
+          "do": "title",
+          "text": "Vampire pattern revealed"
+        },
+        {
+          "on": "boxes",
+          "do": "together",
+          "who": [
+            "renfield",
+            "earthbox"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Aligning Seward's notes on Renfield, Jonathan's journal, and the earth boxes exposes Dracula's pattern.",
+    "noVisual": null
+  },
+  {
+    "i": 158,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "london",
+          "do": "enter",
+          "who": "london"
+        },
+        {
+          "on": "nerve",
+          "do": "title",
+          "text": "The analytical nerve center"
+        },
+        {
+          "on": "center",
+          "do": "together",
+          "who": [
+            "mina",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Mina's cross-indexing tracks Dracula's arrival in London, forming the nerve center of the hunt.",
+    "noVisual": null
+  },
+  {
+    "i": 159,
+    "told": {
+      "events": [
+        {
+          "on": "weapon",
+          "do": "title",
+          "text": "The ultimate weapon",
+          "box": "accent"
+        },
+        {
+          "on": "outperforms",
+          "do": "dim",
+          "who": "dracula"
+        },
+        {
+          "on": "recorded",
+          "do": "label",
+          "who": "mina",
+          "text": "Objectively recorded data"
+        }
+      ]
+    },
+    "explainedBy": "Objective data outperforms Dracula's supernatural telepathy because it can be shared.",
+    "noVisual": null
+  },
+  {
+    "i": 160,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "typewriter"
+        ]
+      },
+      "events": [
+        {
+          "on": "shadows",
+          "do": "cover",
+          "who": "dracula"
+        },
+        {
+          "on": "typewriter",
+          "do": "uncover",
+          "who": "dracula"
+        },
+        {
+          "on": "node",
+          "do": "label",
+          "who": "dracula",
+          "text": "Single ancient node"
+        }
+      ]
+    },
+    "explainedBy": "The typewriter exposes Dracula's shadow operations, showing his vulnerability as a single node.",
+    "noVisual": null
+  },
+  {
+    "i": 161,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "distributed",
+          "do": "grow",
+          "who": "mina",
+          "to": 1.25
+        },
+        {
+          "on": "manifold",
+          "do": "label",
+          "who": "mina",
+          "text": "Distributed network"
+        },
+        {
+          "on": "destroy",
+          "do": "cross",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "Mina's distributed manifold database prevents Dracula from destroying the investigation.",
+    "noVisual": null
+  },
+  {
+    "i": 162,
+    "told": {
+      "events": [
+        {
+          "on": "decentralized",
+          "do": "title",
+          "text": "Decentralized data network"
+        },
+        {
+          "on": "nature",
+          "do": "grow",
+          "who": [
+            "mina"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Decentralizing the records transforms the nature of the vampire hunt.",
+    "noVisual": null
+  },
+  {
+    "i": 163,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "size",
+          "do": "title",
+          "text": "Fifty boxes of earth",
+          "box": "accent"
+        },
+        {
+          "on": "massive",
+          "do": "grow",
+          "who": "earthbox",
+          "to": 1.3
+        }
+      ]
+    },
+    "explainedBy": "Introduces the massive scale of Dracula's fifty earth boxes.",
+    "noVisual": null
+  },
+  {
+    "i": 164,
+    "told": {
+      "events": [
+        {
+          "on": "invoice",
+          "do": "title",
+          "text": "Single shipping invoice"
+        },
+        {
+          "on": "dirt",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "LOCATED"
+        }
+      ]
+    },
+    "explainedBy": "Contrasts the consecrated heavy earth boxes with a single crumpled shipping invoice.",
+    "noVisual": null
+  },
+  {
+    "i": 165,
+    "told": {
+      "events": [
+        {
+          "on": "monster",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "FORENSIC ACCOUNTING"
+        },
+        {
+          "on": "accounting",
+          "do": "title",
+          "text": "Auditing the monster",
+          "box": "accent"
+        }
+      ]
+    },
+    "explainedBy": "The supernatural monster hunt is reduced to forensic cargo accounting.",
+    "noVisual": null
+  },
+  {
+    "i": 166,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "demeter",
+          "dracula",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "logs",
+          "do": "change",
+          "who": "demeter",
+          "action": "read"
+        },
+        {
+          "on": "boxes",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "earthbox"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The Demeter ship logs establish Dracula's arrival in England with 50 boxes of earth.",
+    "noVisual": null
+  }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "b001",
+  "narration": "He's strong. Strong. This is a creature who Harker later watches climb face down the sheer outer walls of his castle. Oh, that scene is wild, right?",
+  "onScreen": {
+   "stage": "flow: jonathan, dracula",
+   "happens": [
+    "arrange jonathan and dracula",
+    "change jonathan",
+    "change dracula",
+    "label dracula \"DRACULA CLIMBS FACE DOWN\""
+   ]
+  },
+  "viewerGuess": "Jonathan and Dracula react or shift as Dracula climbs face down."
+ },
+ {
+  "id": "b002",
+  "narration": "A fastoving cart races through the drifting snow driven by Sagani armed with rifles, racing against the sun. Inside the cart is the final wooden box.",
+  "onScreen": {
+   "stage": "solo: earthbox",
+   "happens": [
+    "arrange earthbox",
+    "shake earthbox",
+    "label earthbox \"DRACULA CONCEALED INSIDE\""
+   ]
+  },
+  "viewerGuess": "Dracula is hidden inside the shaking box of earth."
+ }
+]

@@ -1,0 +1,1182 @@
+[
+  {
+    "i": 167,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "boxes",
+          "do": "label",
+          "who": "earthbox",
+          "text": "BIOLOGICAL ASSETS"
+        },
+        {
+          "on": "sleep",
+          "do": "together",
+          "who": [
+            "dracula",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "power",
+          "do": "crown",
+          "who": "dracula"
+        }
+      ]
+    },
+    "explainedBy": "Dracula depends on sleeping in the consecrated soil of his earth boxes to maintain his power",
+    "noVisual": null
+  },
+  {
+    "i": 168,
+    "told": {
+      "stage": {
+        "layout": "court",
+        "who": [
+          "london",
+          "dracula",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "safe",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "houses",
+          "do": "together",
+          "who": [
+            "earthbox",
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula distributes the earth boxes across London using human logistics to create safe houses",
+    "noVisual": null
+  },
+  {
+    "i": 169,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "paper",
+          "do": "label",
+          "who": "dracula",
+          "text": "FATAL PAPER TRAIL"
+        },
+        {
+          "on": "bureaucracy",
+          "do": "shake",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "auditing",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "AUDITED"
+        }
+      ]
+    },
+    "explainedBy": "The investigators audit Dracula and exploit the paper trail left by his bureaucracy",
+    "noVisual": null
+  },
+  {
+    "i": 170,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "FOLLOW THE PAPER TRAIL",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "jonathan"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Jonathan Harker follows the paper trail to identify the delivery carters who moved Dracula's boxes",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The investigators trace the physical movers who transported Dracula's boxes across London.",
+      "concreteVisual": "Jonathan Harker stands on a London street reviewing delivery manifests of the carters.",
+      "onScreenText": "FOLLOW THE PAPER TRAIL",
+      "relationToPrevious": "From the concept of auditing Dracula to tracing the specific delivery carters.",
+      "addedInformation": "Grounds the investigation in physical London legwork and handwritten receipts."
+    }
+  },
+  {
+    "i": 171,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "london"
+        ]
+      },
+      "events": [
+        {
+          "on": "delivery",
+          "do": "title",
+          "text": "VICTORIAN PARCEL DELIVERY"
+        },
+        {
+          "on": "carter",
+          "do": "shake",
+          "who": [
+            "london"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Carter Patterson operated as a massive commercial parcel moving firm in London",
+    "noVisual": null
+  },
+  {
+    "i": 172,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DOGEARED NOTEBOOK",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "jonathan",
+      "seward"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "worried",
+    "partnerAction": "think",
+    "explainedBy": "Harker and Seward inspect the carrier's messy, dog-eared notebook filled with thick pencil entries",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The investigators inspect the carter's messy, dog-eared delivery notebook.",
+      "concreteVisual": "Jonathan Harker holds the dog-eared notebook under the lamp with Dr. Seward looking on.",
+      "onScreenText": "DOGEARED NOTEBOOK",
+      "relationToPrevious": "From the delivery company to the physical notebook containing the movement records.",
+      "addedInformation": "Shows the intimate forensic detail of analyzing messy pencil records."
+    }
+  },
+  {
+    "i": 173,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "earthbox",
+          "piccadilly"
+        ]
+      },
+      "events": [
+        {
+          "on": "boxes",
+          "do": "label",
+          "who": "earthbox",
+          "text": "DISTRIBUTED BOXES"
+        },
+        {
+          "on": "Piccadilly",
+          "do": "label",
+          "who": "piccadilly",
+          "text": "MASSIVE HOUSE"
+        },
+        {
+          "on": "Piccadilly",
+          "do": "together",
+          "who": [
+            "earthbox",
+            "piccadilly"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "The heroes decipher the notebook and trace Dracula's earth boxes to a massive house in Piccadilly",
+    "noVisual": null
+  },
+  {
+    "i": 174,
+    "told": {
+      "stage": {
+        "layout": "court",
+        "who": [
+          "jonathan",
+          "piccadilly",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "solicitor",
+          "do": "change",
+          "who": "jonathan",
+          "action": "point"
+        },
+        {
+          "on": "Piccadilly",
+          "do": "focus",
+          "who": "piccadilly"
+        },
+        {
+          "on": "alias",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "COUNT DEVILLE"
+        }
+      ]
+    },
+    "explainedBy": "Jonathan Harker investigates property records in Piccadilly and uncovers Dracula's alias Count Deville",
+    "noVisual": null
+  },
+  {
+    "i": 175,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "real",
+          "do": "title",
+          "text": "REAL ESTATE SEARCH"
+        },
+        {
+          "on": "sterilize",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "STERILIZED"
+        },
+        {
+          "on": "sacred",
+          "do": "label",
+          "who": "earthbox",
+          "text": "SACRED HOST WAFER"
+        }
+      ]
+    },
+    "explainedBy": "The hunters sterilize Dracula's earth boxes by placing pieces of the sacred host inside them",
+    "noVisual": null
+  },
+  {
+    "i": 176,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "seward",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "liquidating",
+          "do": "stamp",
+          "who": "earthbox",
+          "text": "LIQUIDATED"
+        },
+        {
+          "on": "Seward",
+          "do": "change",
+          "who": "seward",
+          "holds": "book"
+        },
+        {
+          "on": "sterilize",
+          "do": "label",
+          "who": "seward",
+          "text": "SUNRISE TO SUNSET"
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward documents their campaign to liquidate Dracula's assets by sterilizing the earth boxes",
+    "noVisual": null
+  },
+  {
+    "i": 177,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "weakest",
+          "do": "dim",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "refuge",
+          "do": "cross",
+          "who": "dracula"
+        },
+        {
+          "on": "sterilize",
+          "do": "label",
+          "who": "dracula",
+          "text": "NO SAFE HOUSES"
+        }
+      ]
+    },
+    "explainedBy": "The systematic sterilization of safe houses strips Dracula of refuge and catches him at his weakest",
+    "noVisual": null
+  },
+  {
+    "i": 178,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "Dracula",
+          "do": "title",
+          "text": "DECENTRALIZED HIDING PLACES"
+        },
+        {
+          "on": "clever",
+          "do": "change",
+          "who": "dracula",
+          "action": "idle"
+        },
+        {
+          "on": "unassalable",
+          "do": "label",
+          "who": "dracula",
+          "text": "UNASSAILABLE STRUCTURE"
+        }
+      ]
+    },
+    "explainedBy": "Dracula believed he had built an unassailable structure by decentralizing his hiding places",
+    "noVisual": null
+  },
+  {
+    "i": 179,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "helsing",
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "fatal",
+          "do": "label",
+          "who": "dracula",
+          "text": "FATAL PAPER TRAIL"
+        },
+        {
+          "on": "Helsing",
+          "do": "change",
+          "who": "helsing",
+          "action": "point"
+        },
+        {
+          "on": "experimenting",
+          "do": "label",
+          "who": "dracula",
+          "text": "LEARNING AND ADAPTING"
+        }
+      ]
+    },
+    "explainedBy": "Van Helsing notes that Dracula adapts and experiments after the paper trail proves fatal",
+    "noVisual": null
+  },
+  {
+    "i": 180,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "earthbox"
+        ]
+      },
+      "events": [
+        {
+          "on": "boxes",
+          "do": "apart",
+          "who": [
+            "dracula",
+            "earthbox"
+          ]
+        },
+        {
+          "on": "records",
+          "do": "cross",
+          "who": "earthbox"
+        },
+        {
+          "on": "invoice",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "DOOMED"
+        }
+      ]
+    },
+    "explainedBy": "Dracula attempts to move the last boxes himself but the shipping invoice has already doomed him",
+    "noVisual": null
+  },
+  {
+    "i": 181,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "A PARALLEL SUBPLOT",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "helsing"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The narrative shifts from the forensic data hunt to the dark parallel subplot in the asylum",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "While the data tracking proceeds, a dark parallel subplot unfolds in the asylum.",
+      "concreteVisual": "Van Helsing reflects in his study over notes as the investigation shifts toward the psychological underbelly.",
+      "onScreenText": "A PARALLEL SUBPLOT",
+      "relationToPrevious": "Transitions from the bureaucratic audit of Dracula to the parallel asylum subplot.",
+      "addedInformation": "Frames the upcoming Renfield narrative as a thematic mirror to the geopolitical logistics."
+    }
+  },
+  {
+    "i": 182,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOWERING DARK FIGURE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "lowAngle",
+    "cast": [
+      "dracula"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "explainedBy": "Dracula is introduced in the parallel comparison as a towering dark figure sweeping into a room",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula is pictured as a towering, predatory dark figure sweeping into a room.",
+      "concreteVisual": "A low-angle shot of Count Dracula in his black woollen cape sweeping menacingly into a room.",
+      "onScreenText": "TOWERING DARK FIGURE",
+      "relationToPrevious": "Opens the side-by-side comparison with the grand supernatural horror.",
+      "addedInformation": "Establishes Dracula's overwhelming physical scale before showing his pathetic mirror."
+    }
+  },
+  {
+    "i": 183,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TINY AND INSIGNIFICANT",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "renfield"
+    ],
+    "expression": "afraid",
+    "action": "sit",
+    "explainedBy": "Renfield mirrors Dracula's predatory nature from the opposite end as a tiny, insignificant insect-catcher",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "On the opposing side stands an insignificant human mirror of the vampire.",
+      "concreteVisual": "A close-up of Renfield in his rumpled grey asylum jacket reaching nervously into the corner.",
+      "onScreenText": "TINY AND INSIGNIFICANT",
+      "relationToPrevious": "Cuts to the opposite side of the comparison: the pathetic asylum inmate.",
+      "addedInformation": "Contrasts Renfield's cramped vulnerability against Dracula's aristocratic power."
+    }
+  },
+  {
+    "i": 184,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "horror",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "mirrored",
+          "do": "together",
+          "who": [
+            "dracula",
+            "renfield"
+          ]
+        },
+        {
+          "on": "Renfield",
+          "do": "title",
+          "text": "THE ASYLUM MIRROR"
+        },
+        {
+          "on": "Renfield",
+          "do": "focus",
+          "who": "renfield"
+        }
+      ]
+    },
+    "explainedBy": "The cosmic horror of Dracula is mirrored in the clinical obsession of asylum patient Renfield",
+    "noVisual": null
+  },
+  {
+    "i": 185,
+    "told": {
+      "stage": {
+        "layout": "court",
+        "who": [
+          "carfax",
+          "seward",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "asylum",
+          "do": "together",
+          "who": [
+            "renfield",
+            "carfax"
+          ]
+        },
+        {
+          "on": "bought",
+          "do": "stamp",
+          "who": "carfax",
+          "text": "PURCHASED"
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward's lunatic asylum borders the Carfax estate that Dracula bought",
+    "noVisual": null
+  },
+  {
+    "i": 186,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "strategic",
+          "do": "label",
+          "who": "dracula",
+          "text": "STRATEGIC LOCATION"
+        },
+        {
+          "on": "mania",
+          "do": "label",
+          "who": "renfield",
+          "text": "CATCHES LIVING FLIES"
+        },
+        {
+          "on": "alive",
+          "do": "shake",
+          "who": [
+            "renfield"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Carfax is strategically located beside the asylum where Renfield consumes living flies",
+    "noVisual": null
+  },
+  {
+    "i": 187,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FLIES TO CATCH SPIDERS",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "cast": [
+      "renfield"
+    ],
+    "expression": "smirk",
+    "action": "sit",
+    "explainedBy": "Renfield uses captive flies to catch spiders to consume greater life force",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Renfield uses captive flies to catch spiders to consume greater life force.",
+      "concreteVisual": "Renfield sits on the floor of his asylum room with a manic smirk, trapping spiders.",
+      "onScreenText": "FLIES TO CATCH SPIDERS",
+      "relationToPrevious": "From eating flies to escalating his predation toward larger organisms.",
+      "addedInformation": "Shows the escalating ladder of Renfield's zoophagous method in his room."
+    }
+  },
+  {
+    "i": 188,
+    "concept": "medical",
+    "diagram": null,
+    "callout": {
+      "text": "A ZOOPHAGOUS MANIAC",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "seward",
+      "renfield"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "sad",
+    "partnerAction": "slump",
+    "explainedBy": "Dr. Seward classifies Renfield's escalating predation as zoophagous mania",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dr. Seward classifies Renfield's escalating predation as zoophagous mania.",
+      "concreteVisual": "Dr. Seward observes Renfield slumped on the asylum bench while taking clinical diagnosis notes.",
+      "onScreenText": "A ZOOPHAGOUS MANIAC",
+      "relationToPrevious": "From Renfield's bird-eating ambitions to Dr. Seward's medical classification.",
+      "addedInformation": "Introduces Seward's clinical perspective attempting to categorize Renfield's behavior."
+    }
+  },
+  {
+    "i": 189,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "seward",
+          "phonograph"
+        ]
+      },
+      "events": [
+        {
+          "on": "Seward",
+          "do": "change",
+          "who": "seward",
+          "action": "talk"
+        },
+        {
+          "on": "absorb",
+          "do": "label",
+          "who": "phonograph",
+          "text": "ABSORBING MULTIPLE LIVES"
+        },
+        {
+          "on": "cumulative",
+          "do": "label",
+          "who": "seward",
+          "text": "CUMULATIVE CONSUMPTION"
+        }
+      ]
+    },
+    "explainedBy": "Seward records that Renfield desires to absorb as many lives as possible in a cumulative way",
+    "noVisual": null
+  },
+  {
+    "i": 190,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "MULTIPLE LIVES",
+        "PYRAMID SCHEME",
+        "PROLONG LIFE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Renfield builds a pyramid scheme of consumed lives to prolong his own existence indefinitely",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Renfield constructs a pyramid scheme of life force to prolong his own existence.",
+      "concreteVisual": "A flow diagram mapping the accumulation of multiple lives through a pyramid scheme to prolonged life.",
+      "onScreenText": "MULTIPLE LIVES → PYRAMID SCHEME → PROLONG LIFE",
+      "relationToPrevious": "From Seward's diary observation to the structural logic of Renfield's life-force pyramid.",
+      "addedInformation": "Visualizes the cumulative ladder of consumption Renfield believes will grant him longevity."
+    }
+  },
+  {
+    "i": 191,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "mirrors",
+          "do": "together",
+          "who": [
+            "dracula",
+            "renfield"
+          ]
+        },
+        {
+          "on": "accumulation",
+          "do": "label",
+          "who": "dracula",
+          "text": "METABOLIC ACCUMULATION"
+        },
+        {
+          "on": "microeconomy",
+          "do": "label",
+          "who": "renfield",
+          "text": "PREDATORY MICROECONOMY"
+        }
+      ]
+    },
+    "explainedBy": "Renfield's consumption of insects forms a microeconomy mirroring Dracula's accumulation of blood",
+    "noVisual": null
+  },
+  {
+    "i": 192,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "predation",
+          "do": "title",
+          "text": "MACRO PREDATION"
+        },
+        {
+          "on": "immortality",
+          "do": "grow",
+          "who": [
+            "dracula"
+          ]
+        },
+        {
+          "on": "spiders",
+          "do": "dim",
+          "who": [
+            "renfield"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Dracula sustains immortality through macro predation while Renfield feeds on small insects",
+    "noVisual": null
+  },
+  {
+    "i": 193,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "renfield",
+          "seward"
+        ]
+      },
+      "events": [
+        {
+          "on": "tells",
+          "do": "change",
+          "who": "renfield",
+          "action": "point"
+        },
+        {
+          "on": "blood",
+          "do": "title",
+          "text": "THE BLOOD IS THE LIFE"
+        },
+        {
+          "on": "parasitic",
+          "do": "stamp",
+          "who": "renfield",
+          "text": "PARASITIC"
+        }
+      ]
+    },
+    "explainedBy": "Renfield quotes scripture to Seward that the blood is the life, revealing their parasitic nature",
+    "noVisual": null
+  },
+  {
+    "i": 194,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "uses",
+          "do": "crown",
+          "who": "dracula"
+        },
+        {
+          "on": "pawn",
+          "do": "stamp",
+          "who": "renfield",
+          "text": "TACTICAL PAWN"
+        }
+      ]
+    },
+    "explainedBy": "Dracula uses Renfield not merely as a thematic mirror but as a tactical pawn in his invasion",
+    "noVisual": null
+  },
+  {
+    "i": 195,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "seward"
+        ]
+      },
+      "events": [
+        {
+          "on": "invited",
+          "do": "cross",
+          "who": "dracula"
+        },
+        {
+          "on": "asylum",
+          "do": "label",
+          "who": "seward",
+          "text": "REQUIRES INVITATION"
+        }
+      ]
+    },
+    "explainedBy": "A vampire cannot enter Seward's asylum without first being invited by an inmate or resident",
+    "noVisual": null
+  },
+  {
+    "i": 196,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "dracula",
+          "mina"
+        ]
+      },
+      "events": [
+        {
+          "on": "protection",
+          "do": "cover",
+          "who": [
+            "mina"
+          ]
+        },
+        {
+          "on": "invitation",
+          "do": "title",
+          "text": "LEGAL INVITATION REQUIRED"
+        }
+      ]
+    },
+    "explainedBy": "Mina Harker is sheltered inside the asylum while Dracula requires a legal invitation to breach it",
+    "noVisual": null
+  },
+  {
+    "i": 197,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PROMISES ENDLESS LIVES",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "dracula",
+      "renfield"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "afraid",
+    "partnerAction": "think",
+    "explainedBy": "Dracula appears outside Renfield's asylum window, tempting his mental fragility with promises of endless lives",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dracula appears at Renfield's cell window, exploiting his mental fragility with promises of lives.",
+      "concreteVisual": "A two-shot showing Dracula smirking outside the barred cell window, tempting a trembling Renfield.",
+      "onScreenText": "PROMISES ENDLESS LIVES",
+      "relationToPrevious": "From the rule requiring an invitation to Dracula's direct psychological manipulation at the window.",
+      "addedInformation": "Visualizes the sinister predatory transaction through the physical cell bars."
+    }
+  },
+  {
+    "i": 198,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OVERWHELMED AND BREAKS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "renfield",
+      "dracula"
+    ],
+    "expression": "sad",
+    "action": "collapsed",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Renfield is overwhelmed by Dracula's promise of life force and collapses to worship the vampire",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Renfield breaks under the temptation of endless life force and collapses to worship Dracula.",
+      "concreteVisual": "Renfield collapses flat on the asylum stone floor before the towering silhouette of Dracula.",
+      "onScreenText": "OVERWHELMED AND BREAKS",
+      "relationToPrevious": "From Dracula's tempting offers to Renfield's complete psychological and physical collapse.",
+      "addedInformation": "Shows Renfield's total surrender, body sprawled on the floor in worship."
+    }
+  },
+  {
+    "i": 199,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OPENING THE SASH",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "renfield",
+      "dracula"
+    ],
+    "expression": "afraid",
+    "action": "sit",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "says": "come in lord and master",
+    "explainedBy": "Renfield opens the window sash and invites Dracula inside, saying 'come in, lord and master'",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Renfield opens the window sash and invites Count Dracula into the asylum.",
+      "concreteVisual": "Renfield sits beside the open window sash speaking the invitation while Dracula looms outside.",
+      "onScreenText": "OPENING THE SASH",
+      "relationToPrevious": "The climax of the temptation: Renfield speaks the words granting legal entry.",
+      "addedInformation": "Captures the exact fateful moment of speech breaking the asylum's legal threshold."
+    }
+  },
+  {
+    "i": 200,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "dracula"
+        ]
+      },
+      "events": [
+        {
+          "on": "entrance",
+          "do": "title",
+          "text": "LEGAL INVITED ENTRANCE"
+        },
+        {
+          "on": "Dracula",
+          "do": "change",
+          "who": "dracula",
+          "action": "walk"
+        },
+        {
+          "on": "weakest",
+          "do": "stamp",
+          "who": "dracula",
+          "text": "BREACHED"
+        }
+      ]
+    },
+    "explainedBy": "Dracula gains legal invited entrance into the asylum by breaching its weakest link",
+    "noVisual": null
+  },
+  {
+    "i": 201,
+    "concept": "medical",
+    "diagram": null,
+    "callout": {
+      "text": "PSYCHOLOGICAL SCIENCE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "seward"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The asylum subplot exposes the severe fragility of Victorian psychological science",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The asylum subplot exposes the severe fragility of Victorian psychological science.",
+      "concreteVisual": "Dr. Seward sits pensively in his asylum office beside the medical emblem, questioning his diagnostic tools.",
+      "onScreenText": "PSYCHOLOGICAL SCIENCE",
+      "relationToPrevious": "From Dracula's physical entry to the intellectual critique of Victorian medical science.",
+      "addedInformation": "Frames Seward's clinical discipline as fundamentally vulnerable to archaic realities."
+    }
+  },
+  {
+    "i": 202,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "seward",
+          "renfield"
+        ]
+      },
+      "events": [
+        {
+          "on": "observing",
+          "do": "change",
+          "who": "seward",
+          "holds": "notes"
+        },
+        {
+          "on": "Renfield",
+          "do": "change",
+          "who": "renfield",
+          "action": "idle"
+        },
+        {
+          "on": "diary",
+          "do": "label",
+          "who": "seward",
+          "text": "ANALYZING AND CLASSIFYING"
+        }
+      ]
+    },
+    "explainedBy": "Dr. Seward observes and analyzes Renfield daily, compiling extensive clinical notes in his diary",
+    "noVisual": null
+  },
+  {
+    "i": 203,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STUDYING MADNESS",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "seward",
+      "dracula"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Seward believes he is studying madness while oblivious to Dracula manipulating his patient right under his nose",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seward believes he is studying clinical madness while missing the ancient predator exploiting his patient.",
+      "concreteVisual": "Dr. Seward studies his notes oblivious to the towering figure of Count Dracula looming in the background.",
+      "onScreenText": "STUDYING MADNESS",
+      "relationToPrevious": "Contrasts Seward's clinical diagnosis against the actual supernatural reality.",
+      "addedInformation": "The struck callout rejects Seward's diagnosis of madness in favor of predation."
+    }
+  },
+  {
+    "i": 204,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "SCIENTIFIC METHOD FAILS",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "seward"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The scientific method fails because Victorian medicine refuses to account for the irrational",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The scientific method fails because Victorian medicine refuses to account for irrational phenomena.",
+      "concreteVisual": "Dr. Seward sits slumped beside the scales of justice and reason in his dim library.",
+      "onScreenText": "SCIENTIFIC METHOD FAILS",
+      "relationToPrevious": "Articulates the philosophical failure of pure rationalism against gothic horror.",
+      "addedInformation": "Shows Seward defeated by the limitations of his scientific training."
+    }
+  },
+  {
+    "i": 205,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LOCKED INTO HIS PARADIGM",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "overShoulder",
+    "cast": [
+      "seward",
+      "dracula"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Seward remains locked in his medical paradigm, blind to Dracula standing outside the window",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seward is trapped in his medical paradigm, blind to the monster outside his window.",
+      "concreteVisual": "An over-the-shoulder view past Dracula outside the dark window looking in on a preoccupied Dr. Seward.",
+      "onScreenText": "LOCKED INTO HIS PARADIGM",
+      "relationToPrevious": "Final crystallization of Seward's cognitive blindness to the predatory threat outside.",
+      "addedInformation": "Frames the dramatic irony of the predator watching the oblivious physician through the glass."
+    }
+  }
+]

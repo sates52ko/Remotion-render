@@ -1,0 +1,27 @@
+[
+ {
+  "id": "b001",
+  "narration": "The data is his camouflage. He is absorbing the empire's information to become invisible within it. Okay. The intention is clear enough.",
+  "onScreen": {
+   "happens": [
+    "enter atlas",
+    "take dracula the atlas",
+    "dim dracula and atlas"
+   ]
+  },
+  "viewerGuess": "The narrator is introducing Dracula examining a map or atlas of territories before fading into the background."
+ },
+ {
+  "id": "b002",
+  "narration": "Quincy Morris wields a Bowie knife. The box is breached, the lid thrown back. Harker's blade slashes through the count's throat.",
+  "onScreen": {
+   "stage": "row: quincey, jonathan, dracula",
+   "happens": [
+    "change quincey",
+    "act jonathan",
+    "label dracula \"SLASHES THE THROAT\""
+   ]
+  },
+  "viewerGuess": "The narrator is describing a violent confrontation where Jonathan attacks and slashes Dracula's throat while Quincey looks on or reacts."
+ }
+]

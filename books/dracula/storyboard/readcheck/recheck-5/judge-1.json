@@ -1,0 +1,26 @@
+[
+ {
+  "id": "b001",
+  "narration": "So, we agree the invasion starts on paper and the tactical beach head is secured legally.",
+  "onScreen": {
+   "happens": [
+    "arrange deed and carfax and london",
+    "grow deed",
+    "stamp carfax \"SECURED\""
+   ]
+  },
+  "viewerGuess": "The transaction for the Carfax estate in London has been officially completed and legally secured by deed."
+ },
+ {
+  "id": "b002",
+  "narration": "He does destroy the room. Yeah. He throws them in the fire. He is executing a targeted destruction of their files.",
+  "onScreen": {
+   "happens": [
+    "change dracula holds notes",
+    "shake typewriter",
+    "stamp typewriter \"DESTROYED\""
+   ]
+  },
+  "viewerGuess": "Dracula seizes the notes and violently destroys the typewriter to eliminate written records."
+ }
+]
