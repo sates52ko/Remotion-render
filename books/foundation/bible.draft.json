@@ -1,0 +1,505 @@
+{
+  "slug": "foundation",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=foundation --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "foundation",
+    "world": {
+      "era": "far-future galactic empire, the Galactic Empire in decline",
+      "eraEvidence": "narration: galaxy-spanning empire, Trantor, Terminus, 50 years after founding",
+      "worldId": "galactic-empire",
+      "approxYear": 12020,
+      "setting": "Trantor capital world and the edge-of-galaxy planet Terminus, plus warring periphery kingdoms",
+      "register": "political sci-fi, dry and stately",
+      "forbid": [
+        "toga",
+        "ancientGreek",
+        "ancientTemple",
+        "chariot",
+        "medieval",
+        "horse",
+        "castle"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "foundation",
+      "worldId": "galactic-empire",
+      "allowedMotifs": [
+        "coin",
+        "shield",
+        "war",
+        "lightbulb",
+        "law",
+        "puppeteer",
+        "compass"
+      ],
+      "forbiddenMotifs": [
+        "toga",
+        "ancientGreek",
+        "ancientTemple",
+        "chariot"
+      ],
+      "allowedCharacters": [
+        "seldon",
+        "harden",
+        "pirenne",
+        "envoy",
+        "commissioner"
+      ],
+      "allowedLocations": [
+        "vault",
+        "office",
+        "throneRoom",
+        "bridge"
+      ],
+      "allowedProps": [
+        "coin",
+        "stylus",
+        "paper",
+        "hologram cubicle"
+      ]
+    },
+    "cast": {
+      "seldon": {
+        "name": "Hari Seldon",
+        "role": "mathematician, founder of psychohistory, recorded in a hologram",
+        "look": "elderly man, slight frame, grey hair, formal dark robe, seated in a wheelchair",
+        "variant": {
+          "outfit": "robe",
+          "hairStyle": "receding",
+          "beard": "none",
+          "build": "average",
+          "headScale": 1
+        },
+        "mentions": 6
+      },
+      "harden": {
+        "name": "Salvor Hardin",
+        "role": "mayor of Terminus, pragmatic leader",
+        "look": "middle-aged man, sturdy build, short hair, plain civic tunic, sharp eyes",
+        "variant": {
+          "outfit": "uniform",
+          "hairStyle": "buzz",
+          "beard": "none",
+          "build": "heavy",
+          "headScale": 1
+        },
+        "mentions": 12
+      },
+      "pirenne": {
+        "name": "Lewis Pirenne",
+        "role": "chairman of the trustees, scholar absorbed in the Encyclopedia",
+        "look": "older scholar, thin, balding, wire spectacles, rumpled scholar robe",
+        "variant": {
+          "outfit": "robe",
+          "hairStyle": "bald",
+          "beard": "none",
+          "build": "average",
+          "headScale": 1
+        },
+        "mentions": 6
+      },
+      "envoy": {
+        "name": "Anacreonian envoy",
+        "role": "royal envoy from the barbaric kingdom of Anacreon, demanding tribute",
+        "look": "proud man, rich embroidered tunic, short beard, ceremonial collar",
+        "variant": {
+          "outfit": "coat",
+          "hairStyle": "short",
+          "beard": "goatee",
+          "build": "average",
+          "headScale": 1
+        },
+        "mentions": 3
+      },
+      "commissioner": {
+        "name": "Chief Commissioner Lens Chen",
+        "role": "political head of the Commission of Public Safety on Trantor",
+        "look": "stern official, heavy-set, grey suit, rigid posture",
+        "variant": {
+          "outfit": "suit",
+          "hairStyle": "receding",
+          "beard": "none",
+          "build": "heavy",
+          "headScale": 1
+        },
+        "mentions": 2
+      }
+    },
+    "places": {
+      "vault": {
+        "set": "room",
+        "look": "dim cavernous time vault, stale air, flickering yellowing light, a glass cubicle at the centre",
+        "mentions": 3
+      },
+      "office": {
+        "set": "office",
+        "look": "cramped mayor office on Terminus, bare walls, a desk with a stylus and paper",
+        "mentions": 4
+      },
+      "throneRoom": {
+        "set": "court",
+        "look": "formal chamber where the envoy stands demanding tribute",
+        "mentions": 2
+      },
+      "bridge": {
+        "set": "stage",
+        "look": "bridge of a vast flagship in open space, huge weapons and engines",
+        "mentions": 1
+      }
+    },
+    "objects": [
+      {
+        "concept": "coin",
+        "mentions": 3,
+        "why": "stainless steel two-credit coin Harden flips: metal is so scarce on Terminus that steel is currency"
+      },
+      {
+        "concept": "shield",
+        "mentions": 9,
+        "why": "the Foundation as protector against the rival kingdoms"
+      },
+      {
+        "concept": "war",
+        "mentions": 10,
+        "why": "the warlike periphery kingdoms and their threat to Terminus"
+      },
+      {
+        "concept": "lightbulb",
+        "mentions": 3,
+        "why": "the glowing nuclear core of Terminus, a small rock with light deep inside"
+      },
+      {
+        "concept": "law",
+        "mentions": 5,
+        "why": "the Commission of Public Safety and its legal power over Seldon"
+      },
+      {
+        "concept": "puppeteer",
+        "mentions": 4,
+        "why": "Seldon as the unseen hand moving the pieces of the plan"
+      },
+      {
+        "concept": "compass",
+        "mentions": 2,
+        "why": "the fixed course of a plan the characters cannot read"
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 5,
+        "claim": "Seldon has calculated the fall of the Galactic Empire and exiles the Encyclopedists to Terminus, where their fake mission keeps them unaware."
+      },
+      {
+        "act": "development",
+        "fromFrame": 13834,
+        "claim": "Hardin turns Terminus nuclear power into political leverage, playing the periphery kingdoms against each other without a fleet."
+      },
+      {
+        "act": "turn",
+        "fromFrame": 27586,
+        "claim": "Belief itself becomes the Foundation weapon: a faith in its own authority that works as power."
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 41069,
+        "claim": "The plan survives only while people act as if they are free, and a single exceptional individual threatens the statistical whole."
+      },
+      {
+        "act": "close",
+        "fromFrame": 56501,
+        "claim": "The crowd never sees its future; the drama is what the plan does to those who must act inside it."
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 521,
+    "cast": [
+      {
+        "name": "Harden",
+        "asSubject": 12,
+        "total": 27,
+        "samples": [
+          "Harden is sitting across from the oblivious scholar Lewis PN.",
+          "And Harden is just the mayor of the local city.",
+          "Exactly. And while Harden is flipping this coin, acutely aware of their material reality, PN is just scraping his stylus on paper, visibly annoyed."
+        ]
+      },
+      {
+        "name": "Terminus",
+        "asSubject": 8,
+        "total": 21,
+        "samples": [
+          "Because Terminus is so completely devoid of metals that steel is actually precious enough to be currency.",
+          "Yeah. PN is completely ignoring the fact that Terminus is cut off from metal shipments.",
+          "Terminus is entirely on its We see this clash of realities perfectly when the Anacronian envoy, How Rodri, finally arrives."
+        ]
+      },
+      {
+        "name": "Seldon",
+        "asSubject": 6,
+        "total": 28,
+        "samples": [
+          "If Harry Seldon is so smart and he knows exactly when the Galactic Empire is going to fall into barbarism and he predicts it's going to happen and it's going to",
+          "Seldon realized he couldn't stop the fall.",
+          "Seldon goes in there."
+        ]
+      },
+      {
+        "name": "Foundation",
+        "asSubject": 4,
+        "total": 15,
+        "samples": [
+          "If the religion ever breaks out of the foundation's control, if a charismatic local leader truly harnesses that fanaticism and turns it against Terminus, the Fo",
+          "But I mean they didn't know I mean the entire First Foundation has been walking a tightroppe without a net.",
+          "The Foundation is just sitting back and letting the empire collapse under its own dead weight."
+        ]
+      },
+      {
+        "name": "Empire",
+        "asSubject": 3,
+        "total": 8,
+        "samples": [
+          "If Harry Seldon is so smart and he knows exactly when the Galactic Empire is going to fall into barbarism and he predicts it's going to happen and it's going to",
+          "The Galactic Empire is ruled from Trantor and Trantor isn't just a city.",
+          "The Galactic Empire has essentially abandoned them."
+        ]
+      },
+      {
+        "name": "Malow",
+        "asSubject": 2,
+        "total": 11,
+        "samples": [
+          "So, Malow says, \"Hey, I have no priests.",
+          "He is a man of the Empire, but he realizes Malow has a personal force shield."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "shipDeck",
+        "mentions": 5,
+        "samples": [
+          "You can't just steer a ship that massive by turning a tiny wheel.",
+          "And on the bridge of this ship stands a single man, a priest."
+        ]
+      },
+      {
+        "set": "office",
+        "mentions": 1,
+        "samples": [
+          "That is exactly what is happening in the office of Mayor Salvor Harden on Terminus."
+        ]
+      },
+      {
+        "set": "colonnade",
+        "mentions": 1,
+        "samples": [
+          "But Apparat raises his hands and declares the ship cursed in the name of the galactic And because Harden's people back on Terminus have timed this per"
+        ]
+      },
+      {
+        "set": "agora",
+        "mentions": 1,
+        "samples": [
+          "Yes. And they have to pivot from the church to the marketplace."
+        ]
+      },
+      {
+        "set": "court",
+        "mentions": 1,
+        "samples": [
+          "So, Poets centers the iron buckles on the anode screen, praying the court stands the strain, knowing his actual life depends on there being no failure"
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "war",
+        "mentions": 10,
+        "sample": "How does a single city on a barren rock maintain control over billions of armed aggressive barbarians across multiple solar systems without "
+      },
+      {
+        "concept": "shield",
+        "mentions": 9,
+        "sample": "Yes. Look at his trial before the Commission of Public Safety."
+      },
+      {
+        "concept": "grave",
+        "mentions": 7,
+        "sample": "A galaxy spanning empire is dying."
+      },
+      {
+        "concept": "lightbulb",
+        "mentions": 7,
+        "sample": "And what this illustrates so perfectly is that your individual genius, your personal hard work, your specific goals in life, to the math, no"
+      },
+      {
+        "concept": "wallet",
+        "mentions": 6,
+        "sample": "Here are the five things we need to fix to save the Why is this elaborate exile to a metal pore rock the only option?"
+      },
+      {
+        "concept": "city",
+        "mentions": 5,
+        "sample": "The Galactic Empire is ruled from Trantor and Trantor isn't just a city."
+      },
+      {
+        "concept": "law",
+        "mentions": 5,
+        "sample": "Yes. Look at his trial before the Commission of Public Safety."
+      },
+      {
+        "concept": "fire",
+        "mentions": 5,
+        "sample": "They are burning oil and coal."
+      },
+      {
+        "concept": "phone",
+        "mentions": 5,
+        "sample": "Okay. But I think calling PN a coward is missing the psychological layer of what Seldon did to him."
+      },
+      {
+        "concept": "puppeteer",
+        "mentions": 4,
+        "sample": "He manipulated the chief commissioner, Lens Chen."
+      },
+      {
+        "concept": "star",
+        "mentions": 4,
+        "sample": "Harden flips a stainless steel two credit coin in the air, watching the light flash off it."
+      },
+      {
+        "concept": "game",
+        "mentions": 4,
+        "sample": "Harden plays a brilliant game of four-dimensional chess."
+      }
+    ],
+    "openingLines": [
+      "A galaxy spanning empire is dying.",
+      "And a man has already calculated the exact century its fall will take.",
+      "I mean, Azimov's foundation is not about heroes at all.",
+      "It is about a crowd that never sees its own future.",
+      "You know, a whole civilization is steered by a mathematician's prediction of masses.",
+      "And the drama is really what that does to the individuals who must act inside a plan they just cannot read."
+    ],
+    "closingLines": [
+      "The plan works only because the people inside it keep acting as if they were As you go about your week, we want you to ask yourself a deeply uncomfortable question.",
+      "How many of your own choices are truly yours?",
+      "And how many are just the predictable result of the vast sociological, economic, and political forces swirling around you?",
+      "Are you the driver of your own life or just another perfectly predictable number in the"
+    ]
+  }
+}

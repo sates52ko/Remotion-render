@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-14T05:59:07.312Z",
+  "n": 274,
+  "total": 274,
+  "sources": [
+    "readcheck",
+    "recheck-1"
+  ],
+  "evidence": {
+    "status": "OK",
+    "signals": [
+      "full run: readers 1: 140 items written 95 s after the input (a fresh reader needs >= 105 s)",
+      "full run: judges 1: 140 items written 63 s after the input (a fresh reader needs >= 105 s)",
+      "full run: readers 2: 134 items written 54 s after the input (a fresh reader needs >= 100.5 s)",
+      "full run: judges 2: 134 items written 66 s after the input (a fresh reader needs >= 100.5 s)"
+    ]
+  },
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "foundation-prep-c11827fe7b6c",
+    "folders": {
+      "readcheck": {
+        "run": "foundation-prep-c11827fe7b6c",
+        "evidenceSha256": "758569e595b768dd47070080c1bf445ec8b9b2cc2ae0a55462a511a03242a074"
+      },
+      "recheck-1": {
+        "run": "foundation-prep-6b78e17d4342",
+        "evidenceSha256": "23e85c386e4bbd7a861a166dd8f9e4d894f323356f49bb998cd23ddc1cac80fb"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 245,
+    "NEUTRAL": 29,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {
+    "words": 19,
+    "nothing-fits": 3,
+    "body": 1,
+    "diagram": 2,
+    "icon": 3,
+    "people": 1
+  },
+  "iconBlame": {
+    "mask": 1,
+    "puppeteer": 1,
+    "shield": 1
+  },
+  "beats": [
+    {
+      "i": 0,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess misses the fall of the empire and the calculated century.",
+      "from": "readcheck",
+      "concept": "hourglass",
+      "callout": "THE EXACT CENTURY"
+    },
+    {
+      "i": 5,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess says free will is an illusion; the narration says the plan needs that illusion to survive.",
+      "from": "readcheck",
+      "concept": "mask",
+      "callout": "Free will is an illusion"
+    },
+    {
+      "i": 14,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Guess is vague and omits the time vault on Terminus.",
+      "from": "readcheck",
+      "concept": "clock",
+      "callout": "50 YEARS AFTER"
+    },
+    {
+      "i": 17,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess makes the scholar the distracted one rather than the project being a distraction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A SHINY OBJECT"
+    },
+    {
+      "i": 19,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess says no volume was finished, not that Seldon does not care if it is published.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "NOT A SINGLE VOLUME"
+    },
+    {
+      "i": 24,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess omits the question of why Seldon does not tell the Emperor.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "30,000 YEARS OF A DARK AGE"
+    },
+    {
+      "i": 25,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess omits the question about why exile is the only option.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "HERE'S THE MATH"
+    },
+    {
+      "i": 35,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess catches Seldon and a commissioner in conflict but misreads 'plays the commissioner' as impersonation and misses that he manipulates the commissioner into forcing his exile.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "Seldon plays the commissioner"
+    },
+    {
+      "i": 36,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Guess misses the claim that Seldon outsmarted powerful men.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE ULTIMATE LONE GENIUS"
+    },
+    {
+      "i": 42,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Guess is vague and omits the thermodynamics comparison.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Inescapable forces"
+    },
+    {
+      "i": 50,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Guess denies a link, while the narration asks how skill becomes power.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 67,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess gets land demands and a tense exchange, but 'envoy arriving' is off and it misses the brilliant casual question that is the narration's turn.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "Envoy demands land"
+    },
+    {
+      "i": 107,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Guess puts the dial-adjusting on a masked figure rather than foundation technicians.",
+      "from": "readcheck",
+      "concept": "mask",
+      "callout": "JUST ADJUSTING DIALS"
+    },
+    {
+      "i": 113,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess omits the objection that it is horrifying.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE LINE OF LEAST RESISTANCE"
+    },
+    {
+      "i": 119,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Guess lists groups without the point that they serve Seldon unknowingly.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 120,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Guess places the old man inside the plan, though he is its author.",
+      "from": "readcheck",
+      "concept": "game",
+      "callout": "INSIDE A PLAN THEY DON'T KNOW"
+    },
+    {
+      "i": 140,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess says he should have questioned praise earlier, garbling the narrator turning to question an earlier point.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "QUESTION EARLIER PRAISE"
+    },
+    {
+      "i": 157,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Only introduces a name; the narrator calls him a sweating traitor.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "LIMAR PONYETS"
+    },
+    {
+      "i": 160,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess captures failure-not-allowed but misses the question of why he is doing this.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "NO FAILURES ALLOWED"
+    },
+    {
+      "i": 169,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess catches conveniences but omits the pioneers framing question.",
+      "from": "readcheck",
+      "concept": "home",
+      "callout": "LITTLE CONVENIENCES"
+    },
+    {
+      "i": 170,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague: does not say who is clear-eyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "MOST CLEAR-EYED"
+    },
+    {
+      "i": 187,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess is vague about stepping back to Seldon math.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "ONE ANOMALY"
+    },
+    {
+      "i": 196,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague, no narrator praise of the pivot.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "ARTIFICIALLY ADJUSTED"
+    },
+    {
+      "i": 210,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague about the second hologram appearance and crisis.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Seldon speaks again"
+    },
+    {
+      "i": 222,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague, no reference to characters.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "What it implies"
+    },
+    {
+      "i": 228,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Vague reaction without the point.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A dark way to look"
+    },
+    {
+      "i": 261,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague about human element criticism.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The human element"
+    },
+    {
+      "i": 264,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Puppet-string icon reads as manipulation, not cold narrative scale.",
+      "from": "readcheck",
+      "concept": "puppeteer",
+      "callout": "The narrative feel cold"
+    },
+    {
+      "i": 265,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Shield with no context misses that the second foundation feels convenient.",
+      "from": "readcheck",
+      "concept": "shield",
+      "callout": "A magical shield"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 17,
+    "wrong": [],
+    "neutral": [
+      {
+        "i": 24,
+        "code": "ECHO_ONLY_CARRIER"
+      },
+      {
+        "i": 228,
+        "code": "ECHO_ONLY_CARRIER"
+      }
+    ],
+    "cleared": 15,
+    "unread": []
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "slug": "foundation",
+  "world": {
+    "era": "far-future galactic empire, the Galactic Empire in decline",
+    "eraEvidence": "narration: galaxy-spanning empire, Trantor, Terminus, 50 years after founding",
+    "worldId": "galactic-empire",
+    "approxYear": 12020,
+    "setting": "Trantor capital world and the edge-of-galaxy planet Terminus, plus warring periphery kingdoms",
+    "register": "political sci-fi, dry and stately",
+    "forbid": [
+      "toga",
+      "ancientGreek",
+      "ancientTemple",
+      "chariot",
+      "medieval",
+      "horse",
+      "castle"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "foundation",
+    "worldId": "galactic-empire",
+    "allowedMotifs": [
+      "puppeteer",
+      "balance",
+      "clock",
+      "shield",
+      "city",
+      "hourglass",
+      "book",
+      "mask",
+      "game",
+      "war",
+      "chains",
+      "coin",
+      "star",
+      "home",
+      "compass",
+      "target",
+      "tree",
+      "boulder",
+      "fire",
+      "gift",
+      "grave",
+      "lightbulb",
+      "storm"
+    ],
+    "forbiddenMotifs": [
+      "toga",
+      "ancientGreek",
+      "ancientTemple",
+      "chariot"
+    ],
+    "allowedCharacters": [
+      "seldon",
+      "harden",
+      "pirenne",
+      "envoy",
+      "commissioner"
+    ],
+    "allowedLocations": [
+      "vault",
+      "office",
+      "throneRoom",
+      "bridge"
+    ],
+    "allowedProps": [
+      "coin",
+      "stylus",
+      "paper",
+      "hologram cubicle"
+    ]
+  },
+  "cast": {
+    "seldon": {
+      "name": "Hari Seldon",
+      "role": "mathematician, founder of psychohistory, recorded in a hologram",
+      "look": "elderly man, slight frame, grey hair, formal dark robe, seated in a wheelchair",
+      "variant": {
+        "outfit": "robe",
+        "hairStyle": "receding",
+        "beard": "none",
+        "build": "average",
+        "headScale": 1,
+        "gender": "m",
+        "age": "old",
+        "suit": "#36383d",
+        "hair": "#9a9a9a"
+      },
+      "mentions": 6
+    },
+    "harden": {
+      "name": "Salvor Hardin",
+      "role": "mayor of Terminus, pragmatic leader",
+      "look": "middle-aged man, sturdy build, short hair, plain civic tunic, sharp eyes",
+      "variant": {
+        "outfit": "uniform",
+        "hairStyle": "buzz",
+        "beard": "none",
+        "build": "heavy",
+        "headScale": 1,
+        "gender": "m",
+        "age": "adult",
+        "suit": "#1f2a44",
+        "hair": "#2b2118"
+      },
+      "mentions": 12
+    },
+    "pirenne": {
+      "name": "Lewis Pirenne",
+      "role": "chairman of the trustees, scholar absorbed in the Encyclopedia",
+      "look": "older scholar, thin, balding, wire spectacles, rumpled scholar robe",
+      "variant": {
+        "outfit": "robe",
+        "hairStyle": "bald",
+        "beard": "none",
+        "build": "average",
+        "headScale": 1,
+        "gender": "m",
+        "age": "old",
+        "suit": "#5a4630",
+        "hair": "#7a6a58"
+      },
+      "mentions": 6
+    },
+    "envoy": {
+      "name": "Anacreonian envoy",
+      "role": "royal envoy from the barbaric kingdom of Anacreon, demanding tribute",
+      "look": "proud man, rich embroidered tunic, short beard, ceremonial collar",
+      "variant": {
+        "outfit": "coat",
+        "hairStyle": "short",
+        "beard": "goatee",
+        "build": "average",
+        "headScale": 1,
+        "gender": "m",
+        "age": "adult",
+        "suit": "#6b1e2e",
+        "hair": "#3a2a1c"
+      },
+      "mentions": 3
+    },
+    "commissioner": {
+      "name": "Chief Commissioner Lens Chen",
+      "role": "political head of the Commission of Public Safety on Trantor",
+      "look": "stern official, heavy-set, grey suit, rigid posture",
+      "variant": {
+        "outfit": "suit",
+        "hairStyle": "receding",
+        "beard": "none",
+        "build": "heavy",
+        "headScale": 1,
+        "gender": "m",
+        "age": "adult",
+        "suit": "#6e6e6e",
+        "hair": "#8c8c8c"
+      },
+      "mentions": 2
+    }
+  },
+  "places": {
+    "vault": {
+      "set": "room",
+      "look": "dim cavernous time vault, stale air, flickering yellowing light, a glass cubicle at the centre",
+      "mentions": 3
+    },
+    "office": {
+      "set": "office",
+      "look": "cramped mayor office on Terminus, bare walls, a desk with a stylus and paper",
+      "mentions": 4
+    },
+    "throneRoom": {
+      "set": "court",
+      "look": "formal chamber where the envoy stands demanding tribute",
+      "mentions": 2
+    },
+    "bridge": {
+      "set": "stage",
+      "look": "bridge of a vast flagship in open space, huge weapons and engines",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "coin",
+      "mentions": 3,
+      "why": "stainless steel two-credit coin Harden flips: metal is so scarce on Terminus that steel is currency"
+    },
+    {
+      "concept": "shield",
+      "mentions": 9,
+      "why": "the Foundation as protector against the rival kingdoms"
+    },
+    {
+      "concept": "war",
+      "mentions": 10,
+      "why": "the warlike periphery kingdoms and their threat to Terminus"
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 3,
+      "why": "the glowing nuclear core of Terminus, a small rock with light deep inside"
+    },
+    {
+      "concept": "law",
+      "mentions": 5,
+      "why": "the Commission of Public Safety and its legal power over Seldon"
+    },
+    {
+      "concept": "puppeteer",
+      "mentions": 4,
+      "why": "Seldon as the unseen hand moving the pieces of the plan"
+    },
+    {
+      "concept": "compass",
+      "mentions": 2,
+      "why": "the fixed course of a plan the characters cannot read"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 5,
+      "claim": "Seldon has calculated the fall of the Galactic Empire and exiles the Encyclopedists to Terminus, where their fake mission keeps them unaware."
+    },
+    {
+      "act": "development",
+      "fromFrame": 13834,
+      "claim": "Hardin turns Terminus nuclear power into political leverage, playing the periphery kingdoms against each other without a fleet."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 27586,
+      "claim": "Belief itself becomes the Foundation weapon: a faith in its own authority that works as power."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 41069,
+      "claim": "The plan survives only while people act as if they are free, and a single exceptional individual threatens the statistical whole."
+    },
+    {
+      "act": "close",
+      "fromFrame": 56501,
+      "claim": "The crowd never sees its future; the drama is what the plan does to those who must act inside it."
+    }
+  ],
+  "authored": true
+}

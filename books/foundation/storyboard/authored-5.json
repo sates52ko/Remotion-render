@@ -1,0 +1,934 @@
+[
+  {
+    "i": 154,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Iron buckles",
+        "Quartz cylinder"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause start: the iron is placed into the cylinder.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A man places the buckles into a lead-lined quartz cylinder.",
+      "concreteVisual": "Flow: IRON BUCKLES to QUARTZ CYLINDER",
+      "onScreenText": "IRON BUCKLES, QUARTZ CYLINDER",
+      "relationToPrevious": "New idea: the transmutation demo begins.",
+      "addedInformation": "Shows the input and the container the narration names."
+    }
+  },
+  {
+    "i": 155,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Iron buckles",
+        "Quartz cylinder",
+        "Hum and flash"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The machine is switched on: the step between iron and gold.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He turns on the machine; a hum and a flash.",
+      "concreteVisual": "Same flow, a third label HUM AND FLASH draws in",
+      "onScreenText": "IRON BUCKLES, QUARTZ CYLINDER, HUM AND FLASH",
+      "relationToPrevious": "Keeps the stage; adds the machine step.",
+      "addedInformation": "Adds the trigger step in the chain."
+    }
+  },
+  {
+    "i": 156,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Raw iron",
+        "Shining gold"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Before vs after: the metal changes while the machine stays the same.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Raw iron becomes shining heavy gold; the machine and man stay the same.",
+      "concreteVisual": "Flow: RAW IRON to SHINING GOLD",
+      "onScreenText": "RAW IRON, SHINING GOLD",
+      "relationToPrevious": "Result of the demo, a new two-label flow because the first holds three labels.",
+      "addedInformation": "Shows the change of the metal as a before and after."
+    }
+  },
+  {
+    "i": 157,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LIMAR PONYETS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The scene is named: a specific trader under strain.",
+    "noVisual": "No cast member in the story bible is Ponyets; a stand-in would mislead.",
+    "storyboard": {
+      "claim": "The traitor Limar Ponyets is sweating profusely.",
+      "concreteVisual": "Callout naming the trader; no trader figure exists in the cast.",
+      "onScreenText": "LIMAR PONYETS",
+      "relationToPrevious": "Moves from the metaphor to the book scene.",
+      "addedInformation": "weak: name only"
+    }
+  },
+  {
+    "i": 158,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NUCLEAR TECH",
+      "style": "strike"
+    },
+    "cast": [
+      "envoy"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "A ruler forbids a thing: one side refusing another.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Grandmaster of Asan strictly forbids nuclear technology.",
+      "concreteVisual": "A proud ruler, angry, pointing; callout NUCLEAR TECH struck.",
+      "onScreenText": "NUCLEAR TECH",
+      "relationToPrevious": "Introduces the ruler who forbids it.",
+      "addedInformation": "The ruler and his ban on the technology."
+    }
+  },
+  {
+    "i": 159,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EXECUTED IF CAUGHT",
+      "style": "box"
+    },
+    "cast": [
+      "envoy"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "continue": true,
+    "explainedBy": "The punishment: anyone bringing it in is executed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They execute anyone who brings nuclear tech in; Ponyets prays the demo works.",
+      "concreteVisual": "The same angry ruler pointing; callout EXECUTED IF CAUGHT.",
+      "onScreenText": "EXECUTED IF CAUGHT",
+      "relationToPrevious": "Keeps the ruler; adds the penalty.",
+      "addedInformation": "The stakes of the demonstration."
+    }
+  },
+  {
+    "i": 160,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO FAILURES ALLOWED",
+      "style": "highlight"
+    },
+    "cast": [
+      "envoy"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The ruler watches a demonstration that must not fail.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His life depends on no failures at the first demonstration.",
+      "concreteVisual": "The ruler watching, expressionless; callout NO FAILURES ALLOWED.",
+      "onScreenText": "NO FAILURES ALLOWED",
+      "relationToPrevious": "Keeps the ruler; the face turns to a cold watcher.",
+      "addedInformation": "weak: mood and stakes"
+    }
+  },
+  {
+    "i": 161,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Religious awe",
+        "Economic dependence"
+      ],
+      "values": [
+        0.9
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Degrees of control: dependence is a far stronger leash than awe.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Economic dependence is a far stronger leash than religious awe.",
+      "concreteVisual": "Spectrum from RELIGIOUS AWE to ECONOMIC DEPENDENCE, marker near dependence",
+      "onScreenText": "RELIGIOUS AWE, ECONOMIC DEPENDENCE",
+      "relationToPrevious": "New point: why Ponyets does it.",
+      "addedInformation": "Compares the two kinds of hold on a society."
+    }
+  },
+  {
+    "i": 162,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Relies on your technology",
+        "You own their future"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause and effect: reliance on your tech means you own their future.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Once a society relies on your technology, you own its future.",
+      "concreteVisual": "Flow: RELIES ON YOUR TECHNOLOGY to YOU OWN THEIR FUTURE",
+      "onScreenText": "RELIES ON YOUR TECHNOLOGY, YOU OWN THEIR FUTURE",
+      "relationToPrevious": "Explains the claim of the previous beat as a chain.",
+      "addedInformation": "The mechanism of dependence."
+    }
+  },
+  {
+    "i": 163,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GALACTIC SPIRIT",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "Ponyets does not preach; he rejects the faith route.",
+    "noVisual": "no preacher or greed icon that reads literally; only the struck phrase carries it",
+    "storyboard": {
+      "claim": "He does not preach the galactic spirit; he appeals to pure greed.",
+      "concreteVisual": "Callout GALACTIC SPIRIT struck through.",
+      "onScreenText": "GALACTIC SPIRIT (struck)",
+      "relationToPrevious": "Contrasts with religion: greed instead.",
+      "addedInformation": "weak: text-led"
+    }
+  },
+  {
+    "i": 164,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "PRINTS MONEY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A deed: a machine that prints money is given to a corrupt politician.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He gives a corrupt politician a machine that prints money.",
+      "concreteVisual": "A coin icon, callout PRINTS MONEY.",
+      "onScreenText": "PRINTS MONEY",
+      "relationToPrevious": "Concrete example of appealing to greed.",
+      "addedInformation": "Shows the gift as money."
+    }
+  },
+  {
+    "i": 165,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "RELIGION",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "Malow rejects religion and distances himself from it.",
+    "noVisual": "no icon shows a man distancing himself from religion",
+    "storyboard": {
+      "claim": "Malow does not use religion at all.",
+      "concreteVisual": "Callout RELIGION struck through.",
+      "onScreenText": "RELIGION (struck)",
+      "relationToPrevious": "New trader, a purely economic strategy.",
+      "addedInformation": "weak: text-led"
+    }
+  },
+  {
+    "i": 166,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO PRIESTS",
+      "style": "strike"
+    },
+    "cast": [
+      "envoy"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The paranoid Commodore fears priests; Malow says he has none.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Commodore fears Foundation priests; Malow says he has no priests.",
+      "concreteVisual": "The Commodore, worried, talking; callout NO PRIESTS.",
+      "onScreenText": "NO PRIESTS",
+      "relationToPrevious": "Introduces the Commodore.",
+      "addedInformation": "The ruler fear that Malow answers."
+    }
+  },
+  {
+    "i": 167,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HOLES THROUGH STEEL",
+      "style": "highlight"
+    },
+    "cast": [
+      "envoy"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Proof by demonstration: the drill punches round holes in steel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Malow drills clean round holes through inch-thick steel before the Commodore.",
+      "concreteVisual": "The Commodore, surprised, watching; callout HOLES THROUGH STEEL.",
+      "onScreenText": "HOLES THROUGH STEEL",
+      "relationToPrevious": "Keeps the Commodore; his face turns to surprise.",
+      "addedInformation": "The demonstration that wins him over."
+    }
+  },
+  {
+    "i": 168,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Steel cutters",
+        "Localized heat",
+        "Indestructible lighting"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Parts: the gadgets Malow gives.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He gives nuclear-powered steel cutters, localized heat and indestructible lighting.",
+      "concreteVisual": "Sorter with STEEL CUTTERS, LOCALIZED HEAT, INDESTRUCTIBLE LIGHTING",
+      "onScreenText": "STEEL CUTTERS, LOCALIZED HEAT, INDESTRUCTIBLE LIGHTING",
+      "relationToPrevious": "Lists the gifts that seduce him.",
+      "addedInformation": "Names the three gadgets."
+    }
+  },
+  {
+    "i": 169,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "LITTLE CONVENIENCES",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The gifts are small comforts that build a booming economy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He gives all the little conveniences of a modern booming economy.",
+      "concreteVisual": "A home icon, callout LITTLE CONVENIENCES.",
+      "onScreenText": "LITTLE CONVENIENCES",
+      "relationToPrevious": "Generalizes from the gadgets.",
+      "addedInformation": "Ties the gadgets to everyday comfort."
+    }
+  },
+  {
+    "i": 170,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MOST CLEAR-EYED",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host judges Malow the most clear-eyed character.",
+    "noVisual": "a judgement of character, no event to draw",
+    "storyboard": {
+      "claim": "Malow is the most clear-eyed character so far.",
+      "concreteVisual": "Callout MOST CLEAR-EYED.",
+      "onScreenText": "MOST CLEAR-EYED",
+      "relationToPrevious": "Opinion on the trader.",
+      "addedInformation": "weak: commentary"
+    }
+  },
+  {
+    "i": 171,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "SUPERSTITION OR WEALTH",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Comparison: wealth replaces superstition as what rulers trade.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Malow replaces superstition with tangible wealth; ego-driven rulers barter welfare for glory.",
+      "concreteVisual": "A balance icon, callout SUPERSTITION OR WEALTH.",
+      "onScreenText": "SUPERSTITION OR WEALTH",
+      "relationToPrevious": "Argument of the pioneer view.",
+      "addedInformation": "Weighs the two sides."
+    }
+  },
+  {
+    "i": 172,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Prosperity is what counts",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Ordinary prosperity is what counts to the masses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A warm house, a working tool and a prosperous factory count to the masses.",
+      "concreteVisual": "A standing city icon, callout WHAT ACTUALLY COUNTS.",
+      "onScreenText": "WHAT ACTUALLY COUNTS",
+      "relationToPrevious": "Completes the pioneer argument.",
+      "addedInformation": "Shows prosperity."
+    }
+  },
+  {
+    "i": 173,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Pioneers",
+        "Imperialists"
+      ],
+      "values": [
+        0.9
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Two framings: pioneers vs imperialists; the host sits at imperialists.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The traders are imperialists in cheap suits, not pioneers.",
+      "concreteVisual": "Spectrum from PIONEERS to IMPERIALISTS, marker near imperialists",
+      "onScreenText": "PIONEERS, IMPERIALISTS",
+      "relationToPrevious": "The opposing host disagrees.",
+      "addedInformation": "The two readings and where she stands."
+    }
+  },
+  {
+    "i": 174,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Subverted local economies",
+        "Crippling dependencies",
+        "Terminus political power"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Chain: subverted economies create dependency that feeds Terminus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They subvert local economies and create dependencies to feed Terminus.",
+      "concreteVisual": "Flow: SUBVERTED LOCAL ECONOMIES, CRIPPLING DEPENDENCIES, TERMINUS POLITICAL POWER",
+      "onScreenText": "SUBVERTED LOCAL ECONOMIES, CRIPPLING DEPENDENCIES, TERMINUS POLITICAL POWER",
+      "relationToPrevious": "Explains the imperialist claim.",
+      "addedInformation": "The mechanism of the charge."
+    }
+  },
+  {
+    "i": 175,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "No replacement parts",
+        "Factories fail"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The long game: without Foundation parts the factories fail.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Carell factories fail without Foundation replacement parts.",
+      "concreteVisual": "Flow: NO REPLACEMENT PARTS to FACTORIES FAIL",
+      "onScreenText": "NO REPLACEMENT PARTS, FACTORIES FAIL",
+      "relationToPrevious": "Moves from fair trade to the long game.",
+      "addedInformation": "The dependency trap."
+    }
+  },
+  {
+    "i": 176,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "No replacement parts",
+        "Factories fail",
+        "Prosperity vanishes"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain continues: failed factories mean vanished prosperity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The world prosperity will vanish; economic warfare.",
+      "concreteVisual": "Same flow with PROSPERITY VANISHES added",
+      "onScreenText": "NO REPLACEMENT PARTS, FACTORIES FAIL, PROSPERITY VANISHES",
+      "relationToPrevious": "Keeps the chain; adds the result.",
+      "addedInformation": "The final effect."
+    }
+  },
+  {
+    "i": 177,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "SMILING VENEER",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A false friendly face hides economic warfare.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Economic warfare hides behind a smiling handshaking veneer of commerce.",
+      "concreteVisual": "A mask icon, callout SMILING VENEER.",
+      "onScreenText": "SMILING VENEER",
+      "relationToPrevious": "Adds why it is more ruthless.",
+      "addedInformation": "Shows a pretended friendly face."
+    }
+  },
+  {
+    "i": 178,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "A TECHNOLOGICAL DRUG",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A planet hooked on technology, bound by dependence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Malow hooks a whole planet on a technological drug.",
+      "concreteVisual": "A chains icon, callout A TECHNOLOGICAL DRUG.",
+      "onScreenText": "A TECHNOLOGICAL DRUG",
+      "relationToPrevious": "Concedes the point.",
+      "addedInformation": "Shows being bound."
+    }
+  },
+  {
+    "i": 179,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Carell declares war",
+        "No shots fired",
+        "Carell surrenders"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Events: war declared, no shots, surrender after three years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Carell declares war but no shot is fired; it surrenders after three years.",
+      "concreteVisual": "Flow: CARELL DECLARES WAR, NO SHOTS FIRED, CARELL SURRENDERS",
+      "onScreenText": "CARELL DECLARES WAR, NO SHOTS FIRED, CARELL SURRENDERS",
+      "relationToPrevious": "Shows that it works without bloodshed.",
+      "addedInformation": "The war that was won without battle."
+    }
+  },
+  {
+    "i": 180,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Razors stop working",
+        "Lights go out",
+        "Citizens force surrender"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause and effect: collapsing economy pushes citizens to surrender.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Razors fail, machines seize, lights go out, citizens force surrender.",
+      "concreteVisual": "Flow: RAZORS STOP WORKING, LIGHTS GO OUT, CITIZENS FORCE SURRENDER",
+      "onScreenText": "RAZORS STOP WORKING, LIGHTS GO OUT, CITIZENS FORCE SURRENDER",
+      "relationToPrevious": "Answers why Carell surrendered.",
+      "addedInformation": "The mechanism of the surrender."
+    }
+  },
+  {
+    "i": 181,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SELDON'S ECONOMIC PHASE",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The greedy traders unknowingly carry out the plan.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Unaware traders fulfill the economic phase of Seldon flawlessly.",
+      "concreteVisual": "Seldon in his wheelchair, talking; callout SELDON ECONOMIC PHASE.",
+      "onScreenText": "SELDON'S ECONOMIC PHASE",
+      "relationToPrevious": "Ties the traders to the plan.",
+      "addedInformation": "weak: Seldon commentary"
+    }
+  },
+  {
+    "i": 182,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ONE UNPREDICTABLE VARIABLE",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "A model built on masses meets one unpredictable variable.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "What happens to the model when one wildly unpredictable variable appears.",
+      "concreteVisual": "Seldon, worried, talking; callout ONE UNPREDICTABLE VARIABLE.",
+      "onScreenText": "ONE UNPREDICTABLE VARIABLE",
+      "relationToPrevious": "Keeps Seldon; the face turns worried.",
+      "addedInformation": "Poses the threat."
+    }
+  },
+  {
+    "i": 183,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "The masses",
+        "One exceptional person"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Parts: the plan rests on masses and is tested by one person.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Does a plan built on masses survive one exceptional person?",
+      "concreteVisual": "Sorter with THE MASSES and ONE EXCEPTIONAL PERSON",
+      "onScreenText": "THE MASSES, ONE EXCEPTIONAL PERSON",
+      "relationToPrevious": "States the question.",
+      "addedInformation": "Two sides of the question."
+    }
+  },
+  {
+    "i": 184,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Billions of stars",
+        "Straight predictable lines"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The tapestry: all of humanity woven in straight lines.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A tapestry of billions of stars woven in straight predictable lines.",
+      "concreteVisual": "Flow: BILLIONS OF STARS to STRAIGHT PREDICTABLE LINES",
+      "onScreenText": "BILLIONS OF STARS, STRAIGHT PREDICTABLE LINES",
+      "relationToPrevious": "Starts the tapestry image.",
+      "addedInformation": "The ordered whole."
+    }
+  },
+  {
+    "i": 185,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Billions of stars",
+        "Straight predictable lines",
+        "One thread pulled"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The trigger: one unseen thread is pulled.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A single unseen thread in the center is pulled.",
+      "concreteVisual": "Same flow with ONE THREAD PULLED added",
+      "onScreenText": "BILLIONS OF STARS, STRAIGHT PREDICTABLE LINES, ONE THREAD PULLED",
+      "relationToPrevious": "Keeps the stage; adds the trigger.",
+      "addedInformation": "The trigger."
+    }
+  },
+  {
+    "i": 186,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "The lines wrinkle",
+        "They collapse toward one point"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Effect: the tapestry warps toward the pulled point.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The lines wrinkle and collapse toward that one point.",
+      "concreteVisual": "Flow: LINES WRINKLE to COLLAPSE TOWARD ONE POINT",
+      "onScreenText": "LINES WRINKLE, COLLAPSE TOWARD ONE POINT",
+      "relationToPrevious": "Result of the pulled thread; new diagram since the last held three labels.",
+      "addedInformation": "The warping."
+    }
+  },
+  {
+    "i": 187,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ONE ANOMALY",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "One anomaly ruins the shape; the view returns to Seldon math.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "One anomaly ruins the whole shape; we look at Seldon math.",
+      "concreteVisual": "Seldon, worried, talking; callout ONE ANOMALY.",
+      "onScreenText": "ONE ANOMALY",
+      "relationToPrevious": "Steps back from the image to the math.",
+      "addedInformation": "weak: transition"
+    }
+  },
+  {
+    "i": 188,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "Predicted to the year",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The equations held on course for centuries.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The equations flowed perfectly across the galaxy for centuries.",
+      "concreteVisual": "A compass icon, callout AS PREDICTED.",
+      "onScreenText": "Predicted to the year",
+      "relationToPrevious": "Describes the plan before the mule.",
+      "addedInformation": "Shows a steady course."
+    }
+  },
+  {
+    "i": 189,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "The Foundation survived each crisis",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The Foundation survived each crisis as predicted until the mule.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Foundation survived crisis after crisis; then the mule appears.",
+      "concreteVisual": "A shield icon, callout CRISIS AFTER CRISIS.",
+      "onScreenText": "CRISIS AFTER CRISIS",
+      "relationToPrevious": "Continues the stable period; the mule arrives at the end.",
+      "addedInformation": "Survival of the Foundation."
+    }
+  },
+  {
+    "i": 190,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "BENDS MINDS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "One person controls the minds of others.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mule bends minds and adjusts the emotions of his enemies.",
+      "concreteVisual": "A puppeteer icon, callout BENDS MINDS.",
+      "onScreenText": "BENDS MINDS",
+      "relationToPrevious": "Introduces the mule power.",
+      "addedInformation": "One person controlling others."
+    }
+  },
+  {
+    "i": 191,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Statistics work for crowds",
+        "One powerful individual",
+        "The model shatters"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause and effect: one individual shatters a model that works for crowds.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Statistics work for crowds, but a single black swan breaks the model.",
+      "concreteVisual": "Flow: STATISTICS WORK FOR CROWDS, ONE POWERFUL INDIVIDUAL, THE MODEL SHATTERS",
+      "onScreenText": "STATISTICS WORK FOR CROWDS, ONE POWERFUL INDIVIDUAL, THE MODEL SHATTERS",
+      "relationToPrevious": "Explains the shattering.",
+      "addedInformation": "The mechanism."
+    }
+  },
+  {
+    "i": 192,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ONE IN A TRILLION",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The model Seldon built is broken by a one in a trillion individual.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A one in a trillion individual breaks the most robust model.",
+      "concreteVisual": "Seldon, worried, slumped; callout ONE IN A TRILLION.",
+      "onScreenText": "ONE IN A TRILLION",
+      "relationToPrevious": "Keeps the break; shows its impact on the maker.",
+      "addedInformation": "weak: mood and number"
+    }
+  },
+  {
+    "i": 193,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Forecasts events",
+        "Not individuals"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Parts: psychohistory forecasts events, not individuals.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Psychohistory can only forecast events, not individuals.",
+      "concreteVisual": "Sorter with FORECASTS EVENTS and NOT INDIVIDUALS",
+      "onScreenText": "FORECASTS EVENTS, NOT INDIVIDUALS",
+      "relationToPrevious": "The stated limit of the science.",
+      "addedInformation": "The limit."
+    }
+  },
+  {
+    "i": 194,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Human nature a constant",
+        "Mule alters the baseline",
+        "The plan breaks"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause and effect: altering the emotional baseline breaks the plan.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mule alters the emotional baseline psychohistory relies on.",
+      "concreteVisual": "Flow: HUMAN NATURE A CONSTANT, MULE ALTERS THE BASELINE, THE PLAN BREAKS",
+      "onScreenText": "HUMAN NATURE A CONSTANT, MULE ALTERS THE BASELINE, THE PLAN BREAKS",
+      "relationToPrevious": "Explains the break.",
+      "addedInformation": "The mechanism."
+    }
+  },
+  {
+    "i": 195,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "NOT REACTING NATURALLY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Forced loyalty replaces natural reaction in the conquered.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He removes the random element by forcing absolute loyalty.",
+      "concreteVisual": "A puppeteer icon, callout NOT REACTING NATURALLY.",
+      "onScreenText": "NOT REACTING NATURALLY",
+      "relationToPrevious": "Result of the previous mechanism.",
+      "addedInformation": "One controlling many."
+    }
+  },
+  {
+    "i": 196,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ARTIFICIALLY ADJUSTED",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host sums it up: the people are artificially adjusted.",
+    "noVisual": "a closing remark, no event to draw",
+    "storyboard": {
+      "claim": "The populations are artificially adjusted; a brilliant pivot.",
+      "concreteVisual": "Callout ARTIFICIALLY ADJUSTED.",
+      "onScreenText": "ARTIFICIALLY ADJUSTED",
+      "relationToPrevious": "Closes the thought.",
+      "addedInformation": "weak: summary"
+    }
+  }
+]

@@ -1,0 +1,2641 @@
+{
+  "version": 1,
+  "slug": "foundation",
+  "generatedAt": "2026-11-14T06:04:45.210Z",
+  "history": [
+    {
+      "at": "2026-11-14T06:02:41.701Z",
+      "reason": "pipeline",
+      "scenes": 274
+    },
+    {
+      "at": "2026-11-14T06:04:45.205Z",
+      "reason": "pipeline",
+      "scenes": 274
+    }
+  ],
+  "scenes": {
+    "intro": {
+      "fp": "0b91c79d88",
+      "props": [
+        "hourglass"
+      ],
+      "texts": 2,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-01": {
+      "fp": "7977352e65",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-02": {
+      "fp": "23a3c0bcce",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-03": {
+      "fp": "85d3aa59e8",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "book",
+      "set": "office"
+    },
+    "scene-04": {
+      "fp": "4bf1476014",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-05": {
+      "fp": "8ab25fcff4",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "mask",
+      "set": "office"
+    },
+    "scene-06": {
+      "fp": "9e03581fca",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-07": {
+      "fp": "45bde5a06e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-08": {
+      "fp": "671680d136",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-09": {
+      "fp": "cbd70b3355",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-10": {
+      "fp": "3ffdb1febd",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-11": {
+      "fp": "ff9a0496db",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-12": {
+      "fp": "a2839fab25",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-13": {
+      "fp": "30a723c764",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-14": {
+      "fp": "a6666fd0e7",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "clock",
+      "set": "office"
+    },
+    "scene-15": {
+      "fp": "3031ddac36",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-16": {
+      "fp": "0c792593b9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-17": {
+      "fp": "972164e11a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-18": {
+      "fp": "dac2b33737",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-19": {
+      "fp": "24437481e6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-20": {
+      "fp": "697b0eef5a",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-21": {
+      "fp": "7488972d37",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-22": {
+      "fp": "70a41c8aec",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-23": {
+      "fp": "b7dff34d8a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-24": {
+      "fp": "9565d68eb4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-25": {
+      "fp": "a8e9ba6ce6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-26": {
+      "fp": "afa6044b3a",
+      "props": [
+        "boulder"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "boulder",
+      "set": "office"
+    },
+    "scene-27": {
+      "fp": "2faaa1a3f2",
+      "props": [
+        "city"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "city",
+      "set": "office"
+    },
+    "scene-28": {
+      "fp": "7cd3810676",
+      "props": [
+        "city"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "city",
+      "set": "office"
+    },
+    "scene-29": {
+      "fp": "76bfe63bd1",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-30": {
+      "fp": "8eab80f619",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-31": {
+      "fp": "a88b6bca14",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-32": {
+      "fp": "ef839a3e47",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-33": {
+      "fp": "1cc3266455",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-34": {
+      "fp": "7f196835e4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-35": {
+      "fp": "6d26b9d2bf",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-36": {
+      "fp": "a509ba7e46",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-37": {
+      "fp": "ebf519b6f4",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-38": {
+      "fp": "da50a0bbbb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-39": {
+      "fp": "d9c381cbc6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-40": {
+      "fp": "10ea0ef888",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-41": {
+      "fp": "2194bfa410",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-42": {
+      "fp": "fba82bcfd2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-43": {
+      "fp": "eb177a8483",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-44": {
+      "fp": "30f6f3f855",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-45": {
+      "fp": "ac0abc316b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-46": {
+      "fp": "8c554a2ba0",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-47": {
+      "fp": "a88990d628",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-48": {
+      "fp": "77c1530330",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-49": {
+      "fp": "43549e944f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-50": {
+      "fp": "f2ff9a79cf",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-51": {
+      "fp": "b5d9429910",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-52": {
+      "fp": "66b2eaaa36",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-53": {
+      "fp": "6ad333d85e",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-54": {
+      "fp": "c91af3a756",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-55": {
+      "fp": "b8d2ac2f82",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-56": {
+      "fp": "6d95203826",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-57": {
+      "fp": "66dbae523a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-58": {
+      "fp": "306ddc0f27",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-59": {
+      "fp": "1e7e82f103",
+      "props": [
+        "coin"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "coin",
+      "set": "office"
+    },
+    "scene-60": {
+      "fp": "586fb0472f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-61": {
+      "fp": "bbb7dcb48e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-62": {
+      "fp": "e78db1ab45",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-63": {
+      "fp": "b495095047",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-64": {
+      "fp": "282feecaf9",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-65": {
+      "fp": "d068edb75d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-66": {
+      "fp": "7356ac1581",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-67": {
+      "fp": "3c0ab1dc5f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-68": {
+      "fp": "261b835c33",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-69": {
+      "fp": "406d17b211",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-70": {
+      "fp": "3b97396628",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-71": {
+      "fp": "3e95d9c14b",
+      "props": [
+        "fire"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "fire",
+      "set": "office"
+    },
+    "scene-72": {
+      "fp": "649d56875d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-73": {
+      "fp": "3464e925a6",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "office"
+    },
+    "scene-74": {
+      "fp": "5c64f2a19e",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-75": {
+      "fp": "cd5642ad3f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-76": {
+      "fp": "9887731acb",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-77": {
+      "fp": "62b1287239",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-78": {
+      "fp": "c94fafb265",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-79": {
+      "fp": "c3d761d179",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-80": {
+      "fp": "afb1e0086c",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-81": {
+      "fp": "83af0e8a54",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-82": {
+      "fp": "b3914f5bc3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-83": {
+      "fp": "6549d953b2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-84": {
+      "fp": "a7f6d0e326",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-85": {
+      "fp": "61b258ccd4",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "vault"
+    },
+    "scene-86": {
+      "fp": "f3b1899ab2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-87": {
+      "fp": "20363ebeae",
+      "props": [
+        "city"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "city",
+      "set": "vault"
+    },
+    "scene-88": {
+      "fp": "7e19b51d89",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-89": {
+      "fp": "c4461008ff",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "vault"
+    },
+    "scene-90": {
+      "fp": "b5745def43",
+      "props": [
+        "war"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "war",
+      "set": "vault"
+    },
+    "scene-91": {
+      "fp": "8efd5ce6a6",
+      "props": [
+        "war"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "war",
+      "set": "vault"
+    },
+    "scene-92": {
+      "fp": "ccb6a10e7d",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-93": {
+      "fp": "d175961173",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-94": {
+      "fp": "28feedf47e",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-95": {
+      "fp": "1568420526",
+      "props": [
+        "war"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "war",
+      "set": "vault"
+    },
+    "scene-96": {
+      "fp": "5bb2fe42e7",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-97": {
+      "fp": "99626c565d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-98": {
+      "fp": "26b9020c4c",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "mask",
+      "set": "office"
+    },
+    "scene-99": {
+      "fp": "9e45fff2e8",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-100": {
+      "fp": "be238874a6",
+      "props": [
+        "gift"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "gift",
+      "set": "office"
+    },
+    "scene-101": {
+      "fp": "d21b8e112c",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-102": {
+      "fp": "89ab47d5c0",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-103": {
+      "fp": "26b2406e49",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-104": {
+      "fp": "b7bd8511c1",
+      "props": [
+        "star"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "star",
+      "set": "vault"
+    },
+    "scene-105": {
+      "fp": "47695dc49a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-106": {
+      "fp": "ee3e733c84",
+      "props": [
+        "star"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "star",
+      "set": "vault"
+    },
+    "scene-107": {
+      "fp": "3b92fdf9e1",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "mask",
+      "set": "vault"
+    },
+    "scene-108": {
+      "fp": "27f1de3aca",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "vault"
+    },
+    "scene-109": {
+      "fp": "d5bd0bc225",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-110": {
+      "fp": "e9210e2ef5",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-111": {
+      "fp": "17f5cde0ad",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-112": {
+      "fp": "7c204c6aca",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-113": {
+      "fp": "199bffcb05",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-114": {
+      "fp": "9e284038b0",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "chains",
+      "set": "office"
+    },
+    "scene-115": {
+      "fp": "59b4b4254f",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "chains",
+      "set": "office"
+    },
+    "scene-116": {
+      "fp": "52461584ca",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-117": {
+      "fp": "c251e81aca",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-118": {
+      "fp": "b49156374c",
+      "props": [],
+      "texts": 0,
+      "diagram": "causal",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-119": {
+      "fp": "9b1688bf27",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-120": {
+      "fp": "ea81af2ebb",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "vault"
+    },
+    "scene-121": {
+      "fp": "3e28788d2b",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "clock",
+      "set": "vault"
+    },
+    "scene-122": {
+      "fp": "95d72d9fd5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-123": {
+      "fp": "06dfc6ef1e",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "vault"
+    },
+    "scene-124": {
+      "fp": "c51a4abf0a",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "vault"
+    },
+    "scene-125": {
+      "fp": "172151df07",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "vault"
+    },
+    "scene-126": {
+      "fp": "ed64bf25ef",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "clock",
+      "set": "vault"
+    },
+    "scene-127": {
+      "fp": "e5ad897467",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "clock",
+      "set": "vault"
+    },
+    "scene-128": {
+      "fp": "be454ed8e4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-129": {
+      "fp": "42927804af",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-130": {
+      "fp": "b9ce820c52",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-131": {
+      "fp": "f948ccdd91",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-132": {
+      "fp": "9f507981ce",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-133": {
+      "fp": "edbd976612",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-134": {
+      "fp": "065d20a8ee",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-135": {
+      "fp": "c15d99fc1a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-136": {
+      "fp": "077f2accc1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-137": {
+      "fp": "d628f54e72",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "book",
+      "set": "office"
+    },
+    "scene-138": {
+      "fp": "7ab6e68537",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "book",
+      "set": "office"
+    },
+    "scene-139": {
+      "fp": "e95f90ce12",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-140": {
+      "fp": "018cc2a0c9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-141": {
+      "fp": "16a05de2c7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-142": {
+      "fp": "dd15081ff6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-143": {
+      "fp": "fad51db539",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-144": {
+      "fp": "ea195f7bb4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-145": {
+      "fp": "16c68fd804",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-146": {
+      "fp": "3ce70cb1eb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-147": {
+      "fp": "e3cceb2140",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-148": {
+      "fp": "523c23b008",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-149": {
+      "fp": "3e15afd11d",
+      "props": [
+        "hourglass"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "hourglass",
+      "set": "vault"
+    },
+    "scene-150": {
+      "fp": "d4db7559de",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-151": {
+      "fp": "7d9092c4d5",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-152": {
+      "fp": "8b42454315",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-153": {
+      "fp": "3ad38514f6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-154": {
+      "fp": "1b665d1d6c",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-155": {
+      "fp": "bfa5ffd797",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-156": {
+      "fp": "ab6a1fca27",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-157": {
+      "fp": "ad198812fb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-158": {
+      "fp": "e3e81cf211",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-159": {
+      "fp": "78bf5ef3bc",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-160": {
+      "fp": "12b59f2b9e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-161": {
+      "fp": "fbd7dc7c14",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-162": {
+      "fp": "3d4ed4e069",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-163": {
+      "fp": "b4d1e88140",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-164": {
+      "fp": "396c94a3d9",
+      "props": [
+        "coin"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "coin",
+      "set": "office"
+    },
+    "scene-165": {
+      "fp": "dfcbcf4787",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-166": {
+      "fp": "aa0d75a03e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-167": {
+      "fp": "c3780e843e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-168": {
+      "fp": "eb9efe46e3",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-169": {
+      "fp": "1dd32a9d94",
+      "props": [
+        "home"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "home",
+      "set": "vault"
+    },
+    "scene-170": {
+      "fp": "3463d4f97a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-171": {
+      "fp": "5d3ecf3c8e",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "vault"
+    },
+    "scene-172": {
+      "fp": "04e513dc61",
+      "props": [
+        "city"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "city",
+      "set": "vault"
+    },
+    "scene-173": {
+      "fp": "70b0b9d665",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-174": {
+      "fp": "d707853968",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-175": {
+      "fp": "507b7dbfbd",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-176": {
+      "fp": "85773ecccb",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-177": {
+      "fp": "1db3a32200",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "mask",
+      "set": "office"
+    },
+    "scene-178": {
+      "fp": "bae930ddc6",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "chains",
+      "set": "office"
+    },
+    "scene-179": {
+      "fp": "311d9fe338",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-180": {
+      "fp": "3f50557fe2",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-181": {
+      "fp": "01e8d70709",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-182": {
+      "fp": "56dcdec4a7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-183": {
+      "fp": "3f4697eeef",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-184": {
+      "fp": "6e351c112e",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-185": {
+      "fp": "9c61b83ece",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-186": {
+      "fp": "29b8ac7d47",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-187": {
+      "fp": "3bea2c936b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-188": {
+      "fp": "6bebadad0f",
+      "props": [
+        "compass"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "compass",
+      "set": "office"
+    },
+    "scene-189": {
+      "fp": "7aac277f96",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "shield",
+      "set": "office"
+    },
+    "scene-190": {
+      "fp": "2a380c1af3",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-191": {
+      "fp": "404b090bdd",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-192": {
+      "fp": "0347aa0f0c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-193": {
+      "fp": "2399b19490",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-194": {
+      "fp": "7b9a338f5d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-195": {
+      "fp": "a956f05ced",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-196": {
+      "fp": "2adb0fc756",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-197": {
+      "fp": "93a59df18b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-198": {
+      "fp": "bed4e153c7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-199": {
+      "fp": "c184aff006",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-200": {
+      "fp": "e692e8ffd9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-201": {
+      "fp": "3cc2190c95",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-202": {
+      "fp": "38c3b176ed",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-203": {
+      "fp": "53779e4c6e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-204": {
+      "fp": "6343757237",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-205": {
+      "fp": "dcbaff2c8d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-206": {
+      "fp": "1da3bd5a2b",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-207": {
+      "fp": "2697fe3b75",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-208": {
+      "fp": "e1a2bbee29",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-209": {
+      "fp": "8a02d7d08d",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-210": {
+      "fp": "40904ce275",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-211": {
+      "fp": "d32a1052c0",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-212": {
+      "fp": "245c126683",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-213": {
+      "fp": "3c3938e83e",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-214": {
+      "fp": "1dd14663c6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-215": {
+      "fp": "e45701220a",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "book",
+      "set": "office"
+    },
+    "scene-216": {
+      "fp": "4286700a0b",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-217": {
+      "fp": "6c4a58c964",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "shield",
+      "set": "office"
+    },
+    "scene-218": {
+      "fp": "1aa34b6460",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-219": {
+      "fp": "c6bf157532",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-220": {
+      "fp": "f8ce306599",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-221": {
+      "fp": "bf2a097d93",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "office"
+    },
+    "scene-222": {
+      "fp": "286a1eff9b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-223": {
+      "fp": "c3ed2e52c6",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-224": {
+      "fp": "5f98f56539",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "office"
+    },
+    "scene-225": {
+      "fp": "d7685cafb9",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "office"
+    },
+    "scene-226": {
+      "fp": "a3e300d470",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-227": {
+      "fp": "30a2bdd6df",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-228": {
+      "fp": "cd245cd8e8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-229": {
+      "fp": "79456a2443",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-230": {
+      "fp": "149d56ba7b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-231": {
+      "fp": "bab62cc7bc",
+      "props": [
+        "city"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "city",
+      "set": "office"
+    },
+    "scene-232": {
+      "fp": "6aa4451e1f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-233": {
+      "fp": "186273d74f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-234": {
+      "fp": "8cbc7da271",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-235": {
+      "fp": "e6f45dd9b9",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-236": {
+      "fp": "305af81da4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-237": {
+      "fp": "5d5de61456",
+      "props": [
+        "lightbulb"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "lightbulb",
+      "set": "office"
+    },
+    "scene-238": {
+      "fp": "b842f4b7be",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-239": {
+      "fp": "bb644b1d3b",
+      "props": [
+        "compass"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "compass",
+      "set": "office"
+    },
+    "scene-240": {
+      "fp": "450a589eac",
+      "props": [
+        "home"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "home",
+      "set": "vault"
+    },
+    "scene-241": {
+      "fp": "5d640960a3",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "vault"
+    },
+    "scene-242": {
+      "fp": "30ec3a4b15",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "vault"
+    },
+    "scene-243": {
+      "fp": "dd505ddd4a",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "shield",
+      "set": "vault"
+    },
+    "scene-244": {
+      "fp": "b147a085ed",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-245": {
+      "fp": "1e38aeaad6",
+      "props": [
+        "hourglass"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "hourglass",
+      "set": "vault"
+    },
+    "scene-246": {
+      "fp": "59f2c63d11",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-247": {
+      "fp": "7da1c3f3c2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-248": {
+      "fp": "810c2a6e84",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-249": {
+      "fp": "6a5ab93a0b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-250": {
+      "fp": "71c08370d2",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-251": {
+      "fp": "2261583f09",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-252": {
+      "fp": "f1e0ea20b0",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-253": {
+      "fp": "b61879f9f5",
+      "props": [
+        "tree"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "tree",
+      "set": "office"
+    },
+    "scene-254": {
+      "fp": "1e60486b48",
+      "props": [
+        "tree"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "tree",
+      "set": "office"
+    },
+    "scene-255": {
+      "fp": "19eb0aada1",
+      "props": [
+        "storm"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "storm",
+      "set": "vault"
+    },
+    "scene-256": {
+      "fp": "76604d8676",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-257": {
+      "fp": "163fc068d1",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-258": {
+      "fp": "b4679cda5d",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-259": {
+      "fp": "d584ccc727",
+      "props": [
+        "hourglass"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "hourglass",
+      "set": "vault"
+    },
+    "scene-260": {
+      "fp": "f8f166f833",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-261": {
+      "fp": "87c90ff998",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-262": {
+      "fp": "6359e65af2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-263": {
+      "fp": "648c2f275b",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "vault"
+    },
+    "scene-264": {
+      "fp": "49c8e7b776",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "vault"
+    },
+    "scene-265": {
+      "fp": "ee87f1f56a",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "shield",
+      "set": "vault"
+    },
+    "scene-266": {
+      "fp": "599b881b31",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-267": {
+      "fp": "646b33d17c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-268": {
+      "fp": "323890ef22",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "vault"
+    },
+    "scene-269": {
+      "fp": "9fcd159297",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-270": {
+      "fp": "1a3b4227c8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-271": {
+      "fp": "601941e83c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-272": {
+      "fp": "776f04c164",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-273": {
+      "fp": "c25a4e809a",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "puppeteer",
+      "set": "office"
+    }
+  }
+}

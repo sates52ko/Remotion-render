@@ -1,0 +1,916 @@
+[
+  {
+    "i": 197,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Math cannot account for biology",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Seldon, whose plan assumed a fixed humanity, bowed by the mule that breaks it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mule proves math cannot account for biology and chaos.",
+      "concreteVisual": "Hari Seldon in his chair, worried and bowed.",
+      "onScreenText": "Math cannot account for biology",
+      "relationToPrevious": "New passage: the mule exposes the plan.",
+      "addedInformation": "weak: Seldon bowed carries the loss; the callout names it."
+    }
+  },
+  {
+    "i": 198,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The arrogant assumption",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "Seldon is the one who assumed humanity would stay static for a thousand years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The static-baseline assumption was arrogant.",
+      "concreteVisual": "Seldon, same stage, with a knowing smirk.",
+      "onScreenText": "The arrogant assumption",
+      "relationToPrevious": "Same Seldon; face turns from worry to the smirk of the assumption.",
+      "addedInformation": "weak: face change plus label."
+    }
+  },
+  {
+    "i": 199,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "The mule",
+        "Unpredictable",
+        "Science invalid"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause to effect: an unpredictable anomaly, so the whole science is called invalid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Some readers call it a fatal flaw because it cannot predict the unpredictable.",
+      "concreteVisual": "Flow diagram of three labels.",
+      "onScreenText": "The mule / Unpredictable / Science invalid",
+      "relationToPrevious": "Turns from Seldon to the readers argument.",
+      "addedInformation": "The readers chain of reasoning is drawn."
+    }
+  },
+  {
+    "i": 200,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The ultimate stress test",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The host replaces the flaw reading with a stress test; only text can state a reframing.",
+    "noVisual": "A host disagreeing and a reframing have no picture in the vocabulary.",
+    "storyboard": {
+      "claim": "It is not a flaw but a narrative stress test.",
+      "concreteVisual": "Empty frame with the callout.",
+      "onScreenText": "The ultimate stress test",
+      "relationToPrevious": "Rejects the previous flow chain and names a new reading.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 201,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Systemic momentum",
+        "The mule",
+        "Massive disruption"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Momentum of a civilization against one Superman produces massive disruption.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Can momentum crush a Superman; yes he causes massive disruption.",
+      "concreteVisual": "Flow of three labels.",
+      "onScreenText": "Systemic momentum / The mule / Massive disruption",
+      "relationToPrevious": "Builds the stress-test question into a chain.",
+      "addedInformation": "The question and result are laid out."
+    }
+  },
+  {
+    "i": 202,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Absorb and neutralize an anomaly",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "He conquers the first foundation but the question is whether sociology absorbs him.",
+    "noVisual": "Sociology absorbing an anomaly is abstract; no icon reads it.",
+    "storyboard": {
+      "claim": "The mule conquers the first foundation; will sociology absorb an anomaly?",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "Absorb and neutralize an anomaly",
+      "relationToPrevious": "Gives the open question after the disruption.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 203,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Terminus is conquered",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The leader of Terminus bowed in fear as the foundation falls.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The first foundation falls and the plan visibly fails.",
+      "concreteVisual": "Salvor Hardin, afraid and bowed.",
+      "onScreenText": "Terminus is conquered",
+      "relationToPrevious": "Result of the disruption: the fall.",
+      "addedInformation": "The defeat lands on Terminus leader."
+    }
+  },
+  {
+    "i": 204,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "Emotions overridden",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "One controlling mind steers the masses who follow the mule.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The masses follow the mule, emotions overridden.",
+      "concreteVisual": "Puppeteer icon, nobody else.",
+      "onScreenText": "Emotions overridden",
+      "relationToPrevious": "Explains how the fall happened.",
+      "addedInformation": "The control relation is drawn."
+    }
+  },
+  {
+    "i": 205,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A backup system",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "If one anomaly breaks the math, Seldon must have kept a backup.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon must have known the model needed a backup.",
+      "concreteVisual": "Seldon holding his notes.",
+      "onScreenText": "A backup system",
+      "relationToPrevious": "Back to Seldon after the fall.",
+      "addedInformation": "weak: the held notes stand for the plan."
+    }
+  },
+  {
+    "i": 206,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A playground seesaw",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A seesaw is the picture the host offers for the plan secret.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Why does the plan need a secret; imagine a seesaw.",
+      "concreteVisual": "Balance scale icon standing in for the seesaw.",
+      "onScreenText": "A playground seesaw",
+      "relationToPrevious": "Opens the seesaw metaphor.",
+      "addedInformation": "The metaphor object is drawn."
+    }
+  },
+  {
+    "i": 207,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A giant visible weight",
+      "style": "highlight"
+    },
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The heavy side of the seesaw is Terminus with its power and ships.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "One side holds the heavy weight, the first foundation.",
+      "concreteVisual": "Same balance, heavy side named.",
+      "onScreenText": "A giant visible weight",
+      "relationToPrevious": "Same stage; the heavy side labelled Terminus weight.",
+      "addedInformation": "The heavy side is named."
+    }
+  },
+  {
+    "i": 208,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "An empty seat",
+      "style": "highlight"
+    },
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The other seat is empty yet the seesaw hovers level.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The other side is empty but balanced.",
+      "concreteVisual": "Same balance, level, empty side named.",
+      "onScreenText": "An empty seat",
+      "relationToPrevious": "Same stage; the empty side is named.",
+      "addedInformation": "The paradox is stated."
+    }
+  },
+  {
+    "i": 209,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "An invisible hidden counterweight",
+      "style": "reveal"
+    },
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The empty seat holds a hidden counterweight that keeps the system from crashing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An invisible counterweight keeps the system balanced.",
+      "concreteVisual": "Same balance with the hidden weight label.",
+      "onScreenText": "An invisible hidden counterweight",
+      "relationToPrevious": "Same stage; the cause of the balance is revealed.",
+      "addedInformation": "The hidden weight explains the level seesaw."
+    }
+  },
+  {
+    "i": 210,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Seldon speaks again",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "explainedBy": "Seldon appears solemn because the crisis has not gone as expected.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon second hologram appears solemn.",
+      "concreteVisual": "Seldon, sad, speaking.",
+      "onScreenText": "Second hologram, solemn face",
+      "relationToPrevious": "Moves from metaphor to the actual scene.",
+      "addedInformation": "The scene is placed in the vault."
+    }
+  },
+  {
+    "i": 211,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Another foundation",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "Seldon himself reveals a second foundation exists.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Another foundation was established 80 years ago.",
+      "concreteVisual": "Same Seldon, speaking.",
+      "onScreenText": "Another foundation",
+      "relationToPrevious": "Same stage; the reveal is spoken.",
+      "addedInformation": "weak: the reveal is the words."
+    }
+  },
+  {
+    "i": 212,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "At Stars End",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "The second foundation is at the other end of the galaxy as a safety net.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The second foundation is at Stars End.",
+      "concreteVisual": "Same Seldon speaking.",
+      "onScreenText": "At Stars End",
+      "relationToPrevious": "Same stage; location named.",
+      "addedInformation": "weak: location is text."
+    }
+  },
+  {
+    "i": 213,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Variables go off track",
+        "A hidden hand",
+        "Course corrected"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Visible variables go wrong, a hidden hand corrects, the course is restored.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A thousand-year system needs a hidden hand to correct the course.",
+      "concreteVisual": "Flow of three labels.",
+      "onScreenText": "Variables go off track / A hidden hand / Course corrected",
+      "relationToPrevious": "Explains why the safety net exists.",
+      "addedInformation": "The correction chain is drawn."
+    }
+  },
+  {
+    "i": 214,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A second one hiding",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Terminus is loud and visible while the second one hides.",
+    "noVisual": "No icon reads hiding; text-led.",
+    "storyboard": {
+      "claim": "Terminus is loud, a second foundation hides.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "A second one hiding",
+      "relationToPrevious": "Contrasts visible and hidden.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 215,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "The driving force of the later books",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Asimov admitted the mystery drove the later books.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Asimov said the second foundation was the driving force.",
+      "concreteVisual": "Book icon.",
+      "onScreenText": "The driving force of the later books",
+      "relationToPrevious": "Adds the author source.",
+      "addedInformation": "The book icon points to the later books."
+    }
+  },
+  {
+    "i": 216,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Physical sciences",
+        "Mental sciences"
+      ],
+      "values": [
+        1
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The second foundation sits at the mental pole, not the physical one.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are about mental, not physical sciences.",
+      "concreteVisual": "Spectrum with marker at the mental end.",
+      "onScreenText": "Physical sciences / Mental sciences",
+      "relationToPrevious": "Defines the second foundation against the first.",
+      "addedInformation": "The two poles are drawn."
+    }
+  },
+  {
+    "i": 217,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Guardians of the plan",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The mental scientists protect the Seldon plan in secret.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are the true psychologists and guardians of the plan.",
+      "concreteVisual": "Shield icon.",
+      "onScreenText": "Guardians of the plan",
+      "relationToPrevious": "Names their role.",
+      "addedInformation": "Protection is drawn."
+    }
+  },
+  {
+    "i": 218,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Variables drift",
+        "Minds nudged",
+        "Back on track"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "They nudge minds so events return to the plan.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They adjust variables and nudge minds back on track.",
+      "concreteVisual": "Flow of three labels.",
+      "onScreenText": "Variables drift / Minds nudged / Back on track",
+      "relationToPrevious": "Shows what the guardians do.",
+      "addedInformation": "The correction method is drawn."
+    }
+  },
+  {
+    "i": 219,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A brilliant fail safe",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "The host loves the twist because Seldon acknowledged uncertainty.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The twist shows Seldon knew uncertainty was a factor.",
+      "concreteVisual": "Seldon happy, speaking.",
+      "onScreenText": "A brilliant fail safe",
+      "relationToPrevious": "First opinion on the second foundation.",
+      "addedInformation": "weak: reaction to the twist."
+    }
+  },
+  {
+    "i": 220,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A self-correcting mechanism",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "notes",
+    "continue": true,
+    "explainedBy": "Seldon built a mechanism for black swans and mutations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He created a self-correcting mechanism.",
+      "concreteVisual": "Same Seldon holding notes.",
+      "onScreenText": "A self-correcting mechanism",
+      "relationToPrevious": "Same stage; the notes show the built plan.",
+      "addedInformation": "weak: held notes."
+    }
+  },
+  {
+    "i": 221,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "From beyond the grave",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Seldon steers events after his death, which the second host hates.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He steers from beyond the grave; I hate it.",
+      "concreteVisual": "Seldon smirking beside a grave icon.",
+      "onScreenText": "From beyond the grave",
+      "relationToPrevious": "The second host turns against the idea.",
+      "addedInformation": "The grave icon names the dead steering."
+    }
+  },
+  {
+    "i": 222,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "What it implies",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host asks why; the answer is the implication for the characters.",
+    "noVisual": "Banter question; nothing in the vocabulary shows it.",
+    "storyboard": {
+      "claim": "It matters because of what it implies for the characters.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "What it implies",
+      "relationToPrevious": "Banter bridging to the objection.",
+      "addedInformation": "weak: banter."
+    }
+  },
+  {
+    "i": 223,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "Manipulating events from the shadows",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Hidden mentalists steer the leaders of Terminus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Secret mentalists manipulate events and the leaders.",
+      "concreteVisual": "Hardin worried beside a puppeteer icon.",
+      "onScreenText": "Manipulating events from the shadows",
+      "relationToPrevious": "Develops the objection.",
+      "addedInformation": "The control relation is drawn."
+    }
+  },
+  {
+    "i": 224,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "Just bait",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The leaders are bait, not the main characters.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are just bait.",
+      "concreteVisual": "Hardin worried beside a target icon.",
+      "onScreenText": "Just bait",
+      "relationToPrevious": "Same Hardin; the icon swaps the puppeteer for the target.",
+      "addedInformation": "The target stands for being the exposed bait."
+    }
+  },
+  {
+    "i": 225,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "A noisy decoy",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The visible leaders draw the fire of the dying empire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are a decoy to draw the empire fire.",
+      "concreteVisual": "Same Hardin, afraid, beside the target.",
+      "onScreenText": "A noisy decoy",
+      "relationToPrevious": "Same stage; face turns to fear.",
+      "addedInformation": "The danger is the face."
+    }
+  },
+  {
+    "i": 226,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "The real rulers unseen",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Real rulers operate unseen and untested.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The real rulers operate unseen.",
+      "concreteVisual": "Puppeteer icon.",
+      "onScreenText": "The real rulers unseen",
+      "relationToPrevious": "Gives the other side of the decoy.",
+      "addedInformation": "The controllers are drawn."
+    }
+  },
+  {
+    "i": 227,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Nothing he does changes it",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "blank",
+    "action": "slump",
+    "explainedBy": "Hardin brilliant maneuvering is undercut because it would be fixed regardless.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hardin maneuvering does not matter.",
+      "concreteVisual": "Hardin blank, bowed.",
+      "onScreenText": "Nothing he does changes it",
+      "relationToPrevious": "Applies the undercut to Hardin.",
+      "addedInformation": "Blank face shows nothing mattering."
+    }
+  },
+  {
+    "i": 228,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A dark way to look",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host answers the idea with a reaction.",
+    "noVisual": "A commentary reaction about Malow warfare; no object or deed to stage.",
+    "storyboard": {
+      "claim": "That is a dark way to look at it.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "A dark way to look",
+      "relationToPrevious": "Reaction.",
+      "addedInformation": "weak: banter."
+    }
+  },
+  {
+    "i": 229,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A tightrope without a net",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The first foundation walked a tightrope believing no net existed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They walked a tightrope without a net.",
+      "concreteVisual": "Hardin afraid.",
+      "onScreenText": "A tightrope without a net",
+      "relationToPrevious": "Reframes with their ignorance.",
+      "addedInformation": "weak: face and callout."
+    }
+  },
+  {
+    "i": 230,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Unaware of the mentalists",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "They acted inside a plan they could not read.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They were unaware of the mentalists below.",
+      "concreteVisual": "Same Hardin, blank.",
+      "onScreenText": "Unaware of the mentalists",
+      "relationToPrevious": "Same stage; face turns blank for unaware.",
+      "addedInformation": "weak: blank face."
+    }
+  },
+  {
+    "i": 231,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "The center of the galaxy",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host turns attention to the old empire at the center.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Look back at the center of the galaxy.",
+      "concreteVisual": "City icon.",
+      "onScreenText": "The center of the galaxy",
+      "relationToPrevious": "Moves from Terminus to the empire.",
+      "addedInformation": "The city icon marks the center."
+    }
+  },
+  {
+    "i": 232,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The empire they left behind",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The empire political head faces its decay.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "What is happening to the old empire?",
+      "concreteVisual": "The commissioner worried and bowed.",
+      "onScreenText": "The empire they left behind",
+      "relationToPrevious": "Raises the question of the decay.",
+      "addedInformation": "The empire has a face."
+    }
+  },
+  {
+    "i": 233,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Imagine two generators running in a room",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host sets up two generators in a dusty room.",
+    "noVisual": "The intro of a metaphor; the diagram follows on the next beats.",
+    "storyboard": {
+      "claim": "Picture two generators in an engine room.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "Imagine two generators running in a room",
+      "relationToPrevious": "Opens the generators metaphor.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 234,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Six stories high",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The first generator is a towering ancient powerhouse.",
+    "noVisual": "No icon for a giant generator.",
+    "storyboard": {
+      "claim": "One generator is six stories high.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "Six stories high",
+      "relationToPrevious": "Describes the first generator.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 235,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Ancient powerhouse",
+        "Walnut-sized generator"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The two generators are set side by side, huge and ancient against tiny.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A giant powerhouse beside a walnut-sized lead container.",
+      "concreteVisual": "Sorter with two buckets.",
+      "onScreenText": "Ancient powerhouse / Walnut-sized generator",
+      "relationToPrevious": "Puts the two generators next to each other.",
+      "addedInformation": "The comparison is drawn."
+    }
+  },
+  {
+    "i": 236,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "They just keep it clean",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "The people dusting the machine do not understand it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The giant machine is a mystery to those who clean it.",
+      "concreteVisual": "Commissioner, blank.",
+      "onScreenText": "They just keep it clean",
+      "relationToPrevious": "Shows the keepers of the giant.",
+      "addedInformation": "weak: blank face."
+    }
+  },
+  {
+    "i": 237,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "Understands every atom",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "The builder of the tiny generator understands it fully.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Its builder understands every atom inside it.",
+      "concreteVisual": "Seldon happy beside a lightbulb.",
+      "onScreenText": "Understands every atom",
+      "relationToPrevious": "Shows the builder of the tiny one.",
+      "addedInformation": "The lightbulb stands for understanding."
+    }
+  },
+  {
+    "i": 238,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "The giant is dying",
+        "The tiny one is alive"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Contrast: the giant machine dying, the tiny one alive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The giant is dying and the tiny one is alive.",
+      "concreteVisual": "Sorter with two buckets.",
+      "onScreenText": "The giant is dying / The tiny one is alive",
+      "relationToPrevious": "Summarizes the contrast.",
+      "addedInformation": "The verdict is drawn."
+    }
+  }
+]

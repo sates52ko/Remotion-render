@@ -1,0 +1,111 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-14T07:19:30.216Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "e2b86052",
+      "tools": "b7d00c2b",
+      "pin": "e2b8605228eb",
+      "configHash": "3ea3a5ffe957c3e7",
+      "renderInputHash": "a1bc9c77873762f4",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 388
+      },
+      "preview": {
+        "state": "MISSING",
+        "covered": true,
+        "mute": null
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Operatör borcu kabul etti (bu config için)",
+        "covered": 36,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-14T07:18:28.665Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 9,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-14T09:08:40.038Z",
+      "kind": "technical",
+      "technical": "VERIFIED",
+      "file": "out\\foundation.mp4",
+      "frames": 71969,
+      "expectedFrames": 71969,
+      "decodes": true,
+      "problems": [],
+      "media": {
+        "narrationFile": "public\\audio\\foundation.mastered.m4a",
+        "joinRepair": {
+          "status": "REPAIRED",
+          "joins": 179,
+          "encoderDelaySamples": 2048,
+          "removedSec": 10.207,
+          "audioDiffSamples": -32
+        },
+        "sync": {
+          "verdict": "PASS",
+          "startOffsetSec": 0,
+          "endOffsetSec": 0,
+          "endToleranceSec": 0.076,
+          "audioDiscontinuities": 0,
+          "clock": "ON",
+          "clockToleranceSec": 0.0667,
+          "problems": []
+        },
+        "video": {
+          "packets": 71969,
+          "endSec": 2398.9667,
+          "holds": 0,
+          "chunkHolds": 0,
+          "segmentHolds": 0,
+          "offGridHolds": 0,
+          "stretchSec": 0,
+          "stretchPct": 0
+        },
+        "audio": {
+          "packets": 112453,
+          "endSec": 2398.9666,
+          "excessOverNarrationSec": -3.833
+        },
+        "joinDropouts": {
+          "status": "NONE",
+          "count": 0,
+          "totalSec": 0,
+          "maxSec": 0,
+          "filmZeroRuns": 1,
+          "sourceZeroRuns": 3,
+          "first": []
+        },
+        "loudness": {
+          "integratedLufs": -14.3,
+          "lraLu": 4.4,
+          "samplePeakDbfs": -0.5,
+          "status": "REPORT_ONLY"
+        }
+      },
+      "checkedBy": "b7d00c2bfd3b51e5c4800a7623cfc5a5f2973ea3",
+      "tools": "b7d00c2b",
+      "pin": "e2b8605228eb"
+    }
+  ]
+}

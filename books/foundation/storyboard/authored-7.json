@@ -1,0 +1,801 @@
+[
+  {
+    "i": 239,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "Planet Sennena",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "A traveler heads out to a far planet in the old empire; the compass shows the journey.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Malow travels to Sennena deep in the old empire.",
+      "concreteVisual": "A compass icon with the planet name written beside it.",
+      "onScreenText": "Planet Sennena",
+      "relationToPrevious": "Opens the contrast scene after the generator comparison.",
+      "addedInformation": "weak: the journey is shown only as a compass and a name."
+    }
+  },
+  {
+    "i": 240,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "Poor broken down home",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "An old scholar stands in a shabby home.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Malow stands in the broken-down home of the old patrician Onum Bar.",
+      "concreteVisual": "A thin rumpled old scholar stands beside a house icon.",
+      "onScreenText": "Poor broken down home",
+      "relationToPrevious": "Now inside the planet scene: the home and its owner.",
+      "addedInformation": "Shows the owner as a poor old scholar in a house."
+    }
+  },
+  {
+    "i": 241,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Turns it off",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The shield is on, then switched off and its glow vanishes in front of the old scholar.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Malow wears a personal force shield, turns it off and the aura vanishes.",
+      "concreteVisual": "A shield icon beside the old scholar, labeled as turned off.",
+      "onScreenText": "Turns it off",
+      "relationToPrevious": "Same home, same old man; the shield object is added.",
+      "addedInformation": "The shield is the thing that changes; weak: the vanishing glow is text-labeled."
+    }
+  },
+  {
+    "i": 242,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Pirenne is stunned by the shield",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "continue": true,
+    "explainedBy": "The man of the empire reacts with shock at the shield.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Onum Bar is stunned by the force shield.",
+      "concreteVisual": "The old scholar, wide-eyed, pointing at the shield icon.",
+      "onScreenText": "Absolutely stunned",
+      "relationToPrevious": "Same stage; his face and arm change to astonishment.",
+      "addedInformation": "His reaction to the shield."
+    }
+  },
+  {
+    "i": 243,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Never invented",
+      "style": "strike"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The shield stays on screen as the thing the empire never invented at its height.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire never invented a personal shield, even at its height.",
+      "concreteVisual": "Shield icon alone with the words never invented.",
+      "onScreenText": "Never invented",
+      "relationToPrevious": "The reaction ends; the shield alone carries the claim.",
+      "addedInformation": "weak: the negation is carried by text."
+    }
+  },
+  {
+    "i": 244,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "True societal decay",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The official of a great power stands bowed, the picture of decline rather than explosions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Decay is not always explosions, hordes and fires.",
+      "concreteVisual": "A stern heavy-set official standing bowed with a worried face.",
+      "onScreenText": "True societal decay",
+      "relationToPrevious": "Moves from the shield story to the general lesson.",
+      "addedInformation": "weak: mood of decline only."
+    }
+  },
+  {
+    "i": 245,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "Forgetting how your own world works",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Time running out stands for a world forgetting itself while a new one is built elsewhere.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The tragedy is forgetting how your own world works while someone ignored builds a new one.",
+      "concreteVisual": "An hourglass icon with the callout.",
+      "onScreenText": "Forgetting how your own world works",
+      "relationToPrevious": "Continues the lesson with the quiet kind of decay.",
+      "addedInformation": "weak: icon is symbolic; text carries the point."
+    }
+  },
+  {
+    "i": 246,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Technology they no longer comprehend",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "wrench",
+    "explainedBy": "An empire official holds a wrench: keeping machines running without understanding them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire has ships and cities but only maintains technology it no longer understands.",
+      "concreteVisual": "The heavy-set official with a blank face holding a wrench.",
+      "onScreenText": "Technology they no longer comprehend",
+      "relationToPrevious": "Gives the hollow Empire a person with a tool.",
+      "addedInformation": "The wrench shows maintenance without comprehension."
+    }
+  },
+  {
+    "i": 247,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Threatens to arrest Malow",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "The tech expert goes red and threatens arrest when shown the generator.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Trantor-trained tech man turns red and threatens to arrest Malow.",
+      "concreteVisual": "The official, angry, pointing accusingly.",
+      "onScreenText": "Threatens to arrest Malow",
+      "relationToPrevious": "The expert reacts to the generator.",
+      "addedInformation": "The angry accusing expert."
+    }
+  },
+  {
+    "i": 248,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Refuses to believe",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "angry",
+    "action": "stop",
+    "continue": true,
+    "explainedBy": "The expert holds up a hand and refuses because he cannot understand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He refuses to believe it is real because he cannot understand it.",
+      "concreteVisual": "The same official raising a hand in refusal.",
+      "onScreenText": "Refuses to believe",
+      "relationToPrevious": "Same man; the action changes from accusing to refusing.",
+      "addedInformation": "Refusal as a gesture."
+    }
+  },
+  {
+    "i": 249,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "One burnt tube and they are helpless",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "wrench",
+    "continue": true,
+    "explainedBy": "The caretaker holds his wrench, frightened, helpless in front of a broken machine.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The experts are hereditary caretakers who would be helpless if one tube burnt out.",
+      "concreteVisual": "The same official, afraid, gripping the wrench.",
+      "onScreenText": "Helpless if a single vacuum tube burnt out",
+      "relationToPrevious": "Same man; face changes to fear.",
+      "addedInformation": "The helplessness of a caretaker."
+    }
+  },
+  {
+    "i": 250,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "KEPT THE PEACE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The hosts defend the Empire: a flow begins with years of peace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire kept the peace for years.",
+      "concreteVisual": "A flow diagram with one box: kept the peace.",
+      "onScreenText": "KEPT THE PEACE",
+      "relationToPrevious": "A host pushes back on the harsh view.",
+      "addedInformation": "Starts the defense as a built chain."
+    }
+  },
+  {
+    "i": 251,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "KEPT THE PEACE",
+        "STABILITY"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Peace leads to an unimaginable span of stability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The long peace is an unimaginable span of stability.",
+      "concreteVisual": "The flow gains a second box: stability.",
+      "onScreenText": "KEPT THE PEACE / STABILITY",
+      "relationToPrevious": "One label is added to the same flow.",
+      "addedInformation": "Adds the result of peace."
+    }
+  },
+  {
+    "i": 252,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "KEPT THE PEACE",
+        "STABILITY",
+        "MAINTENANCE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Massive stability forces maintenance over innovation to prevent collapse.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A system that massive prioritizes maintenance over innovation to prevent collapse.",
+      "concreteVisual": "The flow gains a third box: maintenance.",
+      "onScreenText": "KEPT THE PEACE / STABILITY / MAINTENANCE",
+      "relationToPrevious": "The last label completes the chain.",
+      "addedInformation": "Completes the cause chain of the defense."
+    }
+  },
+  {
+    "i": 253,
+    "concept": "tree",
+    "diagram": null,
+    "callout": {
+      "text": "A rotting tree trunk",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The counter-host calls the Empire a rotting tree trunk, shown as a tree.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No sympathy for the empire: it is a rotting tree trunk.",
+      "concreteVisual": "A tree icon with the callout.",
+      "onScreenText": "A rotting tree trunk",
+      "relationToPrevious": "Rejects the defense with a new image.",
+      "addedInformation": "The tree is the image the next beats keep."
+    }
+  },
+  {
+    "i": 254,
+    "concept": "tree",
+    "diagram": null,
+    "callout": {
+      "text": "Completely hollowed out",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "Seldon, at his trial, describes the tree: strong bark, hollow inside.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon says it looks strong with thick bark but the inside is hollow.",
+      "concreteVisual": "Seldon in his wheelchair speaking beside the tree icon.",
+      "onScreenText": "Completely hollowed out",
+      "relationToPrevious": "Same tree; Seldon is added as the speaker.",
+      "addedInformation": "Attributes the image to Seldon."
+    }
+  },
+  {
+    "i": 255,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "Until the storm hits",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The sturdy-looking tree gives way when the storm comes, while the Foundation only waits.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It looks sturdy until the storm hits; the Foundation just lets the empire collapse.",
+      "concreteVisual": "A storm icon with the callout.",
+      "onScreenText": "Until the storm hits",
+      "relationToPrevious": "The storm replaces the tree as the thing that tests it.",
+      "addedInformation": "weak: the storm stands in for the coming collapse."
+    }
+  },
+  {
+    "i": 256,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "LACK TECHNICIANS",
+        "RESTRICTS NUCLEAR"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The Empire lacks technicians and fears disruption, so it restricts nuclear power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire restricts nuclear power because it lacks technicians and fears disruption.",
+      "concreteVisual": "Flow diagram: lack technicians leads to restricted nuclear power.",
+      "onScreenText": "LACK TECHNICIANS / RESTRICTS NUCLEAR",
+      "relationToPrevious": "Opens the scarcity versus abundance comparison.",
+      "addedInformation": "The Empire side of the cause chain."
+    }
+  },
+  {
+    "i": 257,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "STARVED FOR METAL",
+        "WALNUT GENERATORS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The Foundation, short of metal, shrinks nuclear tech into walnut generators.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Stranded on a metal-starved rock, the Foundation miniaturizes nuclear tech.",
+      "concreteVisual": "A new flow: starved for metal leads to walnut generators.",
+      "onScreenText": "STARVED FOR METAL / WALNUT GENERATORS",
+      "relationToPrevious": "A new flow for the Foundation side after the Empire flow.",
+      "addedInformation": "The Foundation side of the comparison."
+    }
+  },
+  {
+    "i": 258,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "SCARCITY",
+        "ABUNDANCE"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Scarcity versus abundance: one drove innovation, the other bred stagnation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Scarcity drove innovation while immense abundance bred fatal stagnation.",
+      "concreteVisual": "A spectrum with the poles scarcity and abundance.",
+      "onScreenText": "SCARCITY / ABUNDANCE",
+      "relationToPrevious": "Sums up the two flows as two poles.",
+      "addedInformation": "The summary contrast on one scale."
+    }
+  },
+  {
+    "i": 259,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "Slowly dying",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The Empire clings to decaying ships; the hourglass shows time running out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire clings to massive decaying ships and forgotten science, slowly dying.",
+      "concreteVisual": "An hourglass icon with the callout.",
+      "onScreenText": "Slowly dying",
+      "relationToPrevious": "Closes the comparison with the Empire fate.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 260,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Historical inevitability",
+      "style": "highlight"
+    },
+    "cast": [
+      "commissioner"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The official sags, acting inside a fate he refuses to face.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire acts inside a historical inevitability it refuses to accept.",
+      "concreteVisual": "The heavy-set official, bowed and worried.",
+      "onScreenText": "Historical inevitability",
+      "relationToPrevious": "Gives the Empire a bowed figure for its fate.",
+      "addedInformation": "weak: mood only."
+    }
+  },
+  {
+    "i": 261,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The human element",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The hosts turn to a structural criticism of the universe.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We must level an honest structural criticism: the human element.",
+      "concreteVisual": "Seldon talking, worried.",
+      "onScreenText": "The human element",
+      "relationToPrevious": "A new topic: the criticism of the book.",
+      "addedInformation": "weak: commentary."
+    }
+  },
+  {
+    "i": 262,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Treats human beings as numbers",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "partnerExpression": "smirk",
+    "explainedBy": "The story is driven by a few elite men: a mayor and a scholar stand in front.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Psychohistory treats people as numbers and the story is driven by elite men.",
+      "concreteVisual": "A mayor and a scholar pointing out, both with smirks.",
+      "onScreenText": "Treats human beings as numbers",
+      "relationToPrevious": "Shows the elite men the narration names.",
+      "addedInformation": "The elite men are on screen."
+    }
+  },
+  {
+    "i": 263,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "A tide to be manipulated",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Masses are manipulated by great men: a puppeteer controlling others.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Women and ordinary people barely get agency; the masses are a tide manipulated by great men.",
+      "concreteVisual": "A puppeteer icon with the callout.",
+      "onScreenText": "A tide to be manipulated",
+      "relationToPrevious": "Moves from the elite men to what they do to the masses.",
+      "addedInformation": "The control relation."
+    }
+  },
+  {
+    "i": 264,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "The narrative feel cold",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Even a brilliant anomaly like the Mule leaves the story cold and controlled.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sheer scale can make the narrative feel cold.",
+      "concreteVisual": "The puppeteer icon kept.",
+      "onScreenText": "The narrative feel cold",
+      "relationToPrevious": "Same stage; the callout changes.",
+      "addedInformation": "weak: text-led."
+    }
+  },
+  {
+    "i": 265,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "A magical shield",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The math is a magical shield protecting the author preferred outcome.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The math is a magical shield protecting the author preferred outcome.",
+      "concreteVisual": "A shield icon with the callout.",
+      "onScreenText": "A magical shield",
+      "relationToPrevious": "A new image for the convenient revelation.",
+      "addedInformation": "The shield stands for the protecting math."
+    }
+  },
+  {
+    "i": 266,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A narrative cheat code",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Seldon smirks: the Second Foundation ensures he is always right.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Second Foundation is a narrative cheat code so Seldon is always right.",
+      "concreteVisual": "Seldon smirking in his wheelchair.",
+      "onScreenText": "A narrative cheat code",
+      "relationToPrevious": "Seldon is shown as the one who wins.",
+      "addedInformation": "The smirk marks the rigged win."
+    }
+  },
+  {
+    "i": 267,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The decaying empires",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The hosts list the topics covered.",
+    "noVisual": "A recap of four earlier topics: no single picture shows the list.",
+    "storyboard": {
+      "claim": "After the holograms, nuclear priests, economic warfare and decaying empires, what does it mean?",
+      "concreteVisual": "The words only.",
+      "onScreenText": "The decaying empires",
+      "relationToPrevious": "Starts the conclusion.",
+      "addedInformation": "weak: recap, text only."
+    }
+  },
+  {
+    "i": 268,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Foundation isn't about heroes",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The mayor stands plainly: the thesis says he is not a hero.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Foundation is not about heroes.",
+      "concreteVisual": "The mayor standing neutral.",
+      "onScreenText": "Foundation isn't about heroes",
+      "relationToPrevious": "States the thesis.",
+      "addedInformation": "weak: the hero shown plain."
+    }
+  },
+  {
+    "i": 269,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "A massive crowd steered by math",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "A massive crowd is steered by math: the puppeteer.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is about a massive crowd steered by math.",
+      "concreteVisual": "A puppeteer icon with the callout.",
+      "onScreenText": "A massive crowd steered by math",
+      "relationToPrevious": "Completes the thesis.",
+      "addedInformation": "The control relation again."
+    }
+  },
+  {
+    "i": 270,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Don't know it exists",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Seldon, who made the plan, smirks that the people inside must not know it exists.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The plan survives only because the people inside do not know it exists.",
+      "concreteVisual": "Seldon smirking and speaking.",
+      "onScreenText": "Don't know it exists",
+      "relationToPrevious": "The irony lands.",
+      "addedInformation": "The planner who hides it."
+    }
+  },
+  {
+    "i": 271,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A deeply uncomfortable question",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The hosts address the viewer.",
+    "noVisual": "The listener is addressed directly; no person in the cast is the listener.",
+    "storyboard": {
+      "claim": "Ask yourself a deeply uncomfortable question.",
+      "concreteVisual": "The words only.",
+      "onScreenText": "A deeply uncomfortable question",
+      "relationToPrevious": "Moves to the closing address.",
+      "addedInformation": "weak: direct address, text only."
+    }
+  },
+  {
+    "i": 272,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "How many choices are yours",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Forces swirling around you control your choices.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "How many of your choices are yours and how many the result of forces?",
+      "concreteVisual": "A puppeteer icon with the question.",
+      "onScreenText": "How many choices are yours",
+      "relationToPrevious": "Opens the question with the control image.",
+      "addedInformation": "The control image applied to the viewer."
+    }
+  },
+  {
+    "i": 273,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "A predictable number",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Are you the driver or just a predictable number?",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Are you the driver of your life or just another predictable number?",
+      "concreteVisual": "The puppeteer kept with the question.",
+      "onScreenText": "A predictable number",
+      "relationToPrevious": "Same stage; the final line.",
+      "addedInformation": "weak: ends on a question, text-led."
+    }
+  }
+]

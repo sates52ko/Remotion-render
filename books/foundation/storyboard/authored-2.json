@@ -1,0 +1,864 @@
+[
+  {
+    "i": 42,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Inescapable forces",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "set": "office",
+    "explainedBy": "Seldon relied on forces of behavior instead of forging a path; a framing commentary beat.",
+    "storyboard": {
+      "claim": "Seldon relied on the inescapable forces of human behavior.",
+      "concreteVisual": "Seldon in his wheelchair speaking, the words Inescapable forces on screen.",
+      "onScreenText": "Inescapable forces",
+      "relationToPrevious": "Opens the analogy passage.",
+      "addedInformation": "weak: restates the claim as text"
+    }
+  },
+  {
+    "i": 43,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "One molecule",
+        "The whole room"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "One gas molecule cannot be predicted while the room as a whole can: parts versus whole.",
+    "storyboard": {
+      "claim": "A single molecule is unpredictable but the room as a whole is predictable.",
+      "concreteVisual": "Two buckets: One molecule and The whole room.",
+      "onScreenText": "One molecule / The whole room",
+      "relationToPrevious": "Illustrates the thermodynamics analogy.",
+      "addedInformation": "the contrast between single and mass"
+    }
+  },
+  {
+    "i": 44,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Gas theory",
+        "Human history"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Seldon applied the kinetic theory of gases to human history: one model carried over.",
+    "storyboard": {
+      "claim": "Seldon applied the kinetic theory of gases to human history.",
+      "concreteVisual": "A flow from Gas theory to Human history.",
+      "onScreenText": "Gas theory / Human history",
+      "relationToPrevious": "Names the analogy as a transfer.",
+      "addedInformation": "the mapping from gases to history"
+    }
+  },
+  {
+    "i": 45,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Saving knowledge",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "set": "office",
+    "explainedBy": "The encyclopedists proudly believed they were the main characters saving knowledge.",
+    "storyboard": {
+      "claim": "They thought they were the main characters saving knowledge.",
+      "concreteVisual": "Pirenne smiling proudly, the words Saving knowledge.",
+      "onScreenText": "Saving knowledge",
+      "relationToPrevious": "Back to the encyclopedists on Terminus.",
+      "addedInformation": "their misplaced pride"
+    }
+  },
+  {
+    "i": 46,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "50 years",
+        "Retreat cut off",
+        "Seldon's path"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "After 50 years the retreat was cut off, leaving only Seldon's path.",
+    "storyboard": {
+      "claim": "Their retreat was cut off after 50 years so they had to follow Seldon's path.",
+      "concreteVisual": "A flow: 50 years, Retreat cut off, Seldon's path.",
+      "onScreenText": "50 years / Retreat cut off / Seldon's path",
+      "relationToPrevious": "Explains why they had no choice.",
+      "addedInformation": "the cause chain to no choice"
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Blind to the framework",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "set": "office",
+    "explainedBy": "They lived inside a framework they could not see: a blank, unaware face.",
+    "storyboard": {
+      "claim": "They lived inside a framework they were entirely blind to.",
+      "concreteVisual": "Pirenne with an empty, unseeing face.",
+      "onScreenText": "Blind to the framework",
+      "relationToPrevious": "Concludes the encyclopedists point.",
+      "addedInformation": "weak: mood with text"
+    }
+  },
+  {
+    "i": 48,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Brilliance doesn't matter",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "set": "office",
+    "explainedBy": "The narrator says individual brilliance does not matter to the math, a terrifying commentary.",
+    "storyboard": {
+      "claim": "Individual brilliance does not matter to the math.",
+      "concreteVisual": "Seldon bowed with a worried face, the words Brilliance doesn't matter.",
+      "onScreenText": "Brilliance doesn't matter",
+      "relationToPrevious": "Draws the lesson for the listener.",
+      "addedInformation": "weak: feeling plus text"
+    }
+  },
+  {
+    "i": 49,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A helpless planet",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "set": "office",
+    "explainedBy": "The hosts ask how a helpless planet survives its first threat: a worried leader.",
+    "storyboard": {
+      "claim": "How does a helpless planet survive its first real threat?",
+      "concreteVisual": "Harden with a worried face.",
+      "onScreenText": "A helpless planet",
+      "relationToPrevious": "Poses the question.",
+      "addedInformation": "weak: the question as mood"
+    }
+  },
+  {
+    "i": 50,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Technical skill",
+        "Political power"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "The question is how technical skill becomes political power: a cause to effect.",
+    "storyboard": {
+      "claim": "How does technical skill become political power?",
+      "concreteVisual": "A flow from Technical skill to Political power.",
+      "onScreenText": "Technical skill / Political power",
+      "relationToPrevious": "Sharpens the question into a flow.",
+      "addedInformation": "the skill-to-power link"
+    }
+  },
+  {
+    "i": 51,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Rich giant",
+        "Tiny rock"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Two planets side by side: a rich giant and a tiny rock.",
+    "storyboard": {
+      "claim": "Imagine two planets suspended next to each other.",
+      "concreteVisual": "Two buckets: Rich giant and Tiny rock.",
+      "onScreenText": "Rich giant / Tiny rock",
+      "relationToPrevious": "Starts the planet picture.",
+      "addedInformation": "the two sides of the comparison"
+    }
+  },
+  {
+    "i": 52,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Rich giant",
+        "Tiny rock"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The first planet is a glowing sphere rich in coal and oil, the giant side.",
+    "storyboard": {
+      "claim": "One planet is a massive glowing sphere teeming with resources.",
+      "concreteVisual": "The same Rich giant versus Tiny rock buckets stay on screen.",
+      "onScreenText": "Rich giant / Tiny rock",
+      "relationToPrevious": "Keeps the stage while the giant is described.",
+      "addedInformation": "weak: restates the stage"
+    }
+  },
+  {
+    "i": 53,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Rich giant",
+        "Tiny rock"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The second planet beside it is a tiny barren rock with no resources.",
+    "storyboard": {
+      "claim": "The second planet is a tiny barren rock with no resources.",
+      "concreteVisual": "The same buckets stay; the Tiny rock side is now described.",
+      "onScreenText": "Rich giant / Tiny rock",
+      "relationToPrevious": "Keeps the stage while the rock is described.",
+      "addedInformation": "weak: restates the stage"
+    }
+  },
+  {
+    "i": 54,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nuclear core"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Deep in the barren rock is a blinding core of nuclear light.",
+    "storyboard": {
+      "claim": "Deep inside the tiny rock is a blinding core of pure nuclear light.",
+      "concreteVisual": "A flow starting with Nuclear core.",
+      "onScreenText": "Nuclear core",
+      "relationToPrevious": "Starts the chain that explains the threshold.",
+      "addedInformation": "the hidden source of power"
+    }
+  },
+  {
+    "i": 55,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nuclear core",
+        "Giant stops"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The giant approaches but hits a threshold and stops.",
+    "storyboard": {
+      "claim": "The giant approaches, hits a threshold and stops.",
+      "concreteVisual": "The flow adds Giant stops after Nuclear core.",
+      "onScreenText": "Nuclear core / Giant stops",
+      "relationToPrevious": "Adds the stop to the chain.",
+      "addedInformation": "the effect of the core"
+    }
+  },
+  {
+    "i": 56,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nuclear core",
+        "Giant stops",
+        "Backs away"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The giant is forced to back away, repelled by the tiny rock output.",
+    "storyboard": {
+      "claim": "The giant is physically forced to back away.",
+      "concreteVisual": "The flow adds Backs away.",
+      "onScreenText": "Nuclear core / Giant stops / Backs away",
+      "relationToPrevious": "Completes the chain.",
+      "addedInformation": "the result of the confrontation"
+    }
+  },
+  {
+    "i": 57,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Across the desk",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "partnerExpression": "blank",
+    "partnerAction": "sit",
+    "set": "office",
+    "shotOverride": "twoShot",
+    "explainedBy": "Harden sits across from the oblivious Pirenne, the chairman who is technically in charge.",
+    "storyboard": {
+      "claim": "Harden is sitting across from the oblivious chairman Pirenne.",
+      "concreteVisual": "Harden and Pirenne seated facing each other in the office, Pirenne blank.",
+      "onScreenText": "Across the desk",
+      "relationToPrevious": "Moves from the planets to the scene.",
+      "addedInformation": "who sits where and who is oblivious"
+    }
+  },
+  {
+    "i": 58,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Two credit coin",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "coin",
+    "partnerExpression": "blank",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "Harden flips a stainless steel coin in the air.",
+    "storyboard": {
+      "claim": "Harden flips a stainless steel two credit coin.",
+      "concreteVisual": "Harden holding a coin in the office, Pirenne beside him.",
+      "onScreenText": "Two credit coin",
+      "relationToPrevious": "Adds the coin.",
+      "addedInformation": "the object Harden plays with"
+    }
+  },
+  {
+    "i": 59,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "Steel is currency",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Steel is precious enough to be money because Terminus has no metals.",
+    "storyboard": {
+      "claim": "Steel is currency because Terminus lacks metals.",
+      "concreteVisual": "A coin icon with the words Steel is currency.",
+      "onScreenText": "Steel is currency",
+      "relationToPrevious": "Explains the coin.",
+      "addedInformation": "why the coin is steel"
+    }
+  },
+  {
+    "i": 60,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Visibly annoyed",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne",
+      "harden"
+    ],
+    "expression": "angry",
+    "action": "hold",
+    "holds": "pen",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "Pirenne scrapes his stylus, annoyed, while Harden is acutely aware of reality.",
+    "storyboard": {
+      "claim": "Pirenne scrapes his stylus on paper, visibly annoyed.",
+      "concreteVisual": "Pirenne with an annoyed face holding a pen, Harden calm beside him.",
+      "onScreenText": "Visibly annoyed",
+      "relationToPrevious": "Contrasts the two men.",
+      "addedInformation": "Pirenne annoyed, Harden calm"
+    }
+  },
+  {
+    "i": 61,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Cut off from metal",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "pen",
+    "set": "office",
+    "explainedBy": "Pirenne ignores that Terminus is cut off from metal and abandoned by the Empire.",
+    "storyboard": {
+      "claim": "Pirenne ignores that Terminus is cut off from metal shipments.",
+      "concreteVisual": "Pirenne with a blank face writing.",
+      "onScreenText": "Cut off from metal",
+      "relationToPrevious": "Continues the Pirenne portrait.",
+      "addedInformation": "weak: mood and text"
+    }
+  },
+  {
+    "i": 62,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The ivory tower",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "set": "office",
+    "explainedBy": "Pirenne is the embodiment of the ivory tower while Anacreon prepares to extort them.",
+    "storyboard": {
+      "claim": "Pirenne is the literal embodiment of the ivory tower.",
+      "concreteVisual": "Pirenne with an empty face.",
+      "onScreenText": "The ivory tower",
+      "relationToPrevious": "Labels Pirenne.",
+      "addedInformation": "weak: label"
+    }
+  },
+  {
+    "i": 63,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Pure knowledge",
+        "Useless"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Pure knowledge on its own is useless.",
+    "storyboard": {
+      "claim": "Pure knowledge on its own is completely useless.",
+      "concreteVisual": "A flow from Pure knowledge to Useless.",
+      "onScreenText": "Pure knowledge / Useless",
+      "relationToPrevious": "States the lesson.",
+      "addedInformation": "the first half of the lesson"
+    }
+  },
+  {
+    "i": 64,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Technical skill",
+        "Physical reality",
+        "Political leverage"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Technical skill applied to a desperate physical reality becomes political leverage.",
+    "storyboard": {
+      "claim": "Technical skill applied to physical reality becomes political leverage.",
+      "concreteVisual": "A flow: Technical skill, Physical reality, Political leverage.",
+      "onScreenText": "Technical skill / Physical reality / Political leverage",
+      "relationToPrevious": "Gives the second half of the lesson.",
+      "addedInformation": "the transformation chain"
+    }
+  },
+  {
+    "i": 65,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The emperor is far away",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "Pirenne trusts the emperor will protect them while Harden knows the emperor is far away.",
+    "storyboard": {
+      "claim": "Pirenne insists the emperor will protect them; Harden knows better.",
+      "concreteVisual": "Harden speaking, Pirenne smiling confidently beside him.",
+      "onScreenText": "The emperor is far away",
+      "relationToPrevious": "Shows the clash of realities.",
+      "addedInformation": "the two beliefs side by side"
+    }
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Demanding tribute",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "envoy",
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "The envoy struts in demanding tribute from Harden.",
+    "storyboard": {
+      "claim": "The Anacreonian envoy arrives demanding tribute.",
+      "concreteVisual": "The envoy smirking and talking, Harden facing him.",
+      "onScreenText": "Demanding tribute",
+      "relationToPrevious": "New person enters.",
+      "addedInformation": "who demands what from whom"
+    }
+  },
+  {
+    "i": 67,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Envoy demands land",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "harden",
+      "envoy"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "The envoy asks for land while Harden casually asks about plutonium.",
+    "storyboard": {
+      "claim": "The envoy suggests land for noble estates; Harden asks something brilliant.",
+      "concreteVisual": "Harden speaking with a smirk, the envoy facing him.",
+      "onScreenText": "Envoy demands land",
+      "relationToPrevious": "Harden turns the talk.",
+      "addedInformation": "the setup of the question"
+    }
+  },
+  {
+    "i": 68,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Plutonium for the plant",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "envoy",
+      "harden"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "smirk",
+    "partnerAction": "talk",
+    "set": "office",
+    "explainedBy": "The envoy is stunned by the plutonium question while Harden watches.",
+    "storyboard": {
+      "claim": "The envoy jaw hits the floor at the plutonium request.",
+      "concreteVisual": "The envoy surprised, Harden smirking.",
+      "onScreenText": "Plutonium for the plant",
+      "relationToPrevious": "Shows the reaction.",
+      "addedInformation": "the envoy reaction"
+    }
+  },
+  {
+    "i": 69,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Terminus has nuclear power",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "envoy",
+      "harden"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "continue": true,
+    "set": "office",
+    "explainedBy": "The envoy realises Terminus still has nuclear power.",
+    "storyboard": {
+      "claim": "He realises Terminus still possesses nuclear power.",
+      "concreteVisual": "The envoy still stunned, Harden smirking.",
+      "onScreenText": "Terminus has nuclear power",
+      "relationToPrevious": "Same scene; the realisation is spoken.",
+      "addedInformation": "what the envoy realised"
+    }
+  },
+  {
+    "i": 70,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Terminus: nuclear",
+        "Periphery: lost science"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Terminus keeps nuclear science while the surrounding kingdoms lost it.",
+    "storyboard": {
+      "claim": "The periphery has lost the science; Terminus has it.",
+      "concreteVisual": "Two buckets: Terminus nuclear and Periphery lost science.",
+      "onScreenText": "Terminus: nuclear / Periphery: lost science",
+      "relationToPrevious": "Explains why it is huge.",
+      "addedInformation": "the technological gap"
+    }
+  },
+  {
+    "i": 71,
+    "concept": "fire",
+    "diagram": null,
+    "callout": {
+      "text": "Burning oil and coal",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "The kingdoms regressed to burning oil and coal.",
+    "storyboard": {
+      "claim": "They regressed to chemical power, burning oil and coal.",
+      "concreteVisual": "A fire icon with Burning oil and coal.",
+      "onScreenText": "Burning oil and coal",
+      "relationToPrevious": "Describes the periphery power.",
+      "addedInformation": "what the kingdoms burn"
+    }
+  },
+  {
+    "i": 72,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nuclear superiority",
+        "Anacreon takes them",
+        "Conquers the rest"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "If Anacreon takes Terminus it gets nuclear weapons and conquers the rest.",
+    "storyboard": {
+      "claim": "If Anacreon takes them over it gets nuclear weapons and conquers the rest.",
+      "concreteVisual": "A flow: Nuclear superiority, Anacreon takes them, Conquers the rest.",
+      "onScreenText": "Nuclear superiority / Anacreon takes them / Conquers the rest",
+      "relationToPrevious": "Gives the threat Harden uses.",
+      "addedInformation": "the argument to the neighbours"
+    }
+  },
+  {
+    "i": 73,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Four-dimensional chess",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "set": "office",
+    "explainedBy": "Harden plays a brilliant strategic game, the neighbours protect Terminus from each other.",
+    "storyboard": {
+      "claim": "Harden plays a game of four-dimensional chess.",
+      "concreteVisual": "Harden smirking beside a chess knight icon.",
+      "onScreenText": "Four-dimensional chess",
+      "relationToPrevious": "Names the strategy.",
+      "addedInformation": "strategy as a game"
+    }
+  },
+  {
+    "i": 74,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Anacreon lands force",
+        "Three neighbors",
+        "Joint ultimatum"
+      ]
+    },
+    "callout": null,
+    "noVisual": null,
+    "cast": [],
+    "explainedBy": "Anacreon tries to land troops and within a month three neighbors issue a joint ultimatum.",
+    "storyboard": {
+      "claim": "Anacreon lands a force and its neighbors send a joint ultimatum.",
+      "concreteVisual": "A flow: Anacreon lands force, Three neighbors, Joint ultimatum.",
+      "onScreenText": "Anacreon lands force / Three neighbors / Joint ultimatum",
+      "relationToPrevious": "Shows the result of the plan.",
+      "addedInformation": "the cause chain of the ultimatum"
+    }
+  },
+  {
+    "i": 75,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Retreat without a shot",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "envoy"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "set": "office",
+    "explainedBy": "The Anacreonians retreat without a shot fired, making Pirenne look cowardly.",
+    "storyboard": {
+      "claim": "The Anacreonians are forced to retreat without a single shot.",
+      "concreteVisual": "The envoy bowed and worried.",
+      "onScreenText": "Retreat without a shot",
+      "relationToPrevious": "Shows the outcome.",
+      "addedInformation": "the retreat"
+    }
+  },
+  {
+    "i": 76,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "What Seldon did to him",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "set": "office",
+    "explainedBy": "Was Pirenne a coward, or was Seldon controlling him: one person controlled.",
+    "storyboard": {
+      "claim": "The psychological layer of what Seldon did to Pirenne.",
+      "concreteVisual": "Pirenne blank beside a puppeteer icon.",
+      "onScreenText": "What Seldon did to him",
+      "relationToPrevious": "Raises the coward-or-designed question.",
+      "addedInformation": "the idea of control"
+    }
+  },
+  {
+    "i": 77,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "He did what Seldon designed",
+      "style": "highlight"
+    },
+    "noVisual": null,
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "continue": true,
+    "set": "office",
+    "explainedBy": "Pirenne performed as Seldon conditioned him to.",
+    "storyboard": {
+      "claim": "Pirenne did exactly what Seldon conditioned him to do.",
+      "concreteVisual": "Pirenne blank beside the puppeteer icon, kept.",
+      "onScreenText": "He did what Seldon designed",
+      "relationToPrevious": "Keeps the stage; the claim is spoken.",
+      "addedInformation": "the answer: conditioned"
+    }
+  }
+]

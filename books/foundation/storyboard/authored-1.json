@@ -1,0 +1,1002 @@
+[
+  {
+    "i": 0,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "THE EXACT CENTURY",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "An empire's end is timed: the hourglass runs on a fall already calculated.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An empire is dying and one man has calculated the century of its fall.",
+      "concreteVisual": "An hourglass alone on screen, no people.",
+      "onScreenText": "THE EXACT CENTURY",
+      "relationToPrevious": "opening beat",
+      "addedInformation": "adds the idea of a calculated deadline"
+    }
+  },
+  {
+    "i": 1,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "HEROES",
+        "THE CROWD"
+      ],
+      "values": [
+        0.95
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A spectrum marker sits at the crowd pole, away from heroes: the story is about the crowd.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The book is not about heroes but about a crowd that never sees its future.",
+      "concreteVisual": "Spectrum with HEROES left, THE CROWD right, marker far right.",
+      "onScreenText": "HEROES / THE CROWD",
+      "relationToPrevious": "new claim after opening",
+      "addedInformation": "shows which pole the book is about"
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A PLAN THEY CANNOT READ",
+      "style": "reveal"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": "notes",
+    "set": "office",
+    "explainedBy": "A man holding papers he cannot make sense of shows an individual acting inside a plan he cannot read.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The drama is what the plan does to individuals who must act inside it unread.",
+      "concreteVisual": "Hardin, worried and bowed, holding notes he cannot read.",
+      "onScreenText": "A PLAN THEY CANNOT READ",
+      "relationToPrevious": "moves from the crowd to the individual",
+      "addedInformation": "adds the individual's side of the story"
+    }
+  },
+  {
+    "i": 3,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "ANALYSIS OF FOUNDATION",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "The book itself is the subject of the analysis the hosts announce.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They will analyse the entirety of Foundation by Isaac Asimov.",
+      "concreteVisual": "A closed book icon alone on screen.",
+      "onScreenText": "ANALYSIS OF FOUNDATION",
+      "relationToPrevious": "introduces the object of the discussion",
+      "addedInformation": "weak: names the book being analysed"
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Crowds",
+        "Math",
+        "Toll on individuals"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Crowds are steered by math, and the cost lands on individuals: a cause to effect chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "First crowds steered by math, second the psychological toll on individuals.",
+      "concreteVisual": "Flow of three labels: Crowds to Math to Toll on individuals.",
+      "onScreenText": "Crowds / Math / Toll on individuals",
+      "relationToPrevious": "preview of the first two promised points",
+      "addedInformation": "shows the order of the first two points"
+    }
+  },
+  {
+    "i": 5,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "Free will is an illusion",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "A mask is a false face: the plan survives by a pretended freedom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A calculated plan needs the illusion of free will to survive.",
+      "concreteVisual": "A mask icon alone on screen.",
+      "onScreenText": "THE ILLUSION OF FREE WILL",
+      "relationToPrevious": "third promised point after the flow",
+      "addedInformation": "adds the third point as a false face"
+    }
+  },
+  {
+    "i": 6,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "CROWDS VERSUS CLEVERNESS",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "The scale weighs a crowd's forecast against individual cleverness.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The first question is why a forecast of crowds beats individual cleverness.",
+      "concreteVisual": "A balance icon weighing two sides.",
+      "onScreenText": "CROWDS VERSUS CLEVERNESS",
+      "relationToPrevious": "opens the first question",
+      "addedInformation": "poses the comparison to be answered"
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUILD A PICTURE",
+      "style": "reveal"
+    },
+    "cast": [],
+    "noVisual": "an invitation to imagine; nothing concrete is yet described to draw",
+    "set": "office",
+    "explainedBy": "The host only invites the listener to imagine a scene; nothing to depict yet.",
+    "storyboard": {
+      "claim": "The host asks the listener to build a picture together.",
+      "concreteVisual": "Empty frame with the callout only.",
+      "onScreenText": "BUILD A PICTURE",
+      "relationToPrevious": "finishes the question, starts the scene",
+      "addedInformation": "weak: introduction only"
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A MASSIVE DIM ROOM",
+      "style": "reveal"
+    },
+    "cast": [],
+    "noVisual": "the vocabulary has no room or dim light; only the set exists",
+    "set": "office",
+    "explainedBy": "The scene is a vast, stale, dim room.",
+    "storyboard": {
+      "claim": "We stand in a massive dim room with stale air and bad lighting.",
+      "concreteVisual": "Empty frame with the callout only.",
+      "onScreenText": "A MASSIVE DIM ROOM",
+      "relationToPrevious": "starts the imagined scene",
+      "addedInformation": "weak: sets the place in words"
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A GIANT GLASS CUBICLE",
+      "style": "reveal"
+    },
+    "cast": [],
+    "noVisual": "no glass cubicle exists in the vocabulary",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "A giant glass cubicle stands in the center of the room.",
+    "storyboard": {
+      "claim": "In the center of the cavernous space is a giant glass cubicle.",
+      "concreteVisual": "Empty frame with the callout only.",
+      "onScreenText": "A GIANT GLASS CUBICLE",
+      "relationToPrevious": "keeps the room, adds the cubicle",
+      "addedInformation": "weak: adds one object in words"
+    }
+  },
+  {
+    "i": 10,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A RECORDED HOLOGRAM",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "set": "office",
+    "explainedBy": "The old man in a wheelchair appears and flickers to life inside the glass.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A recorded hologram of an old man in a wheelchair flickers to life.",
+      "concreteVisual": "Seldon seated in his wheelchair, idle.",
+      "onScreenText": "A RECORDED HOLOGRAM",
+      "relationToPrevious": "the hologram appears in the cubicle",
+      "addedInformation": "adds the figure of Seldon"
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FIXED IN TIME",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "He speaks and smiles, yet he is a fixed recording.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hologram speaks and smiles but is completely fixed in time.",
+      "concreteVisual": "Seldon smiling and talking.",
+      "onScreenText": "FIXED IN TIME",
+      "relationToPrevious": "same figure, now speaking and smiling",
+      "addedInformation": "adds that he speaks but cannot change"
+    }
+  },
+  {
+    "i": 12,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WE CANNOT INTERACT",
+      "style": "reveal"
+    },
+    "cast": [
+      "pirenne",
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "The audience asks and interrupts, but the figure in the glass does not respond.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We cannot ask him questions, interrupt him, or interact.",
+      "concreteVisual": "A worried scholar talking toward Seldon, who smiles and stays idle.",
+      "onScreenText": "WE CANNOT INTERACT",
+      "relationToPrevious": "adds the audience watching him",
+      "addedInformation": "shows the one-way relation"
+    }
+  },
+  {
+    "i": 13,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FLIPPING UPSIDE DOWN",
+      "style": "reveal"
+    },
+    "cast": [
+      "pirenne",
+      "seldon"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "The man in the glass is frozen while the watchers' reality turns over.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon is frozen but the watchers' reality flips upside down.",
+      "concreteVisual": "A surprised scholar facing the unchanged smiling Seldon.",
+      "onScreenText": "FLIPPING UPSIDE DOWN",
+      "relationToPrevious": "same two figures, scholar's face changes",
+      "addedInformation": "contrasts the frozen man with the shaken watcher"
+    }
+  },
+  {
+    "i": 14,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "50 YEARS AFTER",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "The clock marks fifty years since the foundation began, in the time vault on Terminus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We are in the time vault on Terminus, 50 years after the foundation started.",
+      "concreteVisual": "A clock icon alone on screen.",
+      "onScreenText": "50 YEARS AFTER",
+      "relationToPrevious": "moves the scene to Terminus and its date",
+      "addedInformation": "adds the 50-year date"
+    }
+  },
+  {
+    "i": 15,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HARI SELDON",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "set": "office",
+    "explainedBy": "The watchers are the encyclopediists and the hologram is Seldon holding a book.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The encyclopediists watch Hari Seldon casually fingering a book.",
+      "concreteVisual": "Seldon seated, holding a book.",
+      "onScreenText": "HARI SELDON",
+      "relationToPrevious": "identifies the figure from the glass",
+      "addedInformation": "names him and gives him the book"
+    }
+  },
+  {
+    "i": 16,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A COMPLETE FRAUD",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "pirenne"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": "book",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "Seldon smiles and tells the shocked scholars the Encyclopedia is a fraud.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon tells the scholars the Encyclopedia Galactica is a complete fraud.",
+      "concreteVisual": "Seldon smirking and talking with the book; a surprised scholar facing him.",
+      "onScreenText": "A COMPLETE FRAUD",
+      "relationToPrevious": "adds the shocked scholar to the same stage",
+      "addedInformation": "shows the bombshell and the reaction"
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A SHINY OBJECT",
+      "style": "reveal"
+    },
+    "cast": [
+      "pirenne",
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": "smirk",
+    "partnerAction": "talk",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "The scholar holds the book of his life's work which Seldon calls only a distraction.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Encyclopedia was a shiny object to get them to a barren rock.",
+      "concreteVisual": "Scholar holding a book, worried; Seldon smirking and talking.",
+      "onScreenText": "A SHINY OBJECT",
+      "relationToPrevious": "the scholar takes the lead and holds the book",
+      "addedInformation": "shows who loses the book's meaning"
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "50 YEARS OF YOUR LIFE",
+      "style": "reveal"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": "book",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "The scholar who gave fifty years and his home to the work stands bowed with his book.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You sacrificed home and comfort for fifty years of work.",
+      "concreteVisual": "Scholar bowed, sad, holding the book.",
+      "onScreenText": "50 YEARS OF YOUR LIFE",
+      "relationToPrevious": "Seldon leaves the frame, scholar stays",
+      "addedInformation": "adds the cost to the scholar"
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT A SINGLE VOLUME",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "pirenne"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "sad",
+    "partnerAction": "slump",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "The ghost says he does not care about a single volume while the scholar is crushed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ghost says he doesn't care if you ever publish a single volume.",
+      "concreteVisual": "Seldon smirking and talking; the scholar sad and bowed.",
+      "onScreenText": "NOT A SINGLE VOLUME",
+      "relationToPrevious": "Seldon returns facing the bowed scholar",
+      "addedInformation": "shows the dismissal and its effect"
+    }
+  },
+  {
+    "i": 20,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "YOUR GENIUS",
+        "THE MATH"
+      ],
+      "values": [
+        1
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The marker sits at the math pole: individual genius does not count against it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Individual genius and hard work do not matter to the math.",
+      "concreteVisual": "Spectrum YOUR GENIUS left, THE MATH right, marker at the right.",
+      "onScreenText": "YOUR GENIUS / THE MATH",
+      "relationToPrevious": "generalizes the scene to a rule",
+      "addedInformation": "states what the scene illustrates"
+    }
+  },
+  {
+    "i": 21,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Your research",
+        "Statistical model"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Fifty years of research flow into a statistical model that already counted them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Your actions were already accounted for in a grand statistical model.",
+      "concreteVisual": "Flow of two labels: Your research to Statistical model.",
+      "onScreenText": "Your research / Statistical model",
+      "relationToPrevious": "from the rule to the mechanism",
+      "addedInformation": "shows the actions absorbed into the model"
+    }
+  },
+  {
+    "i": 22,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "One scholar",
+        "Quadrillions of people"
+      ],
+      "values": [
+        1
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The science looks at huge populations, not one scholar's Tuesday.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Psychohistory is a science of huge populations that ignores one scholar.",
+      "concreteVisual": "Spectrum One scholar left, Quadrillions of people right, marker right.",
+      "onScreenText": "One scholar / Quadrillions of people",
+      "relationToPrevious": "defines psychohistory after the example",
+      "addedInformation": "shows the scale it works on"
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A LITTLE TRIPPED UP",
+      "style": "reveal"
+    },
+    "cast": [],
+    "noVisual": "a host pausing to ask a question; no event to draw",
+    "set": "office",
+    "explainedBy": "The second host pauses the first and admits being confused by the mechanics.",
+    "storyboard": {
+      "claim": "The host pauses to say they are tripped up on the mechanics.",
+      "concreteVisual": "Empty frame with the callout only.",
+      "onScreenText": "A LITTLE TRIPPED UP",
+      "relationToPrevious": "interruption of the explanation",
+      "addedInformation": "weak: a commentary beat"
+    }
+  },
+  {
+    "i": 24,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "30,000 YEARS OF A DARK AGE",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "set": "office",
+    "explainedBy": "Seldon knows the fall and the 30,000-year dark age the host wonders why he does not prevent.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If Seldon predicts the fall and the dark age, why not act directly?",
+      "concreteVisual": "Seldon worried and talking.",
+      "onScreenText": "30,000 YEARS OF A DARK AGE",
+      "relationToPrevious": "question raised about Seldon",
+      "addedInformation": "adds the dark age figure"
+    }
+  },
+  {
+    "i": 25,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HERE'S THE MATH",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "Seldon would bring his math on paper to the Emperor with things to fix.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Why not tell the Emperor here's the math and five things to fix?",
+      "concreteVisual": "Seldon holding his notes.",
+      "onScreenText": "HERE'S THE MATH",
+      "relationToPrevious": "same Seldon, now holding the math",
+      "addedInformation": "adds the imagined direct approach"
+    }
+  },
+  {
+    "i": 26,
+    "concept": "boulder",
+    "diagram": null,
+    "callout": {
+      "text": "IT COMES DOWN TO INERTIA",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "A heavy boulder in the path is the weight that stops a quick fix: inertia.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The exile is the only option because of inertia.",
+      "concreteVisual": "A boulder icon alone on screen.",
+      "onScreenText": "IT COMES DOWN TO INERTIA",
+      "relationToPrevious": "answers the host's question",
+      "addedInformation": "names the reason"
+    }
+  },
+  {
+    "i": 27,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "TRANTOR IS ONE CITY",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "Trantor is a single continuous city, the seat of the empire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Empire is ruled from Trantor, one continuous metropolis.",
+      "concreteVisual": "A city icon alone on screen.",
+      "onScreenText": "TRANTOR IS ONE CITY",
+      "relationToPrevious": "gives the scale of the inertia",
+      "addedInformation": "introduces Trantor"
+    }
+  },
+  {
+    "i": 28,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "40 BILLION PEOPLE",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "continue": true,
+    "explainedBy": "The whole planet is a city of forty billion people at the heart of an empire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "40 billion people live on this planet, heart of an empire of quadrillions.",
+      "concreteVisual": "The same city icon with a new callout.",
+      "onScreenText": "40 BILLION PEOPLE",
+      "relationToPrevious": "same city, adds its population",
+      "addedInformation": "adds the number"
+    }
+  },
+  {
+    "i": 29,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A FEATHER AGAINST A TRAIN",
+      "style": "reveal"
+    },
+    "cast": [],
+    "set": "office",
+    "explainedBy": "A feather weighed against a freight train shows the mismatch of force.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You cannot stop a freight train with a feather.",
+      "concreteVisual": "A balance icon weighing two sides.",
+      "onScreenText": "A FEATHER AGAINST A TRAIN",
+      "relationToPrevious": "illustrates the scale in comparisons",
+      "addedInformation": "shows the mismatch"
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Quadrillion people",
+        "Inertia",
+        "Guaranteed outcome"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A quadrillion people's inertia guarantees the outcome.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The inertia of a quadrillion people guarantees the outcome.",
+      "concreteVisual": "Flow of three labels: Quadrillion people to Inertia to Guaranteed outcome.",
+      "onScreenText": "Quadrillion people / Inertia / Guaranteed outcome",
+      "relationToPrevious": "states the conclusion of the comparisons",
+      "addedInformation": "shows the chain from size to outcome"
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Empire falls",
+        "Tiny deflection"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The empire falls regardless, but a tiny deflection is possible at one pressure point.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He could not stop the fall but found a pressure point for a tiny deflection.",
+      "concreteVisual": "Flow of two labels: Empire falls, Tiny deflection.",
+      "onScreenText": "Empire falls / Tiny deflection",
+      "relationToPrevious": "from why not to what he did",
+      "addedInformation": "adds the deflection"
+    }
+  },
+  {
+    "i": 32,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Empire falls",
+        "Tiny deflection",
+        "1,000 years"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The exile deflects the fall from 30,000 years of misery to 1,000.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Exiling scientists shaves 29,000 years, leaving a 1,000-year dark age.",
+      "concreteVisual": "The same flow gains its third label, 1,000 years.",
+      "onScreenText": "1,000 years",
+      "relationToPrevious": "same flow, one more label",
+      "addedInformation": "adds the result"
+    }
+  },
+  {
+    "i": 33,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN INDIVIDUAL HERO",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "set": "office",
+    "explainedBy": "The second host still sees Seldon as an incredible individual hero.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Looking at Trantor, the host still sees Seldon as an individual hero.",
+      "concreteVisual": "Seldon smiling, celebrating.",
+      "onScreenText": "AN INDIVIDUAL HERO",
+      "relationToPrevious": "new view from the second host",
+      "addedInformation": "states the hero reading"
+    }
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "92.5% PROBABILITY",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "commissioner"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "Seldon stands before the commission's chief and predicts the fall at 92.5 percent.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At his trial Seldon predicts the empire's fall at a 92.5% probability.",
+      "concreteVisual": "Seldon talking; the commissioner facing him, angry.",
+      "onScreenText": "92.5% PROBABILITY",
+      "relationToPrevious": "moves to the trial",
+      "addedInformation": "adds the trial and its figure"
+    }
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Seldon plays the commissioner",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "commissioner"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "partnerAction": "talk",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "Seldon turns the commission's hostility to force his exile, manipulating Chen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He used the commission's hostile actions and manipulated Lens Chen.",
+      "concreteVisual": "Seldon smirking at the angry commissioner.",
+      "onScreenText": "Seldon plays the commissioner",
+      "relationToPrevious": "same pair, Seldon's face turns sly",
+      "addedInformation": "shows who plays whom"
+    }
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ULTIMATE LONE GENIUS",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "commissioner"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "Seldon outwits the most powerful men by Chen's predictable reactions: the lone genius reading.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "That is the ultimate lone genius saving the galaxy.",
+      "concreteVisual": "Seldon smirking and pointing; the commissioner angry.",
+      "onScreenText": "THE ULTIMATE LONE GENIUS",
+      "relationToPrevious": "same pair, Seldon points",
+      "addedInformation": "states the argument for the hero reading"
+    }
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "HERO",
+        "CATALYST"
+      ],
+      "values": [
+        1
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The marker moves from hero to catalyst: he did not build the future by bravery.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon isn't a hero, just a catalyst.",
+      "concreteVisual": "Spectrum HERO left, CATALYST right, marker right.",
+      "onScreenText": "HERO / CATALYST",
+      "relationToPrevious": "answers the hero claim",
+      "addedInformation": "moves him from hero to catalyst"
+    }
+  },
+  {
+    "i": 38,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "1.7% PROBABILITY OF EXECUTION",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "commissioner"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "set": "office",
+    "explainedBy": "Seldon faces a commission that could execute him, a 1.7 percent risk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He read a thermometer, but risked a 1.7% probability of execution.",
+      "concreteVisual": "Seldon worried facing the angry commissioner.",
+      "onScreenText": "1.7% PROBABILITY OF EXECUTION",
+      "relationToPrevious": "returns to the trial for the hero counterargument",
+      "addedInformation": "adds the risk figure"
+    }
+  },
+  {
+    "i": 39,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ENGINEERED HIS OWN ARREST",
+      "style": "reveal"
+    },
+    "cast": [
+      "seldon",
+      "commissioner"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "set": "office",
+    "continue": true,
+    "explainedBy": "Seldon engineered his arrest and manipulated the power, but only because the mass told him when.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He engineered his arrest because the mass told him it was the moment.",
+      "concreteVisual": "Seldon smirking, talking; the commissioner angry.",
+      "onScreenText": "ENGINEERED HIS OWN ARREST",
+      "relationToPrevious": "same pair, Seldon sly again",
+      "addedInformation": "adds the counter that the mass decided"
+    }
+  },
+  {
+    "i": 40,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Fixed stimuli",
+        "Reactions"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Psychohistory studies a stimulus and the reactions of human conglomerates to it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Encyclopedia defines psychohistory as reactions to fixed stimuli.",
+      "concreteVisual": "Flow of two labels: Fixed stimuli to Reactions.",
+      "onScreenText": "Fixed stimuli / Reactions",
+      "relationToPrevious": "quotes the definition",
+      "addedInformation": "gives the definition as a chain"
+    }
+  },
+  {
+    "i": 41,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Stimulus",
+        "Politician",
+        "Predictable reaction"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A politician receiving a stimulus reacts predictably: Chen was predicted, not outsmarted.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon knew Chen was a politician and politicians react predictably.",
+      "concreteVisual": "Flow of three labels: Stimulus to Politician to Predictable reaction.",
+      "onScreenText": "Stimulus / Politician / Predictable reaction",
+      "relationToPrevious": "applies the definition to Chen",
+      "addedInformation": "shows why cleverness was not needed"
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "slug": "foundation",
+  "title": "Foundation",
+  "author": "Isaac Asimov",
+  "genre": "science fiction",
+  "engine": "antidote",
+  "engineRationale": "Book profile (moderate): speculative fiction with a cast → staged characters and invented things drawn in Antidote (measured: I, Robot 1/30 wrong, Ready Player One 0/30 — data/engine-outcomes.json; no speculative Vox book measured) RISK: some violence → plan those beats as aftermath/symbol if Vox",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "speculative",
+    "era": 12020,
+    "realPeople": false,
+    "format": "story",
+    "violence": "some",
+    "minorHarm": false,
+    "mustSee": [
+      "Trantor, the vast galactic capital city covering an entire world",
+      "Hari Seldon in a holographic lecture projected in a dim hall",
+      "The Encyclopedists sent to the far edge of the galaxy to Terminus",
+      "A planetary ruler confronting a rival warlord fleet over a dying empire",
+      "Ships and planetary technology drifting in the void"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "moderate",
+    "voxScore": 0,
+    "antidoteScore": 15,
+    "reasons": [
+      "speculative fiction with a cast → staged characters and invented things drawn in Antidote (measured: I, Robot 1/30 wrong, Ready Player One 0/30 — data/engine-outcomes.json; no speculative Vox book measured)"
+    ],
+    "risks": [
+      "some violence → plan those beats as aftermath/symbol if Vox"
+    ]
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-14",
+    "fit": "vox",
+    "confidence": "moderate",
+    "voxScore": 14.6,
+    "antidoteScore": 8,
+    "signals": {
+      "year": 0,
+      "history": 6.1,
+      "second": 10.3,
+      "abstract": 5.5,
+      "sensitive": 2.7,
+      "era": 12020,
+      "words": 6605
+    },
+    "reasons": [
+      "real-world / dated references (0 years, 6.1 history terms per 1k words) → photoreal shows the actual world (Vox)"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/foundation.mp3"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "foundation",
+  "status": "READY",
+  "at": "2026-11-14T09:11:27.646Z",
+  "metaSha256": "0433d76fa9cf74f1e22052ae4975c6f3381adc75f72c55bc85c359e66c54af19",
+  "mdSha256": "82239ad6d582622d11796771b8d553d6a50d608a04281e41023b52f2ff978b13",
+  "cleanVttSha256": "1ef3ab3072a6a90c3a7e8cf3e4b99c315b3763ed8db70618abdb26691f7b8ad0",
+  "errors": [],
+  "warnings": [
+    "HOOK_UNVERIFIED: no books/foundation/thumbnail-check.json — run render-thumbnails.js (it checks the hook pixels in every variant)"
+  ]
+}

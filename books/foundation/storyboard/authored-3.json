@@ -1,0 +1,1136 @@
+[
+  {
+    "i": 78,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A FAKE MISSION",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "PN is a scholar following the fake mission (the encyclopedia) Seldon assigned him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "PN was not weak; he followed a fake mission.",
+      "concreteVisual": "Pirenne holding the Encyclopedia book.",
+      "onScreenText": "A FAKE MISSION",
+      "relationToPrevious": "Opens the passage on PN as conditioned.",
+      "addedInformation": "Names the book as the assigned mission."
+    }
+  },
+  {
+    "i": 79,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A STRATEGIST LIKE HARDEN",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "The contrast: a pragmatic strategist like Harden might have negotiated early.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A pragmatic strategist might have negotiated with Anacreon.",
+      "concreteVisual": "Harden talking, the sharp pragmatic leader.",
+      "onScreenText": "A STRATEGIST LIKE HARDEN",
+      "relationToPrevious": "Contrasts Pirenne with Harden.",
+      "addedInformation": "Shows the alternative PN did not take."
+    }
+  },
+  {
+    "i": 80,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "ALLIANCE OR DEAL",
+        "WILD VARIABLES"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause to effect: negotiating or allying would add unpredictable variables to the equations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Such actions would add unpredictable variables to Seldon equations.",
+      "concreteVisual": "Flow from alliance or deal to wild variables.",
+      "onScreenText": "ALLIANCE OR DEAL, WILD VARIABLES",
+      "relationToPrevious": "Turns the hypothetical into a cause and effect.",
+      "addedInformation": "The reason Seldon needed PN passive."
+    }
+  },
+  {
+    "i": 81,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A HARMLESS, POINTLESS BOOK",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne",
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": "smirk",
+    "explainedBy": "Seldon keeps the encyclopedists busy with a harmless book so they do not disturb the math.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon wanted the scholars on a harmless book so they would not mess up the math.",
+      "concreteVisual": "Pirenne holding the book while Seldon watches with a smirk.",
+      "onScreenText": "A HARMLESS, POINTLESS BOOK",
+      "relationToPrevious": "Resolves the argument of 78-80.",
+      "addedInformation": "Shows Seldon as the one who set it up."
+    }
+  },
+  {
+    "i": 82,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOLD THE GAME IS GO FISH",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "surprised",
+    "action": "slump",
+    "explainedBy": "A comparison: mad at someone who lost a poker game they were told was go fish.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "PN is like a player told the game is go fish, then blamed for losing.",
+      "concreteVisual": "Pirenne looking dismayed.",
+      "onScreenText": "TOLD THE GAME IS GO FISH",
+      "relationToPrevious": "Offers an analogy for the reframing.",
+      "addedInformation": "The unfairness of blaming PN."
+    }
+  },
+  {
+    "i": 83,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SELDON BLINDED HIM",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon",
+      "pirenne"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "blank",
+    "explainedBy": "Seldon is the one who blinded PN, who stands there blank.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon deliberately blinded PN; Harden then maneuvers him.",
+      "concreteVisual": "Seldon in front, Pirenne blank beside him.",
+      "onScreenText": "SELDON BLINDED HIM",
+      "relationToPrevious": "Confirms the analogy: Seldon is the cause.",
+      "addedInformation": "Relation between blinder and blinded."
+    }
+  },
+  {
+    "i": 84,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "THE PRESSURE",
+        "A PRAGMATIC LEADER"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause to effect: the pressure of the situation forced a pragmatic leader to rise.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Even Harden was doing what the math demanded.",
+      "concreteVisual": "Flow from pressure to pragmatic leader.",
+      "onScreenText": "THE PRESSURE, A PRAGMATIC LEADER",
+      "relationToPrevious": "Moves from Harden controlling PN to Harden being controlled.",
+      "addedInformation": "The cause of Harden rising."
+    }
+  },
+  {
+    "i": 85,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "A PIECE ON SELDON'S BOARD",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Harden is a piece moved on a strategy board by Seldon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Harden was only a piece on Seldon board, unaware of the true boundaries.",
+      "concreteVisual": "Harden standing beside the strategy icon.",
+      "onScreenText": "A PIECE ON SELDON'S BOARD",
+      "relationToPrevious": "Completes the point from the beat before.",
+      "addedInformation": "Puts the strategist inside the game."
+    }
+  },
+  {
+    "i": 86,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SURVIVAL IS ONLY STEP ONE",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Harden secured survival through the standoff, but a bigger problem follows.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Surviving the threat is only step one.",
+      "concreteVisual": "Harden looking concerned.",
+      "onScreenText": "SURVIVAL IS ONLY STEP ONE",
+      "relationToPrevious": "Turns from the standoff to the next problem.",
+      "addedInformation": "Sets up the bigger problem."
+    }
+  },
+  {
+    "i": 87,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "ONE CITY ON A BARREN ROCK",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "One lone city (Terminus) is facing the problem of control.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A single city on a barren rock must keep control.",
+      "concreteVisual": "Harden beside the city icon.",
+      "onScreenText": "ONE CITY ON A BARREN ROCK",
+      "relationToPrevious": "Names the problem.",
+      "addedInformation": "The city as the weak side."
+    }
+  },
+  {
+    "i": 88,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "One city with no army",
+        "Billions of armed barbarians"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The comparison: one city with no army against billions of armed barbarians.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "How can one city control billions of armed barbarians without an army?",
+      "concreteVisual": "Flow from one city to billions of barbarians.",
+      "onScreenText": "One city with no army, billions of barbarians",
+      "relationToPrevious": "Gives the scale of the problem.",
+      "addedInformation": "The size gap between the two sides."
+    }
+  },
+  {
+    "i": 89,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A TOOL OR A TRAP?",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Two sides to weigh: is belief a tool or a trap?",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The next question is whether belief is a tool or a trap.",
+      "concreteVisual": "The scales icon.",
+      "onScreenText": "A TOOL OR A TRAP?",
+      "relationToPrevious": "Poses the question of the segment.",
+      "addedInformation": "Two options to weigh."
+    }
+  },
+  {
+    "i": 90,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "A HEAVILY ARMED FLAGSHIP",
+      "style": "highlight"
+    },
+    "cast": [],
+    "noVisual": "No spaceship icon exists in the vocabulary; the war icon and the callout carry the setup.",
+    "explainedBy": "Setting the scene: a heavily armed flagship floating in space.",
+    "storyboard": {
+      "claim": "Picture a massive, armed flagship in space.",
+      "concreteVisual": "The war icon alone.",
+      "onScreenText": "A HEAVILY ARMED FLAGSHIP",
+      "relationToPrevious": "Opens the thought experiment.",
+      "addedInformation": "Sets up the powerful weapon."
+    }
+  },
+  {
+    "i": 91,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "A SINGLE PRIEST ON THE BRIDGE",
+      "style": "highlight"
+    },
+    "cast": [],
+    "continue": true,
+    "noVisual": "No spaceship or priest drawing; the war icon is kept and the callout names the priest.",
+    "explainedBy": "The contrast: a behemoth of war and one unarmed priest on its bridge.",
+    "storyboard": {
+      "claim": "On the bridge stands a single man, a priest, with no weapon.",
+      "concreteVisual": "The kept war icon.",
+      "onScreenText": "A SINGLE PRIEST ON THE BRIDGE",
+      "relationToPrevious": "Adds the unarmed priest to the weapon.",
+      "addedInformation": "The imbalance: armed ship, unarmed man."
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "A PRIEST RAISES HIS ARMS",
+            "glyph": "person"
+          },
+          {
+            "label": "A SWITCH PULLED FAR AWAY",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE ENGINES DIE",
+            "glyph": "danger"
+          }
+        ],
+        "cues": {
+          "n0": "raises his arms",
+          "n2": "engines completely die"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A chain: the priest raises his arms and the ship engines die.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The priest raises his arms and the engines die.",
+      "concreteVisual": "Causal chain from the priest to the dead engines with a missing step.",
+      "onScreenText": "A PRIEST RAISES HIS ARMS",
+      "relationToPrevious": "Shows the cause and the effect.",
+      "addedInformation": "The cause-effect with the middle still unknown."
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "A PRIEST RAISES HIS ARMS",
+            "glyph": "person"
+          },
+          {
+            "label": "A SWITCH PULLED FAR AWAY",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE ENGINES DIE",
+            "glyph": "danger"
+          }
+        ],
+        "cues": {
+          "n1": "a switch pulled light years away"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The missing step: a switch pulled light years away makes the gesture work.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The gesture is coordinated with a switch pulled light years away.",
+      "concreteVisual": "The same chain, the middle step now drawn.",
+      "onScreenText": "A SWITCH PULLED FAR AWAY",
+      "relationToPrevious": "Fills the dashed middle step.",
+      "addedInformation": "Reveals the mechanism behind the gesture."
+    }
+  },
+  {
+    "i": 94,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "A PRIEST RAISES HIS ARMS",
+            "glyph": "person"
+          },
+          {
+            "label": "A SWITCH PULLED FAR AWAY",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE ENGINES DIE",
+            "glyph": "danger"
+          }
+        ],
+        "cues": {}
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain complete: the ultimate weapon becomes a cold floating tomb on the Anacreonian flagship.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The weapon becomes a cold tomb on the Anacreonian flagship at midnight.",
+      "concreteVisual": "The kept chain.",
+      "onScreenText": "none",
+      "relationToPrevious": "Keeps the chain while the narration names the ship.",
+      "addedInformation": "Names the flagship; no new element."
+    }
+  },
+  {
+    "i": 95,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "THE PRIDE OF THEIR NAVY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "noVisual": "No priest or cowering soldiers can be drawn from the vocabulary; war icon and callout carry it.",
+    "explainedBy": "The cursed ship was supposed to be the pride of their navy.",
+    "storyboard": {
+      "claim": "Apparat stands before terrified soldiers on a reclaimed cruiser, pride of the navy.",
+      "concreteVisual": "The war icon.",
+      "onScreenText": "THE PRIDE OF THEIR NAVY",
+      "relationToPrevious": "Moves to the priest and the crew.",
+      "addedInformation": "Names the ship status."
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "APPARAT CURSES THE SHIP",
+            "glyph": "speech"
+          },
+          {
+            "label": "A RELAY OPENED FAR AWAY",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE NUCLEAR HEART STOPS",
+            "glyph": "danger"
+          }
+        ],
+        "cues": {
+          "n0": "declares the ship cursed"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A chain: the priest declares the curse, Terminus opens a relay, the nuclear heart stops.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Apparat declares the ship cursed and Harden timed relay stops its heart.",
+      "concreteVisual": "Causal chain from curse to relay to the stopped heart.",
+      "onScreenText": "APPARAT CURSES THE SHIP",
+      "relationToPrevious": "Repeats the mechanism with the full steps named.",
+      "addedInformation": "Shows the timing between words and relay."
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SCIENCE",
+        "DISGUISED AS MAGIC"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The lesson: science intentionally disguised as magic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When science is disguised as magic...",
+      "concreteVisual": "Flow from science to disguised as magic.",
+      "onScreenText": "SCIENCE, DISGUISED AS MAGIC",
+      "relationToPrevious": "Generalizes the demonstration.",
+      "addedInformation": "The principle behind the trick."
+    }
+  },
+  {
+    "i": 98,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "WRAPPED IN MYSTICISM",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The mask: technology is wrapped in mysticism so belief becomes control.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Belief becomes the ultimate mechanism of control; the technology is wrapped in mysticism.",
+      "concreteVisual": "The mask icon.",
+      "onScreenText": "WRAPPED IN MYSTICISM",
+      "relationToPrevious": "Names the disguise.",
+      "addedInformation": "Mystic wrapping as a false face."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "BELIEF IN THEIR POWER",
+        "POWER OVER THE MASSES"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Cause to effect: belief in their power works as real power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Belief in their power works as physical power over the masses.",
+      "concreteVisual": "Flow from belief to power.",
+      "onScreenText": "BELIEF IN THEIR POWER, POWER OVER THE MASSES",
+      "relationToPrevious": "Spells out the mechanism.",
+      "addedInformation": "Belief turned into control."
+    }
+  },
+  {
+    "i": 100,
+    "concept": "gift",
+    "diagram": null,
+    "callout": {
+      "text": "SCIENCE, MEDICINE, AND POWER",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "gift",
+    "explainedBy": "Harden has offered the neighboring kingdoms gifts of science, medicine and power for 30 years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "For 30 years Harden has offered neighbors science, medicine and power.",
+      "concreteVisual": "Harden holding out a gift.",
+      "onScreenText": "SCIENCE, MEDICINE, AND POWER",
+      "relationToPrevious": "Opens the passage on how it was delivered.",
+      "addedInformation": "The offer."
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "PRIESTS, NOT ENGINEERS",
+        "PUSH THE RED RUNE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The delivery: priests operate the plants, knowing only that pushing the red rune works.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He sent priests who operate plants but understand them only empirically.",
+      "concreteVisual": "Flow from priests to push the red rune.",
+      "onScreenText": "PRIESTS, NOT ENGINEERS",
+      "relationToPrevious": "Shows how the gift was handed over.",
+      "addedInformation": "Priests, not engineers."
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "PRIESTS, NOT ENGINEERS",
+        "PUSH THE RED RUNE",
+        "THE HOLY LIGHT"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The result: the red rune turns on the holy light, yet they have no idea what an electron is.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They push the red rune and the holy light turns on, with no idea what an electron is.",
+      "concreteVisual": "The same flow gaining the holy light.",
+      "onScreenText": "THE HOLY LIGHT",
+      "relationToPrevious": "Adds the effect.",
+      "addedInformation": "The result without understanding."
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KING LEPOLD'S CORONATION",
+      "style": "highlight"
+    },
+    "cast": [],
+    "noVisual": "No crown or coronation drawing exists; the callout carries the scene.",
+    "explainedBy": "The example: the coronation of King Lepold on Anacreon shows ritual in action.",
+    "storyboard": {
+      "claim": "They understand it only through ritual; look at King Lepold's coronation.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "KING LEPOLD'S CORONATION",
+      "relationToPrevious": "Moves from the general to the example.",
+      "addedInformation": "Names the example."
+    }
+  },
+  {
+    "i": 104,
+    "concept": "star",
+    "diagram": null,
+    "callout": {
+      "text": "A RADIOACTIVE AURA",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The foundation gives the king a radioactive aura that shines like a coronet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The foundation provides a radioactive aura that shines like a coronet.",
+      "concreteVisual": "The star icon.",
+      "onScreenText": "A RADIOACTIVE AURA",
+      "relationToPrevious": "Adds the first trick.",
+      "addedInformation": "What the foundation supplies."
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FLOATING BY ANTI-GRAVITY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "noVisual": "No floating or burning drawing exists; text carries it.",
+    "explainedBy": "More tricks: the aura burns anyone who touches him and he floats by anti-gravity.",
+    "storyboard": {
+      "claim": "The aura burns those who touch him and he floats via anti-gravity.",
+      "concreteVisual": "Callout only.",
+      "onScreenText": "FLOATING BY ANTI-GRAVITY",
+      "relationToPrevious": "Adds two more tricks.",
+      "addedInformation": "Shows the staging of divine power."
+    }
+  },
+  {
+    "i": 106,
+    "concept": "star",
+    "diagram": null,
+    "callout": {
+      "text": "THEY BELIEVE HE IS A GOD",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The local priests genuinely believe in divine intervention.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The priests believe it is divine intervention and Lepold is practically a god.",
+      "concreteVisual": "The star icon.",
+      "onScreenText": "THEY BELIEVE HE IS A GOD",
+      "relationToPrevious": "Gives the audience side.",
+      "addedInformation": "What the priests believe."
+    }
+  },
+  {
+    "i": 107,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "JUST ADJUSTING DIALS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The contrast: technicians behind the scenes only adjust dials, even the holy food is radiation therapy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Technicians adjust dials on a generator; the holy food is radiation therapy masked.",
+      "concreteVisual": "The mask icon.",
+      "onScreenText": "JUST ADJUSTING DIALS",
+      "relationToPrevious": "Turns from what they believe to the truth.",
+      "addedInformation": "Reveals the disguise."
+    }
+  },
+  {
+    "i": 108,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "A BLOODLESS DEFENSE",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Harden used religion as a bloodless defense mechanism.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cynical but genius: religion as a bloodless defense.",
+      "concreteVisual": "Harden smirking beside the shield icon.",
+      "onScreenText": "A BLOODLESS DEFENSE",
+      "relationToPrevious": "Names the use of the trick.",
+      "addedInformation": "Calls it a defense."
+    }
+  },
+  {
+    "i": 109,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT A SINGLE SHOT",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Harden stops the attack with an interdict, not a shot.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Harden does not fire a shot; he puts Anacreon under an interdict.",
+      "concreteVisual": "Harden smirking.",
+      "onScreenText": "NOT A SINGLE SHOT",
+      "relationToPrevious": "Starts the conflict example.",
+      "addedInformation": "Names the method."
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "THE INTERDICT",
+            "glyph": "lock"
+          },
+          {
+            "label": "THE PRIESTS STRIKE",
+            "glyph": "person"
+          },
+          {
+            "label": "THE POWER FAILS",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE MOB AT THE PALACE",
+            "glyph": "people"
+          }
+        ],
+        "cues": {
+          "n0": "excommunication of an entire planet",
+          "n1": "goes on strike",
+          "n2": "power plants shut down"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A chain: excommunication, then the priests strike, then the power plants shut down.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An excommunication of a planet makes every priest strike and the power plants shut down.",
+      "concreteVisual": "Causal chain from interdict to power failure.",
+      "onScreenText": "THE INTERDICT",
+      "relationToPrevious": "Shows the interdict playing out.",
+      "addedInformation": "Cause to effect."
+    }
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "THE INTERDICT",
+            "glyph": "lock"
+          },
+          {
+            "label": "THE PRIESTS STRIKE",
+            "glyph": "person"
+          },
+          {
+            "label": "THE POWER FAILS",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE MOB AT THE PALACE",
+            "glyph": "people"
+          }
+        ],
+        "cues": {
+          "n3": "surround the royal palace"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain ends: hospitals, heating and lights fail and the mob surrounds the palace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hospitals, heating and lights fail and the mob surrounds the palace.",
+      "concreteVisual": "The same chain gaining the mob.",
+      "onScreenText": "THE MOB AT THE PALACE",
+      "relationToPrevious": "Adds the final result.",
+      "addedInformation": "The mob turns on the rulers."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "THE INTERDICT",
+            "glyph": "lock"
+          },
+          {
+            "label": "THE PRIESTS STRIKE",
+            "glyph": "person"
+          },
+          {
+            "label": "THE POWER FAILS",
+            "glyph": "bolt"
+          },
+          {
+            "label": "THE MOB AT THE PALACE",
+            "glyph": "people"
+          }
+        ],
+        "cues": {}
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain complete: a blackout and cultivated mythology defeated a navy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They fear sacrilege; Harden beat a fleet with a blackout and a mythology.",
+      "concreteVisual": "The kept chain.",
+      "onScreenText": "none",
+      "relationToPrevious": "Keeps the chain while the narration sums up.",
+      "addedInformation": "The summing up of the result."
+    }
+  },
+  {
+    "i": 113,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE LINE OF LEAST RESISTANCE",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Harden justifies it as the line of least resistance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Harden says religion is the line of least resistance.",
+      "concreteVisual": "Harden talking.",
+      "onScreenText": "THE LINE OF LEAST RESISTANCE",
+      "relationToPrevious": "Gives Harden justification after the praise.",
+      "addedInformation": "Harden words."
+    }
+  },
+  {
+    "i": 114,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "A SADDLE ON THE HUMAN MIND",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The objection: a saddle and bridle on the human mind, which is control over people.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He is placing a saddle and bridle on the human mind.",
+      "concreteVisual": "The chains icon.",
+      "onScreenText": "A SADDLE ON THE HUMAN MIND",
+      "relationToPrevious": "Turns to the objection.",
+      "addedInformation": "The cost of the trick."
+    }
+  },
+  {
+    "i": 115,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "ENFORCED IGNORANCE",
+      "style": "highlight"
+    },
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The same control, billions kept in enforced ignorance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Billions of people kept in enforced ignorance.",
+      "concreteVisual": "The kept chains icon.",
+      "onScreenText": "ENFORCED IGNORANCE",
+      "relationToPrevious": "Keeps the icon and names the cost.",
+      "addedInformation": "Scale of the control."
+    }
+  },
+  {
+    "i": 116,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TRAP THAT TURNS ON THE WRITER",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The warning: the trap can turn against its writer.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a trap that can turn against the writer.",
+      "concreteVisual": "Harden worried.",
+      "onScreenText": "A TRAP THAT TURNS ON THE WRITER",
+      "relationToPrevious": "Moves from cost to danger.",
+      "addedInformation": "Introduces the risk."
+    }
+  },
+  {
+    "i": 117,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "THE RELIGION BREAKS FREE",
+            "glyph": "fire"
+          },
+          {
+            "label": "A CHARISMATIC LEADER",
+            "glyph": "person"
+          },
+          {
+            "label": "TURNED ON TERMINUS",
+            "glyph": "danger"
+          },
+          {
+            "label": "THE FOUNDATION DEFENSELESS",
+            "glyph": "cross"
+          }
+        ],
+        "cues": {
+          "n0": "breaks out of the foundation's control",
+          "n1": "charismatic local leader",
+          "n2": "turns it against Terminus"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A chain: the religion escapes, a leader harnesses it, he turns it on Terminus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If the religion breaks out, a leader could turn fanaticism against Terminus.",
+      "concreteVisual": "Causal chain from religion to turned on Terminus.",
+      "onScreenText": "THE RELIGION BREAKS FREE",
+      "relationToPrevious": "Spells out the danger.",
+      "addedInformation": "Cause to effect."
+    }
+  },
+  {
+    "i": 118,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "THE RELIGION BREAKS FREE",
+            "glyph": "fire"
+          },
+          {
+            "label": "A CHARISMATIC LEADER",
+            "glyph": "person"
+          },
+          {
+            "label": "TURNED ON TERMINUS",
+            "glyph": "danger"
+          },
+          {
+            "label": "THE FOUNDATION DEFENSELESS",
+            "glyph": "cross"
+          }
+        ],
+        "cues": {
+          "n3": "utterly defenseless"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain ends: the foundation is defenseless; they are riding a tiger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Foundation is defenseless, riding a tiger.",
+      "concreteVisual": "The same chain gaining the end.",
+      "onScreenText": "THE FOUNDATION DEFENSELESS",
+      "relationToPrevious": "Adds the result.",
+      "addedInformation": "Final cost of the trap."
+    }
+  },
+  {
+    "i": 119,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "THE PRIESTS",
+        "THE KINGS",
+        "THE MOBS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Parts: priests, kings and mobs all shift the balance of power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Priests, kings and mobs shift the balance of power thinking they serve a divine spirit.",
+      "concreteVisual": "Sorter with three groups.",
+      "onScreenText": "THE PRIESTS, THE KINGS, THE MOBS",
+      "relationToPrevious": "Returns to the short-term effect.",
+      "addedInformation": "Lists the groups."
+    }
+  },
+  {
+    "i": 120,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "INSIDE A PLAN THEY DON'T KNOW",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "They are variables in Seldon math, moving inside a plan they cannot see.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are variables in Seldon math inside a plan.",
+      "concreteVisual": "Seldon with the strategy icon.",
+      "onScreenText": "INSIDE A PLAN THEY DON'T KNOW",
+      "relationToPrevious": "Sums the groups into the plan.",
+      "addedInformation": "Seldon behind it all."
+    }
+  },
+  {
+    "i": 121,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "TRUST THE TIMELINE",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Relying on the math means trusting the timeline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Relying on sociological forces means trusting the timeline.",
+      "concreteVisual": "The clock icon.",
+      "onScreenText": "TRUST THE TIMELINE",
+      "relationToPrevious": "Leads to the next segment.",
+      "addedInformation": "The demand of the plan."
+    }
+  }
+]

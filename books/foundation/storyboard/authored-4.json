@@ -1,0 +1,761 @@
+[
+  {
+    "i": 122,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A DEAD MATHEMATICIAN",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Seldon, the recorded old man in a wheelchair, stands for the dead mathematician whose timeline you must trust.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Trusting the plan means surrendering your own agency to a dead mathematician.",
+      "concreteVisual": "Seldon in his wheelchair, blank-faced and still, alone on screen.",
+      "onScreenText": "A DEAD MATHEMATICIAN",
+      "relationToPrevious": "New point after the trust-the-timeline line: shows who you surrender to.",
+      "addedInformation": "weak: names the figure being trusted; no action shows surrender."
+    }
+  },
+  {
+    "i": 123,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "WAIT FOR A MESSAGE",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "A worried man waits beside a clock: waiting for a message that cannot be opened early.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "What is it like to wait for a message you cannot open early?",
+      "concreteVisual": "Pirenne slumped and worried beside a large clock icon.",
+      "onScreenText": "WAIT FOR A MESSAGE",
+      "relationToPrevious": "Moves from the idea of trust to the felt experience of waiting.",
+      "addedInformation": "Adds the waiting posture and the clock; the vault door itself is not drawable."
+    }
+  },
+  {
+    "i": 124,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "HEAVY STEEL VAULT",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The vault is imagined; the kept clock and the waiting man hold the scene while the door is described.",
+    "noVisual": "No icon reads as a vault door (the door icon reads as a closed book).",
+    "storyboard": {
+      "claim": "Imagine a heavy steel vault door embedded in bedrock.",
+      "concreteVisual": "Same waiting man and clock; the callout names the steel vault.",
+      "onScreenText": "HEAVY STEEL VAULT",
+      "relationToPrevious": "Same stage; only the callout changes to name the vault.",
+      "addedInformation": "weak: the door cannot be drawn."
+    }
+  },
+  {
+    "i": 125,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "COUNTING DOWN 50 YEARS",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The timer counts down and nothing can speed it up or slow it down: the clock is the subject.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A digital timer counts down exactly 50 years and nothing can change its pace.",
+      "concreteVisual": "Clock icon kept, the man now afraid under it.",
+      "onScreenText": "COUNTING DOWN 50 YEARS",
+      "relationToPrevious": "Same stage; his face turns to fear as the timer is named.",
+      "addedInformation": "The clock carries the countdown; the face adds the pressure."
+    }
+  },
+  {
+    "i": 126,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "SWEATING, PANICKING",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne",
+      "harden"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "partnerExpression": "worried",
+    "continue": true,
+    "explainedBy": "The people outside the vault panic as the numbers shrink: two waiting men under the same clock.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The people standing outside the vault sweat and panic as the numbers shrink.",
+      "concreteVisual": "Pirenne afraid and Hardin worried standing under the clock icon.",
+      "onScreenText": "SWEATING, PANICKING",
+      "relationToPrevious": "Same stage; a second waiting person joins, both uneasy.",
+      "addedInformation": "Shows more than one person panicking under the timer."
+    }
+  },
+  {
+    "i": 127,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "WAR IS LOOMING",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "partnerExpression": "afraid",
+    "continue": true,
+    "explainedBy": "Outside, the situation deteriorates while they wait for the zero second: same people, same clock, war named.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Politics deteriorate and war looms while they wait for the door to open.",
+      "concreteVisual": "Hardin worried in front, Pirenne afraid behind, clock still counting.",
+      "onScreenText": "WAR IS LOOMING",
+      "relationToPrevious": "Same stage; the callout adds the looming war.",
+      "addedInformation": "weak: war itself cannot be drawn; the callout carries it."
+    }
+  },
+  {
+    "i": 128,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOTAL DENIAL",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne",
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "sit",
+    "partnerExpression": "worried",
+    "explainedBy": "The trustees sit calmly in denial of the Anacreon threat while the mayor watches uneasily.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The board sits around a table in total denial of the Anacreonian threat.",
+      "concreteVisual": "Pirenne seated with a smug smirk, Hardin beside him worried.",
+      "onScreenText": "TOTAL DENIAL",
+      "relationToPrevious": "Moves from the clock metaphor to the actual board room.",
+      "addedInformation": "Contrasts a complacent trustee with a worried Hardin."
+    }
+  },
+  {
+    "i": 129,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HARDIN STANDS AND YELLS",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "surprised",
+    "explainedBy": "Hardin stands and yells at the trustees; Pirenne recoils.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Salvor Hardin stands up, fists balled, and yells at them.",
+      "concreteVisual": "Hardin angry and pointing at Pirenne, who looks startled.",
+      "onScreenText": "HARDIN STANDS AND YELLS",
+      "relationToPrevious": "Same room; Hardin now acts on the trustee.",
+      "addedInformation": "Shows the confrontation between accuser and accused."
+    }
+  },
+  {
+    "i": 130,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A DISEASED ATTITUDE",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "blank",
+    "continue": true,
+    "explainedBy": "Hardin accuses the trustee of a diseased dependence on Seldon; the trustee does not react.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Relying on the vault is a diseased attitude and a conditioned reflex.",
+      "concreteVisual": "Hardin angry, pointing at the blank-faced Pirenne.",
+      "onScreenText": "A DISEASED ATTITUDE",
+      "relationToPrevious": "Same confrontation; the callout names the accusation, Pirenne goes blank.",
+      "addedInformation": "Pirenne blank shows the accusation is not heard."
+    }
+  },
+  {
+    "i": 131,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WORSHIP OF THE PAST",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "blank",
+    "continue": true,
+    "explainedBy": "Hardin says worship of the past and of authority is a stagnation that will destroy them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Worship of the past and reliance on authority is a stagnation that will destroy them.",
+      "concreteVisual": "Same confrontation: Hardin pointing, Pirenne blank.",
+      "onScreenText": "WORSHIP OF THE PAST",
+      "relationToPrevious": "Same stage; the callout names what Hardin condemns.",
+      "addedInformation": "weak: repeats the accusation with a new label."
+    }
+  },
+  {
+    "i": 132,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SELDON CRISIS",
+        "OPTIONS SQUEEZED"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The narration builds a cause: the crisis is designed to trap you and squeeze off your options.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The crisis itself is engineered to be the solution and trap you.",
+      "concreteVisual": "A flow diagram: SELDON CRISIS leading to OPTIONS SQUEEZED.",
+      "onScreenText": "SELDON CRISIS / OPTIONS SQUEEZED",
+      "relationToPrevious": "Switches from the room to the structure of the trap.",
+      "addedInformation": "Shows cause and effect: crisis squeezes options."
+    }
+  },
+  {
+    "i": 133,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SELDON CRISIS",
+        "OPTIONS SQUEEZED",
+        "ONE MOVE LEFT"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The same chain gains its result: only one logical move remains.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The crisis squeezes off all options until only one logical move is left.",
+      "concreteVisual": "The flow gains a third label, ONE MOVE LEFT.",
+      "onScreenText": "ONE MOVE LEFT",
+      "relationToPrevious": "Same diagram; one new label draws in.",
+      "addedInformation": "Completes the chain from crisis to a single forced move."
+    }
+  },
+  {
+    "i": 134,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO FREEDOM OF ACTION",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon",
+      "harden"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "explainedBy": "Seldon, as a recording, tells the trustees to their faces they had no freedom of action; Hardin hears it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon's recording tells them they were maneuvered until they had no freedom of action.",
+      "concreteVisual": "Seldon speaking, Hardin stunned beside him.",
+      "onScreenText": "NO FREEDOM OF ACTION",
+      "relationToPrevious": "New: the vault opens and Seldon speaks.",
+      "addedInformation": "Puts the speaker and his listener on screen."
+    }
+  },
+  {
+    "i": 135,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE MATH DICTATED IT",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The math forced them into a bottleneck.",
+    "noVisual": "No icon in the vocabulary shows a bottleneck.",
+    "storyboard": {
+      "claim": "The math dictated they would be forced into this exact bottleneck.",
+      "concreteVisual": "Text only: the callout on an empty frame.",
+      "onScreenText": "THE MATH DICTATED IT",
+      "relationToPrevious": "Continues the same point and promises a new detail.",
+      "addedInformation": "weak: text-carried."
+    }
+  },
+  {
+    "i": 136,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO PSYCHOLOGISTS",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon",
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "explainedBy": "Seldon ensured Terminus had no psychologists, to the listener's surprise.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon ensured there were no psychologists on Terminus except one man.",
+      "concreteVisual": "Seldon smirking as he explains, Hardin surprised.",
+      "onScreenText": "NO PSYCHOLOGISTS",
+      "relationToPrevious": "New detail of the setup.",
+      "addedInformation": "The surprised reaction marks the detail as unexpected."
+    }
+  },
+  {
+    "i": 137,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "ONLY BASIC CONCEPTS",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Alurin taught only rudimentary concepts and trained no successor: a thin book of knowledge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Alurin taught only basic concepts and never trained a successor.",
+      "concreteVisual": "Seldon talking beside a book icon.",
+      "onScreenText": "ONLY BASIC CONCEPTS",
+      "relationToPrevious": "Elaborates the one exception.",
+      "addedInformation": "The book icon stands for the thin teaching."
+    }
+  },
+  {
+    "i": 138,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "BLINDED TO THEIR BEHAVIOR",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The population was kept blind to the science of its own behavior: a blank-faced Hardin beside the book.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Seldon blinded Terminus to psychohistory so they would act differently than if they knew it.",
+      "concreteVisual": "Hardin blank and idle next to the book icon.",
+      "onScreenText": "BLINDED TO THEIR BEHAVIOR",
+      "relationToPrevious": "Same book; the person is blank to show ignorance.",
+      "addedInformation": "Shows an uninformed population via a blank face."
+    }
+  },
+  {
+    "i": 139,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "THEY KNOW THE MATH",
+        "TOO MANY VARIABLES"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "If they knew the math they would engineer solutions, adding conscious variables that break the equations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If they knew how the math worked they might engineer a solution, adding too many conscious variables.",
+      "concreteVisual": "A flow diagram: THEY KNOW THE MATH leading to TOO MANY VARIABLES.",
+      "onScreenText": "THEY KNOW THE MATH / TOO MANY VARIABLES",
+      "relationToPrevious": "Moves from the fact of blindness to its reason.",
+      "addedInformation": "Shows why the blindness was needed."
+    }
+  },
+  {
+    "i": 140,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "QUESTION EARLIER PRAISE",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The host doubts an earlier claim.",
+    "noVisual": "A turn of the conversation has no visible event.",
+    "storyboard": {
+      "claim": "This makes me question something we discussed earlier.",
+      "concreteVisual": "Hardin worried and bowed.",
+      "onScreenText": "QUESTION EARLIER PRAISE",
+      "relationToPrevious": "Turns from the math to a doubt.",
+      "addedInformation": "weak: a mood and a transition."
+    }
+  },
+  {
+    "i": 141,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PRAISED FOR SEEING THROUGH",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Hardin was praised for solving the crisis with the nuclear religion before the vault opened; the smirk marks his reputation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Earlier praise of Hardin as brilliant for using the nuclear religion.",
+      "concreteVisual": "Hardin smirking, proud.",
+      "onScreenText": "PRAISED FOR SEEING THROUGH",
+      "relationToPrevious": "Recalls the earlier praise.",
+      "addedInformation": "weak: reputation shown by a proud face."
+    }
+  },
+  {
+    "i": 142,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WAS HARDIN A GENIUS?",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "explainedBy": "The question of his genius is put to Hardin.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Was Hardin really a genius?",
+      "concreteVisual": "Hardin surprised mid-sentence.",
+      "onScreenText": "WAS HARDIN A GENIUS?",
+      "relationToPrevious": "Poses the question the previous beat set up.",
+      "addedInformation": "weak: face and callout carry the question."
+    }
+  },
+  {
+    "i": 143,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Only one action is possible",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "If the crisis allows one action only, Hardin was no genius: a blank, ordinary man.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If only one course of action is possible, Hardin was not a genius.",
+      "concreteVisual": "Hardin blank and ordinary.",
+      "onScreenText": "ONLY ONE POSSIBLE ACTION",
+      "relationToPrevious": "Same man; his face changes from proud to empty.",
+      "addedInformation": "The blank face removes the genius."
+    }
+  },
+  {
+    "i": 144,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLOSEST TO THE LEVER",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "He was just the man nearest to the lever when the room shook.",
+    "noVisual": "No icon shows a lever or a shaking room.",
+    "storyboard": {
+      "claim": "Hardin was just the guy standing closest to the lever when the walls shook.",
+      "concreteVisual": "Hardin afraid, standing alone.",
+      "onScreenText": "CLOSEST TO THE LEVER",
+      "relationToPrevious": "Same man; the face becomes afraid as the room shakes.",
+      "addedInformation": "weak: the lever is imagined."
+    }
+  },
+  {
+    "i": 145,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Someone else would have done it",
+      "style": "highlight"
+    },
+    "cast": [
+      "pirenne",
+      "harden"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "blank",
+    "explainedBy": "If Hardin were gone someone else would have done the same: a second man takes the same role.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If Hardin had been hit by a bus, someone else would have done the same thing.",
+      "concreteVisual": "Pirenne in front as the stand-in, Hardin blank behind him.",
+      "onScreenText": "SOMEONE ELSE WOULD HAVE",
+      "relationToPrevious": "Introduces a replacement for Hardin.",
+      "addedInformation": "Shows interchangeability with a second man."
+    }
+  },
+  {
+    "i": 146,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ULTIMATE REBEL",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "celebrate",
+    "explainedBy": "Hardin thought he was the ultimate rebel: a triumphant pose.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hardin thought he was the ultimate rebel.",
+      "concreteVisual": "Hardin triumphant with a smirk.",
+      "onScreenText": "THE ULTIMATE REBEL",
+      "relationToPrevious": "Responds to the sobering point with Hardin's self-image.",
+      "addedInformation": "His self-image is shown as triumph."
+    }
+  },
+  {
+    "i": 147,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REBELLED AGAINST ALL",
+      "style": "highlight"
+    },
+    "cast": [
+      "harden",
+      "pirenne"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "worried",
+    "explainedBy": "He rebelled against the encyclopedicists, the board and Seldon's silence: he points at the opposing side.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He rebelled against the encyclopedicists, the trustees and Seldon's silence.",
+      "concreteVisual": "Hardin angry pointing at a worried Pirenne.",
+      "onScreenText": "REBELLED AGAINST ALL",
+      "relationToPrevious": "Lists his rebellions.",
+      "addedInformation": "Shows rebellion as an act toward another person."
+    }
+  },
+  {
+    "i": 148,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A SCRIPT HE COULDN'T SEE",
+      "style": "highlight"
+    },
+    "cast": [
+      "seldon",
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "partnerExpression": "blank",
+    "explainedBy": "His rebellion was exactly what Seldon calculated: the recorded planner smirks while Hardin acts unaware.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His pragmatism was what Seldon calculated; he acted flawlessly inside a script he could not see.",
+      "concreteVisual": "Seldon smirking in front, Hardin blank behind him.",
+      "onScreenText": "A SCRIPT HE COULDN'T SEE",
+      "relationToPrevious": "Contrasts the planner and the player.",
+      "addedInformation": "Relation of planner and unaware actor."
+    }
+  },
+  {
+    "i": 149,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "RELIGION HAS A SHELF LIFE",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Time passing wears religion out: an hourglass.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "As decades pass the script must evolve because religion has a shelf life.",
+      "concreteVisual": "Hourglass icon with the callout.",
+      "onScreenText": "RELIGION HAS A SHELF LIFE",
+      "relationToPrevious": "Moves from Hardin to decades later.",
+      "addedInformation": "The hourglass shows time passing."
+    }
+  },
+  {
+    "i": 150,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO FOUNDATION PRIESTS",
+      "style": "highlight"
+    },
+    "cast": [
+      "envoy",
+      "harden"
+    ],
+    "expression": "angry",
+    "action": "stop",
+    "partnerExpression": "worried",
+    "explainedBy": "Neighbouring rulers refuse the priests: the envoy bars the way while the Foundation man is turned away.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kings say no priests are allowed on their planets and the Foundation's weapon is neutralized.",
+      "concreteVisual": "The envoy angry with a halting hand, Hardin worried.",
+      "onScreenText": "NO FOUNDATION PRIESTS",
+      "relationToPrevious": "Shows the refusal.",
+      "addedInformation": "One side refusing, the other turned away."
+    }
+  },
+  {
+    "i": 151,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "CHURCH",
+        "MARKETPLACE"
+      ],
+      "values": [
+        0.9
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A spectrum marker moves from church to marketplace as the strategy shifts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They pivot from the church to the marketplace, a fundamental shift in strategy.",
+      "concreteVisual": "A spectrum with poles CHURCH and MARKETPLACE and the marker toward the marketplace.",
+      "onScreenText": "CHURCH / MARKETPLACE",
+      "relationToPrevious": "New direction after the refusal.",
+      "addedInformation": "Shows the pivot as movement between two poles."
+    }
+  },
+  {
+    "i": 152,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WHO TRULY RULES?",
+      "style": "highlight"
+    },
+    "cast": [
+      "envoy",
+      "harden"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "A ruler faces the man who supplies his machines: two people, the question of who rules.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Who rules a region: the king or the one who supplies the machines it depends on?",
+      "concreteVisual": "The proud envoy and Hardin face to face.",
+      "onScreenText": "WHO TRULY RULES?",
+      "relationToPrevious": "Poses the question using the two men.",
+      "addedInformation": "Two figures stand for king and supplier."
+    }
+  },
+  {
+    "i": 153,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PILE OF CRUDE IRON BUCKLES",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A worthless heap of scrap iron on a stone floor.",
+    "noVisual": "No icon shows a pile of iron buckles.",
+    "storyboard": {
+      "claim": "Picture a pile of crude iron buckles on a stone floor, worthless scrap.",
+      "concreteVisual": "Text only on an empty frame.",
+      "onScreenText": "PILE OF CRUDE IRON BUCKLES",
+      "relationToPrevious": "Starts an example for the shift.",
+      "addedInformation": "weak: text-carried."
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "generatedAt": "2026-11-14T06:01:58.368Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": "science"
+    }
+  },
+  "world": {
+    "universeKey": "investigative_history",
+    "label": "Investigative Journalism & Modern History",
+    "recommendedEngine": "vox",
+    "engineConfidence": 0.95,
+    "engineRationale": "Authentic archival paper, declassified files, confidential stamps and geographical cartography are quintessential Vox.",
+    "palette": {
+      "primary": "#DC2626",
+      "secondary": "#44403C",
+      "accent": "#EAB308",
+      "paper": "#F4EFE6",
+      "ink": "#1C1917"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "office",
+      "street",
+      "highway"
+    ],
+    "activeCustomMotifs": {},
+    "gaps": []
+  },
+  "vox": {
+    "primaryDocType": "declassified",
+    "suggestedLocations": [],
+    "photoPromptStyle": "Investigative Journalism & Modern History, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

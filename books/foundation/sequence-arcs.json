@@ -1,0 +1,3492 @@
+{
+  "slug": "foundation",
+  "totalSequences": 97,
+  "totalScenes": 274,
+  "averageDurationSecs": 24.7,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "engine",
+      "fromFrame": 5,
+      "durationFrames": 1133,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 5,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "A galaxy spanning empire is dying. And a man has already calculated the exact century its fall will "
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 240,
+          "durationFrames": 341,
+          "role": "question",
+          "narration": "I mean, Azimov's foundation is not about heroes at all. It is about a crowd that never sees its own "
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 581,
+          "durationFrames": 333,
+          "role": "complication",
+          "narration": "And the drama is really what that does to the individuals who must act inside a plan they just canno"
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 914,
+          "durationFrames": 224,
+          "role": "reveal",
+          "narration": "of Foundation by Isaac Azimoff. And yes, that includes the Yeah. And by the end of this discussion, "
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 1138,
+      "durationFrames": 775,
+      "durationSeconds": 25.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1138,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "First, how massive crowds are steered by math without their knowledge. Second, the psychological tol"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1392,
+          "durationFrames": 190,
+          "role": "question",
+          "narration": "And third, why a perfectly calculated plan absolutely requires the illusion of free will to survive."
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1582,
+          "durationFrames": 172,
+          "role": "complication",
+          "narration": "So, let's just get right into the first question. Um, why does a forecast of crowds"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1754,
+          "durationFrames": 159,
+          "role": "reveal",
+          "narration": "beat individual cleverness? I want to start by asking you to build a picture with me."
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "authored",
+      "fromFrame": 1913,
+      "durationFrames": 444,
+      "durationSeconds": 14.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 1913,
+          "durationFrames": 216,
+          "role": "authored-start",
+          "narration": "Imagine we are standing in a massive dim room. Right. So, the air is stale. The lighting is terrible"
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2129,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "Maybe, you know, flickering a bit, yellowing at the edges. And right in the center of this cavernous"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "authored",
+      "fromFrame": 2357,
+      "durationFrames": 818,
+      "durationSeconds": 27.3,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2357,
+          "durationFrames": 170,
+          "role": "authored-start",
+          "narration": "And inside this cubicle, a recorded hologram of an old man in a wheelchair suddenly flickers to life"
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2527,
+          "durationFrames": 159,
+          "role": "authored-kept",
+          "narration": "He speaks. He even like smiles at us, but he is completely fixed in time."
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 2686,
+          "durationFrames": 208,
+          "role": "authored-kept",
+          "narration": "We are the audience sitting outside the glass, but we cannot interact with him. We can't ask him que"
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 2894,
+          "durationFrames": 281,
+          "role": "authored-kept",
+          "narration": "We cannot change his words in any way. The man in the glass is totally frozen. But the minds of the "
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 3175,
+      "durationFrames": 231,
+      "durationSeconds": 7.7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3175,
+          "durationFrames": 231,
+          "role": "reveal",
+          "narration": "Yes, because we are in the time vault on the planet Terminus and it is exactly 50 years after the fo"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "authored",
+      "fromFrame": 3406,
+      "durationFrames": 1620,
+      "durationSeconds": 54,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 3406,
+          "durationFrames": 374,
+          "role": "authored-start",
+          "narration": "The people watching this are the encyclopediists. They're, you know, the greatest minds of their gen"
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 3780,
+          "durationFrames": 396,
+          "role": "authored-kept",
+          "narration": "And he drops an absolute bombshell on them. He smiles and tells these shocked, brilliant scholars th"
+        },
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4176,
+          "durationFrames": 346,
+          "role": "authored-kept",
+          "narration": "complete fraud. It was nothing but a shiny object, basically a distraction just to get them out to t"
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4522,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "of your life, sacrificing your home, your comfort, moving to the literal edge of the universe to pre"
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 4798,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "ghost to say, \"Well, I actually don't care if you ever publish a single volume.\" It is a devastating"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 5026,
+      "durationFrames": 972,
+      "durationSeconds": 32.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5026,
+          "durationFrames": 364,
+          "role": "setup",
+          "narration": "And what this illustrates so perfectly is that your individual genius, your personal hard work, your"
+        },
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5390,
+          "durationFrames": 320,
+          "role": "question",
+          "narration": "your actions, even your 50 years of dedicated, painstaking research, they were already accounted for"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5710,
+          "durationFrames": 288,
+          "role": "reveal",
+          "narration": "It's a statistical science of huge populations. It doesn't care what one scholar does on a Tuesday, "
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "engine",
+      "fromFrame": 5998,
+      "durationFrames": 237,
+      "durationSeconds": 7.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 5998,
+          "durationFrames": 237,
+          "role": "reveal",
+          "narration": "of people will do over centuries. Okay, but wait, let me let me pause you right there. I have to adm"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "authored",
+      "fromFrame": 6235,
+      "durationFrames": 622,
+      "durationSeconds": 20.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6235,
+          "durationFrames": 367,
+          "role": "authored-start",
+          "narration": "If Harry Seldon is so smart and he knows exactly when the Galactic Empire is going to fall into barb"
+        },
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6602,
+          "durationFrames": 255,
+          "role": "authored-kept",
+          "narration": "Emperor of the Galaxy and say, \"Hey, here's the math. Here are the five things we need to fix to sav"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "engine",
+      "fromFrame": 6857,
+      "durationFrames": 216,
+      "durationSeconds": 7.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6857,
+          "durationFrames": 216,
+          "role": "reveal",
+          "narration": "to a metal pore rock the only option? Yeah. Why? It's a great question and it really comes down to i"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "authored",
+      "fromFrame": 7073,
+      "durationFrames": 619,
+      "durationSeconds": 20.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7073,
+          "durationFrames": 297,
+          "role": "authored-start",
+          "narration": "Think about the scale we are dealing with here. The Galactic Empire is ruled from Trantor and Tranto"
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7370,
+          "durationFrames": 322,
+          "role": "authored-kept",
+          "narration": "world. The whole planet is just city. Exactly. 40 billion people live on this one planet alone. And "
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "engine",
+      "fromFrame": 7692,
+      "durationFrames": 641,
+      "durationSeconds": 21.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7692,
+          "durationFrames": 274,
+          "role": "setup",
+          "narration": "You can't just steer a ship that massive by turning a tiny wheel. It's like trying to stop a freight"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7966,
+          "durationFrames": 367,
+          "role": "reveal",
+          "narration": "The inertia of a quadrillion human beings is what guarantees the outcome. You can't fix the empire b"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "authored",
+      "fromFrame": 8333,
+      "durationFrames": 583,
+      "durationSeconds": 19.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8333,
+          "durationFrames": 319,
+          "role": "authored-start",
+          "narration": "Seldon realized he couldn't stop the fall. The empire will collapse no matter what. Right? But he fo"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8652,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "scientists to the absolute edge of the galaxy could shave 29,000 years of misery off human history, "
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "engine",
+      "fromFrame": 8916,
+      "durationFrames": 302,
+      "durationSeconds": 10.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8916,
+          "durationFrames": 302,
+          "role": "reveal",
+          "narration": "Okay, that makes sense. But looking at how Seldon pulled this off back on Trantor before he died, I "
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "authored",
+      "fromFrame": 9218,
+      "durationFrames": 876,
+      "durationSeconds": 29.2,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 9218,
+          "durationFrames": 303,
+          "role": "authored-start",
+          "narration": "Yes. Look at his trial before the Commission of Public Safety. Seldon goes in there. He predicts the"
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9521,
+          "durationFrames": 242,
+          "role": "authored-kept",
+          "narration": "deliberately uses the commission's own hostile actions to force his own exile. Okay, I see where you"
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9763,
+          "durationFrames": 331,
+          "role": "authored-kept",
+          "narration": "He weaponized Chen's predictable political reactions. To me, that is the ultimate lone genius saving"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "engine",
+      "fromFrame": 10094,
+      "durationFrames": 216,
+      "durationSeconds": 7.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 10094,
+          "durationFrames": 216,
+          "role": "reveal",
+          "narration": "you on that whole hero framing. Seldon isn't a hero. He's just a catalyst. He didn't build the futur"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "authored",
+      "fromFrame": 10310,
+      "durationFrames": 528,
+      "durationSeconds": 17.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 10310,
+          "durationFrames": 298,
+          "role": "authored-start",
+          "narration": "He just read a sociological thermometer and set up a domino. But he risked his life. He knew he had "
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10608,
+          "durationFrames": 230,
+          "role": "authored-kept",
+          "narration": "He engineered his own arrest. He manipulated the real power behind the throne. But he only did that "
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "engine",
+      "fromFrame": 10838,
+      "durationFrames": 1184,
+      "durationSeconds": 39.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10838,
+          "durationFrames": 284,
+          "role": "setup",
+          "narration": "The Encyclopedia Galactica defined psycho history as dealing with the reactions of human conglomerat"
+        },
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 11122,
+          "durationFrames": 264,
+          "role": "question",
+          "narration": "Seldon didn't outsmart Lynch Chen with individual cleverness. He knew Chen was a politician and poli"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 11386,
+          "durationFrames": 367,
+          "role": "complication",
+          "narration": "Okay. Bar Seldon merily relied on the inescapable forces of human behavior. He didn't forge a path. "
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11753,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "You know, you can't predict the path of one single gas molecule bouncing around a room, but you can "
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "engine",
+      "fromFrame": 12022,
+      "durationFrames": 1027,
+      "durationSeconds": 34.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 12022,
+          "durationFrames": 304,
+          "role": "setup",
+          "narration": "That's a perfect analogy. Seldon just applied the kinetic theory of gases to human history. Precisel"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 12326,
+          "durationFrames": 183,
+          "role": "question",
+          "narration": "on Terminus. They thought they were the main characters. They thought they were saving knowledge."
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 12509,
+          "durationFrames": 341,
+          "role": "complication",
+          "narration": "that they were placed in a situation where after 50 years their retreat was cut off, the empire had "
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12850,
+          "durationFrames": 199,
+          "role": "reveal",
+          "narration": "They were just living inside a framework they were entirely blind to. So for you listening, here's w"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "engine",
+      "fromFrame": 13049,
+      "durationFrames": 715,
+      "durationSeconds": 23.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 13049,
+          "durationFrames": 345,
+          "role": "setup",
+          "narration": "Your individual brilliance doesn't matter to the math, which is terrifying. It really is. But okay, "
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 13394,
+          "durationFrames": 178,
+          "role": "question",
+          "narration": "day, how does a completely helpless planet actually survive its first real threat?"
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 13572,
+          "durationFrames": 192,
+          "role": "reveal",
+          "narration": "They are stranded on a rock with no military. So, how does technical skill become political power?"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "authored",
+      "fromFrame": 13764,
+      "durationFrames": 684,
+      "durationSeconds": 22.8,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13764,
+          "durationFrames": 216,
+          "role": "authored-start",
+          "narration": "Let's build another picture. Imagine two planets suspended in space right next to each other. Yeah, "
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13980,
+          "durationFrames": 233,
+          "role": "authored-kept",
+          "narration": "Let's make it a massive glowing sphere. It's rich, teeming with raw resources. you know, mountains o"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 14213,
+          "durationFrames": 235,
+          "role": "authored-kept",
+          "narration": "It's a heavy industrial giant, right? And right beside it is the second planet. It's a tiny barren r"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "authored",
+      "fromFrame": 14448,
+      "durationFrames": 1008,
+      "durationSeconds": 33.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 14448,
+          "durationFrames": 257,
+          "role": "authored-start",
+          "narration": "No coal, no oil, not even iron or copper in its crust. But deep inside this tiny rock is a bright, b"
+        },
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14705,
+          "durationFrames": 381,
+          "role": "authored-kept",
+          "narration": "pure nuclear light. And the massive resourcerich sphere approaches. It wants to swallow the small ro"
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 15086,
+          "durationFrames": 370,
+          "role": "authored-kept",
+          "narration": "It is physically forced to back away, repelled by the sheer intense output of that tiny nuclear ligh"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 15456,
+      "durationFrames": 1106,
+      "durationSeconds": 36.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 15456,
+          "durationFrames": 312,
+          "role": "setup",
+          "narration": "Let's uh let's drop into that scene. Harden is sitting across from the oblivious scholar Lewis PN. P"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 15768,
+          "durationFrames": 269,
+          "role": "partial_answer",
+          "narration": "Technically, yeah, right. And Harden is just the mayor of the local city. Harden flips a stainless s"
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 16037,
+          "durationFrames": 266,
+          "role": "question",
+          "narration": "And why is the coin made of stainless steel? Because Terminus is so completely devoid of metals that"
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 16303,
+          "durationFrames": 259,
+          "role": "reveal",
+          "narration": "Exactly. And while Harden is flipping this coin, acutely aware of their material reality, PN is just"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "engine",
+      "fromFrame": 16562,
+      "durationFrames": 1112,
+      "durationSeconds": 37.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 16562,
+          "durationFrames": 257,
+          "role": "setup",
+          "narration": "He's just trying to work. Yeah. PN is completely ignoring the fact that Terminus is cut off from met"
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16819,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "And Anacrion, which is a neighboring barbaric kingdom, is sending a royal envoy to extort them. Puri"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 17107,
+          "durationFrames": 315,
+          "role": "complication",
+          "narration": "Pure knowledge, totally isolated from reality. And what this shows us, what it means for you is that"
+        },
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 17422,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "is applied to a desperate physical reality that it transforms into political leverage. Right? Becaus"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "engine",
+      "fromFrame": 17674,
+      "durationFrames": 724,
+      "durationSeconds": 24.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 17674,
+          "durationFrames": 187,
+          "role": "setup",
+          "narration": "Harden knows the emperor is light years away and losing control. Terminus is entirely on its"
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17861,
+          "durationFrames": 259,
+          "role": "question",
+          "narration": "We see this clash of realities perfectly when the Anacronian envoy, How Rodri, finally arrives. He s"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 18120,
+          "durationFrames": 278,
+          "role": "reveal",
+          "narration": "He suggests Terminus give them land for noble estates. But then Harden does something brilliant. He "
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "authored",
+      "fromFrame": 18398,
+      "durationFrames": 392,
+      "durationSeconds": 13.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 18398,
+          "durationFrames": 197,
+          "role": "authored-start",
+          "narration": "supply them with plutonium for their nuclear power plant. And how Rodrik's jaw just hits the floor."
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 18595,
+          "durationFrames": 195,
+          "role": "authored-kept",
+          "narration": "He is stunned because he realizes in that moment that Terminus still possesses nuclear power,"
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "engine",
+      "fromFrame": 18790,
+      "durationFrames": 1147,
+      "durationSeconds": 38.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 18790,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "which is huge. It's everything. The surrounding periphery of the galaxy, including massive kingdoms "
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 19044,
+          "durationFrames": 322,
+          "role": "question",
+          "narration": "They have regressed to chemical power. They are burning oil and coal. So Harden realizes their only "
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 19366,
+          "durationFrames": 319,
+          "role": "complication",
+          "narration": "nuclear superiority to force the neighboring kingdoms into a stalemate. They essentially say, \"Hey, "
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 19685,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "So, you all have to protect us from each other out of mutual And it works. Harden plays a brilliant "
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 19937,
+      "durationFrames": 662,
+      "durationSeconds": 22.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19937,
+          "durationFrames": 317,
+          "role": "setup",
+          "narration": "He gets the four kingdoms to turn on each other. An Acrian tries to land a military force on Terminu"
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 20254,
+          "durationFrames": 345,
+          "role": "reveal",
+          "narration": "back The Anacronians are forced to retreat without Terminus firing a single shot. Exactly. It makes "
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "authored",
+      "fromFrame": 20599,
+      "durationFrames": 521,
+      "durationSeconds": 17.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 20599,
+          "durationFrames": 312,
+          "role": "authored-start",
+          "narration": "empire, totally blind to the reality of their situation. Okay. But I think calling PN a coward is mi"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 20911,
+          "durationFrames": 209,
+          "role": "authored-kept",
+          "narration": "exactly as he was designed to perform? What do you mean? I would argue PN was doing exactly what Har"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "engine",
+      "fromFrame": 21120,
+      "durationFrames": 1102,
+      "durationSeconds": 36.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 21120,
+          "durationFrames": 322,
+          "role": "setup",
+          "narration": "Conditioned him? You mean by giving him the encyclopedia project? Yes. PN wasn't weak. He was a scho"
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 21442,
+          "durationFrames": 273,
+          "role": "question",
+          "narration": "to be unaware of the plan. If PN had been a brilliant, pragmatic political strategist like Harden, h"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 21715,
+          "durationFrames": 329,
+          "role": "complication",
+          "narration": "He might have tried to form an alliance or build a Oh, and those actions would have introduced wild,"
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 22044,
+          "durationFrames": 178,
+          "role": "reveal",
+          "narration": "the encyclopedists focused on a harmless, pointless book so they wouldn't mess up the math."
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "engine",
+      "fromFrame": 22222,
+      "durationFrames": 1046,
+      "durationSeconds": 34.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 22222,
+          "durationFrames": 367,
+          "role": "setup",
+          "narration": "Wow. Okay. That completely reframes PN. It's like I don't know. It's like putting someone at a poker"
+        },
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 22589,
+          "durationFrames": 237,
+          "role": "question",
+          "narration": "like. Seldon deliberately blinded him. So Harden takes control. Y maneuvers PN. Y maneuvers Anacron."
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 22826,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "But even Harden was just doing exactly what the math demanded. The pressure of the situation forced "
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 23059,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "Harden, despite all his brilliance, was just a piece moving on Seldon's board, entirely unaware of t"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 23268,
+      "durationFrames": 1013,
+      "durationSeconds": 33.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 23268,
+          "durationFrames": 238,
+          "role": "setup",
+          "narration": "Precisely. But surviving the initial threat is only step one. Once Harden secures their physical sur"
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 23506,
+          "durationFrames": 199,
+          "role": "partial_answer",
+          "narration": "nuclear standoff, he faces a much bigger problem. How does a single city on a barren rock"
+        },
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23705,
+          "durationFrames": 242,
+          "role": "question",
+          "narration": "maintain control over billions of armed aggressive barbarians across multiple solar systems without "
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 23947,
+          "durationFrames": 334,
+          "role": "reveal",
+          "narration": "Right? Which leads us to a really dark, fascinating, and honestly chilling mechanism of control. So "
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "authored",
+      "fromFrame": 24281,
+      "durationFrames": 485,
+      "durationSeconds": 16.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 24281,
+          "durationFrames": 199,
+          "role": "authored-start",
+          "narration": "To understand this, let's picture a massive, heavily armed flagship floating in the vacuum of space."
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 24480,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "A true behemoth of war, bristling with weapons, engines humming with enough power to just glass a co"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "authored",
+      "fromFrame": 24766,
+      "durationFrames": 777,
+      "durationSeconds": 25.9,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24766,
+          "durationFrames": 242,
+          "role": "authored-start",
+          "narration": "He doesn't have a weapon. He just raises his arms. And the moment he does, the ship's engines comple"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 25008,
+          "durationFrames": 331,
+          "role": "authored-kept",
+          "narration": "The tactical screens go blind. One man's gesture coordinated with a switch pulled light years away f"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 25339,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "cold floating tomb. This is exactly what happens on the Anacrinian flagship, the Wenus. It is the st"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "engine",
+      "fromFrame": 25543,
+      "durationFrames": 1073,
+      "durationSeconds": 35.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 25543,
+          "durationFrames": 269,
+          "role": "setup",
+          "narration": "The priest Theo Apparat stands before these terrified cowering soldiers. This ship is a reclaimed Im"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25812,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "But Apparat raises his hands and declares the ship cursed in the name of the galactic And because Ha"
+        },
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 26064,
+          "durationFrames": 336,
+          "role": "complication",
+          "narration": "a relay is opened in a distant temple and the ship's nuclear heart just stops What this demonstrates"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 26400,
+          "durationFrames": 216,
+          "role": "reveal",
+          "narration": "Belief becomes the ultimate mechanism of control. The Foundation doesn't just share their nuclear te"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "engine",
+      "fromFrame": 26616,
+      "durationFrames": 362,
+      "durationSeconds": 12.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26616,
+          "durationFrames": 170,
+          "role": "setup",
+          "narration": "They make a belief in their own power work as actual physical power over the masses."
+        },
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 26786,
+          "durationFrames": 192,
+          "role": "reveal",
+          "narration": "For 30 years, Harden has been offering these neighboring kingdoms science, medicine, and power."
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "authored",
+      "fromFrame": 26978,
+      "durationFrames": 492,
+      "durationSeconds": 16.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 26978,
+          "durationFrames": 327,
+          "role": "authored-start",
+          "narration": "But he didn't send engineers. He sent priests. He created a hierarchy of religious figures who opera"
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 27305,
+          "durationFrames": 165,
+          "role": "authored-kept",
+          "narration": "the red rune, the holy light turns on. They have no idea what an electron is."
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "engine",
+      "fromFrame": 27470,
+      "durationFrames": 1186,
+      "durationSeconds": 39.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27470,
+          "durationFrames": 200,
+          "role": "setup",
+          "narration": "They understand it strictly through ritual. It is deeply cynical. Look at King Lepold's coronation o"
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27670,
+          "durationFrames": 146,
+          "role": "question",
+          "narration": "The foundation provides him with a radioactive aura that shines like a coronet."
+        },
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 27816,
+          "durationFrames": 336,
+          "role": "partial_answer",
+          "narration": "It visually burns anyone who touches him without the quote unquote divine blessing. They make him se"
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 28152,
+          "durationFrames": 161,
+          "role": "complication",
+          "narration": "genuinely believe this is divine intervention. They believe Lepold is practically a god."
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28313,
+          "durationFrames": 343,
+          "role": "reveal",
+          "narration": "But the foundation technicians in the background are just adjusting dials on a generator. They even "
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "engine",
+      "fromFrame": 28656,
+      "durationFrames": 619,
+      "durationSeconds": 20.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28656,
+          "durationFrames": 348,
+          "role": "setup",
+          "narration": "as a I mean, I have to say it is cynical, but it is undeniably genius. It really is. Harden used rel"
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 29004,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "with the prince regent Weenus. Wenus tries to attack the foundation with that massive fleet. Harden "
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "authored",
+      "fromFrame": 29275,
+      "durationFrames": 847,
+      "durationSeconds": 28.2,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29275,
+          "durationFrames": 214,
+          "role": "authored-start",
+          "narration": "An excommunication of an entire planet. Yes. Every priest on Anacranon goes on strike. The nuclear p"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29489,
+          "durationFrames": 266,
+          "role": "authored-kept",
+          "narration": "The hospitals stop working. The heating fails. The lights go out. And what happens? The mob, the ord"
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 29755,
+          "durationFrames": 367,
+          "role": "authored-kept",
+          "narration": "They are terrified because they believe their secular leaders have committed a grave sacrilege again"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "engine",
+      "fromFrame": 30122,
+      "durationFrames": 334,
+      "durationSeconds": 11.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 30122,
+          "durationFrames": 334,
+          "role": "reveal",
+          "narration": "It's brilliant. See, I strongly object to calling it brilliant without acknowledging how horrifying "
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "authored",
+      "fromFrame": 30456,
+      "durationFrames": 420,
+      "durationSeconds": 14,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30456,
+          "durationFrames": 242,
+          "role": "authored-start",
+          "narration": "resistance, a way to get superstitious barbarians to accept science. But he's placing a saddle and b"
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 30698,
+          "durationFrames": 178,
+          "role": "authored-kept",
+          "narration": "Well, yes, but you are intentionally keeping billions of human beings in enforced ignorance."
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "engine",
+      "fromFrame": 30876,
+      "durationFrames": 154,
+      "durationSeconds": 5.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 30876,
+          "durationFrames": 154,
+          "role": "reveal",
+          "narration": "That is a trap. And it's a trap that can easily turn against the writer. What do you mean?"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "authored",
+      "fromFrame": 31030,
+      "durationFrames": 525,
+      "durationSeconds": 17.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 31030,
+          "durationFrames": 268,
+          "role": "authored-start",
+          "narration": "If the religion ever breaks out of the foundation's control, if a charismatic local leader truly har"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31298,
+          "durationFrames": 257,
+          "role": "authored-kept",
+          "narration": "the Foundation is utterly defenseless. They have handed their enemies the psychological keys to thei"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "engine",
+      "fromFrame": 31555,
+      "durationFrames": 1097,
+      "durationSeconds": 36.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 31555,
+          "durationFrames": 384,
+          "role": "setup",
+          "narration": "That's a fair point. But in the short term, it works perfectly. The priests, the kings, the mobs rid"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 31939,
+          "durationFrames": 192,
+          "role": "question",
+          "narration": "galactic spirit, but they are just variables in Seldon's math, operating completely inside a plan th"
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 32131,
+          "durationFrames": 207,
+          "role": "complication",
+          "narration": "But relying on those vast sociological forces, relying on the math means you have to trust the timel"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32338,
+          "durationFrames": 314,
+          "role": "reveal",
+          "narration": "You have to surrender your own agency to a dead mathematician. Which leads us to the psychological t"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "authored",
+      "fromFrame": 32652,
+      "durationFrames": 1262,
+      "durationSeconds": 42.1,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 32652,
+          "durationFrames": 250,
+          "role": "authored-start",
+          "narration": "book. What is it actually like to wait for a message you cannot open early? I want you to imagine a "
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 32902,
+          "durationFrames": 163,
+          "role": "authored-kept",
+          "narration": "lockite, right? Heavy steel, deeply embedded in the bedrock."
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33065,
+          "durationFrames": 333,
+          "role": "authored-kept",
+          "narration": "And right above this door is a digital timer. It is counting down exactly 50 years down to the very "
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 33398,
+          "durationFrames": 152,
+          "role": "authored-kept",
+          "narration": "The people standing outside this vault are sweating. They are panicking as the numbers shrink."
+        },
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 33550,
+          "durationFrames": 364,
+          "role": "authored-kept",
+          "narration": "The political situation outside is deteriorating. War is looming and they are just waiting for a thr"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "engine",
+      "fromFrame": 33914,
+      "durationFrames": 296,
+      "durationSeconds": 9.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 33914,
+          "durationFrames": 296,
+          "role": "reveal",
+          "narration": "is the exact atmosphere during the first Seldon crisis. The board of trustees is sitting around a ta"
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "authored",
+      "fromFrame": 34210,
+      "durationFrames": 792,
+      "durationSeconds": 26.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 34210,
+          "durationFrames": 151,
+          "role": "authored-start",
+          "narration": "Salver Harden stands up, his fists bald, and he is just yelling at them."
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 34361,
+          "durationFrames": 314,
+          "role": "authored-kept",
+          "narration": "He tells them that relying on Harri Seldon's vault is a diseased attitude. It's a conditioned reflex"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 34675,
+          "durationFrames": 327,
+          "role": "authored-kept",
+          "narration": "rather than waiting for a ghost to save them. Harden tells them their worship of the past, their rel"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "authored",
+      "fromFrame": 35002,
+      "durationFrames": 566,
+      "durationSeconds": 18.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 35002,
+          "durationFrames": 379,
+          "role": "authored-start",
+          "narration": "listener here is that your agency is a complete illusion. A seldom crisis isn't just a difficult pol"
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35381,
+          "durationFrames": 187,
+          "role": "authored-kept",
+          "narration": "so tightly to squeeze off all your options until you only have one logical move left to make."
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "engine",
+      "fromFrame": 35568,
+      "durationFrames": 785,
+      "durationSeconds": 26.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 35568,
+          "durationFrames": 286,
+          "role": "setup",
+          "narration": "When Selda's recording finally plays in the time vault, he literally tells them to their faces that "
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 35854,
+          "durationFrames": 271,
+          "role": "question",
+          "narration": "The math dictated that they would be forced into this exact bottleneck. And here's a massive, easily"
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 36125,
+          "durationFrames": 228,
+          "role": "reveal",
+          "narration": "He specifically ensured there were no psychologists on Terminus. None. Wait, really? Except for one "
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "authored",
+      "fromFrame": 36353,
+      "durationFrames": 494,
+      "durationSeconds": 16.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36353,
+          "durationFrames": 165,
+          "role": "authored-start",
+          "narration": "And Alluran only taught the most basic rudimentary concepts. He never trained a successor."
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 36518,
+          "durationFrames": 329,
+          "role": "authored-kept",
+          "narration": "Seldon intentionally blinded the entire population of Terminus to the science of their own behavior."
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "engine",
+      "fromFrame": 36847,
+      "durationFrames": 811,
+      "durationSeconds": 27,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 36847,
+          "durationFrames": 331,
+          "role": "setup",
+          "narration": "to squeeze them into a corner so their actions would be genuinely random and sociologically predicta"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 37178,
+          "durationFrames": 176,
+          "role": "question",
+          "narration": "too many conscious variables for the equations to Which makes me question something we discussed ear"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 37354,
+          "durationFrames": 304,
+          "role": "reveal",
+          "narration": "You praised Harden for seeing through the trap. You said he was brilliant for solving the crisis by "
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "authored",
+      "fromFrame": 37658,
+      "durationFrames": 752,
+      "durationSeconds": 25.1,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 37658,
+          "durationFrames": 224,
+          "role": "authored-start",
+          "narration": "Was Harden really a genius? What do you mean? He saw the balance of power dynamic. He he saw the rel"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 37882,
+          "durationFrames": 208,
+          "role": "authored-kept",
+          "narration": "But if the Seldon crisis is mathematically designed so that only one course of action is possible, t"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 38090,
+          "durationFrames": 320,
+          "role": "authored-kept",
+          "narration": "He was just the guy standing closest to the lever when the walls of the room started shaking. the ma"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "engine",
+      "fromFrame": 38410,
+      "durationFrames": 1072,
+      "durationSeconds": 35.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 38410,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "disguises, religion, to survive. If Harden had been hit by a bus, someone else would have been force"
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 38664,
+          "durationFrames": 242,
+          "role": "question",
+          "narration": "That is a deeply sobering and it perfectly aligns with Azimov's thesis. Harden thought he was the ul"
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 38906,
+          "durationFrames": 207,
+          "role": "complication",
+          "narration": "He rebelled against the encyclopedicists. He rebelled against the board of trustees. He even rebelle"
+        },
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 39113,
+          "durationFrames": 369,
+          "role": "reveal",
+          "narration": "But his rebellion, his specific flavor of pragmatism was exactly what Seldon calculated would happen"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "engine",
+      "fromFrame": 39482,
+      "durationFrames": 1080,
+      "durationSeconds": 36,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 39482,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "pass, that script has to evolve. Because religion has a shelf life. Rulers wise up. The kings of nei"
+        },
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 39763,
+          "durationFrames": 336,
+          "role": "question",
+          "narration": "They see what happened to Asone and they say, \"Absolutely not. No Foundation priests are allowed on "
+        },
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 40099,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "Yes. And they have to pivot from the church to the marketplace. Which brings us to a fundamental shi"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 40332,
+          "durationFrames": 230,
+          "role": "reveal",
+          "narration": "Who truly rules a region? Is it the king on the throne or the person who supplies the machines the k"
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "engine",
+      "fromFrame": 40562,
+      "durationFrames": 252,
+      "durationSeconds": 8.4,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 40562,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "To see the shift, let's picture a pile of crude iron buckles thrown onto a stone floor. A completely"
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "authored",
+      "fromFrame": 40814,
+      "durationFrames": 454,
+      "durationSeconds": 15.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 40814,
+          "durationFrames": 171,
+          "role": "authored-start",
+          "narration": "Now, a man picks them up and places them carefully into a leadined quartz cylinder."
+        },
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 40985,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "He turns on a small machine attached to it. There's a hum, a flash, and the raw iron is transformed "
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "engine",
+      "fromFrame": 41268,
+      "durationFrames": 554,
+      "durationSeconds": 18.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 41268,
+          "durationFrames": 379,
+          "role": "setup",
+          "narration": "pure shining heavy gold. One thing, the metal itself is completely fundamentally changed, but the ma"
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 41647,
+          "durationFrames": 175,
+          "role": "reveal",
+          "narration": "We are looking at the traitor Limar Ponettz. He is sweating profusely."
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "authored",
+      "fromFrame": 41822,
+      "durationFrames": 783,
+      "durationSeconds": 26.1,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 41822,
+          "durationFrames": 250,
+          "role": "authored-start",
+          "narration": "He is operating a makeshift transmuter for the Grandmaster of Asone. Now, Asan is a world that stric"
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 42072,
+          "durationFrames": 331,
+          "role": "authored-kept",
+          "narration": "They will execute anyone who brings it into their territory. So, Poets centers the iron buckles on t"
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 42403,
+          "durationFrames": 202,
+          "role": "authored-kept",
+          "narration": "there being no failures on this first demonstration. And why is he doing this? Because, and this is "
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "engine",
+      "fromFrame": 42605,
+      "durationFrames": 979,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 42605,
+          "durationFrames": 185,
+          "role": "setup",
+          "narration": "economic dependence is a far stronger, far more insidious leash than religious awe."
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 42790,
+          "durationFrames": 336,
+          "role": "question",
+          "narration": "Once a society relies on your technology for its wealth, you own their future. Poets knows the Grand"
+        },
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 43126,
+          "durationFrames": 172,
+          "role": "complication",
+          "narration": "He doesn't preach the galactic spirit. He just appeals to pure unadulterated greed."
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 43298,
+          "durationFrames": 286,
+          "role": "reveal",
+          "narration": "He gives a corrupt politician a machine that prints money. And we see this purely economic strategy "
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "engine",
+      "fromFrame": 43584,
+      "durationFrames": 206,
+      "durationSeconds": 6.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 43584,
+          "durationFrames": 206,
+          "role": "reveal",
+          "narration": "on the Carellian Republic. Malow doesn't use religion at all. In fact, he actively distances himself"
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "authored",
+      "fromFrame": 43790,
+      "durationFrames": 504,
+      "durationSeconds": 16.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 43790,
+          "durationFrames": 216,
+          "role": "authored-start",
+          "narration": "The Commodore of Coral is paranoid about Foundation priests taking over his world. So, Malow says, \""
+        },
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 44006,
+          "durationFrames": 288,
+          "role": "authored-kept",
+          "narration": "I'm just a businessman.\" He pulls out a nuclear drill and punches clean, beautiful, perfectly round "
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "engine",
+      "fromFrame": 44294,
+      "durationFrames": 1054,
+      "durationSeconds": 35.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 44294,
+          "durationFrames": 298,
+          "role": "setup",
+          "narration": "He seduces this dictator with the sheer profitability of foundation gadgets. He gives them nuclearpo"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 44592,
+          "durationFrames": 214,
+          "role": "question",
+          "narration": "He gives them all the little conveniences that build a modern booming economy. And you framed the tr"
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 44806,
+          "durationFrames": 278,
+          "role": "complication",
+          "narration": "You said they were bringing prosperity and practical progress to a decaying galaxy. I think Mal is t"
+        },
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 45084,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "He replaces superstition with tangible wealth. He points out that arbitrary, ego-driven rulers will "
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "engine",
+      "fromFrame": 45348,
+      "durationFrames": 838,
+      "durationSeconds": 27.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 45348,
+          "durationFrames": 274,
+          "role": "setup",
+          "narration": "or religious zealatry. But it's the little things in life, a warm house, a working tool, a prosperou"
+        },
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 45622,
+          "durationFrames": 201,
+          "role": "question",
+          "narration": "I push back hard on that framing. I don't see them as pioneers. I see the traders as imperialists in"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 45823,
+          "durationFrames": 363,
+          "role": "reveal",
+          "narration": "Really? Imperialists? Yes. They are actively maliciously subverting local economies and creating cri"
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "source": "authored",
+      "fromFrame": 46186,
+      "durationFrames": 643,
+      "durationSeconds": 21.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 46186,
+          "durationFrames": 362,
+          "role": "authored-start",
+          "narration": "They are trading fairly. They are offering goods that people want. But look at the long game. Malow "
+        },
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 46548,
+          "durationFrames": 281,
+          "role": "authored-kept",
+          "narration": "world will vanish. He is waging economic warfare. It is just as ruthless as Harden shutting off the "
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "source": "engine",
+      "fromFrame": 46829,
+      "durationFrames": 989,
+      "durationSeconds": 33,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 46829,
+          "durationFrames": 163,
+          "role": "setup",
+          "narration": "because it hides behind the smiling handshaking veneer of mutually beneficial commerce."
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 46992,
+          "durationFrames": 197,
+          "role": "question",
+          "narration": "Okay, I see that. Mow is hooking an entire planet on a technological drug they cannot But it works."
+        },
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 47189,
+          "durationFrames": 307,
+          "role": "complication",
+          "narration": "And it works without bloodshed. The Republic of Carell eventually declares war on the Foundation, bu"
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 47496,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Because their entire economy collapses. Yes. Their nuclear razors stop working, their factory machin"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "source": "authored",
+      "fromFrame": 47818,
+      "durationFrames": 595,
+      "durationSeconds": 19.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 47818,
+          "durationFrames": 240,
+          "role": "authored-start",
+          "narration": "their standard of living back. The traitors, driven by pure personal greed, entirely unaware of psyc"
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 48058,
+          "durationFrames": 355,
+          "role": "authored-kept",
+          "narration": "flawlessly. They are acting inside a mathematical model based on the predictable greed and fear of m"
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "source": "engine",
+      "fromFrame": 48413,
+      "durationFrames": 319,
+      "durationSeconds": 10.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 48413,
+          "durationFrames": 319,
+          "role": "reveal",
+          "narration": "variable Oh, this is where the entire Seldon plan hits a brick wall. The question here is, does a pl"
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "source": "authored",
+      "fromFrame": 48732,
+      "durationFrames": 607,
+      "durationSeconds": 20.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 48732,
+          "durationFrames": 305,
+          "role": "authored-start",
+          "narration": "Let's picture a vast, breathtakingly complex tapestry. It represents billions of stars, trillions of"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 49037,
+          "durationFrames": 302,
+          "role": "authored-kept",
+          "narration": "beautiful lines. It's a masterpiece of order. But then suddenly a single unseen thread right in the "
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "source": "engine",
+      "fromFrame": 49339,
+      "durationFrames": 1279,
+      "durationSeconds": 42.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 49339,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "and the entire tapestry warps. It distorts. The straight lines wrinkle and collapse in on themselves"
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 49603,
+          "durationFrames": 243,
+          "role": "question",
+          "narration": "One single anomaly ruins the shape of the entire We are stepping back now to look at Seldon's math i"
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 49846,
+          "durationFrames": 148,
+          "role": "partial_answer",
+          "narration": "The psychoistorical equations have flowed perfectly across the galaxy for centuries."
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 49994,
+          "durationFrames": 298,
+          "role": "complication",
+          "narration": "Crisis after crisis, the Foundation survived exactly as predicted. But then a mutant known as the mu"
+        },
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 50292,
+          "durationFrames": 326,
+          "role": "reveal",
+          "narration": "The mule is not a normal human. He has the biological ability to bend minds and emotions. He can rea"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "source": "engine",
+      "fromFrame": 50618,
+      "durationFrames": 1078,
+      "durationSeconds": 35.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 50618,
+          "durationFrames": 358,
+          "role": "setup",
+          "narration": "turning them into his most loyal, devoted servants with a single thought. And when he does this, the"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 50976,
+          "durationFrames": 391,
+          "role": "question",
+          "narration": "event, a one in a trillion uniquely powerful individual, can break the most robust mathematical mode"
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 51367,
+          "durationFrames": 329,
+          "role": "reveal",
+          "narration": "only forecast events, not individuals. Seldon's math relies on a fundamental assumption that human b"
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "source": "engine",
+      "fromFrame": 51696,
+      "durationFrames": 758,
+      "durationSeconds": 25.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 51696,
+          "durationFrames": 367,
+          "role": "setup",
+          "narration": "moblike way. It assumes human nature is a constant. But the mule breaks the statistical plan because"
+        },
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 52063,
+          "durationFrames": 238,
+          "role": "question",
+          "narration": "reaction by forcing absolute loyalty. Right? The populations he conquers aren't reacting naturally t"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 52301,
+          "durationFrames": 153,
+          "role": "reveal",
+          "narration": "They're artificially adjusted. This is such a brilliant narrative pivot by Azimoff."
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "source": "authored",
+      "fromFrame": 52454,
+      "durationFrames": 569,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 52454,
+          "durationFrames": 380,
+          "role": "authored-start",
+          "narration": "The mule proved that math cannot account for biology, for mutation or for the inherent chaos of the "
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 52834,
+          "durationFrames": 189,
+          "role": "authored-kept",
+          "narration": "static baseline for a thousand years. The mule exposes the incredible arrogance of that assumption."
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "source": "engine",
+      "fromFrame": 53023,
+      "durationFrames": 1035,
+      "durationSeconds": 34.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 53023,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "Some readers see this as a fatal flaw in psycho history. It suggests the whole science is invalid be"
+        },
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 53237,
+          "durationFrames": 233,
+          "role": "question",
+          "narration": "See, I completely disagree with that tech. I don't think it's a flaw in the science. I think it's th"
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 53470,
+          "durationFrames": 290,
+          "role": "complication",
+          "narration": "Can the sheer systemic momentum of a galactic civilization crush even a Superman, but he causes mass"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 53760,
+          "durationFrames": 298,
+          "role": "reveal",
+          "narration": "He actually conquers the first foundation. But it forces us to see if the broad sweeps of sociology "
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "source": "engine",
+      "fromFrame": 54058,
+      "durationFrames": 813,
+      "durationSeconds": 27.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 54058,
+          "durationFrames": 172,
+          "role": "setup",
+          "narration": "But the first foundation does fall to the mule. Terminus is conquered. The Seldon plan visibly fails"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 54230,
+          "durationFrames": 315,
+          "role": "question",
+          "narration": "The masses follow the mule. Their emotions overridden, acting inside a new paradigm they cannot figh"
+        },
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 54545,
+          "durationFrames": 326,
+          "role": "reveal",
+          "narration": "must have known the model needed a backup system. He couldn't have been so arrogant as to think his "
+        }
+      ]
+    },
+    {
+      "id": "seq-76",
+      "source": "authored",
+      "fromFrame": 54871,
+      "durationFrames": 1236,
+      "durationSeconds": 41.2,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 54871,
+          "durationFrames": 204,
+          "role": "authored-start",
+          "narration": "the entire saga. Why does the plan need a secret Imagine a massive playground seesaw."
+        },
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 55075,
+          "durationFrames": 348,
+          "role": "authored-kept",
+          "narration": "On one side, sitting heavily on the ground is a giant, highly visible weight. This represents Termin"
+        },
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 55423,
+          "durationFrames": 327,
+          "role": "authored-kept",
+          "narration": "But on the other side of the seessaw is an empty seat. There is nothing there. Yet, against all laws"
+        },
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 55750,
+          "durationFrames": 357,
+          "role": "authored-kept",
+          "narration": "Because that empty seat holds an invisible hidden weight, a counterweight that keeps the entire mass"
+        }
+      ]
+    },
+    {
+      "id": "seq-77",
+      "source": "authored",
+      "fromFrame": 56107,
+      "durationFrames": 682,
+      "durationSeconds": 22.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 56107,
+          "durationFrames": 216,
+          "role": "authored-start",
+          "narration": "His face is solemn. The crisis hasn't gone exactly as expected. And he drops a casual but earthshatt"
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 56323,
+          "durationFrames": 178,
+          "role": "authored-kept",
+          "narration": "He says, \"And never forget there was another foundation established 80 years ago."
+        },
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 56501,
+          "durationFrames": 288,
+          "role": "authored-kept",
+          "narration": "A foundation at the other end of the galaxy at stars end.\" Even the ultimate arrogant mathematical p"
+        }
+      ]
+    },
+    {
+      "id": "seq-78",
+      "source": "engine",
+      "fromFrame": 56789,
+      "durationFrames": 1068,
+      "durationSeconds": 35.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 56789,
+          "durationFrames": 336,
+          "role": "setup",
+          "narration": "When you build a system designed to last a thousand years, navigating the collapse of a galactic emp"
+        },
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 57125,
+          "durationFrames": 309,
+          "role": "question",
+          "narration": "wildly off track. Terminus is the loud visible technological foundation, but there is a second one h"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 57434,
+          "durationFrames": 238,
+          "role": "complication",
+          "narration": "Azimoff himself admitted in his introductions that the mystery of the second foundation was the driv"
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 57672,
+          "durationFrames": 185,
+          "role": "reveal",
+          "narration": "The second foundation isn't about physical sciences. They don't build nuclear reactors or trade stee"
+        }
+      ]
+    },
+    {
+      "id": "seq-79",
+      "source": "engine",
+      "fromFrame": 57857,
+      "durationFrames": 451,
+      "durationSeconds": 15,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 57857,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "They are about mental sciences. They are the true psychologists, the actual guardians of the Seldon "
+        },
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 58121,
+          "durationFrames": 187,
+          "role": "reveal",
+          "narration": "adjust the variables, to nudge minds and events back on track when things like the meal happen."
+        }
+      ]
+    },
+    {
+      "id": "seq-80",
+      "source": "authored",
+      "fromFrame": 58308,
+      "durationFrames": 492,
+      "durationSeconds": 16.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 58308,
+          "durationFrames": 300,
+          "role": "authored-start",
+          "narration": "I absolutely love this twist. It is a brilliant fail safe. It shows that Seldon wasn't totally blind"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 58608,
+          "durationFrames": 192,
+          "role": "authored-kept",
+          "narration": "He knew mutations or black swans could happen. So, he created a self-correcting mechanism."
+        }
+      ]
+    },
+    {
+      "id": "seq-81",
+      "source": "engine",
+      "fromFrame": 58800,
+      "durationFrames": 341,
+      "durationSeconds": 11.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 58800,
+          "durationFrames": 158,
+          "role": "setup",
+          "narration": "He put his hands on the steering wheel from beyond the grave. I actually hate it."
+        },
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 58958,
+          "durationFrames": 183,
+          "role": "reveal",
+          "narration": "Really? Why? Because of what it implies for the characters we've spent the whole book following."
+        }
+      ]
+    },
+    {
+      "id": "seq-82",
+      "source": "authored",
+      "fromFrame": 59141,
+      "durationFrames": 768,
+      "durationSeconds": 25.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 59141,
+          "durationFrames": 259,
+          "role": "authored-start",
+          "narration": "If there is a secret group of mentalists fixing the math, manipulating events from the shadows, then"
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 59400,
+          "durationFrames": 211,
+          "role": "authored-kept",
+          "narration": "all these supposedly brilliant leaders aren't the main characters of their own story. They are just "
+        },
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 59611,
+          "durationFrames": 298,
+          "role": "authored-kept",
+          "narration": "Bait? Yes, they are a highly visible, noisy decoy meant to draw the fire of the dying empire and ano"
+        }
+      ]
+    },
+    {
+      "id": "seq-83",
+      "source": "engine",
+      "fromFrame": 59909,
+      "durationFrames": 585,
+      "durationSeconds": 19.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 59909,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "While the real rulers operate unseen and untested, it completely undercuts the triumphs of the first"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 60130,
+          "durationFrames": 168,
+          "role": "question",
+          "narration": "Harden's brilliant political maneuvering doesn't matter. The second foundation would have fixed it a"
+        },
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 60298,
+          "durationFrames": 196,
+          "role": "reveal",
+          "narration": "Malow's economic warfare just a Wow, that is a dark way to look at it."
+        }
+      ]
+    },
+    {
+      "id": "seq-84",
+      "source": "authored",
+      "fromFrame": 60494,
+      "durationFrames": 552,
+      "durationSeconds": 18.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 60494,
+          "durationFrames": 236,
+          "role": "authored-start",
+          "narration": "I think so. But I mean they didn't know I mean the entire First Foundation has been walking a tightr"
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 60730,
+          "durationFrames": 316,
+          "role": "authored-kept",
+          "narration": "Or so they thought. And they were completely unaware of the mentalists below them. You know, acting "
+        }
+      ]
+    },
+    {
+      "id": "seq-85",
+      "source": "engine",
+      "fromFrame": 61046,
+      "durationFrames": 1294,
+      "durationSeconds": 43.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 61046,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "is busy building its invisible empires of religion and trade and worrying about the mule, we need to"
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 61298,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "What is happening to the actual galactic empire they left behind? How does an old order decay"
+        },
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 61483,
+          "durationFrames": 267,
+          "role": "partial_answer",
+          "narration": "while the Foundation keeps counting its profits? To visualize this, let's picture two generators sit"
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 61750,
+          "durationFrames": 218,
+          "role": "complication",
+          "narration": "One of them is a towering ancient powerhouse. It is six stories high, covered in archaic dials,"
+        },
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 61968,
+          "durationFrames": 372,
+          "role": "reveal",
+          "narration": "humming automatically with a deep bone rattling vibration. And right beside it, resting on a table, "
+        }
+      ]
+    },
+    {
+      "id": "seq-86",
+      "source": "engine",
+      "fromFrame": 62340,
+      "durationFrames": 790,
+      "durationSeconds": 26.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 62340,
+          "durationFrames": 163,
+          "role": "setup",
+          "narration": "a complete mystery to the people who wipe the dust off it every day. They just know to keep it clean"
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 62503,
+          "durationFrames": 257,
+          "role": "question",
+          "narration": "But the tiny walnutsiz generator is precise. It's brand new. And the person who built it understands"
+        },
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 62760,
+          "durationFrames": 144,
+          "role": "complication",
+          "narration": "The giant machine is dying. The tiny one is intensely alive."
+        },
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 62904,
+          "durationFrames": 226,
+          "role": "reveal",
+          "narration": "We see this exact contrast when Hobber Malow travels to the planet Sennena which is deep in the terr"
+        }
+      ]
+    },
+    {
+      "id": "seq-87",
+      "source": "authored",
+      "fromFrame": 63130,
+      "durationFrames": 758,
+      "durationSeconds": 25.3,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 63130,
+          "durationFrames": 148,
+          "role": "authored-start",
+          "narration": "He stands in the poor broken down home of an old patrician named Onum Bar."
+        },
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 63278,
+          "durationFrames": 363,
+          "role": "authored-kept",
+          "narration": "Bar was once a great scholar, a man of standing in the empire. During their conversation, Malow wear"
+        },
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 63641,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "And Onvar is absolutely stunned. He is a man of the Empire, but he realizes Malow has a personal for"
+        }
+      ]
+    },
+    {
+      "id": "seq-88",
+      "source": "engine",
+      "fromFrame": 63888,
+      "durationFrames": 1135,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 63888,
+          "durationFrames": 190,
+          "role": "setup",
+          "narration": "Something the great Galactic Empire never invented. Not even at its absolute undisputed height of po"
+        },
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 64078,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "True societal decay isn't always about massive explosions, invading barbarian hordes, and dramatic f"
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 64366,
+          "durationFrames": 280,
+          "role": "complication",
+          "narration": "pathetic tragedy of simply forgetting how your own world works, while someone you ignored builds a n"
+        },
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 64646,
+          "durationFrames": 377,
+          "role": "reveal",
+          "narration": "They still have sprawling planetwide cities, but they are hollow. They are maintaining technology th"
+        }
+      ]
+    },
+    {
+      "id": "seq-89",
+      "source": "authored",
+      "fromFrame": 65023,
+      "durationFrames": 833,
+      "durationSeconds": 27.8,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 65023,
+          "durationFrames": 346,
+          "role": "authored-start",
+          "narration": "studied at the great University of Trantor. When Malow shows this expert, the walnutsized generator,"
+        },
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 65369,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "refuses to believe it's real because he can't understand it. The Empire's so-called experts only kno"
+        },
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 65587,
+          "durationFrames": 269,
+          "role": "authored-kept",
+          "narration": "They have entirely lost the capacity to innovate. They are a hereditary cast of caretakers who would"
+        }
+      ]
+    },
+    {
+      "id": "seq-90",
+      "source": "authored",
+      "fromFrame": 65856,
+      "durationFrames": 756,
+      "durationSeconds": 25.2,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 65856,
+          "durationFrames": 281,
+          "role": "authored-start",
+          "narration": "I wonder though if we are being a bit too harsh on the empire here. Let's look at the timeline. They"
+        },
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 66137,
+          "durationFrames": 321,
+          "role": "authored-kept",
+          "narration": "That is an unimaginable span of stability. Think about human history on Earth. We can barely keep a "
+        },
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 66458,
+          "durationFrames": 154,
+          "role": "authored-kept",
+          "narration": "naturally has to prioritize maintenance over innovation just to prevent collapse."
+        }
+      ]
+    },
+    {
+      "id": "seq-91",
+      "source": "authored",
+      "fromFrame": 66612,
+      "durationFrames": 427,
+      "durationSeconds": 14.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 66612,
+          "durationFrames": 206,
+          "role": "authored-start",
+          "narration": "Innovation is inherently disruptive. No way. I have no sympathy for the empire. It is a rotting tree"
+        },
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 66818,
+          "durationFrames": 221,
+          "role": "authored-kept",
+          "narration": "Seldon says it himself during his trial at the very beginning of the book. It looks strong. It has t"
+        }
+      ]
+    },
+    {
+      "id": "seq-92",
+      "source": "engine",
+      "fromFrame": 67039,
+      "durationFrames": 967,
+      "durationSeconds": 32.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 67039,
+          "durationFrames": 288,
+          "role": "setup",
+          "narration": "It looks sturdy only until the storm hits. And the Foundation isn't even fighting him. The Foundatio"
+        },
+        {
+          "index": 256,
+          "sceneId": "scene-256",
+          "fromFrame": 67327,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "It's the difference between scarcity and abundance. The Empire restricts nuclear power because they "
+        },
+        {
+          "index": 257,
+          "sceneId": "scene-257",
+          "fromFrame": 67615,
+          "durationFrames": 187,
+          "role": "complication",
+          "narration": "nuclear tech into walnut-sized generators because they are stranded on a rock starved for metal."
+        },
+        {
+          "index": 258,
+          "sceneId": "scene-258",
+          "fromFrame": 67802,
+          "durationFrames": 204,
+          "role": "reveal",
+          "narration": "Scarcity drove their innovation while the empire's immense abundance bred fatal stagnation."
+        }
+      ]
+    },
+    {
+      "id": "seq-93",
+      "source": "engine",
+      "fromFrame": 68006,
+      "durationFrames": 963,
+      "durationSeconds": 32.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 259,
+          "sceneId": "scene-259",
+          "fromFrame": 68006,
+          "durationFrames": 190,
+          "role": "setup",
+          "narration": "So, the Empire just clings to its massive decaying ships and its forgotten science slowly dying,"
+        },
+        {
+          "index": 260,
+          "sceneId": "scene-260",
+          "fromFrame": 68196,
+          "durationFrames": 269,
+          "role": "question",
+          "narration": "acting inside a historical inevitability they refuse to Okay, before we bring all these threads toge"
+        },
+        {
+          "index": 261,
+          "sceneId": "scene-261",
+          "fromFrame": 68465,
+          "durationFrames": 247,
+          "role": "complication",
+          "narration": "honest structural criticism at this universe as built. Yeah, we have to talk about the human element"
+        },
+        {
+          "index": 262,
+          "sceneId": "scene-262",
+          "fromFrame": 68712,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "treats human beings entirely as numbers. And as a result, the narrative of foundation is overwhelmin"
+        }
+      ]
+    },
+    {
+      "id": "seq-94",
+      "source": "authored",
+      "fromFrame": 68969,
+      "durationFrames": 727,
+      "durationSeconds": 24.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 263,
+          "sceneId": "scene-263",
+          "fromFrame": 68969,
+          "durationFrames": 365,
+          "role": "authored-start",
+          "narration": "politicians, traders, mayors, women, and ordinary individuals barely get a voice or any agency in th"
+        },
+        {
+          "index": 264,
+          "sceneId": "scene-264",
+          "fromFrame": 69334,
+          "durationFrames": 362,
+          "role": "authored-kept",
+          "narration": "men of history. Furthermore, the sheer staggering scale of psycho history can make the narrative fee"
+        }
+      ]
+    },
+    {
+      "id": "seq-95",
+      "source": "engine",
+      "fromFrame": 69696,
+      "durationFrames": 1037,
+      "durationSeconds": 34.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 265,
+          "sceneId": "scene-265",
+          "fromFrame": 69696,
+          "durationFrames": 334,
+          "role": "setup",
+          "narration": "the revelation of the second foundation can feel too convenient. Like a DSX mocha. Exactly. It's as "
+        },
+        {
+          "index": 266,
+          "sceneId": "scene-266",
+          "fromFrame": 70030,
+          "durationFrames": 278,
+          "role": "question",
+          "narration": "true sociological study. The second foundation acts almost like a narrative cheat code to ensure Har"
+        },
+        {
+          "index": 267,
+          "sceneId": "scene-267",
+          "fromFrame": 70308,
+          "durationFrames": 202,
+          "role": "complication",
+          "narration": "So, after looking at the holograms, the nuclear priests, the economic warfare, and the decaying empi"
+        },
+        {
+          "index": 268,
+          "sceneId": "scene-268",
+          "fromFrame": 70510,
+          "durationFrames": 223,
+          "role": "reveal",
+          "narration": "what does this all mean? We started this deep dive by stating a clear thesis. Foundation isn't about"
+        }
+      ]
+    },
+    {
+      "id": "seq-96",
+      "source": "engine",
+      "fromFrame": 70733,
+      "durationFrames": 787,
+      "durationSeconds": 26.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 269,
+          "sceneId": "scene-269",
+          "fromFrame": 70733,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "It's about a massive crowd being steered by math. And here is the profound irony that finally lands "
+        },
+        {
+          "index": 270,
+          "sceneId": "scene-270",
+          "fromFrame": 71014,
+          "durationFrames": 352,
+          "role": "question",
+          "narration": "this thousand-year plan to save the galaxy, only survives because the people inside it don't know it"
+        },
+        {
+          "index": 271,
+          "sceneId": "scene-271",
+          "fromFrame": 71366,
+          "durationFrames": 154,
+          "role": "reveal",
+          "narration": "As you go about your week, we want you to ask yourself a deeply uncomfortable question."
+        }
+      ]
+    },
+    {
+      "id": "seq-97",
+      "source": "authored",
+      "fromFrame": 71520,
+      "durationFrames": 449,
+      "durationSeconds": 15,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 272,
+          "sceneId": "scene-272",
+          "fromFrame": 71520,
+          "durationFrames": 334,
+          "role": "authored-start",
+          "narration": "How many of your own choices are truly yours? And how many are just the predictable result of the va"
+        },
+        {
+          "index": 273,
+          "sceneId": "scene-273",
+          "fromFrame": 71854,
+          "durationFrames": 115,
+          "role": "authored-kept",
+          "narration": "own life or just another perfectly predictable number in the"
+        }
+      ]
+    }
+  ]
+}

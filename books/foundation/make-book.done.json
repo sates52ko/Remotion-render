@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-14T06:03:55.445Z",
+  "at": "2026-11-14T06:59:43.490Z",
+  "config": "config.antidote.json",
+  "configSha256": "3ea3a5ffe957c3e704e51452c29f1b99bf32b5b7ff3e0f5b7590f7a3301d1f55",
+  "inputs": {
+    "storyboard": {
+      "path": "books/foundation/art.json",
+      "sha256": "b58ee127fa5d6f44acf013689f041ea5b8f91895b3a4deede9ee29bd3ebc149d"
+    },
+    "storyBible": {
+      "path": "books/foundation/story-bible.json",
+      "sha256": "922754202aef91c91fff31e51535dcc3123556cbd2af36815663bc7ac29fb3b3"
+    },
+    "motifs": {
+      "path": "books/foundation/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/foundation.vtt",
+      "sha256": "9605f56520c6a8dcf59ffb4ea06d1d3794bd819f2d8a13dbc6a7c83233e87464"
+    },
+    "audio": {
+      "path": "public/audio/foundation.mp3",
+      "sha256": "51202dbb75735912f291237492ecdbab90834654563ba7665461c5cc1cd9e372"
+    },
+    "singleRelation": {
+      "path": "books/foundation/single-relation/active.json",
+      "sha256": null
+    }
+  },
+  "head": "e2b8605228eb90bebe2e241e525a3085fa1db603",
+  "previewOnly": true,
+  "skipPack": true
+}
