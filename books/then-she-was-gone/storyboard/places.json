@@ -1,0 +1,111 @@
+{
+  "note": "Where each beat stands after merge (an unset beat stays where the film was). setPlace: beats whose narration names a place they do not stand in. empty: beats with nobody and nothing of the book. partOpens: where each part of the form opens. Reports only (storyboard.js merge, 2026-11-23).",
+  "at": "2026-11-26T17:29:28.557Z",
+  "beats": 296,
+  "byPlace": {
+    "floyd-table": 98,
+    "kitchen": 86,
+    "cafe": 44,
+    "hanna-flat": 43,
+    "library": 17,
+    "ellie-room": 8
+  },
+  "setPlace": {
+    "kitchen": [
+      18,
+      81,
+      94,
+      117,
+      124,
+      125,
+      178,
+      208,
+      241,
+      246,
+      278
+    ],
+    "library": [
+      37,
+      42
+    ],
+    "woodland": [
+      46,
+      273
+    ],
+    "cafe": [
+      69,
+      75,
+      267,
+      286,
+      289
+    ],
+    "ellie-room": [
+      151,
+      293
+    ],
+    "basement": [
+      248,
+      254,
+      280
+    ]
+  },
+  "empty": [],
+  "partOpens": [
+    {
+      "n": 1,
+      "beat": 6,
+      "place": "library"
+    },
+    {
+      "n": 2,
+      "beat": 46,
+      "place": "kitchen"
+    },
+    {
+      "n": 3,
+      "beat": 85,
+      "place": "hanna-flat"
+    },
+    {
+      "n": 4,
+      "beat": 118,
+      "place": "hanna-flat"
+    },
+    {
+      "n": 5,
+      "beat": 145,
+      "place": "kitchen"
+    },
+    {
+      "n": 6,
+      "beat": 172,
+      "place": "hanna-flat"
+    },
+    {
+      "n": 7,
+      "beat": 195,
+      "place": "floyd-table"
+    },
+    {
+      "n": 8,
+      "beat": 218,
+      "place": "floyd-table"
+    },
+    {
+      "n": 9,
+      "beat": 236,
+      "place": "floyd-table"
+    },
+    {
+      "n": 10,
+      "beat": 261,
+      "place": "floyd-table"
+    }
+  ],
+  "partRepeats": [
+    4,
+    8,
+    9,
+    10
+  ]
+}

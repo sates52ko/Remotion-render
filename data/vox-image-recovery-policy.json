@@ -1,0 +1,11 @@
+{
+  "note": "Standing operator decision (2026-11-13): Vox images that Flux refused (CONTENT_FILTERED), that failed (HTTP 422 prompt too long, transient error) or that were never generated are recovered by the producing agent WITHOUT asking - re-authored in the storyboard and re-generated with a hard call cap. Read by scripts/lib/vox-image-recovery.js; skill: .claude/skills/vox-image-recovery/SKILL.md. Change these numbers only on the operator's word.",
+  "decidedBy": "operator",
+  "date": "2026-11-13",
+  "words": "Otomatik, tavanlı (Önerilen) — her kitap için reddedilen beat'ler en fazla 2 yeniden yazma turu, toplam en fazla ~60 Flux çağrısı, onay sorulmadan. Tavan aşılırsa beat metin türüne çevrilir ve raporlanır.",
+  "maxRoundsPerBeat": 2,
+  "maxCallsPerBook": 60,
+  "attemptsPerImage": 3,
+  "subjectBudgetChars": 470,
+  "onExhausted": "text"
+}

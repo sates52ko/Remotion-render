@@ -1,0 +1,1777 @@
+[
+  {
+    "i": 201,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Sara-Jade, at a glance",
+      "layout": "borderless",
+      "nodeShape": "filmStrip",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Bare pale feet",
+          "sublabel": "Tucked beneath her",
+          "tone": "neutral"
+        },
+        {
+          "label": "Silver earrings",
+          "sublabel": "A blue flick",
+          "tone": "accent"
+        },
+        {
+          "label": "Reality TV",
+          "sublabel": "Staring blankly",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Sara-Jade's look",
+      "action": "details add up",
+      "payoff": "a bored teenager on the sofa"
+    },
+    "explainedBy": "Sara-Jade: bare feet, silver earrings, staring blankly at reality TV.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sara-Jade is pictured on the sofa",
+      "concreteVisual": "Three film-strip frames: feet, earrings, reality TV",
+      "onScreenText": "Sara-Jade, at a glance",
+      "relationToPrevious": "Describes her",
+      "addedInformation": "Her look in three details"
+    }
+  },
+  {
+    "i": 202,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "SARA-JADE ON THE SOFA",
+      "lines": [
+        {
+          "text": "Trashy dating show",
+          "at": 8
+        },
+        {
+          "text": "Floor and armrest",
+          "at": 70
+        },
+        {
+          "text": "A PERIMETER OF NEGLECT",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 130
+        }
+      ],
+      "divider": "line"
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Sara-Jade's corner of the room",
+      "action": "the room's state builds line by line into one hard phrase",
+      "payoff": "the mess around her is a ring of neglect"
+    },
+    "explainedBy": "Sara-Jade sits watching a dating show, ringed by neglect on the floor and the armrest.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sara-Jade is ringed by neglect.",
+      "concreteVisual": "Typographic stack: the TV show, the floor and armrest, then the phrase in red.",
+      "onScreenText": "A PERIMETER OF NEGLECT",
+      "relationToPrevious": "Same sofa as 201, now the ring around her.",
+      "addedInformation": "Names the state of the room as one phrase."
+    }
+  },
+  {
+    "i": 203,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "WHAT SARA-JADE SHOWS",
+      "leftLabel": "SHE SHOWS",
+      "rightLabel": "SHE HIDES",
+      "leftWeights": [
+        {
+          "label": "Ketchup plate, crushed can",
+          "sublabel": "Apathy",
+          "weight": 1,
+          "tone": "neutral",
+          "at": 20
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Craving Floyd's validation",
+          "weight": 1.6,
+          "tone": "danger",
+          "at": 170
+        }
+      ],
+      "verdict": "The craving outweighs the mess",
+      "verdictAt": 250,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "apathy against craving",
+      "action": "the hidden craving outweighs",
+      "payoff": "she wants her father's notice"
+    },
+    "explainedBy": "Behind the mess and apathy Sara-Jade craves Floyd's validation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She hides a craving behind apathy",
+      "concreteVisual": "Scale: the mess on one side, the craving outweighs it",
+      "onScreenText": "SHE SHOWS / SHE HIDES",
+      "relationToPrevious": "From her look to what is under it",
+      "addedInformation": "The craving is heavier than the show"
+    }
+  },
+  {
+    "i": 204,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "SARA-JADE",
+      "lines": [
+        {
+          "text": "I don't care",
+          "at": 10,
+          "strikeAt": 90
+        },
+        {
+          "text": "She cares, and it shows",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 110
+        }
+      ],
+      "divider": "line",
+      "footnote": "Her mess sits in the centre of the room",
+      "footnoteAt": 200,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "the pose of not caring",
+      "action": "the pose is struck through",
+      "payoff": "her presence gives her away"
+    },
+    "explainedBy": "She pretends not to care, but her messy presence gives her away.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her not-caring is a pretence",
+      "concreteVisual": "'I don't care' struck through",
+      "onScreenText": "I don't care",
+      "relationToPrevious": "Continues her hidden craving",
+      "addedInformation": "The pose fails"
+    }
+  },
+  {
+    "i": 205,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "WHAT LAUREL SEES",
+      "layout": "borderless",
+      "columns": [
+        {
+          "heading": "Sara-Jade",
+          "tag": "THE MESS",
+          "bullets": [
+            "A silent demand to be noticed",
+            "Bitter, unkempt"
+          ],
+          "highlight": "Bitter contrast",
+          "tone": "danger"
+        },
+        {
+          "heading": "Laurel's daughters",
+          "tag": "THE GOLDEN ONES",
+          "bullets": [
+            "Golden",
+            "High-achieving"
+          ],
+          "highlight": "Her own girls",
+          "tone": "positive"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Sara-Jade versus Laurel's daughters",
+      "action": "the frame splits into the messy girl and the golden girls",
+      "payoff": "Laurel judges SJ against her own daughters"
+    },
+    "explainedBy": "Laurel sees Sara-Jade as a bitter, unkempt contrast to her own golden, high-achieving daughters.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sets SJ against her golden daughters.",
+      "concreteVisual": "Full-bleed split: Sara-Jade, unkempt, beside Laurel's high-achieving daughters.",
+      "onScreenText": "Sara-Jade | Laurel's daughters",
+      "relationToPrevious": "Continues the mess of 202-204 through Laurel's eyes.",
+      "addedInformation": "Laurel's judgment: the two sides she compares."
+    }
+  },
+  {
+    "i": 206,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A flash of jealousy",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Laurel feels a flash of intense jealousy looking at SJ's tiny frame and the junk food.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel feels jealous of SJ's messy teenage freedom.",
+      "concreteVisual": "Laurel, worried face, idle, same room and same figure.",
+      "onScreenText": "A flash of jealousy",
+      "relationToPrevious": "Continues Laurel; the face shifts from neutral to worried.",
+      "addedInformation": "weak: jealousy reads closer to worry."
+    }
+  },
+  {
+    "i": 207,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Frozen in tragedy",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Laurel wishes her own life had allowed mundane messy reality instead of being frozen in tragedy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's wish for ordinary mess is a life frozen in tragedy.",
+      "concreteVisual": "Laurel, sad face, slumped, same room.",
+      "onScreenText": "Frozen in tragedy",
+      "relationToPrevious": "Continues Laurel; the sad slump replaces the worry.",
+      "addedInformation": "The slump reads as tired or defeated; the wish is in the callout."
+    }
+  },
+  {
+    "i": 208,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Sara-Jade in the kitchen",
+      "action": "three panels: the crack, the sobbing, the coat",
+      "payoff": "her apathy was a front"
+    },
+    "explainedBy": "Sara-Jade breaks down in the kitchen, sobbing, and snatches her coat to leave.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "SJ's apathy breaks.",
+      "concreteVisual": "Three text panels: kitchen, sobbing, coat snatched off the rack.",
+      "onScreenText": "THE FACADE CRACKS",
+      "relationToPrevious": "After the jealousy of 206-207, SJ breaks.",
+      "addedInformation": "The sequence of her breakdown and exit."
+    },
+    "timelineScrub": {
+      "title": "THE FACADE CRACKS",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "The kitchen",
+          "detail": "Apathy gives way",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "time": "Then",
+          "title": "Sobbing",
+          "detail": "She can't stop crying",
+          "tone": "danger",
+          "at": 95
+        },
+        {
+          "time": "Last",
+          "title": "Coat off the rack",
+          "detail": "She grabs it to leave",
+          "tone": "accent",
+          "at": 170
+        }
+      ]
+    }
+  },
+  {
+    "i": 209,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "Noel",
+          "do": "label",
+          "who": "noel",
+          "text": "Poppy's mother"
+        }
+      ]
+    },
+    "explainedBy": "SJ names Noel Donnelly as Poppy's mother, the claim the story turns on.",
+    "noVisual": null
+  },
+  {
+    "i": 210,
+    "told": {
+      "events": [
+        {
+          "on": "supposed",
+          "do": "label",
+          "who": "noel",
+          "text": "Faking the pregnancy"
+        },
+        {
+          "on": "no",
+          "do": "label",
+          "who": "noel",
+          "text": "No baby bump"
+        }
+      ]
+    },
+    "explainedBy": "SJ says she saw Noel when Noel should have been eight months pregnant.",
+    "noVisual": null
+  },
+  {
+    "i": 211,
+    "cast": [],
+    "concept": null,
+    "liveInterface": {
+      "variant": "notificationFlood",
+      "title": "LATE AT NIGHT",
+      "subtitle": "What Sara-Jade has been searching",
+      "channels": [
+        {
+          "name": "Search",
+          "preview": "Ellie Mack cold case",
+          "count": "2 a.m.",
+          "tone": "accent",
+          "at": 30
+        },
+        {
+          "name": "Search",
+          "preview": "Ellie Mack missing 2005",
+          "count": "3 a.m.",
+          "tone": "accent",
+          "at": 120
+        },
+        {
+          "name": "Note",
+          "preview": "No baby bump?",
+          "tone": "danger",
+          "at": 250
+        },
+        {
+          "name": "Note",
+          "preview": "Not noticing. Investigating.",
+          "tone": "danger",
+          "at": 340
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "live-interface",
+      "subject": "Sara-Jade's late-night searches",
+      "action": "searches stack up, then her own note on the baby bump",
+      "payoff": "she has been investigating, not guessing"
+    },
+    "explainedBy": "Sara-Jade has secretly been googling Ellie's cold case at night and actively investigating the missing baby bump.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "SJ secretly investigates Ellie's case.",
+      "concreteVisual": "Notification stack: late-night searches for the cold case, then a note on the baby bump.",
+      "onScreenText": "Ellie Mack cold case",
+      "relationToPrevious": "Follows her claim about Noelle's pregnancy in 210.",
+      "addedInformation": "Reveals she has been researching in secret."
+    }
+  },
+  {
+    "i": 212,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "SARA-JADE DIGS",
+      "subtitle": "Under her father's story",
+      "items": [
+        {
+          "label": "Floyd's perfect narrative",
+          "detail": "The surface",
+          "level": 0.9,
+          "tone": "positive"
+        },
+        {
+          "label": "Late-night searches",
+          "detail": "Ellie's cold case",
+          "level": 0.6,
+          "tone": "accent",
+          "changeAt": 110
+        },
+        {
+          "label": "The connections",
+          "detail": "Investigated, not guessed",
+          "level": 0.4,
+          "tone": "accent",
+          "changeAt": 200
+        },
+        {
+          "label": "The rot beneath",
+          "detail": "What she hunts for",
+          "level": 0.2,
+          "tone": "danger",
+          "changeAt": 270
+        }
+      ],
+      "callout": "Floyd sees only a nuisance",
+      "calloutAt": 330,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "Sara-Jade's investigation",
+      "action": "a cutaway digs from Floyd's narrative down through her searches to the rot",
+      "payoff": "she is investigating, while Floyd calls her a nuisance"
+    },
+    "explainedBy": "Sara-Jade has been investigating Ellie's cold case to find the rot in Floyd's story; he sees her as a nuisance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sara-Jade investigates while Floyd dismisses her.",
+      "concreteVisual": "Strata: Floyd's narrative, late-night searches, connections, the rot beneath; callout 'Floyd sees only a nuisance'.",
+      "onScreenText": "The rot beneath",
+      "relationToPrevious": "From the missing baby bump to her real investigation.",
+      "addedInformation": "Shows how deep her digging goes."
+    }
+  },
+  {
+    "i": 213,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Mere sibling jealousy",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "Floyd aggressively dismisses SJ's sharp observations as mere sibling jealousy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd dismisses SJ as jealous.",
+      "concreteVisual": "Floyd, angry, arm out pointing away from the viewer, same room.",
+      "onScreenText": "Mere sibling jealousy",
+      "relationToPrevious": "Continues Floyd; the arm goes out to dismiss.",
+      "addedInformation": "Pointing at an unseen SJ reads as accusing; the dismissal is the callout."
+    }
+  },
+  {
+    "i": 214,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Floyd's orbit",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Outsiders' suspicion",
+          "sublabel": "Something is off",
+          "tone": "neutral"
+        },
+        {
+          "label": "Sara-Jade's view",
+          "sublabel": "From inside",
+          "tone": "accent"
+        },
+        {
+          "label": "Confirmed",
+          "sublabel": "The dark suspicion",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "suspicion confirmed",
+      "action": "inside view confirms outside doubt",
+      "payoff": "the doubt about Floyd is real"
+    },
+    "explainedBy": "Sara-Jade confirms the suspicions outsiders bring to Floyd.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sara-Jade confirms the suspicion",
+      "concreteVisual": "Suspicion plus her view leads to confirmed",
+      "onScreenText": "Floyd's orbit",
+      "relationToPrevious": "Closes her portrait",
+      "addedInformation": "Inside view backs outside doubt"
+    }
+  },
+  {
+    "i": 215,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "SARA-JADE",
+      "lines": [
+        {
+          "text": "A toxic nuisance",
+          "strikeAt": 90,
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "text": "THE ALARM BELL",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 100
+        },
+        {
+          "text": "Ringing inside the house",
+          "at": 140
+        }
+      ],
+      "divider": "line",
+      "footnote": "Warning anyone who will listen",
+      "footnoteAt": 160
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Sara-Jade's role in the house",
+      "action": "Floyd's label is struck out and replaced by the alarm bell",
+      "payoff": "she is the warning, not the nuisance"
+    },
+    "explainedBy": "Sara-Jade is the alarm bell ringing inside the house, warning anyone who will listen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "SJ is the house's alarm bell.",
+      "concreteVisual": "Strike-through: Floyd's 'toxic nuisance' replaced by THE ALARM BELL.",
+      "onScreenText": "THE ALARM BELL",
+      "relationToPrevious": "Answers 212's label from Floyd.",
+      "addedInformation": "Reframes her as the warning."
+    }
+  },
+  {
+    "i": 216,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "WHO SEES CLEARLY",
+      "columns": [
+        {
+          "heading": "The perfect people",
+          "tag": "KEEP",
+          "bullets": [
+            "The illusion"
+          ],
+          "highlight": "The illusion",
+          "tone": "neutral"
+        },
+        {
+          "heading": "The messy one",
+          "tag": "SEES",
+          "bullets": [
+            "The truth"
+          ],
+          "highlight": "The truth",
+          "tone": "accent"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "perfect people vs the messy one",
+      "action": "two columns",
+      "payoff": "the messy one sees the truth"
+    },
+    "explainedBy": "The messy one sees the truth before the perfect people do.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The messy one sees the truth",
+      "concreteVisual": "Two columns: perfect people keep the illusion; the messy one sees the truth",
+      "onScreenText": "WHO SEES CLEARLY",
+      "relationToPrevious": "A question about who sees",
+      "addedInformation": "The outsider sees first"
+    }
+  },
+  {
+    "i": 217,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "WHY THE MESSY ONE SEES",
+      "lines": [
+        {
+          "text": "Not invested in the illusion",
+          "at": 10
+        },
+        {
+          "text": "The only clear eyes",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 110
+        }
+      ],
+      "divider": "line",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "why outsiders see clearly",
+      "action": "the reason lands",
+      "payoff": "clear eyes"
+    },
+    "explainedBy": "Not invested in maintaining the illusion, they are the only ones with clear eyes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They see clearly because they keep no illusion",
+      "concreteVisual": "Two lines: not invested in the illusion, the only clear eyes",
+      "onScreenText": "The only clear eyes",
+      "relationToPrevious": "Answers the question",
+      "addedInformation": "The reason they see first"
+    }
+  },
+  {
+    "i": 218,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "WHO SENSES THE ROT",
+      "layout": "borderless",
+      "columns": [
+        {
+          "heading": "Blood family",
+          "tag": "SARA-JADE",
+          "bullets": [
+            "Inside the house"
+          ],
+          "tone": "neutral"
+        },
+        {
+          "heading": "A total stranger",
+          "tag": "PORTRAIT 8 · BLUE",
+          "bullets": [
+            "Reads the room in seconds",
+            "Jake's girlfriend"
+          ],
+          "highlight": "Blue",
+          "tone": "accent"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "family versus a stranger",
+      "action": "the split turns from SJ to Blue, Jake's girlfriend",
+      "payoff": "a stranger sees it too: Blue"
+    },
+    "explainedBy": "Not only family senses the rot: Blue, Jake's girlfriend, reads the room in seconds.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A stranger can sense it too.",
+      "concreteVisual": "Full-bleed split: blood family on one side, Blue the stranger on the other.",
+      "onScreenText": "PORTRAIT 8 · BLUE",
+      "relationToPrevious": "Hands over from SJ to the next portrait.",
+      "addedInformation": "Introduces Blue as Jake's girlfriend."
+    }
+  },
+  {
+    "i": 219,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "I AM SPEAKING FOR BLUE",
+      "lines": [
+        {
+          "text": "Swallow it, be polite",
+          "at": 10,
+          "strikeAt": 120
+        },
+        {
+          "text": "I see the darkness",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 140
+        }
+      ],
+      "divider": "line",
+      "footnote": "Blue",
+      "footnoteAt": 220,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Blue's refusal",
+      "action": "politeness is struck through",
+      "payoff": "she names the darkness"
+    },
+    "explainedBy": "Blue sees the darkness in people and refuses to swallow it to be polite.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue refuses politeness",
+      "concreteVisual": "'Swallow it, be polite' struck; 'I see the darkness'",
+      "onScreenText": "I see the darkness",
+      "relationToPrevious": "Opens Blue's voice",
+      "addedInformation": "Her drive in one line"
+    }
+  },
+  {
+    "i": 220,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Shatters Laurel's happiness",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Blue's brutal bluntness shatters Laurel's fragile, newly constructed happiness.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue's bluntness breaks Laurel's new happiness.",
+      "concreteVisual": "Laurel, sad face, slumped, in the room set.",
+      "onScreenText": "Shatters Laurel's happiness",
+      "relationToPrevious": "Back to Laurel, now shattered by Blue.",
+      "addedInformation": "The slump shows the loss; Blue is not drawn."
+    }
+  },
+  {
+    "i": 221,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "BLUE AT THE TABLE",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Controlling, rigid",
+          "sublabel": "Isolates Jake",
+          "tone": "danger"
+        },
+        {
+          "label": "Birthday dinner",
+          "sublabel": "Islington",
+          "tone": "neutral"
+        },
+        {
+          "label": "Discomfort",
+          "sublabel": "Opposite Poppy and Jake",
+          "tone": "accent"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Blue at the birthday dinner",
+      "action": "her nature plus the dinner yields visible discomfort",
+      "payoff": "Blue sits across the table as pure discomfort"
+    },
+    "explainedBy": "Blue's controlling nature isolates Jake; at the Islington birthday dinner she sits opposite as discomfort.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue is discomfort at the dinner.",
+      "concreteVisual": "Torn-paper equation: her rigid nature + the Islington dinner = discomfort.",
+      "onScreenText": "BLUE AT THE TABLE",
+      "relationToPrevious": "Opens Blue's scene after 220's portrait.",
+      "addedInformation": "Places her at the birthday dinner, opposite Poppy and Jake."
+    }
+  },
+  {
+    "i": 222,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "THE FAMILY TABLE",
+      "columns": [
+        {
+          "heading": "The blended family",
+          "tag": "AROUND HER",
+          "bullets": [
+            "Laughing",
+            "Champagne"
+          ],
+          "highlight": "Champagne",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Blue",
+          "tag": "AT THE TABLE",
+          "bullets": [
+            "A sour face",
+            "Eats in silence"
+          ],
+          "highlight": "Eats in silence",
+          "tone": "accent"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "the family's faux happiness vs Blue",
+      "action": "two columns",
+      "payoff": "Blue refuses the act"
+    },
+    "explainedBy": "Blue eats in silence with a sour face while the blended family laughs and drinks champagne.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue sits apart from the faux happiness",
+      "concreteVisual": "Two columns: the family laughing with champagne; Blue sour and silent",
+      "onScreenText": "THE FAMILY TABLE",
+      "relationToPrevious": "At the family meal",
+      "addedInformation": "Her silence against the champagne"
+    }
+  },
+  {
+    "i": 223,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "UNDER BLUE'S REFUSAL",
+      "subtitle": "Layer under layer",
+      "items": [
+        {
+          "label": "Refuses the charade",
+          "detail": "The surface",
+          "level": 0.85,
+          "tone": "accent"
+        },
+        {
+          "label": "Intense social anxiety",
+          "detail": "Beneath",
+          "level": 0.4,
+          "tone": "danger",
+          "changeAt": 110
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "what lies under Blue's refusal",
+      "action": "anxiety revealed beneath",
+      "payoff": "her bluntness covers anxiety"
+    },
+    "explainedBy": "Blue refuses the charade; beneath it is intense social anxiety.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Anxiety lies under her refusal",
+      "concreteVisual": "Refusal on top, anxiety below",
+      "onScreenText": "UNDER BLUE'S REFUSAL",
+      "relationToPrevious": "Deepens Blue",
+      "addedInformation": "What drives her bluntness"
+    }
+  },
+  {
+    "i": 224,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "UNDER BLUE'S SILENCE",
+      "items": [
+        {
+          "label": "Spiritual superiority",
+          "detail": "A heavy shield",
+          "tone": "neutral"
+        },
+        {
+          "label": "Judgment",
+          "detail": "What the table sees",
+          "tone": "accent"
+        },
+        {
+          "label": "Defense",
+          "detail": "Protecting herself",
+          "tone": "danger"
+        },
+        {
+          "label": "People she cannot read",
+          "detail": "A crowded room",
+          "tone": "danger"
+        }
+      ],
+      "callout": "Not judgment: protection",
+      "calloutAt": 150,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "the layers of Blue's silence",
+      "action": "the strata reveal what lies under the shield",
+      "payoff": "her silence protects her"
+    },
+    "explainedBy": "Under Blue's superior silence is a defense against a room of people she cannot read.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue's silence is a defense.",
+      "concreteVisual": "Strata cutaway: superiority, judgment, defense, and at the bottom a room she cannot read.",
+      "onScreenText": "UNDER BLUE'S SILENCE",
+      "relationToPrevious": "Goes beneath the sour face of 222-223.",
+      "addedInformation": "Shows the anxiety under her silence."
+    }
+  },
+  {
+    "i": 225,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "LAUREL READS BLUE",
+      "leftLabel": "LAUREL SEES",
+      "rightLabel": "BLUE'S REALITY",
+      "leftWeights": [
+        {
+          "label": "Controlling",
+          "weight": 1.2,
+          "tone": "danger",
+          "at": 10
+        },
+        {
+          "label": "Miserable",
+          "weight": 1,
+          "tone": "danger",
+          "at": 50
+        },
+        {
+          "label": "Dragging Jake down",
+          "weight": 1,
+          "tone": "danger",
+          "at": 95
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "A defensive silence",
+          "sublabel": "A room she cannot read",
+          "weight": 1,
+          "tone": "neutral",
+          "at": 140
+        }
+      ],
+      "verdict": "Laurel reads defense as malice",
+      "verdictAt": 175,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Laurel's judgment of Blue",
+      "action": "Laurel's harsh labels pile up against Blue's defensive silence",
+      "payoff": "Laurel mistakes Blue's defense for malice"
+    },
+    "explainedBy": "Laurel sees Blue as controlling and miserable, dragging Jake down, missing that her silence is defensive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel misjudges Blue as controlling.",
+      "concreteVisual": "Scale: 'controlling, miserable, dragging Jake down' against 'a defensive silence'.",
+      "onScreenText": "Laurel reads defense as malice",
+      "relationToPrevious": "From Blue's defensive silence to Laurel's verdict on it.",
+      "addedInformation": "Weighs Laurel's view against Blue's reality."
+    }
+  },
+  {
+    "i": 226,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "An arrogant interloper",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "Laurel views Blue as an arrogant interloper who refuses the family one nice evening.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel accuses Blue of spoiling the evening.",
+      "concreteVisual": "Laurel, angry, arm out pointing at an unseen Blue, same room.",
+      "onScreenText": "An arrogant interloper",
+      "relationToPrevious": "Continues Laurel; the arm goes out at Blue.",
+      "addedInformation": "A point at an unseen Blue reads as accusing."
+    }
+  },
+  {
+    "i": 227,
+    "concept": "phone",
+    "diagram": null,
+    "callout": {
+      "text": "Calls Laurel directly",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "Blue calls Laurel directly, bypassing Jake, to confront her.",
+    "noVisual": "Blue has no cast key; the phone carries the call.",
+    "storyboard": {
+      "claim": "Blue confronts Laurel by phone.",
+      "concreteVisual": "A phone icon, no figure.",
+      "onScreenText": "Calls Laurel directly",
+      "relationToPrevious": "Shift to the phone call.",
+      "addedInformation": "weak: Blue is not drawn; the phone stands for the call."
+    }
+  },
+  {
+    "i": 228,
+    "continue": true,
+    "concept": "phone",
+    "diagram": null,
+    "callout": {
+      "text": "A sixth sense",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "Blue states flatly that she has a sixth sense and that Floyd's aura is dark and wrong.",
+    "noVisual": "Blue has no cast key; a sixth sense has no icon.",
+    "storyboard": {
+      "claim": "Blue claims a sixth sense about Floyd.",
+      "concreteVisual": "The same phone icon, no figure.",
+      "onScreenText": "A sixth sense",
+      "relationToPrevious": "Continues the call; the claim changes.",
+      "addedInformation": "weak: the sixth sense is text only."
+    }
+  },
+  {
+    "i": 229,
+    "cast": [],
+    "concept": null,
+    "liveInterface": {
+      "variant": "chatThread",
+      "title": "THE PHONE CALL",
+      "channels": [
+        {
+          "name": "Blue",
+          "preview": "He is hiding something.",
+          "tone": "danger",
+          "at": 10
+        },
+        {
+          "name": "Laurel",
+          "preview": "(laughs into the receiver)",
+          "tone": "neutral",
+          "at": 110
+        },
+        {
+          "name": "Laurel",
+          "preview": "Delusional hippie.",
+          "tone": "neutral",
+          "at": 180
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "live-interface",
+      "subject": "Blue's call to Laurel",
+      "action": "the warning arrives, Laurel laughs it off",
+      "payoff": "Blue warns, Laurel mocks"
+    },
+    "explainedBy": "Blue tells Laurel that Floyd is hiding something; Laurel laughs at her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue warns; Laurel mocks.",
+      "concreteVisual": "Call thread: Blue's warning, then Laurel's laugh.",
+      "onScreenText": "He is hiding something.",
+      "relationToPrevious": "Follows Blue's aura claim in 228.",
+      "addedInformation": "Laurel's dismissal of the warning."
+    }
+  },
+  {
+    "i": 230,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Blue on the line",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Blue stands firm",
+          "sublabel": "Her voice steady",
+          "tone": "accent"
+        },
+        {
+          "label": "Jake backs her",
+          "sublabel": "He gets on the line",
+          "tone": "neutral"
+        },
+        {
+          "label": "The darkness, validated",
+          "sublabel": "What she senses in Floyd",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Blue warning Laurel",
+      "action": "Jake backs Blue",
+      "payoff": "her warning is validated"
+    },
+    "explainedBy": "Blue stands firm and Jake gets on the line to support her, validating the darkness she senses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Jake backs Blue's warning",
+      "concreteVisual": "Torn-paper chain: Blue stands firm, Jake backs her, darkness validated",
+      "onScreenText": "Blue on the line",
+      "relationToPrevious": "Continues the call",
+      "addedInformation": "Her warning is confirmed"
+    }
+  },
+  {
+    "i": 231,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "A BOOK OF MASKS",
+      "columns": [
+        {
+          "heading": "Everyone else",
+          "tag": "WEARS",
+          "bullets": [
+            "A mask",
+            "Polite lies"
+          ],
+          "highlight": "A mask",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Blue",
+          "tag": "OFFERS",
+          "bullets": [
+            "The plain truth",
+            "No tact"
+          ],
+          "highlight": "The plain truth",
+          "tone": "accent"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "the masked others vs Blue",
+      "action": "two columns",
+      "payoff": "Blue alone tells the truth"
+    },
+    "explainedBy": "In a book of masks, Blue offers the plain truth without tact.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue tells the truth others mask",
+      "concreteVisual": "Two columns: everyone else - mask; Blue - plain truth",
+      "onScreenText": "A BOOK OF MASKS",
+      "relationToPrevious": "From the phone call to her nature",
+      "addedInformation": "She is the one honest voice"
+    }
+  },
+  {
+    "i": 232,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "LAUREL WEIGHS THE WARNING",
+      "leftLabel": "THE WARNING",
+      "rightLabel": "LAUREL'S READING",
+      "leftWeights": [
+        {
+          "label": "A real warning",
+          "sublabel": "Floyd is hiding something",
+          "weight": 1,
+          "tone": "accent",
+          "at": 200
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "An arrogant interloper",
+          "weight": 1.4,
+          "tone": "danger",
+          "at": 30
+        },
+        {
+          "label": "Her second chance",
+          "sublabel": "at happiness",
+          "weight": 1.2,
+          "tone": "positive",
+          "at": 120
+        },
+        {
+          "label": "Mere jealousy",
+          "weight": 1.2,
+          "tone": "neutral",
+          "at": 250
+        }
+      ],
+      "verdict": "Dismissed",
+      "verdictAt": 300,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Laurel's judgment of Blue's warning",
+      "action": "her reading outweighs the real warning",
+      "payoff": "Laurel dismisses the warning"
+    },
+    "explainedBy": "Laurel sees Blue as an interloper ruining her second chance and dismisses the warning as jealousy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel dismisses Blue's warning.",
+      "concreteVisual": "Scale: the real warning against interloper, second chance and jealousy; it tips to dismissal.",
+      "onScreenText": "Dismissed",
+      "relationToPrevious": "Laurel's view after the call of 229-231.",
+      "addedInformation": "Why she rejects the warning."
+    }
+  },
+  {
+    "i": 233,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Blunt force shatters her denial",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Blue's blunt warning shatters Laurel's denial and sends her to investigate the tutor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue's bluntness cracks Laurel's denial.",
+      "concreteVisual": "Laurel, worried face, idle, same room.",
+      "onScreenText": "Blunt force shatters her denial",
+      "relationToPrevious": "Continues Laurel; the face shifts from angry to worried.",
+      "addedInformation": "Worried reads as concern, the first crack in denial."
+    }
+  },
+  {
+    "i": 234,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "BLUE",
+      "value": "1",
+      "label": "Purely heroic character",
+      "note": "In the whole book",
+      "framing": "paperBlock",
+      "tone": "accent",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "the only heroic character",
+      "action": "the number lands",
+      "payoff": "Blue alone is heroic"
+    },
+    "explainedBy": "Blue is the only purely heroic character in the book.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue is the only hero",
+      "concreteVisual": "The number 1 with 'Purely heroic character'",
+      "onScreenText": "1",
+      "relationToPrevious": "Closes Blue's portrait",
+      "addedInformation": "Only one hero"
+    }
+  },
+  {
+    "i": 235,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "BLUE'S CHOICE",
+      "root": {
+        "label": "Blue",
+        "sublabel": "Owes Laurel nothing"
+      },
+      "branches": [
+        {
+          "label": "Stay quiet",
+          "sublabel": "Keep Jake's family",
+          "tone": "neutral",
+          "at": 120,
+          "pruneAt": 250
+        },
+        {
+          "label": "Warn Laurel",
+          "sublabel": "Risk everything",
+          "outcome": "To save Laurel's life",
+          "tone": "positive",
+          "winner": true,
+          "at": 200
+        }
+      ],
+      "callout": "Laurel doesn't even like her",
+      "calloutAt": 70,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Blue's decision to warn",
+      "action": "the safe branch is pruned, the warning wins",
+      "payoff": "she risks everything for someone who dislikes her"
+    },
+    "explainedBy": "Blue owes Laurel nothing yet risks her place with Jake's family to warn her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blue risks everything to warn Laurel.",
+      "concreteVisual": "Tree: stay quiet (pruned) or warn Laurel (chosen).",
+      "onScreenText": "BLUE'S CHOICE",
+      "relationToPrevious": "Why 234 calls her heroic.",
+      "addedInformation": "What she stakes on the warning."
+    }
+  },
+  {
+    "i": 236,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "verticalSpine",
+      "kicker": "A DECADE EARLIER",
+      "title": "PORTRAIT 9 · NOELLE",
+      "subtitle": "Noelle Donnelly, the tutor",
+      "at": 90
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Noelle Donnelly",
+      "action": "the portrait card opens on her name",
+      "payoff": "the darkness started with the tutor"
+    },
+    "explainedBy": "Portrait nine: Noelle Donnelly, the tutor, where the darkness began a decade earlier.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The next portrait is Noelle.",
+      "concreteVisual": "Portrait card: number nine, Noelle Donnelly, the tutor.",
+      "onScreenText": "PORTRAIT 9 · NOELLE",
+      "relationToPrevious": "Moves from Blue back ten years.",
+      "addedInformation": "Names the tutor as the source."
+    }
+  },
+  {
+    "i": 237,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "PORTRAIT NINE · NOELLE, THE TUTOR",
+      "value": "2005",
+      "label": "Noelle's drive: keep Floyd",
+      "note": "A man who wants her gone",
+      "framing": "paperBlock",
+      "tone": "danger",
+      "at": 10,
+      "bars": [
+        {
+          "label": "Floyd's wish",
+          "value": 0.2,
+          "text": "To leave her",
+          "tone": "neutral",
+          "at": 120
+        },
+        {
+          "label": "Noelle's grip",
+          "value": 0.9,
+          "text": "Total control",
+          "tone": "danger",
+          "at": 220
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "Noelle's starting point",
+      "action": "the year lands, then two bars set Floyd's wish to leave against her grip",
+      "payoff": "in 2005 Noelle is driven to keep Floyd at any cost"
+    },
+    "explainedBy": "In 2005, Noelle, the tutor, is driven to keep control of a man who is rejecting her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In 2005 Noelle is driven to hold onto Floyd.",
+      "concreteVisual": "Paper block '2005' with bars: Floyd's wish to leave vs Noelle's grip.",
+      "onScreenText": "2005 · Noelle's drive: keep Floyd",
+      "relationToPrevious": "From the portrait card to the year it begins.",
+      "addedInformation": "Dates her portrait and names her drive."
+    }
+  },
+  {
+    "i": 238,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "weaponizes",
+          "do": "label",
+          "who": "noel",
+          "text": "Motherhood as control"
+        }
+      ]
+    },
+    "explainedBy": "Noel weaponizes motherhood to keep control over a man who is rejecting her.",
+    "noVisual": null
+  },
+  {
+    "i": 239,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "THE TRAIL SHE LEAVES",
+      "items": [
+        {
+          "label": "Ellie",
+          "detail": "Her life taken from her",
+          "tone": "danger"
+        },
+        {
+          "label": "Laurel's family",
+          "detail": "Shattered",
+          "tone": "danger"
+        },
+        {
+          "label": "Floyd",
+          "detail": "Forced into complicity",
+          "tone": "accent"
+        }
+      ],
+      "callout": "Behind Noelle: devastation",
+      "calloutAt": 270,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "the people Noelle's actions reach",
+      "action": "each life in her wake is laid down in turn",
+      "payoff": "one woman's actions reach every family"
+    },
+    "explainedBy": "Noelle's actions ruin Ellie's life, break Laurel's family and force Floyd into complicity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle's actions devastate three lives.",
+      "concreteVisual": "Strata: Ellie, Laurel's family, Floyd, one under the other.",
+      "onScreenText": "THE TRAIL SHE LEAVES",
+      "relationToPrevious": "Follows her portrait card and her drive in 237-238.",
+      "addedInformation": "Who she harms, as names only."
+    }
+  },
+  {
+    "i": 240,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "dismissed",
+          "do": "label",
+          "who": "noel",
+          "text": "The dismissed girlfriend"
+        }
+      ]
+    },
+    "explainedBy": "Noel's delusion breaks in confrontation with Floyd, the man who dismisses her.",
+    "noVisual": null
+  },
+  {
+    "i": 241,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "floyd",
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "breaking",
+          "do": "apart",
+          "who": [
+            "floyd",
+            "noel"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Floyd coldly breaks up with Noel and demands full legal custody of Poppy.",
+    "noVisual": null
+  },
+  {
+    "i": 242,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "the breakup in Noelle's kitchen",
+      "action": "four panels to her outburst",
+      "payoff": "she blurts that she is not Poppy's mother"
+    },
+    "explainedBy": "When Floyd demands custody of Poppy, Noelle snaps and screams that she is not Poppy's mother.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle reveals she is not Poppy's mother.",
+      "concreteVisual": "Four text panels: custody, the chair, the scream, Ellie's name.",
+      "onScreenText": "\"I'm not Poppy's mother\"",
+      "relationToPrevious": "Continues the kitchen breakup of 241.",
+      "addedInformation": "The outburst and what it reveals."
+    },
+    "timelineScrub": {
+      "title": "NOELLE'S KITCHEN",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "Custody of Poppy",
+          "detail": "Floyd demands it",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "time": "Then",
+          "title": "She snaps",
+          "detail": "The chair flies back",
+          "tone": "danger",
+          "at": 70
+        },
+        {
+          "time": "Next",
+          "title": "She screams",
+          "detail": "\"I'm not Poppy's mother\"",
+          "tone": "danger",
+          "at": 170
+        },
+        {
+          "time": "Last",
+          "title": "A girl named Ellie",
+          "detail": "The truth slips out",
+          "tone": "accent",
+          "at": 244
+        }
+      ]
+    }
+  },
+  {
+    "i": 243,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "baby",
+          "do": "label",
+          "who": "noel",
+          "text": "Ellie had the baby"
+        }
+      ]
+    },
+    "explainedBy": "Noel claims a girl named Ellie had the baby for her, taking the foundation out from under Floyd's love for the child.",
+    "noVisual": null
+  },
+  {
+    "i": 244,
+    "told": {
+      "events": [
+        {
+          "on": "empathy",
+          "do": "label",
+          "who": "noel",
+          "text": "No human empathy"
+        }
+      ]
+    },
+    "explainedBy": "Noel has a complete, chilling detachment from human empathy.",
+    "noVisual": null
+  },
+  {
+    "i": 245,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "WHAT PEOPLE ARE TO NOELLE",
+      "layout": "borderless",
+      "nodeShape": "arch",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Ellie",
+          "sublabel": "A tool",
+          "tone": "neutral"
+        },
+        {
+          "label": "Poppy",
+          "sublabel": "Material",
+          "tone": "neutral"
+        },
+        {
+          "label": "Floyd",
+          "sublabel": "Material",
+          "tone": "neutral"
+        },
+        {
+          "label": "The life she's owed",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "how Noelle sees people",
+      "action": "three names add up to the life she wants",
+      "payoff": "people are building materials to her"
+    },
+    "explainedBy": "Noelle treats Ellie, Poppy and Floyd as tools to build the life she feels owed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle uses people as materials.",
+      "concreteVisual": "Arch equation: Ellie + Poppy + Floyd = the life she feels owed.",
+      "onScreenText": "The life she's owed",
+      "relationToPrevious": "Explains the detachment named in 244.",
+      "addedInformation": "Who she uses and for what."
+    }
+  },
+  {
+    "i": 246,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "monster",
+          "do": "label",
+          "who": "noel",
+          "text": "Pathetic, unstable monster"
+        }
+      ]
+    },
+    "explainedBy": "Floyd sees Noel as a pathetic, highly unstable monster he wants to erase from his life.",
+    "noVisual": null
+  },
+  {
+    "i": 247,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Spewing insane lies",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "floyd",
+      "noel"
+    ],
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "Floyd sees a deranged woman spewing insane lies simply to hurt him on his way out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd sees Noel as a deranged liar.",
+      "concreteVisual": "Floyd, angry, pointing; Noel beside him with a smirk.",
+      "onScreenText": "Spewing insane lies",
+      "relationToPrevious": "Ends the told run; back to staged figures.",
+      "addedInformation": "The smirk reads as manipulation; the point reads as accusing."
+    }
+  },
+  {
+    "i": 248,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "WHAT THE BASEMENT REVEALS",
+      "lines": [
+        {
+          "text": "The basement",
+          "at": 8
+        },
+        {
+          "text": "Damp, pine-clad walls",
+          "at": 90
+        },
+        {
+          "text": "ONE HIGH WINDOW",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 150
+        }
+      ],
+      "divider": "line"
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "the basement room",
+      "action": "the room's evidence is named line by line",
+      "payoff": "the room itself is the evidence"
+    },
+    "explainedBy": "The truth is revealed in the basement: a damp pine-clad room with one unreachable high window.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The basement holds the truth.",
+      "concreteVisual": "Typographic stack of the room's evidence: pine walls, one high window.",
+      "onScreenText": "ONE HIGH WINDOW",
+      "relationToPrevious": "Follows the hidden cruelty of 245-247.",
+      "addedInformation": "The room where the evidence lies, objects only; no child is shown."
+    }
+  }
+]

@@ -1,0 +1,1404 @@
+[
+  {
+    "i": 79,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "WHAT FLOYD SEES",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Eroded boundaries",
+          "sublabel": "Worn down by loss",
+          "tone": "neutral"
+        },
+        {
+          "label": "A decade of grief",
+          "sublabel": "Ten years hollowed out",
+          "tone": "neutral"
+        },
+        {
+          "label": "Ready to be molded",
+          "sublabel": "Open to his story",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Floyd's reading of Laurel",
+      "action": "two worn-down traits add up to an opening",
+      "payoff": "Floyd sees a woman he can mold"
+    },
+    "explainedBy": "Floyd reads Laurel's eroded boundaries and decade of grief as an opening to mold her",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd sees Laurel's eroded boundaries as an opening to control her",
+      "concreteVisual": "Torn-paper equation: eroded boundaries + a decade of grief -> ready to be molded",
+      "onScreenText": "Eroded boundaries + A decade of grief -> Ready to be molded",
+      "relationToPrevious": "Follows Floyd reading Laurel's hollowed-out posture",
+      "addedInformation": "Names the inference Floyd draws: she can be filled with his narrative"
+    }
+  },
+  {
+    "i": 80,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "laurel",
+          "hanna"
+        ],
+        "at": "hanna-flat"
+      },
+      "events": [
+        {
+          "on": "not to connect",
+          "do": "apart",
+          "who": [
+            "laurel",
+            "hanna"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Laurel visits Hannah's flat to clean it, not to connect with her daughter",
+    "noVisual": null
+  },
+  {
+    "i": 81,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Laurel's visit to Hanna's flat",
+      "action": "sweep, leave cash, leave",
+      "payoff": "The visit is a chore, not a connection"
+    },
+    "explainedBy": "Laurel sweeps away traces of Hanna's life, leaves 30 pounds on the table and goes",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's visit is a cold mechanical duty",
+      "concreteVisual": "Three text panels: sweeps away traces, leaves 30 pounds, walks out",
+      "onScreenText": "Sweeps away traces / Leaves 30 pounds / Walks out",
+      "relationToPrevious": "Follows Laurel visiting Hanna's flat only to clean it",
+      "addedInformation": "The three-step sequence shows a duty with no contact"
+    },
+    "timelineScrub": {
+      "title": "THE CLEANING VISIT",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "Sweeps away traces",
+          "detail": "Hanna's life tidied out of sight",
+          "tone": "neutral",
+          "at": 110
+        },
+        {
+          "time": "Then",
+          "title": "Leaves 30 pounds",
+          "detail": "Cash on the kitchen table",
+          "tone": "accent",
+          "at": 225
+        },
+        {
+          "time": "Last",
+          "title": "Walks out",
+          "detail": "A duty done, no warmth",
+          "tone": "danger",
+          "at": 295
+        }
+      ]
+    }
+  },
+  {
+    "i": 82,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "WHAT GRIEF BUILT",
+      "value": "10",
+      "label": "solid years as the grieving mother",
+      "framing": "minimal",
+      "tone": "accent",
+      "bars": [
+        {
+          "label": "Her own identity",
+          "value": 1,
+          "text": "Grieving mother",
+          "tone": "neutral",
+          "at": 200
+        },
+        {
+          "label": "How the town sees her",
+          "value": 1,
+          "text": "Grieving mother",
+          "tone": "neutral",
+          "at": 330
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "Laurel's ten years of grief",
+      "action": "the number slams, both bars fill with one role",
+      "payoff": "Grief has become her whole identity"
+    },
+    "explainedBy": "For ten years Laurel's whole identity, inside and in her community, is the grieving mother",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's identity has been built around grief for ten years",
+      "concreteVisual": "A monumental 10 with two bars, her identity and how others see her, both full as Grieving mother",
+      "onScreenText": "10 solid years as the grieving mother",
+      "relationToPrevious": "Explains why she gives Hanna no warmth",
+      "addedInformation": "Shows the identity is both her own and the community's view"
+    }
+  },
+  {
+    "i": 83,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Why healing feels wrong",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "10 years",
+          "sublabel": "Known as the grieving mother",
+          "tone": "neutral"
+        },
+        {
+          "label": "Healing",
+          "sublabel": "Laurel starts to live again",
+          "tone": "accent"
+        },
+        {
+          "label": "Feels like betrayal",
+          "sublabel": "Of the child she lost",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Laurel's grief identity",
+      "action": "an arrow chain runs from ten years of grief through healing to betrayal",
+      "payoff": "healing feels like betraying Ellie"
+    },
+    "explainedBy": "After ten years as the grieving mother, healing feels to Laurel like a betrayal of the child she lost.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "For Laurel, healing feels like betraying Ellie.",
+      "concreteVisual": "Torn-paper chain: 10 years as grieving mother, then healing, then betrayal.",
+      "onScreenText": "Healing = betrayal",
+      "relationToPrevious": "From her cold duty to the psychology behind it.",
+      "addedInformation": "Explains the mechanism: identity built on grief."
+    }
+  },
+  {
+    "i": 84,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Killing the memory",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "Everyday joy feels to Laurel like killing the memory of her child",
+    "noVisual": "A feeling of guilt has no icon in the vocabulary; the callout names it",
+    "storyboard": {
+      "claim": "Joy feels like an act of killing the dead child's memory",
+      "concreteVisual": "Laurel, sad, standing still",
+      "onScreenText": "Killing the memory",
+      "relationToPrevious": "Continues the reason from the beat before",
+      "addedInformation": "weak: the guilt is stated in the words, not drawn"
+    }
+  },
+  {
+    "i": 85,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "verticalSpine",
+      "kicker": "PORTRAIT 3",
+      "title": "HANNA",
+      "subtitle": "The daughter who stayed",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Portrait three: Hanna",
+      "action": "the portrait card opens",
+      "payoff": "The gallery turns to the daughter who stayed"
+    },
+    "explainedBy": "The third portrait opens: Hanna, the daughter who stayed",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The third portrait is Hanna, the daughter who stayed",
+      "concreteVisual": "Portrait opener card: PORTRAIT 3 · HANNA",
+      "onScreenText": "PORTRAIT 3 · HANNA",
+      "relationToPrevious": "Turns from Laurel's grief to the surviving daughter",
+      "addedInformation": "Opens the third portrait of the gallery"
+    }
+  },
+  {
+    "i": 86,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "HANNA'S DRIVE",
+      "lines": [
+        {
+          "text": "THE CONSOLATION PRIZE",
+          "at": 10,
+          "strikeAt": 55
+        },
+        {
+          "text": "MORE THAN THAT",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 75
+        }
+      ],
+      "divider": "line",
+      "footnote": "Portrait three: the sister who stayed",
+      "footnoteAt": 110
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Hanna's inner drive",
+      "action": "'the consolation prize' is struck out and replaced by 'more than that'",
+      "payoff": "Hanna refuses to be the consolation prize"
+    },
+    "explainedBy": "From Hanna's perspective, her drive is to be more than the disappointing consolation prize.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna wants to be more than the consolation prize.",
+      "concreteVisual": "'The consolation prize' struck out; 'More than that' lands beneath.",
+      "onScreenText": "More than that",
+      "relationToPrevious": "From the portrait card to Hanna's own view.",
+      "addedInformation": "States Hanna's drive as a rejected label."
+    }
+  },
+  {
+    "i": 87,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "More than a consolation prize",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Hannah wants a life beyond being the disappointing consolation child",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hannah feels like a consolation prize for the family",
+      "concreteVisual": "Hannah, sad, slumped",
+      "onScreenText": "More than a consolation prize",
+      "relationToPrevious": "States Hannah's desire from her side",
+      "addedInformation": "The consolation prize is the narration's own image, not drawn"
+    }
+  },
+  {
+    "i": 88,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "HANNA'S WAY OUT",
+      "root": {
+        "label": "Rival a lost sister?"
+      },
+      "branches": [
+        {
+          "label": "Compete with Ellie's memory",
+          "sublabel": "An impossible task",
+          "tone": "danger",
+          "at": 60,
+          "pruneAt": 120
+        },
+        {
+          "label": "Shut down her feelings",
+          "sublabel": "Emotionally unavailable",
+          "tone": "accent",
+          "at": 165,
+          "winner": true
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Hanna's choice about Ellie's memory",
+      "action": "competing is pruned, withdrawal wins",
+      "payoff": "Hanna withdraws instead of competing"
+    },
+    "explainedBy": "Hanna avoids competing with a sainted memory by shutting down her feelings",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna avoids competing with the dead saint by shutting down emotionally",
+      "concreteVisual": "Decision tree: compete with Ellie's memory (pruned) vs shut down her feelings (chosen)",
+      "onScreenText": "Compete with Ellie's memory / Shut down her feelings",
+      "relationToPrevious": "Follows Hanna's wish to be more than a consolation prize",
+      "addedInformation": "Shows withdrawal as the branch she takes"
+    }
+  },
+  {
+    "i": 89,
+    "cast": [],
+    "concept": null,
+    "liveInterface": {
+      "variant": "calendarTetris",
+      "title": "HANNA'S WEEK · LONDON",
+      "subtitle": "Work fills every day",
+      "blocks": [
+        {
+          "day": 0,
+          "label": "14-hour day",
+          "span": 3,
+          "tone": "accent",
+          "at": 60
+        },
+        {
+          "day": 1,
+          "label": "14-hour day",
+          "span": 3,
+          "tone": "accent",
+          "at": 85
+        },
+        {
+          "day": 2,
+          "label": "14-hour day",
+          "span": 3,
+          "tone": "accent",
+          "at": 110
+        },
+        {
+          "day": 3,
+          "label": "City office",
+          "span": 3,
+          "tone": "accent",
+          "at": 140
+        },
+        {
+          "day": 4,
+          "label": "Untouchable",
+          "span": 3,
+          "tone": "danger",
+          "at": 180
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "live-interface",
+      "subject": "Hanna's work week in London",
+      "action": "the calendar fills with 14-hour days",
+      "payoff": "Work makes her untouchable"
+    },
+    "explainedBy": "Hanna buries herself in 14-hour days in London and becomes untouchable",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna withdraws into work",
+      "concreteVisual": "A week calendar filling block by block with 14-hour days, ending Untouchable",
+      "onScreenText": "14-hour day ... Untouchable",
+      "relationToPrevious": "Shows where the withdrawal goes",
+      "addedInformation": "The 14-hour days and London are the narration's details"
+    }
+  },
+  {
+    "i": 90,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "laurel",
+          "hanna"
+        ]
+      },
+      "events": [
+        {
+          "on": "withdrawal",
+          "do": "apart",
+          "who": [
+            "laurel",
+            "hanna"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Hannah's withdrawal pushes her away from Laurel",
+    "noVisual": null
+  },
+  {
+    "i": 91,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "ONE DAUGHTER, TWO READINGS",
+      "layout": "borderless",
+      "columns": [
+        {
+          "heading": "Laurel",
+          "tag": "THE MOTHER",
+          "bullets": [
+            "A living daughter",
+            "Feels frozen out"
+          ],
+          "highlight": "Rejected",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Hanna",
+          "tag": "THE DAUGHTER",
+          "bullets": [
+            "Moves through the world alone",
+            "Acts like she needs no mother"
+          ],
+          "highlight": "Needs no one",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Laurel and Hanna across the split",
+      "action": "the mother's hurt faces the daughter's distance",
+      "payoff": "Hanna's withdrawal lands on Laurel as rejection"
+    },
+    "explainedBy": "Laurel feels frozen out by a living daughter who acts as if she needs no mother",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna's withdrawal feels to Laurel like freezing rejection",
+      "concreteVisual": "Full-bleed split: Laurel, frozen out / Hanna, acting like she needs no mother",
+      "onScreenText": "Laurel: Rejected / Hanna: Needs no one",
+      "relationToPrevious": "Speaks for Laurel after Hanna's withdrawal",
+      "addedInformation": "Puts both sides of the same distance side by side"
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Maternal failure",
+      "style": "highlight"
+    },
+    "place": "hanna-flat",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "Laurel's sense of maternal failure drives her to clean Hannah's flat",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel feels she has failed as a mother",
+      "concreteVisual": "Laurel, sad, in Hannah's flat",
+      "onScreenText": "Maternal failure",
+      "relationToPrevious": "Gives the motive for the cleaning visit",
+      "addedInformation": "The motive is the narration's own words"
+    }
+  },
+  {
+    "i": 93,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "LAUREL AT HANNA'S FLAT",
+      "subtitle": "A covert inspection",
+      "stations": [
+        {
+          "label": "Wisteria at the door",
+          "detail": "Ground-floor flat",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "label": "Room by room",
+          "detail": "Methodical, like a mission",
+          "tone": "accent",
+          "at": 60
+        },
+        {
+          "label": "Next: the kitchen sink",
+          "detail": "Looking for signs of life",
+          "tone": "accent",
+          "at": 115
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "Laurel's inspection of Hanna's flat",
+      "action": "a path moves from the wisteria door through the rooms toward the sink",
+      "payoff": "Laurel searches the flat like a covert mission"
+    },
+    "explainedBy": "Laurel sweeps into Hanna's wisteria-covered flat and moves through it methodically, like a covert mission.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel inspects Hanna's flat methodically.",
+      "concreteVisual": "A route: wisteria door, room by room, then the kitchen sink.",
+      "onScreenText": "Room by room",
+      "relationToPrevious": "From Hanna's hidden life to Laurel entering her flat.",
+      "addedInformation": "Maps Laurel's route through the flat."
+    }
+  },
+  {
+    "i": 94,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "HANNA'S FLAT · THE KITCHEN",
+      "lines": [
+        {
+          "text": "PRISTINE",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 100
+        },
+        {
+          "text": "NO CEREAL BOWLS",
+          "at": 150
+        },
+        {
+          "text": "NO MILK SPLASHES",
+          "at": 200
+        },
+        {
+          "text": "NO HUMAN MESS",
+          "tone": "danger",
+          "at": 270
+        }
+      ],
+      "divider": "line",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Hanna's kitchen sink",
+      "action": "each missing sign of life is typed out",
+      "payoff": "The flat shows no trace of a lived life"
+    },
+    "explainedBy": "Laurel finds the sink pristine: no bowls, no splashes, no mess",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The flat shows no sign of daily life",
+      "concreteVisual": "Typed lines: PRISTINE, NO CEREAL BOWLS, NO MILK SPLASHES, NO HUMAN MESS",
+      "onScreenText": "PRISTINE / NO CEREAL BOWLS / NO MILK SPLASHES / NO HUMAN MESS",
+      "relationToPrevious": "Continues Laurel's search of the flat",
+      "addedInformation": "Lists the missing signs the narration names"
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Digging through her daughter's bin",
+      "style": "highlight"
+    },
+    "place": "kitchen",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "reach",
+    "explainedBy": "Laurel digs through her adult daughter's bin",
+    "noVisual": "No bin is drawn in the vocabulary; the kitchen place and the reaching cast member carry it",
+    "storyboard": {
+      "claim": "Laurel snoops through her adult daughter's bin under the kitchen counter",
+      "concreteVisual": "Laurel, neutral-faced, reaches down into the bin under the kitchen counter",
+      "onScreenText": "Digging through her daughter's bin",
+      "relationToPrevious": "Follows the spotless sink: she scrubs the clean surfaces, then turns to the bin",
+      "addedInformation": "weak: the bin is not drawn, so the kitchen and the reach carry it"
+    }
+  },
+  {
+    "i": 96,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "The flower wrapper in the bin",
+      "action": "crackle, pull, card",
+      "payoff": "Laurel finds the card"
+    },
+    "explainedBy": "Laurel pulls a flower wrapper out of Hanna's rubbish and finds a card attached",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel finds a card on a discarded flower wrapper.",
+      "concreteVisual": "Three text panels: A crackle; Out of the rubbish; A card attached",
+      "onScreenText": "A crackle / Out of the rubbish / A card attached",
+      "relationToPrevious": "Follows her snooping through the bin",
+      "addedInformation": "The three steps of the find, in order"
+    },
+    "timelineScrub": {
+      "title": "In Hanna's bin",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "A crackle",
+          "detail": "Thick cellophane",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "time": "Then",
+          "title": "Out of the rubbish",
+          "detail": "Laurel pulls it out",
+          "tone": "accent",
+          "at": 110
+        },
+        {
+          "time": "Last",
+          "title": "A card attached",
+          "detail": "Small, heavy stock card",
+          "tone": "danger",
+          "at": 225
+        }
+      ]
+    }
+  },
+  {
+    "i": 97,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "I love you so much",
+      "style": "reveal"
+    },
+    "place": "hanna-flat",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The card she holds reads: I love you so much",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The card carries a love message",
+      "concreteVisual": "Laurel holding the card, now worried",
+      "onScreenText": "I love you so much",
+      "relationToPrevious": "Keeps the card in hand and changes her face",
+      "addedInformation": "The message is the narration's quote"
+    }
+  },
+  {
+    "i": 98,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Tea with a kiss",
+      "style": "reveal"
+    },
+    "place": "hanna-flat",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The rest of the card reads: tea with a kiss",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The card also says tea with a kiss",
+      "concreteVisual": "Laurel holding the card, blank, standing still",
+      "onScreenText": "Tea with a kiss",
+      "relationToPrevious": "Keeps the card; her face goes still",
+      "addedInformation": "The words are the narration's quote"
+    }
+  },
+  {
+    "i": 99,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "WHAT LIES BENEATH",
+      "items": [
+        {
+          "label": "A stranger to her mother",
+          "detail": "The surface Laurel sees",
+          "tone": "neutral"
+        },
+        {
+          "label": "A vibrant secret life",
+          "detail": "Passionate, hidden, hers",
+          "tone": "positive"
+        }
+      ],
+      "callout": "Hidden from Laurel",
+      "calloutAt": 130,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "Hanna's two layers",
+      "action": "the cold surface lifts to show the secret life under it",
+      "payoff": "Hanna is hiding a life Laurel does not know"
+    },
+    "explainedBy": "Under the stranger Laurel sees, Hanna hides a vibrant secret life",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna is hiding a life Laurel does not know",
+      "concreteVisual": "Cutaway strata: a stranger on top, a vibrant secret life underneath",
+      "onScreenText": "A stranger to her mother / A vibrant secret life",
+      "relationToPrevious": "Turns from the bare flat to what it hides",
+      "addedInformation": "The hidden layer is the narration's secret life"
+    }
+  },
+  {
+    "i": 100,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Hidden from her mother",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Hannah hides new love and happiness from a mother who would smother it",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hannah keeps her happiness from her mother",
+      "concreteVisual": "Hannah, worried, alone",
+      "onScreenText": "Hidden from her mother",
+      "relationToPrevious": "Keeps her secret and changes her face to fear of the mother",
+      "addedInformation": "The fear is the narration's reason for hiding"
+    }
+  },
+  {
+    "i": 101,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "IF LAUREL SAW HER JOY",
+      "root": {
+        "label": "Hanna's joy"
+      },
+      "branches": [
+        {
+          "label": "Judge it",
+          "sublabel": "Against the past",
+          "tone": "danger",
+          "at": 120
+        },
+        {
+          "label": "Infect it",
+          "sublabel": "With her own grief",
+          "tone": "danger",
+          "at": 230
+        }
+      ],
+      "callout": "Laurel sees: difficult, cold",
+      "calloutAt": 340,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Hanna's forecast of Laurel's reaction",
+      "action": "both branches end badly for her joy",
+      "payoff": "Hanna hides her joy, and Laurel reads her as cold"
+    },
+    "explainedBy": "Hanna expects Laurel to judge her joy or infect it, so Laurel only sees a cold daughter",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna expects Laurel to judge or spoil her joy",
+      "concreteVisual": "Branch tree from Hanna's joy: judge it / infect it; callout Laurel sees: difficult, cold",
+      "onScreenText": "Judge it / Infect it / Laurel sees: difficult, cold",
+      "relationToPrevious": "Explains why the secret life stays hidden",
+      "addedInformation": "Shows both feared outcomes and the cold picture they leave Laurel"
+    }
+  },
+  {
+    "i": 102,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "LAUREL'S VERDICT",
+      "layout": "borderless",
+      "nodeShape": "filmStrip",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "No pet cat",
+          "tone": "neutral"
+        },
+        {
+          "label": "No clutter",
+          "tone": "neutral"
+        },
+        {
+          "label": "An empty sink",
+          "tone": "neutral"
+        },
+        {
+          "label": "Empty inside",
+          "sublabel": "Laurel's conclusion",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Laurel's reading of the flat",
+      "action": "three absences add up to a verdict",
+      "payoff": "Laurel concludes her daughter is empty inside"
+    },
+    "explainedBy": "Laurel adds up the missing cat, clutter and mess and concludes Hanna is empty inside",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel concludes her daughter is empty inside",
+      "concreteVisual": "Film-strip equation: no pet cat + no clutter + an empty sink -> empty inside",
+      "onScreenText": "No pet cat + No clutter + An empty sink -> Empty inside",
+      "relationToPrevious": "Turns the bare flat into Laurel's verdict",
+      "addedInformation": "Shows the clues Laurel misreads and the inference she draws"
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Hannah withholds her joy",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna",
+      "laurel"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "Hannah withholds her joy as a defense against Laurel's grief, and Laurel misses it",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hannah withholds her joy as a defense against Laurel's grief",
+      "concreteVisual": "Hannah, blank-faced, withholds her joy while Laurel, sad, looks at her and misses it",
+      "onScreenText": "Hannah withholds her joy",
+      "relationToPrevious": "Shows Hannah's defense while Laurel misses it",
+      "addedInformation": "The defense is Hannah's, shown on her face, not Laurel's"
+    }
+  },
+  {
+    "i": 104,
+    "cast": [],
+    "concept": "cafe",
+    "set": "cafe",
+    "callout": {
+      "text": "Wednesday evening, Islington",
+      "style": "highlight"
+    },
+    "explainedBy": "A Wednesday evening at an Islington restaurant.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The scene opens at an Islington restaurant",
+      "concreteVisual": "The cafe set with the cafe icon",
+      "onScreenText": "Wednesday evening, Islington",
+      "relationToPrevious": "Moves to a new place",
+      "addedInformation": "Time and place of the meeting"
+    }
+  },
+  {
+    "i": 105,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Hanna arriving for her birthday",
+      "action": "radiant arrival, new haircut, quiet expectation",
+      "payoff": "Hanna comes expecting a quiet celebration"
+    },
+    "explainedBy": "Hanna arrives radiant with a new haircut, expecting a quiet birthday",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna arrives expecting a quiet birthday",
+      "concreteVisual": "Three text panels: arrives radiant, a fresh haircut, expects a quiet night",
+      "onScreenText": "Arrives radiant / A fresh haircut / Expects a quiet night",
+      "relationToPrevious": "Opens the birthday dinner at the Islington restaurant",
+      "addedInformation": "Sets up what Hanna expects before it is taken away"
+    },
+    "timelineScrub": {
+      "title": "THE BIRTHDAY DINNER",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "Arrives radiant",
+          "detail": "Hanna, glowing",
+          "tone": "positive",
+          "at": 55
+        },
+        {
+          "time": "Then",
+          "title": "A fresh haircut",
+          "detail": "Newly cut and stylish",
+          "tone": "positive",
+          "at": 125
+        },
+        {
+          "time": "Last",
+          "title": "Expects a quiet night",
+          "detail": "A small celebration",
+          "tone": "accent",
+          "at": 205
+        }
+      ]
+    }
+  },
+  {
+    "i": 106,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "diagonal",
+      "wipeAt": 200,
+      "endSplit": 0.5,
+      "before": {
+        "label": "WHAT HANNA EXPECTED",
+        "headline": "Dinner for two",
+        "points": [
+          "Their shared birthday",
+          "Time to reconnect"
+        ],
+        "tone": "positive"
+      },
+      "after": {
+        "label": "WHAT LAUREL PLANNED",
+        "headline": "A big gathering",
+        "points": [
+          "The birthday hijacked"
+        ],
+        "tone": "danger"
+      },
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "The shared birthday dinner",
+      "action": "the wipe replaces dinner for two with a big gathering",
+      "payoff": "Laurel has hijacked the birthday"
+    },
+    "explainedBy": "Laurel turns the intimate birthday dinner into a big gathering of her own",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel takes over the birthday dinner",
+      "concreteVisual": "Diagonal wipe: Dinner for two gives way to A big gathering",
+      "onScreenText": "Dinner for two -> A big gathering",
+      "relationToPrevious": "Follows Hanna arriving for a quiet celebration",
+      "addedInformation": "Shows the plan Hanna expected and what replaced it"
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Introduce Floyd to the family",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel",
+      "floyd"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel gathers the family to introduce Floyd, her new boyfriend",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel brings Floyd to the family dinner",
+      "concreteVisual": "Laurel, happy, talking, with Floyd smirking beside her",
+      "onScreenText": "Introduce Floyd to the family",
+      "relationToPrevious": "Gives the purpose of the gathering",
+      "addedInformation": "Floyd's role is the narration's"
+    }
+  },
+  {
+    "i": 108,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "AT THE SAME TABLE",
+      "layout": "borderless",
+      "columns": [
+        {
+          "heading": "Hanna",
+          "tag": "HEAD OF THE TABLE",
+          "bullets": [
+            "Forced into the seat",
+            "Enduring the spectacle"
+          ],
+          "highlight": "Enduring",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Laurel",
+          "tag": "DOWN THE TABLE",
+          "bullets": [
+            "A sudden new romance",
+            "Giddy"
+          ],
+          "highlight": "Giddy",
+          "tone": "accent"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Hanna and Laurel at the dinner table",
+      "action": "Hanna's forced seat faces Laurel's giddy romance",
+      "payoff": "The birthday girl endures her mother's show"
+    },
+    "explainedBy": "Hanna sits at the head of the table enduring her mother's giddy new romance",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna is made to sit through her mother's new romance",
+      "concreteVisual": "Full-bleed split: Hanna at the head of the table, enduring / Laurel, giddy with a new romance",
+      "onScreenText": "Hanna: Enduring / Laurel: Giddy",
+      "relationToPrevious": "Moves from the hijacked plan to the table itself",
+      "addedInformation": "Contrasts the two moods at one table"
+    }
+  },
+  {
+    "i": 109,
+    "concept": "birthday-cake",
+    "diagram": null,
+    "callout": {
+      "text": "Her own birthday",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna"
+    ],
+    "expression": "blank",
+    "action": "sit",
+    "explainedBy": "Her own birthday is eclipsed by Laurel's romance",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hannah's birthday is overshadowed",
+      "concreteVisual": "Hannah, sad, seated, with a birthday cake icon",
+      "onScreenText": "Her own birthday",
+      "relationToPrevious": "Stays with Hannah seated at the table",
+      "addedInformation": "The eclipse is the narration's word"
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Her own happiness with tea",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "cup",
+    "explainedBy": "Hannah hides that she has found her own happiness with tea",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hannah's private happiness is tea",
+      "concreteVisual": "Hannah, happy, holding a cup",
+      "onScreenText": "Her own happiness with tea",
+      "relationToPrevious": "Shows the private happiness Hannah keeps",
+      "addedInformation": "The cup is the tea the narration names"
+    }
+  },
+  {
+    "i": 111,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "WHAT HANNA HIDES",
+      "leftLabel": "WHAT SHE SHOWS",
+      "rightLabel": "WHAT SHE HIDES",
+      "leftWeights": [
+        {
+          "label": "Sits through dinner",
+          "weight": 0.8,
+          "tone": "neutral",
+          "at": 20
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Deep resentment",
+          "weight": 1.4,
+          "tone": "danger",
+          "at": 50
+        },
+        {
+          "label": "Ignored for a decade",
+          "weight": 1.4,
+          "tone": "danger",
+          "at": 170
+        },
+        {
+          "label": "A forced family tableau",
+          "weight": 1.2,
+          "tone": "danger",
+          "at": 310
+        }
+      ],
+      "verdict": "Kept behind her silence",
+      "verdictAt": 370,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Hanna's hidden resentment",
+      "action": "the hidden side outweighs the calm she shows",
+      "payoff": "Her resentment is heavier than her silence shows"
+    },
+    "explainedBy": "Hanna hides a resentment built from a decade of neglect and a forced blended family",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna resents the family her mother forces on her",
+      "concreteVisual": "A scale: Sits through dinner vs Deep resentment, Ignored for a decade, A forced family tableau; the hidden side drops",
+      "onScreenText": "What she shows / What she hides",
+      "relationToPrevious": "Turns from the giddy table to what Hanna keeps inside",
+      "addedInformation": "Weighs the calm surface against the reasons for her resentment"
+    }
+  },
+  {
+    "i": 112,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "HANNA'S NEW BRIGHTNESS",
+      "columns": [
+        {
+          "heading": "Laurel sees",
+          "tag": "ON THE SURFACE",
+          "bullets": [
+            "Brightness",
+            "A fresh haircut"
+          ],
+          "highlight": "Brightness",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Laurel misses",
+          "tag": "HANNA'S OWN",
+          "bullets": [
+            "Her growth",
+            "Her happiness"
+          ],
+          "highlight": "Her own life",
+          "tone": "accent"
+        },
+        {
+          "heading": "Laurel's reason",
+          "tag": "HER BELIEF",
+          "bullets": [
+            "Her romance with Floyd"
+          ],
+          "highlight": "Floyd",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Laurel's reading of Hanna's change",
+      "action": "three columns: what Laurel sees, what she misses, and the cause she credits",
+      "payoff": "Laurel credits her own romance for Hanna's happiness"
+    },
+    "explainedBy": "Laurel sees Hanna's brightness and haircut, not her growth, and credits her own new romance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel credits her romance for Hanna's happiness.",
+      "concreteVisual": "Three columns: sees (brightness, haircut), misses (growth, happiness), reason (Floyd).",
+      "onScreenText": "Laurel's reason: Floyd",
+      "relationToPrevious": "From Hanna's resentment at the table to Laurel's misreading.",
+      "addedInformation": "Shows the cause Laurel wrongly assigns."
+    }
+  },
+  {
+    "i": 113,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "laurel",
+          "hanna"
+        ]
+      },
+      "events": [
+        {
+          "on": "bypasses",
+          "do": "apart",
+          "who": [
+            "hanna",
+            "laurel"
+          ]
+        }
+      ]
+    },
+    "explainedBy": "Hannah bypasses Laurel and builds her own circle",
+    "noVisual": null
+  },
+  {
+    "i": 114,
+    "cast": [],
+    "concept": null,
+    "liveInterface": {
+      "variant": "chatThread",
+      "title": "HANNA'S ALLY",
+      "subtitle": "Her father, Paul",
+      "channels": [
+        {
+          "name": "Paul",
+          "preview": "Fiercely loyal",
+          "tone": "positive",
+          "at": 110
+        },
+        {
+          "name": "Paul",
+          "preview": "Her secrets",
+          "tone": "positive",
+          "at": 170
+        },
+        {
+          "name": "Paul",
+          "preview": "Her fears",
+          "tone": "positive",
+          "at": 205
+        },
+        {
+          "name": "Paul",
+          "preview": "Her life",
+          "tone": "positive",
+          "at": 240
+        },
+        {
+          "name": "Laurel",
+          "preview": "No messages",
+          "count": 0,
+          "tone": "danger",
+          "at": 300
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "live-interface",
+      "subject": "Hanna's thread with Paul",
+      "action": "messages flow to Paul while Laurel's thread stays empty",
+      "payoff": "Hanna confides in Paul and leaves Laurel in the dark"
+    },
+    "explainedBy": "Hanna shares her secrets, fears and life with Paul while Laurel gets nothing",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna bonds with her father Paul and keeps Laurel in the dark",
+      "concreteVisual": "A chat thread: Paul receives her secrets, fears and life; Laurel's thread reads No messages",
+      "onScreenText": "Paul: Her secrets / Her fears / Her life · Laurel: No messages",
+      "relationToPrevious": "Follows Hanna bypassing Laurel completely",
+      "addedInformation": "Shows the alliance with Paul and Laurel's empty thread"
+    }
+  },
+  {
+    "i": 115,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "HANNA'S HIDDEN LIFE",
+      "subtitle": "What survives under the grief",
+      "items": [
+        {
+          "label": "Every room",
+          "detail": "Filled by Ellie's absence",
+          "level": 0.9,
+          "tone": "neutral"
+        },
+        {
+          "label": "Joy in the open",
+          "detail": "Snuffed out",
+          "level": 0.6,
+          "tone": "danger",
+          "changeAt": 110
+        },
+        {
+          "label": "A life built underground",
+          "detail": "In secret",
+          "level": 0.3,
+          "tone": "accent",
+          "changeAt": 220
+        }
+      ],
+      "callout": "Her identity grows out of sight",
+      "calloutAt": 300,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "how Hanna builds an identity",
+      "action": "a cutaway goes from the grief above to a secret life below",
+      "payoff": "Hanna must build her life underground"
+    },
+    "explainedBy": "When a sister's disappearance takes all the air, Hanna has to build her life in secret.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna builds her identity in secret.",
+      "concreteVisual": "Strata: every room full of grief, joy snuffed out, a life built underground.",
+      "onScreenText": "A life built underground",
+      "relationToPrevious": "From her bond with Paul to why it had to be secret.",
+      "addedInformation": "Shows the layers that force her life underground."
+    }
+  },
+  {
+    "i": 116,
+    "cast": [],
+    "concept": "portrait",
+    "set": "room",
+    "callout": {
+      "text": "Snuffed out by grief",
+      "style": "highlight"
+    },
+    "explainedBy": "In the house, anything said in the open is snuffed out by grief for Ellie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Grief for Ellie smothers the house",
+      "concreteVisual": "Ellie's framed portrait in the room",
+      "onScreenText": "Snuffed out by grief",
+      "relationToPrevious": "Inside the grieving house",
+      "addedInformation": "Grief for the lost girl rules the home"
+    }
+  }
+]

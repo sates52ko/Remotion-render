@@ -1,0 +1,28 @@
+{
+  "productionBase": "12ffda6a44a423148db5fd92f3437e7cdeba0229",
+  "from": "origin/god-mode",
+  "at": "2026-11-26T16:17:44.149Z",
+  "worktree": "wt-book-then-she-was-gone-10x",
+  "pinnedBy": "production-guard (book start: preview-state pin)",
+  "allowBehind": "Operator 2026-11-25: produce then-she-was-gone on dev/antidote-v2 (df565aea, Antidote 10x v2), not on origin/god-mode; do not fall back to old code",
+  "previous": [
+    {
+      "productionBase": "df565aea9f3b0f9fbfb992da611eacbc37f365e4",
+      "until": "2026-11-26T05:28:51.956Z"
+    },
+    {
+      "productionBase": "96d8e9f55f7f4ffbded36143ec796dc3d39c358b",
+      "until": "2026-11-26T12:01:22.171Z"
+    },
+    {
+      "productionBase": "a6c7289c1a492041dd51bba9159ffa110b721d67",
+      "until": "2026-11-26T16:17:44.149Z"
+    }
+  ],
+  "moved": {
+    "from": "a6c7289c",
+    "to": "12ffda6a",
+    "at": "2026-11-26T16:17:44.149Z",
+    "why": "Operator 2026-11-26: ArtDirectionProvider + fail-closed thumbnail-check + 10x readcheck/ComicStrip/chapter-arc fixes pushed to origin/god-mode 12ffda6a; move the book pin (operator-approved)"
+  }
+}

@@ -1,0 +1,1288 @@
+{
+  "date": "2026-11-26T17:30:21.468Z",
+  "n": 296,
+  "total": 296,
+  "sources": [
+    "readcheck",
+    "recheck-1",
+    "recheck-2",
+    "recheck-3",
+    "recheck-4",
+    "recheck-5",
+    "recheck-6",
+    "recheck-7",
+    "recheck-8"
+  ],
+  "evidence": {
+    "status": "OK",
+    "signals": [
+      "full run: judges 1: 140 items written 85 s after the input (a fresh reader needs >= 105 s)",
+      "full run: readers 2: 140 items written 72 s after the input (a fresh reader needs >= 105 s)",
+      "full run: judges 2: 140 items written 92 s after the input (a fresh reader needs >= 105 s)"
+    ]
+  },
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "then-she-was-gone-prep-778e66179236",
+    "folders": {
+      "readcheck": {
+        "run": "then-she-was-gone-prep-778e66179236",
+        "evidenceSha256": "1da0f23464949a811e885c4771dcdeb23f82f70bb532221152ae8a8bc1cfb929"
+      },
+      "recheck-2": {
+        "run": "then-she-was-gone-prep-1cad77b8ff65",
+        "evidenceSha256": "7a492da5a6bf28213e25d005fbcd4c151bff27ec7c1b262ff7360da115998069"
+      },
+      "recheck-3": {
+        "run": "then-she-was-gone-prep-b972b7fdfd49",
+        "evidenceSha256": "f87e4a5022dd2c477c6314e0748a3cba5d876d44e39b726d76ea4f40e745ecf5"
+      },
+      "recheck-4": {
+        "run": "then-she-was-gone-prep-501b0b0dad80",
+        "evidenceSha256": "d343eda1a9e5cffdec1467f1394ee0c749e47575d3e6c339932d8223925318d5"
+      },
+      "recheck-5": {
+        "run": "then-she-was-gone-prep-91461d508647",
+        "evidenceSha256": "a932648c6205ebbdf8b8fbf29cf6dbc1271452af59aa13c3f78c2bfe704e1e22"
+      },
+      "recheck-6": {
+        "run": "then-she-was-gone-prep-c84778d2f13c",
+        "evidenceSha256": "2bdf7b81aefc8720281767b4d4c305f863e49a9de9d226790ef0face4b7c9575"
+      },
+      "recheck-7": {
+        "run": "then-she-was-gone-prep-624d1aad3387",
+        "evidenceSha256": "d7b6d0e31c57b4f69576cccdaa88879a86cdfe207a9b38a06c7fd752f26ace02"
+      },
+      "recheck-8": {
+        "run": "then-she-was-gone-prep-18eaaef3d5eb",
+        "evidenceSha256": "8b2accf7e6a6f412d40b2177482069a3ab760035a34607722866e9b89d439c84"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 163,
+    "NEUTRAL": 133,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {
+    "nothing-fits": 118,
+    "words": 13,
+    "icon": 1,
+    "place": 1
+  },
+  "iconBlame": {
+    "birthday-cake": 1
+  },
+  "beats": [
+    {
+      "i": 2,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen; the replacements idea is not carried.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 5,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "The gallery of portraits idea has no visual.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 6,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Portrait one, Ellie 2005, not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 9,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 12,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 16,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "January 2005 fracture not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 19,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "The B+ complaint has no visual.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 22,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Sixth-former suggestion not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 23,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Label reads as if the mother offers the pocket money, not Ellie.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Offering her own pocket money"
+    },
+    {
+      "i": 24,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 26,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 29,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 32,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Street and charity shop setting not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 33,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague 'change ellie'; storm and walking alone are not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 35,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Coat and bag details not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 38,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 41,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 43,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Social conditioning point not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 45,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Bag of bones ending not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 46,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Portrait two intro not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 48,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 49,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 52,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 55,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Photographs not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 58,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Passport moment not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 61,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 62,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 64,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Runaway theory not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 66,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Total finality shown, but Paul seeing her revulsion is missed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Total finality"
+    },
+    {
+      "i": 67,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Hand rejection not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 69,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Cafe after the funeral not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 70,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 72,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague 'change floyd'; sitting close and compliment not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 73,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Cake offer not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 75,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 77,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 79,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 81,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Curator cleaning not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 82,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 85,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Portrait three intro not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 86,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess is vague about what Hanna drive is and only echoes the on-screen phrases.",
+      "from": "recheck-6",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 88,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 89,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Work days not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 91,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 94,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Pristine kitchen not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 96,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Flower wrapper not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 99,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Secret life not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 101,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 102,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 105,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Radiant arrival not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 106,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Hijacked birthday not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 108,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 109,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Sitting alone on a sad birthday misses that Hannah is quietly indifferent to her mother's staged world, so the mood reads different from the narration.",
+      "from": "recheck-2",
+      "concept": "birthday-cake",
+      "callout": "Her own birthday"
+    },
+    {
+      "i": 111,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Resentment not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 112,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess garbles who misses what; it never says Laurel credits her own romance for Hanna brightness.",
+      "from": "recheck-6",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 114,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Father allegiance not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 117,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Father moving on not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 118,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Portrait four intro not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 119,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 121,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 124,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 126,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Awkward compliance is captured, but the hidden horror and brokenness beneath the mask is missing.",
+      "from": "recheck-2",
+      "concept": null,
+      "callout": "Useless, bumbling compliance"
+    },
+    {
+      "i": 127,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 129,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Warrior contrast not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 130,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 133,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 137,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Shame about happy life not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 140,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen; viewer learns nothing about Paul and the socks.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 142,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Triage medic metaphor has no picture.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 144,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the boyfriend not moving on.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 145,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the replica and portrait five.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 148,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for polluting Ellie's memory.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 151,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Bedroom scene has no picture.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 154,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the teasing exchange.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 157,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Ellie seeing him as a prize.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 159,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the mirror idea.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 160,
+      "verdict": "NEUTRAL",
+      "blame": "place",
+      "why": "Viewer thinks Laurel sits at the cafe, but she is driving past it.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 161,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the man with dog outside Tesco.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 164,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the T and Theo revelations.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 166,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for gripping the wheel.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 168,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for polluting memory and secondhand prize.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 171,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the perfect copy teaser.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 172,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for portrait six introduction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 175,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for pushing Sarah Jade out.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 178,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Poppy at the counter.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 181,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the coffee machine and algebra.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 186,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the birthday toast.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 189,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for champagne and commanding the room.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 192,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for occupying all emotional space.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 195,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for portrait seven introduction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 199,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for meeting SJ in the living room.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 202,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the perimeter of neglect.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 203,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Craving has no object; Floyd's validation and the wall are lost.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 205,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the screaming demand to be noticed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 208,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for SJ sobbing and grabbing her coat.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 211,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for SJ's googling and investigation.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 214,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Something confirms suspicions, but no one is shown as SJ.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 215,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the alarm bell metaphor.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 216,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess reads as always-the-messy-one question, losing the truth-seeing point.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 217,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing was on screen and the viewer correctly said they could not tell, so no meaning was carried or contradicted.",
+      "from": "recheck-5",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 218,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Blue introduction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 221,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for isolating Jake and the dinner.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 222,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing was on screen, so the sour-faced Poppy at the family meal was not conveyed, though nothing wrong was believed either.",
+      "from": "recheck-5",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 224,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for silence as defense.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 229,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for hiding something and Laurel's mockery.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 230,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing was on screen, so the viewer could infer nothing, which is vague but does not contradict the narration.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 232,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Laurel dismissing the warning.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 235,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Blue's risk to warn Laurel.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 236,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for portrait nine, Noel.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 237,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess says Noelle controls Floyd but omits the baby-as-chain idea.",
+      "from": "recheck-6",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 239,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the trail of devastation.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 242,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Noel snapping.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 245,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for people as tools.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 248,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the basement description.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 249,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Noel walking past nuggets misses that she brings Ellie supper in the basement.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Cheap chicken nuggets"
+    },
+    {
+      "i": 250,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing was on screen, so the viewer could infer nothing, which is vague but does not contradict the narration.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 251,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Noel striking Ellie.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 252,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess adds a locked basement door not in the narration, though the hidden-cruelty-behind-miracle idea survives.",
+      "from": "recheck-6",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 254,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Ellie seeing Noel as destruction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 257,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for Noel walking away.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 261,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for portrait ten introduction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 265,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for lying daily.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 266,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for prioritizing forgiveness over truth.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 269,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the DNA test and stalking.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 273,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for planting the bag.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 276,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Blank screen for the confession video setup.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 280,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Nothing on screen; the freezer burial confession is not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 283,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "No visual; the fake noble love versus cowardice is not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 284,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Empty screen gave the viewer no reading of Poppy's view of her father, so the guess is vague rather than wrong.",
+      "from": "recheck-5",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 286,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "No visual for the plot-coincidence criticism.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 291,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "No visual for Laurel changing most among the portraits.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 292,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Bus ride after the wedding with Poppy is not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 295,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "No visual for the healing versus last substitution line.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 6,
+    "wrong": [],
+    "neutral": [
+      {
+        "i": 126,
+        "code": "ECHO_ONLY_CARRIER"
+      }
+    ],
+    "cleared": 5,
+    "unread": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "own-drawings/1",
+  "drawings": {
+    "person:laurel": {
+      "n": 1,
+      "hash": "31f235be42037b97",
+      "intended": "LAUREL MACK",
+      "accepted": [
+        "woman",
+        "cardigan",
+        "greying hair",
+        "mother"
+      ],
+      "answer": "woman with long brown hair, gray blazer",
+      "ok": true
+    },
+    "person:ellie": {
+      "n": 2,
+      "hash": "8c0588ac9fd32251",
+      "intended": "ELLIE MACK",
+      "accepted": [
+        "girl",
+        "long hair",
+        "teenager",
+        "schoolgirl"
+      ],
+      "answer": "girl with brown hair, red dress, hairclip",
+      "ok": true
+    },
+    "person:hanna": {
+      "n": 3,
+      "hash": "43651725c4a31857",
+      "intended": "HANNA MACK",
+      "accepted": [
+        "woman with bun",
+        "dark coat",
+        "young woman"
+      ],
+      "answer": "bearded dark-haired man in black coat",
+      "ok": true
+    },
+    "person:floyd": {
+      "n": 4,
+      "hash": "99032888d421b225",
+      "intended": "FLOYD DUNN",
+      "accepted": [
+        "man with glasses",
+        "jacket",
+        "grey haired man"
+      ],
+      "answer": "older man, gray hair, glasses, green jacket",
+      "ok": true
+    },
+    "person:poppy": {
+      "n": 5,
+      "hash": "8f0651f0368ac048",
+      "intended": "POPPY",
+      "accepted": [
+        "little girl",
+        "ponytail",
+        "child"
+      ],
+      "answer": "young girl with blonde ponytail, blue dress",
+      "ok": true
+    },
+    "person:noel": {
+      "n": 6,
+      "hash": "5ddb61ca424f91aa",
+      "intended": "NOELLE DONNELLY",
+      "accepted": [
+        "woman in a hood",
+        "raincoat",
+        "hooded coat",
+        "hood up"
+      ],
+      "answer": "blonde woman in olive apron",
+      "ok": false,
+      "rounds": 2,
+      "fallback": true
+    },
+    "person:theo": {
+      "n": 7,
+      "hash": "6f59e102b8529063",
+      "intended": "THEO GOODMAN",
+      "accepted": [
+        "young man",
+        "hoodie",
+        "curly hair"
+      ],
+      "answer": "young man, dark hair, gray hoodie",
+      "ok": true
+    },
+    "person:paul": {
+      "n": 8,
+      "hash": "1ec4bc29bce9d7cf",
+      "intended": "PAUL MACK",
+      "accepted": [
+        "bearded man",
+        "man with tie",
+        "father"
+      ],
+      "answer": "bald bearded man in brown suit",
+      "ok": true
+    }
+  },
+  "named": 7,
+  "total": 8,
+  "fallbacks": 1,
+  "slug": "then-she-was-gone",
+  "at": "2026-11-23T06:21:31.261Z"
+}

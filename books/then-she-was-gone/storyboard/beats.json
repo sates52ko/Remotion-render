@@ -1,0 +1,2958 @@
+{
+  "book": {
+    "slug": "then-she-was-gone",
+    "title": "Then She Was Gone",
+    "author": "Lisa Jewell",
+    "genre": "thriller"
+  },
+  "instructions": [
+    "Rewrite `callout.text` per beat: 2-4 words, concrete and loaded, in the viewer's second person where it fits.",
+    "NEVER an abstract noun (ORGANIZATION / MANAGEMENT / INFORMATION). Prefer what a person can see, feel or do.",
+    "Set callout to null when the beat has no hook worth stamping — silence is a valid, good choice.",
+    "`style`: reveal (3-4 words) | highlight (2 words) | strike (a negation) | outline (a real stat) | box | stack.",
+    "`concept`: the beat's LITERAL subject → a scene icon that gets shown instead of talking heads.",
+    "  Allowed: alarmClock, butterfly, subway, car, coffee, codeWindow, rocketLaunch, funnelMetrics, dollarExchange, laptopMockup, crash, ledge, water, grave, medical, notes, phone, school, home, family, road, storm, star, heart, fire, tree, mask, mirror, key, law, photo, war, game, work, city, food, coin, door, lightbulb, shadowSelf, puppeteer, chains, compass, dominoCascade, icebergDepth, funnelTrap, thirtyTyrants, ringOfGyges, caveAllegory, shipOfState, tripartiteSoul, kallipolis, fiveRegimes, mythOfEr, boulder, summit, ladder, crack, clock, balance, book, shield, trophy, hourglass, sword, target, magnifier, wallet, gift, inheritance, zap. Set a string when the beat is really ABOUT that thing",
+    "  (a crash, a home, a lake, a wall of notes); null or omitted = no icon (there is no lexicon",
+    "  fallback). Use only when it's the true subject — a wrong icon is worse than none. The icon must",
+    "  be in the book's story-bible visualProvenance.allowedMotifs or it is dropped with a warning.",
+    "`set` (optional): the location, one of the renderer's sets — honoured as written.",
+    "`shotOverride` (optional): force a framing. `shot` above is only the director's first guess.",
+    "The director stages the body itself from the concept — a beat whose subject is a",
+    "  letter/phone/key/photo/book/coin/mirror/mask/idea/compass/meal/love/job/court puts that",
+    "  object IN THE LEAD'S HAND, an outdoor beat can make them walk across the set, an indoor",
+    "  one can sit them down. You do not author that here; naming the right `concept` is what",
+    "  turns it on. A wrong concept costs more now than it used to.",
+    "`diagram`: an EXPLANATORY self-drawing graphic that BECOMES the whole beat (cast dropped,",
+    "  no callout). Author one ONLY on a genuinely conceptual beat; leave null otherwise — a weak",
+    "  or generic diagram is worse than none. Use at most a handful across the whole book. Shape:",
+    "  { type, title?, labels[], values[] }, where type is one of:",
+    "    sorter   — a taxonomy sorting into buckets. labels = the 2-4 category names; values = optional per-bucket counts.",
+    "    matchWave— two rhythms drifting then locking into sync. labels[0] = the payoff word (e.g. IN SYNC).",
+    "    flow     — a cause→effect chain. labels = 2-3 ordered node names.",
+    "    spectrum — a marker on a continuum. labels = [leftPole, rightPole]; values = [0..1 marker position].",
+    "  Keep labels 1-2 words. Best on the beat that first NAMES a framework, a sync, a process or a scale.",
+    "`concept: null` means NO icon on this beat (not even a decorative one); omitting the key is ALSO no icon — there is no lexicon fallback (Faz 0). Every beat needs an entry; an unauthored beat fails gate-authorship.",
+    "Do not leave a beat silent when its narration names concrete things (a list of objects, an anecdote, a person doing something) — give it the narrator's phrase or the object.",
+    "Prefer the narrator's concrete phrase over an abstract metaphor label (\"PAUSE THE IMPULSE\", not \"A LOGIC FILTER\").",
+    "A diagram title must not promise a shape its type cannot draw (no \"LOOP\"/\"PYRAMID\" on a straight flow).",
+    "Keep the array order and length. Then re-run plan-antidote with --callouts=<this file>.",
+    "After re-running: node scripts/audit-antidote.js --slug=<slug> — it FAILS the plan if any",
+    "  window runs longer than 8s with nothing happening on screen."
+  ],
+  "beats": [
+    {
+      "i": 0,
+      "shot": "lowAngle",
+      "beat": "title",
+      "concept": null,
+      "diagram": null,
+      "narration": "Your 15-year-old walks to the library in May and never comes back. When are you allowed to stop looking? That is the terrifying question at the center of our deep dive into the source material today.",
+      "callout": {
+        "text": "STOP",
+        "style": "box"
+      }
+    },
+    {
+      "i": 1,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "In Lisa Jules Then She Was Gone, the darkest truth is that nobody actually searches for Ellie Mack.",
+      "callout": {
+        "text": "TRUTH IS THAT NOBODY",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 2,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Instead, uh each person holds tightly to a replacement for her and those replacements hide a horrific crime for 10 years.",
+      "callout": null
+    },
+    {
+      "i": 3,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You look at the setup and Laurel takes Poppy, Noel takes a baby, Theo takes Hannah,",
+      "callout": null
+    },
+    {
+      "i": 4,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and Floyd takes Laurel. The reader is fooled in the exact same way Laurel is. Basically, by desperately wanting the copy to be real.",
+      "callout": null
+    },
+    {
+      "i": 5,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Think of this story as a gallery for you to walk through. We will move through 10 portraits, person by person. The actual plot of this crime only appears where two portraits touch.",
+      "callout": {
+        "text": "MOVE",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 6,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Portrait one, Ellie, May 2005. I am stepping into Ellie's shoes for this one.",
+      "callout": {
+        "text": "2005",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 7,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "If she were to speak her core driving motivation aloud to you, she would say, \"I have to be perfect. I have to get an A in maths because I need to match Theo to keep this perfect love story alive.\" That is such a",
+      "callout": {
+        "text": "LOVE STORY",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 8,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "suffocating amount of pressure for a teenager. Imagine the crushing weight of being the family's golden girl. She isn't merely succeeding for her own academic fulfillment, you know.",
+      "callout": null
+    },
+    {
+      "i": 9,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is actively performing a flawless existence for an And Theo isn't just some high school",
+      "callout": null
+    },
+    {
+      "i": 10,
+      "shot": "wide",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Not at all. Theo Goodman is the best looking boy in her London school. He is a teenager who is self- assured, genuinely",
+      "callout": null
+    },
+    {
+      "i": 11,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "kind, and like secure enough to kiss his mother on the cheek in public. Ellie's obsession with him and her absolute terror of not being intellectually worthy of him acts",
+      "callout": {
+        "text": "SECURE ENOUGH",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 12,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "as the catalyst that sets the entire tragedy in Well, let's look at the collateral damage of that mindset. I will speak for the people her actions unintentionally hurt. Ellie's desperate,",
+      "callout": null
+    },
+    {
+      "i": 13,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "clawing need to maintain that flawless facade creates a catastrophic ripple effect. It really just radiates outward and destroys everything around her. By insisting on perfection at",
+      "callout": null
+    },
+    {
+      "i": 14,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "any cost, she walks blindly into a trap, abandoning her mother, Laurel, to a decade of suspended animation.",
+      "callout": {
+        "text": "ANY COST",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 15,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She leaves her family to rot in the uncertainty of her absence, all because she just couldn't tolerate the idea of being less than stellar.",
+      "callout": null
+    },
+    {
+      "i": 16,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "The first real fracture in that flawless facade happens in January 2005. Picture the scene in present tense.",
+      "callout": {
+        "text": "FIRST REAL",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 17,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a bleak winter day. Ellie flounces into the hallway of their home. The heavy front door clicking shut behind Total teenage angx mode. Exactly. That highly specific, intense",
+      "callout": null
+    },
+    {
+      "i": 18,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "adolescent frustration. She drops her black and red polka dot pencil case and her rucks sack onto the wooden settle. Laurel is standing right there at the kitchen sink. Ellie loudly complains that her",
+      "callout": null
+    },
+    {
+      "i": 19,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "maths teacher is [&nbsp;__&nbsp;] because she got a B+ on a recent test. A B+ is barely a failure, but to her it is the end of the world.",
+      "callout": null
+    },
+    {
+      "i": 20,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is panicked. She insists she's going to fail her GCES, those massive exams that basically dictate a British teenager's entire academic future.",
+      "callout": null
+    },
+    {
+      "i": 21,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "She demands a tutor. Laurel, who is highly practical and acutely aware of the family's tight finances, suggests the afterchool maths club instead, or even just paying a slightly",
+      "callout": null
+    },
+    {
+      "i": 22,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "older student to help out. Yeah, Laurel suggests paying a sixth former a few pounds and a slice of cake to help her study, but Ellie completely refuses.",
+      "callout": null
+    },
+    {
+      "i": 23,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She demands a real professional tutor, pushing and pushing her mother, even offering to use her own pocket money, acting entirely blind to the financial reality of her parents.",
+      "callout": {
+        "text": "OWN POCKET MONEY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 24,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Underneath all that noise, Ellie hides her deep, agonizing insecurity about not being good enough for Theo. The outburst in the hallway isn't actually about the maths teacher, and it isn't really about the",
+      "callout": null
+    },
+    {
+      "i": 25,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "grade. It is entirely about the fear of the mask slipping, right? It is her terrifying internal realization that she might be fundamentally flawed.",
+      "callout": null
+    },
+    {
+      "i": 26,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "She hides the fear that if she slips academically, the illusion of her perfection will shatter and she will no longer be the prize that Theo deserves.",
+      "callout": {
+        "text": "HIDES THE FEAR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 27,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And Laurel, standing at that sink, sees her merely as a flawless, ambitious child.",
+      "callout": null
+    },
+    {
+      "i": 28,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel's perception is entirely blinded by the glow of her youngest daughter. She doesn't see a spoiled nature in that moment, nor does she see an irrational",
+      "callout": null
+    },
+    {
+      "i": 29,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "consuming panic. She just sees a dedicated student who wants to excel.",
+      "callout": null
+    },
+    {
+      "i": 30,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Because she wants to support that golden ambition, she yields to the demand and hires the tutor.",
+      "callout": null
+    },
+    {
+      "i": 31,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "The fatal consequence of yielding to that demand arrives a few months later in May 2005.",
+      "callout": null
+    },
+    {
+      "i": 32,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "We are on Straoud Green Road, right outside the Red Cross charity shop. It is 10:45 in the morning and the air is thick, humid, and heavy.",
+      "callout": null
+    },
+    {
+      "i": 33,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The kind of weather where you can feel a storm coming in. An electrical storm is actively brewing over London, painting the sky the color of a bruise. Ellie is walking alone.",
+      "callout": null
+    },
+    {
+      "i": 34,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She has her navy blue rucks sack, a black t-shirt, and Top Shop jeans. Suddenly, she runs into her former tutor, Noel Just a random, seemingly innocent encounter on the street.",
+      "callout": null
+    },
+    {
+      "i": 35,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Except Noel is wearing a heavy khaki waterproof coat. bizarrely inappropriate for the warm, muggy weather, and she's carrying a thick canvas bag from Daunt Books.",
+      "callout": null
+    },
+    {
+      "i": 36,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Noel steps into Ellie's path and offers her a practice maths paper, claiming her other students find it incredibly helpful for revision.",
+      "callout": null
+    },
+    {
+      "i": 37,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Ellie physically recoils. I mean, she does not want to go. She wants to go to the library. She wants to get her studying done. She wants to enjoy her precious summer.",
+      "callout": null
+    },
+    {
+      "i": 38,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Noel presses, telling her she lives just four doors down on Harlo Road.",
+      "callout": null
+    },
+    {
+      "i": 39,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Ellie hesitates. the dread pooling in her stomach, but she follows her. She turns that final corner, stepping inside the small, scruffy house with the flowering cherry tree in the front garden just to get the interaction over",
+      "callout": {
+        "text": "FOLLOWS",
+        "style": "box"
+      }
+    },
+    {
+      "i": 40,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "In that moment on the pavement, Ellie hides her intense annoyance and her profound physical discomfort.",
+      "callout": null
+    },
+    {
+      "i": 41,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She wears a polite nice person mask that she simply cannot drop, even when her brain is screaming at her. She ignores every single survival instinct, telling her to turn around and run toward the",
+      "callout": null
+    },
+    {
+      "i": 42,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "library. She walks into that house solely because she has been conditioned to be pleasant and compliant.",
+      "callout": null
+    },
+    {
+      "i": 43,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Think about how deeply ingrained that social conditioning is for young women today. Ignoring your own physical dread and overriding your gut instincts just to avoid seeming rude to a demanding adult. Noel Donnelly sees her entirely as",
+      "callout": {
+        "text": "YOUR GUT",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 44,
+      "shot": "medium",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "a vessel. She doesn't look at this bright, compliant 15-year-old girl and see a human being with a future. She sees a perfect untapped biological",
+      "callout": null
+    },
+    {
+      "i": 45,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "resource that is meant to be consumed and utilized for her own deranged ends. 10 years of waiting end not with a homecoming,",
+      "callout": {
+        "text": "10 YEARS",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 46,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "but with a plastic bag of bones in a woodland. Portrait two. Laurel, 10 years on. Putting myself in Laurel's mind, her central consuming desire is this.",
+      "callout": null
+    },
+    {
+      "i": 47,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I want to freeze time and keep my grief pure until my golden girl is returned to me.",
+      "callout": {
+        "text": "WANT TO FREEZE TIME",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 48,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She literally stops her entire life. Laurel stops cooking the very day Ellie vanishes.",
+      "callout": null
+    },
+    {
+      "i": 49,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "She completely stops interacting in any meaningful way with her remaining husband and her older daughter. She builds a hard, calcified identity entirely around being the tragic mother of a missing child,",
+      "callout": null
+    },
+    {
+      "i": 50,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "existing in a state of deliberate, punishing deprivation. She honestly believes that any moment of joy would be a terrible betrayal of her missing daughter.",
+      "callout": null
+    },
+    {
+      "i": 51,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Speaking for the people Laurel hurts in this state, particularly her husband Paul and her surviving daughter Hannah.",
+      "callout": {
+        "text": "PEOPLE LAUREL HURTS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 52,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "This frozen grief turns Laurel into an emotional black hole. She starves her surviving family of affection,",
+      "callout": null
+    },
+    {
+      "i": 53,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "presence, and She demands they stop living as well. She basically makes her own home a mausoleum that her living family is trapped inside.",
+      "callout": null
+    },
+    {
+      "i": 54,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We finally see this paralysis break inside a sterile police station room. Detective Dne sits across a scarred table from Laurel and Paul.",
+      "callout": {
+        "text": "BREAK",
+        "style": "box"
+      }
+    },
+    {
+      "i": 55,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "He slowly slides a series of 10 by8 glossy photographs out of a hardbacked brown The moment every parent of a missing child dreads.",
+      "callout": null
+    },
+    {
+      "i": 56,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He places them on the table. The photos show a navy blue rucks sack with a specific faded red logo, a black New Look t-shirt, a gray jersey bra dotted with small black polka dots, mud stained Topshop jeans,",
+      "callout": null
+    },
+    {
+      "i": 57,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "scruffy white trainers, a set of household keys attached to a plastic owl fob that used to light up, a black and red polka dot pencil case,",
+      "callout": null
+    },
+    {
+      "i": 58,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "all the items from that day. And then he places down a photograph of a passport. Laurel leans forward, pulling the photo closer. She realizes instantly with a jolt of adrenaline that it isn't Ellie's",
+      "callout": null
+    },
+    {
+      "i": 59,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "passport because Ellie's passport has been sitting in her drawer at home for a Exactly.",
+      "callout": null
+    },
+    {
+      "i": 60,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The passport in the dirt belongs to Hannah. Detective Dne watches their faces carefully.",
+      "callout": null
+    },
+    {
+      "i": 61,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The door opens. Another policeman enters and whispers urgently to Dne. Dne nods, adjusts his tie, turns back to the parents, and reveals the devastating truth.",
+      "callout": null
+    },
+    {
+      "i": 62,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They have found human remains alongside the But before those final words are spoken, Laurel hides",
+      "callout": null
+    },
+    {
+      "i": 63,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "her desperate, deeply irrational hope. When she sees Hannah's passport in the photograph, her mind immediately, frantically begins constructing an alternative narrative. She tells herself that Ellie must have",
+      "callout": null
+    },
+    {
+      "i": 64,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "broken into their house years after disappearing, sneaked into Hannah's room, stolen the passport, and run away to Europe to start a new life.",
+      "callout": {
+        "text": "START A NEW LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 65,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She actively hides the fact that she desperately wants her youngest daughter to be a runaway thief who abandoned the family because that narrative means she is at least alive. The alternative is",
+      "callout": null
+    },
+    {
+      "i": 66,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "total finality. Paul sitting right next to her at that table sees her physical revulsion.",
+      "callout": null
+    },
+    {
+      "i": 67,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "When the news of the human remains is delivered, the final blow landing after 10 years, he reaches out for her hand to share the unbearable weight of it. But she rejects him completely.",
+      "callout": {
+        "text": "AFTER 10 YEARS",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 68,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He feels her absolute rigid refusal to share the grief. He sees a woman who has barricaded herself inside her own private tragedy, aggressively pushing him out, even at the exact moment of their",
+      "callout": null
+    },
+    {
+      "i": 69,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "ultimate shared loss. That impenetrable barricade finally cracks in a sunlit cafe shortly after Ellie's funeral. Laurel sits alone at a small table.",
+      "callout": {
+        "text": "SMALL TABLE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 70,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She has a fresh, swishy blonde blowd dry, a physical sign of effort she hasn't made in years. She's eating a toasted cheese sandwich rapidly, almost ravenously.",
+      "callout": null
+    },
+    {
+      "i": 71,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Strands of melted cheese pulling away from the bread and leaving a smear of grease on her chin. Floyd Dunn walks into the cafe. He is of average build, his silver hair receding slightly, wearing a crisp shirt and tortois shell",
+      "callout": null
+    },
+    {
+      "i": 72,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He chooses to sit at a table uncomfortably close to hers, invading her personal space. He orders a black coffee and a slice of carrot cake. Speaking to the waitress in a soft melodic transatlantic accent, he notices",
+      "callout": null
+    },
+    {
+      "i": 73,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel looking at him, he openly compliments her hair. Then, with an easy charm, he pushes his plate across the small gap toward her, offering a bite of his carrot cake with a clean silver A",
+      "callout": {
+        "text": "ACROSS THE SMALL",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 74,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "sharp blade of afternoon sunlight catches the metal of the spoon, making it glitter in the space between them. In that highly charged moment, Laurel hides a sudden, shocking desire to be seen as a woman",
+      "callout": null
+    },
+    {
+      "i": 75,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "again, rather than just a walking tragedy. Sitting in that sunlit cafe, feeling the mundane grease on her chin and the sudden warm weight of a stranger's romantic attention, her frozen identity",
+      "callout": null
+    },
+    {
+      "i": 76,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "begins to thaw. She hides how desperately, how hungrily she wants to step out of the role of the grieving mother and just be someone's object of desire. And Floyd Dunn sees her",
+      "callout": null
+    },
+    {
+      "i": 77,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "as a prime, highly vulnerable target. He doesn't just see an attractive woman with a new haircut, you know.",
+      "callout": null
+    },
+    {
+      "i": 78,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He reads the posture of a woman utterly hollowed out by loss.",
+      "callout": {
+        "text": "OUT BY LOSS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 79,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He sees someone whose boundaries have been completely eroded by a decade of Someone ready to be manipulated, molded, and filled with whatever new narrative he chooses to provide.",
+      "callout": null
+    },
+    {
+      "i": 80,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And Laurel, meanwhile, treats her living daughter, Hannah, as a ghost. She visits Hannah's apartment not to connect with her child, but merely to clean it.",
+      "callout": null
+    },
+    {
+      "i": 81,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Like a museum curator tending to an exhibit, she sweeps away the traces of Hannah's actual life, leaves 30 pounds in cash on the kitchen table, and leaves, fulfilling a cold mechanical",
+      "callout": {
+        "text": "ACTUAL LIFE",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 82,
+      "shot": "closeUp",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "duty without offering a single ounce of maternal warmth or curiosity. Think about the psychology of that for a moment. If your entire identity, the way everyone in your community views you for 10 solid years,",
+      "callout": null
+    },
+    {
+      "i": 83,
+      "shot": "illustration",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "is built around being a grieving mother, the very act of healing feels like a violent betrayal of the child you lost.",
+      "callout": {
+        "text": "CHILD YOU LOST",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 84,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Smiling at a stranger, eating a delicious meal, laughing out loud. They all feel like you are actively killing the memory of your child yourself.",
+      "callout": {
+        "text": "YOUR CHILD YOURSELF",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 85,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "While Laurel chases the ghost of her youngest, the daughter who actually stayed alive learns to survive the chill. Portrait three. Hannah who stayed.",
+      "callout": null
+    },
+    {
+      "i": 86,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I am taking Hannah's perspective Her quiet, desperate internal drive is this.",
+      "callout": null
+    },
+    {
+      "i": 87,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I want to build a life where I am more than just the disappointing consolation prize. Hannah survives the total obliteration of her family unit by surgically withdrawing her emotions.",
+      "callout": {
+        "text": "BUILD A LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 88,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She avoids the impossible task of competing with a dead martyed saint by shutting down her emotional availability",
+      "callout": null
+    },
+    {
+      "i": 89,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "entirely. She buries herself in grueling 14-hour work days in the city of London, becoming basically untouchable. Speaking for Laurel,",
+      "callout": {
+        "text": "14-HOUR WORK",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 90,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "whom Hannah's coping mechanism deeply hurts, this withdrawal feels like a constant,",
+      "callout": null
+    },
+    {
+      "i": 91,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "freezing rejection. Laurel is left with a living, breathing daughter who moves through the world acting as though she doesn't need a mother at all, which just compounds Laurel's feelings of",
+      "callout": null
+    },
+    {
+      "i": 92,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "maternal failure. The vibrant reality of Hannah's life is fiercely hidden, which is perfectly demonstrated in the scene where Laurel goes to clean her flat. Laurel sweeps into the dingy,",
+      "callout": null
+    },
+    {
+      "i": 93,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "wisteria covered ground floor apartment, moving methodically through the rooms like she's on a covert mission.",
+      "callout": null
+    },
+    {
+      "i": 94,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She checks the kitchen sink and it is pristine. There are no cereal bowl soaking, no milk splashes on the counter, no signs of human mess.",
+      "callout": {
+        "text": "HUMAN MESS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 95,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She scrubs the already clean surfaces out of pure habit. Then she digs into the swing bin under the counter, snooping through her adult daughter's As she is tying the plastic bag, she hears the",
+      "callout": null
+    },
+    {
+      "i": 96,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "distinct crackle of thick cellophane. She pulls it out of the rubbish. It is a discarded flower wrapper, and attached to the plastic is a small, heavy stock card with",
+      "callout": null
+    },
+    {
+      "i": 97,
+      "shot": "overShoulder",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "scruffy masculine handwriting. The card reads, \"I love you so much.",
+      "callout": {
+        "text": "READS I LOVE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 98,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Tea with a kiss.\" Laurel stands completely still in the center of the kitchen, holding the card pinched between her thumb and forefinger.",
+      "callout": null
+    },
+    {
+      "i": 99,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Realizing her daughter is a complete stranger, Hannah hides a vibrant, passionate secret life.",
+      "callout": {
+        "text": "SECRET LIFE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 100,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She hides a new lover, late nights out, and a blossoming, genuine happiness from a mother she knows will only suffocate it.",
+      "callout": null
+    },
+    {
+      "i": 101,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She knows instinctively that Laurel will either judge for joy against the tragedy of the past or try to infect it with her own Laurel stands in that flat and sees Hannah as a difficult, cold,",
+      "callout": null
+    },
+    {
+      "i": 102,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "joyless workaholic. She looks at the lack of a pet cat, the lack of general clutter, the starkly empty sink, and concludes that her daughter is simply empty inside.",
+      "callout": null
+    },
+    {
+      "i": 103,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She completely misses the fact that Hannah is deliberately withholding her joy as a defense mechanism against Laurel's grief. This toxic dynamic culminates at the forgotten birthday dinner.",
+      "callout": null
+    },
+    {
+      "i": 104,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a Wednesday evening at an upscale Islington restaurant tucked down a cobbled alleyway.",
+      "callout": null
+    },
+    {
+      "i": 105,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Hannah arrives looking surprisingly radiant, wearing a newly cut, stylish hairstyle that flatters her face, clearly expecting a quiet celebration.",
+      "callout": null
+    },
+    {
+      "i": 106,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Laurel has completely hijacked their shared birthday. Instead of an intimate dinner for the two of them to reconnect, Laurel has orchestrated a massive,",
+      "callout": null
+    },
+    {
+      "i": 107,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "bustling family gathering specifically to introduce her new boyfriend Floyd to the family.",
+      "callout": null
+    },
+    {
+      "i": 108,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Hannah is forced to sit at the head of the table, enduring the bizarre, surreal spectacle of her mother's sudden, giddy new romance.",
+      "callout": {
+        "text": "HEAD OF THE TABLE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 109,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Her own birthday is entirely eclipsed. As she sits there, Hannah hides the fact that she doesn't need her mother's manufactured brave new world.",
+      "callout": null
+    },
+    {
+      "i": 110,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She hides the fact that she's already found her own profound happiness with tea.",
+      "callout": null
+    },
+    {
+      "i": 111,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She hides her deep resentment that her mother, who ignored her existence and emotional needs for a decade, is now forcing this fake blended family tableau down her throat. And Laurel looks down the table and",
+      "callout": {
+        "text": "FAKE BLENDED FAMILY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 112,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "sees Hannah's sudden brightness and fresh haircut, not his personal growth, and certainly not his independent happiness. Laurel honestly believes it is a lucky byproduct of Laurel's own new romance.",
+      "callout": null
+    },
+    {
+      "i": 113,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel sees herself as the son that has finally returned to the solar system. Assuming her relationship with Floyd is the rising tide lifting all the boats in her family, Hannah bypasses Laurel completely. She builds a quiet,",
+      "callout": null
+    },
+    {
+      "i": 114,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "exclusive, and fiercely loyal allegiance with her father, Paul. She shares her secrets, her fears, and her life with him, leaving Laurel entirely in the dark about who she actually is.",
+      "callout": null
+    },
+    {
+      "i": 115,
+      "shot": "insert",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "ANY JOY DISPLAYED",
+          "UNDERGROUND"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "Put yourself in Hannah's position. How do you establish your own identity when your siblings disappearance sucks all the oxygen out of every room you walk You have to build a life in secret, underground, because any joy displayed",
+      "callout": null
+    },
+    {
+      "i": 116,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "in the open will be immediately snuffed out by the prevailing heavy atmosphere of grief.",
+      "callout": null
+    },
+    {
+      "i": 117,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The father, who was pushed away, didn't freeze. He built a brand new kitchen and moved on.",
+      "callout": null
+    },
+    {
+      "i": 118,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Portrait four. Paul who moved on. Stepping into Paul's mind, his pragmatic drive is this. I want to find a way to keep living and loving because stopping won't bring Ellie",
+      "callout": {
+        "text": "PAUL'S MIND",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 119,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "back. Paul's a deeply practical, gentle, grounded man who refuses to let the nightmare completely destroy him. He chooses instead to find small pockets of warmth and normaly where he can survive.",
+      "callout": null
+    },
+    {
+      "i": 120,
+      "shot": "illustration",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Speaking for Laurel, Paul's refusal to match her endless, agonizing vigil feels like a grotesque betrayal of their daughter. He hurts her deeply by simply proving that the pain is which violently",
+      "callout": null
+    },
+    {
+      "i": 121,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "threatens Laurel's entire narrative that life must end when a child goes missing. We see the genesis of this deep marital resentment on the very night of the disappearance in May 2005. The house is vibrating with panic.",
+      "callout": null
+    },
+    {
+      "i": 122,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Paul is sick with a heavy summer cold. He comes downstairs into the kitchen wearing oversized combat shorts and a bright, inappropriately cheerful t-shirt.",
+      "callout": null
+    },
+    {
+      "i": 123,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He physically smells of snot and stale bed sheets. He gurgles wetly in the back of his throat as he breathes through his mouth.",
+      "callout": null
+    },
+    {
+      "i": 124,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He blows his nose thickly into a tissue, fold it carefully into a ball, and throws it into the petal bin. And Laurel watches him from across the kitchen island, her eyes filled with a pure",
+      "callout": null
+    },
+    {
+      "i": 125,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "unadulterated disdain. In that kitchen, Paul hides his absolute worlds shattering terror.",
+      "callout": null
+    },
+    {
+      "i": 126,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Beneath that mask of useless, bumbling compliance, beneath the ridiculous combat shorts and the irritating sounds of his summer cold, he is just as horrified and broken as But he hides it,",
+      "callout": null
+    },
+    {
+      "i": 127,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "trying desperately to maintain some pathetic semblance of domestic normaly to keep the structure of the house from collapsing completely.",
+      "callout": null
+    },
+    {
+      "i": 128,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel watches him blow his nose and sees him as weak, repulsive, and",
+      "callout": null
+    },
+    {
+      "i": 129,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "utterly inadequate. She feels she is in a war zone and she needs a warrior. You know, a man driven violently insane by grief to tear the world apart looking for their child. Exactly. Instead, she sees a man blowing",
+      "callout": {
+        "text": "THEIR CHILD",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 130,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "his nose in a bright t-shirt. She decides in that exact crystallizing moment that he is not big enough or strong enough for their tragedy.",
+      "callout": {
+        "text": "NOT BIG ENOUGH",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 131,
+      "shot": "diorama",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "Years later at the Islington birthday dinner, we see the final result of that division.",
+      "callout": null
+    },
+    {
+      "i": 132,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Paul arrives at the restaurant with his new partner, Bonnie. Bonnie smells comforting of violets and talcum powder. She has an unruly beautiful face and without hesitation embraces Laurel warmly,",
+      "callout": null
+    },
+    {
+      "i": 133,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "pressing her hands affectionately against Laurel's forearms. Paul steps up to meet Floyd.",
+      "callout": null
+    },
+    {
+      "i": 134,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They shake hands enthusiastically and then Paul looks down and laughingly points at their ankles.",
+      "callout": {
+        "text": "SHAKE HANDS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 135,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They are wearing the exact same brightly striped Paul Smith designer socks.",
+      "callout": null
+    },
+    {
+      "i": 136,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Paul leans into Floyd, grinning, joking easily about them being saratoral twins. Paul hides his lingering complex guilt here.",
+      "callout": null
+    },
+    {
+      "i": 137,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He hides the deep shame that he actually survived the violent death of his marriage and found a soft, incredibly happy life with Bonnie,",
+      "callout": {
+        "text": "DEEP SHAME",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 138,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "complete with comfortable weight grocery deliveries and shared inside jokes. All while the woman he once loved spent a decade burning in purgatory.",
+      "callout": null
+    },
+    {
+      "i": 139,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laura watches his interaction and sees his survival, his easy booming laughter, and his new comfortable relationship as a profound betrayal.",
+      "callout": null
+    },
+    {
+      "i": 140,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Even as she introduces her own boyfriend to the family, seeing Paul whole, happy, and joking about socks underscores how thoroughly and efficiently",
+      "callout": null
+    },
+    {
+      "i": 141,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "he abandoned their shared vigil for Ellie. And Paul actively colludes to keep Hannah's boyfriend a secret from Laurel. He knows that T is actually Theo, Ellie's former boyfriend, and he aggressively",
+      "callout": null
+    },
+    {
+      "i": 142,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "protects that fragile relationship from Laurel's inevitable, devastating judgment. Think of Paul operating like a triage medic on a horrific battlefield.",
+      "callout": null
+    },
+    {
+      "i": 143,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You cannot stand there and bleed out with a limb that is already lost. You have to brutally apply a tourniquet and save the limbs that are still He saved himself",
+      "callout": null
+    },
+    {
+      "i": 144,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and by doing so, he maintained enough stability to save But the boyfriend they are so desperately protecting didn't really move on.",
+      "callout": null
+    },
+    {
+      "i": 145,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He just shifted his devotion to the closest available replica. Portrait five. Theo, Ellie's boyfriend, now Hannah's. Speaking for Theo,",
+      "callout": null
+    },
+    {
+      "i": 146,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "his motivation is rooted in a profound trauma. I want to keep the piece of Ellie that I found surviving inside her sister.",
+      "callout": null
+    },
+    {
+      "i": 147,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Theo is operating on a massive unexamined trauma response, subconsciously shifting the future he was promised with one sister to the nearest genetic and environmental match. Speaking for the people he hurts, this transfer",
+      "callout": {
+        "text": "PEOPLE HE HURTS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 148,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "of affection feels deeply wrong. It pollutes the sacred memory of Ellie for Laurel,",
+      "callout": null
+    },
+    {
+      "i": 149,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "making the past feel dirty. and it severely reduces Hannah to a mere vessel, a standin for a resurrected, interrupted",
+      "callout": null
+    },
+    {
+      "i": 150,
+      "shot": "medium",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "love story rather than a woman loved for herself. The origin of that pure interrupted love story is captured perfectly in May 2005,",
+      "callout": null
+    },
+    {
+      "i": 151,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "right before everything stops. Theo and Ellie are lounging in her bedroom. The sun is shining brightly outside the window.",
+      "callout": null
+    },
+    {
+      "i": 152,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The air is thick with pollen and teenage hope. Theo lies comfortably with his head resting in Ellie's lap. Ellie is excitedly talking about their summer plans,",
+      "callout": {
+        "text": "THEO LIES",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 153,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "animatedly saying she wants to go paragliding. Theo looks up at her, and laughs.",
+      "callout": null
+    },
+    {
+      "i": 154,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He teases her, saying her grand plan for the summer is basically to die. He reaches up, touches her face, and tells her he just wants to do completely nothing with her.",
+      "callout": {
+        "text": "GRAND PLAN",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 155,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Theo hides a normal teenage boy's absolute complacency. He's completely tragically unaware",
+      "callout": null
+    },
+    {
+      "i": 156,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "of the fragility of their timeline. He assumes with a bulletproof arrogance of youth that they have an endless sprawling expanse of summer and life ahead of them, hiding a tragic innocence",
+      "callout": {
+        "text": "SUMMER AND LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 157,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "that is about to be shattered. Ellie looks down at him in her lap and sees him as a prize.",
+      "callout": null
+    },
+    {
+      "i": 158,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "To her, Theo isn't just a boy. He is a vital status symbol, the ultimate living proof of her own worth.",
+      "callout": {
+        "text": "LIVING PROOF",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 159,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "His devotion is the mirror that validates her perfection to the rest of the world.",
+      "callout": null
+    },
+    {
+      "i": 160,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The devastating collision of that past innocence and the complicated present happens on a crisp Sunday morning. Laurel is driving her car past the corner cafe. She stops at a crossroads",
+      "callout": null
+    },
+    {
+      "i": 161,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "waiting for the light to change. She casually glances out the window and spots a man standing outside a small Tesco branch. He has a little black dog on a lead waiting patiently. He is wearing a huge distinctive",
+      "callout": {
+        "text": "CHANGE",
+        "style": "box"
+      }
+    },
+    {
+      "i": 162,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "parker with a heavy fur trimmed hood. Laurel stares. She recognizes the rangy, good-looking frame. Instantly, it's Theo Goodman.",
+      "callout": null
+    },
+    {
+      "i": 163,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "In a sickening instant of clarity, the puzzle pieces snap together in her mind.",
+      "callout": null
+    },
+    {
+      "i": 164,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Theo is the T on the florist card she found in the rubbish. Theo is the man sleeping in her surviving daughter's flat. Theo hides the dark psychological reality that he is using Hannah to fulfill the exact",
+      "callout": null
+    },
+    {
+      "i": 165,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "comfortable future he originally mapped out with Ellie. He hides the deeply unsettling truth that his passionate love for the older sister is entirely rooted in the unresolved trauma of losing the younger Laurel",
+      "callout": {
+        "text": "TRAUMA OF LOSING",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 166,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "sits at that crossroads gripping the steering wheel and sees him as a youth superer.",
+      "callout": null
+    },
+    {
+      "i": 167,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is unfairly but understandably horrified. To Laurel, Theo belonged exclusively to Ellie.",
+      "callout": null
+    },
+    {
+      "i": 168,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And by touching Hannah, he is sexually polluting the memory of her perfect golden girl. And reducing Hannah to a stolen secondhand prize.",
+      "callout": null
+    },
+    {
+      "i": 169,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Theo's substitution, using a sister as a literal standin for a lost love, highlights the ultimate much darker replacement child currently sitting at Floyd's dinner table. But you have to ask yourself, is",
+      "callout": {
+        "text": "LOST LOVE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 170,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Theo's love for Hannah genuinely sinister? Or is it just a shared trauma bonding two broken people together? They are the only two people on Earth capable of understanding each other's specific",
+      "callout": null
+    },
+    {
+      "i": 171,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "unique pain. But the most perfect copy of Ellie wasn't a sister acting as a standin.",
+      "callout": {
+        "text": "UNIQUE PAIN",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 172,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It was a 9-year-old girl deliberately modeled in her image. Portrait six, Poppy, nine, at Floyd Stable. I am speaking for Poppy now.",
+      "callout": null
+    },
+    {
+      "i": 173,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Her driving motivation which dictates her every move is I want to be the perfect brilliant companion. So the father who chose me never sends me away. Poppy possesses a deeply unsettling",
+      "callout": null
+    },
+    {
+      "i": 174,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "hypermaturity. A desperate performed brilliance designed entirely to secure her place in a highly fragile world. Speaking for the people she hurts,",
+      "callout": {
+        "text": "PEOPLE SHE HURTS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 175,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Poppy's flawless adult performance completely alienates Sarah Jade, actively pushing the older, messier sister out of the family unit.",
+      "callout": null
+    },
+    {
+      "i": 176,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Furthermore, she unwittingly torments Laurel every single time she walks into a room simply by wearing a dead girl's The devastating moment of revelation happens the morning after Laurel first stays the night at",
+      "callout": {
+        "text": "EVERY SINGLE TIME",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 177,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Floyd's house. Laurel, feeling comfortable, walks down the single wooden step into Floyd's large,",
+      "callout": null
+    },
+    {
+      "i": 178,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "airy, modern kitchen. Poppy is standing at the counter, her back turned.",
+      "callout": null
+    },
+    {
+      "i": 179,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She turns around. She's wearing a formal vintage style blue and white striped cotton dress and thick navy woolen tights. Laurel grips the wooden door frame, physically stunned, all the air leaving her lungs.",
+      "callout": {
+        "text": "WOODEN DOOR",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 180,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She sees the distinct dimple in the left cheek, the heavy-litted chocolate eyes, the precise, unmistakable angle of the cupid's bow.",
+      "callout": null
+    },
+    {
+      "i": 181,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Poppy calmly turns on the expensive filter coffee machine, acting like a slick, practiced hostess, and casually mentions doing simple algebra at age four, holding Laurel's shocked Poppy hides a deep, unshakable",
+      "callout": null
+    },
+    {
+      "i": 182,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "terror of abandonment. Her biological mother dumped her on a doorstep and vanished. Her entire adult persona, the formal stiff clothes, the precocious, highly advanced vocabulary, is a",
+      "callout": null
+    },
+    {
+      "i": 183,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "meticulously crafted suit of armor designed to make her intellectually indispensable to Laurel grips that doorframe and sees her not as a child, but as an impossible breathing ghost of Ellie.",
+      "callout": {
+        "text": "NOT AS A CHILD",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 184,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is rendered entirely mute, gripping the wood just to keep from falling over.",
+      "callout": null
+    },
+    {
+      "i": 185,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "staring in horror and awe at the mathematical genetic precision of her lost daughter's face perfectly resurrected on this strange 9-year-old Poppy's absolute control over her environment is fully displayed at the",
+      "callout": {
+        "text": "LOST DAUGHTER'S FACE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 186,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "birthday toast in the Islington restaurant. She stands up confidently at a long table, picks up a heavy silver knife, and taps it sharply against her crystal glass.",
+      "callout": null
+    },
+    {
+      "i": 187,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The adults at the table immediately fall silent, yielding the floor to a child.",
+      "callout": null
+    },
+    {
+      "i": 188,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She delivers a pitch-perfect eloquent speech, casually quoting Toltoy about happy families, smiling brilliantly at the guests.",
+      "callout": null
+    },
+    {
+      "i": 189,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Then she raises her glass and drinks real champagne with the adults, thoroughly and terrifyingly commanding the entire room.",
+      "callout": {
+        "text": "DRINKS REAL",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 190,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She hides her total catastrophic lack of normal childhood socialization. She doesn't go to school. She doesn't have a single friend her own age.",
+      "callout": null
+    },
+    {
+      "i": 191,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and she hides her terrifying isolation behind the polished facade of a sophisticated 40year-old woman trapped inside a nine-year-old's body.",
+      "callout": null
+    },
+    {
+      "i": 192,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Poppy's flawless performance pushes Sarah Jade entirely out of the family frame. She occupies every single inch of the emotional space Floyd has to give, leaving absolutely nothing for the older, messier daughter to hold on to.",
+      "callout": null
+    },
+    {
+      "i": 193,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Poppy is exactly like a bonsai tree. She has been meticulously pruned, shaped, and isolated from a normal wild environment to look like an adult masterpiece. But fundamentally, her emotional and",
+      "callout": null
+    },
+    {
+      "i": 194,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "social growth has been stunted by design. Watching this perfect copy steal her father's entire heart.",
+      "callout": {
+        "text": "SOCIAL GROWTH",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 195,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The older, discarded daughter, decides to speak the ugly truth. Portrait seven. Sarah Jade, Floyd's older daughter.",
+      "callout": null
+    },
+    {
+      "i": 196,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Stepping into SJ's mindset, she would aggressively tell you, \"I want someone to notice that the shiny new family is built on a massive, undeniable lie.\"",
+      "callout": {
+        "text": "SHINY NEW FAMILY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 197,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "SJ is the classic neglected trutht teller of the narrative. The messy, uncomfortable reality that constantly contradicts Floyd's obsessively curated perfection.",
+      "callout": null
+    },
+    {
+      "i": 198,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Speaking for the people she hurts, SG brings a highly toxic, bitter energy into the house that deliberately and constantly sabotages Floyd's desperate attempts",
+      "callout": null
+    },
+    {
+      "i": 199,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "to present a happy, functional, normal life to Laurel. Laurel first meets SJ in Floyd's living room.",
+      "callout": {
+        "text": "NORMAL LIFE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 200,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel steps tentatively through the door. SJ is curled tightly into a large armchair.",
+      "callout": null
+    },
+    {
+      "i": 201,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She has bare, pale, blue veined feet tucked beneath her body. She sports a crescent of multiple silver earrings and a thick harsh flick of blue She's staring blankly at a brightly lit, trashy reality TV",
+      "callout": null
+    },
+    {
+      "i": 202,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "dating show. Surrounding her on the floor and the armrest is a visual perimeter of neglect.",
+      "callout": null
+    },
+    {
+      "i": 203,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "A plate smeared with dried ketchup, an empty crushed diet coke can, and a crumpled galaxy chocolate wrapper. SJ hides a desperate, clawing craving for Floyd's validation behind a solid, impenetrable wall",
+      "callout": null
+    },
+    {
+      "i": 204,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "of teenage apathy. She pretends with every ounce of her being not to care about the ketchup or the television or her father's shiny new But her physical messy presence in the center of the",
+      "callout": null
+    },
+    {
+      "i": 205,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "house is a silent screaming demand to be noticed and Laurel looks at the mess and sees her as a bitter unckempt contrast to her own golden high achieving daughters.",
+      "callout": null
+    },
+    {
+      "i": 206,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "In that moment, looking at SJ's tiny frame and the junk food rappers, Laurel feels a",
+      "callout": {
+        "text": "SJ'S TINY",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 207,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "bizarre flash of intense jealousy. Wishing her own life had allowed for such mundane, messy teenage reality instead of being frozen in tragedy.",
+      "callout": null
+    },
+    {
+      "i": 208,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "SJ's apathetic facade finally cracks in the kitchen. SJ is sobbing uncontrollably, violently snatching her heavy coat off the rack to leave.",
+      "callout": null
+    },
+    {
+      "i": 209,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel follows her into the hallway, offering a hesitant maternal comfort. SJ turns to her, her face blotchy, and blurts out the terrifying truth about Poppy's mother, Noel Donnelly. She spits out that Noel was",
+      "callout": null
+    },
+    {
+      "i": 210,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "ugly, neglectful, and smelled strongly of cheap chips. Then, crucially, she states with absolute conviction that she saw Noel when she was supposed to be 8 months pregnant, and she had absolutely no",
+      "callout": null
+    },
+    {
+      "i": 211,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "baby bump. SJ hides the fact that she has been obsessively googling Ellax cold case late at night. She hasn't just casually noticed a lack of a baby bump. She has been actively investigating",
+      "callout": {
+        "text": "COLD CASE LATE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 212,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "the connections, looking for the rot beneath her father's perfect narrative, trying to dismantle the family that replaced Floyd sees SJ as a toxic nuisance, attempting to ruin his new perfect setup.",
+      "callout": null
+    },
+    {
+      "i": 213,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He aggressively dismisses her sharp observations as mere sibling jealousy, trying to erase her messy, inconvenient reality from his clean, curated life with Poppy and Laurel.",
+      "callout": {
+        "text": "CLEAN CURATED LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 214,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "SJ confirms the dark, lingering suspicions that outsiders bring into Floyd's orbit.",
+      "callout": null
+    },
+    {
+      "i": 215,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is the internal alarm bell, constantly ringing inside the house, warning anyone who will listen.",
+      "callout": null
+    },
+    {
+      "i": 216,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "Why is it always the person society deems messy or broken? The one eating chocolate rappers in front of reality TV who sees the truth clearly",
+      "callout": {
+        "text": "MESSY OR BROKEN",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 217,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "before the perfect people do. They aren't invested in maintaining the illusion, so they are the only ones with clear eyes.",
+      "callout": null
+    },
+    {
+      "i": 218,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Blood family isn't the only one sensing the rot. Sometimes a total stranger can read the room in seconds. Portrait 8. Blue, Jake's girlfriend.",
+      "callout": null
+    },
+    {
+      "i": 219,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I am speaking for Blue. Her driving force is incredibly simple and unyielding. I see the darkness in people immediately, and I refuse to swallow it just to be polite.",
+      "callout": null
+    },
+    {
+      "i": 220,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Blue is uncompromising, exceedingly blunt, and entirely unimpressed by the social nicities that govern middle class behavior. Speaking for the people she hurts, Blue's brutal bluntness shatters Laurel's fragile, newly constructed",
+      "callout": null
+    },
+    {
+      "i": 221,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "happiness, and her controlling, rigid nature severely isolates Jake from his At the birthday dinner in Islington, Blue acts as a physical manifestation of discomfort. She sits directly opposite",
+      "callout": null
+    },
+    {
+      "i": 222,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Poppy and Jake. Her face is visibly sour, deeply unamused. She eats her meal in absolute silence. Physically repelled by the faux happiness of the blended family laughing and drinking champagne around her,",
+      "callout": null
+    },
+    {
+      "i": 223,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "she absolutely refuses to participate in the charade of Blue hides her intense social anxiety beneath",
+      "callout": null
+    },
+    {
+      "i": 224,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "a heavy shield of spiritual superiority. Her silence isn't just judgment. It's a profound defensive mechanism designed to protect herself in a crowded room full of people she cannot",
+      "callout": null
+    },
+    {
+      "i": 225,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "read or control. Laurel glances across the table and sees her as a controlling, miserable presence, dragging her son Jake down.",
+      "callout": {
+        "text": "READ OR CONTROL",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 226,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She views Blue as an arrogant interloper who is deliberately and maliciously refusing to let the family have one single nice evening together.",
+      "callout": null
+    },
+    {
+      "i": 227,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The inevitable confrontation happens over the phone. Lou calls Laurel directly, bypassing Jake. She doesn't mince words or offer pleasantries.",
+      "callout": {
+        "text": "OVER THE PHONE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 228,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "She states flatly that she has a sixth sense and that Floyd's aura is dark and fundamentally wrong.",
+      "callout": null
+    },
+    {
+      "i": 229,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She explicitly says he is hiding something. Laura laughs mockingly into the receiver, treating Blue like a delusional, overstepping hippie.",
+      "callout": null
+    },
+    {
+      "i": 230,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Blue stands firm, her voice steady, and Jake actually gets on the line to support her, validating the darkness she Blue hides absolutely nothing. In a book full of liars and",
+      "callout": {
+        "text": "FIRM HER VOICE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 231,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "people wearing masks, she offers the pure, unvarnished truth, completely devoid of social tact, caring only about the absolute reality of the danger she senses emanating from Floyd.",
+      "callout": null
+    },
+    {
+      "i": 232,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel hears the warning and sees her as an arrogant interloper, actively trying to ruin Laurel's second chance at happiness, dismissing the very real warning as mere jealousy or spiritual Blue's",
+      "callout": {
+        "text": "REAL WARNING",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 233,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "blunt force shatters Laurel's denial. It is the catalyst that sends Laurel straight into the past, forcing her to finally investigate the tutor",
+      "callout": null
+    },
+    {
+      "i": 234,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and Noel Donley's true identity. Think about this. Blue is the only purely heroic character in the entire book.",
+      "callout": {
+        "text": "NOEL DONLEY'S TRUE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 235,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She owes Laurel absolutely nothing. She knows full well Laurel doesn't like her. Yet, she risks her entire relationship with Jake's family to deliver a warning she believes will save Laurel's life. The darkness blue sense didn't originate with",
+      "callout": null
+    },
+    {
+      "i": 236,
+      "shot": "insert",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "Floyd. It started a decade earlier. with a woman who smelled of old cooking Portrait nine. Portrait nine. Noel Donnelly, the tutor.",
+      "callout": null
+    },
+    {
+      "i": 237,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "2005. I must step into Noel's mind now. Her terrifying sociopathic drive is, \"I will literally build a baby to chain down the man who wants to throw me Noel completely",
+      "callout": {
+        "text": "NOEL'S MIND",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 238,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "weaponizes motherhood, constructing a grotesque, sprawling delusion to maintain control over a man who is rejecting her. Speaking for the people she hurts,",
+      "callout": null
+    },
+    {
+      "i": 239,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Noel's actions utterly destroy Ellie's life, shatter Laurel's family to a million pieces, and force Floyd into a horrific complicity, leaving a trail of absolute devastation in her wake.",
+      "callout": null
+    },
+    {
+      "i": 240,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The depth of her delusion breaks during her violent confrontation as the dismissed girlfriend.",
+      "callout": null
+    },
+    {
+      "i": 241,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Floyd is sitting across from her in Noel's kitchen. He is coldly finally breaking up with her. He tells her she is toxic, abusive, and an unfit mother, explicitly demanding full legal custody",
+      "callout": null
+    },
+    {
+      "i": 242,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "of Poppy. Noel completely snaps. The wooden chair flies back. As she stands up, she screams at him that she isn't Poppy's mother, that a girl named Ellie",
+      "callout": {
+        "text": "WOODEN CHAIR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 243,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "had the baby for her, violently ripping the foundation out from under his profound love for the child.",
+      "callout": null
+    },
+    {
+      "i": 244,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Noel hides a complete chilling detachment from human empathy. She views human beings,",
+      "callout": null
+    },
+    {
+      "i": 245,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Ellie, Poppy, even Floyd, merely as biological tools and construction materials to build the life she feels she is owed. She hides a monstrous,",
+      "callout": {
+        "text": "BUILD THE LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 246,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "gaping void behind the mundane, boring facade of a neighborhood maths tutor. Floyd sits in that kitchen and sees her as a pathetic, highly unstable monster he desperately wants to erase from his life.",
+      "callout": null
+    },
+    {
+      "i": 247,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He looks around and sees a filthy house, a neglectful mother, and a deranged woman spewing insane lies simply to hurt him on his way out. The reality of her unimaginable cruelty",
+      "callout": {
+        "text": "INSANE LIES",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 248,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "is revealed in the basement. Picture a damp pineclad subterranean room with a single inaccessible high window.",
+      "callout": null
+    },
+    {
+      "i": 249,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Noel walks down the wooden stairs, her heavy rubber sold shoes flopping loudly on the She brings Ellie a pathetic supper of cheap chicken nuggets and watsits",
+      "callout": {
+        "text": "SUPPER OF CHEAP",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 250,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "on a plastic tray. Then she brings in the plastic hamster cages, pink on the bottom, white on the top. They smell strongly and sharply of warm She demands Ellie clean them.",
+      "callout": null
+    },
+    {
+      "i": 251,
+      "shot": "overShoulder",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "When Ellie, desperate and seeking any sliver of humanity, mentions God, Noel moves with terrifying snake- like speed and violently smacks the back of Ellie's",
+      "callout": {
+        "text": "GOD NOEL MOVES",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 252,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Noel hides her grotesque, calculated cruelty behind the soft language of a miracle pregnancy.",
+      "callout": null
+    },
+    {
+      "i": 253,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Upstairs, she speaks to Floyd of lullabibis, tiny sleepsuits, and nursery colors, completely masking the horrific reality of holding a pregnant teenager captive",
+      "callout": null
+    },
+    {
+      "i": 254,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "in a subterranean prison directly beneath their feet. Ellie looks up at her in that basement and sees her as a pure, terrifying force of destruction. Noel isn't just a captor.",
+      "callout": null
+    },
+    {
+      "i": 255,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is a chaotic, violent entity capable of striking without warning. Slowly erasing Ellie's identity,",
+      "callout": null
+    },
+    {
+      "i": 256,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "her hopes, and her mind day by terrifying day. Noel dumps the physical evidence of her crime, the infant Poppy, onto Floyd's doorstep, forcing him to take the narrative over completely.",
+      "callout": null
+    },
+    {
+      "i": 257,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She walks away, leaving him holding the living proof of the horror she orchestrated.",
+      "callout": null
+    },
+    {
+      "i": 258,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Noel operates exactly like a parasite in nature. She builds a nest inside a host, ensuring the host becomes entirely dependent on the infection.",
+      "callout": null
+    },
+    {
+      "i": 259,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "By the time Floyd finally realizes what Poppy actually is, he is far too in love with the child to extract the parasite's legacy from his life.",
+      "callout": {
+        "text": "LOVE WITH THE CHILD",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 260,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the architect of the final 10-year illusion wasn't Noel. It was the man who kept her secret to keep the child.",
+      "callout": {
+        "text": "KEEP THE CHILD",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 261,
+      "shot": "closeUp",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Portrait 10, Floyd Dunn, the one the reader got wrong.",
+      "callout": null
+    },
+    {
+      "i": 262,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Speaking for Floyd, his final motivation is, \"I want to atone by giving Laurel her daughter back in the form of Poppy so she will forgive me and love me.\" Floyd suffers from",
+      "callout": null
+    },
+    {
+      "i": 263,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "the ultimate twisted savior complex, believing he can engineer salvation.",
+      "callout": null
+    },
+    {
+      "i": 264,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Speaking for the people he hurts, Floyd's elaborate atonement is a profound, unforgivable violation of Laurel's autonomy.",
+      "callout": null
+    },
+    {
+      "i": 265,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He lies to her daily, manipulates her unresolved grief, and forces Poppy to live a massive lie,",
+      "callout": null
+    },
+    {
+      "i": 266,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "prioritizing his own emotional needs and his desire for forgiveness over the actual truth.",
+      "callout": {
+        "text": "ACTUAL TRUTH",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 267,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "The mechanical process of his salvation starts in the cafe. It is 2015.",
+      "callout": {
+        "text": "2015",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 268,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Floyd has just watched the Crime Watch appeal on television. He realizes with absolute certainty that Poppy is Ellie's child.",
+      "callout": null
+    },
+    {
+      "i": 269,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "He secretly obtains a DNA test, proving it with a 0.02% He then begins stalking Laurel.",
+      "callout": null
+    },
+    {
+      "i": 270,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He walks into the cafe where she is eating her cheese sandwich. He plays the charming, self-deprecating American. He slides the carrot cake toward her.",
+      "callout": null
+    },
+    {
+      "i": 271,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "He knows deep down that he is offering a grieving mother the ultimate cure to our pain. Disguised brilliantly as a random serendipitous",
+      "callout": null
+    },
+    {
+      "i": 272,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "romantic encounter. Floyd hides his absolute complicity in the cover up of Ellie's fate. He hides the horrifying fact that he knows exactly where Ellie's remains were found because he is the",
+      "callout": null
+    },
+    {
+      "i": 273,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "one who orchestrated the discovery. Planting the bag in the woods to force the closure Laurel needed to be receptive to him.",
+      "callout": null
+    },
+    {
+      "i": 274,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel looks at him across the cafe table and sees him as a serendipitous romantic savior.",
+      "callout": {
+        "text": "CAFE TABLE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 275,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She believes the universe has finally mercifully sent her a good man to bring light back into her dark life.",
+      "callout": null
+    },
+    {
+      "i": 276,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "completely unaware that he is the architect of both the light and the The absolute truth is finally bared in his confession video.",
+      "callout": null
+    },
+    {
+      "i": 277,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The screen flickers to life on his computer in the quiet study. Floyd looks directly into the camera lens wearing the exact same Paul Smith jumper he had on that morning.",
+      "callout": null
+    },
+    {
+      "i": 278,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "His face is stretched and hollowed with grief. He explains the fight in the kitchen with Noel.",
+      "callout": null
+    },
+    {
+      "i": 279,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He explains that when he lunged at Noel in anger, she fell backwards, hit her head violently,",
+      "callout": {
+        "text": "NOEL IN ANGER",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 280,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and died accidentally. He admits, staring into the camera, that he put her body in a chest freezer in his cellar and later buried her in the garden under a plastic tent.",
+      "callout": {
+        "text": "PUT HER BODY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 281,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He calmly explains he has written a legal letter, leaving Poppy to Laurel, and that he is going to take his own life to escape the consequences.",
+      "callout": {
+        "text": "TAKE HIS OWN LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 282,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Lloyd hides his ultimate cowardice. He dresses his suicide up as a noble sacrifice,",
+      "callout": null
+    },
+    {
+      "i": 283,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "a final act of profound love for Laurel and Poppy, hiding the pathetic fact that he is simply choosing death over facing Laurel's wrath,",
+      "callout": {
+        "text": "ACT OF PROFOUND LOVE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 284,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the loss of Poppy, and the severe judgment of the legal system. Poppy watches the fallout and still sees him as a good dad who didn't need to die.",
+      "callout": null
+    },
+    {
+      "i": 285,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Even after learning the horrific truth of her origins and his cover up, she fiercely protects his memory, stating firmly that he was a good father who loved her and his suicide was an unnecessary tragedy.",
+      "callout": null
+    },
+    {
+      "i": 286,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But wait, I have to argue a major criticism here. Oh, go for it. This whole sequence, the tutor, the lover, the child, the random cafe meeting, it only holds together as a massive mechanical plot coincidence.",
+      "callout": null
+    },
+    {
+      "i": 287,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "From a narrative standpoint, how can we accept this highly unbelievable contrivance as real psychology?",
+      "callout": null
+    },
+    {
+      "i": 288,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Actually, the plot itself reveals the psychology perfectly. His overwhelming guilt forces him to engineer those exact coincidences. He stalks her.",
+      "callout": null
+    },
+    {
+      "i": 289,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He stages the bag of bones in the woods. He intentionally approaches her in the cafe. Atonement as a second seduction is his psychology.",
+      "callout": null
+    },
+    {
+      "i": 290,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He physically cannot confess the truth. He must seduce her into forgiving him by gifting her the child. Floyd eventually exits the stage,",
+      "callout": null
+    },
+    {
+      "i": 291,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "leaving Laurel with the ultimate permanent substitution. So, after viewing all 10 portraits, which portrait changed the most between the first page and the last? It is Laurel.",
+      "callout": null
+    },
+    {
+      "i": 292,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel is driving home on a red root master bus after Theo and Hannah's wedding. The wind blows in off the water, lifting her hair. Poppy sits comfortably on her lap, casually",
+      "callout": null
+    },
+    {
+      "i": 293,
+      "shot": "closeUp",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "calling her mama. For 10 long years, Laurel could not even touch Ellie's empty bedroom, preserving it as a pristine shrine to a ghost.",
+      "callout": {
+        "text": "10 LONG YEARS",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 294,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Laurel is back in her home, walking into that frozen room, pulling back the sheets, and making a bed for Ellie's daughter.",
+      "callout": {
+        "text": "FROZEN ROOM",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 295,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "healing or the last substitution.",
+      "callout": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "then-she-was-gone",
+  "engine": "antidote",
+  "at": "2026-11-26T17:29:28.631Z",
+  "write": true,
+  "written": true,
+  "problems": 0,
+  "byClass": {
+    "OPERATOR": 0,
+    "AGENT_STEP": 0,
+    "REAUTHOR": 0,
+    "ROUTINE": 0
+  },
+  "byCode": [],
+  "byFile": {},
+  "operatorNeeded": false,
+  "next": "merged — next: node scripts/preview-state.js status (it names the next step: readcheck for Antidote, make-book for Vox); routine, never end the turn",
+  "items": [],
+  "warnings": 67,
+  "review": [
+    {
+      "i": 126,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"Useless, bumbling compliance\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 198,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"Floyd's desperate attempts\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 206,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"A flash of jealousy\" shows \"flash jealousy\" before the narration says it (beat 207) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 213,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"Mere sibling jealousy\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 255,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"Chaotic, violent entity\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 272,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"Orchestrated the discovery\" shows \"orchestrated discovery\" before the narration says it (beat 273) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    }
+  ],
+  "refused": {}
+}

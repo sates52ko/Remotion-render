@@ -1,0 +1,2331 @@
+{
+ "date": "2026-10-01T07:56:45.555Z",
+ "source": "measured-only diagnostic; never a gate",
+ "classes": [
+  "SUBJECT",
+  "ACTION",
+  "RELATION",
+  "STATE",
+  "WORLD",
+  "IDENTITY",
+  "COMPOSITION",
+  "METAPHOR",
+  "TEXT"
+ ],
+ "byClass": {
+  "SUBJECT": 52,
+  "TEXT": 8,
+  "STATE": 15,
+  "COMPOSITION": 9,
+  "RELATION": 1,
+  "METAPHOR": 5
+ },
+ "totalWrongRecords": 90,
+ "capabilities": {
+  "action:slump": {
+   "evidence": 17,
+   "wrongMajority": 16,
+   "classes": {
+    "SUBJECT": 5,
+    "STATE": 7,
+    "COMPOSITION": 3,
+    "METAPHOR": 1,
+    "TEXT": 1
+   }
+  },
+  "cast:1": {
+   "evidence": 64,
+   "wrongMajority": 61,
+   "classes": {
+    "SUBJECT": 35,
+    "TEXT": 5,
+    "STATE": 13,
+    "COMPOSITION": 6,
+    "RELATION": 1,
+    "METAPHOR": 4
+   }
+  },
+  "shot:diorama": {
+   "evidence": 8,
+   "wrongMajority": 6,
+   "classes": {
+    "SUBJECT": 7,
+    "STATE": 1
+   }
+  },
+  "expression:sad": {
+   "evidence": 6,
+   "wrongMajority": 5,
+   "classes": {
+    "SUBJECT": 2,
+    "STATE": 2,
+    "COMPOSITION": 2
+   }
+  },
+  "action:sit": {
+   "evidence": 13,
+   "wrongMajority": 12,
+   "classes": {
+    "TEXT": 4,
+    "SUBJECT": 6,
+    "RELATION": 1,
+    "STATE": 1,
+    "COMPOSITION": 1
+   }
+  },
+  "shot:lowAngle": {
+   "evidence": 1,
+   "wrongMajority": 0,
+   "classes": {
+    "TEXT": 1
+   }
+  },
+  "expression:worried": {
+   "evidence": 20,
+   "wrongMajority": 19,
+   "classes": {
+    "TEXT": 2,
+    "STATE": 6,
+    "SUBJECT": 8,
+    "METAPHOR": 2,
+    "COMPOSITION": 2
+   }
+  },
+  "action:point": {
+   "evidence": 7,
+   "wrongMajority": 7,
+   "classes": {
+    "SUBJECT": 6,
+    "STATE": 1
+   }
+  },
+  "shot:medium": {
+   "evidence": 13,
+   "wrongMajority": 13,
+   "classes": {
+    "SUBJECT": 9,
+    "COMPOSITION": 2,
+    "TEXT": 1,
+    "STATE": 1
+   }
+  },
+  "expression:neutral": {
+   "evidence": 53,
+   "wrongMajority": 51,
+   "classes": {
+    "SUBJECT": 37,
+    "STATE": 3,
+    "RELATION": 1,
+    "METAPHOR": 4,
+    "TEXT": 4,
+    "COMPOSITION": 4
+   }
+  },
+  "shot:illustration": {
+   "evidence": 37,
+   "wrongMajority": 37,
+   "classes": {
+    "STATE": 9,
+    "SUBJECT": 18,
+    "RELATION": 1,
+    "METAPHOR": 3,
+    "COMPOSITION": 5,
+    "TEXT": 1
+   }
+  },
+  "action:talk": {
+   "evidence": 21,
+   "wrongMajority": 21,
+   "classes": {
+    "COMPOSITION": 1,
+    "SUBJECT": 16,
+    "METAPHOR": 1,
+    "TEXT": 3
+   }
+  },
+  "expression:happy": {
+   "evidence": 3,
+   "wrongMajority": 3,
+   "classes": {
+    "COMPOSITION": 1,
+    "SUBJECT": 1,
+    "STATE": 1
+   }
+  },
+  "action:hold": {
+   "evidence": 11,
+   "wrongMajority": 11,
+   "classes": {
+    "SUBJECT": 5,
+    "STATE": 3,
+    "COMPOSITION": 3
+   }
+  },
+  "shot:closeUp": {
+   "evidence": 4,
+   "wrongMajority": 4,
+   "classes": {
+    "STATE": 2,
+    "METAPHOR": 1,
+    "SUBJECT": 1
+   }
+  },
+  "action:idle": {
+   "evidence": 35,
+   "wrongMajority": 33,
+   "classes": {
+    "SUBJECT": 22,
+    "STATE": 4,
+    "METAPHOR": 2,
+    "TEXT": 3,
+    "COMPOSITION": 4
+   }
+  },
+  "cast:2": {
+   "evidence": 26,
+   "wrongMajority": 25,
+   "classes": {
+    "SUBJECT": 17,
+    "STATE": 2,
+    "TEXT": 3,
+    "COMPOSITION": 3,
+    "METAPHOR": 1
+   }
+  },
+  "shot:twoShot": {
+   "evidence": 17,
+   "wrongMajority": 16,
+   "classes": {
+    "SUBJECT": 12,
+    "STATE": 2,
+    "TEXT": 2,
+    "COMPOSITION": 1
+   }
+  },
+  "expression:surprised": {
+   "evidence": 5,
+   "wrongMajority": 5,
+   "classes": {
+    "SUBJECT": 4,
+    "STATE": 1
+   }
+  },
+  "action:walk": {
+   "evidence": 4,
+   "wrongMajority": 3,
+   "classes": {
+    "METAPHOR": 1,
+    "SUBJECT": 3
+   }
+  },
+  "action:think": {
+   "evidence": 5,
+   "wrongMajority": 5,
+   "classes": {
+    "SUBJECT": 4,
+    "METAPHOR": 1
+   }
+  },
+  "shot:split": {
+   "evidence": 3,
+   "wrongMajority": 3,
+   "classes": {
+    "SUBJECT": 2,
+    "TEXT": 1
+   }
+  },
+  "expression:blank": {
+   "evidence": 9,
+   "wrongMajority": 8,
+   "classes": {
+    "STATE": 3,
+    "TEXT": 2,
+    "SUBJECT": 3,
+    "COMPOSITION": 1
+   }
+  },
+  "expression:angry": {
+   "evidence": 12,
+   "wrongMajority": 12,
+   "classes": {
+    "TEXT": 1,
+    "SUBJECT": 10,
+    "STATE": 1
+   }
+  },
+  "shot:silhouette": {
+   "evidence": 6,
+   "wrongMajority": 6,
+   "classes": {
+    "TEXT": 2,
+    "SUBJECT": 3,
+    "COMPOSITION": 1
+   }
+  },
+  "expression:smirk": {
+   "evidence": 7,
+   "wrongMajority": 7,
+   "classes": {
+    "TEXT": 2,
+    "SUBJECT": 4,
+    "COMPOSITION": 1
+   }
+  },
+  "action:reach": {
+   "evidence": 3,
+   "wrongMajority": 3,
+   "classes": {
+    "SUBJECT": 2,
+    "STATE": 1
+   }
+  },
+  "expression:afraid": {
+   "evidence": 1,
+   "wrongMajority": 1,
+   "classes": {
+    "COMPOSITION": 1
+   }
+  },
+  "shot:wide": {
+   "evidence": 1,
+   "wrongMajority": 1,
+   "classes": {
+    "METAPHOR": 1
+   }
+  }
+ },
+ "rows": [
+  {
+   "slug": "die-with-zero",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-12.png",
+   "frame": 71576,
+   "cls": "SUBJECT",
+   "subclass": "viewer interpret",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer interprets the scene as meaning maximum net worth is pointless because you cannot take it to the grave, whereas the narration states it optimizes for wasted life energy.",
+   "isMajority": false,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "sad"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-15.png",
+   "frame": 24889,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The text and visuals suggest a specific message about age 25, which does not match the narration's topic on logistical challenges and time buckets.",
+   "isMajority": false,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "lowAngle",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run1",
+   "pass": "official",
+   "img": 14149,
+   "frame": 14149,
+   "cls": "SUBJECT",
+   "subclass": "viewer read",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration frames armor to dismantle/attack; viewer reads only endorsement of buffer as armor.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "point"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run1",
+   "pass": "official",
+   "img": 35515,
+   "frame": 35515,
+   "cls": "STATE",
+   "subclass": "fails",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "Narration laments useless surplus as spine fails; viewer celebrates reaching 2.5M.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "sad"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run1",
+   "pass": "official",
+   "img": 51892,
+   "frame": 51892,
+   "cls": "COMPOSITION",
+   "subclass": "generic",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration is give inheritance early at 30; viewer guesses generic self purchase/experience.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "happy"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run2",
+   "pass": "official",
+   "img": 22742,
+   "frame": 22742,
+   "cls": "SUBJECT",
+   "subclass": "viewer hear",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Viewer hears warning that money misuse is suicide; narration pivots to counterintuitive defense of the example.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run2",
+   "pass": "official",
+   "img": 54414,
+   "frame": 54414,
+   "cls": "SUBJECT",
+   "subclass": "viewer hear",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Viewer hears spending is not ungenerous; narration says dying transfer is not generous.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "die-with-zero",
+   "label": "run3",
+   "pass": "official",
+   "img": 10221,
+   "frame": 10221,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "Viewer reads never convert as advice; narration laments failure to convert.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "closeUp",
+    "expressions": [
+     "sad"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 9962,
+   "frame": 9962,
+   "cls": "STATE",
+   "subclass": "frozen grin",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The narration describes a permanent frozen grin in bed, while the visual portrays a worried man and woman in a confrontation.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 26958,
+   "frame": 26958,
+   "cls": "SUBJECT",
+   "subclass": "rather than",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Depicts anxiety over smartphone messaging rather than Mildred's overdose being handled with banality by handymen.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 30581,
+   "frame": 30581,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "Interprets 'a leap' as an individual intellectual leap against conformity rather than a logical leap about societal suicide.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 34192,
+   "frame": 34192,
+   "cls": "SUBJECT",
+   "subclass": "misled",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The visual duplicates misled the viewer into seeing a 'gathering of identical men', distorting Beatty's private explanation.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 61757,
+   "frame": 61757,
+   "cls": "SUBJECT",
+   "subclass": "suggests",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Suggests hospitalization or clinical life support rather than a fugitive dragging an anesthetized leg while escaping.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "slump"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 62949,
+   "frame": 62949,
+   "cls": "STATE",
+   "subclass": "fails",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The visual emphasizes voluntary choice, which the narration immediately challenges and rejects with the Hound.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout1",
+   "pass": "official",
+   "img": 74202,
+   "frame": 74202,
+   "cls": "SUBJECT",
+   "subclass": "suggests",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Suggests restoring cultural continuity rather than Bradbury's critique of willful surrender to technology.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout2",
+   "pass": "official",
+   "img": 13442,
+   "frame": 13442,
+   "cls": "SUBJECT",
+   "subclass": "the narration explicitly states he is not thinking about boo",
+   "matchedRule": "/.*/",
+   "why": "The narration explicitly states he is not thinking about book ideas, but the visual presents him positively valuing them.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout2",
+   "pass": "official",
+   "img": 17803,
+   "frame": 17803,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer understood a rising sunrise or heat force, which is completely unrelated to driving too fast to see nature.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "point"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout2",
+   "pass": "official",
+   "img": 41255,
+   "frame": 41255,
+   "cls": "SUBJECT",
+   "subclass": "viewer interpret",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer interpreted discovering historical links in books, which is unrelated to society incinerating challenging ideas for comfort.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "happy"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout2",
+   "pass": "official",
+   "img": 44599,
+   "frame": 44599,
+   "cls": "RELATION",
+   "subclass": "interaction",
+   "matchedRule": "/relation|interaction|who does what|attacked? by|gives? to|handoff|exchange.*(lost|wrong)|between.*(lost|unclear)/",
+   "why": "The visual suggests genuine human connection and bonding, contradicting the narration about fake scripted validation with parlor screens.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout2",
+   "pass": "official",
+   "img": 62411,
+   "frame": 62411,
+   "cls": "SUBJECT",
+   "subclass": "contradict",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer understood benign medical treatment, contradicting narration about lethal execution via anesthetic injection.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 9281,
+   "frame": 9281,
+   "cls": "METAPHOR",
+   "subclass": "literal",
+   "matchedRule": "/metaphor|\\bliteral(ly)?\\b|figure of speech|idiom/",
+   "why": "Narration describes Montag's glee in burning books like a barbecue, but dinnerware misled the viewer into seeing digestible cultural consumption.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 18847,
+   "frame": 18847,
+   "cls": "SUBJECT",
+   "subclass": "viewer to understand",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration explains the physical environment stretching for speed, but the clock led the viewer to understand distortion of time.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 48381,
+   "frame": 48381,
+   "cls": "SUBJECT",
+   "subclass": "misinterpret",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Misinterprets the scene as a mentor sharing wisdom, missing Mildred's panic over forgetting where they met.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "surprised"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 55332,
+   "frame": 55332,
+   "cls": "SUBJECT",
+   "subclass": "viewer conclude",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration states people have time on the clock but lack mental silence, whereas viewer concluded people lack schedule time.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 60228,
+   "frame": 60228,
+   "cls": "METAPHOR",
+   "subclass": "metaphor",
+   "matchedRule": "/metaphor|\\bliteral(ly)?\\b|figure of speech|idiom/",
+   "why": "The phrase 'drifting like smoke' was understood as disappearing memories rather than the Hound tracking Montag across the lawn.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "walk"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 60662,
+   "frame": 60662,
+   "cls": "SUBJECT",
+   "subclass": "narration states the mechanical hound is devoid of emotion, ",
+   "matchedRule": "/.*/",
+   "why": "Narration states the Mechanical Hound is devoid of emotion, but showing a worried man led the viewer to attribute this to people.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 61365,
+   "frame": 61365,
+   "cls": "STATE",
+   "subclass": "fails",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "Narration describes Montag destroying the Hound with a flamethrower, but viewer understood the city being engulfed by conflict.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "point"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout3",
+   "pass": "official",
+   "img": 72738,
+   "frame": 72738,
+   "cls": "SUBJECT",
+   "subclass": "misinterpret",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Misinterprets a meta-critique of Bradbury's anti-technology stance as an in-universe action of oppressive authorities.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "think"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "holdout4",
+   "pass": "official",
+   "img": 72511,
+   "frame": 72511,
+   "cls": "SUBJECT",
+   "subclass": "the viewer understood clarisse challenging conformist societ",
+   "matchedRule": "/.*/",
+   "why": "The viewer understood Clarisse challenging conformist society in the story, whereas the narration is a meta-criticism of Bradbury's novel being reactionary.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 2641,
+   "frame": 2641,
+   "cls": "SUBJECT",
+   "subclass": "diverging",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "A smiling man next to a sports trophy conveys athletic or prestigious rewards, diverging from introducing the tragic characters and self-destruction.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "split",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 10555,
+   "frame": 10555,
+   "cls": "STATE",
+   "subclass": "frozen smile",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "Narration emphasizes a frozen smile from hyperstimulation, whereas the visual shows a worried face and an unrelated 3:00 clock suggesting late-night insomnia.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "closeUp",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 19951,
+   "frame": 19951,
+   "cls": "SUBJECT",
+   "subclass": "suggests",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "An archery target with an arrow hitting the outer ring suggests target practice or puncturing routines, unrelated to experiencing life texture versus speed.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "walk"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 47999,
+   "frame": 47999,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration is analyzing Mildred's obsession with her parlor family, but the visual presents an unmentioned comparison with Clarisse.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "sad"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 57208,
+   "frame": 57208,
+   "cls": "SUBJECT",
+   "subclass": "suggests",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Spoken narration explains the myth of Hercules and Antaeus, but the image suggests the book's countryside scholar ending.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 57481,
+   "frame": 57481,
+   "cls": "SUBJECT",
+   "subclass": "the viewer mistook the mythological lifting of antaeus for a",
+   "matchedRule": "/.*/",
+   "why": "The viewer mistook the mythological lifting of Antaeus for an atomic explosion shockwave lifting buildings.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 61011,
+   "frame": 61011,
+   "cls": "STATE",
+   "subclass": "fails",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The narration introduces the brutal automated Mechanical Hound, but the reused smiling mask conveys only superficial cheerfulness.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 62698,
+   "frame": 62698,
+   "cls": "METAPHOR",
+   "subclass": "literal",
+   "matchedRule": "/metaphor|\\bliteral(ly)?\\b|figure of speech|idiom/",
+   "why": "The narration refers to literal lethal execution by the Hound, while the viewer interpreted it as metaphorical distraction causing spiritual death.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "closeUp",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "fahrenheit-451",
+   "label": "run1",
+   "pass": "official",
+   "img": 65018,
+   "frame": 65018,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The visual shows a trophy and a truncated title, conveying trivial spectacles rather than the televised live manhunt of Montag.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "happy"
+    ]
+   }
+  },
+  {
+   "slug": "i-robot",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-06.png",
+   "frame": 64231,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The video shows two characters with neutral and smiling expressions, failing to convey shock and terror.",
+   "isMajority": false,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "idle"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "blank",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "i-robot",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-26.png",
+   "frame": 27895,
+   "cls": "TEXT",
+   "subclass": "text says",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The text says 'THAT ROBOT LIES' which contradicts the narration's message that Powell says 'Robots can't knowingly lie'.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "i-robot",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-26.png",
+   "frame": 27895,
+   "cls": "SUBJECT",
+   "subclass": "cannot lie",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "The text and characters suggest the robot is lying, whereas the narration states that Donovan suspects the robot is lying but Powell interrupts to say robots cannot lie.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "i-robot",
+   "label": "run1",
+   "pass": "official",
+   "img": 27895,
+   "frame": 27895,
+   "cls": "SUBJECT",
+   "subclass": "cannot know",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "Viewer says robot lies, but point is robots cannot knowingly lie.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-03.png",
+   "frame": 71236,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The text on screen advises against yesmen, whereas the narration discusses skin in the game and voluntary risk, leading to a mismatched message.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "silhouette",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-12.png",
+   "frame": 82117,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The visual text displays and reinforces the quote 'It is completely irrational not to play,' which the narrator immediately refutes as terrible advice, leading to a direct contradiction with the messa",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-13.png",
+   "frame": 9891,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The text on screen emphasizes 'DEBATING ETHICS', whereas the narration explicitly states 'We aren't sitting here debating ethics today', creating a direct contradiction for a mute viewer.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-19.png",
+   "frame": 64469,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The viewer's message directly contradicts the narration, which explicitly says to drop your shield.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "angry"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-21.png",
+   "frame": 70340,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The viewer thinks it is about protecting a 401k, which misses the entire concept of forced skin in the game breeding cowardice and yes-men.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r1",
+   "img": "img-28.png",
+   "frame": 43369,
+   "cls": "SUBJECT",
+   "subclass": "contradict",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer's message about a trophy and skin in the game completely contradicts the narration's discussion of playing with people's lives and resetting simulations.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "sit"
+    ],
+    "castCount": 2,
+    "shot": "split",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-03.png",
+   "frame": 71236,
+   "cls": "SUBJECT",
+   "subclass": "the text and image discuss yesmen, whereas the narration dis",
+   "matchedRule": "/.*/",
+   "why": "The text and image discuss yesmen, whereas the narration discusses skin in the game and voluntary risk.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "silhouette",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-13.png",
+   "frame": 9891,
+   "cls": "SUBJECT",
+   "subclass": "rather than",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The text with a red strike-through communicates debating ethics, whereas the narration explicitly states they are not debating ethics today.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-19.png",
+   "frame": 64469,
+   "cls": "SUBJECT",
+   "subclass": "viewer interpret",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer interprets the scene as 'never drop your shield', whereas the narration explicitly discusses dropping the shield to run faster and save your life.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "angry"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-21.png",
+   "frame": 70340,
+   "cls": "STATE",
+   "subclass": "fail",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "The viewer thinks the video is about protecting a financial asset, which contradicts the narration about forced skin in the game breeding cowardice and yesmen.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r2",
+   "img": "img-30.png",
+   "frame": 98890,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer message about insight number eight and skin in the game is completely unrelated to the narration about stepping out of the stands.",
+   "isMajority": false,
+   "capabilities": {
+    "actions": [
+     "walk"
+    ],
+    "castCount": 1,
+    "shot": "diorama",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-03.png",
+   "frame": 71236,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The text on screen advises against yes-men, which contradicts the narration's discussion of skin in the game and voluntary risk.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "silhouette",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-12.png",
+   "frame": 82117,
+   "cls": "SUBJECT",
+   "subclass": "the viewer's message only conveys that it is irrational not ",
+   "matchedRule": "/.*/",
+   "why": "The viewer's message only conveys that it is irrational not to play, missing the subsequent crucial narrative twist and tragic action where the trader pulls the trigger.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-13.png",
+   "frame": 9891,
+   "cls": "SUBJECT",
+   "subclass": "reject",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "The text with strike-through lines suggests debating ethics is rejected, contradicting the narration's point that they are simply bypassing the debate rather than declaring it wrong.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-19.png",
+   "frame": 64469,
+   "cls": "SUBJECT",
+   "subclass": "the viewer's message states the narrator emphasizes never dr",
+   "matchedRule": "/.*/",
+   "why": "The viewer's message states the narrator emphasizes never dropping your shield, whereas the narration explicitly says to drop your shield.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "angry"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-21.png",
+   "frame": 70340,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "The viewer sees a man holding a coin and interprets it as protecting a 401k, which is unrelated to the narration's topic of skin in the game, cowardice, and yes-men.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "r3",
+   "img": "img-28.png",
+   "frame": 43369,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "The viewer thought the discussion was about comparing lives with others, whereas the narration is about elites treating real people's lives like a video game simulation.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "sit"
+    ],
+    "castCount": 2,
+    "shot": "split",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "skin-in-the-game",
+   "label": "run1",
+   "pass": "official",
+   "img": 71236,
+   "frame": 71236,
+   "cls": "SUBJECT",
+   "subclass": "reject",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "The visual focuses on rejecting advice about yes-men, which distracts from the narration's core rule that risk must be voluntary.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "silhouette",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "the-courage-to-be-disliked",
+   "label": "run1",
+   "pass": "official",
+   "img": 68310,
+   "frame": 68310,
+   "cls": "SUBJECT",
+   "subclass": "reject",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "Narration explicitly says the future DOES matter and you CAN have goals; the strikethrough on 'future doesn't matter' without nuance contradicts the philosopher's actual correction.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "talk"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 1761,
+   "frame": 1761,
+   "cls": "COMPOSITION",
+   "subclass": "generic",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration here is about setting the stage/environment, not surgery; the 'REQUIRED SURGERY' text and IV/cross imagery introduce an unrelated claim.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 6182,
+   "frame": 6182,
+   "cls": "COMPOSITION",
+   "subclass": "vague",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration is describing physical scars/broken bones from a beer-bottle attack; the visual instead announces 'ADRENALINE AND DOPAMINE' with a confused figure, a different beat entirely.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "sad"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 21852,
+   "frame": 21852,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration at this moment is about Gray handing her an ice pack after the hornet sting (he's both threat and comfort); the visual instead shows a doctor with a 'STERILE CLINICAL APPROACH' header, an un",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "reach"
+    ],
+    "castCount": 2,
+    "shot": "silhouette",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 24813,
+   "frame": 24813,
+   "cls": "SUBJECT",
+   "subclass": "narration describes gray systematically isolating avery, a d",
+   "matchedRule": "/.*/",
+   "why": "Narration describes Gray systematically isolating Avery, a dark manipulative act, but the man pictured is smiling, an emotional mismatch with the tragic/controlling content.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "point"
+    ],
+    "castCount": 2,
+    "shot": "illustration",
+    "expressions": [
+     "neutral",
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 38706,
+   "frame": 38706,
+   "cls": "SUBJECT",
+   "subclass": "narration is a meta-comment about the author inviting the re",
+   "matchedRule": "/.*/",
+   "why": "Narration is a meta-comment about the author inviting the reader to enjoy something terrible; the bedroom scene reads as an in-story event happening to the worried woman, not an authorial address to t",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "surprised"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 45460,
+   "frame": 45460,
+   "cls": "COMPOSITION",
+   "subclass": "generic",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration at this point is about Avery's adrenaline-flooded nervous system, not the earlier ice-pack moment; the 'AN ICE PACK' header is from a different, earlier beat.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 50522,
+   "frame": 50522,
+   "cls": "SUBJECT",
+   "subclass": "contradict",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration stresses he glares with pure hatred, not hurt, but the pictured face is broadly smiling — a direct emotional contradiction.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "point"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 54381,
+   "frame": 54381,
+   "cls": "STATE",
+   "subclass": "fails",
+   "matchedRule": "/fails?|failing to convey (shock|terror|panic|fear|dread|horror)|frozen (smile|grin)|(grin|glee|smil\\w+).*(worried|frozen)/",
+   "why": "Narration describes a slow, nauseating, horrifying realization (bloodied knuckles, hatred in his eyes), but the woman's face is described as calm, contradicting the intended dread/dawning horror.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "surprised"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run1",
+   "pass": "official",
+   "img": 61801,
+   "frame": 61801,
+   "cls": "COMPOSITION",
+   "subclass": "framing",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration asks whether the viewer is rooting for the villain or has been manipulated; the header 'HOLD THE DOOR SHUT' and door imagery is unrelated to this reflective question.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run2",
+   "pass": "official",
+   "img": 28321,
+   "frame": 28321,
+   "cls": "METAPHOR",
+   "subclass": "metaphor",
+   "matchedRule": "/metaphor|\\bliteral(ly)?\\b|figure of speech|idiom/",
+   "why": "Narration describes a wall being built, but the image shows a chain, a mismatched metaphor that could suggest bondage/connection instead of walling off.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run2",
+   "pass": "official",
+   "img": 31630,
+   "frame": 31630,
+   "cls": "TEXT",
+   "subclass": "on-screen text",
+   "matchedRule": "/on-?screen text|caption|printed (word|text|label)|title (says|reads|wrong)|text (says|reads|wrong|misread)/",
+   "why": "Narration describes overwhelming physical pleasure, but the woman's worried expression conveys distress, not pleasure, an emotional mismatch.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "slump"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run2",
+   "pass": "official",
+   "img": 46770,
+   "frame": 46770,
+   "cls": "STATE",
+   "subclass": "wrong emotion",
+   "matchedRule": "/(afraid|exhausted|unconscious|panic|desperat|weary|grief|lament|mourn|regret).*(not visible|invisible|unreadable|wrong)|internal state|state (is )?(not|invisib)|wrong emotion|wrong emotional|emotional register|wrong tone|tone mismatch/",
+   "why": "Narration describes a seductive, intimate whisper of devotion, but the man's fist gesture reads as aggressive/threatening rather than tender.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "reach"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run2",
+   "pass": "official",
+   "img": 49335,
+   "frame": 49335,
+   "cls": "SUBJECT",
+   "subclass": "rather than",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration describes tattoos covering scars as an act of healing/reclaiming her body, but the image shows an IV drip/syringe icon, suggesting medical treatment rather than tattooing.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold",
+     "idle"
+    ],
+    "castCount": 2,
+    "shot": "illustration",
+    "expressions": [
+     "neutral",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run2",
+   "pass": "official",
+   "img": 51859,
+   "frame": 51859,
+   "cls": "SUBJECT",
+   "subclass": "the double strikethrough on 'not' and 'heartbroken' is ambig",
+   "matchedRule": "/.*/",
+   "why": "The double strikethrough on 'NOT' and 'HEARTBROKEN' is ambiguous and easy to misread as confirming he IS heartbroken, whereas the narration's actual point is he is furious, not heartbroken, at all.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "point"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "angry"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run2",
+   "pass": "official",
+   "img": 61498,
+   "frame": 61498,
+   "cls": "COMPOSITION",
+   "subclass": "framing",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration frames the male figure as a 'monster,' but he is shown smiling cheerfully beside her, an emotional mismatch that undercuts the monstrous framing.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "slump"
+    ],
+    "castCount": 2,
+    "shot": "silhouette",
+    "expressions": [
+     "neutral",
+     "sad"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run3",
+   "pass": "official",
+   "img": 40295,
+   "frame": 40295,
+   "cls": "SUBJECT",
+   "subclass": "contradict",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration describes violent possessiveness and wanting to see a fight, but both men are shown smiling pleasantly, contradicting the tone.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "reach"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 5633,
+   "frame": 5633,
+   "cls": "COMPOSITION",
+   "subclass": "generic",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Narration stresses 'alarming casualness' but both figures shown neutral/calm with no sense of alarm conveyed.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "hold",
+     "idle"
+    ],
+    "castCount": 2,
+    "shot": "illustration",
+    "expressions": [
+     "afraid",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 11224,
+   "frame": 11224,
+   "cls": "SUBJECT",
+   "subclass": "suggests",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Archery target/bullseye suggests precision or achieving a goal, not freezing/paralysis from trauma as narration states.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "think"
+    ],
+    "castCount": 2,
+    "shot": "illustration",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 17428,
+   "frame": 17428,
+   "cls": "SUBJECT",
+   "subclass": "rather than",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Noose-like loop shape risks suggesting self-harm rather than the dopamine/brain-adaptation concept in narration.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "think"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "surprised"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 18176,
+   "frame": 18176,
+   "cls": "SUBJECT",
+   "subclass": "contradict",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Friendly big smile contradicts 'wildly erratic'/violent behavior described in narration (slamming people, punching).",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "closeUp",
+    "expressions": [
+     "angry"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 25360,
+   "frame": 25360,
+   "cls": "SUBJECT",
+   "subclass": "contradict",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Bald man's broad smile doesn't match 'inherently hostile' description of Sam; also introduces new unexplained characters.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "slump"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 35038,
+   "frame": 35038,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Startled expression is plausible but sunburst/skyscraper background is unrelated to the misattribution-of-arousal concept, risking confusion.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "surprised"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 37966,
+   "frame": 37966,
+   "cls": "METAPHOR",
+   "subclass": "literal",
+   "matchedRule": "/metaphor|\\bliteral(ly)?\\b|figure of speech|idiom/",
+   "why": "Narration is about narrative structure mirroring chemical reactions, not about two identical/mirrored women, which could read as a literal double or reflection unrelated to the point.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "think"
+    ],
+    "castCount": 2,
+    "shot": "wide",
+    "expressions": [
+     "neutral",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 40491,
+   "frame": 40491,
+   "cls": "SUBJECT",
+   "subclass": "celebrat",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "Celebratory happy pose contradicts narration's point that cheering for Gray is troubling/misplaced given he's 'a monster.'",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "think"
+    ],
+    "castCount": 1,
+    "shot": "medium",
+    "expressions": [
+     "worried"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run4",
+   "pass": "official",
+   "img": 55359,
+   "frame": 55359,
+   "cls": "COMPOSITION",
+   "subclass": "framing",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "Man's big cheerful smile beside her neutral face undercuts the narration's warning about a predator/no-exit situation, reading instead as a happy couple.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "idle"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "smirk"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run5",
+   "pass": "official",
+   "img": 25939,
+   "frame": 25939,
+   "cls": "SUBJECT",
+   "subclass": "instead of",
+   "matchedRule": "/emphasis|distract|reject|instead of|focus.*away|attention.*(away|wrong)|opposite meaning|different meaning|suggests a different|reads? as (if|though)|(cannot|can't|doesn'?t) (know|lie|speak|see)|celebrat|proud|milestone|surplus/",
+   "why": "Narration says Avery retreats alone to the library as her own safe space; the shield icon leads the viewer to read the man as her protector, misattributing agency.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "walk"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run5",
+   "pass": "official",
+   "img": 56358,
+   "frame": 56358,
+   "cls": "SUBJECT",
+   "subclass": "unrelated",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Narration describes a tattooed fist punishment and a woman screaming in a hallway; the syringe/IV icon points to an unrelated medical concept, misleading the viewer.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "point"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "angry",
+     "neutral"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run5",
+   "pass": "official",
+   "img": 56930,
+   "frame": 56930,
+   "cls": "COMPOSITION",
+   "subclass": "generic",
+   "matchedRule": "/salience|composition|arrangement|framing|crowded|clutter|too (busy|small)|hierarchy|generic|vague/",
+   "why": "The image gives no cue that this is Avery's own internal monologue; the blind viewer misattributes the 'I killed my father' line to the man, reading it as a jarring, unrelated confession.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "sit"
+    ],
+    "castCount": 1,
+    "shot": "illustration",
+    "expressions": [
+     "blank"
+    ]
+   }
+  },
+  {
+   "slug": "unhinged",
+   "label": "run6",
+   "pass": "official",
+   "img": 12340,
+   "frame": 12340,
+   "cls": "SUBJECT",
+   "subclass": "rather than",
+   "matchedRule": "/viewer.{0,24}\\b(interpret|understand|read|think|conclude|hear)|misinterpret|contradict|unrelated|rather than|instead of|misses|fails? to convey|misled|diverging|portrays?|suggests/",
+   "why": "Introduces an unexplained older man in a lab coat not matching the narration's content about her internal alienation; risks being read as a new character/plot point.",
+   "isMajority": true,
+   "capabilities": {
+    "actions": [
+     "idle",
+     "talk"
+    ],
+    "castCount": 2,
+    "shot": "twoShot",
+    "expressions": [
+     "neutral",
+     "worried"
+    ]
+   }
+  }
+ ]
+}

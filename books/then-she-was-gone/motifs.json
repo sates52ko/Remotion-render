@@ -1,0 +1,109 @@
+{
+  "rucksack": {
+    "title": "Rucksack",
+    "reads": "a backpack: a tall body with two shoulder straps and a flap",
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M140 170 Q140 130 180 130 L340 130 Q380 130 380 170 L380 460 Q380 480 360 480 L160 480 Q140 480 140 460 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M140 170 L380 170 L380 270 Q260 300 140 270 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M170 130 Q170 40 200 40 Q230 40 230 130",
+        "stroke": "ink",
+        "strokeWidth": 16
+      },
+      {
+        "d": "M180 330 L340 330 L340 440 Q340 455 325 455 L195 455 Q180 455 180 440 Z",
+        "stroke": "accent",
+        "strokeWidth": 10
+      },
+      {
+        "d": "M190 330 H330",
+        "stroke": "paper",
+        "strokeWidth": 8
+      },
+      {
+        "d": "M236 262 H284 V298 H236 Z",
+        "fill": "paper"
+      }
+    ]
+  },
+  "letter": {
+    "title": "Letter",
+    "reads": "a sealed paper letter in an envelope",
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M70 150 L450 150 L450 380 L70 380 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M90 170 L260 290 L430 170 L430 360 L90 360 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M70 150 L260 300 L450 150 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M70 150 L260 300 L450 150",
+        "stroke": "ink",
+        "strokeWidth": 10
+      },
+      {
+        "d": "M380 182 H428 V230 H380 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M110 330 H250 M110 350 H210",
+        "stroke": "paper",
+        "strokeWidth": 6
+      }
+    ]
+  },
+  "croissant": {
+    "title": "Croissant",
+    "reads": "a croissant, a curved pastry with rounded lobes",
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M60 330 Q90 240 160 250 Q210 180 260 180 Q310 180 360 250 Q430 240 460 330 Q420 390 360 360 Q310 390 260 360 Q210 390 160 360 Q100 390 60 330 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M160 360 Q175 300 160 250",
+        "stroke": "accent",
+        "strokeWidth": 10
+      },
+      {
+        "d": "M360 360 Q345 300 360 250",
+        "stroke": "accent",
+        "strokeWidth": 10
+      },
+      {
+        "d": "M210 365 Q215 300 205 215",
+        "stroke": "accent",
+        "strokeWidth": 8
+      },
+      {
+        "d": "M310 365 Q305 300 315 215",
+        "stroke": "accent",
+        "strokeWidth": 8
+      },
+      {
+        "d": "M120 290 Q150 245 200 238",
+        "stroke": "paper",
+        "strokeWidth": 8
+      },
+      {
+        "d": "M80 385 Q260 425 440 385 Q260 405 80 385 Z",
+        "fill": "#7D6E62"
+      }
+    ]
+  }
+}

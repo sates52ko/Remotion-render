@@ -1,0 +1,33 @@
+{
+  "slug": "then-she-was-gone",
+  "hook": "NOBODY LOOKED",
+  "grammarSig": "c1ac16b78c2eb018",
+  "ok": true,
+  "at": "2026-11-26T17:38:46.978Z",
+  "variants": [
+    {
+      "letter": "A",
+      "file": "out/thumbnail-then-she-was-gone.png",
+      "sha256": "ba98fe5662f4c5fc6b06410528f665ebef316e6c45d84673e2d4f0d73a724376",
+      "hookVisible": true,
+      "changedPct": 3.32,
+      "detail": "3.32% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "B",
+      "file": "out/thumbnail-then-she-was-gone-b.png",
+      "sha256": "e77f5e5462e485d56e305b7791434f2130c8132cdbda70b0de2a64d2b1075333",
+      "hookVisible": true,
+      "changedPct": 3.39,
+      "detail": "3.39% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "C",
+      "file": "out/thumbnail-then-she-was-gone-c.png",
+      "sha256": "996a441f2e7fb559f61a65290b7d34698bb77710a341719d803a3029b5e87ab0",
+      "hookVisible": true,
+      "changedPct": 3.18,
+      "detail": "3.18% of pixels change with the hook (visible ≥ 0.8%)"
+    }
+  ]
+}

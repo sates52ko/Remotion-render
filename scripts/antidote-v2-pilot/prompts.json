@@ -1,0 +1,72 @@
+{
+  "outDir": "scenes/antidote-v2-pilot",
+  "artLock": "mid-century modern New Yorker editorial gouache and crisp ink illustration, bold architectural shapes, warm amber and deep teal lighting, rich textured dark tones, stylish contemporary adults, painterly depth",
+  "characters": {},
+  "filterBlacklist": {
+    "soot black": "deep charcoal",
+    "brick red": "warm rust",
+    "brandy": "warm tea",
+    "empire": "kingdom",
+    "sociopath": "cold manipulator",
+    "threat": "tension",
+    "desperate": "anxious"
+  },
+  "scenes": [
+    {
+      "id": "s1_fast_grin",
+      "mode": "comparisonGrid",
+      "prompt": "A stiff anxious man in a dark suit at a warm evening cocktail party flashing an instant mechanical nervous grin, rigid posture, shallow artificial expression"
+    },
+    {
+      "id": "s1_warm_smile",
+      "mode": "comparisonGrid",
+      "prompt": "A poised woman in a teal blazer at an evening gathering pausing a beat then offering a genuine warm radiant smile that reaches her eyes, relaxed welcoming posture"
+    },
+    {
+      "id": "s1_yale_lab",
+      "mode": "realAnchor",
+      "prompt": "An atmospheric Boston university psychology seminar room with warm wooden desks, two researchers holding clipboards observing two seated adults in conversation, moody amber lamp light"
+    },
+    {
+      "id": "s1_eye_contact",
+      "mode": "visualEquation",
+      "prompt": "Two stylish adults seated across a small round cafe table locked in attentive unbroken eye contact, warm amber glow between them, quiet focused intimacy"
+    },
+    {
+      "id": "s2_cold_credentials",
+      "mode": "comparisonGrid",
+      "prompt": "A stiff aloof professional standing alone at a social reception holding a tall stack of formal certificates and resumes, cold distant posture, nobody approaching"
+    },
+    {
+      "id": "s2_warm_chat",
+      "mode": "comparisonGrid",
+      "prompt": "Two adults in winter coats laughing warmly together beside a frosty city window holding warm ceramic mugs, relaxed friendly rapport"
+    },
+    {
+      "id": "s2_static_wall",
+      "mode": "visualEquation",
+      "prompt": "A single blank cream envelope resting on a quiet dark walnut desk beside a closed brass pocket watch, calm minimal still life"
+    },
+    {
+      "id": "s2_trampoline",
+      "mode": "visualEquation",
+      "prompt": "A lively mid-century dinner table conversation where two adults lean in with animated gestures and glowing golden sparks of curiosity rising between them"
+    },
+    {
+      "id": "s3_lobby_boardroom",
+      "mode": "scenic",
+      "prompt": "Stylized architectural cutaway of a modern tower showing a warm respectful greeting at the ground lobby reception desk rising up to an upper glass boardroom bathed in amber light"
+    },
+    {
+      "id": "s3_robotic_overload",
+      "mode": "comparisonGrid",
+      "prompt": "A stressed person at a networking mixer surrounded by floating brass stopwatches, mechanical gears, and tangled checklist ribbons, overwhelmed rigid posture"
+    },
+    {
+      "id": "s3_natural_ease",
+      "mode": "comparisonGrid",
+      "prompt": "A relaxed confident person in effortless genuine conversation with a smiling colleague in a sunlit mid-century lounge, natural open posture"
+    }
+  ],
+  "objects": []
+}

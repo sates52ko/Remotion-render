@@ -1,0 +1,1481 @@
+[
+  {
+    "i": 117,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "horizontal",
+      "wipeAt": 140,
+      "endSplit": 0.5,
+      "at": 8,
+      "before": {
+        "label": "PUSHED AWAY",
+        "headline": "Paul, shut out",
+        "points": [
+          "He did not freeze"
+        ],
+        "tone": "neutral"
+      },
+      "after": {
+        "label": "MOVED ON",
+        "headline": "A brand new kitchen",
+        "points": [
+          "A home built again"
+        ],
+        "tone": "positive"
+      }
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Paul's life after being pushed away",
+      "action": "wipes from shut out to a new kitchen",
+      "payoff": "Paul rebuilt instead of freezing"
+    },
+    "explainedBy": "Paul, pushed away, builds a brand new kitchen and moves on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul did not freeze; he built a new home life and moved on.",
+      "concreteVisual": "A wipe from 'Pushed away' to 'Moved on: a brand new kitchen'.",
+      "onScreenText": "PUSHED AWAY / MOVED ON · A brand new kitchen",
+      "relationToPrevious": "From the sister's framing to the father's response.",
+      "addedInformation": "The before/after shows the direction of Paul's life, not just his face."
+    }
+  },
+  {
+    "i": 118,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "broadsheetRule",
+      "kicker": "THE GALLERY",
+      "title": "PORTRAIT 4 · PAUL",
+      "subtitle": "The father who moved on",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Portrait four: Paul",
+      "action": "opens Paul's portrait",
+      "payoff": "the viewer knows whose mind we enter"
+    },
+    "explainedBy": "Portrait four opens: Paul, the father who moved on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Portrait four is Paul, who wants to keep living and loving.",
+      "concreteVisual": "A portrait title card: PORTRAIT 4 · PAUL.",
+      "onScreenText": "PORTRAIT 4 · PAUL",
+      "relationToPrevious": "Closes Paul's kitchen and opens his own portrait.",
+      "addedInformation": "Marks the gallery's fourth portrait by number and name."
+    }
+  },
+  {
+    "i": 119,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "PAUL'S DRIVE",
+      "lines": [
+        {
+          "text": "Practical. Gentle. Grounded.",
+          "at": 10
+        },
+        {
+          "text": "Let the nightmare destroy him",
+          "strikeAt": 205,
+          "at": 150
+        },
+        {
+          "text": "Small pockets of warmth",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 295
+        }
+      ],
+      "divider": "line"
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Paul's way of surviving",
+      "action": "strikes out being destroyed, writes warmth",
+      "payoff": "Paul survives by choosing small warm moments"
+    },
+    "explainedBy": "Paul refuses to be destroyed and finds small pockets of warmth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul is gentle and grounded and survives on small warm moments.",
+      "concreteVisual": "Three typed lines; 'let the nightmare destroy him' is struck through, 'small pockets of warmth' stays.",
+      "onScreenText": "Practical. Gentle. Grounded. / Small pockets of warmth",
+      "relationToPrevious": "Continues Paul's portrait from his drive to his character.",
+      "addedInformation": "The strike-through shows what Paul refuses, the last line what he chooses."
+    }
+  },
+  {
+    "i": 120,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A grotesque betrayal",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel",
+      "paul"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "sad",
+    "partnerAction": "slump",
+    "explainedBy": "Laurel sees Paul's refusal to match her vigil as a betrayal of Ellie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul's refusal to grieve like Laurel reads to her as betrayal.",
+      "concreteVisual": "Laurel points accusingly at Paul, who slumps.",
+      "onScreenText": "A grotesque betrayal",
+      "relationToPrevious": "Moves from Paul's reasoning to Laurel's view of it.",
+      "addedInformation": "The relationship is the claim: she accuses him and he takes it."
+    }
+  },
+  {
+    "i": 121,
+    "cast": [],
+    "concept": null,
+    "timelineScrub": {
+      "title": "WHERE THE RESENTMENT STARTS",
+      "events": [
+        {
+          "time": "Laurel's rule",
+          "title": "Life must end",
+          "detail": "When a child goes missing",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "time": "May 2005",
+          "title": "The night she vanished",
+          "detail": "The resentment begins",
+          "tone": "danger",
+          "at": 340
+        },
+        {
+          "time": "That night",
+          "title": "A house in panic",
+          "tone": "danger",
+          "at": 360
+        }
+      ],
+      "callout": "Paul's moving on threatens her story",
+      "calloutAt": 180
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "the origin of Laurel's resentment",
+      "action": "scrubs back to May 2005",
+      "payoff": "the split starts the night of the disappearance"
+    },
+    "explainedBy": "The marital resentment starts on the night Ellie disappears in May 2005.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The resentment begins the night of the disappearance.",
+      "concreteVisual": "A timeline rail: Laurel's rule, then May 2005, the night she vanished, a house in panic.",
+      "onScreenText": "Life must end / May 2005 · The night she vanished",
+      "relationToPrevious": "From Paul's survival to why it hurts Laurel.",
+      "addedInformation": "Dates the start of the marital split to May 2005."
+    }
+  },
+  {
+    "i": 122,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Heavy summer cold",
+      "style": "highlight"
+    },
+    "place": "kitchen",
+    "cast": [
+      "paul"
+    ],
+    "expression": "sad",
+    "action": "walk",
+    "explainedBy": "Paul, sick with a summer cold, comes downstairs into the kitchen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul is sick and comes down to the kitchen in a silly outfit.",
+      "concreteVisual": "Paul walks into the family kitchen, pale and sick.",
+      "onScreenText": "Heavy summer cold",
+      "relationToPrevious": "From the night of the disappearance to the kitchen the next morning.",
+      "addedInformation": "Shows the sickness that makes Paul look weak to Laurel."
+    }
+  },
+  {
+    "i": 123,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Breathing through his mouth",
+      "style": "highlight"
+    },
+    "place": "kitchen",
+    "cast": [
+      "paul"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Paul's cold makes him gurgle and breathe through his mouth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul is physically unwell and unpleasant to be near.",
+      "concreteVisual": "Paul slumps in the kitchen with a worried, miserable face.",
+      "onScreenText": "Breathing through his mouth",
+      "relationToPrevious": "Continues Paul's arrival in the kitchen.",
+      "addedInformation": "Shows the sickness itself, not only a mood."
+    }
+  },
+  {
+    "i": 124,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Paul's tissue, Laurel's gaze",
+      "action": "four panels of the small act and her watching",
+      "payoff": "a trivial act becomes the moment of contempt"
+    },
+    "explainedBy": "Paul blows his nose and throws the tissue away while Laurel watches.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel watches Paul's small, careful act with disdain.",
+      "concreteVisual": "Four text panels: blows his nose, folds the tissue, into the pedal bin, Laurel watches.",
+      "onScreenText": "Blows his nose / Folds the tissue / Into the pedal bin / Laurel watches",
+      "relationToPrevious": "Zooms into the night of the disappearance.",
+      "addedInformation": "Shows the step-by-step act Laurel is judging."
+    },
+    "timelineScrub": {
+      "title": "MAY 2005 · THE KITCHEN",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "Blows his nose",
+          "detail": "A thick summer cold",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "time": "Then",
+          "title": "Folds the tissue",
+          "detail": "Carefully, into a ball",
+          "tone": "neutral",
+          "at": 165
+        },
+        {
+          "time": "Next",
+          "title": "Into the pedal bin",
+          "tone": "neutral",
+          "at": 250
+        },
+        {
+          "time": "Last",
+          "title": "Laurel watches",
+          "detail": "From across the kitchen island",
+          "tone": "danger",
+          "at": 296
+        }
+      ]
+    }
+  },
+  {
+    "i": 125,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "horizontal",
+      "wipeAt": 90,
+      "endSplit": 0.5,
+      "before": {
+        "label": "WHAT LAUREL SEES",
+        "headline": "A bumbling man with a cold",
+        "points": [
+          "Combat shorts",
+          "Disdain"
+        ],
+        "tone": "neutral"
+      },
+      "after": {
+        "label": "WHAT PAUL HIDES",
+        "headline": "Shattering terror",
+        "points": [
+          "As broken as she is"
+        ],
+        "tone": "danger"
+      },
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Paul in the kitchen",
+      "action": "a wipe moves from Laurel's view of Paul to the terror he hides",
+      "payoff": "Paul is as broken as Laurel"
+    },
+    "explainedBy": "Laurel watches Paul with disdain, but he hides a terror as great as hers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul hides his terror behind clumsy compliance.",
+      "concreteVisual": "Wipe: 'A bumbling man with a cold' gives way to 'Shattering terror'.",
+      "onScreenText": "Shattering terror",
+      "relationToPrevious": "From Laurel's disdain to what Paul is hiding.",
+      "addedInformation": "Reveals Paul's hidden fear under Laurel's view."
+    }
+  },
+  {
+    "i": 126,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Useless, bumbling compliance",
+      "style": "highlight"
+    },
+    "place": "kitchen",
+    "cast": [
+      "paul"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "The mask of compliance covers Paul's horror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul's bumbling compliance is a mask over his horror.",
+      "concreteVisual": "Paul, sad and broken, stands alone in the kitchen.",
+      "onScreenText": "Useless, bumbling compliance",
+      "relationToPrevious": "Continues the terror beat: the act is the mask.",
+      "addedInformation": "The mask is the false public face the narration describes."
+    }
+  },
+  {
+    "i": 127,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "PAUL IN THE KITCHEN",
+      "root": {
+        "label": "The house could collapse"
+      },
+      "branches": [
+        {
+          "label": "Keep up normality",
+          "sublabel": "Small domestic routines",
+          "tone": "positive",
+          "winner": true,
+          "at": 115
+        },
+        {
+          "label": "Let it all fall",
+          "tone": "danger",
+          "at": 200,
+          "pruneAt": 222
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Paul's choice that night",
+      "action": "prunes letting it fall, keeps normality",
+      "payoff": "Paul holds the house up with routine"
+    },
+    "explainedBy": "Paul works to keep up normality so the house does not collapse.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul tries to keep domestic normality going.",
+      "concreteVisual": "A branching tree: the house could collapse; 'keep up normality' wins, 'let it all fall' is pruned.",
+      "onScreenText": "The house could collapse / Keep up normality",
+      "relationToPrevious": "Explains the motive behind the tissue scene.",
+      "addedInformation": "His behavior is a choice to hold the structure, not indifference."
+    }
+  },
+  {
+    "i": 128,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Weak and repulsive",
+      "style": "highlight"
+    },
+    "place": "kitchen",
+    "cast": [
+      "laurel",
+      "paul"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel sees Paul as weak and repulsive while he blows his nose.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel judges Paul weak and repulsive.",
+      "concreteVisual": "Laurel points at Paul; Paul stands, worried.",
+      "onScreenText": "Weak and repulsive",
+      "relationToPrevious": "Moves from Paul's act to Laurel's judgement of it.",
+      "addedInformation": "The judgement is shown as her action toward him."
+    }
+  },
+  {
+    "i": 129,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "LAUREL'S WAR",
+      "leftLabel": "SHE NEEDS",
+      "rightLabel": "SHE SEES",
+      "leftWeights": [
+        {
+          "label": "A war zone",
+          "weight": 1.4,
+          "tone": "danger",
+          "at": 115
+        },
+        {
+          "label": "A warrior",
+          "weight": 1.6,
+          "tone": "danger",
+          "at": 175
+        },
+        {
+          "label": "Tears the world apart",
+          "sublabel": "Driven mad by grief",
+          "weight": 1.6,
+          "tone": "danger",
+          "at": 335
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Utterly inadequate",
+          "weight": 0.4,
+          "tone": "neutral",
+          "at": 20
+        },
+        {
+          "label": "Blowing his nose",
+          "weight": 0.3,
+          "tone": "neutral",
+          "at": 455
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Laurel's need against Paul",
+      "action": "tips toward the warrior she wants",
+      "payoff": "Paul weighs nothing against her war"
+    },
+    "explainedBy": "Laurel feels she is in a war zone and needs a warrior; Paul looks inadequate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel feels she is in a war and wants a fighter.",
+      "concreteVisual": "A scale: 'She needs' a war zone warrior outweighs 'She sees' a man blowing his nose.",
+      "onScreenText": "SHE NEEDS: A warrior / SHE SEES: Blowing his nose",
+      "relationToPrevious": "From Laurel watching to what she wants instead.",
+      "addedInformation": "Weighs the warrior she wants against the man she sees."
+    }
+  },
+  {
+    "i": 130,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "LAUREL'S VERDICT",
+      "lines": [
+        {
+          "text": "A bright t-shirt",
+          "at": 10
+        },
+        {
+          "text": "One crystallizing moment",
+          "at": 170
+        },
+        {
+          "text": "Not big enough",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 240
+        },
+        {
+          "text": "Not strong enough",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 275
+        }
+      ],
+      "divider": "line"
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Laurel's judgment of Paul",
+      "action": "stamps her verdict line by line",
+      "payoff": "she decides he cannot carry their tragedy"
+    },
+    "explainedBy": "Laurel decides Paul is not big or strong enough for their tragedy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel decides Paul is not big enough for their tragedy.",
+      "concreteVisual": "Typed lines landing: a bright t-shirt, one crystallizing moment, not big enough, not strong enough.",
+      "onScreenText": "Not big enough / Not strong enough",
+      "relationToPrevious": "The scale tipped; now she pronounces the verdict.",
+      "addedInformation": "Names the moment and the exact judgment she makes."
+    }
+  },
+  {
+    "i": 131,
+    "concept": "birthday-cake",
+    "diagram": null,
+    "callout": {
+      "text": "Islington birthday dinner",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "Years later, the birthday dinner shows the final result of the division.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The division shows up years later at a family dinner.",
+      "concreteVisual": "A birthday cake stands alone; no people.",
+      "onScreenText": "Islington birthday dinner",
+      "relationToPrevious": "A jump in time to the dinner.",
+      "addedInformation": "The cake is the book's own birthday drawing for the dinner."
+    }
+  },
+  {
+    "i": 132,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Paul arrives with Bonnie",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "paul"
+    ],
+    "expression": "happy",
+    "action": "walk",
+    "explainedBy": "Paul arrives at the dinner with his new partner, Bonnie.",
+    "noVisual": "Bonnie is not in the cast; her embrace of Laurel is not staged.",
+    "storyboard": {
+      "claim": "Paul arrives with his new partner.",
+      "concreteVisual": "Paul walks in, happy.",
+      "onScreenText": "Paul arrives with Bonnie",
+      "relationToPrevious": "Continues the dinner from the cake.",
+      "addedInformation": "Weak: Bonnie is not drawn; the callout names her."
+    }
+  },
+  {
+    "i": 133,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "ISLINGTON BIRTHDAY DINNER",
+      "stations": [
+        {
+          "label": "Bonnie",
+          "detail": "Hands on Laurel's arms",
+          "tone": "positive",
+          "at": 8
+        },
+        {
+          "label": "Paul steps up",
+          "tone": "neutral",
+          "at": 115
+        },
+        {
+          "label": "Floyd",
+          "detail": "Laurel's boyfriend",
+          "tone": "accent",
+          "at": 145
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "the greeting at the dinner",
+      "action": "moves from Bonnie to Paul to Floyd",
+      "payoff": "the two men are brought face to face"
+    },
+    "explainedBy": "Bonnie greets Laurel and Paul steps up to meet Floyd.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul goes to Floyd at the dinner.",
+      "concreteVisual": "A route across the dinner: Bonnie with Laurel, Paul steps up, Floyd.",
+      "onScreenText": "Bonnie / Paul steps up / Floyd",
+      "relationToPrevious": "Years later, at the birthday dinner.",
+      "addedInformation": "Shows who meets whom as the families greet."
+    }
+  },
+  {
+    "i": 134,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "They shake hands",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "paul",
+      "floyd"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Paul points at their ankles as he shakes hands with Floyd.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul and Floyd greet, and Paul points at their socks.",
+      "concreteVisual": "Paul points down at the two men's ankles.",
+      "onScreenText": "They shake hands",
+      "relationToPrevious": "From the approach to the handshake and the point.",
+      "addedInformation": "The point directs the viewer to the socks in the next beat."
+    }
+  },
+  {
+    "i": 135,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Same striped socks",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "paul",
+      "floyd"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "They wear the exact same striped designer socks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul and Floyd wear identical socks.",
+      "concreteVisual": "Paul still points at the matching striped socks.",
+      "onScreenText": "Same striped socks",
+      "relationToPrevious": "Continues the point from the handshake; the callout names the socks.",
+      "addedInformation": "The socks are the same, which the narration says; the callout gives the word."
+    }
+  },
+  {
+    "i": 136,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Paul hides his guilt",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "paul",
+      "floyd"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Paul jokes with Floyd while hiding his lingering guilt.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul's joking hides his guilt.",
+      "concreteVisual": "Paul leans toward Floyd, both smiling.",
+      "onScreenText": "Paul hides his guilt",
+      "relationToPrevious": "From the socks to the joke between them.",
+      "addedInformation": "The guilt is only in the callout; the face is the joke the narration describes."
+    }
+  },
+  {
+    "i": 137,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "WHAT PAUL HIDES",
+      "items": [
+        {
+          "label": "Deep shame",
+          "detail": "Kept on the surface, hidden",
+          "level": 0.4,
+          "targetLevel": 0.9,
+          "changeAt": 60,
+          "tone": "danger"
+        },
+        {
+          "label": "He survived",
+          "detail": "The end of his marriage",
+          "level": 0.3,
+          "targetLevel": 0.8,
+          "changeAt": 110,
+          "tone": "neutral"
+        },
+        {
+          "label": "A happy life",
+          "detail": "Soft, with Bonnie",
+          "level": 0.2,
+          "targetLevel": 0.9,
+          "changeAt": 255,
+          "tone": "positive"
+        }
+      ],
+      "callout": "Under the shame: a happy life",
+      "calloutAt": 265,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "the layers of Paul's secret",
+      "action": "cuts down through shame to survival to happiness",
+      "payoff": "his shame is that he is happy"
+    },
+    "explainedBy": "Paul hides the shame of surviving his marriage and finding a happy life with Bonnie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul hides shame about his new happy life.",
+      "concreteVisual": "A cutaway of layers: deep shame, he survived, a happy life with Bonnie.",
+      "onScreenText": "Deep shame / He survived / A happy life",
+      "relationToPrevious": "From the socks joke to what Paul hides under it.",
+      "addedInformation": "Shows the shame sits on top of a happy life."
+    }
+  },
+  {
+    "i": 138,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A decade in purgatory",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Laurel spent a decade in purgatory while Paul moved on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel was left in purgatory for a decade.",
+      "concreteVisual": "Laurel slumps, sad, in the dinner room.",
+      "onScreenText": "A decade in purgatory",
+      "relationToPrevious": "From Paul's comfortable life to Laurel's decade.",
+      "addedInformation": "Shows her defeat, not a fire or a violent image."
+    }
+  },
+  {
+    "i": 139,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A profound betrayal",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel",
+      "paul"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "happy",
+    "partnerAction": "talk",
+    "explainedBy": "Laurel sees Paul's happy laughter as a profound betrayal.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sees Paul's happiness as betrayal.",
+      "concreteVisual": "Laurel stands angry while Paul laughs and talks.",
+      "onScreenText": "A profound betrayal",
+      "relationToPrevious": "From the decade to Laurel watching Paul laugh.",
+      "addedInformation": "Paul's laughing is shown as talk, so the happiness is visible."
+    }
+  },
+  {
+    "i": 140,
+    "cast": [],
+    "concept": null,
+    "liveInterface": {
+      "variant": "metricBoard",
+      "title": "THE BIRTHDAY DINNER",
+      "channels": [
+        {
+          "name": "Laurel",
+          "preview": "Introduces her boyfriend",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "name": "Paul",
+          "preview": "Whole",
+          "tone": "positive",
+          "at": 175
+        },
+        {
+          "name": "Paul",
+          "preview": "Happy",
+          "tone": "positive",
+          "at": 190
+        },
+        {
+          "name": "Paul",
+          "preview": "Joking about the socks",
+          "tone": "accent",
+          "at": 235
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "live-interface",
+      "subject": "Laurel's reading of the dinner",
+      "action": "lights up Paul's signs of being fine",
+      "payoff": "his ease reads to her as betrayal"
+    },
+    "explainedBy": "Seeing Paul whole and happy shows Laurel how fully he left their vigil.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul abandoned their shared vigil for Ellie.",
+      "concreteVisual": "A board of readings: Laurel introduces her boyfriend; Paul whole, happy, joking about socks.",
+      "onScreenText": "Paul: Whole / Happy / Joking about the socks",
+      "relationToPrevious": "From Paul's hidden shame to how Laurel sees him.",
+      "addedInformation": "Lists the signals Laurel reads as abandonment."
+    }
+  },
+  {
+    "i": 141,
+    "cast": [],
+    "concept": null,
+    "cohortGrid": {
+      "title": "WHO KNOWS 'T' IS THEO",
+      "total": 6,
+      "splitAt": 90,
+      "leftGroup": {
+        "label": "Knows",
+        "sublabel": "Paul · Hanna",
+        "share": 0.67,
+        "tone": "accent"
+      },
+      "rightGroup": {
+        "label": "Kept in the dark",
+        "sublabel": "Laurel",
+        "share": 0.33,
+        "tone": "danger"
+      },
+      "callout": "Paul guards Hanna's secret",
+      "calloutAt": 220,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "cohort-split",
+      "subject": "the secret of Hanna's boyfriend",
+      "action": "the family splits into those who know and Laurel, who does not",
+      "payoff": "Paul colludes to hide that T is Theo"
+    },
+    "explainedBy": "Paul knows Hanna's boyfriend T is Theo and keeps it from Laurel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul keeps Hanna's boyfriend a secret from Laurel.",
+      "concreteVisual": "A grid splits: Paul and Hanna know; Laurel kept in the dark.",
+      "onScreenText": "Who knows 'T' is Theo",
+      "relationToPrevious": "From Paul's new happiness to the secret he protects.",
+      "addedInformation": "Shows who is inside the secret and who is out."
+    }
+  },
+  {
+    "i": 142,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "Paul the triage medic",
+      "layout": "borderless",
+      "columns": [
+        {
+          "heading": "What Paul shields",
+          "bullets": [
+            "Hanna and Theo"
+          ],
+          "highlight": "A fragile relationship",
+          "tone": "positive"
+        },
+        {
+          "heading": "Shielded from",
+          "bullets": [
+            "Laurel's judgment"
+          ],
+          "highlight": "Inevitable, devastating",
+          "tone": "danger"
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Paul's protection of the secret",
+      "action": "the frame splits between what he guards and what he guards it from",
+      "payoff": "Paul triages: he saves what he can"
+    },
+    "explainedBy": "Paul shields Hanna and Theo's fragile relationship from Laurel's judgment, like a triage medic",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul protects the relationship from Laurel's judgment.",
+      "concreteVisual": "A full-bleed split: What Paul shields / Shielded from",
+      "onScreenText": "Hanna and Theo / Laurel's judgment",
+      "relationToPrevious": "From his collusion over T to why he keeps the secret",
+      "addedInformation": "Names both sides of his triage"
+    }
+  },
+  {
+    "i": 143,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "He saved himself",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "paul"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "explainedBy": "Paul saves himself while the medical stage stays on screen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul saved himself by triage, not by the people he left.",
+      "concreteVisual": "Paul holds still, worried, alone in the room.",
+      "onScreenText": "He saved himself",
+      "relationToPrevious": "Continues the triage stage; his face and hold change.",
+      "addedInformation": "The result is the callout, and the face shows the cost."
+    }
+  },
+  {
+    "i": 144,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "diagonal",
+      "wipeAt": 150,
+      "endSplit": 0.5,
+      "at": 10,
+      "before": {
+        "label": "PAUL",
+        "headline": "Enough stability",
+        "points": [
+          "He saved what he could"
+        ],
+        "tone": "positive"
+      },
+      "after": {
+        "label": "THE BOYFRIEND",
+        "headline": "Didn't really move on",
+        "points": [
+          "The secret they protect"
+        ],
+        "tone": "danger"
+      }
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Paul versus the boyfriend",
+      "action": "wipes from Paul's stability to the boyfriend",
+      "payoff": "the protected boyfriend never moved on"
+    },
+    "explainedBy": "Paul kept enough stability, but the boyfriend they protect did not move on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo did not move on from Ellie.",
+      "concreteVisual": "A diagonal wipe from 'Paul: enough stability' to 'The boyfriend: didn't really move on'.",
+      "onScreenText": "Enough stability / Didn't really move on",
+      "relationToPrevious": "Closes Paul's portrait and turns to the boyfriend.",
+      "addedInformation": "Contrasts who truly moved on and who did not."
+    }
+  },
+  {
+    "i": 145,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "verticalSpine",
+      "kicker": "THE GALLERY",
+      "title": "PORTRAIT 5 · THEO",
+      "subtitle": "Ellie's boyfriend, now Hanna's",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Portrait five: Theo",
+      "action": "opens Theo's portrait",
+      "payoff": "the viewer knows the next mind is Theo's"
+    },
+    "explainedBy": "Portrait five opens: Theo, Ellie's boyfriend, now Hanna's.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo's devotion shifted to Hanna.",
+      "concreteVisual": "A portrait title card: PORTRAIT 5 · THEO, Ellie's boyfriend, now Hanna's.",
+      "onScreenText": "PORTRAIT 5 · THEO",
+      "relationToPrevious": "From the boyfriend who didn't move on to his own portrait.",
+      "addedInformation": "Names the fifth portrait and his two relationships."
+    }
+  },
+  {
+    "i": 146,
+    "concept": "portrait",
+    "diagram": null,
+    "callout": {
+      "text": "Keep the piece of Ellie",
+      "style": "highlight"
+    },
+    "continue": true,
+    "cast": [
+      "theo",
+      "hanna"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Theo wants to keep the piece of Ellie he finds in Hanna.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo keeps Ellie's piece in Hanna.",
+      "concreteVisual": "The same portrait; Theo slumps, sad.",
+      "onScreenText": "Keep the piece of Ellie",
+      "relationToPrevious": "Continues the portrait; Theo's posture changes to his motive.",
+      "addedInformation": "The slump shows the trauma the narration names."
+    }
+  },
+  {
+    "i": 147,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "diagonal",
+      "wipeAt": 150,
+      "endSplit": 0.5,
+      "before": {
+        "label": "THEO'S FIRST FUTURE",
+        "headline": "Promised with Ellie",
+        "points": [
+          "One sister"
+        ],
+        "tone": "neutral"
+      },
+      "after": {
+        "label": "THEO'S SHIFT",
+        "headline": "Moved to Hanna",
+        "points": [
+          "The nearest match"
+        ],
+        "tone": "danger"
+      },
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Theo's transfer of affection",
+      "action": "a wipe slides the future from Ellie to Hanna",
+      "payoff": "Theo moves his promised future to the nearest match"
+    },
+    "explainedBy": "Theo shifts the future he was promised with Ellie onto her sister Hanna, and that feels wrong to those he hurts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo moves his future from Ellie to Hanna.",
+      "concreteVisual": "Diagonal wipe: 'Promised with Ellie' becomes 'Moved to Hanna'.",
+      "onScreenText": "Moved to Hanna",
+      "relationToPrevious": "From Theo's wish to keep Ellie to how he does it.",
+      "addedInformation": "Shows the transfer as a before and after."
+    }
+  },
+  {
+    "i": 148,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "FOR LAUREL",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Theo's affection",
+          "tone": "neutral"
+        },
+        {
+          "label": "Moved to Hanna",
+          "tone": "accent"
+        },
+        {
+          "label": "Ellie's memory, polluted",
+          "tone": "danger"
+        }
+      ],
+      "footnote": "It feels deeply wrong",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "the transfer of Theo's affection",
+      "action": "adds affection and its move to Hanna",
+      "payoff": "Laurel feels Ellie's memory is stained"
+    },
+    "explainedBy": "Theo's affection moving to Hanna pollutes Ellie's memory for Laurel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The transfer pollutes Ellie's memory for Laurel.",
+      "concreteVisual": "Torn-paper notes: Theo's affection, moved to Hanna, Ellie's memory polluted.",
+      "onScreenText": "Theo's affection / Moved to Hanna / Ellie's memory, polluted",
+      "relationToPrevious": "From Theo's motive to how it hurts Laurel.",
+      "addedInformation": "Shows the cause and the consequence as one equation."
+    }
+  },
+  {
+    "i": 149,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A mere vessel",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Hanna is reduced to a mere vessel for a resurrected love story.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hanna is made a stand-in for Ellie.",
+      "concreteVisual": "Hanna, worried, stands alone.",
+      "onScreenText": "A mere vessel",
+      "relationToPrevious": "From Laurel's view to what it does to Hanna.",
+      "addedInformation": "Shows Hanna as the person reduced, not as a romance."
+    }
+  },
+  {
+    "i": 150,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "THE LOVE STORY STOPS",
+      "value": "MAY 2005",
+      "label": "An interrupted love story",
+      "note": "Hanna is loved as Ellie's echo",
+      "framing": "paperBlock",
+      "tone": "accent",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "the date the love story froze",
+      "action": "the date lands",
+      "payoff": "Theo's love is fixed in May 2005"
+    },
+    "explainedBy": "The interrupted love story is fixed in May 2005.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The origin is May 2005",
+      "concreteVisual": "The date MAY 2005 slams in",
+      "onScreenText": "MAY 2005",
+      "relationToPrevious": "Names the origin date",
+      "addedInformation": "The love story froze on that date"
+    }
+  },
+  {
+    "i": 151,
+    "cast": [],
+    "concept": null,
+    "timelineScrub": {
+      "title": "ELLIE'S BEDROOM",
+      "events": [
+        {
+          "time": "May 2005",
+          "title": "Theo and Ellie",
+          "detail": "Lounging in her bedroom",
+          "tone": "positive",
+          "at": 10
+        },
+        {
+          "time": "That day",
+          "title": "Sun at the window",
+          "tone": "positive",
+          "at": 175
+        }
+      ],
+      "callout": "Right before everything stops",
+      "calloutAt": 45
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "the last ordinary day",
+      "action": "scrubs back to May 2005 in Ellie's room",
+      "payoff": "the love story is fixed just before it stops"
+    },
+    "explainedBy": "Theo and Ellie are together in her bedroom right before everything stops.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo and Ellie spend a sunny day together before everything stops.",
+      "concreteVisual": "A timeline: May 2005, Theo and Ellie in her bedroom, sun at the window.",
+      "onScreenText": "May 2005 · Theo and Ellie / Right before everything stops",
+      "relationToPrevious": "Goes back to the origin of the interrupted love story.",
+      "addedInformation": "Dates the scene and marks it as the last moment before the change."
+    }
+  },
+  {
+    "i": 152,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Teenage hope",
+      "style": "highlight"
+    },
+    "place": "ellie-room",
+    "cast": [
+      "ellie",
+      "theo"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Ellie talks excitedly about their summer plans.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie is excited about the summer.",
+      "concreteVisual": "Ellie, happy, talks; Theo, happy, sits by.",
+      "onScreenText": "Teenage hope",
+      "relationToPrevious": "Continues the room; the action is talk now.",
+      "addedInformation": "The talk is the excitement the narration describes."
+    }
+  },
+  {
+    "i": 153,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "She wants to paraglide",
+      "style": "highlight"
+    },
+    "place": "ellie-room",
+    "cast": [
+      "ellie",
+      "theo"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Ellie talks about paragliding while Theo laughs at her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie wants to go paragliding.",
+      "concreteVisual": "Ellie talks; Theo, happy, laughs.",
+      "onScreenText": "She wants to paraglide",
+      "relationToPrevious": "Continues Ellie's talk about the summer.",
+      "addedInformation": "Theo's laugh is shown as his happy face."
+    }
+  },
+  {
+    "i": 154,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Theo and Ellie's summer talk",
+      "action": "four panels from her plan to his wish",
+      "payoff": "he only wants time with her"
+    },
+    "explainedBy": "Theo teases Ellie's summer plan and says he wants to do nothing with her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo teases Ellie and says he wants only to be with her.",
+      "concreteVisual": "Four text panels: Paragliding?, he teases her, touches her face, do nothing together.",
+      "onScreenText": "Paragliding? / He teases her / Touches her face / Do nothing together",
+      "relationToPrevious": "Continues the bedroom scene.",
+      "addedInformation": "Shows the exchange step by step."
+    },
+    "timelineScrub": {
+      "title": "SUMMER PLANS",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "Paragliding?",
+          "detail": "Ellie's grand summer plan",
+          "tone": "accent",
+          "at": 10
+        },
+        {
+          "time": "Then",
+          "title": "He teases her",
+          "detail": "Theo laughs at the plan",
+          "tone": "neutral",
+          "at": 40
+        },
+        {
+          "time": "Next",
+          "title": "Touches her face",
+          "tone": "positive",
+          "at": 225
+        },
+        {
+          "time": "Last",
+          "title": "Do nothing together",
+          "detail": "All he wants this summer",
+          "tone": "positive",
+          "at": 241
+        }
+      ]
+    }
+  },
+  {
+    "i": 155,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "WHAT THEO ASSUMES",
+      "lines": [
+        {
+          "text": "AN ENDLESS SUMMER AHEAD",
+          "at": 10,
+          "strikeAt": 80
+        },
+        {
+          "text": "TIME IS FRAGILE",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 100
+        }
+      ],
+      "divider": "line",
+      "footnote": "He cannot see it",
+      "footnoteAt": 150
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Theo's complacency",
+      "action": "'an endless summer ahead' is struck out and 'time is fragile' replaces it",
+      "payoff": "Theo is unaware of how fragile their time is"
+    },
+    "explainedBy": "Theo complacently assumes an endless summer; he is unaware how fragile their time is.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo wrongly assumes endless time with Ellie.",
+      "concreteVisual": "'An endless summer ahead' struck through; 'Time is fragile' lands below.",
+      "onScreenText": "Time is fragile",
+      "relationToPrevious": "From his teasing to the assumption under it.",
+      "addedInformation": "Rejects his assumption on screen."
+    }
+  },
+  {
+    "i": 156,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "An endless expanse of summer",
+      "style": "highlight"
+    },
+    "place": "ellie-room",
+    "cast": [
+      "theo"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "Theo assumes an endless summer ahead, unaware of the timeline's fragility.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo assumes endless time ahead.",
+      "concreteVisual": "Theo, happy, talks in the room.",
+      "onScreenText": "An endless expanse of summer",
+      "relationToPrevious": "Continues Theo alone from his complacency to his assumption.",
+      "addedInformation": "The confident talk shows the arrogance the narration names."
+    }
+  },
+  {
+    "i": 157,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "MAY 2005",
+      "items": [
+        {
+          "label": "A sunny summer day",
+          "detail": "About to be shattered",
+          "level": 0.3,
+          "targetLevel": 0.8,
+          "changeAt": 60,
+          "tone": "neutral"
+        },
+        {
+          "label": "Theo, in her lap",
+          "level": 0.3,
+          "targetLevel": 0.8,
+          "changeAt": 150,
+          "tone": "neutral"
+        },
+        {
+          "label": "Her prize",
+          "detail": "How Ellie sees him",
+          "level": 0.4,
+          "targetLevel": 1,
+          "changeAt": 215,
+          "tone": "accent"
+        }
+      ],
+      "callout": "Ellie sees him as a prize",
+      "calloutAt": 220,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "how Ellie sees Theo",
+      "action": "cuts from the day to Theo to her prize",
+      "payoff": "she treasures him in a fragile moment"
+    },
+    "explainedBy": "Ellie looks down at Theo in her lap and sees him as a prize.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie sees Theo as a prize.",
+      "concreteVisual": "Layers: a sunny summer day, Theo in her lap, her prize.",
+      "onScreenText": "Theo, in her lap / Her prize",
+      "relationToPrevious": "Ends the bedroom scene from Ellie's side.",
+      "addedInformation": "Shows the value Ellie places on Theo at that moment."
+    }
+  },
+  {
+    "i": 158,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Ultimate living proof",
+      "style": "highlight"
+    },
+    "place": "ellie-room",
+    "continue": true,
+    "cast": [
+      "ellie",
+      "theo"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Theo is a status symbol proving Ellie's own worth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo proves Ellie's worth to her.",
+      "concreteVisual": "Ellie, smirking, sits beside Theo.",
+      "onScreenText": "Ultimate living proof",
+      "relationToPrevious": "Continues the trophy; Ellie's face shows her self-regard.",
+      "addedInformation": "The smirk is her self-regard, not joy at a death."
+    }
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "i": 0,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "ellie"
+        ],
+        "at": "library"
+      },
+      "events": [
+        {
+          "on": "never",
+          "do": "title",
+          "text": "Never comes back"
+        }
+      ]
+    },
+    "explainedBy": "A 15-year-old walks to the library in May and never comes back.",
+    "noVisual": null
+  },
+  {
+    "i": 1,
+    "told": {
+      "events": [
+        {
+          "on": "nobody",
+          "do": "title",
+          "text": "Nobody searches for Ellie Mack"
+        }
+      ]
+    },
+    "explainedBy": "Nobody actually searches for Ellie Mack.",
+    "noVisual": null
+  },
+  {
+    "i": 2,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "EACH PERSON HOLDS A REPLACEMENT",
+      "value": "10 YEARS",
+      "label": "A secret the replacements hide",
+      "note": "Nobody searches for Ellie",
+      "framing": "paperBlock",
+      "tone": "danger",
+      "at": 8,
+      "bars": [
+        {
+          "label": "Searching for Ellie",
+          "value": 0.08,
+          "text": "Nobody",
+          "tone": "neutral",
+          "at": 60
+        },
+        {
+          "label": "Holding a replacement",
+          "value": 0.9,
+          "text": "Everyone",
+          "tone": "danger",
+          "at": 110
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "the ten years the replacements cover",
+      "action": "the number 10 YEARS slams in, then two bars: nobody searching vs everyone holding a replacement",
+      "payoff": "the replacements kept a secret hidden for a decade"
+    },
+    "explainedBy": "Each person holds a replacement for Ellie, and those replacements hide a crime for 10 years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The replacements hide a crime for 10 years.",
+      "concreteVisual": "A monumental 10 YEARS with two bars: searching for Ellie (empty) vs holding a replacement (full).",
+      "onScreenText": "10 YEARS",
+      "relationToPrevious": "Turns the hook that nobody searches into what they hold instead.",
+      "addedInformation": "Puts the ten-year span and the search-vs-replacement contrast on screen."
+    }
+  },
+  {
+    "i": 3,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "REPLACEMENTS, NOT ELLIE",
+      "columns": [
+        {
+          "heading": "Laurel",
+          "tag": "TAKES",
+          "bullets": [
+            "Poppy"
+          ],
+          "highlight": "Poppy",
+          "tone": "accent"
+        },
+        {
+          "heading": "Noelle",
+          "tag": "TAKES",
+          "bullets": [
+            "A baby"
+          ],
+          "highlight": "A baby",
+          "tone": "danger"
+        },
+        {
+          "heading": "Theo",
+          "tag": "TAKES",
+          "bullets": [
+            "Hanna"
+          ],
+          "highlight": "Hanna",
+          "tone": "neutral"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "who takes which replacement",
+      "action": "three people each take a stand-in",
+      "payoff": "nobody takes Ellie back"
+    },
+    "explainedBy": "Laurel takes Poppy, Noelle takes a baby, Theo takes Hanna: each a replacement.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Each person takes a replacement, not Ellie",
+      "concreteVisual": "Three columns: Laurel - Poppy, Noelle - a baby, Theo - Hanna",
+      "onScreenText": "REPLACEMENTS, NOT ELLIE",
+      "relationToPrevious": "Sets up the gallery",
+      "addedInformation": "Who replaces Ellie for whom"
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Desperate for the copy to be real",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel",
+      "floyd"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel wants the replacement to be real, and Floyd is the man she takes in; the reader is fooled the same way.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel is so desperate for the copy to be real that she is fooled.",
+      "concreteVisual": "Laurel, sad and slumped, beside Floyd with a smirk that reads as the man who holds the lie.",
+      "onScreenText": "Desperate for the copy to be real",
+      "relationToPrevious": "From the general replacements to the specific pairing of Laurel and Floyd.",
+      "addedInformation": "Shows Laurel's need and Floyd's edge; no act of harm is staged."
+    }
+  },
+  {
+    "i": 5,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "A GALLERY OF 10 PORTRAITS",
+      "subtitle": "Person by person",
+      "stations": [
+        {
+          "label": "Portrait 1",
+          "detail": "Ellie",
+          "tone": "accent",
+          "at": 10
+        },
+        {
+          "label": "Portrait 2",
+          "detail": "Laurel",
+          "at": 120
+        },
+        {
+          "label": "Portraits 3-9",
+          "detail": "One person at a time",
+          "at": 200
+        },
+        {
+          "label": "Portrait 10",
+          "detail": "The last face",
+          "at": 255
+        },
+        {
+          "label": "Where two touch",
+          "detail": "The plot of the crime",
+          "tone": "danger",
+          "at": 320
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "the gallery walk through ten portraits",
+      "action": "a route walks from portrait to portrait and ends where two portraits meet",
+      "payoff": "the plot lives only where two portraits touch"
+    },
+    "explainedBy": "The story is walked like a gallery of ten portraits; the plot appears where two portraits touch.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The video walks through ten portraits; the plot is where two touch.",
+      "concreteVisual": "A route of stations from Portrait 1 to Portrait 10, ending at a station marked 'Where two touch'.",
+      "onScreenText": "A GALLERY OF 10 PORTRAITS",
+      "relationToPrevious": "Turns from the replacement idea to the structure of the video.",
+      "addedInformation": "Shows the walk as a route and marks where the plot will appear."
+    }
+  },
+  {
+    "i": 6,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "broadsheetRule",
+      "kicker": "PORTRAIT 1",
+      "title": "PORTRAIT 1 · ELLIE",
+      "subtitle": "May 2005",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "the first portrait, Ellie",
+      "action": "a chapter card opens Portrait 1 with the date May 2005",
+      "payoff": "the gallery walk begins with Ellie"
+    },
+    "explainedBy": "Portrait one is Ellie in May 2005, the girl the narrator steps into.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Portrait one is Ellie, May 2005.",
+      "concreteVisual": "A broadsheet chapter card: PORTRAIT 1 · ELLIE, May 2005.",
+      "onScreenText": "PORTRAIT 1 · ELLIE",
+      "relationToPrevious": "Opens the first portrait of the gallery just announced.",
+      "addedInformation": "Names the portrait and its date."
+    }
+  },
+  {
+    "i": 7,
+    "told": {
+      "events": [
+        {
+          "on": "perfect",
+          "do": "title",
+          "text": "I have to be perfect"
+        }
+      ]
+    },
+    "explainedBy": "Ellie's core motivation is the demand to be perfect so that she can match Theo.",
+    "noVisual": null
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Suffocating pressure",
+      "style": "highlight"
+    },
+    "cast": [
+      "ellie"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Being the family's golden girl is a crushing weight for a teenager to carry.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The pressure on Ellie is suffocating for a teenager.",
+      "concreteVisual": "Ellie slumped with a worried face, carrying the family's expectations on her own body.",
+      "onScreenText": "Suffocating pressure",
+      "relationToPrevious": "From her demand to be perfect to the pressure that demand puts on her.",
+      "addedInformation": "The pressure is shown on Ellie herself; the narration names it, no object stands for it."
+    }
+  },
+  {
+    "i": 9,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "ELLIE",
+      "lines": [
+        {
+          "text": "SHE IS FLAWLESS",
+          "strikeAt": 95,
+          "at": 10
+        },
+        {
+          "text": "SHE PERFORMS FLAWLESS",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 110
+        }
+      ],
+      "divider": "line",
+      "footnote": "An act put on for others",
+      "footnoteAt": 150
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Ellie's flawless existence",
+      "action": "'she is flawless' is struck through and replaced by 'she performs flawless'",
+      "payoff": "her perfection is a performance, not a fact"
+    },
+    "explainedBy": "Ellie actively performs a flawless existence; it is an act, not who she is.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie is performing a flawless existence.",
+      "concreteVisual": "Type: 'SHE IS FLAWLESS' struck through, then 'SHE PERFORMS FLAWLESS'.",
+      "onScreenText": "SHE PERFORMS FLAWLESS",
+      "relationToPrevious": "Turns the crushing weight into the performance she puts on.",
+      "addedInformation": "The strike-through says the flawlessness is an act."
+    }
+  },
+  {
+    "i": 10,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "theo"
+        ]
+      },
+      "events": [
+        {
+          "on": "best",
+          "do": "title",
+          "text": "The best-looking boy"
+        }
+      ]
+    },
+    "explainedBy": "Theo Goodman is the best-looking boy in Ellie's London school.",
+    "noVisual": null
+  },
+  {
+    "i": 11,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "ELLIE WEIGHS HERSELF",
+      "leftLabel": "THEO",
+      "rightLabel": "ELLIE'S FEAR",
+      "leftWeights": [
+        {
+          "label": "Best-looking boy",
+          "sublabel": "Her London school",
+          "weight": 1.2,
+          "tone": "accent",
+          "at": 10
+        },
+        {
+          "label": "Genuinely kind",
+          "weight": 1,
+          "tone": "positive",
+          "at": 60
+        },
+        {
+          "label": "Kisses his mother in public",
+          "weight": 1,
+          "tone": "positive",
+          "at": 110
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Not clever enough for him",
+          "sublabel": "Terror of being unworthy",
+          "weight": 2.2,
+          "tone": "danger",
+          "at": 170
+        }
+      ],
+      "verdict": "Her fear sets the tragedy moving",
+      "verdictAt": 250,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Ellie's fear of being unworthy of Theo",
+      "action": "Theo's qualities pile on one pan, Ellie's fear of falling short drops on the other",
+      "payoff": "the fear outweighs everything and becomes the catalyst"
+    },
+    "explainedBy": "Ellie is obsessed with Theo and terrified she is not clever enough for him; that terror starts the tragedy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie's terror of being unworthy of Theo is the catalyst.",
+      "concreteVisual": "A scale: Theo's qualities on the left, Ellie's fear of being unworthy on the right, tipping toward the fear.",
+      "onScreenText": "Not clever enough for him",
+      "relationToPrevious": "From Theo's description to how Ellie measures herself against him.",
+      "addedInformation": "Names the fear as the catalyst of the tragedy."
+    }
+  },
+  {
+    "i": 12,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "The cost of the facade",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Flawless facade",
+          "sublabel": "Ellie's need to look perfect",
+          "tone": "accent"
+        },
+        {
+          "label": "The tragedy begins",
+          "sublabel": "the catalyst",
+          "tone": "danger"
+        },
+        {
+          "label": "Collateral damage",
+          "sublabel": "the people it hurts",
+          "tone": "neutral"
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Ellie's flawless facade",
+      "action": "the facade passes into the tragedy and its damage",
+      "payoff": "other people pay for her facade"
+    },
+    "explainedBy": "Ellie's flawless facade sets the tragedy in motion, and its collateral damage falls on others",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The facade is the catalyst; its damage falls on others.",
+      "concreteVisual": "Three torn-paper notes joined by arrows: facade, tragedy, collateral damage",
+      "onScreenText": "Flawless facade -> The tragedy begins -> Collateral damage",
+      "relationToPrevious": "From Ellie's obsession to what it causes",
+      "addedInformation": "The cause chain now ends on the people hurt"
+    }
+  },
+  {
+    "i": 13,
+    "continue": true,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Flawless facade",
+        "Everyone around her"
+      ]
+    },
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The facade does not stay private; it radiates outward and hurts everyone around Ellie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The facade creates a ripple effect on everyone near her.",
+      "concreteVisual": "The same flow with one more label, Everyone around her.",
+      "onScreenText": "Everyone around her",
+      "relationToPrevious": "Adds the effect: the facade's damage reaches the people around her.",
+      "addedInformation": "Only the ripple the narration states; no specific victim is named here."
+    }
+  },
+  {
+    "i": 14,
+    "continue": true,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Flawless facade",
+        "Everyone around her",
+        "Walks into a trap"
+      ]
+    },
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Insisting on perfection at any cost makes Ellie walk blindly into a trap.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie walks blindly into a trap because of her insistence on perfection.",
+      "concreteVisual": "The same flow with one more label, Walks into a trap.",
+      "onScreenText": "Walks into a trap",
+      "relationToPrevious": "Adds the step where the facade leads Ellie into the trap.",
+      "addedInformation": "The trap is named as the narration names it; its nature is not shown."
+    }
+  },
+  {
+    "i": 15,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Left in the uncertainty",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Laurel is left in the uncertainty of Ellie's absence, to rot there for a decade.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie's absence leaves her mother in uncertainty.",
+      "concreteVisual": "Laurel with a worried face, slumped, alone on stage.",
+      "onScreenText": "Left in the uncertainty",
+      "relationToPrevious": "Ends the flow on its result: the mother who is left behind.",
+      "addedInformation": "Shows Laurel's state, not the crime; no harm is staged."
+    }
+  },
+  {
+    "i": 16,
+    "cast": [],
+    "concept": null,
+    "timelineScrub": {
+      "title": "THE FIRST REAL FRACTURE",
+      "subtitle": "Before the portrait date",
+      "events": [
+        {
+          "time": "January 2005",
+          "title": "The facade cracks",
+          "detail": "The first real fracture",
+          "tone": "danger",
+          "at": 10
+        },
+        {
+          "time": "May 2005",
+          "title": "Ellie's portrait",
+          "detail": "Where we started",
+          "tone": "neutral",
+          "at": 120
+        }
+      ],
+      "callout": "Now: back to January",
+      "calloutAt": 175
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "the date of the first fracture",
+      "action": "a rail scrubs back from May 2005 to January 2005 and marks the crack",
+      "payoff": "the trouble starts months before May"
+    },
+    "explainedBy": "The first real crack in the facade comes in January 2005.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The facade first breaks in January 2005.",
+      "concreteVisual": "A timeline rail: January 2005 'The facade cracks', May 2005 'Ellie's portrait'.",
+      "onScreenText": "January 2005",
+      "relationToPrevious": "Turns from the consequences back to the first event, in January.",
+      "addedInformation": "Places the fracture on a dated rail before the portrait date."
+    }
+  },
+  {
+    "i": 17,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "ellie"
+        ],
+        "at": "kitchen"
+      },
+      "events": [
+        {
+          "on": "bleak",
+          "do": "title",
+          "text": "A bleak winter day"
+        }
+      ]
+    },
+    "explainedBy": "On a bleak winter day, Ellie comes into the family home in a rush of teenage anger.",
+    "noVisual": null
+  },
+  {
+    "i": 18,
+    "told": {
+      "events": [
+        {
+          "on": "drops",
+          "do": "drop",
+          "who": "ellie",
+          "what": "rucksack"
+        },
+        {
+          "on": "Laurel",
+          "do": "enter",
+          "who": "laurel"
+        }
+      ]
+    },
+    "explainedBy": "Ellie drops her rucksack, and Laurel is standing at the kitchen sink.",
+    "noVisual": null
+  },
+  {
+    "i": 19,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "ONE GRADE, TWO READINGS",
+      "columns": [
+        {
+          "heading": "The grade",
+          "tag": "MATHS TEST",
+          "bullets": [
+            "B+",
+            "Barely a failure"
+          ],
+          "highlight": "B+",
+          "tone": "neutral"
+        },
+        {
+          "heading": "To Ellie",
+          "tag": "HER VIEW",
+          "bullets": [
+            "The end of the world"
+          ],
+          "highlight": "The end of the world",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Ellie's B+ on a maths test",
+      "action": "a full-bleed split sets the grade itself against what it means to Ellie",
+      "payoff": "a near-good grade feels like the end of the world to her"
+    },
+    "explainedBy": "A B+ is barely a failure, but to Ellie it is the end of the world.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A B+ feels like the end of the world to Ellie.",
+      "concreteVisual": "A full-bleed split: left 'The grade: B+', right 'To Ellie: The end of the world'.",
+      "onScreenText": "B+ / The end of the world",
+      "relationToPrevious": "From her complaint in the hallway to the grade behind it.",
+      "addedInformation": "Sets the grade against Ellie's reading of it side by side."
+    }
+  },
+  {
+    "i": 20,
+    "told": {
+      "events": [
+        {
+          "on": "fail",
+          "do": "title",
+          "text": "Going to fail GCSEs"
+        }
+      ]
+    },
+    "explainedBy": "Ellie insists she will fail her GCSEs, exams that dictate a British teenager's future.",
+    "noVisual": null
+  },
+  {
+    "i": 21,
+    "explainedBy": "Laurel is aware of the family's tight finances when she suggests cheaper help.",
+    "noVisual": "Laurel at the family kitchen table, worried about money; the finances are said, not drawn",
+    "concept": null,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "laurel"
+        ],
+        "at": "kitchen"
+      },
+      "events": [
+        {
+          "on": "finances",
+          "do": "label",
+          "who": "laurel",
+          "text": "Tight family finances"
+        }
+      ]
+    }
+  },
+  {
+    "i": 22,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "LAUREL'S CHEAPER HELP",
+      "root": {
+        "label": "Help Ellie with maths",
+        "sublabel": "On a tight budget"
+      },
+      "branches": [
+        {
+          "label": "After-school maths club",
+          "outcome": "Refused",
+          "tone": "neutral",
+          "at": 20,
+          "pruneAt": 250
+        },
+        {
+          "label": "A sixth former",
+          "sublabel": "A few pounds and cake",
+          "outcome": "Refused",
+          "tone": "accent",
+          "at": 90,
+          "pruneAt": 265
+        }
+      ],
+      "callout": "Ellie completely refuses",
+      "calloutAt": 250,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Laurel's cheaper options for help",
+      "action": "two cheap branches grow from 'help Ellie with maths' and are both pruned",
+      "payoff": "Ellie refuses every cheaper option"
+    },
+    "explainedBy": "Laurel suggests cheaper help, and Ellie refuses it outright.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie rejects Laurel's cheaper suggestions.",
+      "concreteVisual": "A tree: 'Help Ellie with maths' branches to maths club and a sixth former for pounds and cake; both pruned.",
+      "onScreenText": "Ellie completely refuses",
+      "relationToPrevious": "From Laurel's finances to the refusal that answers her.",
+      "addedInformation": "Shows both cheap options and that each is cut off."
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Offering her own pocket money",
+      "style": "reveal"
+    },
+    "cast": [
+      "ellie",
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "place": "kitchen",
+    "explainedBy": "Ellie pushes her mother for a professional tutor and offers her own pocket money.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie demands a real tutor and offers her own pocket money.",
+      "concreteVisual": "Ellie angry, pointing at her mother, who stands worried in the kitchen.",
+      "onScreenText": "Offering her own pocket money",
+      "relationToPrevious": "From the refusal to the pressure: the demand becomes a push.",
+      "addedInformation": "The pointing gesture is the demand; the pocket money is named only in the callout."
+    }
+  },
+  {
+    "i": 24,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "UNDER THE NOISE",
+      "lines": [
+        {
+          "text": "Ellie hides her insecurity",
+          "at": 10
+        },
+        {
+          "text": "Not good enough for Theo",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 150
+        },
+        {
+          "text": "About the maths teacher",
+          "tone": "neutral",
+          "at": 280,
+          "strikeAt": 295
+        }
+      ],
+      "divider": "line",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Ellie's hidden insecurity",
+      "action": "the false reason is struck through",
+      "payoff": "the real fear is Theo"
+    },
+    "explainedBy": "The outburst is not about the maths teacher; it hides Ellie's fear of not being good enough for Theo",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The outburst hides Ellie's fear of not being good enough for Theo.",
+      "concreteVisual": "Bold lines of type; 'About the maths teacher' is struck through",
+      "onScreenText": "Not good enough for Theo; About the maths teacher (struck)",
+      "relationToPrevious": "From her demand for a tutor to what drives it",
+      "addedInformation": "The struck line shows the false reading of the outburst"
+    }
+  },
+  {
+    "i": 25,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Fear of being flawed",
+      "style": "reveal"
+    },
+    "cast": [
+      "ellie"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "The outburst is really about the fear of the mask slipping and of being fundamentally flawed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie fears being fundamentally flawed.",
+      "concreteVisual": "Ellie standing still, her face now afraid.",
+      "onScreenText": "Fear of being flawed",
+      "relationToPrevious": "Keeps the same stage and turns the worried face into fear of being flawed.",
+      "addedInformation": "Fear replaces worry on the same stage; nothing new is added."
+    }
+  },
+  {
+    "i": 26,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "WHAT SHE HIDES",
+      "subtitle": "Layer under layer",
+      "items": [
+        {
+          "label": "Perfect grades",
+          "detail": "The surface",
+          "level": 0.9,
+          "tone": "positive"
+        },
+        {
+          "label": "Fear of slipping",
+          "detail": "Academically",
+          "level": 0.7,
+          "tone": "accent",
+          "changeAt": 70
+        },
+        {
+          "label": "The illusion shatters",
+          "detail": "Perfection breaks",
+          "level": 0.5,
+          "tone": "danger",
+          "changeAt": 160
+        },
+        {
+          "label": "No longer the prize",
+          "detail": "The prize Theo deserves",
+          "level": 0.3,
+          "tone": "danger",
+          "changeAt": 240
+        }
+      ],
+      "callout": "The fear under the perfect surface",
+      "calloutAt": 270,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "the fear Ellie hides",
+      "action": "a cutaway reveals layer after layer under 'perfect grades'",
+      "payoff": "at the bottom: no longer the prize Theo deserves"
+    },
+    "explainedBy": "Ellie fears that if she slips academically she will no longer be the prize Theo deserves.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie fears losing her place as Theo's prize.",
+      "concreteVisual": "A strata cutaway: perfect grades, fear of slipping, the illusion shatters, no longer the prize.",
+      "onScreenText": "No longer the prize",
+      "relationToPrevious": "From the mask slipping to the loss she fears.",
+      "addedInformation": "Orders the hidden fear as layers down to the prize."
+    }
+  },
+  {
+    "i": 27,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "AT THE SINK",
+      "columns": [
+        {
+          "heading": "Laurel sees",
+          "tag": "HER VIEW",
+          "bullets": [
+            "Flawless",
+            "Ambitious"
+          ],
+          "highlight": "A perfect child",
+          "tone": "positive"
+        },
+        {
+          "heading": "Ellie hides",
+          "tag": "UNDERNEATH",
+          "bullets": [
+            "Fear of slipping"
+          ],
+          "highlight": "Fear of slipping",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Laurel's view of Ellie",
+      "action": "the borderless split sets what Laurel sees against what Ellie hides",
+      "payoff": "Laurel sees only a flawless, ambitious child"
+    },
+    "explainedBy": "Laurel, at the sink, sees only a flawless, ambitious child, not the fear Ellie hides.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sees Ellie only as flawless and ambitious.",
+      "concreteVisual": "Split: 'Laurel sees: flawless, ambitious' against 'Ellie hides: fear of slipping'.",
+      "onScreenText": "Laurel sees: a perfect child",
+      "relationToPrevious": "From Ellie's hidden fear to her mother's blind spot.",
+      "addedInformation": "Shows the gap between Laurel's view and Ellie's reality."
+    }
+  },
+  {
+    "i": 28,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Blinded by the glow",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "place": "kitchen",
+    "explainedBy": "Laurel's perception is blinded by the glow of her youngest daughter, so she misses the panic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel is blinded by the glow of her daughter.",
+      "concreteVisual": "Laurel with a neutral face, standing in the kitchen.",
+      "onScreenText": "Blinded by the glow",
+      "relationToPrevious": "From the flawless child to the blindness that causes Laurel to miss the panic.",
+      "addedInformation": "The blindness is the narration's word; no icon reads it, so the callout carries it."
+    }
+  },
+  {
+    "i": 29,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "WHAT LAUREL SEES",
+      "leftLabel": "SHE SEES",
+      "rightLabel": "SHE MISSES",
+      "leftWeights": [
+        {
+          "label": "A dedicated student",
+          "sublabel": "Wants to excel",
+          "weight": 1.6,
+          "tone": "positive",
+          "at": 50
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Consuming panic",
+          "weight": 0.6,
+          "tone": "danger",
+          "at": 10
+        }
+      ],
+      "verdict": "Only the ambition registers",
+      "verdictAt": 100,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Laurel's view of Ellie",
+      "action": "the scale tips toward 'a dedicated student' over 'consuming panic'",
+      "payoff": "Laurel sees only ambition, not the panic"
+    },
+    "explainedBy": "Laurel sees a dedicated student who wants to excel, not a consuming panic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sees a dedicated student, not the panic.",
+      "concreteVisual": "A balance tipping to 'A dedicated student' (she sees) over 'Consuming panic' (she misses).",
+      "onScreenText": "A dedicated student",
+      "relationToPrevious": "Restates the mother's blindness as a weighing.",
+      "addedInformation": "Shows what she sees outweighing what she misses."
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Yields to the demand",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel",
+      "ellie"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "place": "kitchen",
+    "explainedBy": "Laurel gives in to Ellie's demand and hires the tutor, while Ellie is pleased.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel gives in to the demand for a tutor.",
+      "concreteVisual": "Laurel sad and holding still beside Ellie, who looks happy.",
+      "onScreenText": "Yields to the demand",
+      "relationToPrevious": "From the pressure to the answer: the mother gives in.",
+      "addedInformation": "Laurel's sadness is the cost of yielding; Ellie's happiness is the result she gets."
+    }
+  },
+  {
+    "i": 31,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "ellie",
+          "year2005"
+        ]
+      },
+      "events": [
+        {
+          "on": "fatal",
+          "do": "title",
+          "text": "The fatal consequence"
+        }
+      ]
+    },
+    "explainedBy": "The fatal consequence of yielding arrives a few months later, in May 2005.",
+    "noVisual": null
+  }
+]
