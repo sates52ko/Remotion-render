@@ -1,0 +1,518 @@
+{
+  "slug": "then-she-was-gone",
+  "at": "2026-11-26T17:30:52.593Z",
+  "told": 33,
+  "applied": 33,
+  "errors": [],
+  "warnings": [],
+  "coverage": {
+    "before": 0.0958904109589041,
+    "after": 0.1506849315068493,
+    "shown": 22,
+    "mentions": 146
+  },
+  "ownPlaces": {
+    "figureScenes": 263,
+    "share": 1,
+    "continued": 240
+  },
+  "film": {
+    "topPlace": "kitchen",
+    "topShare": 0.6009489857401085,
+    "distinct": 6,
+    "places": [
+      {
+        "place": "kitchen",
+        "share": 0.6009489857401085
+      },
+      {
+        "place": "cafe",
+        "share": 0.21360966057441252
+      },
+      {
+        "place": "hanna-flat",
+        "share": 0.08363878288813015
+      },
+      {
+        "place": "library",
+        "share": 0.058483129142398074
+      },
+      {
+        "place": "ellie-room",
+        "share": 0.022783189395460937
+      },
+      {
+        "place": "floyd-table",
+        "share": 0.020536252259489858
+      }
+    ],
+    "emptyShare": 0.537469873468568,
+    "nobodyShare": 0.5815173729664591,
+    "toldShare": 0.12392046595701948,
+    "partOpenings": [
+      {
+        "n": 1,
+        "title": "ELLIE, May 2005",
+        "place": "library"
+      },
+      {
+        "n": 2,
+        "title": "LAUREL, ten years on",
+        "place": "kitchen"
+      },
+      {
+        "n": 3,
+        "title": "HANNA, who stayed",
+        "place": "hanna-flat"
+      },
+      {
+        "n": 4,
+        "title": "PAUL, who moved on",
+        "place": "cafe"
+      },
+      {
+        "n": 5,
+        "title": "THEO, Ellie's boyfriend, now Hanna's; the sc",
+        "place": "kitchen"
+      },
+      {
+        "n": 6,
+        "title": "POPPY, nine, at Floyd's table",
+        "place": "hanna-flat"
+      },
+      {
+        "n": 7,
+        "title": "SARA-JADE, Floyd's older daughter",
+        "place": "kitchen"
+      },
+      {
+        "n": 8,
+        "title": "BLUE, Jake's girlfriend, reads Floyd's aura ",
+        "place": "kitchen"
+      },
+      {
+        "n": 9,
+        "title": "NOELLE DONNELLY, the tutor, 2005",
+        "place": "kitchen"
+      },
+      {
+        "n": 10,
+        "title": "FLOYD DUNN, the one the reader got wrong",
+        "place": "kitchen"
+      }
+    ],
+    "partRepeats": 3
+  },
+  "ownIcons": {
+    "own": 14,
+    "library": 3,
+    "share": 0.8235294117647058,
+    "libraryTop": [
+      [
+        "phone",
+        2
+      ],
+      [
+        "photo",
+        1
+      ]
+    ],
+    "staples": 2,
+    "staplesTop": [
+      [
+        "phone",
+        2
+      ]
+    ]
+  },
+  "ownDrawings": {
+    "drawn": 3,
+    "emblem": 1,
+    "share": 0.75,
+    "drawings": 23,
+    "notNamedBlind": []
+  },
+  "missing": [
+    {
+      "scene": "intro",
+      "names": [
+        "May"
+      ]
+    },
+    {
+      "scene": "scene-03",
+      "names": [
+        "Laurel",
+        "Hannah",
+        "Noel",
+        "Theo"
+      ]
+    },
+    {
+      "scene": "scene-04",
+      "names": [
+        "Laurel",
+        "Floyd"
+      ]
+    },
+    {
+      "scene": "scene-06",
+      "names": [
+        "Ellie",
+        "May"
+      ]
+    },
+    {
+      "scene": "scene-07",
+      "names": [
+        "Theo"
+      ]
+    },
+    {
+      "scene": "scene-09",
+      "names": [
+        "Theo"
+      ]
+    },
+    {
+      "scene": "scene-14",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-22",
+      "names": [
+        "Laurel",
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-24",
+      "names": [
+        "Ellie",
+        "Theo"
+      ]
+    },
+    {
+      "scene": "scene-26",
+      "names": [
+        "Theo"
+      ]
+    },
+    {
+      "scene": "scene-27",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-33",
+      "names": [
+        "London"
+      ]
+    },
+    {
+      "scene": "scene-34",
+      "names": [
+        "Noel"
+      ]
+    },
+    {
+      "scene": "scene-35",
+      "names": [
+        "Noel"
+      ]
+    },
+    {
+      "scene": "scene-36",
+      "names": [
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-38",
+      "names": [
+        "Noel"
+      ]
+    },
+    {
+      "scene": "scene-40",
+      "names": [
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-46",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-48",
+      "names": [
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-52",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-54",
+      "names": [
+        "Laurel",
+        "Paul",
+        "Dne"
+      ]
+    },
+    {
+      "scene": "scene-59",
+      "names": [
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-61",
+      "names": [
+        "Dne"
+      ]
+    },
+    {
+      "scene": "scene-62",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-63",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-64",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-69",
+      "names": [
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-74",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-81",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-85",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-86",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-89",
+      "names": [
+        "Laurel",
+        "London"
+      ]
+    },
+    {
+      "scene": "scene-90",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-92",
+      "names": [
+        "Laurel",
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-99",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-101",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-106",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-109",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-112",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-113",
+      "names": [
+        "Floyd"
+      ]
+    },
+    {
+      "scene": "scene-114",
+      "names": [
+        "Laurel",
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-115",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-118",
+      "names": [
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-120",
+      "names": [
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-121",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-124",
+      "names": [
+        "Laurel"
+      ]
+    },
+    {
+      "scene": "scene-125",
+      "names": [
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-133",
+      "names": [
+        "Laurel",
+        "Floyd"
+      ]
+    },
+    {
+      "scene": "scene-134",
+      "names": [
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-135",
+      "names": [
+        "Paul Smith"
+      ]
+    },
+    {
+      "scene": "scene-136",
+      "names": [
+        "Floyd"
+      ]
+    },
+    {
+      "scene": "scene-137",
+      "names": [
+        "Bonnie"
+      ]
+    },
+    {
+      "scene": "scene-140",
+      "names": [
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-141",
+      "names": [
+        "Laurel",
+        "Ellie",
+        "Hannah",
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-142",
+      "names": [
+        "Laurel",
+        "Paul"
+      ]
+    },
+    {
+      "scene": "scene-145",
+      "names": [
+        "Ellie",
+        "Hannah",
+        "Theo"
+      ]
+    },
+    {
+      "scene": "scene-148",
+      "names": [
+        "Laurel",
+        "Ellie"
+      ]
+    },
+    {
+      "scene": "scene-149",
+      "names": [
+        "Hannah"
+      ]
+    },
+    {
+      "scene": "scene-150",
+      "names": [
+        "May"
+      ]
+    },
+    {
+      "scene": "scene-151",
+      "names": [
+        "Ellie"
+      ]
+    }
+  ],
+  "entityErrors": []
+}

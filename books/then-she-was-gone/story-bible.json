@@ -1,0 +1,347 @@
+{
+  "slug": "then-she-was-gone",
+  "world": {
+    "era": "2005–2015",
+    "eraEvidence": "Ellie vanishes in May 2005; the story returns ten years later, in 2015",
+    "worldId": "then-she-was-gone",
+    "approxYear": 2005,
+    "setting": "A small American suburban town; a family home, a cafe, a library, a woodland edge, a basement behind a locked door",
+    "register": "Restrained psychological thriller, told as a gallery of portraits; no graphic harm to any child",
+    "forbid": [
+      "rocketLaunch",
+      "funnelMetrics",
+      "codeWindow",
+      "laptopMockup",
+      "startupGarage",
+      "serverRoom",
+      "pitchStage",
+      "dollarExchange",
+      "shipOfState",
+      "kallipolis",
+      "mythOfEr",
+      "caveAllegory",
+      "tripartiteSoul",
+      "fiveRegimes",
+      "thirtyTyrants",
+      "ringOfGyges"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "then-she-was-gone",
+    "worldId": "then-she-was-gone",
+    "allowedMotifs": [
+      "key",
+      "door",
+      "photo",
+      "home",
+      "tree",
+      "rucksack",
+      "letter",
+      "croissant",
+      "phone",
+      "clock",
+      "grave",
+      "road"
+    ],
+    "forbiddenMotifs": [
+      "rocketLaunch",
+      "codeWindow",
+      "laptopMockup",
+      "funnelMetrics",
+      "startupGarage",
+      "serverRoom",
+      "pitchStage",
+      "dollarExchange"
+    ],
+    "allowedCharacters": [
+      "laurel",
+      "ellie",
+      "hanna",
+      "floyd",
+      "poppy",
+      "noel",
+      "theo",
+      "paul"
+    ],
+    "allowedLocations": [
+      "kitchen",
+      "cafe",
+      "bedroom",
+      "library",
+      "forest",
+      "street",
+      "room"
+    ],
+    "allowedProps": [
+      "rucksack",
+      "key",
+      "croissant",
+      "letter",
+      "photo"
+    ]
+  },
+  "cast": {
+    "laurel": {
+      "name": "Laurel",
+      "role": "Ellie's mother; she takes Floyd and Poppy as replacements for her daughter",
+      "look": "Laurel Mack, a woman in her late forties, slim, shoulder-length greying brown hair, a plain cardigan and jeans, American suburban, 2015",
+      "variant": {
+        "outfit": "casual",
+        "headwear": "none",
+        "hairStyle": "long",
+        "hair": "#7a6a5a",
+        "build": "average",
+        "height": 1,
+        "headScale": 1,
+        "gender": "f",
+        "age": "adult",
+        "suit": "#7D6E62"
+      }
+    },
+    "ellie": {
+      "name": "Ellie",
+      "role": "Laurel's daughter, fifteen in May 2005; she walks to the library and does not come back",
+      "look": "Ellie Mack, a fifteen-year-old girl, slim, long straight brown hair, school jumper and jeans, American teen, 2005",
+      "variant": {
+        "age": "young",
+        "outfit": "casual",
+        "headwear": "none",
+        "hairStyle": "long",
+        "hair": "#5a3d2b",
+        "build": "slight",
+        "height": 0.92,
+        "headScale": 1,
+        "gender": "f",
+        "suit": "#8B2E2E"
+      }
+    },
+    "hanna": {
+      "name": "Hanna",
+      "role": "Ellie's older sister, who stayed; she keeps the flat and the key",
+      "look": "Hanna Mack, a woman in her twenties, tall, dark hair in a low bun, a dark coat, American, 2015",
+      "variant": {
+        "outfit": "coat",
+        "headwear": "none",
+        "hairStyle": "bun",
+        "hair": "#3b2c24",
+        "build": "slight",
+        "height": 1.08,
+        "headScale": 1,
+        "gender": "f",
+        "age": "adult",
+        "suit": "#2A2320"
+      }
+    },
+    "floyd": {
+      "name": "Floyd",
+      "role": "The man Laurel meets in the cafe; the one the reader misjudges",
+      "look": "Floyd Dunn, a man in his late forties, broad, short greying hair, an open-neck shirt and a waxed jacket, American, 2015",
+      "variant": {
+        "outfit": "coat",
+        "headwear": "none",
+        "hairStyle": "short",
+        "hair": "#8a8a8a",
+        "build": "heavy",
+        "height": 1.06,
+        "headScale": 1,
+        "gender": "m",
+        "age": "adult",
+        "suit": "#4A4A3A"
+      }
+    },
+    "poppy": {
+      "name": "Poppy",
+      "role": "Floyd's daughter, nine years old, home-schooled; she lets Laurel pretend",
+      "look": "Poppy, a nine-year-old girl, small and slight, dark-blonde ponytail, a blue cardigan, American child, 2015",
+      "variant": {
+        "age": "child",
+        "outfit": "casual",
+        "headwear": "none",
+        "hairStyle": "ponytail",
+        "hair": "#c9a86a",
+        "build": "slight",
+        "height": 0.72,
+        "headScale": 1.1,
+        "gender": "f",
+        "suit": "#5E7FA3"
+      }
+    },
+    "noel": {
+      "name": "Noel",
+      "role": "Ellie's former tutor, Floyd's dismissed girlfriend; she is kept in the basement",
+      "look": "Noel Donnelly, a young woman in her twenties in 2005, slim, light hair tied back, a heavy khaki waterproof coat, American, 2005",
+      "variant": {
+        "outfit": "coat",
+        "headwear": "none",
+        "hairStyle": "long",
+        "hair": "#d8c58a",
+        "build": "slight",
+        "height": 1,
+        "headScale": 1,
+        "gender": "f",
+        "age": "young",
+        "suit": "#6B6B45"
+      }
+    },
+    "theo": {
+      "name": "Theo",
+      "role": "Ellie's boyfriend in 2005; ten years on he is with Hanna",
+      "look": "Theo Goodman, a tall lanky young man, short dark hair, a hoodie, American, 2005",
+      "variant": {
+        "outfit": "hoodie",
+        "headwear": "none",
+        "hairStyle": "short",
+        "hair": "#2a211c",
+        "build": "average",
+        "height": 1.05,
+        "headScale": 1,
+        "gender": "m",
+        "age": "young",
+        "suit": "#4A5560"
+      }
+    },
+    "paul": {
+      "name": "Paul",
+      "role": "Laurel's former husband and Hanna's father; the one who answered",
+      "look": "Paul Mack, a man in his fifties, balding, a heavy build, a polo shirt, American, 2015",
+      "variant": {
+        "outfit": "casual",
+        "headwear": "none",
+        "hairStyle": "receding",
+        "hair": "#9a9a9a",
+        "build": "heavy",
+        "height": 1.02,
+        "headScale": 1,
+        "gender": "m",
+        "age": "adult",
+        "suit": "#5B5048"
+      }
+    }
+  },
+  "places": {
+    "kitchen": {
+      "set": "kitchen",
+      "look": "The Mack family kitchen: a wooden table, a sink under the window, plain cupboards; the house where Laurel leaves cash on the table",
+      "home": true
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "A sunlit cafe with small round tables and a counter, where Laurel meets Floyd after the funeral"
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "Ellie's bedroom, kept untouched for ten years"
+    },
+    "library": {
+      "set": "library",
+      "look": "A small town library with shelves and reading tables; Ellie walks here in May"
+    },
+    "woodland": {
+      "set": "forest",
+      "look": "The woodland edge where a bag of bones is left"
+    },
+    "street": {
+      "set": "street",
+      "look": "A suburban street; Laurel runs into Noel here"
+    },
+    "basement": {
+      "set": "room",
+      "look": "Noel's basement behind a locked door"
+    },
+    "floydTable": {
+      "set": "room",
+      "look": "Floyd's dining table, where Poppy sits before Laurel"
+    },
+    "hannaFlat": {
+      "set": "room",
+      "look": "Hanna's small flat with its front door and the key"
+    }
+  },
+  "objects": [
+    {
+      "concept": "key",
+      "mentions": 0,
+      "why": "Laurel keeps the key to Hanna's flat"
+    },
+    {
+      "concept": "door",
+      "mentions": 0,
+      "why": "the basement door, locked"
+    },
+    {
+      "concept": "photo",
+      "mentions": 17,
+      "why": "the portraits and Ellie's photo"
+    },
+    {
+      "concept": "home",
+      "mentions": 33,
+      "why": "the Mack house kitchen, the home place"
+    },
+    {
+      "concept": "tree",
+      "mentions": 6,
+      "why": "the woodland edge"
+    },
+    {
+      "concept": "rucksack",
+      "mentions": 0,
+      "why": "Ellie's rucksack on the walk to the library; NOT in the library yet, Phase 4 will draw it"
+    },
+    {
+      "concept": "letter",
+      "mentions": 0,
+      "why": "Floyd's letter; NOT in the library yet, Phase 4 will draw it"
+    },
+    {
+      "concept": "croissant",
+      "mentions": 0,
+      "why": "the croissant in the cafe; NOT in the library yet, Phase 4 will draw it"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": "Ellie walks to the library in May 2005 and never comes back, and nobody searches for her; each person holds a replacement for her."
+    },
+    {
+      "act": "development",
+      "fromFrame": 14040,
+      "claim": "Laurel takes Floyd and Poppy as replacements, Hanna keeps the flat and the key, and Theo moves on to her."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 31886,
+      "claim": "Laurel learns that the girl at Floyd's table is Ellie's child, and the copy stops being a comfort."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 46930,
+      "claim": "Floyd's past comes out: Noel's basement, the locked door, the child, and the letter that shows why he chose Laurel."
+    },
+    {
+      "act": "close",
+      "fromFrame": 64193,
+      "claim": "Laurel could not touch Ellie's room for ten years; she ends by making a bed for Ellie's daughter, one image of healing or the last substitution."
+    }
+  ],
+  "signatureObjects": [
+    {
+      "key": "rucksack",
+      "name": "Ellie's rucksack",
+      "why": "the bag she carries on the walk to the library in May 2005; the story starts with it"
+    },
+    {
+      "key": "letter",
+      "name": "Floyd's letter",
+      "why": "the letter that explains why he chose Laurel and what he did to Noel"
+    },
+    {
+      "key": "croissant",
+      "name": "The croissant",
+      "why": "the cafe croissant where Laurel meets Floyd"
+    }
+  ],
+  "authored": true
+}

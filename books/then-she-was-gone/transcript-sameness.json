@@ -1,0 +1,32 @@
+{
+  "slug": "then-she-was-gone",
+  "at": "2026-11-25T14:48:34.854Z",
+  "input": {
+    "sha256": "e5214c85cac04a51c4b41a62671a208840e0ba67e34d0496d353e1b70af083f4",
+    "source": "public/captions/then-she-was-gone.vtt"
+  },
+  "corpus": 56,
+  "policy": {
+    "reviewRunsPer1000": 0.6
+  },
+  "runs": {
+    "per1000": 0,
+    "said": []
+  },
+  "answerWords": 2.3,
+  "style": {
+    "nn": "yesteryear",
+    "sim": 0.661
+  },
+  "topic": {
+    "nn": "trust-fall",
+    "sim": 0.231
+  },
+  "channelMedian": {
+    "runs": 1.2,
+    "answerWords": 9.6,
+    "style": 0.583,
+    "topic": 0.269
+  },
+  "verdict": "OK"
+}

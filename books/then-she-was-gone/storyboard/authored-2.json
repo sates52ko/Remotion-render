@@ -1,0 +1,1632 @@
+[
+  {
+    "i": 32,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "STROUD GREEN ROAD · MAY 2005",
+      "value": "10:45 AM",
+      "label": "Outside the Red Cross charity shop",
+      "framing": "minimal",
+      "tone": "accent",
+      "at": 10,
+      "bars": [
+        {
+          "label": "The street",
+          "value": 0.55,
+          "text": "Red Cross charity shop",
+          "tone": "neutral",
+          "at": 70
+        },
+        {
+          "label": "The air",
+          "value": 0.92,
+          "text": "Thick, humid, heavy",
+          "tone": "danger",
+          "at": 230
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "the time and place of the morning",
+      "action": "the clock time slams in, then the heavy air rises",
+      "payoff": "the viewer knows exactly where and when the day begins"
+    },
+    "explainedBy": "The time 10:45 on Stroud Green Road, with the heavy humid air as a rising bar",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The scene opens at 10:45 on a humid morning outside a charity shop.",
+      "concreteVisual": "A big 10:45 AM on a plain stage, kicker Stroud Green Road, two bars: the street and the thick air.",
+      "onScreenText": "10:45 AM · Stroud Green Road",
+      "relationToPrevious": "Opens the chunk on the day Ellie walks out.",
+      "addedInformation": "Pins the exact time and the oppressive weather."
+    }
+  },
+  {
+    "i": 33,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "ellie"
+        ]
+      },
+      "events": [
+        {
+          "on": "walking",
+          "do": "change",
+          "who": "ellie",
+          "action": "walk"
+        }
+      ]
+    },
+    "explainedBy": "Ellie walks alone on a London street under a storm sky",
+    "noVisual": null
+  },
+  {
+    "i": 34,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "ellie",
+          "noel"
+        ]
+      },
+      "events": [
+        {
+          "on": "rucks",
+          "do": "change",
+          "who": "ellie",
+          "holds": "rucksack"
+        },
+        {
+          "on": "runs",
+          "do": "act",
+          "who": "noel",
+          "verb": "come",
+          "target": "ellie"
+        }
+      ]
+    },
+    "explainedBy": "Ellie, carrying her navy rucksack, runs into her former tutor Noel on the street",
+    "noVisual": null
+  },
+  {
+    "i": 35,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "WHAT DOESN'T FIT",
+      "layout": "borderless",
+      "at": 10,
+      "columns": [
+        {
+          "heading": "THE WEATHER",
+          "tag": "Warm and muggy",
+          "bullets": [
+            "Humid summer morning",
+            "Storm brewing"
+          ],
+          "tone": "neutral"
+        },
+        {
+          "heading": "NOELLE",
+          "tag": "Dressed for rain",
+          "bullets": [
+            "Heavy khaki waterproof coat",
+            "Thick Daunt Books canvas bag"
+          ],
+          "highlight": "Bizarrely wrong for the day",
+          "tone": "danger"
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Noelle's coat against the weather",
+      "action": "the warm day and her heavy coat split the frame",
+      "payoff": "the coat reads as a warning sign"
+    },
+    "explainedBy": "A full-bleed split: warm muggy weather against Noelle's heavy waterproof coat and canvas bag",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle's heavy coat is wrong for the warm day.",
+      "concreteVisual": "Full-bleed split: left the muggy weather, right Noelle's khaki coat and Daunt Books bag.",
+      "onScreenText": "THE WEATHER / NOELLE",
+      "relationToPrevious": "After the chance meeting, the first odd detail.",
+      "addedInformation": "Names the coat and the bag as out of place."
+    }
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A practice maths paper",
+      "style": "highlight"
+    },
+    "cast": [
+      "noel"
+    ],
+    "expression": "neutral",
+    "action": "offer",
+    "holds": "notes",
+    "explainedBy": "Noel holds out a practice maths paper as a friendly offer",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noel offers a practice paper that she says other students find helpful.",
+      "concreteVisual": "Noel holding a sheet of notes out in front of her, the hand extended.",
+      "onScreenText": "A practice maths paper",
+      "relationToPrevious": "From Noel's appearance to her offer.",
+      "addedInformation": "The paper is the narration's object; Ellie is not drawn in the same frame."
+    }
+  },
+  {
+    "i": 37,
+    "concept": "library",
+    "diagram": null,
+    "callout": {
+      "text": "The library",
+      "style": "highlight"
+    },
+    "cast": [
+      "ellie"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Ellie wants to go to the library, not to Noel's house",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie does not want the detour; she wants the library and her summer.",
+      "concreteVisual": "Ellie holding a book in front of the library's bookshelves icon, looking worried.",
+      "onScreenText": "The library",
+      "relationToPrevious": "From Noel's offer to what Ellie wants.",
+      "addedInformation": "Shows her wish as the library she is walking to; the recoil itself is shown only as a worried face."
+    }
+  },
+  {
+    "i": 38,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "JUST FOUR DOORS DOWN",
+      "subtitle": "Noelle's offer to Ellie",
+      "at": 10,
+      "stations": [
+        {
+          "label": "Stroud Green Road",
+          "detail": "Where they meet",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "label": "Four doors down",
+          "detail": "So close, she says",
+          "tone": "accent",
+          "at": 90
+        },
+        {
+          "label": "Noelle's house",
+          "detail": "Harlow Road",
+          "tone": "danger",
+          "at": 135
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "the short route to Noelle's house",
+      "action": "the route draws from the road four doors to Harlow Road",
+      "payoff": "the house is made to seem harmlessly close"
+    },
+    "explainedBy": "A route from Stroud Green Road four doors down to Noelle's house on Harlow Road",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle presses Ellie by saying she lives only four doors away.",
+      "concreteVisual": "A three-station route: Stroud Green Road, four doors down, Noelle's house on Harlow Road.",
+      "onScreenText": "JUST FOUR DOORS DOWN",
+      "relationToPrevious": "Follows Ellie's reluctance with Noelle's pressure.",
+      "addedInformation": "Shows how near the house is said to be."
+    }
+  },
+  {
+    "i": 39,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Dread pooling in her stomach",
+      "style": "highlight"
+    },
+    "cast": [
+      "ellie"
+    ],
+    "expression": "afraid",
+    "action": "walk",
+    "explainedBy": "Ellie hesitates and follows Noel although she dreads it",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie goes anyway, against her dread.",
+      "concreteVisual": "Ellie walking, a frightened face, looking ahead.",
+      "onScreenText": "Dread pooling in her stomach",
+      "relationToPrevious": "Noel's push is followed by Ellie's reluctant step.",
+      "addedInformation": "Fear is shown on the face; the house with the cherry tree is not drawn."
+    }
+  },
+  {
+    "i": 40,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "ON THE PAVEMENT",
+      "subtitle": "Ellie's surface and what is under it",
+      "items": [
+        {
+          "label": "A polite smile",
+          "detail": "What the stranger sees",
+          "level": 0.9,
+          "tone": "positive"
+        },
+        {
+          "label": "Intense annoyance",
+          "detail": "Hidden",
+          "level": 0.6,
+          "tone": "accent",
+          "changeAt": 55
+        },
+        {
+          "label": "Physical discomfort",
+          "detail": "Hidden deeper",
+          "level": 0.3,
+          "tone": "danger",
+          "changeAt": 100
+        }
+      ],
+      "callout": "Ellie keeps the smile on",
+      "calloutAt": 125,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "what Ellie hides on the pavement",
+      "action": "a cutaway peels the polite smile back to annoyance, then discomfort",
+      "payoff": "under the smile: annoyance and physical discomfort"
+    },
+    "explainedBy": "On the pavement Ellie hides her annoyance and her physical discomfort behind politeness.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie hides annoyance and discomfort behind politeness.",
+      "concreteVisual": "Strata: polite smile on top, annoyance below, physical discomfort at the bottom.",
+      "onScreenText": "A polite smile / annoyance / discomfort",
+      "relationToPrevious": "From stepping inside to what she was hiding as she did.",
+      "addedInformation": "Orders the hidden feelings under the polite surface."
+    }
+  },
+  {
+    "i": 41,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "WHAT ELLIE OBEYS",
+      "subtitle": "On the pavement",
+      "leftLabel": "POLITE MASK",
+      "rightLabel": "SURVIVAL INSTINCT",
+      "leftWeights": [
+        {
+          "label": "Nice-person mask",
+          "weight": 1.7,
+          "tone": "accent",
+          "at": 30
+        },
+        {
+          "label": "Cannot drop it",
+          "weight": 1.4,
+          "tone": "accent",
+          "at": 120
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Brain screaming",
+          "weight": 0.8,
+          "tone": "danger",
+          "at": 190
+        },
+        {
+          "label": "Turn around and run",
+          "weight": 0.7,
+          "tone": "danger",
+          "at": 330
+        }
+      ],
+      "verdict": "The mask wins",
+      "verdictAt": 375,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Ellie's politeness against her instinct",
+      "action": "the scale tips toward the polite mask",
+      "payoff": "the viewer sees manners outweigh her fear"
+    },
+    "explainedBy": "A scale: the polite mask outweighs the survival instinct",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie's polite mask outweighs her instinct to run.",
+      "concreteVisual": "A balance scale: polite mask heavy on the left, survival instinct light on the right; verdict the mask wins.",
+      "onScreenText": "POLITE MASK vs SURVIVAL INSTINCT",
+      "relationToPrevious": "Explains why she followed Noelle.",
+      "addedInformation": "Weighs the two pulls and names which won."
+    }
+  },
+  {
+    "i": 42,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Conditioned to be pleasant",
+      "style": "highlight"
+    },
+    "cast": [
+      "ellie"
+    ],
+    "expression": "worried",
+    "action": "walk",
+    "explainedBy": "Ellie walks in because she was conditioned to be pleasant and compliant",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie goes in only because she was trained to comply.",
+      "concreteVisual": "Ellie walking forward, worried face, no house drawn.",
+      "onScreenText": "Conditioned to be pleasant",
+      "relationToPrevious": "From the polite mask to the step she takes against her instinct.",
+      "addedInformation": "The walk shows the step; the conditioning is the callout's claim."
+    }
+  },
+  {
+    "i": 43,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "Conditioned to be pleasant",
+      "root": {
+        "label": "A demanding adult asks",
+        "sublabel": "Ellie, fifteen"
+      },
+      "branches": [
+        {
+          "label": "Trust the dread",
+          "outcome": "Risk seeming rude",
+          "tone": "danger",
+          "at": 170,
+          "pruneAt": 300
+        },
+        {
+          "label": "Stay polite",
+          "outcome": "Override her gut",
+          "tone": "accent",
+          "winner": true,
+          "at": 270
+        }
+      ],
+      "callout": "How Noelle sees her",
+      "calloutAt": 380,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Ellie's choice at Noelle's door",
+      "action": "the gut branch is pruned, politeness wins",
+      "payoff": "conditioning beats her instinct"
+    },
+    "explainedBy": "Ellie is conditioned to override her dread rather than seem rude, and Noelle sees her as something to use",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie overrides her dread to avoid seeming rude.",
+      "concreteVisual": "A choice tree: trust the dread (pruned) or stay polite (chosen)",
+      "onScreenText": "Trust the dread / Stay polite -> Override her gut",
+      "relationToPrevious": "From her compliance to the choice it forces",
+      "addedInformation": "Shows the instinct she cuts off; Noelle's view comes next"
+    }
+  },
+  {
+    "i": 44,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A vessel",
+      "style": "reveal"
+    },
+    "cast": [
+      "noel"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Noel treats the girl as a vessel for her own ends",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noel's view is a cold, self-satisfied use of the girl.",
+      "concreteVisual": "Noel, a young woman with light hair tied back and a khaki waterproof coat, standing still with a cold smirk.",
+      "onScreenText": "A vessel",
+      "relationToPrevious": "Same stage; the blank face becomes a cold smirk on the word vessel.",
+      "addedInformation": "The smirk is the manipulator's charm, not warmth; no child is drawn beside her."
+    }
+  },
+  {
+    "i": 45,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "2005 → 2015",
+      "lines": [
+        {
+          "text": "TEN YEARS OF WAITING",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 165
+        },
+        {
+          "text": "ELLIE COMES HOME",
+          "tone": "danger",
+          "at": 160,
+          "strikeAt": 185
+        }
+      ],
+      "divider": "line",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "the ten-year wait",
+      "action": "the wait is stated, then the hoped-for homecoming is struck out",
+      "payoff": "the viewer knows the wait does not end in a return"
+    },
+    "explainedBy": "Ten years of waiting, and the homecoming struck through",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ten years of waiting do not end with a homecoming.",
+      "concreteVisual": "Type on a plain stage: TEN YEARS OF WAITING, then ELLIE COMES HOME struck through in red.",
+      "onScreenText": "TEN YEARS OF WAITING · ELLIE COMES HOME (struck)",
+      "relationToPrevious": "Closes Ellie's portrait by jumping ten years.",
+      "addedInformation": "Says the family's hope is not answered."
+    }
+  },
+  {
+    "i": 46,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "broadsheetRule",
+      "kicker": "PORTRAIT 2",
+      "title": "PORTRAIT 2 · LAUREL",
+      "subtitle": "Ten years on",
+      "at": 120
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Laurel's portrait",
+      "action": "the second portrait card opens",
+      "payoff": "the film turns from Ellie to her mother"
+    },
+    "explainedBy": "Chapter card: Portrait 2, Laurel, ten years on",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The second portrait, Laurel ten years on, begins.",
+      "concreteVisual": "A broadsheet chapter card: PORTRAIT 2 · LAUREL, subtitle ten years on.",
+      "onScreenText": "PORTRAIT 2 · LAUREL",
+      "relationToPrevious": "Ends Ellie's portrait and opens her mother's.",
+      "addedInformation": "Names the new portrait and the time jump."
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Keep my grief pure",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "Laurel wants to keep her grief pure until Ellie is returned",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel holds on to her grief as if it were a purpose.",
+      "concreteVisual": "Laurel holding a photograph to her chest, a sad face.",
+      "onScreenText": "Keep my grief pure",
+      "relationToPrevious": "From the remains to the grief Laurel chooses to keep.",
+      "addedInformation": "The photo is the held grief; the words are her own wish."
+    }
+  },
+  {
+    "i": 48,
+    "cast": [],
+    "concept": null,
+    "timelineScrub": {
+      "title": "THE DAY LAUREL STOPS",
+      "events": [
+        {
+          "time": "That day",
+          "title": "Her life stops",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "time": "That day",
+          "title": "No more cooking",
+          "tone": "accent",
+          "at": 95
+        },
+        {
+          "time": "May 2005",
+          "title": "Ellie vanishes",
+          "tone": "danger",
+          "at": 125
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "the day Laurel's life stops",
+      "action": "the rail ticks through what stops on the day Ellie vanishes",
+      "payoff": "the viewer sees grief freeze her life on one date"
+    },
+    "explainedBy": "A timeline: on the day Ellie vanishes, Laurel's life and cooking stop",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel stops her whole life, even cooking, the day Ellie vanishes.",
+      "concreteVisual": "A rail: her life stops, no more cooking, May 2005 Ellie vanishes.",
+      "onScreenText": "THE DAY LAUREL STOPS",
+      "relationToPrevious": "After her wish to freeze time, the freeze itself.",
+      "addedInformation": "Ties what stopped to one date."
+    }
+  },
+  {
+    "i": 49,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "WHAT LAUREL BUILDS",
+      "subtitle": "Layer by layer, after Ellie",
+      "items": [
+        {
+          "label": "Paul shut out",
+          "detail": "Her husband",
+          "level": 0.2,
+          "targetLevel": 0.6,
+          "changeAt": 140,
+          "tone": "neutral"
+        },
+        {
+          "label": "Hanna shut out",
+          "detail": "Her older daughter",
+          "level": 0.2,
+          "targetLevel": 0.7,
+          "changeAt": 190,
+          "tone": "neutral"
+        },
+        {
+          "label": "A calcified identity",
+          "detail": "Hard and fixed",
+          "level": 0.2,
+          "targetLevel": 0.85,
+          "changeAt": 255,
+          "tone": "accent"
+        },
+        {
+          "label": "The tragic mother",
+          "detail": "Of a missing child",
+          "level": 0.2,
+          "targetLevel": 1,
+          "changeAt": 330,
+          "tone": "danger"
+        }
+      ],
+      "callout": "Grief becomes who she is",
+      "calloutAt": 345,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "the layers of Laurel's new identity",
+      "action": "strata fill one by one: Paul, Hanna, then the tragic-mother core",
+      "payoff": "the viewer sees grief harden into her identity"
+    },
+    "explainedBy": "Strata: Paul and Hanna shut out, then the calcified identity of the tragic mother",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel shuts out her family and builds her identity as the tragic mother.",
+      "concreteVisual": "Strata cutaway filling layer by layer: Paul shut out, Hanna shut out, calcified identity, the tragic mother.",
+      "onScreenText": "WHAT LAUREL BUILDS",
+      "relationToPrevious": "Extends the stopping to her family.",
+      "addedInformation": "Names who is shut out and what she becomes."
+    }
+  },
+  {
+    "i": 50,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A terrible betrayal",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Laurel believes any joy would betray her missing daughter",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Any joy feels to Laurel like betrayal.",
+      "concreteVisual": "Laurel slumped, worried face, standing.",
+      "onScreenText": "A terrible betrayal",
+      "relationToPrevious": "From her identity to the guilt that joy would bring.",
+      "addedInformation": "The slump shows the self-denial; the betrayal is the callout."
+    }
+  },
+  {
+    "i": 51,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "paul",
+          "hanna"
+        ]
+      },
+      "events": [
+        {
+          "on": "husband",
+          "do": "label",
+          "who": "paul",
+          "text": "Her husband"
+        },
+        {
+          "on": "surviving",
+          "do": "label",
+          "who": "hanna",
+          "text": "Her surviving daughter"
+        }
+      ]
+    },
+    "explainedBy": "Laurel's frozen grief hurts her husband Paul and her surviving daughter Hannah",
+    "noVisual": null
+  },
+  {
+    "i": 52,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "FROZEN GRIEF",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Frozen grief",
+          "sublabel": "Laurel",
+          "tone": "neutral"
+        },
+        {
+          "label": "Emotional black hole",
+          "tone": "danger"
+        },
+        {
+          "label": "Family starved",
+          "sublabel": "Paul and Hanna",
+          "tone": "accent"
+        }
+      ],
+      "footnote": "No affection left for the living",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "how Laurel's grief drains her family",
+      "action": "torn-paper notes chain grief to a black hole to a starved family",
+      "payoff": "the viewer sees the cost fall on Paul and Hanna"
+    },
+    "explainedBy": "Frozen grief turns into a black hole that starves Paul and Hanna of affection",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's frozen grief starves her family of affection.",
+      "concreteVisual": "Three torn-paper notes linked by arrows: frozen grief, emotional black hole, family starved.",
+      "onScreenText": "FROZEN GRIEF → BLACK HOLE → FAMILY STARVED",
+      "relationToPrevious": "Turns to the people Laurel hurts.",
+      "addedInformation": "Shows the chain from her grief to their loss."
+    }
+  },
+  {
+    "i": 53,
+    "concept": null,
+    "place": "kitchen",
+    "diagram": null,
+    "callout": {
+      "text": "A mausoleum",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "Laurel demands the family stop living and makes the home a mausoleum they are trapped in",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's home has become a tomb for the living.",
+      "concreteVisual": "Laurel in the family kitchen, angry, pointing.",
+      "onScreenText": "A mausoleum",
+      "relationToPrevious": "From the starved family to the home that holds them.",
+      "addedInformation": "The kitchen is the home; the pointing is the demand."
+    }
+  },
+  {
+    "i": 54,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A scarred table",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel",
+      "paul"
+    ],
+    "expression": "worried",
+    "partnerExpression": "worried",
+    "action": "sit",
+    "partnerAction": "sit",
+    "explainedBy": "The detective meets Laurel and Paul across a scarred table in a police room",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The parents sit across a table from the detective.",
+      "concreteVisual": "Laurel and Paul seated side by side, worried faces.",
+      "onScreenText": "A scarred table",
+      "relationToPrevious": "From Laurel's grief to the police room where it breaks.",
+      "addedInformation": "The detective is not drawn; the table is the callout."
+    }
+  },
+  {
+    "i": 55,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "THE POLICE STATION",
+      "value": "10 × 8",
+      "label": "Glossy photographs from a brown envelope",
+      "framing": "paperBlock",
+      "tone": "neutral",
+      "at": 10,
+      "bars": [
+        {
+          "label": "Brown envelope",
+          "value": 0.5,
+          "text": "Hardbacked",
+          "tone": "neutral",
+          "at": 120
+        },
+        {
+          "label": "The dread",
+          "value": 0.95,
+          "text": "Every parent's moment",
+          "tone": "danger",
+          "at": 200
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "the detective's photographs",
+      "action": "the 10 x 8 size slams in, then the dread bar rises",
+      "payoff": "the viewer feels the moment the parents fear"
+    },
+    "explainedBy": "The 10 x 8 glossy photographs slid from a brown envelope",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The detective slides out 10 x 8 photographs, the moment parents dread.",
+      "concreteVisual": "A paper block with 10 × 8, label glossy photographs, bars for the envelope and the dread.",
+      "onScreenText": "10 × 8 · GLOSSY PHOTOGRAPHS",
+      "relationToPrevious": "Follows the parents into the police room.",
+      "addedInformation": "Names the photographs and what they mean to parents."
+    }
+  },
+  {
+    "i": 56,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "rucksack"
+        ]
+      },
+      "events": [
+        {
+          "on": "rucks",
+          "do": "label",
+          "who": "rucksack",
+          "text": "Faded red logo"
+        }
+      ]
+    },
+    "explainedBy": "The photographs show Ellie's navy rucksack with a faded red logo",
+    "noVisual": null
+  },
+  {
+    "i": 57,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "rucksack",
+          "key"
+        ]
+      },
+      "events": [
+        {
+          "on": "keys",
+          "do": "label",
+          "who": "key",
+          "text": "Owl fob keys"
+        }
+      ]
+    },
+    "explainedBy": "The photographs also show household keys on a plastic owl fob",
+    "noVisual": null
+  },
+  {
+    "i": 58,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "THE LAST PHOTOGRAPH",
+      "subtitle": "After all the items from that day",
+      "root": {
+        "label": "A passport photo",
+        "sublabel": "Laurel pulls it closer"
+      },
+      "branches": [
+        {
+          "label": "Ellie's passport",
+          "outcome": "It isn't",
+          "tone": "neutral",
+          "at": 300,
+          "pruneAt": 385
+        },
+        {
+          "label": "Someone else's",
+          "outcome": "Whose, then?",
+          "tone": "danger",
+          "at": 350,
+          "winner": true
+        }
+      ],
+      "callout": "A jolt of adrenaline",
+      "calloutAt": 250,
+      "at": 150
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "whose passport is in the photo",
+      "action": "the tree branches and Ellie's branch is pruned",
+      "payoff": "the viewer knows the passport is not Ellie's"
+    },
+    "explainedBy": "A tree from the passport photo: Ellie's branch pruned, someone else's wins",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sees the passport in the photo is not Ellie's.",
+      "concreteVisual": "A decision tree: root a passport photo, branches Ellie's (pruned) and someone else's (winner).",
+      "onScreenText": "WHOSE PASSPORT?",
+      "relationToPrevious": "After the list of items, one photo stands out.",
+      "addedInformation": "Rules out Ellie as the owner."
+    }
+  },
+  {
+    "i": 59,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "THE PASSPORT IN THE DIRT",
+      "lines": [
+        {
+          "text": "ELLIE'S PASSPORT?",
+          "at": 10,
+          "strikeAt": 55
+        },
+        {
+          "text": "HERS IS IN THE DRAWER AT HOME",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 70
+        }
+      ],
+      "divider": "line",
+      "footnote": "Laurel knows at once",
+      "footnoteAt": 110
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "the passport found with Ellie's things",
+      "action": "'Ellie's passport?' is struck out and replaced by where hers really is",
+      "payoff": "the passport is not Ellie's"
+    },
+    "explainedBy": "Laurel realizes the passport isn't Ellie's, because Ellie's is in a drawer at home.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The found passport is not Ellie's.",
+      "concreteVisual": "'Ellie's passport?' struck through; below it 'Hers is in the drawer at home'.",
+      "onScreenText": "Hers is in the drawer at home",
+      "relationToPrevious": "From the photo on the table to Laurel's instant realization.",
+      "addedInformation": "Rejects the obvious guess and gives the reason."
+    }
+  },
+  {
+    "i": 60,
+    "concept": "photo",
+    "diagram": null,
+    "callout": {
+      "text": "Belongs to Hannah",
+      "style": "highlight"
+    },
+    "cast": [
+      "hanna"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "The passport in the dirt belongs to Hannah",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The passport belongs to Ellie's sister Hannah.",
+      "concreteVisual": "A photograph icon beside Hanna, sad face.",
+      "onScreenText": "Belongs to Hannah",
+      "relationToPrevious": "From Ellie's passport at home to the passport that is Hannah's.",
+      "addedInformation": "The detective is not drawn; Hanna is the owner the narration names."
+    }
+  },
+  {
+    "i": 61,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "the detective receiving the news",
+      "action": "three panels: door, whisper, turn to the parents",
+      "payoff": "the viewer knows the decisive news is coming"
+    },
+    "explainedBy": "Three panels: the door opens, a whisper, the detective turns to the parents",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An officer whispers to the detective, who turns to tell the parents.",
+      "concreteVisual": "Three text panels: the door opens, a whisper, he turns to them.",
+      "onScreenText": "THE DOOR OPENS · A WHISPER · HE TURNS TO THEM",
+      "relationToPrevious": "Interrupts the passport moment.",
+      "addedInformation": "Sequences how the news reaches the room."
+    },
+    "timelineScrub": {
+      "title": "THE NEWS ARRIVES",
+      "at": 10,
+      "events": [
+        {
+          "time": "First",
+          "title": "The door opens",
+          "detail": "Another officer enters",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "time": "Then",
+          "title": "A whisper",
+          "detail": "Urgent, to the detective",
+          "tone": "accent",
+          "at": 90
+        },
+        {
+          "time": "Last",
+          "title": "He turns to them",
+          "detail": "Tie adjusted, the truth",
+          "tone": "danger",
+          "at": 200
+        }
+      ]
+    }
+  },
+  {
+    "i": 62,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "horizontal",
+      "wipeAt": 110,
+      "endSplit": 0.5,
+      "before": {
+        "label": "THE DETECTIVE",
+        "headline": "Found with the items",
+        "points": [
+          "The search ends"
+        ],
+        "tone": "danger"
+      },
+      "after": {
+        "label": "LAUREL",
+        "headline": "A hidden hope",
+        "points": [
+          "Before the words land"
+        ],
+        "tone": "accent"
+      },
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "the news and Laurel's hidden hope",
+      "action": "the wipe moves from the finding to what Laurel hides",
+      "payoff": "the viewer sees she clings to hope before the words land"
+    },
+    "explainedBy": "A wipe from the detective's finding to Laurel's hidden hope",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Before the news is spoken, Laurel hides a hope.",
+      "concreteVisual": "Horizontal wipe: the detective, found with the items; Laurel, a hidden hope.",
+      "onScreenText": "FOUND WITH THE ITEMS / A HIDDEN HOPE",
+      "relationToPrevious": "Delivers the news the whisper brought.",
+      "addedInformation": "Sets up the hope Laurel hides."
+    }
+  },
+  {
+    "i": 63,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Her desperate hope",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Laurel builds a desperate, irrational hope and an alternative story",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel clings to a false hope.",
+      "concreteVisual": "Laurel standing still, worried face.",
+      "onScreenText": "Her desperate hope",
+      "relationToPrevious": "From the remains to her refusal to accept them.",
+      "addedInformation": "The worry shows the strain; the hope is the callout."
+    }
+  },
+  {
+    "i": 64,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "THE STORY LAUREL TELLS HERSELF",
+      "subtitle": "Years after she vanished",
+      "at": 10,
+      "stations": [
+        {
+          "label": "Breaks into the house",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "label": "Hanna's room",
+          "tone": "neutral",
+          "at": 80
+        },
+        {
+          "label": "Takes the passport",
+          "tone": "accent",
+          "at": 120
+        },
+        {
+          "label": "Europe",
+          "detail": "A new life",
+          "tone": "positive",
+          "at": 230
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "Laurel's imagined route for Ellie",
+      "action": "the route runs from the house to Hanna's room to Europe",
+      "payoff": "the viewer sees the hopeful story she builds"
+    },
+    "explainedBy": "An imagined route: break into the house, Hanna's room, the passport, Europe",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel imagines Ellie took Hanna's passport and ran to Europe.",
+      "concreteVisual": "A four-station route: breaks into the house, Hanna's room, takes the passport, Europe a new life.",
+      "onScreenText": "THE STORY LAUREL TELLS HERSELF",
+      "relationToPrevious": "Spells out the hope hidden on the last beat.",
+      "addedInformation": "Shows the invented path from home to Europe."
+    }
+  },
+  {
+    "i": 65,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "WHAT LAUREL WANTS TO BELIEVE",
+      "root": {
+        "label": "Ellie took Hanna's passport",
+        "sublabel": "The detective's theory"
+      },
+      "branches": [
+        {
+          "label": "A runaway thief in Europe",
+          "outcome": "At least alive",
+          "tone": "accent",
+          "at": 20,
+          "winner": true
+        },
+        {
+          "label": "The alternative",
+          "outcome": "Total finality",
+          "tone": "danger",
+          "at": 120,
+          "pruneAt": 220
+        }
+      ],
+      "callout": "Laurel hides that she wants the first",
+      "calloutAt": 260,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "Laurel's hidden wish about the passport",
+      "action": "two readings branch from the theory; the final one is pruned away",
+      "payoff": "Laurel clings to 'runaway' because it means alive"
+    },
+    "explainedBy": "Laurel secretly wants Ellie to be a runaway thief because that means she is alive; the alternative is final.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel wants the runaway story because it means Ellie is alive.",
+      "concreteVisual": "A tree: theory splits into 'runaway thief: at least alive' (kept) and 'the alternative: total finality' (pruned).",
+      "onScreenText": "At least alive",
+      "relationToPrevious": "From the detective's theory to the hope Laurel hides.",
+      "addedInformation": "Shows why a painful story is the one she prefers."
+    }
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Total finality",
+      "style": "highlight"
+    },
+    "cast": [
+      "paul",
+      "laurel"
+    ],
+    "expression": "worried",
+    "partnerExpression": "angry",
+    "action": "sit",
+    "partnerAction": "sit",
+    "explainedBy": "Paul sits beside Laurel and sees her physical revulsion at the news",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul sees Laurel recoil from him at the table.",
+      "concreteVisual": "Paul worried, Laurel angry, seated side by side.",
+      "onScreenText": "Total finality",
+      "relationToPrevious": "From Laurel's hope to the finality she cannot face.",
+      "addedInformation": "Laurel's revulsion reads through her angry face."
+    }
+  },
+  {
+    "i": 67,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "AFTER 10 YEARS, THE NEWS",
+      "layout": "borderless",
+      "at": 10,
+      "columns": [
+        {
+          "heading": "PAUL",
+          "tag": "Reaches out",
+          "bullets": [
+            "Reaches for her hand",
+            "Shares the weight"
+          ],
+          "tone": "positive"
+        },
+        {
+          "heading": "LAUREL",
+          "tag": "Pulls away",
+          "bullets": [
+            "Rejects him completely"
+          ],
+          "highlight": "Grieves alone",
+          "tone": "danger"
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Paul and Laurel at the news",
+      "action": "the split sets Paul's reach against Laurel's rejection",
+      "payoff": "the viewer sees the couple divided by the grief"
+    },
+    "explainedBy": "A full-bleed split: Paul reaches for her hand, Laurel rejects him",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paul reaches for Laurel's hand and she rejects him.",
+      "concreteVisual": "Full-bleed split: Paul reaches for her hand; Laurel rejects him completely.",
+      "onScreenText": "PAUL / LAUREL",
+      "relationToPrevious": "Moves from Laurel's hope to Paul at her side.",
+      "addedInformation": "Shows the reach and the refusal side by side."
+    }
+  },
+  {
+    "i": 68,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Barricaded herself inside",
+      "style": "highlight"
+    },
+    "cast": [
+      "paul",
+      "laurel"
+    ],
+    "expression": "sad",
+    "partnerExpression": "angry",
+    "action": "slump",
+    "partnerAction": "idle",
+    "explainedBy": "Paul feels her refusal and sees her shut herself inside her own grief",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel has shut herself inside her grief; Paul is shut out.",
+      "concreteVisual": "Same two, Paul now slumped and sad, Laurel still angry.",
+      "onScreenText": "Barricaded herself inside",
+      "relationToPrevious": "Same stage: Paul's reach falls into a slump after the refusal.",
+      "addedInformation": "The barricade is the callout's metaphor; the slump is Paul's reaction."
+    }
+  },
+  {
+    "i": 69,
+    "cast": [],
+    "concept": null,
+    "timelineScrub": {
+      "title": "THE BARRICADE CRACKS",
+      "events": [
+        {
+          "time": "10 years",
+          "title": "The barricade",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "time": "Later",
+          "title": "Ellie's funeral",
+          "tone": "neutral",
+          "at": 160
+        },
+        {
+          "time": "Shortly after",
+          "title": "A sunlit cafe",
+          "detail": "Laurel alone at a table",
+          "tone": "accent",
+          "at": 215
+        }
+      ],
+      "callout": "It finally cracks",
+      "calloutAt": 90,
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "when Laurel's barricade breaks",
+      "action": "the rail runs from ten years to the funeral to a cafe",
+      "payoff": "the viewer sees where the change begins"
+    },
+    "explainedBy": "A timeline: ten years of barricade, the funeral, then a sunlit cafe",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's barricade cracks in a cafe after Ellie's funeral.",
+      "concreteVisual": "A rail: 10 years the barricade, Ellie's funeral, a sunlit cafe with Laurel alone.",
+      "onScreenText": "THE BARRICADE CRACKS",
+      "relationToPrevious": "Turns from her refusal to the moment it ends.",
+      "addedInformation": "Places the change after the funeral, in a cafe."
+    }
+  },
+  {
+    "i": 70,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "diagonal",
+      "wipeAt": 50,
+      "endSplit": 0.4,
+      "before": {
+        "label": "10 YEARS",
+        "headline": "No effort",
+        "points": [
+          "No cooking",
+          "Grief kept pure"
+        ],
+        "tone": "neutral"
+      },
+      "after": {
+        "label": "THE CAFE",
+        "headline": "A fresh blow-dry",
+        "points": [
+          "Toasted cheese sandwich",
+          "Eaten ravenously"
+        ],
+        "tone": "positive"
+      },
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Laurel before and at the cafe",
+      "action": "the wipe reveals the blow-dry and the sandwich",
+      "payoff": "the viewer sees her start to live again"
+    },
+    "explainedBy": "A wipe from ten years of no effort to a fresh blow-dry and a toasted cheese sandwich",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel shows effort and appetite for the first time in years.",
+      "concreteVisual": "Diagonal wipe: 10 years, no effort; the cafe, fresh blow-dry and toasted cheese sandwich.",
+      "onScreenText": "NO EFFORT / A FRESH BLOW-DRY",
+      "relationToPrevious": "Shows what the cracked barricade looks like.",
+      "addedInformation": "Gives the physical signs of her change."
+    }
+  },
+  {
+    "i": 71,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "laurel",
+          "floyd"
+        ],
+        "at": "cafe"
+      },
+      "events": [
+        {
+          "on": "walks",
+          "do": "act",
+          "who": "floyd",
+          "verb": "come",
+          "target": "laurel"
+        }
+      ]
+    },
+    "explainedBy": "Floyd Dunn walks into the cafe and comes to Laurel's table",
+    "noVisual": null
+  },
+  {
+    "i": 72,
+    "told": {
+      "events": [
+        {
+          "on": "sit",
+          "do": "change",
+          "who": "floyd",
+          "action": "sit"
+        }
+      ]
+    },
+    "explainedBy": "Floyd chooses to sit at a table uncomfortably close to Laurel's",
+    "noVisual": null
+  },
+  {
+    "i": 73,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Floyd's first moves on Laurel",
+      "action": "three panels: the compliment, the plate, the offered bite",
+      "payoff": "the viewer sees his easy charm step by step"
+    },
+    "explainedBy": "Three panels: Floyd compliments her hair, pushes his plate over, offers carrot cake",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd compliments Laurel and offers her his carrot cake.",
+      "concreteVisual": "Three text panels: compliments her hair, pushes his plate over, a bite of carrot cake.",
+      "onScreenText": "FLOYD'S OPENING",
+      "relationToPrevious": "Floyd arrives at the cafe and turns to her.",
+      "addedInformation": "Sequences his charm in three moves."
+    },
+    "timelineScrub": {
+      "title": "FLOYD'S OPENING",
+      "at": 10,
+      "events": [
+        {
+          "time": "First",
+          "title": "Compliments her hair",
+          "tone": "accent",
+          "at": 30
+        },
+        {
+          "time": "Then",
+          "title": "Pushes his plate over",
+          "tone": "neutral",
+          "at": 210
+        },
+        {
+          "time": "Last",
+          "title": "A bite of carrot cake",
+          "detail": "On a clean silver spoon",
+          "tone": "danger",
+          "at": 288
+        }
+      ]
+    }
+  },
+  {
+    "i": 74,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Hides a desire to be seen",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel",
+      "floyd"
+    ],
+    "expression": "neutral",
+    "partnerExpression": "smirk",
+    "action": "sit",
+    "partnerAction": "idle",
+    "explainedBy": "Sunlight glints off the spoon as the moment becomes charged",
+    "noVisual": "Sunlight on a spoon has no drawn icon; the callout carries it",
+    "storyboard": {
+      "claim": "Laurel hides a sudden desire to be seen as a woman, while Floyd offers her a bite of cake across the table.",
+      "concreteVisual": "Laurel seated across the table from Floyd, eyes turned down, a plate of carrot cake pushed toward her with a silver spoon on it in a shaft of sunlight.",
+      "onScreenText": "Hides a desire to be seen",
+      "relationToPrevious": "From the offered bite to Laurel hiding her own wish.",
+      "addedInformation": "weak: the spoon has no drawn icon; the sunlight is named in prose only."
+    }
+  },
+  {
+    "i": 75,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "diagonal",
+      "wipeAt": 110,
+      "endSplit": 0.5,
+      "before": {
+        "label": "TEN YEARS FROZEN",
+        "headline": "A walking tragedy",
+        "points": [
+          "The grieving mother"
+        ],
+        "tone": "neutral"
+      },
+      "after": {
+        "label": "THE SUNLIT CAFE",
+        "headline": "Seen as a woman",
+        "points": [
+          "Grease on her chin",
+          "A stranger's attention"
+        ],
+        "tone": "accent"
+      },
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Laurel's frozen identity",
+      "action": "the wipe moves from tragedy to the cafe",
+      "payoff": "she is seen as a woman again"
+    },
+    "explainedBy": "In the sunlit cafe, Laurel stops being only a walking tragedy and is seen as a woman again",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In the cafe Laurel is more than a walking tragedy.",
+      "concreteVisual": "A diagonal wipe: A walking tragedy -> Seen as a woman",
+      "onScreenText": "A walking tragedy / Seen as a woman",
+      "relationToPrevious": "From the glittering spoon to what it changes in her",
+      "addedInformation": "The two sides of her identity, before and in the cafe"
+    }
+  },
+  {
+    "i": 76,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Begins to thaw",
+      "style": "highlight"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "blank",
+    "action": "sit",
+    "explainedBy": "Laurel's frozen identity begins to thaw",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's frozen self starts to melt.",
+      "concreteVisual": "Laurel still seated, the face now worried and unsure.",
+      "onScreenText": "Begins to thaw",
+      "relationToPrevious": "Same seat and stage; the blank face becomes unsure.",
+      "addedInformation": "The change is in the face; the thaw is the callout."
+    }
+  },
+  {
+    "i": 77,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "WHAT FLOYD SEES",
+      "lines": [
+        {
+          "text": "A HIGHLY VULNERABLE TARGET",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 40
+        },
+        {
+          "text": "AN ATTRACTIVE WOMAN",
+          "tone": "neutral",
+          "at": 120,
+          "strikeAt": 140
+        }
+      ],
+      "divider": "line",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "how Floyd reads Laurel",
+      "action": "the target line lands, the attractive-woman reading is struck",
+      "payoff": "the viewer knows Floyd's interest is predatory"
+    },
+    "explainedBy": "Floyd sees a vulnerable target, not just an attractive woman",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd sees Laurel as a vulnerable target.",
+      "concreteVisual": "Type: A HIGHLY VULNERABLE TARGET, then AN ATTRACTIVE WOMAN struck through.",
+      "onScreenText": "WHAT FLOYD SEES",
+      "relationToPrevious": "Turns from Laurel's thaw to Floyd's view of her.",
+      "addedInformation": "Strikes the innocent reading of his attention."
+    }
+  },
+  {
+    "i": 78,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Hollowed out by loss",
+      "style": "highlight"
+    },
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "neutral",
+    "partnerExpression": "sad",
+    "action": "idle",
+    "partnerAction": "slump",
+    "explainedBy": "Floyd reads Laurel's posture as a woman hollowed out by loss",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd reads Laurel's body as emptied by grief.",
+      "concreteVisual": "Floyd neutral, Laurel sad and slumped beside him.",
+      "onScreenText": "Hollowed out by loss",
+      "relationToPrevious": "From Floyd's view of her to her posture, the reading he makes.",
+      "addedInformation": "The slump shows the posture; the reading is the callout."
+    }
+  }
+]

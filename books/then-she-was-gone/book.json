@@ -1,0 +1,108 @@
+{
+  "slug": "then-she-was-gone",
+  "title": "Then She Was Gone",
+  "author": "Lisa Jewell",
+  "genre": "thriller",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): contemporary fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%); minorHarm: photoreal is excluded by policy → Antidote, symbolic staging only RISK: violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically; harm to a minor is central → never depict the child in that context; symbolic/abstract only (storyboard rule), photoreal excluded",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "contemporary",
+    "era": 2017,
+    "realPeople": false,
+    "format": "story",
+    "violence": "central",
+    "minorHarm": true,
+    "mustSee": [
+      "Ellie Mack walking to the library in 2005 and never arriving",
+      "Laurel meeting Floyd Dunn in a cafe and then nine-year-old Poppy, who has Ellie face",
+      "Noelle Donnelly basement where Ellie was kept",
+      "the remains found in the woods and the police identification",
+      "Laurel taking Poppy home at the end"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 15,
+    "reasons": [
+      "contemporary fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%)",
+      "minorHarm: photoreal is excluded by policy → Antidote, symbolic staging only"
+    ],
+    "risks": [
+      "some violence → plan those beats as aftermath/symbol if Vox",
+      "harm to a minor is central → never depict the child in that context; symbolic/abstract only (storyboard rule), photoreal excluded"
+    ]
+  },
+  "bgTint": true,
+  "pages": 368,
+  "opening": {
+    "hook": "question",
+    "naming": "after",
+    "promise": "map",
+    "at": "2026-11-21T08:14:20.549Z",
+    "by": "opening-grammar"
+  },
+  "form": {
+    "key": "portraits",
+    "part": "PORTRAIT",
+    "at": "2026-11-21T08:14:20.553Z",
+    "by": "agent",
+    "why": "The novel is told in alternating points of view (Laurel, Ellie, Noelle, Floyd); the plot only exists where those lives touch, and the reader misjudges Floyd, the charming man who knew",
+    "parts": [
+      "ELLIE, May 2005",
+      "LAUREL, ten years on",
+      "HANNA, who stayed",
+      "PAUL, who moved on",
+      "THEO, Ellie's boyfriend, now Hanna's; the sc",
+      "POPPY, nine, at Floyd's table",
+      "SARA-JADE, Floyd's older daughter",
+      "BLUE, Jake's girlfriend, reads Floyd's aura ",
+      "NOELLE DONNELLY, the tutor, 2005",
+      "FLOYD DUNN, the one the reader got wrong"
+    ]
+  },
+  "skin": {
+    "caption": "box",
+    "plate": "sharp",
+    "font": "slab",
+    "at": "2026-11-21T08:14:21.648Z",
+    "by": "book-skin"
+  },
+  "stylePack": "storybookVector",
+  "take": {
+    "note": "Most reviews focus on Laurel's grief, but Hanna's bond with Theo Goodman, the forgotten sister, is the key overlooked part of the family's silent trauma.",
+    "tr": "Bence incelemeler yalnızca Laurel’ın anne acısına odaklanırken, altın çocuk Ellie’nin gölgesinde adeta bir hayalet gibi unutulan abla Hanna Mack’in yetişkinliğinde Theo Goodman ile kurduğu bağın ailenin sessiz travmasındaki kilit yerini gözden kaçırmaktadır.",
+    "by": "operator",
+    "at": "2026-11-21T10:46:37.633Z"
+  },
+  "inputs": {
+    "audioFrom": "then-she-was-gone-v2.mp3 (recorded 2026-11-21 from the portraits prompt)",
+    "vttFrom": "then-she-was-gone-v2.vtt",
+    "reusedBy": "operator 2026-11-25: continue with the last MP3/VTT"
+  },
+  "engineCheck": {
+    "at": "2026-11-26",
+    "fit": "antidote",
+    "confidence": "weak",
+    "voxScore": 4.2,
+    "antidoteScore": 4.6,
+    "signals": {
+      "year": 1,
+      "history": 0.1,
+      "second": 4.1,
+      "abstract": 4,
+      "sensitive": 3.2,
+      "era": 2005,
+      "words": 7239
+    },
+    "reasons": [
+      "no dominant signal — the story itself decides; contemporary fiction with a cast works in Antidote (WWL), period or documentary worlds in Vox"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/then-she-was-gone.mp3"
+}

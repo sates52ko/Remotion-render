@@ -1,0 +1,1555 @@
+[
+  {
+    "i": 249,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Cheap chicken nuggets",
+      "style": "reveal"
+    },
+    "cast": [
+      "noel"
+    ],
+    "expression": "blank",
+    "action": "walk",
+    "explainedBy": "Noel brings a cheap, bleak supper down the stairs",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noel brings a pathetic supper down to the basement",
+      "concreteVisual": "Noel walks down carrying a plate of food, blank face",
+      "onScreenText": "Cheap chicken nuggets",
+      "relationToPrevious": "Start of the chunk: the basement scene begins",
+      "addedInformation": "The supper is cheap and bleak; the captive is not shown"
+    }
+  },
+  {
+    "i": 250,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Noelle's demand",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Plastic hamster cages",
+          "sublabel": "Pink below, white on top",
+          "tone": "neutral"
+        },
+        {
+          "label": "A sharp smell",
+          "sublabel": "Strong and warm",
+          "tone": "accent"
+        },
+        {
+          "label": "Clean them",
+          "sublabel": "Noelle demands it",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "the hamster cages",
+      "action": "Noelle brings them and demands cleaning",
+      "payoff": "a degrading task"
+    },
+    "explainedBy": "Noelle brings in plastic hamster cages that smell strongly and demands they be cleaned.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle demands the cages be cleaned",
+      "concreteVisual": "Torn-paper chain: cages, smell, clean them; objects only",
+      "onScreenText": "Noelle's demand",
+      "relationToPrevious": "Same thread, a new object",
+      "addedInformation": "The degrading task, objects only"
+    }
+  },
+  {
+    "i": 251,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "THE BASEMENT",
+      "lines": [
+        {
+          "text": "A quiet supper tray",
+          "strikeAt": 175,
+          "at": 10
+        },
+        {
+          "text": "One word: God",
+          "at": 105
+        },
+        {
+          "text": "Noelle turns in a flash",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 180
+        }
+      ],
+      "divider": "line"
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Noelle's sudden turn when Ellie mentions God",
+      "action": "The calm supper line is struck through as Noelle turns",
+      "payoff": "The supplier is a threat; the turn is named, never shown"
+    },
+    "explainedBy": "Noelle turns on Ellie in a flash when Ellie mentions God",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle turns fast and without warning when God is mentioned",
+      "concreteVisual": "Typographic lines: the supper tray line struck through, then Noelle turns in a flash",
+      "onScreenText": "A quiet supper tray / One word: God / Noelle turns in a flash",
+      "relationToPrevious": "Noelle changes from supplier to threat",
+      "addedInformation": "The trigger is one word; harm is named by the narration, not shown"
+    }
+  },
+  {
+    "i": 252,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "horizontal",
+      "wipeAt": 100,
+      "endSplit": 0.5,
+      "before": {
+        "label": "UPSTAIRS, TO FLOYD",
+        "headline": "A miracle pregnancy",
+        "points": [
+          "Lullabies",
+          "Sleepsuits",
+          "Nursery colors"
+        ],
+        "tone": "positive"
+      },
+      "after": {
+        "label": "WHAT THE WORDS COVER",
+        "headline": "A locked basement door",
+        "points": [
+          "Her secret"
+        ],
+        "tone": "danger"
+      },
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Noelle's soft story",
+      "action": "a wipe moves from the miracle-pregnancy words to the locked door they cover",
+      "payoff": "her gentle language masks a hidden secret"
+    },
+    "explainedBy": "Noelle hides her secret behind the soft language of a miracle pregnancy she describes to Floyd.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle masks her secret with talk of a miracle pregnancy.",
+      "concreteVisual": "Wipe: 'A miracle pregnancy' (lullabies, sleepsuits) gives way to 'A locked basement door'.",
+      "onScreenText": "A miracle pregnancy",
+      "relationToPrevious": "From her nature to the cover story she tells.",
+      "addedInformation": "Contrasts the story with the door it hides."
+    }
+  },
+  {
+    "i": 253,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Lullabies and nursery colors",
+      "style": "reveal"
+    },
+    "cast": [
+      "noel",
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Noel talks to Floyd upstairs about nursery things, masking what is held below",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noel talks to Floyd about nursery things",
+      "concreteVisual": "Noel talks to a neutral Floyd, two people in conversation",
+      "onScreenText": "Lullabies and nursery colors",
+      "relationToPrevious": "The scene moves upstairs, to the other person",
+      "addedInformation": "The reality below is not shown; the contrast is in the words"
+    }
+  },
+  {
+    "i": 254,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "DIRECTLY BENEATH THEIR FEET",
+      "items": [
+        {
+          "label": "UPSTAIRS",
+          "detail": "Nursery talk with Floyd",
+          "level": 0.8,
+          "tone": "neutral"
+        },
+        {
+          "label": "THE HOUSE",
+          "detail": "An ordinary family home",
+          "level": 0.6,
+          "tone": "neutral"
+        },
+        {
+          "label": "THE BASEMENT",
+          "detail": "A locked door, one high window",
+          "level": 0.2,
+          "targetLevel": 0.9,
+          "changeAt": 150,
+          "active": true,
+          "tone": "danger"
+        }
+      ],
+      "callout": "Noelle: a force of destruction",
+      "calloutAt": 300,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "The house in layers: nursery talk above, the locked basement below",
+      "action": "A cutaway lights the basement layer under the house",
+      "payoff": "The secret sits directly under the ordinary home"
+    },
+    "explainedBy": "Ellie is held in the basement directly beneath the house where Noelle talks of nurseries",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The basement is directly beneath the ordinary house",
+      "concreteVisual": "A strata cutaway: upstairs, the house, then the basement layer lit with the locked door",
+      "onScreenText": "UPSTAIRS / THE HOUSE / THE BASEMENT / Noelle: a force of destruction",
+      "relationToPrevious": "Cuts from the nursery talk upstairs to the layer below it",
+      "addedInformation": "Only objects (the locked door, the window) mark the basement; no person is shown"
+    }
+  },
+  {
+    "i": 255,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Chaotic, violent entity",
+      "style": "reveal"
+    },
+    "cast": [
+      "noel"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Noel is described as a chaotic, violent force",
+    "noVisual": "Violence is not staged (safety rule); the threat is shown through an angry face and the callout",
+    "storyboard": {
+      "claim": "Noel is a chaotic and violent force",
+      "concreteVisual": "Noel alone, angry face",
+      "onScreenText": "Chaotic, violent entity",
+      "relationToPrevious": "Same character, the description becomes a characterisation",
+      "addedInformation": "The character's nature is named by the narrator"
+    }
+  },
+  {
+    "i": 256,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Forcing him to take over",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Noel's dumping of the infant forces Floyd to take the narrative over",
+    "noVisual": "The handover of an infant is not staged (safety rule: no child in the abuse context); the callout carries it",
+    "storyboard": {
+      "claim": "Floyd is forced to take the narrative over",
+      "concreteVisual": "Floyd alone, worried face",
+      "onScreenText": "Forcing him to take over",
+      "relationToPrevious": "The focus moves from Noel to Floyd",
+      "addedInformation": "The infant is not on screen"
+    }
+  },
+  {
+    "i": 257,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Noelle leaving Poppy with Floyd",
+      "action": "Three panels: the doorstep, Noelle leaving, Floyd left holding the proof",
+      "payoff": "The secret passes from Noelle to Floyd"
+    },
+    "explainedBy": "Noelle walks away and leaves Floyd holding the living proof",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noelle leaves Floyd holding the proof",
+      "concreteVisual": "A three-panel text strip: Floyd's doorstep, Noelle walks away, Floyd holds the proof",
+      "onScreenText": "Floyd's doorstep / Noelle walks away / Floyd holds the proof",
+      "relationToPrevious": "The handover from the last beat ends with Noelle gone",
+      "addedInformation": "Poppy appears only as a name; Floyd now carries the secret"
+    },
+    "timelineScrub": {
+      "title": "THE DOORSTEP",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "Floyd's doorstep",
+          "detail": "Baby Poppy left there",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "time": "Then",
+          "title": "Noelle walks away",
+          "detail": "She does not look back",
+          "tone": "danger",
+          "at": 45
+        },
+        {
+          "time": "Last",
+          "title": "Floyd holds the proof",
+          "detail": "Now the secret is his",
+          "tone": "accent",
+          "at": 105
+        }
+      ]
+    }
+  },
+  {
+    "i": 258,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Builds a nest",
+        "Host becomes dependent"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Noel works like a parasite: she builds a nest and the host becomes dependent on the infection",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Noel works like a parasite in nature",
+      "concreteVisual": "A flow of two labels: builds a nest, host becomes dependent",
+      "onScreenText": "Builds a nest, Host becomes dependent",
+      "relationToPrevious": "A new structure: the parasite metaphor as a cause and effect",
+      "addedInformation": "The metaphor is the narrator's own"
+    }
+  },
+  {
+    "i": 259,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Builds a nest",
+        "Host becomes dependent",
+        "Far too in love"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Floyd is far too in love with the child to get the parasite out of his life",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd cannot escape the parasite because he loves the child",
+      "concreteVisual": "The same flow with one more label",
+      "onScreenText": "Far too in love",
+      "relationToPrevious": "Continues the flow with its third step",
+      "addedInformation": "The love is the end of the chain; no child is drawn"
+    }
+  },
+  {
+    "i": 260,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "THE 10-YEAR ILLUSION",
+      "lines": [
+        {
+          "text": "Not Noelle",
+          "at": 10,
+          "strikeAt": 60
+        },
+        {
+          "text": "The architect: Floyd",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 85
+        }
+      ],
+      "divider": "line",
+      "footnote": "He kept her secret to keep the child",
+      "footnoteAt": 130
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "who built the ten-year illusion",
+      "action": "'The architect: Noelle' is struck out and replaced by Floyd",
+      "payoff": "Floyd kept the secret to keep Poppy"
+    },
+    "explainedBy": "The architect of the ten-year illusion was not Noelle but Floyd, who kept her secret to keep the child.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd, not Noelle, built the ten-year illusion.",
+      "concreteVisual": "'The architect: Noelle' struck; 'The architect: Floyd' below; footnote on why.",
+      "onScreenText": "The architect: Floyd",
+      "relationToPrevious": "From Floyd's love for Poppy to his responsibility.",
+      "addedInformation": "Rejects the obvious culprit and names the real one."
+    }
+  },
+  {
+    "i": 261,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "broadsheetRule",
+      "kicker": "THEN SHE WAS GONE",
+      "title": "PORTRAIT 10 · FLOYD",
+      "subtitle": "The one the reader got wrong",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Portrait ten: Floyd",
+      "action": "the portrait card opens",
+      "payoff": "the gallery turns to Floyd"
+    },
+    "explainedBy": "The tenth portrait opens: Floyd Dunn, the one the reader got wrong",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Portrait ten is Floyd Dunn",
+      "concreteVisual": "A chapter card: PORTRAIT 10 · FLOYD",
+      "onScreenText": "PORTRAIT 10 · FLOYD · The one the reader got wrong",
+      "relationToPrevious": "Opens the last portrait",
+      "addedInformation": "Names the new portrait and the misreading"
+    }
+  },
+  {
+    "i": 262,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Atone for it",
+        "Give Laurel her daughter back"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Floyd's motive: atone by giving Laurel her daughter back in Poppy",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd wants to atone by giving Laurel her daughter back",
+      "concreteVisual": "A flow of two labels: atone for it, give Laurel her daughter back",
+      "onScreenText": "Atone for it, Give Laurel her daughter back",
+      "relationToPrevious": "A new structure: the motive as cause and effect",
+      "addedInformation": "The motive is quoted from the narration"
+    }
+  },
+  {
+    "i": 263,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Atone for it",
+        "Give Laurel her daughter back",
+        "Twisted savior complex"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Floyd's atonement is a savior complex that believes it can engineer salvation",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The motive is a twisted savior complex",
+      "concreteVisual": "The same flow with a third label",
+      "onScreenText": "Twisted savior complex",
+      "relationToPrevious": "Continues the flow to its conclusion",
+      "addedInformation": "The complex is the narrator's diagnosis"
+    }
+  },
+  {
+    "i": 264,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "An unforgivable violation",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "The narrator says Floyd's atonement violates Laurel's autonomy",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd's atonement is an unforgivable violation",
+      "concreteVisual": "Floyd alone, angry face, arm pointing",
+      "onScreenText": "An unforgivable violation",
+      "relationToPrevious": "Moves from the diagram to the judgment",
+      "addedInformation": "The judgment is the narrator's"
+    }
+  },
+  {
+    "i": 265,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "Floyd's lie, layer by layer",
+      "items": [
+        {
+          "label": "Lies to Laurel daily",
+          "tone": "danger"
+        },
+        {
+          "label": "Uses her grief",
+          "detail": "still unresolved",
+          "tone": "danger"
+        },
+        {
+          "label": "Poppy lives a lie",
+          "tone": "accent"
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "Floyd's deception",
+      "action": "the layers stack one under another",
+      "payoff": "the lie reaches Poppy"
+    },
+    "explainedBy": "Floyd's lie has layers: daily lies to Laurel, her grief used, Poppy living a lie",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd lies daily, uses Laurel's grief and makes Poppy live a lie.",
+      "concreteVisual": "Three stacked strata: Lies to Laurel daily; Uses her grief; Poppy lives a lie",
+      "onScreenText": "Lies to Laurel daily / Uses her grief / Poppy lives a lie",
+      "relationToPrevious": "Continues the violation of Laurel's autonomy",
+      "addedInformation": "Shows how deep the lie goes"
+    }
+  },
+  {
+    "i": 266,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "WHAT FLOYD WEIGHS",
+      "leftLabel": "HIS NEEDS",
+      "rightLabel": "THE TRUTH",
+      "leftWeights": [
+        {
+          "label": "His own feelings",
+          "weight": 1.2,
+          "tone": "danger",
+          "at": 50
+        },
+        {
+          "label": "Laurel's forgiveness",
+          "weight": 1.6,
+          "tone": "danger",
+          "at": 110
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "What happened to Ellie",
+          "weight": 0.6,
+          "tone": "neutral",
+          "at": 140
+        }
+      ],
+      "verdict": "The truth weighs less",
+      "verdictAt": 152,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Floyd's needs against the truth",
+      "action": "The scale tips toward his feelings and forgiveness",
+      "payoff": "He puts forgiveness above the truth"
+    },
+    "explainedBy": "Floyd puts his own needs and his wish for forgiveness above the truth",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd puts his needs above the truth",
+      "concreteVisual": "A scale: his feelings and forgiveness on one pan outweigh the truth on the other",
+      "onScreenText": "HIS NEEDS / THE TRUTH / The truth weighs less",
+      "relationToPrevious": "Completes the judgment on Floyd's motive",
+      "addedInformation": "The trade-off is shown as weights, with forgiveness heaviest"
+    }
+  },
+  {
+    "i": 267,
+    "concept": "cafe",
+    "diagram": null,
+    "callout": {
+      "text": "Salvation starts in the cafe",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Floyd's salvation plan starts in the cafe in 2015",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The plan starts in the cafe",
+      "concreteVisual": "The cafe icon, no people",
+      "onScreenText": "Salvation starts in the cafe",
+      "relationToPrevious": "A new location begins the Floyd and Laurel strand",
+      "addedInformation": "The year 2015 is in the narration"
+    }
+  },
+  {
+    "i": 268,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Floyd's realization",
+      "layout": "borderless",
+      "nodeShape": "filmStrip",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Crime Watch appeal",
+          "sublabel": "On television",
+          "tone": "neutral"
+        },
+        {
+          "label": "Floyd watches",
+          "sublabel": "2015",
+          "tone": "accent"
+        },
+        {
+          "label": "Poppy is Ellie's child",
+          "sublabel": "Absolute certainty",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Floyd's discovery",
+      "action": "a film strip runs from the TV appeal to Floyd to his certainty",
+      "payoff": "Floyd realizes Poppy is Ellie's child"
+    },
+    "explainedBy": "In 2015, after the Crime Watch appeal, Floyd realizes Poppy is Ellie's child.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd realizes Poppy is Ellie's child.",
+      "concreteVisual": "Film strip: Crime Watch appeal, Floyd watches in 2015, Poppy is Ellie's child.",
+      "onScreenText": "Poppy is Ellie's child",
+      "relationToPrevious": "From the cafe in 2015 to what he has just seen.",
+      "addedInformation": "Shows the chain that leads to his certainty."
+    }
+  },
+  {
+    "i": 269,
+    "cast": [],
+    "concept": null,
+    "timelineScrub": {
+      "title": "FLOYD MAKES SURE",
+      "events": [
+        {
+          "time": "2015 · TV",
+          "title": "Crimewatch appeal",
+          "detail": "Poppy looks like Ellie",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "time": "2015 · Lab",
+          "title": "A secret DNA test",
+          "tone": "accent",
+          "at": 45
+        },
+        {
+          "time": "2015 · Result",
+          "title": "Proof: 0.02%",
+          "detail": "The test confirms it",
+          "tone": "accent",
+          "at": 95
+        },
+        {
+          "time": "2015 · Street",
+          "title": "He follows Laurel",
+          "tone": "danger",
+          "at": 155
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Floyd's steps from the appeal to Laurel",
+      "action": "A rail scrubs from the TV appeal to the DNA proof to following Laurel",
+      "payoff": "Floyd confirms Poppy is Ellie's, then goes after Laurel"
+    },
+    "explainedBy": "Floyd secretly gets a DNA test that proves it, then begins stalking Laurel",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd proves it with a secret DNA test, then follows Laurel",
+      "concreteVisual": "A timeline rail: Crimewatch appeal, secret DNA test, proof, he follows Laurel",
+      "onScreenText": "Crimewatch appeal / A secret DNA test / Proof: 0.02% / He follows Laurel",
+      "relationToPrevious": "The realisation becomes a sequence of acts",
+      "addedInformation": "The test result and the stalking are the new steps"
+    }
+  },
+  {
+    "i": 270,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Slides the carrot cake",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "smirk",
+    "action": "reach",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "place": "cafe",
+    "explainedBy": "Floyd slides carrot cake across the cafe table toward Laurel",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd offers Laurel carrot cake in the cafe",
+      "concreteVisual": "Floyd reaches across the cafe table toward Laurel, who looks sad",
+      "onScreenText": "Slides the carrot cake",
+      "relationToPrevious": "Floyd and Laurel meet for the first time in the cafe",
+      "addedInformation": "The cafe is the place from the narration"
+    }
+  },
+  {
+    "i": 271,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Disguised as serendipity",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "place": "cafe",
+    "explainedBy": "Floyd's offer is disguised as a chance meeting",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The meeting is disguised as chance",
+      "concreteVisual": "Floyd alone in the cafe with a pleasant smirk over the plan",
+      "onScreenText": "Disguised as serendipity",
+      "relationToPrevious": "Floyd is shown alone; the mask names the pretence",
+      "addedInformation": "The disguise is the narrator's"
+    }
+  },
+  {
+    "i": 272,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Orchestrated the discovery",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "place": "cafe",
+    "continue": true,
+    "explainedBy": "Floyd hides his complicity because he orchestrated the discovery",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd orchestrated the discovery of the remains",
+      "concreteVisual": "The same cafe frame with Floyd, now worried",
+      "onScreenText": "Orchestrated the discovery",
+      "relationToPrevious": "Continues the mask; the face changes to worry",
+      "addedInformation": "The orchestration is stated in the narration"
+    }
+  },
+  {
+    "i": 273,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "THE STAGED DISCOVERY",
+      "stations": [
+        {
+          "label": "Floyd's plan",
+          "detail": "He arranges the discovery",
+          "tone": "danger",
+          "at": 8
+        },
+        {
+          "label": "The woods",
+          "detail": "The bag is planted",
+          "tone": "danger",
+          "at": 75
+        },
+        {
+          "label": "Laurel's closure",
+          "detail": "The search can end",
+          "tone": "neutral",
+          "at": 155
+        },
+        {
+          "label": "The cafe",
+          "detail": "Laurel open to Floyd",
+          "tone": "accent",
+          "at": 230
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "The route of Floyd's plan from the woods to the cafe",
+      "action": "Stations light up: the plan, the woods, closure, the cafe",
+      "payoff": "The bag in the woods was placed to open Laurel to Floyd"
+    },
+    "explainedBy": "Floyd orchestrated the discovery by planting the bag in the woods so Laurel would be receptive to him",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd planted the bag in the woods to bring Laurel closure and win her",
+      "concreteVisual": "A route map: Floyd's plan, the woods, Laurel's closure, the cafe",
+      "onScreenText": "Floyd's plan / The woods / Laurel's closure / The cafe",
+      "relationToPrevious": "The orchestration named in the last beat is traced as a route",
+      "addedInformation": "The bag is an object only; the closure leads straight to the cafe"
+    }
+  },
+  {
+    "i": 274,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Serendipitous romantic savior",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel",
+      "floyd"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "place": "cafe",
+    "explainedBy": "Laurel sees Floyd as a serendipitous savior across the cafe table",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sees Floyd as a savior",
+      "concreteVisual": "Laurel happy across the table from a smirking Floyd",
+      "onScreenText": "Serendipitous romantic savior",
+      "relationToPrevious": "Back in the cafe with both people",
+      "addedInformation": "Her belief is the narrator's"
+    }
+  },
+  {
+    "i": 275,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Sent a good man",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "explainedBy": "Laurel believes the universe sent her a good man to bring light back",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel believes a good man was sent",
+      "concreteVisual": "Laurel alone, happy face",
+      "onScreenText": "Sent a good man",
+      "relationToPrevious": "Floyd leaves the frame; Laurel's belief is the focus",
+      "addedInformation": "Her belief is stated in the narration"
+    }
+  },
+  {
+    "i": 276,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "WHAT LAUREL CANNOT SEE",
+      "lines": [
+        {
+          "text": "Floyd brings the light",
+          "strikeAt": 125,
+          "at": 10
+        },
+        {
+          "text": "Floyd built the light and the dark",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 130
+        }
+      ],
+      "divider": "line",
+      "footnote": "Bared at last: his confession video",
+      "footnoteAt": 215
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Laurel's belief that Floyd brings light",
+      "action": "The belief is struck through and rewritten as the architect of both",
+      "payoff": "Floyd made both the light and the dark; the video will prove it"
+    },
+    "explainedBy": "Laurel is unaware Floyd made both the light and the dark; the truth comes out in his confession video",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd is the architect of both the light and the dark",
+      "concreteVisual": "Typographic lines: Floyd brings the light struck through, replaced by built the light and the dark",
+      "onScreenText": "Floyd brings the light / Floyd built the light and the dark / Bared at last: his confession video",
+      "relationToPrevious": "Overturns Laurel's belief from the last beat",
+      "addedInformation": "The confession video is announced as the proof"
+    }
+  },
+  {
+    "i": 277,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Directly into the camera",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "explainedBy": "Floyd speaks directly into the camera in his confession video",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd confesses on camera",
+      "concreteVisual": "Floyd talks to the viewer, sad face",
+      "onScreenText": "Directly into the camera",
+      "relationToPrevious": "The confession begins",
+      "addedInformation": "The camera is the narration's own detail"
+    }
+  },
+  {
+    "i": 278,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Hollowed with grief",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "Floyd's face is hollowed with grief as he explains the kitchen fight",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd is hollowed by grief",
+      "concreteVisual": "The same Floyd, now slumped",
+      "onScreenText": "Hollowed with grief",
+      "relationToPrevious": "Continues the confession; the posture changes to slump",
+      "addedInformation": "The grief is the narrator's description"
+    }
+  },
+  {
+    "i": 279,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Lunged at Noel in anger",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd",
+      "noel"
+    ],
+    "expression": "angry",
+    "partnerExpression": "surprised",
+    "action": "idle",
+    "explainedBy": "Floyd's account of the fight: he lunged at Noel in anger",
+    "noVisual": "The lunge and the injury are not staged (safety rule: no bodily harm); the callout names the act and its target",
+    "storyboard": {
+      "claim": "Floyd lunged at Noel in anger",
+      "concreteVisual": "Floyd, angry face, stands facing Noel, who looks surprised",
+      "onScreenText": "Lunged at Noel in anger",
+      "relationToPrevious": "Changes the scene: Noel joins Floyd on screen as the target",
+      "addedInformation": "The target is named; the act is not staged"
+    }
+  },
+  {
+    "i": 280,
+    "cast": [],
+    "concept": null,
+    "liveInterface": {
+      "variant": "notificationFlood",
+      "title": "FLOYD'S CONFESSION VIDEO",
+      "channels": [
+        {
+          "name": "The kitchen",
+          "preview": "Noelle fell: an accident",
+          "tone": "neutral",
+          "at": 10
+        },
+        {
+          "name": "The cellar",
+          "preview": "A chest freezer",
+          "tone": "danger",
+          "at": 165
+        },
+        {
+          "name": "The garden",
+          "preview": "Under a plastic tent",
+          "tone": "danger",
+          "at": 300
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "live-interface",
+      "subject": "What Floyd admits on camera",
+      "action": "Confession items arrive one by one: kitchen, cellar, garden",
+      "payoff": "Noelle's death and where she was hidden are admitted"
+    },
+    "explainedBy": "On camera Floyd admits Noelle died accidentally and he hid her in the cellar freezer, then the garden",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd admits Noelle died by accident and he hid her body",
+      "concreteVisual": "A confession-video screen with three items: the kitchen, the cellar, the garden",
+      "onScreenText": "FLOYD'S CONFESSION VIDEO / The kitchen / The cellar / The garden",
+      "relationToPrevious": "The fight from the last beat ends in the confession's admissions",
+      "addedInformation": "The places are named as evidence; nothing is shown"
+    }
+  },
+  {
+    "i": 281,
+    "concept": "letter",
+    "diagram": null,
+    "callout": {
+      "text": "Leaving Poppy to Laurel",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "blank",
+    "action": "talk",
+    "explainedBy": "Floyd has written a legal letter leaving Poppy to Laurel",
+    "noVisual": "The suicide plan is not staged; the letter carries the legal step",
+    "storyboard": {
+      "claim": "Floyd has written a legal letter",
+      "concreteVisual": "The letter icon with Floyd talking, blank face",
+      "onScreenText": "Leaving Poppy to Laurel",
+      "relationToPrevious": "The confession moves to the letter",
+      "addedInformation": "The letter's content is named in the narration"
+    }
+  },
+  {
+    "i": 282,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Ultimate cowardice",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Floyd dresses up his cowardice as a noble sacrifice",
+    "noVisual": "The death is not staged; the callout names the judgment",
+    "storyboard": {
+      "claim": "Floyd's noble sacrifice is cowardice",
+      "concreteVisual": "Floyd alone, smirk",
+      "onScreenText": "Ultimate cowardice",
+      "relationToPrevious": "Turns to the narrator's judgment",
+      "addedInformation": "The judgment is the narrator's"
+    }
+  },
+  {
+    "i": 283,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "THE NOBLE STORY",
+      "leftLabel": "WHAT HE CLAIMS",
+      "rightLabel": "WHAT IT HIDES",
+      "leftWeights": [
+        {
+          "label": "Love for Laurel",
+          "weight": 0.8,
+          "tone": "neutral",
+          "at": 60
+        },
+        {
+          "label": "Love for Poppy",
+          "weight": 0.8,
+          "tone": "neutral",
+          "at": 100
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Fear of Laurel's anger",
+          "sublabel": "He will not face it",
+          "weight": 2.2,
+          "tone": "danger",
+          "at": 250
+        }
+      ],
+      "verdict": "Escape dressed as love",
+      "verdictAt": 265,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Floyd's claimed love against what it hides",
+      "action": "The love weights rise, then fear of Laurel's anger tips the scale",
+      "payoff": "The noble act is an escape from facing Laurel"
+    },
+    "explainedBy": "Floyd's claimed act of love hides that he will not face Laurel's anger",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The noble claim hides fear of facing Laurel",
+      "concreteVisual": "A scale: love for Laurel and Poppy on one pan, outweighed by fear of Laurel's anger",
+      "onScreenText": "WHAT HE CLAIMS / WHAT IT HIDES / Escape dressed as love",
+      "relationToPrevious": "Continues the judgment of his noble sacrifice",
+      "addedInformation": "What the claim hides is weighed; the death itself is not shown"
+    }
+  },
+  {
+    "i": 284,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "WHAT FLOYD FACED",
+      "subtitle": "And what Poppy keeps",
+      "items": [
+        {
+          "label": "The loss of Poppy",
+          "detail": "First",
+          "level": 0.8,
+          "tone": "danger"
+        },
+        {
+          "label": "Severe legal judgment",
+          "detail": "Then",
+          "level": 0.55,
+          "tone": "danger",
+          "changeAt": 80
+        },
+        {
+          "label": "Poppy still sees a good dad",
+          "detail": "Underneath",
+          "level": 0.3,
+          "tone": "accent",
+          "changeAt": 170
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "what Floyd faced and Poppy's view",
+      "action": "layers revealed",
+      "payoff": "Poppy still sees a good dad"
+    },
+    "explainedBy": "Floyd faced the loss of Poppy and severe legal judgment; Poppy still sees him as a good dad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The fallout, and Poppy's loyalty",
+      "concreteVisual": "Layers: loss of Poppy, legal judgment, Poppy still sees a good dad",
+      "onScreenText": "WHAT FLOYD FACED",
+      "relationToPrevious": "The fallout",
+      "addedInformation": "Her view survives the fallout"
+    }
+  },
+  {
+    "i": 285,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "POPPY, AFTER THE TRUTH",
+      "lines": [
+        {
+          "text": "A good father",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 30
+        },
+        {
+          "text": "Who loved her",
+          "at": 110
+        }
+      ],
+      "divider": "line",
+      "footnote": "She protects his memory",
+      "footnoteAt": 200,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Poppy's defence of Floyd",
+      "action": "her verdict lands",
+      "payoff": "she guards his memory"
+    },
+    "explainedBy": "Poppy protects his memory: a good father who loved her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy defends Floyd's memory",
+      "concreteVisual": "Her words: a good father, who loved her",
+      "onScreenText": "A good father",
+      "relationToPrevious": "After the fallout",
+      "addedInformation": "Her loyalty survives the truth"
+    }
+  },
+  {
+    "i": 286,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "The four links the critic calls a coincidence",
+      "action": "Four panels fill in: tutor, lover, child, cafe meeting",
+      "payoff": "The chain only holds as a plot coincidence, the critic says"
+    },
+    "explainedBy": "The critic objects that the tutor, the lover, the child and the cafe meeting hold together only by coincidence",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The chain of tutor, lover, child and cafe looks like a plot coincidence",
+      "concreteVisual": "A four-panel text strip: the tutor, the lover, the child, the cafe",
+      "onScreenText": "FOUR LINKS, ONE COINCIDENCE? / The tutor / The lover / The child / The cafe",
+      "relationToPrevious": "The narration turns to the critic's objection",
+      "addedInformation": "The four links are listed; the objection is the critic's own"
+    },
+    "timelineScrub": {
+      "title": "FOUR LINKS, ONE COINCIDENCE?",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "The tutor",
+          "detail": "Ellie's tutor",
+          "tone": "neutral",
+          "at": 200
+        },
+        {
+          "time": "Then",
+          "title": "The lover",
+          "detail": "Floyd's lover",
+          "tone": "neutral",
+          "at": 235
+        },
+        {
+          "time": "Next",
+          "title": "The child",
+          "detail": "Poppy, Ellie's daughter",
+          "tone": "accent",
+          "at": 262
+        },
+        {
+          "time": "Last",
+          "title": "The cafe",
+          "detail": "A random meeting?",
+          "tone": "danger",
+          "at": 305
+        }
+      ]
+    }
+  },
+  {
+    "i": 287,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "THE COINCIDENCE PROBLEM",
+      "leftLabel": "REAL PSYCHOLOGY",
+      "rightLabel": "A CONTRIVANCE",
+      "leftWeights": [
+        {
+          "label": "What we are asked to accept",
+          "weight": 0.7,
+          "tone": "neutral",
+          "at": 20
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Highly unbelievable",
+          "weight": 1.5,
+          "tone": "danger",
+          "at": 90
+        }
+      ],
+      "verdict": "Hard to accept",
+      "verdictAt": 150,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "psychology vs contrivance",
+      "action": "the contrivance outweighs",
+      "payoff": "hard to believe"
+    },
+    "explainedBy": "How can we accept this contrivance as real psychology?",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The plot is a contrivance",
+      "concreteVisual": "Scale tips to 'A contrivance'",
+      "onScreenText": "THE COINCIDENCE PROBLEM",
+      "relationToPrevious": "Critique",
+      "addedInformation": "The weak point of the book"
+    }
+  },
+  {
+    "i": 288,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Overwhelming guilt",
+        "Engineers the coincidences"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Guilt forces Floyd to engineer those exact coincidences",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Guilt makes Floyd engineer the coincidences",
+      "concreteVisual": "A flow of two labels: overwhelming guilt, engineers the coincidences",
+      "onScreenText": "Overwhelming guilt, Engineers the coincidences",
+      "relationToPrevious": "The answer to the objection, as a cause and effect",
+      "addedInformation": "The psychology is the narrator's claim"
+    }
+  },
+  {
+    "i": 289,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Overwhelming guilt",
+        "Engineers the coincidences",
+        "A second seduction"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Atonement is a second seduction, the psychology behind his stalking",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Atonement is a second seduction",
+      "concreteVisual": "The same flow with a third label",
+      "onScreenText": "A second seduction",
+      "relationToPrevious": "Continues the flow to its last step",
+      "addedInformation": "The seduction is the narrator's reading"
+    }
+  },
+  {
+    "i": 290,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Cannot confess the truth",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "leave",
+    "actionCue": "exits the stage",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "Floyd cannot confess, so he seduces Laurel into forgiving him, then exits",
+    "noVisual": "Gifting the child is not staged (safety rule); the callout carries the failure to confess",
+    "storyboard": {
+      "claim": "Floyd cannot confess and exits",
+      "concreteVisual": "Floyd walks off frame past a sad Laurel",
+      "onScreenText": "Cannot confess the truth",
+      "relationToPrevious": "The flow ends; Floyd leaves the stage",
+      "addedInformation": "Floyd is gone from the scene after this beat"
+    }
+  },
+  {
+    "i": 291,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "AFTER THE GALLERY",
+      "value": "10",
+      "label": "portraits",
+      "note": "Changed the most: Laurel",
+      "framing": "minimal",
+      "tone": "accent",
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "The ten portraits",
+      "action": "the number lands, then the answer",
+      "payoff": "Laurel changed the most"
+    },
+    "explainedBy": "After all ten portraits, the one who changed most is Laurel",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Of all ten portraits, Laurel changed the most.",
+      "concreteVisual": "A big 10, labelled portraits, with the note Changed the most: Laurel",
+      "onScreenText": "10 portraits · Changed the most: Laurel",
+      "relationToPrevious": "From Floyd's exit to the gallery's verdict",
+      "addedInformation": "Names the answer to the narrator's question"
+    }
+  },
+  {
+    "i": 292,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "LAUREL GOES HOME",
+      "stations": [
+        {
+          "label": "A red Routemaster bus",
+          "tone": "accent",
+          "at": 10
+        },
+        {
+          "label": "From the wedding",
+          "detail": "Theo and Hanna",
+          "tone": "positive",
+          "at": 125
+        },
+        {
+          "label": "Along the water",
+          "detail": "Wind in her hair",
+          "tone": "neutral",
+          "at": 195
+        },
+        {
+          "label": "Poppy on her lap",
+          "detail": "Heading home together",
+          "tone": "positive",
+          "at": 280
+        }
+      ]
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "Laurel's ride home after Theo and Hanna's wedding",
+      "action": "A route lights up: the bus, the wedding, the water, Poppy on her lap",
+      "payoff": "Laurel heads home with Poppy"
+    },
+    "explainedBy": "Laurel rides home on a red bus after Theo and Hanna's wedding with Poppy on her lap",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel rides home after the wedding with Poppy",
+      "concreteVisual": "A route map: red Routemaster bus, from the wedding, along the water, Poppy on her lap",
+      "onScreenText": "A red Routemaster bus / From the wedding / Along the water / Poppy on her lap",
+      "relationToPrevious": "A new scene after the wedding, at the start of Laurel's ending",
+      "addedInformation": "The wedding and Poppy's place beside Laurel are the new facts"
+    }
+  },
+  {
+    "i": 293,
+    "concept": "ellie-room",
+    "diagram": null,
+    "callout": {
+      "text": "Untouched for ten years",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "For ten years Laurel could not touch Ellie's bedroom, a shrine to a ghost",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel did not touch Ellie's room for ten years",
+      "concreteVisual": "The bedroom icon with Laurel, sad slumped",
+      "onScreenText": "Untouched for ten years",
+      "relationToPrevious": "Turns from the bus to the bedroom",
+      "addedInformation": "The shrine is the narrator's description"
+    }
+  },
+  {
+    "i": 294,
+    "concept": "bed",
+    "diagram": null,
+    "callout": {
+      "text": "A bed for Ellie's daughter",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "explainedBy": "Laurel walks into the frozen room and makes a bed for Ellie's daughter",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel makes a bed in the room",
+      "concreteVisual": "The made bed icon with Laurel walking in",
+      "onScreenText": "A bed for Ellie's daughter",
+      "relationToPrevious": "The room is opened; the bed is made",
+      "addedInformation": "The child is named, not drawn"
+    }
+  },
+  {
+    "i": 295,
+    "cast": [],
+    "concept": null,
+    "decisionTree": {
+      "title": "LAUREL'S ENDING",
+      "root": {
+        "label": "A bed for Poppy"
+      },
+      "branches": [
+        {
+          "label": "Healing",
+          "tone": "positive",
+          "at": 10
+        },
+        {
+          "label": "The last substitution",
+          "tone": "danger",
+          "at": 30
+        }
+      ],
+      "at": 6
+    },
+    "shotIntent": {
+      "job": "decision-tree",
+      "subject": "The meaning of Laurel making the bed",
+      "action": "One root splits into two readings",
+      "payoff": "The ending stays open: healing or substitution"
+    },
+    "explainedBy": "The ending asks whether her bed-making is healing or the last substitution",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ending is healing or substitution",
+      "concreteVisual": "Laurel alone, neutral face",
+      "onScreenText": "Healing or the last substitution",
+      "relationToPrevious": "The final beat closes the chunk on the question",
+      "addedInformation": "No new event; the question is the narrator's"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "outDir": "scenes/strategy-10x-pilot",
+  "artLock": "architectural copper-plate etching and navy blueprint technical illustration, crisp ivory and vermilion drafting ink lines on deep drafting paper, dramatic editorial framing",
+  "filterBlacklist": {
+    "death race": "high-stakes duel",
+    "warfare": "rivalry",
+    "weapon": "tool"
+  },
+  "scenes": [
+    {
+      "id": "s1_chess_expectation",
+      "mode": "annotated",
+      "prompt": "Close-up of a wooden hand hovering thoughtfully over a brass chess knight casting a long geometric shadow across a navy architectural chessboard grid"
+    },
+    {
+      "id": "s1_bb_lean",
+      "mode": "split",
+      "prompt": "Classic rugged New England outdoor catalog storefront displaying a folded indigo chambray shirt on an oak counter, crisp architectural crosshatch view"
+    },
+    {
+      "id": "s1_rainbows",
+      "mode": "split",
+      "prompt": "Rival boutique storefront across the street displaying a matching tailored blue chambray shirt under a warm brass display lamp, crisp architectural crosshatch view"
+    },
+    {
+      "id": "s2_phone_chaos",
+      "mode": "scene",
+      "prompt": "Two vintage rotary telephones on opposite sides of a drafting desk with tangled spiral cords crossing in the center, clean overhead technical diagram view"
+    },
+    {
+      "id": "s2_focal_clock",
+      "mode": "annotated",
+      "prompt": "Ornate antique brass four-faced clock tower standing in the center of a quiet sunlit stone plaza with dashed footpaths converging from four corners"
+    },
+    {
+      "id": "s3_commitment_lock",
+      "mode": "equation",
+      "prompt": "Heavy antique brass padlock chained around a wooden pantry latch resting beside a folded contract with a red wax seal on an emerald drafting desk"
+    },
+    {
+      "id": "s3_hunting_map",
+      "mode": "annotated",
+      "prompt": "Bird's-eye antique cartographic topographic map split by a winding river: a lush wooded northern valley at top and a sparse rocky southern plateau at bottom, fine contour lines"
+    },
+    {
+      "id": "s3_hunters_ridge",
+      "mode": "scene",
+      "prompt": "Two Stone Age hunters standing on opposite sides of a sunlit rocky mountain ridge overlooking a wide valley below, bold vintage woodcut ink style"
+    }
+  ]
+}

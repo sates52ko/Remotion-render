@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "generatedAt": "2026-11-26T05:44:37.280Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "Then She Was Gone",
+      "author": "Lisa Jewell",
+      "genre": "thriller"
+    }
+  },
+  "world": {
+    "universeKey": "contemporary_general",
+    "label": "Contemporary General Non-Fiction",
+    "recommendedEngine": "antidote",
+    "engineConfidence": 0.7,
+    "engineRationale": "Balanced narrative pace suited for expressive vector characters and kinetic callouts.",
+    "palette": {
+      "primary": "#2563EB",
+      "secondary": "#1E293B",
+      "accent": "#F97316",
+      "paper": "#FAFAF9",
+      "ink": "#18181B"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "office",
+      "room",
+      "stage"
+    ],
+    "activeCustomMotifs": {},
+    "gaps": []
+  },
+  "vox": {
+    "primaryDocType": "newspaper",
+    "suggestedLocations": [
+      {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    ],
+    "photoPromptStyle": "Contemporary General Non-Fiction, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

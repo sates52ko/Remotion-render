@@ -1,0 +1,11 @@
+{
+  "note": "What blind raters READ from a book's own drawings and heads when they missed — measured on real books (own-icons-sheet.js / cast-sheet.js --judge). The redraw note (lib/own-drawings.js redrawNote) quotes the rows whose intended words match. Add a row by hand after a miss, as in icon-readings.json; never add a misreading to a drawing's reads.",
+  "readings": [
+    { "slug": "then-she-was-gone-v2", "kind": "backdrop", "intended": "street / road", "read": "row houses", "note": "the houses were the body of the picture; the road was a strip at the bottom" },
+    { "slug": "then-she-was-gone-v2", "kind": "backdrop", "intended": "hallway / flat / front door", "read": "coat rack room", "note": "a coat rack names a cloakroom; a numbered front door and a stair name a flat's hallway" },
+    { "slug": "then-she-was-gone-v2", "kind": "person", "intended": "woman in a hood", "read": "person in olive hooded parka", "note": "a hood with no hair and no open face is a parka, not a hooded woman" },
+    { "slug": "then-she-was-gone-v2", "kind": "person", "intended": "woman in a hood", "read": "blonde woman in olive coat", "note": "second round: the hair showed, the hood did not — the hood must be the one large element" },
+    { "slug": "dracula", "kind": "thing", "intended": "crate of soil", "read": "wooden crate", "note": "the open box needed the soil heaped above its rim before it read as earth" },
+    { "slug": "dracula", "kind": "person", "intended": "man in a cloak", "read": "man in a robe", "note": "a cloak reads as a robe unless it falls from the shoulders over the arms" }
+  ]
+}

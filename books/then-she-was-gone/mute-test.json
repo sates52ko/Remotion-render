@@ -1,0 +1,137 @@
+{
+  "runs": [
+    {
+      "label": "final",
+      "date": "2026-11-26T07:34:05.612Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 22,
+        "TEXT_ONLY": 11,
+        "ADDS": 13,
+        "NEUTRAL": 7,
+        "NONE": 6,
+        "WRONG": 1,
+        "EXPLAINS": 1
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": false,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "01bbe4b6fa8c1e6fad8f282e0fa29619af35900dfe5e39395c57f8b379137fea",
+      "verdict": false,
+      "dead": 6,
+      "addsTargetMet": false,
+      "evidenceSha256": "8005cd5a7a06261f41a43cba51e97a74311b133f14766c5360279aa217faa6f3",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 43,
+      "configSha256": "4afc2c654a3181edfce42d97513e363b885b1fbfe05dd44347956f1974d2c75e",
+      "renderInputHash": "b1d8d94c8bc5bad9",
+      "codeHead": "96d8e9f55f7f4ffbded36143ec796dc3d39c358b",
+      "framesConfigSha": "4afc2c654a3181ed"
+    },
+    {
+      "label": "r1",
+      "date": "2026-11-26T13:20:42.764Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 18,
+        "ADDS": 20,
+        "EXPLAINS": 4,
+        "NEUTRAL": 10,
+        "TEXT_ONLY": 10,
+        "WRONG": 2
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": false,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "ff4ba3c708920f838eea472044f2191324ddf21d67e0f72426e54251d170d56a",
+      "verdict": false,
+      "dead": 0,
+      "addsTargetMet": true,
+      "evidenceSha256": "bb080d8f31326ae1a41374f8147f16e44bd8a0bcbeb0c35de544a5a94222b368",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 67,
+      "configSha256": "b946f114a80c749f4d8b227cb6cc3f4022c8c9e696a64e3e5910787ed240f623",
+      "renderInputHash": "864a08cfb2eae30a",
+      "codeHead": "a6c7289c1a492041dd51bba9159ffa110b721d67",
+      "framesConfigSha": "b946f114a80c749f"
+    },
+    {
+      "label": "run2",
+      "date": "2026-11-26T14:54:39.863Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 25,
+        "TEXT_ONLY": 12,
+        "ADDS": 14,
+        "EXPLAINS": 3,
+        "NEUTRAL": 5,
+        "NONE": 4
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": true,
+      "sample": "fresh",
+      "verdict": true,
+      "dead": 4,
+      "addsTargetMet": false,
+      "evidenceSha256": "2bfa14ee5a3e7dc8b3a51bd4ef44e236376e9821f118d6682fc16770fed577cf",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 47,
+      "configSha256": "3cf805f0c89cacc27b47533c6d0009a92101ab949f24f5d22f8dd52bae812027",
+      "renderInputHash": "1977f3f4096c9022",
+      "codeHead": "a6c7289c1a492041dd51bba9159ffa110b721d67",
+      "framesConfigSha": "3cf805f0c89cacc2"
+    },
+    {
+      "label": "run1",
+      "date": "2026-11-26T17:20:07.304Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 23,
+        "ADDS": 6,
+        "TEXT_ONLY": 18,
+        "NEUTRAL": 7,
+        "NONE": 6,
+        "EXPLAINS": 2
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": false,
+      "sample": "fresh",
+      "verdict": false,
+      "dead": 6,
+      "addsTargetMet": false,
+      "evidenceSha256": "b1717a9b3ce93a10f58dd90fa3634911d45eb425236f9ac11b4e241146c4bdcf",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 20,
+      "configSha256": "3cf805f0c89cacc27b47533c6d0009a92101ab949f24f5d22f8dd52bae812027",
+      "renderInputHash": "1977f3f4096c9022",
+      "codeHead": "12ffda6a44a423148db5fd92f3437e7cdeba0229",
+      "framesConfigSha": "3cf805f0c89cacc2"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "schema": "own-drawings/1",
+  "drawings": {
+    "rucksack": {
+      "n": 1,
+      "hash": "825d99c6886b7ca8",
+      "intended": "ELLIE'S RUCKSACK",
+      "accepted": [
+        "backpack",
+        "rucksack",
+        "bag"
+      ],
+      "answer": "backpack",
+      "ok": true
+    },
+    "letter": {
+      "n": 2,
+      "hash": "496c303bb447325f",
+      "intended": "FLOYD'S LETTER",
+      "accepted": [
+        "envelope",
+        "letter",
+        "sealed letter"
+      ],
+      "answer": "envelope",
+      "ok": true
+    },
+    "croissant": {
+      "n": 3,
+      "hash": "764c07991edbd539",
+      "intended": "THE CROISSANT",
+      "accepted": [
+        "croissant",
+        "pastry"
+      ],
+      "answer": "black croissant",
+      "ok": true
+    },
+    "portrait": {
+      "n": 4,
+      "hash": "feef5ad064131923",
+      "intended": "ELLIE'S PORTRAIT",
+      "accepted": [
+        "framed photo",
+        "portrait",
+        "picture frame",
+        "photo of a girl"
+      ],
+      "answer": "girl portrait",
+      "ok": true
+    },
+    "key": {
+      "n": 5,
+      "hash": "d4e195ce7157186f",
+      "intended": "THE KEY",
+      "accepted": [
+        "key",
+        "door key",
+        "old key"
+      ],
+      "answer": "key",
+      "ok": true
+    },
+    "basement-door": {
+      "n": 6,
+      "hash": "443c194c95f8c47d",
+      "intended": "THE BASEMENT DOOR",
+      "accepted": [
+        "locked door",
+        "door",
+        "door with a padlock"
+      ],
+      "answer": "locked door",
+      "ok": true
+    },
+    "basement-door#open": {
+      "n": 7,
+      "hash": "d4046a95cff2f65a",
+      "intended": "THE BASEMENT DOOR (open)",
+      "accepted": [
+        "open door",
+        "door ajar",
+        "doorway"
+      ],
+      "answer": "open door",
+      "ok": true
+    },
+    "birthday-cake": {
+      "n": 8,
+      "hash": "076ccfb180232ecb",
+      "intended": "BIRTHDAY CAKE",
+      "accepted": [
+        "birthday cake",
+        "cake with candles",
+        "cake"
+      ],
+      "answer": "birthday cake",
+      "ok": true
+    },
+    "bed": {
+      "n": 9,
+      "hash": "22dde69242bcfa4e",
+      "intended": "THE MADE BED",
+      "accepted": [
+        "bed",
+        "single bed",
+        "made bed"
+      ],
+      "answer": "bed",
+      "ok": true
+    },
+    "kitchen": {
+      "n": 10,
+      "hash": "b347eb0d4ce06872",
+      "intended": "THE MACK KITCHEN",
+      "accepted": [
+        "kitchen",
+        "stove",
+        "kitchen stove",
+        "cooker"
+      ],
+      "answer": "kitchen",
+      "ok": true
+    },
+    "kitchen@backdrop": {
+      "n": 11,
+      "hash": "04abf8777ccbbb41",
+      "intended": "THE MACK KITCHEN (the place, behind the stage)",
+      "accepted": [
+        "kitchen",
+        "family kitchen",
+        "kitchen with a window"
+      ],
+      "answer": "kitchen interior",
+      "ok": true
+    },
+    "cafe": {
+      "n": 12,
+      "hash": "6032ca99da351255",
+      "intended": "THE CAFE",
+      "accepted": [
+        "cafe",
+        "coffee cup",
+        "coffee shop",
+        "coffee"
+      ],
+      "answer": "coffee cup",
+      "ok": true
+    },
+    "cafe@backdrop": {
+      "n": 13,
+      "hash": "2c87933fd3244de2",
+      "intended": "THE CAFE (the place, behind the stage)",
+      "accepted": [
+        "cafe",
+        "coffee shop",
+        "cafe interior"
+      ],
+      "answer": "cafe interior",
+      "ok": true
+    },
+    "ellie-room": {
+      "n": 14,
+      "hash": "d152836d74fb1ff7",
+      "intended": "ELLIE'S BEDROOM",
+      "accepted": [
+        "bedroom",
+        "girl s bedroom",
+        "teenager s room"
+      ],
+      "answer": "bedroom",
+      "ok": true
+    },
+    "ellie-room@backdrop": {
+      "n": 15,
+      "hash": "586b8f928c77424c",
+      "intended": "ELLIE'S BEDROOM (the place, behind the stage)",
+      "accepted": [
+        "bedroom",
+        "girl s bedroom",
+        "room with a bed"
+      ],
+      "answer": "bedroom interior",
+      "ok": true
+    },
+    "library": {
+      "n": 16,
+      "hash": "076354ad4a198588",
+      "intended": "THE LIBRARY",
+      "accepted": [
+        "library",
+        "bookshelves",
+        "books on shelves"
+      ],
+      "answer": "bookshelves",
+      "ok": true
+    },
+    "library@backdrop": {
+      "n": 17,
+      "hash": "882b876201ea0c33",
+      "intended": "THE LIBRARY (the place, behind the stage)",
+      "accepted": [
+        "library",
+        "bookshelves",
+        "reading room"
+      ],
+      "answer": "library",
+      "ok": true
+    },
+    "woodland": {
+      "n": 18,
+      "hash": "5d8cd1a68647f38d",
+      "intended": "THE WOODS",
+      "accepted": [
+        "trees",
+        "forest",
+        "woods",
+        "pine trees"
+      ],
+      "answer": "trees",
+      "ok": true
+    },
+    "woodland@backdrop": {
+      "n": 19,
+      "hash": "a2f84423dce8872d",
+      "intended": "THE WOODS (the place, behind the stage)",
+      "accepted": [
+        "forest",
+        "woods",
+        "edge of a wood"
+      ],
+      "answer": "forest",
+      "ok": true
+    },
+    "basement": {
+      "n": 20,
+      "hash": "1f6350c5f3fa546d",
+      "intended": "THE BASEMENT",
+      "accepted": [
+        "basement",
+        "cellar",
+        "cellar stairs"
+      ],
+      "answer": "basement",
+      "ok": true
+    },
+    "basement@backdrop": {
+      "n": 21,
+      "hash": "641c391fbfe07e29",
+      "intended": "THE BASEMENT (the place, behind the stage)",
+      "accepted": [
+        "basement",
+        "cellar",
+        "cellar with stairs"
+      ],
+      "answer": "basement stairs",
+      "ok": true
+    },
+    "floyd-table": {
+      "n": 22,
+      "hash": "e0e65c5aeb689de6",
+      "intended": "FLOYD'S DINING ROOM",
+      "accepted": [
+        "dining table",
+        "table and chairs",
+        "dining room",
+        "table"
+      ],
+      "answer": "dining table",
+      "ok": true
+    },
+    "floyd-table@backdrop": {
+      "n": 23,
+      "hash": "aaf5bee6d9d23ab9",
+      "intended": "FLOYD'S DINING ROOM (the place, behind the stage)",
+      "accepted": [
+        "dining room",
+        "dining table",
+        "room with a long table"
+      ],
+      "answer": "long table",
+      "ok": false,
+      "rounds": 2,
+      "fallback": true
+    },
+    "hanna-flat": {
+      "n": 24,
+      "hash": "91e66d88da213408",
+      "intended": "HANNA'S FLAT",
+      "accepted": [
+        "flat",
+        "hallway",
+        "front door"
+      ],
+      "answer": "door",
+      "ok": false,
+      "rounds": 2,
+      "fallback": true
+    },
+    "hanna-flat@backdrop": {
+      "n": 25,
+      "hash": "48e437792a2f2c4f",
+      "intended": "HANNA'S FLAT (the place, behind the stage)",
+      "accepted": [
+        "hallway",
+        "front door",
+        "flat"
+      ],
+      "answer": "hallway",
+      "ok": true
+    }
+  },
+  "named": 23,
+  "total": 25,
+  "fallbacks": 2,
+  "slug": "then-she-was-gone",
+  "at": "2026-11-25T14:55:16.844Z"
+}

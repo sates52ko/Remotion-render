@@ -1,0 +1,64 @@
+{
+  "outDir": "scenes/essentialism-10x-pilot",
+  "artLock": "editorial watercolor illustration",
+  "scenes": [
+    {
+      "id": "e1_marble_chisel",
+      "mode": "scene",
+      "prompt": "Warm sunlit artist studio table, wooden mallet and chisel beside a clean minimalist white stone sculpture, bright ivory paper background"
+    },
+    {
+      "id": "e1_sunlit_desk_stage",
+      "mode": "emptyStage",
+      "prompt": "Bright minimalist sunlit study room interior, empty pale oak desk on the side and tall window with green houseplant in corner, warm ivory walls, open floor space"
+    },
+    {
+      "id": "e1_char_overwhelmed",
+      "mode": "cutout",
+      "cutout": true,
+      "prompt": "Editorial ink-and-watercolor full-body illustration of a young office worker in a warm terracotta cardigan and navy trousers standing holding a coffee mug, crisp dark ink outline"
+    },
+    {
+      "id": "e1_prop_tetris_stack",
+      "mode": "cutout",
+      "cutout": true,
+      "prompt": "Editorial ink-and-watercolor illustration of a tall wobbly stack of colorful sticky notes, notebooks, and folders, crisp dark ink outline"
+    },
+    {
+      "id": "e2_cluttered_desk",
+      "mode": "scene",
+      "prompt": "Overhead three-quarter editorial ink-and-watercolor illustration of a bright wooden desk covered with binders, notebooks, coffee cups, and rolled blueprints, warm daylight"
+    },
+    {
+      "id": "e2_studio_lounge_stage",
+      "mode": "emptyStage",
+      "prompt": "Bright sunlit minimalist library room with wooden bookshelves and warm cream wall, open floor space"
+    },
+    {
+      "id": "e2_char_mentor",
+      "mode": "cutout",
+      "cutout": true,
+      "prompt": "Full-body illustration of a calm senior teacher wearing a green blazer, round glasses, and cream trousers standing thoughtfully, crisp ink outline"
+    },
+    {
+      "id": "e3_pharmacy_integrity",
+      "mode": "scene",
+      "prompt": "Warm editorial ink-and-watercolor illustration of a vintage wooden shelf with a single amber glass bottle beside a leather notebook and brass fountain pen, bright ivory paper ground"
+    },
+    {
+      "id": "e3_boardroom_table",
+      "mode": "scene",
+      "prompt": "Sunlit corporate glass boardroom table with quarterly financial ledgers and decision folder, bright ivory paper aesthetic"
+    },
+    {
+      "id": "e3_living_room_calm",
+      "mode": "scene",
+      "prompt": "Peaceful sunlit living room with wooden coffee table, open journal, warm ceramic teacup, and green houseplant"
+    },
+    {
+      "id": "e2_char_worker_sheet",
+      "mode": "cutout-grid",
+      "prompt": "2x2 grid of four separate full-body poses of the same young office worker in a warm terracotta cardigan and navy trousers on pure solid white background: top-left calm thinking, top-right overwhelmed hands on head, bottom-left leaning asking a question, bottom-right confident pointing, crisp dark ink outline"
+    }
+  ]
+}

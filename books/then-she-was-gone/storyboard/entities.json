@@ -1,0 +1,2097 @@
+{
+  "laurel": {
+    "label": "LAUREL MACK",
+    "kind": "person",
+    "reads": [
+      "woman",
+      "cardigan",
+      "greying hair",
+      "mother"
+    ],
+    "look": {
+      "age": "adult",
+      "gender": "f",
+      "outfit": "casual",
+      "headwear": "none",
+      "hairStyle": "long",
+      "build": "average",
+      "height": 1,
+      "headScale": 1,
+      "skin": "#E9D8C4",
+      "hair": "#8A7A6A",
+      "suit": "#7D6E62",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "back": [
+          {
+            "d": "M100 120 Q96 30 200 36 Q304 30 300 120 L312 272 Q304 292 282 292 L118 292 Q96 292 88 272 Z",
+            "fill": "hair"
+          }
+        ],
+        "hair": [
+          {
+            "d": "M108 122 Q118 46 200 44 Q292 46 292 122 Q262 78 196 92 Q148 102 108 122 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M108 122 Q96 150 100 190 L112 190 Q106 150 118 126 Z",
+            "fill": "hair"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 L156 290 L200 352 L244 290 L304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M156 290 L200 352 L244 290 Z",
+            "fill": "shirt"
+          },
+          {
+            "d": "M200 372 a7 7 0 1 0 0.1 0 M200 402 a7 7 0 1 0 0.1 0",
+            "fill": "accent"
+          }
+        ]
+      }
+    }
+  },
+  "ellie": {
+    "label": "ELLIE MACK",
+    "kind": "person",
+    "reads": [
+      "girl",
+      "long hair",
+      "teenager",
+      "schoolgirl"
+    ],
+    "look": {
+      "age": "young",
+      "gender": "f",
+      "outfit": "casual",
+      "headwear": "none",
+      "hairStyle": "long",
+      "build": "slight",
+      "height": 0.92,
+      "headScale": 1,
+      "skin": "#EFDCC8",
+      "hair": "#5A3D2B",
+      "suit": "#8B2E2E",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "back": [
+          {
+            "d": "M104 112 Q100 36 200 36 Q300 36 296 112 L306 300 L262 300 L258 150 L142 150 L138 300 L94 300 Z",
+            "fill": "hair"
+          }
+        ],
+        "hair": [
+          {
+            "d": "M108 116 Q122 48 196 48 L200 96 L204 48 Q278 48 292 116 Q262 96 206 102 L200 94 L194 102 Q138 96 108 116 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M236 72 L264 62 L270 78 L242 88 Z",
+            "fill": "accent"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 L200 350 L304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M96 290 L200 350 L304 290 L304 304 L200 366 L96 304 Z",
+            "fill": "accent"
+          },
+          {
+            "d": "M150 290 L200 330 L250 290 Z",
+            "fill": "shirt"
+          }
+        ]
+      }
+    }
+  },
+  "hanna": {
+    "label": "HANNA MACK",
+    "kind": "person",
+    "reads": [
+      "woman with bun",
+      "dark coat",
+      "young woman"
+    ],
+    "look": {
+      "age": "adult",
+      "gender": "f",
+      "outfit": "coat",
+      "headwear": "none",
+      "hairStyle": "bun",
+      "build": "slight",
+      "height": 1.08,
+      "headScale": 1,
+      "skin": "#E9D8C4",
+      "hair": "#3B2C24",
+      "suit": "#2A2320",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "back": [
+          {
+            "d": "M160 244 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M104 120 Q100 40 200 38 Q300 40 296 120 L292 230 L108 230 Z",
+            "fill": "hair"
+          }
+        ],
+        "hair": [
+          {
+            "d": "M108 126 Q110 40 200 40 Q290 40 292 126 Q268 92 200 90 Q132 92 108 126 Z",
+            "fill": "hair"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 L304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M150 290 L200 372 L250 290 Z",
+            "fill": "shirt"
+          },
+          {
+            "d": "M118 290 L150 290 L200 372 L200 430 L186 430 L132 320 Z M282 290 L250 290 L200 372 L200 430 L214 430 L268 320 Z",
+            "fill": "#3A322E"
+          }
+        ]
+      }
+    }
+  },
+  "floyd": {
+    "label": "FLOYD DUNN",
+    "kind": "person",
+    "reads": [
+      "man with glasses",
+      "jacket",
+      "grey-haired man"
+    ],
+    "look": {
+      "age": "adult",
+      "gender": "m",
+      "outfit": "coat",
+      "headwear": "none",
+      "hairStyle": "short",
+      "build": "heavy",
+      "height": 1.06,
+      "headScale": 1,
+      "skin": "#E6CDB0",
+      "hair": "#8A8A8A",
+      "suit": "#4A4A3A",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "hair": [
+          {
+            "d": "M110 118 Q112 44 200 44 Q288 44 290 118 Q262 84 200 82 Q138 84 110 118 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M108 118 L108 170 L122 170 L122 126 Z M292 118 L292 170 L278 170 L278 126 Z",
+            "fill": "hair"
+          }
+        ],
+        "top": [
+          {
+            "d": "M138 132 a30 22 0 1 0 60 0 a30 22 0 1 0 -60 0 M202 132 a30 22 0 1 0 60 0 a30 22 0 1 0 -60 0 M198 132 L202 132 M108 126 L138 132 M262 132 L292 126",
+            "stroke": "ink",
+            "strokeWidth": 5,
+            "fill": "none"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 L304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M140 290 L200 356 L260 290 Z",
+            "fill": "shirt"
+          },
+          {
+            "d": "M110 290 L140 290 L200 356 L176 372 L118 316 Z M290 290 L260 290 L200 356 L224 372 L282 316 Z",
+            "fill": "#5C5C48"
+          },
+          {
+            "d": "M112 392 L160 392 L160 430 L112 430 Z M240 392 L288 392 L288 430 L240 430 Z",
+            "fill": "#5C5C48"
+          }
+        ]
+      }
+    }
+  },
+  "poppy": {
+    "label": "POPPY",
+    "kind": "person",
+    "reads": [
+      "little girl",
+      "ponytail",
+      "child"
+    ],
+    "look": {
+      "age": "child",
+      "gender": "f",
+      "outfit": "casual",
+      "headwear": "none",
+      "hairStyle": "ponytail",
+      "build": "slight",
+      "height": 0.72,
+      "headScale": 1.18,
+      "skin": "#F0DFCB",
+      "hair": "#C9A86A",
+      "suit": "#5E7FA3",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "back": [
+          {
+            "d": "M268 104 Q340 110 342 212 Q336 262 312 258 Q326 190 272 152 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M106 118 Q104 40 200 40 Q296 40 294 118 L294 150 L106 150 Z",
+            "fill": "hair"
+          }
+        ],
+        "hair": [
+          {
+            "d": "M108 112 Q112 50 200 48 Q288 50 292 112 L292 120 L108 120 Z",
+            "fill": "hair"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 L304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M146 290 Q200 338 254 290 Z",
+            "fill": "shirt"
+          },
+          {
+            "d": "M200 350 a7 7 0 1 0 0.1 0 M200 382 a7 7 0 1 0 0.1 0 M200 414 a7 7 0 1 0 0.1 0",
+            "fill": "paper"
+          }
+        ]
+      }
+    }
+  },
+  "noel": {
+    "label": "NOELLE DONNELLY",
+    "kind": "person",
+    "reads": [
+      "woman in a hood",
+      "raincoat",
+      "hooded coat",
+      "hood up"
+    ],
+    "look": {
+      "age": "young",
+      "gender": "f",
+      "outfit": "coat",
+      "headwear": "none",
+      "hairStyle": "long",
+      "build": "slight",
+      "height": 1,
+      "headScale": 1,
+      "skin": "#EADBC9",
+      "hair": "#D8C58A",
+      "suit": "#6B6B45",
+      "shirt": "#D8D2B8",
+      "drawnFallback": {
+        "back": [
+          {
+            "d": "M84 150 Q76 20 200 18 Q324 20 316 150 L324 170 L76 170 Z",
+            "fill": "suit"
+          }
+        ],
+        "hair": [
+          {
+            "d": "M108 150 Q104 100 130 92 L134 160 Z M292 150 Q296 100 270 92 L266 160 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M120 118 Q200 96 280 118 L276 126 Q200 106 124 126 Z",
+            "fill": "hair"
+          }
+        ],
+        "body": [
+          {
+            "d": "M108 620 L108 340 Q200 306 292 340 L292 620 Z",
+            "fill": "shirt"
+          }
+        ],
+        "top": []
+      },
+      "fallback": {
+        "at": "2026-11-23T06:21:31.261Z",
+        "read": "blonde woman in olive apron",
+        "wanted": [
+          "woman in a hood",
+          "raincoat",
+          "hooded coat",
+          "hood up"
+        ],
+        "rounds": 2
+      }
+    }
+  },
+  "theo": {
+    "label": "THEO GOODMAN",
+    "kind": "person",
+    "reads": [
+      "young man",
+      "hoodie",
+      "curly hair"
+    ],
+    "look": {
+      "age": "young",
+      "gender": "m",
+      "outfit": "casual",
+      "headwear": "none",
+      "hairStyle": "curly",
+      "build": "slight",
+      "height": 1.04,
+      "headScale": 1,
+      "skin": "#E6CDB0",
+      "hair": "#3B2C24",
+      "suit": "#4A5560",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "back": [
+          {
+            "d": "M86 300 Q72 210 140 236 L260 236 Q328 210 314 300 Z",
+            "fill": "suit"
+          }
+        ],
+        "hair": [
+          {
+            "d": "M104 126 Q98 70 130 60 Q146 28 190 40 Q232 18 264 46 Q302 58 296 126 Q270 96 240 102 Q200 80 160 102 Q130 96 104 126 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M106 126 L104 176 L120 176 L122 130 Z M294 126 L296 176 L280 176 L278 130 Z",
+            "fill": "hair"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 Q200 344 304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M176 290 Q200 318 224 290 Z",
+            "fill": "shirt"
+          },
+          {
+            "d": "M186 318 L182 400 M214 318 L218 400",
+            "stroke": "accent",
+            "strokeWidth": 6,
+            "fill": "none"
+          },
+          {
+            "d": "M140 380 L260 380 L260 430 L140 430 Z",
+            "fill": "#3E4852"
+          }
+        ]
+      }
+    }
+  },
+  "paul": {
+    "label": "PAUL MACK",
+    "kind": "person",
+    "reads": [
+      "bearded man",
+      "man with tie",
+      "father"
+    ],
+    "look": {
+      "age": "adult",
+      "gender": "m",
+      "outfit": "suit",
+      "headwear": "none",
+      "hairStyle": "short",
+      "build": "average",
+      "height": 1.04,
+      "headScale": 1,
+      "skin": "#E6CDB0",
+      "hair": "#6B5A4A",
+      "suit": "#5B5048",
+      "shirt": "#FAF7F2",
+      "drawn": {
+        "hair": [
+          {
+            "d": "M120 112 Q140 62 200 56 Q260 62 280 112 Q244 94 200 94 Q156 94 120 112 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M116 184 Q118 252 200 264 Q282 252 284 184 Q242 214 200 220 Q158 214 116 184 Z",
+            "fill": "hair"
+          },
+          {
+            "d": "M112 112 L108 182 L124 182 L126 118 Z M288 112 L292 182 L276 182 L274 118 Z",
+            "fill": "hair"
+          }
+        ],
+        "body": [
+          {
+            "d": "M96 290 L304 290 L304 430 L96 430 Z",
+            "fill": "suit"
+          },
+          {
+            "d": "M148 290 L200 336 L252 290 Z",
+            "fill": "shirt"
+          },
+          {
+            "d": "M190 320 L210 320 L220 430 L180 430 Z",
+            "fill": "accent"
+          },
+          {
+            "d": "M118 290 L148 290 L200 336 L200 430 L184 430 L130 330 Z M282 290 L252 290 L200 336 L200 430 L216 430 L270 330 Z",
+            "fill": "#4A413A"
+          }
+        ]
+      }
+    }
+  },
+  "year2005": {
+    "label": "MAY 2005",
+    "kind": "idea",
+    "glyph": "flag"
+  },
+  "year2015": {
+    "label": "2015",
+    "kind": "idea",
+    "glyph": "flag"
+  },
+  "rucksack": {
+    "label": "ELLIE'S RUCKSACK",
+    "kind": "object",
+    "motif": "rucksack",
+    "reads": [
+      "backpack",
+      "rucksack",
+      "bag"
+    ]
+  },
+  "letter": {
+    "label": "FLOYD'S LETTER",
+    "kind": "object",
+    "motif": "letter",
+    "reads": [
+      "envelope",
+      "letter",
+      "sealed letter"
+    ]
+  },
+  "croissant": {
+    "label": "THE CROISSANT",
+    "kind": "object",
+    "motif": "croissant",
+    "reads": [
+      "croissant",
+      "pastry"
+    ]
+  },
+  "portrait": {
+    "label": "ELLIE'S PORTRAIT",
+    "kind": "object",
+    "w": 300,
+    "reads": [
+      "framed photo",
+      "portrait",
+      "picture frame",
+      "photo of a girl"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M80 60 H440 V460 H80 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M110 90 H410 V430 H110 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M196 236 a64 74 0 1 0 128 0 a64 74 0 1 0 -128 0 Z",
+        "fill": "#D8C2A8"
+      },
+      {
+        "d": "M190 240 Q186 150 260 150 Q334 150 330 240 L336 330 L300 330 L296 236 L224 236 L220 330 L184 330 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M150 430 L200 350 Q260 318 320 350 L370 430 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M80 60 H440 V84 H80 Z M80 436 H440 V460 H80 Z",
+        "fill": "#5A4D43"
+      },
+      {
+        "d": "M150 440 Q260 470 370 440",
+        "stroke": "ink",
+        "strokeWidth": 6,
+        "fill": "none"
+      }
+    ]
+  },
+  "key": {
+    "label": "THE KEY",
+    "kind": "object",
+    "w": 280,
+    "reads": [
+      "key",
+      "door key",
+      "old key"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M60 180 a90 90 0 1 0 180 0 a90 90 0 1 0 -180 0 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M110 180 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M220 160 H470 V200 H220 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M400 200 H430 V260 H400 Z M450 200 H470 V240 H450 Z M350 200 H380 V250 H350 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M130 100 Q150 90 170 100",
+        "stroke": "accent",
+        "strokeWidth": 10,
+        "fill": "none"
+      },
+      {
+        "d": "M236 170 H300 V190 H236 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "basement-door": {
+    "label": "THE BASEMENT DOOR",
+    "kind": "object",
+    "w": 300,
+    "reads": [
+      "locked door",
+      "door",
+      "door with a padlock"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M110 40 H410 V500 H110 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M130 60 H390 V480 H130 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M160 90 H360 V240 H160 Z M160 280 H360 V450 H160 Z",
+        "fill": "#6B5E53"
+      },
+      {
+        "d": "M330 258 a14 14 0 1 0 28 0 a14 14 0 1 0 -28 0 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M196 330 H324 V372 H196 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M236 300 a24 24 0 0 1 48 0 V336 H272 V300 a12 12 0 0 0 -24 0 V336 H236 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M228 336 H292 V392 H228 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M110 40 H410 V60 H110 Z",
+        "fill": "ink"
+      }
+    ],
+    "states": {
+      "open": {
+        "reads": [
+          "open door",
+          "door ajar",
+          "doorway"
+        ],
+        "paths": [
+          {
+            "d": "M110 40 H410 V500 H110 Z",
+            "fill": "ink"
+          },
+          {
+            "d": "M130 60 H390 V480 H130 Z",
+            "fill": "ink"
+          },
+          {
+            "d": "M130 60 L300 100 V440 L130 480 Z",
+            "fill": "#7D6E62"
+          },
+          {
+            "d": "M150 110 L280 140 V250 L150 230 Z M150 270 L280 290 V410 L150 440 Z",
+            "fill": "#6B5E53"
+          },
+          {
+            "d": "M268 262 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0 Z",
+            "fill": "ink"
+          },
+          {
+            "d": "M300 440 L130 480 L130 500 L300 470 Z",
+            "fill": "ink"
+          },
+          {
+            "d": "M110 40 H410 V60 H110 Z",
+            "fill": "ink"
+          },
+          {
+            "d": "M320 150 L380 150 L380 440 L320 440 Z",
+            "fill": "ink"
+          }
+        ]
+      }
+    }
+  },
+  "birthday-cake": {
+    "label": "BIRTHDAY CAKE",
+    "kind": "object",
+    "w": 300,
+    "reads": [
+      "birthday cake",
+      "cake with candles",
+      "cake"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M70 300 H450 V440 Q260 470 70 440 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M70 300 Q260 340 450 300 Q260 260 70 300 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M90 360 Q130 390 170 360 Q210 390 250 360 Q290 390 330 360 Q370 390 410 360 Q440 380 450 360 V440 Q260 470 70 440 V360 Z",
+        "fill": "#A8705A"
+      },
+      {
+        "d": "M150 190 H170 V300 H150 Z M250 170 H270 V300 H250 Z M350 190 H370 V300 H350 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M160 150 Q148 176 160 190 Q172 176 160 150 Z M260 130 Q248 156 260 170 Q272 156 260 130 Z M360 150 Q348 176 360 190 Q372 176 360 150 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M40 440 H480 V462 H40 Z",
+        "fill": "ink"
+      }
+    ]
+  },
+  "bed": {
+    "label": "THE MADE BED",
+    "kind": "object",
+    "w": 360,
+    "reads": [
+      "bed",
+      "single bed",
+      "made bed"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M60 160 H120 V420 H60 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M400 220 H460 V420 H400 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M90 300 H440 V380 H90 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M90 280 Q260 240 440 280 V310 H90 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M110 320 H420 V360 H110 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M120 256 Q180 230 240 256 V290 H120 Z",
+        "fill": "paper",
+        "stroke": "ink",
+        "strokeWidth": 5
+      },
+      {
+        "d": "M80 420 H110 V460 H80 Z M410 420 H440 V460 H410 Z",
+        "fill": "ink"
+      }
+    ]
+  },
+  "kitchen": {
+    "label": "THE MACK KITCHEN",
+    "kind": "place",
+    "home": true,
+    "glyph": "building",
+    "reads": [
+      "kitchen",
+      "stove",
+      "kitchen stove",
+      "cooker"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 120 H480 V460 H40 Z",
+        "fill": "#D6CFC3"
+      },
+      {
+        "d": "M60 140 H170 V440 H60 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M70 150 H160 V260 H70 Z M70 280 H160 V430 H70 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M145 200 H155 V240 H145 Z M145 300 H155 V340 H145 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M200 300 H460 V440 H200 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M200 290 H460 V306 H200 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M220 320 H440 V420 H220 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M226 270 a18 18 0 1 0 36 0 a18 18 0 1 0 -36 0 Z M300 270 a18 18 0 1 0 36 0 a18 18 0 1 0 -36 0 Z M380 270 a18 18 0 1 0 36 0 a18 18 0 1 0 -36 0 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M240 210 H330 V262 H240 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M232 206 H338 V214 H232 Z M250 196 H320",
+        "stroke": "ink",
+        "strokeWidth": 6,
+        "fill": "none"
+      },
+      {
+        "d": "M200 140 H460 V190 H200 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M210 150 L330 190 H200 Z M450 150 L330 190 H460 Z",
+        "fill": "#A89C8C"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "kitchen",
+        "family kitchen",
+        "kitchen with a window"
+      ],
+      "sky": "#E8E1D6",
+      "ground": "#8C7F70",
+      "paths": [
+        {
+          "d": "M0 200 H1920 V620 H0 Z",
+          "fill": "#D6CFC3"
+        },
+        {
+          "d": "M0 196 H1920 V208 H0 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1380 240 H1760 V470 H1380 Z",
+          "fill": "paper",
+          "stroke": "#7D6E62",
+          "strokeWidth": 10
+        },
+        {
+          "d": "M1570 240 V470 M1380 356 H1760",
+          "stroke": "#7D6E62",
+          "strokeWidth": 8,
+          "fill": "none"
+        },
+        {
+          "d": "M1420 280 Q1500 320 1560 290 Q1620 330 1720 300",
+          "stroke": "#BFB4A6",
+          "strokeWidth": 10,
+          "fill": "none"
+        },
+        {
+          "d": "M40 250 H300 V620 H40 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M60 270 H280 V400 H60 Z M60 420 H280 V600 H60 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M250 330 H270 V360 H250 Z M250 500 H270 V530 H250 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M320 450 H640 V620 H320 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M320 440 H650 V456 H320 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M340 470 H480 V600 H340 Z M500 470 H620 V600 H500 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M400 530 H430 V540 H400 Z M550 530 H580 V540 H550 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M340 240 H640 V330 H340 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M360 258 H480 V312 H360 Z M500 258 H620 V312 H500 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1300 450 H1800 V620 H1300 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1300 440 H1810 V456 H1300 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M1320 470 H1540 V600 H1320 Z M1560 470 H1780 V600 H1560 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1420 530 H1450 V540 H1420 Z M1660 530 H1690 V540 H1660 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1840 250 H1900 V620 H1840 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M820 236 H1120 V290 H820 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M840 250 H900 V276 H840 Z M920 250 H1010 V276 H920 Z M1030 250 H1100 V276 H1030 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M960 300 V340",
+          "stroke": "#7D6E62",
+          "strokeWidth": 6,
+          "fill": "none"
+        },
+        {
+          "d": "M920 340 H1000 L1010 380 H910 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M1400 400 H1460 V436 H1400 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M120 240 H220 V250 H120 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M0 600 H1920 V620 H0 Z",
+          "fill": "#7D6E62"
+        }
+      ],
+      "spots": [
+        {
+          "x": 760,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 1160,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 420,
+          "y": 720,
+          "s": 1.05
+        },
+        {
+          "x": 1500,
+          "y": 720,
+          "s": 1.05
+        }
+      ]
+    }
+  },
+  "cafe": {
+    "label": "THE CAFE",
+    "kind": "place",
+    "glyph": "building",
+    "reads": [
+      "cafe",
+      "coffee cup",
+      "coffee shop",
+      "coffee"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 120 H480 V460 H40 Z",
+        "fill": "#D6CFC3"
+      },
+      {
+        "d": "M40 120 H480 V180 H40 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M40 180 Q70 210 100 180 Q130 210 160 180 Q190 210 220 180 Q250 210 280 180 Q310 210 340 180 Q370 210 400 180 Q430 210 460 180 Q475 190 480 180 V120 H40 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M60 400 H460 V440 H60 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M150 260 H330 L310 400 H170 Z",
+        "fill": "paper",
+        "stroke": "ink",
+        "strokeWidth": 8
+      },
+      {
+        "d": "M330 290 Q400 290 400 335 Q400 380 330 380 L326 350 Q370 350 370 335 Q370 320 328 320 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M120 400 H360 V414 H120 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M200 200 Q180 230 200 250 M240 190 Q220 225 240 250 M280 200 Q260 230 280 250",
+        "stroke": "#7D6E62",
+        "strokeWidth": 8,
+        "fill": "none"
+      },
+      {
+        "d": "M170 300 H310 V320 H170 Z",
+        "fill": "accent"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "cafe",
+        "coffee shop",
+        "cafe interior"
+      ],
+      "sky": "#E8E1D6",
+      "ground": "#6B5F53",
+      "paths": [
+        {
+          "d": "M0 200 H1920 V620 H0 Z",
+          "fill": "#D6CFC3"
+        },
+        {
+          "d": "M1080 230 H1860 V560 H1080 Z",
+          "fill": "paper",
+          "stroke": "#7D6E62",
+          "strokeWidth": 12
+        },
+        {
+          "d": "M1340 230 V560 M1600 230 V560 M1080 400 H1860",
+          "stroke": "#7D6E62",
+          "strokeWidth": 10,
+          "fill": "none"
+        },
+        {
+          "d": "M1120 300 L1300 300 M1120 340 L1240 340",
+          "stroke": "#BFB4A6",
+          "strokeWidth": 14,
+          "fill": "none"
+        },
+        {
+          "d": "M1400 480 H1540 V560 H1400 Z M1640 480 H1800 V560 H1640 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M60 420 H720 V620 H60 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M50 406 H730 V424 H50 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M90 450 H330 V590 H90 Z M360 450 H690 V590 H360 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M60 240 H720 V300 H60 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M90 254 H160 V286 H90 Z M190 254 H260 V286 H190 Z M290 254 H360 V286 H290 Z M390 254 H460 V286 H390 Z M490 254 H560 V286 H490 Z M590 254 H690 V286 H590 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M80 330 H260 V390 H80 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M100 346 a16 16 0 1 0 32 0 a16 16 0 1 0 -32 0 Z M160 346 a16 16 0 1 0 32 0 a16 16 0 1 0 -32 0 Z M220 346 a16 16 0 1 0 32 0 a16 16 0 1 0 -32 0 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M320 320 H440 V400 H320 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M330 360 H430 V372 H330 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M520 196 V260 M840 196 V300 M1000 196 V300",
+          "stroke": "#7D6E62",
+          "strokeWidth": 6,
+          "fill": "none"
+        },
+        {
+          "d": "M480 260 L560 260 L540 300 L500 300 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M800 300 L880 300 L860 340 L820 340 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M960 300 L1040 300 L1020 340 L980 340 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M780 560 H1040 V580 H780 Z M900 580 H920 V620 H900 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M790 500 H830 V560 H790 Z M990 500 H1030 V560 H990 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M0 600 H1920 V620 H0 Z",
+          "fill": "#7D6E62"
+        }
+      ],
+      "spots": [
+        {
+          "x": 820,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 1060,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 500,
+          "y": 720,
+          "s": 1.05
+        },
+        {
+          "x": 1500,
+          "y": 720,
+          "s": 1.05
+        }
+      ]
+    }
+  },
+  "ellie-room": {
+    "label": "ELLIE'S BEDROOM",
+    "kind": "place",
+    "glyph": "building",
+    "reads": [
+      "bedroom",
+      "girl's bedroom",
+      "teenager's room"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 180 H480 V460 H40 Z",
+        "fill": "#D6CFC3"
+      },
+      {
+        "d": "M60 330 H300 V440 H60 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M60 310 Q180 290 300 310 V340 H60 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M60 350 H300 V380 H60 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M70 280 H120 V330 H70 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M80 200 H180 V260 H80 Z M200 200 H300 V260 H200 Z",
+        "fill": "#BFB4A6"
+      },
+      {
+        "d": "M340 200 H460 V320 H340 Z",
+        "fill": "paper",
+        "stroke": "#7D6E62",
+        "strokeWidth": 8
+      },
+      {
+        "d": "M340 360 H460 V376 H340 Z M350 376 H366 V460 H350 Z M434 376 H450 V460 H434 Z",
+        "fill": "#7D6E62"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "bedroom",
+        "girl's bedroom",
+        "room with a bed"
+      ],
+      "sky": "#EAE3DA",
+      "ground": "#8C7F70",
+      "paths": [
+        {
+          "d": "M0 200 H1920 V620 H0 Z",
+          "fill": "#D6CFC3"
+        },
+        {
+          "d": "M60 420 H760 V600 H60 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M60 400 Q410 370 760 400 V440 H60 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M60 470 H760 V530 H60 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M40 300 H100 V600 H40 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M110 340 H260 V400 H110 Z",
+          "fill": "paper",
+          "stroke": "#BFB4A6",
+          "strokeWidth": 6
+        },
+        {
+          "d": "M120 230 H360 V360 H120 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M140 250 H340 V340 H140 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M400 230 H560 V330 H400 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M420 250 H540 V310 H420 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M600 230 H760 V360 H600 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M620 250 H740 V340 H620 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1200 240 H1560 V450 H1200 Z",
+          "fill": "paper",
+          "stroke": "#7D6E62",
+          "strokeWidth": 10
+        },
+        {
+          "d": "M1380 240 V450 M1200 345 H1560",
+          "stroke": "#7D6E62",
+          "strokeWidth": 8,
+          "fill": "none"
+        },
+        {
+          "d": "M1160 230 H1200 V470 H1160 Z M1560 230 H1600 V470 H1560 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1640 460 H1880 V480 H1640 Z M1650 480 H1670 V600 H1650 Z M1850 480 H1870 V600 H1850 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1680 380 H1840 V460 H1680 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1700 400 H1760 V440 H1700 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1700 330 H1740 V380 H1700 Z M1760 320 H1800 V380 H1760 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M0 600 H1920 V620 H0 Z",
+          "fill": "#7D6E62"
+        }
+      ],
+      "spots": [
+        {
+          "x": 960,
+          "y": 700,
+          "s": 1
+        },
+        {
+          "x": 1260,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 660,
+          "y": 720,
+          "s": 1.05
+        }
+      ]
+    }
+  },
+  "library": {
+    "label": "THE LIBRARY",
+    "kind": "place",
+    "glyph": "book",
+    "reads": [
+      "library",
+      "bookshelves",
+      "books on shelves"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 180 H480 V460 H40 Z",
+        "fill": "#D6CFC3"
+      },
+      {
+        "d": "M60 200 H220 V460 H60 Z M300 200 H460 V460 H300 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M70 210 H210 V260 H70 Z M70 280 H210 V330 H70 Z M70 350 H210 V400 H70 Z M310 210 H450 V260 H310 Z M310 280 H450 V330 H310 Z M310 350 H450 V400 H310 Z",
+        "fill": "#BFB4A6"
+      },
+      {
+        "d": "M80 215 H96 V258 H80 Z M110 215 H120 V258 H110 Z M150 215 H170 V258 H150 Z M330 285 H350 V328 H330 Z M400 285 H412 V328 H400 Z M100 355 H118 V398 H100 Z M360 355 H380 V398 H360 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M230 380 H290 V396 H230 Z M254 396 H266 V460 H254 Z",
+        "fill": "#7D6E62"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "library",
+        "bookshelves",
+        "reading room"
+      ],
+      "sky": "#E8E1D6",
+      "ground": "#7D6E62",
+      "paths": [
+        {
+          "d": "M0 200 H1920 V620 H0 Z",
+          "fill": "#D6CFC3"
+        },
+        {
+          "d": "M40 220 H560 V600 H40 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M60 236 H540 V320 H60 Z M60 340 H540 V424 H60 Z M60 444 H540 V528 H60 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M80 246 H110 V316 H80 Z M120 250 H140 V316 H120 Z M160 246 H200 V316 H160 Z M220 256 H246 V316 H220 Z M270 246 H300 V316 H270 Z M330 250 H350 V316 H330 Z M380 246 H420 V316 H380 Z M450 256 H476 V316 H450 Z M500 246 H530 V316 H500 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M80 350 H110 V420 H80 Z M130 354 H170 V420 H130 Z M190 350 H210 V420 H190 Z M240 360 H280 V420 H240 Z M300 350 H330 V420 H300 Z M350 354 H390 V420 H350 Z M420 350 H440 V420 H420 Z M470 360 H510 V420 H470 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M80 454 H120 V524 H80 Z M140 458 H160 V524 H140 Z M180 454 H220 V524 H180 Z M250 464 H290 V524 H250 Z M320 454 H350 V524 H320 Z M370 458 H410 V524 H370 Z M440 454 H460 V524 H440 Z M490 464 H530 V524 H490 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1360 220 H1880 V600 H1360 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1380 236 H1860 V320 H1380 Z M1380 340 H1860 V424 H1380 Z M1380 444 H1860 V528 H1380 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1400 246 H1430 V316 H1400 Z M1450 250 H1480 V316 H1450 Z M1500 246 H1520 V316 H1500 Z M1550 256 H1590 V316 H1550 Z M1610 246 H1640 V316 H1610 Z M1660 250 H1700 V316 H1660 Z M1720 246 H1740 V316 H1720 Z M1770 256 H1810 V316 H1770 Z M1830 246 H1850 V316 H1830 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1400 350 H1440 V420 H1400 Z M1460 354 H1480 V420 H1460 Z M1500 350 H1540 V420 H1500 Z M1570 360 H1610 V420 H1570 Z M1640 350 H1670 V420 H1640 Z M1690 354 H1730 V420 H1690 Z M1760 350 H1780 V420 H1760 Z M1810 360 H1850 V420 H1810 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1400 454 H1430 V524 H1400 Z M1450 458 H1490 V524 H1450 Z M1510 454 H1530 V524 H1510 Z M1560 464 H1600 V524 H1560 Z M1630 454 H1660 V524 H1630 Z M1680 458 H1720 V524 H1680 Z M1750 454 H1770 V524 H1750 Z M1800 464 H1840 V524 H1800 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M160 246 H200 V316 H160 Z M300 350 H330 V420 H300 Z M1610 246 H1640 V316 H1610 Z M1760 350 H1780 V420 H1760 Z M250 464 H290 V524 H250 Z M1680 458 H1720 V524 H1680 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M700 240 H1220 V420 H700 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M720 256 H1200 V300 H720 Z M720 320 H1200 V364 H720 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M740 262 H760 V296 H740 Z M780 262 H810 V296 H780 Z M860 262 H880 V296 H860 Z M940 262 H970 V296 H940 Z M1040 262 H1060 V296 H1040 Z M1120 262 H1150 V296 H1120 Z M760 326 H790 V360 H760 Z M850 326 H870 V360 H850 Z M990 326 H1020 V360 H990 Z M1100 326 H1120 V360 H1100 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M620 560 H1300 V580 H620 Z M660 580 H690 V620 H660 Z M1230 580 H1260 V620 H1230 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M0 600 H1920 V620 H0 Z",
+          "fill": "#7D6E62"
+        }
+      ],
+      "spots": [
+        {
+          "x": 960,
+          "y": 700,
+          "s": 1
+        },
+        {
+          "x": 700,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 1220,
+          "y": 690,
+          "s": 0.95
+        }
+      ]
+    }
+  },
+  "woodland": {
+    "label": "THE WOODS",
+    "kind": "place",
+    "glyph": "leaf",
+    "reads": [
+      "trees",
+      "forest",
+      "woods",
+      "pine trees"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 440 H480 V470 H40 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M60 440 Q140 420 220 440 Q300 460 380 440 Q440 430 480 440 V470 H40 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M130 100 L210 240 H50 Z",
+        "fill": "#8E8470"
+      },
+      {
+        "d": "M130 170 L230 330 H30 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M120 330 H140 V440 H120 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M270 160 a90 80 0 1 0 180 0 a90 80 0 1 0 -180 0 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M250 240 a80 70 0 1 0 160 0 a80 70 0 1 0 -160 0 Z",
+        "fill": "#8E8470"
+      },
+      {
+        "d": "M350 240 L370 440 H330 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M420 220 L480 340 H360 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M412 340 H428 V440 H412 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M300 200 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0 Z M380 170 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0 Z",
+        "fill": "accent"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "forest",
+        "woods",
+        "edge of a wood"
+      ],
+      "sky": "#E3DED4",
+      "ground": "#5E5348",
+      "paths": [
+        {
+          "d": "M0 420 Q480 380 960 420 Q1440 460 1920 420 V620 H0 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M0 300 Q200 240 420 300 Q640 240 860 300 V460 H0 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M1060 300 Q1280 240 1500 300 Q1720 240 1920 300 V460 H1060 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M60 220 Q120 200 180 220 Q220 320 200 460 H40 Q20 320 60 220 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M100 320 L130 620 H70 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M260 200 Q340 196 400 230 Q440 360 410 500 H250 Q220 360 260 200 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M320 360 L352 620 H288 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M500 240 Q560 220 620 240 Q650 340 630 480 H490 Q470 340 500 240 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M550 400 L578 620 H522 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1300 240 Q1360 220 1420 240 Q1450 340 1430 480 H1290 Q1270 340 1300 240 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1350 400 L1378 620 H1322 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1520 200 Q1600 196 1660 230 Q1700 360 1670 500 H1510 Q1480 360 1520 200 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1580 360 L1612 620 H1548 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1760 220 Q1820 200 1880 220 Q1920 320 1900 460 H1740 Q1720 320 1760 220 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1810 320 L1840 620 H1780 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M0 560 Q300 540 600 560 Q900 580 1200 560 Q1500 540 1920 560 V620 H0 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M700 520 Q740 500 780 520 M1120 530 Q1160 510 1200 530",
+          "stroke": "#7D6E62",
+          "strokeWidth": 10,
+          "fill": "none"
+        },
+        {
+          "d": "M860 580 L900 600 L860 620 Z M1040 590 L1080 600 L1040 620 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M0 600 H1920 V620 H0 Z",
+          "fill": "ink"
+        }
+      ],
+      "spots": [
+        {
+          "x": 860,
+          "y": 700,
+          "s": 1
+        },
+        {
+          "x": 1080,
+          "y": 700,
+          "s": 1
+        },
+        {
+          "x": 1480,
+          "y": 650,
+          "s": 0.7
+        }
+      ]
+    }
+  },
+  "street": {
+    "label": "A LONDON STREET",
+    "kind": "place",
+    "glyph": "building",
+    "reads": [
+      "street",
+      "road",
+      "city street"
+    ],
+    "viewBox": "0 0 520 520",
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "street",
+        "terraced houses",
+        "row of houses"
+      ],
+      "sky": "paper",
+      "ground": "#5E5348",
+      "spots": [
+        {
+          "x": 820,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 1120,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 400,
+          "y": 720,
+          "s": 1.05
+        }
+      ],
+      "pathsFallback": [
+        {
+          "d": "M0 300 H1920 V420 H0 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M0 420 H1920 V760 H0 Z",
+          "fill": "#8A7A66"
+        },
+        {
+          "d": "M120 560 H200 V700 H120 Z M320 560 H400 V700 H320 Z M520 560 H600 V700 H520 Z M720 560 H800 V700 H720 Z M920 560 H1000 V700 H920 Z M1120 560 H1200 V700 H1120 Z M1320 560 H1400 V700 H1320 Z M1520 560 H1600 V700 H1520 Z M1720 560 H1800 V700 H1720 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M1880 220 H1892 V420 H1880 Z",
+          "fill": "ink"
+        },
+        {
+          "d": "M1850 210 H1922 V234 H1850 Z",
+          "fill": "accent"
+        }
+      ],
+      "fallback": {
+        "at": "2026-11-23T06:21:29.560Z",
+        "read": "long building",
+        "wanted": [
+          "street",
+          "terraced houses",
+          "row of houses"
+        ],
+        "rounds": 2
+      }
+    },
+    "pathsFallback": [
+      {
+        "d": "M0 250 H520 V300 H0 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M0 300 H520 L520 520 H0 Z",
+        "fill": "#5E5348"
+      },
+      {
+        "d": "M40 330 H70 V500 H40 Z M100 330 H130 V500 H100 Z M160 330 H190 V500 H160 Z M220 330 H250 V500 H220 Z M280 330 H310 V500 H280 Z M340 330 H370 V500 H340 Z M400 330 H430 V500 H400 Z M460 330 H490 V500 H460 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M430 60 H442 V260 H430 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M404 50 H468 V74 H404 Z",
+        "fill": "accent"
+      }
+    ],
+    "fallback": {
+      "at": "2026-11-23T06:21:29.560Z",
+      "read": "shipping container",
+      "wanted": [
+        "street",
+        "road",
+        "city street"
+      ],
+      "rounds": 2
+    }
+  },
+  "basement": {
+    "label": "THE BASEMENT",
+    "kind": "place",
+    "glyph": "building",
+    "reads": [
+      "basement",
+      "cellar",
+      "cellar stairs"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 200 H480 V460 H40 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M40 200 H480 V230 H40 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M300 460 L300 420 H340 V380 H380 V340 H420 V300 H460 V460 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M80 240 H150 V290 H80 Z",
+        "fill": "paper",
+        "stroke": "#7D6E62",
+        "strokeWidth": 6
+      },
+      {
+        "d": "M200 230 V280",
+        "stroke": "ink",
+        "strokeWidth": 4,
+        "fill": "none"
+      },
+      {
+        "d": "M186 280 a14 18 0 1 0 28 0 a14 18 0 1 0 -28 0 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M60 420 H140 V460 H60 Z M160 400 H220 V460 H160 Z",
+        "fill": "#7D6E62"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "basement",
+        "cellar",
+        "cellar with stairs"
+      ],
+      "sky": "#D4CEC6",
+      "ground": "#4A413A",
+      "paths": [
+        {
+          "d": "M0 200 H1920 V620 H0 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M0 196 H1920 V236 H0 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M300 196 H340 V236 H300 Z M820 196 H860 V236 H820 Z M1340 196 H1380 V236 H1340 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M60 240 H1860 V260 H60 Z M60 320 H1860 V340 H60 Z M60 400 H1860 V420 H60 Z M60 480 H1860 V500 H60 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1920 600 L1480 600 L1480 540 L1560 540 L1560 480 L1640 480 L1640 420 L1720 420 L1720 360 L1800 360 L1800 300 L1880 300 L1880 240 L1920 240 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1480 540 H1560 M1560 480 H1640 M1640 420 H1720 M1720 360 H1800 M1800 300 H1880",
+          "stroke": "#7D6E62",
+          "strokeWidth": 8,
+          "fill": "none"
+        },
+        {
+          "d": "M1440 300 L1440 600",
+          "stroke": "#7D6E62",
+          "strokeWidth": 14,
+          "fill": "none"
+        },
+        {
+          "d": "M120 250 H300 V330 H120 Z",
+          "fill": "paper",
+          "stroke": "ink",
+          "strokeWidth": 10
+        },
+        {
+          "d": "M210 250 V330",
+          "stroke": "ink",
+          "strokeWidth": 8,
+          "fill": "none"
+        },
+        {
+          "d": "M960 236 V300",
+          "stroke": "ink",
+          "strokeWidth": 5,
+          "fill": "none"
+        },
+        {
+          "d": "M936 320 a24 30 0 1 0 48 0 a24 30 0 1 0 -48 0 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M80 520 H300 V600 H80 Z M320 480 H520 V600 H320 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M100 540 H280 V560 H100 Z M340 500 H500 V520 H340 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M580 560 H720 V600 H580 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1200 520 H1380 V600 H1200 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M0 600 H1920 V620 H0 Z",
+          "fill": "ink"
+        }
+      ],
+      "spots": [
+        {
+          "x": 900,
+          "y": 700,
+          "s": 1
+        },
+        {
+          "x": 1180,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 640,
+          "y": 720,
+          "s": 1.05
+        }
+      ]
+    }
+  },
+  "floyd-table": {
+    "label": "FLOYD'S DINING ROOM",
+    "kind": "place",
+    "glyph": "building",
+    "reads": [
+      "dining table",
+      "table and chairs",
+      "dining room",
+      "table"
+    ],
+    "viewBox": "0 0 520 520",
+    "paths": [
+      {
+        "d": "M40 140 H480 V460 H40 Z",
+        "fill": "#D6CFC3"
+      },
+      {
+        "d": "M60 300 H460 V326 H60 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M80 326 H104 V450 H80 Z M416 326 H440 V450 H416 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M110 230 H170 V300 H110 Z M110 326 H170 V420 H110 Z M100 230 H112 V420 H100 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M350 230 H410 V300 H350 Z M350 326 H410 V420 H350 Z M408 230 H420 V420 H408 Z",
+        "fill": "#A89C8C"
+      },
+      {
+        "d": "M150 290 a30 10 0 1 0 60 0 a30 10 0 1 0 -60 0 Z M310 290 a30 10 0 1 0 60 0 a30 10 0 1 0 -60 0 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M236 280 H284 V300 H236 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M254 140 H266 V200 H254 Z",
+        "fill": "ink"
+      },
+      {
+        "d": "M210 200 H310 L330 240 H190 Z",
+        "fill": "accent"
+      }
+    ],
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "dining room",
+        "dining table",
+        "room with a long table"
+      ],
+      "sky": "#E8E1D6",
+      "ground": "#7D6E62",
+      "spots": [
+        {
+          "x": 700,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 1200,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 960,
+          "y": 650,
+          "s": 0.8
+        },
+        {
+          "x": 500,
+          "y": 720,
+          "s": 1.05
+        }
+      ],
+      "pathsFallback": [
+        {
+          "d": "M0 200 H1920 V560 H0 Z",
+          "fill": "#D6CFC3"
+        },
+        {
+          "d": "M0 560 H1920 V760 H0 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M380 330 H460 V440 H380 Z M700 330 H780 V440 H700 Z M1020 330 H1100 V440 H1020 Z M1340 330 H1420 V440 H1340 Z",
+          "fill": "#BFB4A6"
+        },
+        {
+          "d": "M260 430 H1660 L1820 560 H100 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M100 560 H1820 V590 H100 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M140 590 H180 V700 H140 Z M1740 590 H1780 V700 H1740 Z M600 590 H630 V690 H600 Z M1290 590 H1320 V690 H1290 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M420 490 a50 14 0 1 0 100 0 a50 14 0 1 0 -100 0 Z M820 490 a50 14 0 1 0 100 0 a50 14 0 1 0 -100 0 Z M1220 490 a50 14 0 1 0 100 0 a50 14 0 1 0 -100 0 Z M1560 520 a50 14 0 1 0 100 0 a50 14 0 1 0 -100 0 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M940 440 H980 V490 H940 Z",
+          "fill": "accent"
+        }
+      ],
+      "fallback": {
+        "at": "2026-11-25T14:55:16.844Z",
+        "read": "long table",
+        "wanted": [
+          "dining room",
+          "dining table",
+          "room with a long table"
+        ],
+        "rounds": 2
+      }
+    }
+  },
+  "hanna-flat": {
+    "label": "HANNA'S FLAT",
+    "kind": "place",
+    "glyph": "building",
+    "reads": [
+      "flat",
+      "hallway",
+      "front door"
+    ],
+    "viewBox": "0 0 520 520",
+    "backdrop": {
+      "viewBox": "0 0 1920 760",
+      "reads": [
+        "hallway",
+        "front door",
+        "flat"
+      ],
+      "sky": "paper",
+      "ground": "#7D6E62",
+      "paths": [
+        {
+          "d": "M0 200 L460 300 L460 640 L0 760 Z",
+          "fill": "#B9A58A"
+        },
+        {
+          "d": "M1920 200 L1460 300 L1460 640 L1920 760 Z",
+          "fill": "#B9A58A"
+        },
+        {
+          "d": "M0 640 H1920 V760 H0 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M800 240 H1120 V640 H800 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M840 280 H1080 V470 H840 Z",
+          "fill": "paper"
+        },
+        {
+          "d": "M840 500 H1080 V620 H840 Z",
+          "fill": "#7D6E62"
+        },
+        {
+          "d": "M1060 380 H1076 V420 H1060 Z",
+          "fill": "accent"
+        },
+        {
+          "d": "M900 620 H1020 V640 H900 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M200 440 H300 V640 H200 Z M120 500 H200 V520 H120 Z",
+          "fill": "#A89C8C"
+        },
+        {
+          "d": "M1640 300 H1700 V640 H1640 Z",
+          "fill": "#A89C8C"
+        }
+      ],
+      "spots": [
+        {
+          "x": 1300,
+          "y": 700,
+          "s": 1
+        },
+        {
+          "x": 1560,
+          "y": 690,
+          "s": 0.95
+        },
+        {
+          "x": 880,
+          "y": 720,
+          "s": 1.05
+        }
+      ]
+    },
+    "pathsFallback": [
+      {
+        "d": "M140 40 H380 V490 H140 Z",
+        "fill": "#5E5348"
+      },
+      {
+        "d": "M120 30 H400 V40 H120 Z M120 40 H140 V500 H120 Z M380 40 H400 V500 H380 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M170 80 H350 V220 H170 Z M170 250 H350 V460 H170 Z",
+        "fill": "#7D6E62"
+      },
+      {
+        "d": "M235 140 H285 V170 H235 Z",
+        "fill": "paper"
+      },
+      {
+        "d": "M210 300 H310 V318 H210 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M323 330 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0 Z",
+        "fill": "accent"
+      },
+      {
+        "d": "M100 490 H420 V515 H100 Z",
+        "fill": "#A89C8C"
+      }
+    ],
+    "fallback": {
+      "at": "2026-11-25T14:55:16.844Z",
+      "read": "door",
+      "wanted": [
+        "flat",
+        "hallway",
+        "front door"
+      ],
+      "rounds": 2
+    }
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "slug": "then-she-was-gone",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=then-she-was-gone --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "then-she-was-gone",
+    "world": {
+      "era": "2005–2015",
+      "eraEvidence": "Ellie vanishes in May 2005; the story returns ten years later, in 2015",
+      "worldId": "then-she-was-gone",
+      "approxYear": 2005,
+      "setting": "A small American suburban town; a family home, a cafe, a library, a woodland edge, a basement behind a locked door",
+      "register": "Restrained psychological thriller, told as a gallery of portraits; no graphic harm to any child",
+      "forbid": [
+        "rocketLaunch",
+        "funnelMetrics",
+        "codeWindow",
+        "laptopMockup",
+        "startupGarage",
+        "serverRoom",
+        "pitchStage",
+        "dollarExchange",
+        "shipOfState",
+        "kallipolis",
+        "mythOfEr",
+        "caveAllegory",
+        "tripartiteSoul",
+        "fiveRegimes",
+        "thirtyTyrants",
+        "ringOfGyges"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "then-she-was-gone",
+      "worldId": "then-she-was-gone",
+      "allowedMotifs": [
+        "key",
+        "door",
+        "photo",
+        "home",
+        "tree",
+        "rucksack",
+        "letter",
+        "croissant",
+        "phone",
+        "clock",
+        "grave",
+        "road"
+      ],
+      "forbiddenMotifs": [
+        "rocketLaunch",
+        "codeWindow",
+        "laptopMockup",
+        "funnelMetrics",
+        "startupGarage",
+        "serverRoom",
+        "pitchStage",
+        "dollarExchange"
+      ],
+      "allowedCharacters": [
+        "laurel",
+        "ellie",
+        "hanna",
+        "floyd",
+        "poppy",
+        "noel",
+        "theo",
+        "paul"
+      ],
+      "allowedLocations": [
+        "kitchen",
+        "cafe",
+        "bedroom",
+        "library",
+        "forest",
+        "street",
+        "room"
+      ],
+      "allowedProps": [
+        "rucksack",
+        "key",
+        "croissant",
+        "letter",
+        "photo"
+      ]
+    },
+    "cast": {
+      "laurel": {
+        "name": "Laurel",
+        "role": "Ellie's mother; she takes Floyd and Poppy as replacements for her daughter",
+        "look": "Laurel Mack, a woman in her late forties, slim, shoulder-length greying brown hair, a plain cardigan and jeans, American suburban, 2015",
+        "variant": {
+          "outfit": "casual",
+          "headwear": "none",
+          "hairStyle": "long",
+          "hair": "#7a6a5a",
+          "build": "average",
+          "height": 1,
+          "headScale": 1,
+          "gender": "f",
+          "age": "adult",
+          "suit": "#7D6E62"
+        }
+      },
+      "ellie": {
+        "name": "Ellie",
+        "role": "Laurel's daughter, fifteen in May 2005; she walks to the library and does not come back",
+        "look": "Ellie Mack, a fifteen-year-old girl, slim, long straight brown hair, school jumper and jeans, American teen, 2005",
+        "variant": {
+          "age": "young",
+          "outfit": "casual",
+          "headwear": "none",
+          "hairStyle": "long",
+          "hair": "#5a3d2b",
+          "build": "slight",
+          "height": 0.92,
+          "headScale": 1,
+          "gender": "f",
+          "suit": "#8B2E2E"
+        }
+      },
+      "hanna": {
+        "name": "Hanna",
+        "role": "Ellie's older sister, who stayed; she keeps the flat and the key",
+        "look": "Hanna Mack, a woman in her twenties, tall, dark hair in a low bun, a dark coat, American, 2015",
+        "variant": {
+          "outfit": "coat",
+          "headwear": "none",
+          "hairStyle": "bun",
+          "hair": "#3b2c24",
+          "build": "slight",
+          "height": 1.08,
+          "headScale": 1,
+          "gender": "f",
+          "age": "adult",
+          "suit": "#2A2320"
+        }
+      },
+      "floyd": {
+        "name": "Floyd",
+        "role": "The man Laurel meets in the cafe; the one the reader misjudges",
+        "look": "Floyd Dunn, a man in his late forties, broad, short greying hair, an open-neck shirt and a waxed jacket, American, 2015",
+        "variant": {
+          "outfit": "coat",
+          "headwear": "none",
+          "hairStyle": "short",
+          "hair": "#8a8a8a",
+          "build": "heavy",
+          "height": 1.06,
+          "headScale": 1,
+          "gender": "m",
+          "age": "adult",
+          "suit": "#4A4A3A"
+        }
+      },
+      "poppy": {
+        "name": "Poppy",
+        "role": "Floyd's daughter, nine years old, home-schooled; she lets Laurel pretend",
+        "look": "Poppy, a nine-year-old girl, small and slight, dark-blonde ponytail, a blue cardigan, American child, 2015",
+        "variant": {
+          "age": "child",
+          "outfit": "casual",
+          "headwear": "none",
+          "hairStyle": "ponytail",
+          "hair": "#c9a86a",
+          "build": "slight",
+          "height": 0.72,
+          "headScale": 1.1,
+          "gender": "f",
+          "suit": "#5E7FA3"
+        }
+      },
+      "noel": {
+        "name": "Noel",
+        "role": "Ellie's former tutor, Floyd's dismissed girlfriend; she is kept in the basement",
+        "look": "Noel Donnelly, a young woman in her twenties in 2005, slim, light hair tied back, a heavy khaki waterproof coat, American, 2005",
+        "variant": {
+          "outfit": "coat",
+          "headwear": "none",
+          "hairStyle": "long",
+          "hair": "#d8c58a",
+          "build": "slight",
+          "height": 1,
+          "headScale": 1,
+          "gender": "f",
+          "age": "young",
+          "suit": "#6B6B45"
+        }
+      },
+      "theo": {
+        "name": "Theo",
+        "role": "Ellie's boyfriend in 2005; ten years on he is with Hanna",
+        "look": "Theo Goodman, a tall lanky young man, short dark hair, a hoodie, American, 2005",
+        "variant": {
+          "outfit": "hoodie",
+          "headwear": "none",
+          "hairStyle": "short",
+          "hair": "#2a211c",
+          "build": "average",
+          "height": 1.05,
+          "headScale": 1,
+          "gender": "m",
+          "age": "young",
+          "suit": "#4A5560"
+        }
+      },
+      "paul": {
+        "name": "Paul",
+        "role": "Laurel's former husband and Hanna's father; the one who answered",
+        "look": "Paul Mack, a man in his fifties, balding, a heavy build, a polo shirt, American, 2015",
+        "variant": {
+          "outfit": "casual",
+          "headwear": "none",
+          "hairStyle": "receding",
+          "hair": "#9a9a9a",
+          "build": "heavy",
+          "height": 1.02,
+          "headScale": 1,
+          "gender": "m",
+          "age": "adult",
+          "suit": "#5B5048"
+        }
+      }
+    },
+    "places": {
+      "kitchen": {
+        "set": "kitchen",
+        "look": "The Mack family kitchen: a wooden table, a sink under the window, plain cupboards; the house where Laurel leaves cash on the table",
+        "home": true
+      },
+      "cafe": {
+        "set": "cafe",
+        "look": "A sunlit cafe with small round tables and a counter, where Laurel meets Floyd after the funeral"
+      },
+      "bedroom": {
+        "set": "bedroom",
+        "look": "Ellie's bedroom, kept untouched for ten years"
+      },
+      "library": {
+        "set": "library",
+        "look": "A small town library with shelves and reading tables; Ellie walks here in May"
+      },
+      "woodland": {
+        "set": "forest",
+        "look": "The woodland edge where a bag of bones is left"
+      },
+      "street": {
+        "set": "street",
+        "look": "A suburban street; Laurel runs into Noel here"
+      },
+      "basement": {
+        "set": "room",
+        "look": "Noel's basement behind a locked door"
+      },
+      "floydTable": {
+        "set": "room",
+        "look": "Floyd's dining table, where Poppy sits before Laurel"
+      },
+      "hannaFlat": {
+        "set": "room",
+        "look": "Hanna's small flat with its front door and the key"
+      }
+    },
+    "objects": [
+      {
+        "concept": "key",
+        "mentions": 0,
+        "why": "Laurel keeps the key to Hanna's flat"
+      },
+      {
+        "concept": "door",
+        "mentions": 0,
+        "why": "the basement door, locked"
+      },
+      {
+        "concept": "photo",
+        "mentions": 17,
+        "why": "the portraits and Ellie's photo"
+      },
+      {
+        "concept": "home",
+        "mentions": 33,
+        "why": "the Mack house kitchen, the home place"
+      },
+      {
+        "concept": "tree",
+        "mentions": 6,
+        "why": "the woodland edge"
+      },
+      {
+        "concept": "rucksack",
+        "mentions": 0,
+        "why": "Ellie's rucksack on the walk to the library; NOT in the library yet, Phase 4 will draw it"
+      },
+      {
+        "concept": "letter",
+        "mentions": 0,
+        "why": "Floyd's letter; NOT in the library yet, Phase 4 will draw it"
+      },
+      {
+        "concept": "croissant",
+        "mentions": 0,
+        "why": "the croissant in the cafe; NOT in the library yet, Phase 4 will draw it"
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 2,
+        "claim": "Ellie walks to the library in May 2005 and never comes back, and nobody searches for her; each person holds a replacement for her."
+      },
+      {
+        "act": "development",
+        "fromFrame": 14040,
+        "claim": "Laurel takes Floyd and Poppy as replacements, Hanna keeps the flat and the key, and Theo moves on to her."
+      },
+      {
+        "act": "turn",
+        "fromFrame": 31886,
+        "claim": "Laurel learns that the girl at Floyd's table is Ellie's child, and the copy stops being a comfort."
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 46930,
+        "claim": "Floyd's past comes out: Noel's basement, the locked door, the child, and the letter that shows why he chose Laurel."
+      },
+      {
+        "act": "close",
+        "fromFrame": 64193,
+        "claim": "Laurel could not touch Ellie's room for ten years; she ends by making a bed for Ellie's daughter, one image of healing or the last substitution."
+      }
+    ],
+    "signatureObjects": [
+      {
+        "key": "rucksack",
+        "name": "Ellie's rucksack",
+        "why": "the bag she carries on the walk to the library in May 2005; the story starts with it"
+      },
+      {
+        "key": "letter",
+        "name": "Floyd's letter",
+        "why": "the letter that explains why he chose Laurel and what he did to Noel"
+      },
+      {
+        "key": "croissant",
+        "name": "The croissant",
+        "why": "the cafe croissant where Laurel meets Floyd"
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 454,
+    "cast": [
+      {
+        "name": "Laurel",
+        "asSubject": 17,
+        "total": 73,
+        "samples": [
+          "You look at the setup and Laurel takes Poppy, Noel takes a baby, Theo takes Hannah, and Floyd takes Laurel.",
+          "The reader is fooled in the exact same way Laurel is.",
+          "Laurel is standing right there at the kitchen sink."
+        ]
+      },
+      {
+        "name": "Floyd",
+        "asSubject": 7,
+        "total": 25,
+        "samples": [
+          "You look at the setup and Laurel takes Poppy, Noel takes a baby, Theo takes Hannah, and Floyd takes Laurel.",
+          "Assuming her relationship with Floyd is the rising tide lifting all the boats in her family, Hannah bypasses Laurel completely.",
+          "She occupies every single inch of the emotional space Floyd has to give, leaving absolutely nothing for the older, messier daughter to hold on to."
+        ]
+      },
+      {
+        "name": "Ellie",
+        "asSubject": 5,
+        "total": 29,
+        "samples": [
+          "Ellie is walking alone.",
+          "Ellie is excitedly talking about their summer plans, animatedly saying she wants to go paragliding.",
+          "Ellie looks down at him in her lap and sees him as a prize."
+        ]
+      },
+      {
+        "name": "Theo",
+        "asSubject": 5,
+        "total": 21,
+        "samples": [
+          "You look at the setup and Laurel takes Poppy, Noel takes a baby, Theo takes Hannah, and Floyd takes Laurel.",
+          "Theo is operating on a massive unexamined trauma response, subconsciously shifting the future he was promised with one sister to the nearest genetic and environ",
+          "Theo looks up at her, and laughs."
+        ]
+      },
+      {
+        "name": "Noel",
+        "asSubject": 4,
+        "total": 23,
+        "samples": [
+          "You look at the setup and Laurel takes Poppy, Noel takes a baby, Theo takes Hannah, and Floyd takes Laurel.",
+          "Except Noel is wearing a heavy khaki waterproof coat.",
+          "She spits out that Noel was ugly, neglectful, and smelled strongly of cheap chips."
+        ]
+      },
+      {
+        "name": "Poppy",
+        "asSubject": 3,
+        "total": 22,
+        "samples": [
+          "Poppy is standing at the counter, her back turned.",
+          "Poppy is exactly like a bonsai tree.",
+          "He realizes with absolute certainty that Poppy is Ellie's child."
+        ]
+      },
+      {
+        "name": "Hannah",
+        "asSubject": 2,
+        "total": 18,
+        "samples": [
+          "She completely misses the fact that Hannah is deliberately withholding her joy as a defense mechanism against Laurel's grief.",
+          "Hannah is forced to sit at the head of the table, enduring the bizarre, surreal spectacle of her mother's sudden, giddy new romance."
+        ]
+      },
+      {
+        "name": "Paul",
+        "asSubject": 2,
+        "total": 17,
+        "samples": [
+          "Paul is sick with a heavy summer cold.",
+          "They shake hands enthusiastically and then Paul looks down and laughingly points at their ankles."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "kitchen",
+        "mentions": 14,
+        "samples": [
+          "Laurel is standing right there at the kitchen sink.",
+          "Like a museum curator tending to an exhibit, she sweeps away the traces of Hannah's actual life, leaves 30 pounds in cash on the kitchen table, and le"
+        ]
+      },
+      {
+        "set": "cafe",
+        "mentions": 12,
+        "samples": [
+          "That impenetrable barricade finally cracks in a sunlit cafe shortly after Ellie's funeral.",
+          "Floyd Dunn walks into the cafe."
+        ]
+      },
+      {
+        "set": "cave",
+        "mentions": 4,
+        "samples": [
+          "How do you establish your own identity when your siblings disappearance sucks all the oxygen out of every room you walk You have to build a life in se",
+          "I see the darkness in people immediately, and I refuse to swallow it just to be polite."
+        ]
+      },
+      {
+        "set": "library",
+        "mentions": 3,
+        "samples": [
+          "Your 15-year-old walks to the library in May and never comes back.",
+          "She wants to go to the library."
+        ]
+      },
+      {
+        "set": "bedroom",
+        "mentions": 2,
+        "samples": [
+          "Theo and Ellie are lounging in her bedroom.",
+          "For 10 long years, Laurel could not even touch Ellie's empty bedroom, preserving it as a pristine shrine to a ghost."
+        ]
+      },
+      {
+        "set": "forest",
+        "mentions": 2,
+        "samples": [
+          "Planting the bag in the woods to force the closure Laurel needed to be receptive to him.",
+          "He stages the bag of bones in the woods."
+        ]
+      },
+      {
+        "set": "street",
+        "mentions": 1,
+        "samples": [
+          "Suddenly, she runs into her former tutor, Noel Just a random, seemingly innocent encounter on the street."
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "family",
+        "mentions": 70,
+        "sample": "Imagine the crushing weight of being the family's golden girl."
+      },
+      {
+        "concept": "home",
+        "mentions": 33,
+        "sample": "Ellie flounces into the hallway of their home."
+      },
+      {
+        "concept": "heart",
+        "mentions": 21,
+        "sample": "I have to get an A in maths because I need to match Theo to keep this perfect love story alive.\" That is such a suffocating amount of pressu"
+      },
+      {
+        "concept": "photo",
+        "mentions": 17,
+        "sample": "Portrait one, Ellie, May 2005."
+      },
+      {
+        "concept": "coffee",
+        "mentions": 11,
+        "sample": "That impenetrable barricade finally cracks in a sunlit cafe shortly after Ellie's funeral."
+      },
+      {
+        "concept": "road",
+        "mentions": 10,
+        "sample": "If she were to speak her core driving motivation aloud to you, she would say, \"I have to be perfect."
+      },
+      {
+        "concept": "mask",
+        "mentions": 9,
+        "sample": "Ellie's desperate, clawing need to maintain that flawless facade creates a catastrophic ripple effect."
+      },
+      {
+        "concept": "food",
+        "mentions": 9,
+        "sample": "Smiling at a stranger, eating a delicious meal, laughing out loud."
+      },
+      {
+        "concept": "school",
+        "mentions": 8,
+        "sample": "She is actively performing a flawless existence for an And Theo isn't just some high school Not at all."
+      },
+      {
+        "concept": "storm",
+        "mentions": 8,
+        "sample": "It is a bleak winter day."
+      },
+      {
+        "concept": "gift",
+        "mentions": 6,
+        "sample": "Picture the scene in present tense."
+      },
+      {
+        "concept": "tree",
+        "mentions": 6,
+        "sample": "She turns that final corner, stepping inside the small, scruffy house with the flowering cherry tree in the front garden just to get the int"
+      }
+    ],
+    "openingLines": [
+      "Your 15-year-old walks to the library in May and never comes back.",
+      "When are you allowed to stop looking?",
+      "That is the terrifying question at the center of our deep dive into the source material today.",
+      "In Lisa Jules Then She Was Gone, the darkest truth is that nobody actually searches for Ellie Mack.",
+      "Instead, uh each person holds tightly to a replacement for her and those replacements hide a horrific crime for 10 years.",
+      "You look at the setup and Laurel takes Poppy, Noel takes a baby, Theo takes Hannah, and Floyd takes Laurel."
+    ],
+    "closingLines": [
+      "Poppy sits comfortably on her lap, casually calling her mama.",
+      "For 10 long years, Laurel could not even touch Ellie's empty bedroom, preserving it as a pristine shrine to a ghost.",
+      "Laurel is back in her home, walking into that frozen room, pulling back the sheets, and making a bed for Ellie's daughter.",
+      "healing or the last substitution."
+    ]
+  }
+}

@@ -1,0 +1,1414 @@
+[
+  {
+    "i": 159,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Theo as Ellie's mirror",
+      "layout": "borderless",
+      "nodeShape": "tornPaper",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Theo's devotion",
+          "sublabel": "the boy in her lap",
+          "tone": "accent"
+        },
+        {
+          "label": "The world watching",
+          "sublabel": "everyone sees him adore her",
+          "tone": "neutral"
+        },
+        {
+          "label": "Ellie looks perfect",
+          "sublabel": "proof of her own worth",
+          "tone": "positive"
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Theo's devotion to Ellie",
+      "action": "devotion passes through the watching world",
+      "payoff": "Ellie's perfection is confirmed by him"
+    },
+    "explainedBy": "Theo's devotion is the mirror that proves Ellie's perfection to others",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo's devotion validates Ellie's perfection to the world",
+      "concreteVisual": "Three torn-paper notes joined by arrows: devotion, the watching world, Ellie looks perfect",
+      "onScreenText": "Theo's devotion -> The world watching -> Ellie looks perfect",
+      "relationToPrevious": "Closes Ellie's view of Theo as a prize",
+      "addedInformation": "How the mirror works: his devotion is shown to others and returns as her worth"
+    }
+  },
+  {
+    "i": 160,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "laurel"
+        ],
+        "at": "cafe"
+      },
+      "events": [
+        {
+          "on": "crossroads",
+          "do": "title",
+          "text": "Stopped at a crossroads"
+        }
+      ]
+    },
+    "explainedBy": "Laurel drives past the corner cafe and stops at a crossroads",
+    "noVisual": null
+  },
+  {
+    "i": 161,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "A Sunday morning drive",
+      "subtitle": "Laurel at the wheel",
+      "stations": [
+        {
+          "label": "Corner cafe",
+          "detail": "Laurel drives past",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "label": "The crossroads",
+          "detail": "Red light, she waits",
+          "tone": "neutral",
+          "at": 60
+        },
+        {
+          "label": "Tesco branch",
+          "detail": "A man stands outside",
+          "tone": "accent",
+          "at": 200
+        },
+        {
+          "label": "Little black dog",
+          "detail": "Waiting on a lead",
+          "tone": "accent",
+          "at": 300
+        },
+        {
+          "label": "A distinctive coat",
+          "detail": "Huge, with a fur hood",
+          "tone": "danger",
+          "at": 420
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "Laurel's Sunday drive",
+      "action": "the route stops at the crossroads and her glance lands on the Tesco branch",
+      "payoff": "a man with a black dog is spotted"
+    },
+    "explainedBy": "Laurel's drive halts at a red light, where she spots a man with a dog outside a Tesco",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At a red light Laurel spots a man with a black dog outside a Tesco",
+      "concreteVisual": "A route from the corner cafe to the crossroads to the Tesco branch, ending on the man, dog and coat",
+      "onScreenText": "Corner cafe · The crossroads · Tesco branch · Little black dog · A distinctive coat",
+      "relationToPrevious": "Moves from Ellie's past to Laurel's present-day Sunday",
+      "addedInformation": "Where she is and what she sees, in order, before she recognizes him"
+    }
+  },
+  {
+    "i": 162,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "laurel",
+          "theo"
+        ]
+      },
+      "events": [
+        {
+          "on": "Theo",
+          "do": "title",
+          "text": "It's Theo Goodman"
+        }
+      ]
+    },
+    "explainedBy": "Laurel recognises the man as Theo Goodman",
+    "noVisual": null
+  },
+  {
+    "i": 163,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "THE PIECES SNAP TOGETHER",
+      "columns": [
+        {
+          "heading": "The man in the parka",
+          "tag": "CLUE",
+          "bullets": [
+            "Rangy frame"
+          ],
+          "highlight": "Theo",
+          "tone": "neutral"
+        },
+        {
+          "heading": "'T' on the card",
+          "tag": "CLUE",
+          "bullets": [
+            "Florist card"
+          ],
+          "highlight": "Theo",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Hanna's flat",
+          "tag": "CLUE",
+          "bullets": [
+            "The man sleeping there"
+          ],
+          "highlight": "Theo",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Laurel's realization",
+      "action": "three clues line up and each resolves to the same name",
+      "payoff": "every clue points to Theo"
+    },
+    "explainedBy": "In one instant the puzzle pieces snap together for Laurel: all of them lead to Theo.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel realizes every clue points to Theo.",
+      "concreteVisual": "Three columns of clues, each highlighted 'Theo'.",
+      "onScreenText": "Theo / Theo / Theo",
+      "relationToPrevious": "From recognizing his frame to understanding what it means.",
+      "addedInformation": "Joins the separate clues into one answer."
+    }
+  },
+  {
+    "i": 164,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "The pieces snap together",
+      "layout": "borderless",
+      "nodeShape": "filmStrip",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "T on the florist card",
+          "sublabel": "found in the rubbish",
+          "tone": "neutral"
+        },
+        {
+          "label": "Man in Hanna's flat",
+          "sublabel": "sleeping there",
+          "tone": "neutral"
+        },
+        {
+          "label": "Theo",
+          "sublabel": "the same man",
+          "tone": "danger"
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Laurel's two clues",
+      "action": "clue plus clue joins into one name",
+      "payoff": "T is Theo"
+    },
+    "explainedBy": "The T on the florist card and the man in Hanna's flat are the same man: Theo",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo is the T on the card and the man in Hanna's flat.",
+      "concreteVisual": "Film-strip frames: T on the florist card + Man in Hanna's flat -> Theo",
+      "onScreenText": "T on the florist card; Man in Hanna's flat; Theo",
+      "relationToPrevious": "Laurel's snap of clarity, shown as clues joining",
+      "addedInformation": "The inference that connects both clues"
+    }
+  },
+  {
+    "i": 165,
+    "continue": true,
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Florist card",
+        "Hanna's flat",
+        "Losing Ellie"
+      ]
+    },
+    "explainedBy": "Theo's love for Hanna is rooted in the trauma of losing Ellie, the third piece",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Theo's attachment to Hanna is rooted in losing the younger daughter",
+      "concreteVisual": "The same sorter with a third bucket added: Losing Ellie",
+      "onScreenText": "Losing Ellie",
+      "relationToPrevious": "One new bucket added to the same sorter",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 166,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "AT THE CROSSROADS",
+      "lines": [
+        {
+          "text": "Gripping the steering wheel",
+          "at": 8
+        },
+        {
+          "text": "She sees Theo anew",
+          "emphasis": true,
+          "tone": "danger",
+          "at": 90
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "Laurel at the crossroads",
+      "action": "her grip, then her new view of Theo",
+      "payoff": "Theo is no longer who she thought"
+    },
+    "explainedBy": "Laurel sits at the crossroads gripping the wheel and sees Theo differently",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At the crossroads Laurel sees Theo differently.",
+      "concreteVisual": "Bold type: Gripping the steering wheel / She sees Theo anew",
+      "onScreenText": "Gripping the steering wheel; She sees Theo anew",
+      "relationToPrevious": "From the clues to Laurel's reaction in the car",
+      "addedInformation": "Her new view of Theo, before the horror is named"
+    }
+  },
+  {
+    "i": 167,
+    "told": {
+      "stage": {
+        "layout": "versus",
+        "who": [
+          "laurel",
+          "theo"
+        ]
+      },
+      "events": [
+        {
+          "on": "belonged",
+          "do": "label",
+          "who": "theo",
+          "text": "Belonged to Ellie"
+        }
+      ]
+    },
+    "explainedBy": "To Laurel, Theo belonged exclusively to Ellie",
+    "noVisual": null
+  },
+  {
+    "i": 168,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "title": "Through Laurel's eyes",
+      "layout": "borderless",
+      "columns": [
+        {
+          "heading": "Ellie's Theo",
+          "tag": "THEN",
+          "bullets": [
+            "He belonged only to Ellie",
+            "Her perfect golden girl"
+          ],
+          "highlight": "A memory to protect",
+          "tone": "neutral"
+        },
+        {
+          "heading": "Hanna's Theo",
+          "tag": "NOW",
+          "bullets": [
+            "The same man, with Hanna",
+            "Hanna as a secondhand prize"
+          ],
+          "highlight": "The memory spoiled",
+          "tone": "danger"
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Theo then and now, as Laurel sees it",
+      "action": "Ellie's Theo is set against Hanna's Theo",
+      "payoff": "Laurel feels Hanna is a stolen secondhand prize"
+    },
+    "explainedBy": "To Laurel, Theo with Hanna spoils Ellie's memory and makes Hanna a secondhand prize",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel feels Theo with Hanna spoils Ellie's memory",
+      "concreteVisual": "A full-bleed split: Ellie's Theo (then) against Hanna's Theo (now)",
+      "onScreenText": "Ellie's Theo · Hanna's Theo · A secondhand prize",
+      "relationToPrevious": "Follows Laurel's horror that Theo belonged to Ellie",
+      "addedInformation": "Why she is horrified: one man moved from one daughter to the other"
+    }
+  },
+  {
+    "i": 169,
+    "told": {
+      "stage": {
+        "layout": "solo",
+        "who": [
+          "poppy"
+        ],
+        "at": "floyd-table"
+      },
+      "events": [
+        {
+          "on": "replacement",
+          "do": "title",
+          "text": "A replacement child"
+        }
+      ]
+    },
+    "explainedBy": "Theo's substitution of a sister for a lost love is paralleled by the replacement child at Floyd's table",
+    "noVisual": null
+  },
+  {
+    "i": 170,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "theo",
+          "hanna"
+        ],
+        "at": "hanna-flat"
+      },
+      "events": [
+        {
+          "on": "sinister",
+          "do": "title",
+          "text": "Sinister, or shared trauma?"
+        }
+      ]
+    },
+    "explainedBy": "The narrator asks whether Theo's love for Hanna is sinister or shared trauma",
+    "noVisual": null
+  },
+  {
+    "i": 171,
+    "cast": [],
+    "concept": null,
+    "kineticManifesto": {
+      "kicker": "THE REPLACEMENT",
+      "lines": [
+        {
+          "text": "Hanna, a sister as stand-in",
+          "strikeAt": 45,
+          "at": 10
+        },
+        {
+          "text": "The most perfect copy of Ellie",
+          "emphasis": true,
+          "tone": "accent",
+          "at": 62
+        }
+      ],
+      "divider": "line",
+      "footnote": "Someone else at Floyd's table",
+      "footnoteAt": 100,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "manifesto",
+      "subject": "the perfect copy of Ellie",
+      "action": "the sister stand-in is struck through",
+      "payoff": "the real copy is someone else"
+    },
+    "explainedBy": "Hanna is not the true copy of Ellie; a more perfect copy exists",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The most perfect copy of Ellie was not Hanna",
+      "concreteVisual": "Hanna as stand-in struck through, then the perfect copy of Ellie written below",
+      "onScreenText": "Hanna, a sister as stand-in (struck) · The most perfect copy of Ellie",
+      "relationToPrevious": "Turns from Theo and Hanna toward Floyd's house",
+      "addedInformation": "The false reading (Hanna) is crossed out and the question set up"
+    }
+  },
+  {
+    "i": 172,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "verticalSpine",
+      "kicker": "THEN SHE WAS GONE",
+      "title": "PORTRAIT 6 · POPPY",
+      "subtitle": "Age nine · Floyd's daughter",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Portrait six: Poppy",
+      "action": "the portrait card opens",
+      "payoff": "the gallery turns to Poppy"
+    },
+    "explainedBy": "The sixth portrait opens: Poppy, nine, at Floyd's table",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Portrait six is Poppy, nine",
+      "concreteVisual": "A chapter card: PORTRAIT 6 · POPPY",
+      "onScreenText": "PORTRAIT 6 · POPPY · Age nine",
+      "relationToPrevious": "Opens the next portrait after the copy-of-Ellie turn",
+      "addedInformation": "Names the new portrait and her age"
+    }
+  },
+  {
+    "i": 173,
+    "told": {
+      "stage": {
+        "layout": "row",
+        "who": [
+          "floyd",
+          "poppy"
+        ],
+        "at": "floyd-table"
+      },
+      "events": [
+        {
+          "on": "companion",
+          "do": "together",
+          "who": [
+            "floyd",
+            "poppy"
+          ]
+        },
+        {
+          "on": "perfect",
+          "do": "title",
+          "text": "The perfect companion"
+        }
+      ]
+    },
+    "explainedBy": "Poppy sits at Floyd's table beside him: the perfect companion she performs so the father who chose her never sends her away",
+    "noVisual": null
+  },
+  {
+    "i": 174,
+    "cast": [],
+    "concept": null,
+    "visualEquation": {
+      "title": "Poppy's performance",
+      "layout": "borderless",
+      "nodeShape": "arch",
+      "operator": "arrow",
+      "nodes": [
+        {
+          "label": "Performed brilliance",
+          "sublabel": "Hypermature",
+          "tone": "accent"
+        },
+        {
+          "label": "A secure place",
+          "sublabel": "With Floyd",
+          "tone": "positive"
+        },
+        {
+          "label": "A fragile world",
+          "sublabel": "Where she could be sent away",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Poppy's hypermaturity",
+      "action": "an arrow chain runs from performed brilliance to a place she must keep in a fragile world",
+      "payoff": "Poppy performs to keep her place"
+    },
+    "explainedBy": "Poppy's hypermature, performed brilliance exists to secure her place in a fragile world.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy performs brilliance to secure her place.",
+      "concreteVisual": "Arch chain: performed brilliance, a secure place, a fragile world.",
+      "onScreenText": "Performed brilliance",
+      "relationToPrevious": "From her motivation to the behavior it produces.",
+      "addedInformation": "Shows the purpose of her adult act."
+    }
+  },
+  {
+    "i": 175,
+    "cast": [],
+    "concept": null,
+    "cohortGrid": {
+      "title": "Floyd's family unit",
+      "total": 6,
+      "splitAt": 70,
+      "leftGroup": {
+        "label": "Inside",
+        "sublabel": "Floyd · Poppy",
+        "share": 0.67,
+        "tone": "accent"
+      },
+      "rightGroup": {
+        "label": "Pushed out",
+        "sublabel": "Sara-Jade, the older sister",
+        "share": 0.33,
+        "tone": "danger"
+      },
+      "callout": "Poppy's polish leaves Sara-Jade outside",
+      "calloutAt": 175,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "cohort-split",
+      "subject": "Floyd's household",
+      "action": "the family splits into inside and pushed out",
+      "payoff": "Sara-Jade ends up outside the unit"
+    },
+    "explainedBy": "Poppy's performance pushes Sara-Jade out of the family unit",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy's performance pushes Sara-Jade out of the family",
+      "concreteVisual": "A split grid: Floyd and Poppy inside, Sara-Jade pushed out",
+      "onScreenText": "Inside: Floyd · Poppy · Pushed out: Sara-Jade",
+      "relationToPrevious": "Follows Poppy's motivation to be the perfect companion",
+      "addedInformation": "Who she hurts first: her older sister"
+    }
+  },
+  {
+    "i": 176,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "Every time she walks in",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel",
+      "poppy"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "partnerAction": "walk",
+    "explainedBy": "Poppy walks into rooms and torments Laurel each time by looking like Ellie",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy unwittingly torments Laurel whenever she walks into a room",
+      "concreteVisual": "Laurel worried, Poppy walking in beside her",
+      "onScreenText": "Every time she walks in",
+      "relationToPrevious": "Poppy's performance is now a daily pressure on Laurel",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 177,
+    "concept": null,
+    "set": "kitchen",
+    "callout": {
+      "text": "Down the single wooden step",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "explainedBy": "Laurel, feeling comfortable, walks down the single step into Floyd's house",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel walks into Floyd's kitchen, feeling at ease",
+      "concreteVisual": "Laurel walking into a bright kitchen, neutral",
+      "onScreenText": "Down the single wooden step",
+      "relationToPrevious": "Scene change to the morning at Floyd's house",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 178,
+    "cast": [],
+    "concept": null,
+    "spatialJourney": {
+      "title": "The morning after",
+      "subtitle": "Floyd's house",
+      "stations": [
+        {
+          "label": "Laurel's first night",
+          "detail": "She stays at Floyd's",
+          "tone": "neutral",
+          "at": 8
+        },
+        {
+          "label": "The single wooden step",
+          "detail": "Down into the kitchen",
+          "tone": "neutral",
+          "at": 40
+        },
+        {
+          "label": "Airy modern kitchen",
+          "detail": "Large and bright",
+          "tone": "neutral",
+          "at": 70
+        },
+        {
+          "label": "At the counter",
+          "detail": "Poppy, her back turned",
+          "tone": "accent",
+          "at": 105
+        }
+      ],
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "spatial-journey",
+      "subject": "Laurel's walk into Floyd's kitchen",
+      "action": "the route goes down the step to the counter",
+      "payoff": "Poppy stands there, back turned"
+    },
+    "explainedBy": "Laurel walks into Floyd's kitchen and finds Poppy at the counter, back turned",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy stands at the kitchen counter, back turned",
+      "concreteVisual": "A short route through Floyd's house ending at the kitchen counter",
+      "onScreenText": "The single wooden step · Airy modern kitchen · At the counter",
+      "relationToPrevious": "Sets the scene for the revelation the morning after",
+      "addedInformation": "Where Laurel is and who waits there, before Poppy turns"
+    }
+  },
+  {
+    "i": 179,
+    "continue": true,
+    "concept": null,
+    "set": "kitchen",
+    "callout": {
+      "text": "Grips the wooden door frame",
+      "style": "reveal"
+    },
+    "cast": [
+      "poppy",
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "hold",
+    "explainedBy": "Poppy turns around and Laurel is stunned, gripping the frame",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy turns and Laurel is physically stunned",
+      "concreteVisual": "Same kitchen and figures; Laurel now afraid and holding on, Poppy turned to face her",
+      "onScreenText": "Grips the wooden door frame",
+      "relationToPrevious": "Same stage; Laurel's face and hold change on the turn",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 180,
+    "concept": "portrait",
+    "set": "room",
+    "callout": {
+      "text": "A distinct dimple in the cheek",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Laurel sees Ellie's face again in Poppy: the dimple, the eyes, the bow",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel recognises Ellie's features in Poppy",
+      "concreteVisual": "Laurel afraid beside Ellie's portrait; the portrait is the resemblance",
+      "onScreenText": "A distinct dimple in the cheek",
+      "relationToPrevious": "New stage: the portrait stands for Ellie's face",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 181,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "Poppy's layers",
+      "subtitle": "What Laurel sees, and what lies under it",
+      "items": [
+        {
+          "label": "Slick hostess",
+          "detail": "Turns on the filter coffee machine",
+          "tone": "neutral"
+        },
+        {
+          "label": "Algebra at four",
+          "detail": "A casual boast",
+          "tone": "accent"
+        },
+        {
+          "label": "Fear of abandonment",
+          "detail": "Deep and unshakable",
+          "tone": "danger"
+        }
+      ],
+      "callout": "Under the polish: terror of being sent away",
+      "calloutAt": 330,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "mechanism-flow",
+      "subject": "Poppy's composure in the kitchen",
+      "action": "surface layers peel down to what she hides",
+      "payoff": "a deep fear of abandonment sits underneath"
+    },
+    "explainedBy": "Poppy's hostess act and boasts cover a deep fear of abandonment",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy plays the hostess but hides a fear of abandonment",
+      "concreteVisual": "A cutaway of three layers: slick hostess, algebra at four, fear of abandonment at the bottom",
+      "onScreenText": "Slick hostess · Algebra at four · Fear of abandonment",
+      "relationToPrevious": "Follows Laurel's shock in the kitchen doorway",
+      "addedInformation": "What is under the act: the fear that drives it"
+    }
+  },
+  {
+    "i": 182,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "horizontal",
+      "wipeAt": 150,
+      "endSplit": 0.5,
+      "before": {
+        "label": "POPPY'S PERSONA",
+        "headline": "A suit of armor",
+        "points": [
+          "Formal, stiff clothes",
+          "Advanced vocabulary"
+        ],
+        "tone": "neutral"
+      },
+      "after": {
+        "label": "WHAT IT GUARDS",
+        "headline": "Fear of being left",
+        "points": [
+          "Her mother vanished"
+        ],
+        "tone": "danger"
+      },
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Poppy's adult persona",
+      "action": "a wipe moves from the armor of her persona to the fear it guards",
+      "payoff": "Poppy's polish is armor against abandonment"
+    },
+    "explainedBy": "Poppy hides a deep fear of abandonment; her adult persona is armor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy's adult persona guards a fear of abandonment.",
+      "concreteVisual": "Wipe: 'A suit of armor' (clothes, vocabulary) gives way to 'Fear of being left'.",
+      "onScreenText": "Fear of being left",
+      "relationToPrevious": "From her hostess act to what drives it.",
+      "addedInformation": "Names the fear under the persona."
+    }
+  },
+  {
+    "i": 183,
+    "concept": "portrait",
+    "set": "room",
+    "callout": {
+      "text": "A breathing ghost of Ellie",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Laurel sees Poppy not as a child but as a living copy of Ellie",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel sees Poppy as a breathing copy of Ellie, not a child",
+      "concreteVisual": "Laurel afraid beside Ellie's portrait",
+      "onScreenText": "A breathing ghost of Ellie",
+      "relationToPrevious": "Poppy's fear is now seen from Laurel's side",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 184,
+    "continue": true,
+    "concept": "portrait",
+    "set": "room",
+    "callout": {
+      "text": "Rendered entirely mute",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "explainedBy": "Laurel is struck mute and holds on to keep from falling",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel is mute and gripping for balance",
+      "concreteVisual": "Same portrait and Laurel afraid, now holding on",
+      "onScreenText": "Rendered entirely mute",
+      "relationToPrevious": "Same stage; Laurel's body changes from idle to holding on",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 185,
+    "continue": true,
+    "concept": "portrait",
+    "set": "room",
+    "callout": {
+      "text": "Her lost daughter's face",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Laurel stares at the face of her lost daughter, resurrected in Poppy",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel stares at Ellie's face resurrected in Poppy",
+      "concreteVisual": "Same portrait; Laurel afraid, letting go of the hold",
+      "onScreenText": "Her lost daughter's face",
+      "relationToPrevious": "Same stage; Laurel is still staring",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 186,
+    "cast": [],
+    "concept": null,
+    "shotIntent": {
+      "job": "comic-strip",
+      "subject": "Poppy at the birthday toast",
+      "action": "three panels: stands, picks up the knife, taps the glass",
+      "payoff": "she calls the table to order"
+    },
+    "explainedBy": "At the Islington birthday dinner, Poppy stands and taps her glass with a knife",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy stands and taps her glass at the birthday toast",
+      "concreteVisual": "Three text panels: she stands up, a heavy silver knife, tap on crystal",
+      "onScreenText": "She stands up · A heavy silver knife · Tap on crystal",
+      "relationToPrevious": "Moves from the kitchen to the restaurant toast",
+      "addedInformation": "The sequence of her taking control, step by step"
+    },
+    "timelineScrub": {
+      "title": "The birthday toast",
+      "subtitle": "An Islington restaurant",
+      "at": 8,
+      "events": [
+        {
+          "time": "First",
+          "title": "She stands up",
+          "detail": "At the long table",
+          "tone": "neutral",
+          "at": 40
+        },
+        {
+          "time": "Then",
+          "title": "A heavy silver knife",
+          "detail": "Picked up with confidence",
+          "tone": "accent",
+          "at": 170
+        },
+        {
+          "time": "Last",
+          "title": "Tap on crystal",
+          "detail": "Sharp, against her glass",
+          "tone": "accent",
+          "at": 266
+        }
+      ]
+    }
+  },
+  {
+    "i": 187,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "The adults fall silent",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd",
+      "poppy"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "The adults go silent and give the floor to a child",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The adults at the table fall silent for the child",
+      "concreteVisual": "Floyd neutral and quiet, Poppy standing with a smirk",
+      "onScreenText": "The adults fall silent",
+      "relationToPrevious": "Poppy has taken the floor",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 188,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "Quoting Tolstoy on happy families",
+      "style": "reveal"
+    },
+    "cast": [
+      "poppy"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Poppy gives a polished speech quoting Tolstoy about happy families",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy delivers a polished speech quoting Tolstoy",
+      "concreteVisual": "Poppy talking to the room with a practised smile",
+      "onScreenText": "Quoting Tolstoy on happy families",
+      "relationToPrevious": "Poppy is speaking after the silence",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 189,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "Who holds the room",
+      "leftLabel": "POPPY, 9",
+      "rightLabel": "THE ADULTS",
+      "leftWeights": [
+        {
+          "label": "Raises her glass",
+          "sublabel": "Drinks with the grown-ups",
+          "weight": 2.4,
+          "tone": "accent",
+          "at": 30
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "The whole table",
+          "sublabel": "Silent, watching",
+          "weight": 0.8,
+          "tone": "neutral",
+          "at": 90
+        }
+      ],
+      "verdict": "A child commands the entire room",
+      "verdictAt": 170,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Poppy against the table of adults",
+      "action": "the scale tips toward the nine-year-old",
+      "payoff": "she commands the room"
+    },
+    "explainedBy": "Poppy outweighs the adults at the table: she commands the room",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy commands the entire room at the toast",
+      "concreteVisual": "A scale: Poppy, 9 outweighs the whole silent table of adults",
+      "onScreenText": "POPPY, 9 · THE ADULTS · A child commands the entire room",
+      "relationToPrevious": "Completes the toast after the knife taps the glass",
+      "addedInformation": "How far the balance of power has tipped to a child"
+    }
+  },
+  {
+    "i": 190,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "No friend her own age",
+      "style": "reveal"
+    },
+    "cast": [
+      "poppy"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Poppy hides isolation: she does not go to school and has no friend her age",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy has no school and no friend her own age",
+      "concreteVisual": "Poppy alone, sad",
+      "onScreenText": "No friend her own age",
+      "relationToPrevious": "From the toast to her isolation",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 191,
+    "cast": [],
+    "concept": null,
+    "balanceScale": {
+      "title": "POPPY'S TWO AGES",
+      "leftLabel": "THE FACADE",
+      "rightLabel": "THE CHILD",
+      "leftWeights": [
+        {
+          "label": "A polished 40-year-old",
+          "sublabel": "Sophisticated",
+          "weight": 2,
+          "tone": "accent",
+          "at": 10
+        }
+      ],
+      "rightWeights": [
+        {
+          "label": "Nine years old",
+          "sublabel": "No school, no friends",
+          "weight": 0.8,
+          "tone": "danger",
+          "at": 90
+        }
+      ],
+      "verdict": "The facade hides her isolation",
+      "verdictAt": 180,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "tradeoff-scale",
+      "subject": "Poppy's facade and her real age",
+      "action": "the polished facade outweighs the isolated nine-year-old",
+      "payoff": "her isolation is hidden behind sophistication"
+    },
+    "explainedBy": "Poppy hides her isolation behind the facade of a sophisticated adult in a nine-year-old's body.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy hides isolation behind a grown-up facade.",
+      "concreteVisual": "Scale: 'A polished 40-year-old' heavy on the left, 'Nine years old' light on the right.",
+      "onScreenText": "Nine years old",
+      "relationToPrevious": "From her lack of friends to how she covers it.",
+      "addedInformation": "Weighs the facade against the real child."
+    }
+  },
+  {
+    "i": 192,
+    "cast": [],
+    "concept": null,
+    "statSlam": {
+      "kicker": "FLOYD'S EMOTIONAL SPACE",
+      "value": "Every inch",
+      "label": "taken by Poppy",
+      "note": "Nothing left for Sara-Jade to hold on to",
+      "framing": "minimal",
+      "tone": "danger",
+      "bars": [
+        {
+          "label": "Poppy",
+          "value": 1,
+          "text": "All of it",
+          "tone": "accent",
+          "at": 200
+        },
+        {
+          "label": "Sara-Jade",
+          "value": 0.03,
+          "text": "Nothing",
+          "tone": "danger",
+          "at": 330
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "data-proof",
+      "subject": "Floyd's emotional space",
+      "action": "bars show Poppy holding all of it and Sara-Jade none",
+      "payoff": "Sara-Jade is left out of the family frame"
+    },
+    "explainedBy": "Poppy takes all of Floyd's emotional space, leaving nothing for Sara-Jade",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy takes all of Floyd's attention, leaving Sara-Jade nothing",
+      "concreteVisual": "A huge 'Every inch' with two bars: Poppy full, Sara-Jade empty",
+      "onScreenText": "Every inch · Poppy: All of it · Sara-Jade: Nothing",
+      "relationToPrevious": "Returns from the toast to the cost for Sara-Jade",
+      "addedInformation": "How much is left for the older daughter: nothing"
+    }
+  },
+  {
+    "i": 193,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "Poppy: pruned, shaped, and isolated",
+      "style": "reveal"
+    },
+    "cast": [
+      "poppy"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "Poppy is shaped and isolated like a bonsai tree, pruned to look adult",
+    "noVisual": "A tree icon would read as a tree, not as pruning; the callout carries the bonsai comparison",
+    "storyboard": {
+      "claim": "Poppy is like a bonsai: pruned and isolated",
+      "concreteVisual": "Poppy alone, sad",
+      "onScreenText": "Poppy: pruned, shaped, and isolated",
+      "relationToPrevious": "A comparison begins for the next beat",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 194,
+    "continue": true,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "Stunted by design",
+      "style": "reveal"
+    },
+    "cast": [
+      "poppy"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Poppy's social growth is stunted by design, and she stays stooped",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy's social growth has been stunted",
+      "concreteVisual": "Poppy sad and slumped, same room",
+      "onScreenText": "Stunted by design",
+      "relationToPrevious": "Same stage; the posture now carries the stunting",
+      "addedInformation": "none beyond the narration"
+    }
+  },
+  {
+    "i": 195,
+    "cast": [],
+    "concept": null,
+    "chapterInterstitial": {
+      "variant": "broadsheetRule",
+      "kicker": "THEN SHE WAS GONE",
+      "title": "PORTRAIT 7 · SARA-JADE",
+      "subtitle": "Floyd's older daughter",
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "chapter-interstitial",
+      "subject": "Portrait seven: Sara-Jade",
+      "action": "the portrait card opens",
+      "payoff": "the gallery turns to Sara-Jade"
+    },
+    "explainedBy": "The seventh portrait opens: Sara-Jade, Floyd's older daughter",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Portrait seven is Sara-Jade, Floyd's older daughter",
+      "concreteVisual": "A chapter card: PORTRAIT 7 · SARA-JADE",
+      "onScreenText": "PORTRAIT 7 · SARA-JADE · Floyd's older daughter",
+      "relationToPrevious": "Opens the next portrait after Poppy",
+      "addedInformation": "Names the discarded daughter who will speak the truth"
+    }
+  },
+  {
+    "i": 196,
+    "cast": [],
+    "concept": null,
+    "stackReveal": {
+      "variant": "strata",
+      "title": "THE SHINY NEW FAMILY",
+      "subtitle": "What Sara-Jade wants noticed",
+      "items": [
+        {
+          "label": "The shiny new family",
+          "detail": "The surface",
+          "level": 0.85,
+          "tone": "positive"
+        },
+        {
+          "label": "A massive lie",
+          "detail": "Underneath",
+          "level": 0.35,
+          "tone": "danger",
+          "changeAt": 150
+        }
+      ],
+      "callout": "Someone should notice",
+      "calloutAt": 220,
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "framework-map",
+      "subject": "the family's surface and the lie under it",
+      "action": "the lie is revealed beneath",
+      "payoff": "Sara-Jade wants the lie noticed"
+    },
+    "explainedBy": "Sara-Jade wants someone to notice the new family is built on a lie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The new family is built on a lie",
+      "concreteVisual": "Surface layer over a hidden lie layer",
+      "onScreenText": "THE SHINY NEW FAMILY",
+      "relationToPrevious": "Enters Sara-Jade's view",
+      "addedInformation": "The lie under the family"
+    }
+  },
+  {
+    "i": 197,
+    "cast": [],
+    "concept": null,
+    "comparisonGrid": {
+      "layout": "borderless",
+      "title": "TWO VERSIONS OF THE FAMILY",
+      "columns": [
+        {
+          "heading": "Floyd",
+          "tag": "CURATED",
+          "bullets": [
+            "Perfection"
+          ],
+          "highlight": "The shiny picture",
+          "tone": "positive"
+        },
+        {
+          "heading": "Sara-Jade",
+          "tag": "NEGLECTED",
+          "bullets": [
+            "Messy",
+            "Uncomfortable"
+          ],
+          "highlight": "The truth teller",
+          "tone": "danger"
+        }
+      ],
+      "at": 10
+    },
+    "shotIntent": {
+      "job": "contrast",
+      "subject": "Sara-Jade against Floyd's perfection",
+      "action": "the split sets Floyd's curated picture against Sara-Jade's messy truth",
+      "payoff": "Sara-Jade is the neglected truth teller"
+    },
+    "explainedBy": "Sara-Jade is the neglected truth teller whose messy reality contradicts Floyd's curated perfection.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sara-Jade's truth contradicts Floyd's perfect picture.",
+      "concreteVisual": "Split: Floyd curated perfection versus Sara-Jade the neglected truth teller.",
+      "onScreenText": "The truth teller",
+      "relationToPrevious": "From her wish to be noticed to her role in the story.",
+      "addedInformation": "Sets the two sides of the family against each other."
+    }
+  },
+  {
+    "i": 198,
+    "continue": true,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "Floyd's desperate attempts",
+      "style": "reveal"
+    },
+    "cast": [
+      "floyd"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The older daughter's sabotage is aimed at Floyd's desperate attempts at normal life",
+    "noVisual": "The sabotage is not on screen; the cast has only Floyd",
+    "storyboard": {
+      "claim": "Floyd's attempts to keep a normal family are being sabotaged",
+      "concreteVisual": "Floyd worried in the room, his attempts at normal life being undercut",
+      "onScreenText": "Floyd's desperate attempts",
+      "relationToPrevious": "Same stage; Floyd's face turns from neutral to worried",
+      "addedInformation": "weak: the saboteur is not on screen"
+    }
+  },
+  {
+    "i": 199,
+    "cast": [],
+    "concept": null,
+    "beforeAfterWipe": {
+      "direction": "horizontal",
+      "wipeAt": 110,
+      "endSplit": 0.5,
+      "before": {
+        "label": "FLOYD'S SHOW",
+        "headline": "A happy, normal life",
+        "points": [
+          "Staged for Laurel"
+        ],
+        "tone": "positive"
+      },
+      "after": {
+        "label": "THE LIVING ROOM",
+        "headline": "Laurel meets SJ",
+        "points": [
+          "The daughter who spoils the show"
+        ],
+        "tone": "danger"
+      },
+      "at": 8
+    },
+    "shotIntent": {
+      "job": "before-after-wipe",
+      "subject": "Floyd's household",
+      "action": "the staged normal life wipes to the living room meeting",
+      "payoff": "Laurel meets SJ, the crack in the show"
+    },
+    "explainedBy": "Floyd presents a normal life to Laurel; then Laurel meets SJ in the living room",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "SJ sabotages Floyd's show of a normal life; Laurel meets her",
+      "concreteVisual": "A wipe from 'A happy, normal life' to 'Laurel meets SJ'",
+      "onScreenText": "FLOYD'S SHOW: A happy, normal life · THE LIVING ROOM: Laurel meets SJ",
+      "relationToPrevious": "Follows SJ's bitter energy in the house",
+      "addedInformation": "Where the show breaks: the first meeting with SJ"
+    }
+  },
+  {
+    "i": 200,
+    "concept": null,
+    "set": "room",
+    "callout": {
+      "text": "Steps tentatively through the door",
+      "style": "reveal"
+    },
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "walk",
+    "explainedBy": "Laurel enters the living room tentatively",
+    "noVisual": "Sarah Jade curled in the armchair is not in the cast and is not drawn",
+    "storyboard": {
+      "claim": "Laurel enters the living room tentatively",
+      "concreteVisual": "Laurel walking in, worried",
+      "onScreenText": "Steps tentatively through the door",
+      "relationToPrevious": "Laurel moves from the kitchen to the living room",
+      "addedInformation": "weak: the armchair figure is not drawn"
+    }
+  }
+]

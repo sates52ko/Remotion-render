@@ -1,0 +1,38 @@
+{
+  "note": "Simple monthly AI spend control (operator decisions 2026-10-30, raised 2026-10-31 to $500 / warn $400 / stop $450 / $15 a day). ESTIMATE, not the provider bill: gh-aw usage artifacts + the local ledger; the provider bill (Anthropic Console) is the truth and these lines are NOT a provider-guaranteed hard cap. Admission: one dispatch at a time (lock held until the new run is visible). A refusal stops only new paid AI work.",
+  "currency": "USD",
+  "monthlyBudgetUsd": 500,
+  "warnUsd": 400,
+  "stopUsd": 450,
+  "dailyUsd": 15,
+  "aicUsd": 0.01,
+  "repo": "sates52/Remotion-test",
+  "ledgerDir": "audit/ai-spend",
+  "paidWorkflows": {
+    "ci-failure-analyst.lock.yml": {
+      "perRunMaxUsd": 0.15,
+      "why": "max-ai-credits 10 (agent) + 5 (threat detection); 1 AIC = $0.01"
+    },
+    "visual-ab.yml": {
+      "perRunMaxUsd": 10,
+      "why": "cloud blind A/B / calibration: describer + judge calls through the Claude API, capped by the manifest maxUsd (<= 10) inside the runner (2026-11-02: two rubrics per run; month/day lines unchanged)",
+      "paidSteps": [
+        "Blind describer + judge (Claude API, capped)"
+      ]
+    }
+  },
+  "prices": {
+    "claude-haiku-5-5": {
+      "inputPerMTok": 0.1,
+      "outputPerMTok": 0.5,
+      "cacheReadPerMTok": 0.01,
+      "cacheWritePerMTok": 0.125
+    },
+    "claude-sonnet-5-5": {
+      "inputPerMTok": 2,
+      "outputPerMTok": 10,
+      "cacheReadPerMTok": 0.2,
+      "cacheWritePerMTok": 2.5
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "note": "Mute-test bars. OPERATOR DECISIONS ONLY (CLAUDE.md invariant 2). Operational thresholds calibrated on the current production corpus (7 books, 2026-09-28: good films 1-4 dead frames, failing 17-18); re-calibrate when the corpus grows (benchmark: node scripts/quality-benchmark.js).",
+  "version": "2026-09-28",
+  "muteTest": {
+    "blocking": { "wrongPer30": 1, "deadPer30": 5 },
+    "targets": { "adds": 0.6 },
+    "measured": ["explains"],
+    "holdout": { "maxRepeatedPer30": 3 }
+  },
+  "hardGate": {
+    "note": "OPERATOR DECISIONS ONLY. A gate listed in nonBlocking still runs and is reported as FAIL when it fails, but does not stop the chain and does not trigger auto-fix. Thresholds are unchanged.",
+    "nonBlocking": {
+      "11": {
+        "decidedBy": "operator (Savas), 2026-10-15",
+        "temporary": true,
+        "reason": "Gate 11 passed on published books only because of an uncommitted 'Average VIG Floor' block in scripts/lib/visual-intent.js that raised vigScore to >= 2.7 and restaged authored beats (split shots, prop arcs). That block is removed. VIG has not been shown to predict mute-test DEAD frames, so Gate 11 reports FAIL non-blocking until a replacement metric is decided. VIG is recomputed from the final scene, not read from a stored score."
+      }
+    }
+  },
+  "uploadPace": {
+    "note": "OPERATOR DECISION (Savas, 2026-11-23, after the YPP 'inauthentic content' rejection): the channel's publishing rhythm. S-CTS scores upload pacing next to transcript / title / description embeddings; the register showed 20 of 32 upload days with 2-5 videos. Read by scripts/lib/upload-pace.js; package-youtube.js refuses a second bundle on a full day.",
+    "maxPerDay": 1,
+    "maxPerWeek": 7
+  },
+  "transcriptSameness": {
+    "note": "How much a narration is told in the channel's repeated way (scripts/lib/transcript-sameness.js): the rate of the channel's 5-word runs (said in >= 15 % of the films) per 1000 words. MEASURED 2026-11-23: old films median 1.20 (min 0.10), the formed Dracula recordings 0.4 and 0.0; no cosine proxy (skeleton 5-grams, content trigrams) separates them, so only the run rate is a bar. Proposed by the agent in the 2026-11-23 plan at half the old median; preview-state stops with TRANSCRIPT_SAMENESS at or over it unless the operator accepts (--accept).",
+    "decidedBy": "operator (Savas), 2026-11-23 (plan approval); re-calibrate after the first five formed recordings",
+    "reviewRunsPer1000": 0.6,
+    "minWords": 1500
+  },
+  "visualSameness": {
+    "note": "How alike a film LOOKS to the channel's other films, frame for frame (scripts/visual-sameness.js: pHash nearest-frame layout + colour-histogram palette, 24 frames per film on Actions). The scale's floor is ~50 % (unrelated frames share half their hash bits). MEASURED 2026-11-23: three old Antidote films are 72-73 % alike to each other; Dracula (Film Flow, told v5) is 58-61 % alike to them. A new film whose nearest other film is at or over reviewAlike is REVIEW: it looks like the shelf. Report only in the tool; no stage stops on it. Re-set after three or four new-system films are measured.",
+    "decidedBy": "operator (Savas), 2026-11-23: 'biraz daha sıkı' — 0.65, not the proposed 0.68",
+    "reviewAlike": 0.65
+  },
+  "voxTextCards": {
+    "note": "Vox films: the share of the film's time on the TEXT CARDS every Vox film shares (statement / quote / list cards) against the book's own images. Measured 2026-11-21: the published Vox films spend ~47 % on cards. Proposed by the agent in the 2026-11-23 plan; reported by originality-report.js (PICTURE line). blocking=false: a report until the operator makes it a gate (then plan-vox / preview-ready refuse over max).",
+    "decidedBy": "operator (Savas), 2026-11-23 (plan approval) — not yet blocking",
+    "max": 0.3,
+    "blocking": false
+  },
+  "packSameness": {
+    "note": "Pack (description / tags / hashtags) sameness against every other pack of the channel — scripts/lib/title-lint.js lintPackSameness. Proposed by the agent in the 2026-11-23 plan, operator-approved with it. sharedRunWords: a run of this many words shared with another description fails; a tag / hashtag on >= stapleMinPacks other packs is a channel staple; at most maxStapleTags / maxStapleHashtags of them.",
+    "decidedBy": "operator (Savas), 2026-11-23 (plan approval)",
+    "sharedRunWords": 8,
+    "stapleMinPacks": 3,
+    "maxStapleTags": 2,
+    "maxStapleHashtags": 1
+  },
+  "narrativeFirewall": {
+    "note": "OPERATOR DECISIONS ONLY. Scope: preview-ready only; production delivery rules are unchanged.",
+    "previewReady": {
+      "rule": "noBlock",
+      "decidedBy": "operator (Savas), 2026-10-16",
+      "reason": "The production firewall status FAILs on any REVIEW finding; every recent book had 300-500 REVIEW findings (mostly the fallback-lever class, which asks for a shot the author did not choose). Measured on Beloved run1, the firewall flagged 27/30 frames with 37% precision for DEAD/WRONG, so REVIEW does not predict a failed preview. preview-ready now requires 0 BLOCK; REVIEW findings stay in the report and are shown as quality debt. The blind mute test remains the verdict."
+    }
+  }
+}
