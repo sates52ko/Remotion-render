@@ -1,0 +1,1145 @@
+[
+  {
+    "i": 0,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MASSIVE ORNATE HALL",
+      "style": "reveal"
+    },
+    "set": "stage",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "The narrator sets an opulent 18th-century European court stage to introduce the Mozart prodigy legend.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Set the scene: an ornate, massive European concert hall in the mid-1700s.",
+      "concreteVisual": "Mentor standing on an ornate stage setting up the historical scene of European royalty.",
+      "onScreenText": "MASSIVE ORNATE HALL",
+      "relationToPrevious": "Opening beat of the summary.",
+      "addedInformation": "Establishes the theatrical, aristocratic historical setting of the Mozart myth."
+    }
+  },
+  {
+    "i": 1,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EUROPEAN ROYALTY",
+      "style": "highlight"
+    },
+    "set": "stage",
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "European royalty and popes sit in the ornate hall in absolute stunned silence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "European royalty and church leaders sit captivated in heavy robes.",
+      "concreteVisual": "Mentor gesturing toward the captivated aristocratic audience while creator listens in stunned amazement.",
+      "onScreenText": "EUROPEAN ROYALTY",
+      "relationToPrevious": "Expands on the audience filling the grand hall from beat 0.",
+      "addedInformation": "Highlights the elite, awe-struck witnesses to the performance."
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TINY FOUR-YEAR-OLD",
+      "style": "reveal"
+    },
+    "set": "stage",
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "At the center of the royal room sits a tiny four-year-old child who holds the entire court spellbound.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At the center of the hall is a tiny four-year-old child.",
+      "concreteVisual": "Mentor indicating the center of the hall where the young Mozart is situated.",
+      "onScreenText": "A TINY FOUR-YEAR-OLD",
+      "relationToPrevious": "Pivots focus from the royal audience to the toddler at the center of the hall.",
+      "addedInformation": "Emphasizes the jarring contrast between a majestic royal court and a toddler."
+    }
+  },
+  {
+    "i": 3,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "COMPLETELY BLINDFOLDED",
+      "style": "reveal"
+    },
+    "set": "stage",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "mask",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "The toddler is completely blindfolded yet plays flawlessly across the keys, creating a spectacle.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The toddler is completely blindfolded yet plays complex music with flying hands.",
+      "concreteVisual": "Creator holding a blindfold mask, illustrating the sensory deprivation performance stunt.",
+      "onScreenText": "COMPLETELY BLINDFOLDED",
+      "relationToPrevious": "Details the legendary blindfolded performance spectacle of the young Mozart.",
+      "addedInformation": "The mask represents the famous blindfold used to convince audiences of miraculous innate talent."
+    }
+  },
+  {
+    "i": 4,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "THE DIVINE PRODIGY",
+      "style": "reveal"
+    },
+    "set": "stage",
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "trophy",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "This performance created the enduring cultural status of Mozart as a divine prodigy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "This becomes the ultimate enduring image of the divine prodigy.",
+      "concreteVisual": "Creator holding a golden trophy symbolizing the exalted cultural status of divine genius.",
+      "onScreenText": "THE DIVINE PRODIGY",
+      "relationToPrevious": "Summarizes the cultural glorification stemming from the child prodigy spectacle.",
+      "addedInformation": "The trophy embodies society awarding Mozart untouchable prodigy status."
+    }
+  },
+  {
+    "i": 5,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "FAMOUS 1815 LETTER",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "The myth is reinforced by a famous 1815 letter where Mozart allegedly claims symphonies appear in his head finished.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A famous 1815 letter claims Mozart received finished symphonies in his head.",
+      "concreteVisual": "Mentor holding up a manuscript letter in an archival library.",
+      "onScreenText": "FAMOUS 1815 LETTER",
+      "relationToPrevious": "Transitions from childhood legend to the famous historical document supporting the myth.",
+      "addedInformation": "Introduces the specific historical text that cemented the effortless epiphany story."
+    }
+  },
+  {
+    "i": 6,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "OUT OF THIN AIR",
+      "style": "highlight"
+    },
+    "set": "library",
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "surprised",
+    "partnerAction": "talk",
+    "continue": true,
+    "explainedBy": "The letter describes full musical compositions appearing out of thin air, but the co-host interrupts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Compositions allegedly appeared out of thin air, but that claim is about to be stopped.",
+      "concreteVisual": "Mentor holding the letter while creator steps forward with a surprised expression to intervene.",
+      "onScreenText": "OUT OF THIN AIR",
+      "relationToPrevious": "Quotes the magical claim of the letter just before dismantling it.",
+      "addedInformation": "Stages the dramatic pause and skepticism before debunking the document."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COMPLETE FORGERY",
+      "style": "strike"
+    },
+    "set": "library",
+    "cast": [
+      "creator",
+      "mentor"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "The co-host reveals that the famous letter was an absolute forgery and fabrication.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The famous Mozart letter was a complete fabrication and forgery.",
+      "concreteVisual": "Creator pointing firmly at the debunked document with an emphatic stance while mentor looks shocked.",
+      "onScreenText": "COMPLETE FORGERY (struck through)",
+      "relationToPrevious": "Shatters the claim made in beat 6 with historical evidence.",
+      "addedInformation": "The struck callout explicitly rejects the authenticity of the cornerstone document."
+    }
+  },
+  {
+    "i": 8,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "DECADES AFTER MOZART DIED",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": true,
+    "explainedBy": "The timeline proves the forgery: published in 1815, decades after Mozart's death in 1791.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The publication date of 1815 was decades after Mozart had already died.",
+      "concreteVisual": "Creator pointing to a clock icon representing the chronological impossibility of the publication date.",
+      "onScreenText": "DECADES AFTER MOZART DIED",
+      "relationToPrevious": "Provides chronological evidence proving the letter could not be authentic.",
+      "addedInformation": "The clock icon highlights the temporal gap between Mozart's death and the article."
+    }
+  },
+  {
+    "i": 9,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "TO SELL SUBSCRIPTIONS",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "coin",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Publisher Johann Rochlitz fabricated the letter simply to sell magazine subscriptions for cash.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Magazine publisher Johann Rochlitz made up the letter to drive subscription sales.",
+      "concreteVisual": "Mentor with a knowing smirk holding a coin representing the commercial profit motive of the publisher.",
+      "onScreenText": "TO SELL SUBSCRIPTIONS",
+      "relationToPrevious": "Reveals the financial motivation behind creating the forgery.",
+      "addedInformation": "The coin icon establishes that commercial greed, not historical truth, drove the story."
+    }
+  },
+  {
+    "i": 10,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "MYTHOLOGY OF GENIUS",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "coin",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": true,
+    "explainedBy": "The public was desperate for a mythology of effortless genius, making the cash grab irresistible.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The publisher capitalized on the public's deep hunger for an effortless genius myth.",
+      "concreteVisual": "Mentor continuing to hold the coin, explaining how romantic public appetite creates easy profit.",
+      "onScreenText": "MYTHOLOGY OF GENIUS",
+      "relationToPrevious": "Connects the financial cash grab to society's hunger for magical talent myths.",
+      "addedInformation": "Links the commercial profit of beat 9 directly to the public's appetite for myth."
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COMPLETELY FAKE LETTER",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mentor",
+      "collaborator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "coin",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "Rochlitz invented the claim that Mozart visualized symphonies in a single glance like a statue.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Rochlitz fabricated the story that Mozart saw entire symphonies in a single glance.",
+      "concreteVisual": "Mentor explaining the exact fabrication to a worried collaborator who realizes the extent of the lie.",
+      "onScreenText": "COMPLETELY FAKE LETTER",
+      "relationToPrevious": "Specifies the exact poetic fiction fabricated by the publisher.",
+      "addedInformation": "Visualizes the breakdown of the legendary instant-symphony visual metaphor."
+    }
+  },
+  {
+    "i": 12,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CORNERSTONE DOCUMENT",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "collaborator"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Western culture's cornerstone document for the divine spark was completely fraudulent.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cornerstone evidence used to prove the divine spark is invalid.",
+      "concreteVisual": "Collaborator looking astonished as the cornerstone document is struck down.",
+      "onScreenText": "THE CORNERSTONE DOCUMENT (struck through)",
+      "relationToPrevious": "Synthesizes the revelation: the primary proof for effortless creativity is false.",
+      "addedInformation": "Striking the phrase visually dismantles the foundational text of the genius cult."
+    }
+  },
+  {
+    "i": 13,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "DUPED WESTERN CULTURE",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "19th-century clickbait successfully fooled Western culture and intellectual history for two hundred years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "19th-century clickbait duped Western culture for two hundred years.",
+      "concreteVisual": "Mentor holding a history book, summarizing how a cheap marketing trick shaped cultural belief.",
+      "onScreenText": "DUPED WESTERN CULTURE",
+      "relationToPrevious": "Concludes the Rochlitz forgery sequence with its centuries-long cultural impact.",
+      "addedInformation": "The book represents the historical canon that accepted the forged letter as fact."
+    }
+  },
+  {
+    "i": 14,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "MANUFACTURED",
+        "DIVINE SPARK"
+      ],
+      "values": [
+        0.15
+      ]
+    },
+    "callout": null,
+    "set": "workstation",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Historical records show Mozart was not a divine spark prodigy but an intensely manufactured one.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The historical record shows Mozart was a manufactured prodigy, not a divine miracle.",
+      "concreteVisual": "A spectrum diagram placing Mozart firmly near MANUFACTURED rather than DIVINE SPARK.",
+      "onScreenText": "MANUFACTURED <---> DIVINE SPARK",
+      "relationToPrevious": "Pivots from the debunked myth to the rigorous historical reality.",
+      "addedInformation": "The spectrum visually resets Mozart's origin from divine magic to deliberate engineering."
+    }
+  },
+  {
+    "i": 15,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "LABORIOUS DAILY REGIME",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "continue": null,
+    "explainedBy": "His father Leopold subjected him to a grueling, laborious training regime starting at age three.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Leopold Mozart forced a grueling training regime on his son starting at age three.",
+      "concreteVisual": "Mentor explaining the strict disciplined regimen beside a clock, as creator reacts with concern.",
+      "onScreenText": "LABORIOUS DAILY REGIME",
+      "relationToPrevious": "Unpacks the specific mechanism of how Mozart was manufactured.",
+      "addedInformation": "The clock highlights the exhausting daily hours demanded of a three-year-old."
+    }
+  },
+  {
+    "i": 16,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "COMPLETELY DERIVATIVE",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Mozart's early child works were completely derivative mashups of other composers' songs curated by his father.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mozart's early pieces were derivative mashups of other composers, curated by his father.",
+      "concreteVisual": "Creator examining sheet notes containing borrowed musical motifs from other composers.",
+      "onScreenText": "COMPLETELY DERIVATIVE",
+      "relationToPrevious": "Debunks the originality of the childhood concertos described earlier.",
+      "addedInformation": "The notes represent the derivative borrowed arrangements rather than fresh creations."
+    }
+  },
+  {
+    "i": 17,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "HEAVILY CURATED",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator",
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "neutral",
+    "partnerAction": "talk",
+    "continue": true,
+    "explainedBy": "Leopold heavily curated and shaped every arrangement rather than Mozart composing from scratch.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His father heavily curated and polished the music rather than Mozart writing alone.",
+      "concreteVisual": "Creator holding the sheet music while mentor explains the heavy fatherly intervention.",
+      "onScreenText": "HEAVILY CURATED",
+      "relationToPrevious": "Continues inspecting the collaborative, guided nature of the early childhood works.",
+      "addedInformation": "Shows that early success was actively managed by an experienced coach."
+    }
+  },
+  {
+    "i": 18,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "AGE SEVENTEEN",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Mozart's first genuinely original piano concerto did not occur until he was 17 years old.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His first truly original piano concerto did not happen until he was 17.",
+      "concreteVisual": "Creator reflecting beside a clock icon showing the long wait until age 17 for original output.",
+      "onScreenText": "AGE SEVENTEEN",
+      "relationToPrevious": "Reveals the true age of Mozart's first genuine original composition.",
+      "addedInformation": "The clock marks the delayed timeline of authentic original breakthrough."
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "DAILY PRACTICE",
+        "14 YEARS",
+        "ORIGINAL WORK"
+      ]
+    },
+    "callout": null,
+    "set": "workstation",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "He underwent 14 straight years of curated daily practice before producing wholly original work.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Fourteen years of intense curated daily practice preceded any original breakthrough.",
+      "concreteVisual": "A flow diagram mapping the progression: DAILY PRACTICE -> 14 YEARS -> ORIGINAL WORK.",
+      "onScreenText": "DAILY PRACTICE -> 14 YEARS -> ORIGINAL WORK",
+      "relationToPrevious": "Calculates the total deliberate practice investment leading up to age 17.",
+      "addedInformation": "Clarifies the true causal path behind creative mastery."
+    }
+  },
+  {
+    "i": 20,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "THE REAL ARCHIVES",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Actual handwritten drafts in historical archives reveal a completely different reality from the myth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Real archival drafts show the reality was completely different from the effortless myth.",
+      "concreteVisual": "Mentor presenting authentic archival music manuscripts from the library collection.",
+      "onScreenText": "THE REAL ARCHIVES",
+      "relationToPrevious": "Moves from the practice timeline to physical forensic evidence in Mozart's surviving manuscripts.",
+      "addedInformation": "Introduces physical archival evidence that directly contradicts the clean ink legend."
+    }
+  },
+  {
+    "i": 21,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "COVERED IN EDITS",
+      "style": "highlight"
+    },
+    "set": "library",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": true,
+    "explainedBy": "Rather than ink flowing effortlessly, the real drafts are covered in heavy edits and revisions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mozart's actual scores are covered in heavy edits, scratchouts, and corrections.",
+      "concreteVisual": "Mentor holding up the manuscript pages, pointing out dense revision marks and crossed-out bars.",
+      "onScreenText": "COVERED IN EDITS",
+      "relationToPrevious": "Shows the specific messy forensic details of the archival drafts from beat 20.",
+      "addedInformation": "Proves Mozart struggled and labored over every measure through tangible editing marks."
+    }
+  },
+  {
+    "i": 22,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "AGONIZING EDITING PROCESS",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Mozart had to invent his own shorthand just to accelerate his agonizing editing and revision process.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He invented personal shorthand to cope with his exhausting editing and revision process.",
+      "concreteVisual": "Creator looking tired and worried while reviewing messy drafts, embodying the editing agony.",
+      "onScreenText": "AGONIZING EDITING PROCESS",
+      "relationToPrevious": "Highlights the extreme mental exhaustion of the revision process.",
+      "addedInformation": "Connects the physical edits to the creator's intense personal cognitive strain."
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LABORIOUS AND EXHAUSTING",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator",
+      "mentor"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": "neutral",
+    "partnerAction": "talk",
+    "continue": true,
+    "explainedBy": "Mozart's letters to friends describe how laborious and exhausting his efforts actually were.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mozart wrote openly to friends about how exhausting and difficult his work really was.",
+      "concreteVisual": "Creator standing slumped in exhaustion while mentor articulates the historical quotes.",
+      "onScreenText": "LABORIOUS AND EXHAUSTING",
+      "relationToPrevious": "Quotes Mozart's genuine private correspondence confirming his exhaustion.",
+      "addedInformation": "Slump posture expresses the genuine physical and mental exhaustion Mozart documented."
+    }
+  },
+  {
+    "i": 24,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "CULT OF NATURAL GENIUS",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "collaborator"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "mask",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Modern society remains trapped in a toxic cult of natural genius that demands mystical inborn power.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We are trapped in a cult of natural genius believing you need innate mystical power.",
+      "concreteVisual": "Collaborator holding a false mask, warning against the trap of romantic genius beliefs.",
+      "onScreenText": "CULT OF NATURAL GENIUS",
+      "relationToPrevious": "Expands Mozart's lesson to modern society's widespread creative misconceptions.",
+      "addedInformation": "The mask represents the misleading persona of effortless innate genius society idolizes."
+    }
+  },
+  {
+    "i": 25,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A ROMANTIC LIE",
+      "style": "strike"
+    },
+    "set": "abstract",
+    "cast": [
+      "creator",
+      "collaborator"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "talk",
+    "continue": true,
+    "explainedBy": "The romantic lie paralyzes ordinary creators into believing they lack the gift, but this book dismantles it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The belief paralyzes people, but Gannett's argument dismantles this romantic lie entirely.",
+      "concreteVisual": "Creator slumped in defeat from feeling uncreative while collaborator calls out the falsehood.",
+      "onScreenText": "A ROMANTIC LIE (struck through)",
+      "relationToPrevious": "Directly confronts the paralyzing emotional cost of believing the prodigy myth.",
+      "addedInformation": "The struck callout and slumped posture display how the myth disables everyday creators."
+    }
+  },
+  {
+    "i": 26,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "THE CREATIVE CURVE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Allen Gannett's book explores the actual commercial mechanics of hit-making and creative breakthroughs.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Allen Gannett's work explores the actual mechanics of commercial creative breakthroughs.",
+      "concreteVisual": "Mentor presenting Allen Gannett's book, introducing the formal thesis of The Creative Curve.",
+      "onScreenText": "THE CREATIVE CURVE",
+      "relationToPrevious": "Transitions from debunking the myth to introducing the solution: Gannett's core model.",
+      "addedInformation": "Presents the foundational text that provides the structured alternative to the genius myth."
+    }
+  },
+  {
+    "i": 27,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "DIVINE INSPIRATION",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": true,
+    "explainedBy": "Commercial hits and massive breakthroughs do not depend on random lightning bolts of inspiration.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hits and breakthroughs do not survive on divine inspiration striking out of nowhere.",
+      "concreteVisual": "Mentor pointing away dismissively as the divine inspiration lightbulb concept is struck out.",
+      "onScreenText": "DIVINE INSPIRATION (struck through)",
+      "relationToPrevious": "Directly refutes the idea that hits come from sudden mystical lightning bolts.",
+      "addedInformation": "Striking the phrase visually severs commercial success from unpredictable inspiration."
+    }
+  },
+  {
+    "i": 28,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "PREDICTABLE",
+        "BELL CURVE",
+        "ADOPTION"
+      ]
+    },
+    "callout": null,
+    "set": "office",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Hits survive on a mathematically predictable bell curve of audience adoption.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Breakthroughs survive on a mathematically predictable bell curve of adoption.",
+      "concreteVisual": "A structured flow diagram showing: PREDICTABLE -> BELL CURVE -> ADOPTION.",
+      "onScreenText": "PREDICTABLE -> BELL CURVE -> ADOPTION",
+      "relationToPrevious": "Replaces the struck epiphany model with a mathematical adoption curve.",
+      "addedInformation": "Presents the scientific, predictable structure of cultural hit adoption."
+    }
+  },
+  {
+    "i": 29,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "NOVELTY",
+        "FAMILIARITY"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "set": "office",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "The curve peaks at the sweet spot where maximum novelty balances with maximum familiarity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The creative sweet spot exists where maximum novelty meets maximum familiarity.",
+      "concreteVisual": "A spectrum diagram balanced at the exact center between NOVELTY and FAMILIARITY.",
+      "onScreenText": "NOVELTY <---> FAMILIARITY",
+      "relationToPrevious": "Defines the exact two opposing forces that create the peak of the creative curve.",
+      "addedInformation": "The balanced spectrum visually captures the core formula of hit-making."
+    }
+  },
+  {
+    "i": 30,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "INTERVIEWING HITMAKERS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Gannett spent years interviewing top hitmakers across diverse creative industries to study their habits.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gannett interviewed and analyzed the people who manufacture hits across industries.",
+      "concreteVisual": "Mentor reviewing extensive case study notes from interviews with industry leaders.",
+      "onScreenText": "INTERVIEWING HITMAKERS",
+      "relationToPrevious": "Moves from the theoretical curve to empirical research across major commercial sectors.",
+      "addedInformation": "The notes represent the field interviews conducted with professional creators."
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FROM LABS TO NETFLIX",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "collaborator"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "laptop",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Case studies span from Ben & Jerry's food research labs to the Chief Content Officer of Netflix.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His analysis spans from food flavor labs to the chief content officer of Netflix.",
+      "concreteVisual": "Collaborator working on a laptop displaying multimedia streaming and consumer data.",
+      "onScreenText": "FROM LABS TO NETFLIX",
+      "relationToPrevious": "Cites specific corporate examples illustrating the universal scope of the curve.",
+      "addedInformation": "The laptop represents modern digital entertainment and tech product development."
+    }
+  },
+  {
+    "i": 32,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "THE REST OF US GET WRONG",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "think",
+    "continue": null,
+    "explainedBy": "These elite hitmakers understand an underlying creative truth that ordinary people completely misunderstand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Elite hitmakers grasp a fundamental truth about timing that most creators miss.",
+      "concreteVisual": "Mentor explaining the counterintuitive insight to an intrigued creator beside a lightbulb.",
+      "onScreenText": "THE REST OF US GET WRONG",
+      "relationToPrevious": "Sets up the key insight separating professional hit-makers from struggling amateurs.",
+      "addedInformation": "The lightbulb marks the critical insight about timing that resolves creative fear."
+    }
+  },
+  {
+    "i": 33,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "A SPECIFIC FEAR",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Any creator launching a startup, app, or novel faces a specific paralyzing fear of failure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Creators in tech, writing, or corporate work all face a terrifying specific fear.",
+      "concreteVisual": "Creator looking anxious while pointing at an uncertain target goal.",
+      "onScreenText": "A SPECIFIC FEAR",
+      "relationToPrevious": "Directs the discussion to the personal anxieties felt by everyday practitioners.",
+      "addedInformation": "The target icon represents the career goal creators fear missing."
+    }
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A BORING COPYCAT",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": true,
+    "explainedBy": "On one extreme, creators are terrified of being a boring copycat that everyone yawns at and ignores.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "On one extreme, you fear making something so familiar that people ignore it as a copycat.",
+      "concreteVisual": "Creator slumped in embarrassment, dreading being labeled an unoriginal copycat.",
+      "onScreenText": "A BORING COPYCAT",
+      "relationToPrevious": "Identifies the first dangerous extreme: excessive familiarity.",
+      "addedInformation": "Slump posture demonstrates the embarrassment of producing cliché, uninspired work."
+    }
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AVANTGARDE EXILE",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "creator"
+    ],
+    "expression": "afraid",
+    "action": "walk",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "On the other extreme, creators fear becoming an avant-garde exile whose radical novelty is completely rejected.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "On the opposite extreme, you fear being an avant-garde exile rejected by the mainstream.",
+      "concreteVisual": "Creator walking alone in an abstract void with an anxious look, cut off from the audience.",
+      "onScreenText": "AVANTGARDE EXILE",
+      "relationToPrevious": "Identifies the second dangerous extreme: excessive, incomprehensible novelty.",
+      "addedInformation": "Walking alone in the abstract set shows the isolation of radical creative exile."
+    }
+  },
+  {
+    "i": 36,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "REPEATABLE HABITS",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "compass",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "Four repeatable habits allow creators to navigate between those two cliffs and reach widespread success.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Repeatable habits provide navigation away from both cliffs to hit peak success.",
+      "concreteVisual": "Mentor holding a navigational compass, offering guidance between the two extremes.",
+      "onScreenText": "REPEATABLE HABITS",
+      "relationToPrevious": "Provides the steering solution to avoid both copycat boredom and avant-garde exile.",
+      "addedInformation": "The compass icon represents practical navigational methodology for creative timing."
+    }
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE DIVINE EPIPHANY",
+      "style": "strike"
+    },
+    "set": "abstract",
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "continue": null,
+    "explainedBy": "To master these habits, we must first completely exorcise the ghost of the divine epiphany.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "To learn the habits, we must banish the ghost of the divine epiphany once and for all.",
+      "concreteVisual": "Mentor explaining the necessity of clearing away creative illusions, with the phrase struck through.",
+      "onScreenText": "THE DIVINE EPIPHANY (struck through)",
+      "relationToPrevious": "Reiterates the philosophical obstacle that must be removed before learning the four laws.",
+      "addedInformation": "Striking the phrase reinforces the persistent theme of debunking supernatural inspiration."
+    }
+  },
+  {
+    "i": 38,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "A MAGICAL MOMENT",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "The hosts transition to examine another famous magical epiphany moment in pop music history.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Let's examine how a supposedly magical epiphany moment actually unfolded.",
+      "concreteVisual": "Mentor pointing cheerfully toward the lightbulb concept, introducing the next iconic story.",
+      "onScreenText": "A MAGICAL MOMENT",
+      "relationToPrevious": "Pivots from the Mozart debunking to an equally famous 20th-century pop songwriting legend.",
+      "addedInformation": "The lightbulb introduces the upcoming Paul McCartney dream composition case study."
+    }
+  },
+  {
+    "i": 39,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "CENTRAL LONDON",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": null,
+    "explainedBy": "The scene sets in central London during the classic mid-1960s British music era.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Setting the scene in central London in the classic mid-1960s era.",
+      "concreteVisual": "Creator introducing the London historical setting beside the standing city icon.",
+      "onScreenText": "CENTRAL LONDON",
+      "relationToPrevious": "Establishes the geographical location for Paul McCartney composing Yesterday.",
+      "addedInformation": "The city icon establishes the urban London backdrop for the upcoming Beatles narrative."
+    }
+  }
+]

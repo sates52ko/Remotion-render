@@ -1,0 +1,79 @@
+{
+  "slug": "the-creative-curve",
+  "engine": "antidote",
+  "at": "2026-11-04T07:19:34.420Z",
+  "write": true,
+  "written": true,
+  "problems": 0,
+  "byClass": {
+    "OPERATOR": 0,
+    "AGENT_STEP": 0,
+    "REAUTHOR": 0,
+    "ROUTINE": 0
+  },
+  "byCode": [],
+  "byFile": {},
+  "operatorNeeded": false,
+  "next": "merged — next: node scripts/preview-state.js status (it names the next step: readcheck for Antidote, make-book for Vox); routine, never end the turn",
+  "items": [],
+  "warnings": 3,
+  "review": [
+    {
+      "i": 73,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"GRUELING CLUB RESIDENCIES\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 75,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ENGINEERED HIS OWN SUBCONSCIOUS\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 111,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"Never 100% new\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 133,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"TOO EARLY IS WRONG\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 162,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"EARLY AMERICA\" shows \"early america\" before the narration says it (beat 163) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 215,
+      "code": "BODY_EVENT_STANDING",
+      "field": "action",
+      "why": "the narration says \"gets thrown\" but the staged body is \"hold\" (standing) — a literal fall is `falling`, down on the floor is `collapsed` (+ continue), a push puts `falling` on the one pushed; keep it standing only if the event is hypothetical or happens to someone not on screen",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 219,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"INSTINCTS ARE INHERENTLY BIASED\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 231,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"A HUGE RED FLAG\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    }
+  ],
+  "refused": {}
+}

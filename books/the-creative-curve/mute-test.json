@@ -1,0 +1,35 @@
+{
+  "runs": [
+    {
+      "label": "final",
+      "date": "2026-11-04T08:12:33.477Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 29,
+        "TEXT_ONLY": 9,
+        "ADDS": 21,
+        "EXPLAINS": 5,
+        "NEUTRAL": 1
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": true,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "42504360aaecf59219a711da813f809056376de919d713024ec5ae51330960cf",
+      "verdict": true,
+      "dead": 0,
+      "addsTargetMet": true,
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 70,
+      "configSha256": "0a1d6cb8c261ab3034fdfd955a3c55f26cb27517441da9525ccadc4143f1eac1",
+      "renderInputHash": "b9013f1358d26e2b",
+      "codeHead": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "framesConfigSha": "0a1d6cb8c261ab30"
+    }
+  ]
+}

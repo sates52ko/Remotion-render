@@ -1,0 +1,816 @@
+[
+  {
+    "i": 121,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Too Novel (Fear)",
+        "Too Familiar (Boredom)"
+      ],
+      "values": [
+        0.1,
+        0.9
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A spectrum showing early ideas failing from fear and confusion on the left while late ideas fail from cliche and boredom on the right.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Early ideas fail from fear and confusion, while late ideas fail from boredom on the downslope of cliche.",
+      "concreteVisual": "A spectrum continuum contrasting the failure zone of early panic on the left with late boredom on the right.",
+      "onScreenText": "Too Novel (Fear) vs Too Familiar (Boredom)",
+      "relationToPrevious": "Synthesizes the dual failure modes of the creative curve after the failed campus network case.",
+      "addedInformation": "Maps the two extremes of product failure onto the opposite edges of adoption."
+    }
+  },
+  {
+    "i": 122,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "90% FAMILIAR AND 10% NOVEL",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "explainedBy": "The creator identifies the exact sweet spot ratio: 90 percent familiar baseline with a 10 percent novel twist.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "To hit the sweet spot, an idea must balance 90% familiarity with a 10% twist of novelty.",
+      "concreteVisual": "The creator points decisively at the 90/10 sweet spot formula floating in the abstract studio landscape.",
+      "onScreenText": "90% FAMILIAR AND 10% NOVEL",
+      "relationToPrevious": "Defines the winning formula between the two extremes shown in the previous beat.",
+      "addedInformation": "Provides the exact numeric proportion required for mainstream hit adoption."
+    }
+  },
+  {
+    "i": 123,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ZUCKERBERG WITH FACEBOOK",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "explainedBy": "Introducing Mark Zuckerberg starting Facebook as the masterclass case study for hitting the exact sweet spot.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mark Zuckerberg executed a masterclass in this balance with Facebook for the same student audience.",
+      "concreteVisual": "A creator sits at a workstation reviewing the early Facebook case study.",
+      "onScreenText": "ZUCKERBERG WITH FACEBOOK",
+      "relationToPrevious": "Transitions from theoretical rule to concrete historical proof case.",
+      "addedInformation": "Frames early Facebook as the benchmark counter-example to Campus Network."
+    }
+  },
+  {
+    "i": 124,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SUPER SIMPLE START",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Explaining that early Facebook started radically simple rather than feature-dense.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Early Facebook started radically differently: almost boringly simple.",
+      "concreteVisual": "The creator gestures at the clean workstation display discussing the simple prototype.",
+      "onScreenText": "SUPER SIMPLE START",
+      "relationToPrevious": "Continues the Facebook sequence focusing on its minimalist starting state.",
+      "addedInformation": "Emphasizes intentional lack of complexity in the initial release."
+    }
+  },
+  {
+    "i": 125,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "DIGITAL STUDENT DIRECTORY",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Showing the physical college directory booklet that early Facebook literally copied into digital form.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Facebook was literally a digital translation of the physical paper face book directory already on dorm desks.",
+      "concreteVisual": "The creator holds the physical printed student face book directory at the desk beside the screen.",
+      "onScreenText": "DIGITAL STUDENT DIRECTORY",
+      "relationToPrevious": "Reveals the exact 90% familiar anchor object Zuckerberg copied.",
+      "addedInformation": "Shows that the core interface borrowed entirely from an already ubiquitous physical paper object."
+    }
+  },
+  {
+    "i": 126,
+    "concept": "photo",
+    "diagram": null,
+    "callout": {
+      "text": "PHOTO INFO AND POKE",
+      "style": "box"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Early Facebook had just a photo, basic bio info, and a poke button, making it massively familiar.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "With just a photo, basic bio, and a poke button, early Facebook felt inherently familiar to students.",
+      "concreteVisual": "The creator holds a simple profile photo card displaying the bare essentials of the v1 profile.",
+      "onScreenText": "PHOTO INFO AND POKE",
+      "relationToPrevious": "Breaks down the minimal feature set of the paper-to-digital translation.",
+      "addedInformation": "Highlights how little was invented beyond the familiar dorm directory."
+    }
+  },
+  {
+    "i": 127,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRICK IS TAKING AWAY",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator",
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Zuckerberg states that the real art of hit product design is subtraction rather than feature bloat.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Zuckerberg famously noted that the trick is not adding features, but taking them away.",
+      "concreteVisual": "The creator discusses product subtraction with the mentor in the workstation studio.",
+      "onScreenText": "TRICK IS TAKING AWAY",
+      "relationToPrevious": "Synthesizes the design philosophy behind Facebooks minimal launch.",
+      "addedInformation": "Inverts the standard tech assumption that more features create better products."
+    },
+    "holds": "book"
+  },
+  {
+    "i": 128,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "ANCHORED IN ABSOLUTE SAFETY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "shield",
+    "explainedBy": "Facebook anchored its early users in psychological safety before ever introducing novel features.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Facebook anchored users in absolute safety, introducing novel features like news feeds only years later.",
+      "concreteVisual": "The creator holds a protective shield in the studio symbolizing user safety and familiar comfort.",
+      "onScreenText": "ANCHORED IN ABSOLUTE SAFETY",
+      "relationToPrevious": "Explains why the minimal directory strategy succeeded where complex networks failed.",
+      "addedInformation": "Framing psychological familiarity as an essential shield against user avoidance."
+    }
+  },
+  {
+    "i": 129,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MERITOCRACY FALLS APART",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "collaborator",
+      "mentor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The collaborator objects that Campus Network had superior technology, challenging why the best tech did not win.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The collaborator questions the narrative, noting that the free-market meritocracy argument seems to fall apart.",
+      "concreteVisual": "The collaborator confronts the mentor with an uneasy worried look, questioning the outcome.",
+      "onScreenText": "MERITOCRACY FALLS APART",
+      "relationToPrevious": "Pushes back on the Facebook versus Campus Network conclusion.",
+      "addedInformation": "Voices the natural engineering instinct that superior features ought to win."
+    }
+  },
+  {
+    "i": 130,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OBJECTIVELY BETTER TECHNOLOGY",
+      "style": "box"
+    },
+    "set": "office",
+    "continue": true,
+    "cast": [
+      "collaborator",
+      "mentor"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Campus Network built the future first with features we use today, yet was completely ignored.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Campus Network had objectively better technology, built the future first, and had modern features.",
+      "concreteVisual": "The collaborator points forcefully at the competitor data while the mentor listens calmly.",
+      "onScreenText": "OBJECTIVELY BETTER TECHNOLOGY",
+      "relationToPrevious": "Lays out the collaborator evidence for the technological superiority of the rival.",
+      "addedInformation": "Highlights that Campus Network genuinely invented modern social tools ahead of Facebook."
+    }
+  },
+  {
+    "i": 131,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "ADVANCED PRODUCT WIN",
+      "style": "reveal"
+    },
+    "set": "office",
+    "continue": true,
+    "cast": [
+      "mentor",
+      "collaborator"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The mentor weighs the painful truth that in culture and markets, advanced features do not automatically win.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a tough pill to swallow for creators that the most advanced product does not automatically win.",
+      "concreteVisual": "The mentor holds the scales of balance, explaining market reality to the anxious collaborator.",
+      "onScreenText": "ADVANCED PRODUCT WIN",
+      "relationToPrevious": "Answers the collaborators objection with the economic and psychological reality.",
+      "addedInformation": "Contrasts technological sophistication with audience emotional adoption."
+    }
+  },
+  {
+    "i": 132,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TERRIFIES THE USER",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "A user recoils in fear from an interface that is too advanced, making superior technology irrelevant.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Superior technology is entirely irrelevant if the complexity terrifies the user.",
+      "concreteVisual": "A creator slumps with an afraid, overwhelmed expression in front of a frighteningly complex interface.",
+      "onScreenText": "TERRIFIES THE USER",
+      "relationToPrevious": "Delivers the verdict explaining why Campus Network failed.",
+      "addedInformation": "Demonstrates the visceral human reaction of fear when confronted with excessive novelty."
+    }
+  },
+  {
+    "i": 133,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOO EARLY IS WRONG",
+      "style": "strike"
+    },
+    "set": "abstract",
+    "cast": [
+      "creator"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "The harsh law of the creative curve: being too early is indistinguishable from being wrong.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The harsh truth of the creative curve is that being too early is indistinguishable from being wrong.",
+      "concreteVisual": "A creator stands motionless in a stark abstract landscape facing the unforgiving creative law.",
+      "onScreenText": "TOO EARLY IS WRONG",
+      "relationToPrevious": "Crystallizes the core lesson of the timing curve into an absolute rule.",
+      "addedInformation": "Equates premature innovation directly with operational failure."
+    }
+  },
+  {
+    "i": 134,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "AVOIDANCE OVERWHELMS",
+        "USERS BACK AWAY"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flow diagram showing how the avoidance reflex overwhelming approach forces users to back away.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When the avoidance reflex overwhelms the approach reflex, users inevitably back away.",
+      "concreteVisual": "A flow diagram tracing the neurological chain from dominant avoidance reflex to user retreat.",
+      "onScreenText": "AVOIDANCE OVERWHELMS -> USERS BACK AWAY",
+      "relationToPrevious": "Supplies the neurological mechanism that produces the too early failure.",
+      "addedInformation": "Links the behavioral abandonment directly to the evolutionary avoidance reflex."
+    }
+  },
+  {
+    "i": 135,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FEEL UNSAFE THEY LEAVE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "leave",
+    "actionCue": "leave",
+    "explainedBy": "The user turns and leaves the room because the experience feels unsafe, regardless of code elegance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No matter how elegant your code or profound your writing, if users feel unsafe, they leave.",
+      "concreteVisual": "The user turns and walks out of the room on the word leave as discomfort peaks.",
+      "onScreenText": "FEEL UNSAFE THEY LEAVE",
+      "relationToPrevious": "Stages the physical consequence of the avoidance reflex.",
+      "addedInformation": "Shows that technical beauty cannot compensate for an absence of felt emotional safety."
+    }
+  },
+  {
+    "i": 136,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "CONSUMPTION",
+        "IMITATION",
+        "CREATIVE COMM.",
+        "ITERATION"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A sorter diagram introducing Allen Gannett four repeatable habits for engineering creative success.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "To hit the sweet spot, Gannett breaks down how successful creators engineer success into four repeatable habits.",
+      "concreteVisual": "A sorter diagram displaying the four pillars: Consumption, Imitation, Creative Community, and Iteration.",
+      "onScreenText": "CONSUMPTION, IMITATION, CREATIVE COMM., ITERATION",
+      "relationToPrevious": "Transitions from the timing law into the actionable four-part framework.",
+      "addedInformation": "Maps out the systematic methodology for hitting the creative curve."
+    }
+  },
+  {
+    "i": 137,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "FIRST HABIT CONSUMPTION",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "take",
+    "holds": "book",
+    "actionCue": "consumption",
+    "explainedBy": "The creator takes a volume from the shelf to begin the foundational first habit of consumption.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The first habit and baseline is consumption, which looks very different from typical passive media consumption.",
+      "concreteVisual": "The creator reaches out and takes a book from the library shelf to begin deliberate study.",
+      "onScreenText": "FIRST HABIT CONSUMPTION",
+      "relationToPrevious": "Zooms into the first bucket of the four-part sorter.",
+      "addedInformation": "Contrasts deliberate craft intake with everyday passive entertainment."
+    }
+  },
+  {
+    "i": 138,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "VIDEO STORE IN THE LATE 1980S",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Establishing the late 1980s video rental store setting filled with VHS tapes and CRT televisions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Setting the scene in a video rental store in the late 1980s with rows of plastic VHS cases and humming CRT TVs.",
+      "concreteVisual": "A young clerk in the video rental store among rows of tapes and glowing television monitors.",
+      "onScreenText": "VIDEO STORE IN THE LATE 1980S",
+      "relationToPrevious": "Opens the vivid historical case study illustrating deliberate consumption.",
+      "addedInformation": "Establishes the physical environment of 1980s video retail culture."
+    }
+  },
+  {
+    "i": 139,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TED SARANDOS CLERK",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "Young college dropout Ted Sarandos sits behind the video store counter, doing far more than clerking.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Young college dropout Ted Sarandos sits behind the counter, not just waiting for his shift to end.",
+      "concreteVisual": "Ted Sarandos seated behind the store counter observing the tapes with intense focus.",
+      "onScreenText": "TED SARANDOS CLERK",
+      "relationToPrevious": "Introduces the central figure of the video store narrative.",
+      "addedInformation": "Frames the humble beginnings of the future Netflix executive."
+    }
+  },
+  {
+    "i": 140,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "FOUR HOURS A DAY DEVOURING MOVIES",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "Sarandos spends three to four hours every single day systematically watching every movie in the store.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sarandos spends three to four hours every single day devouring every movie in the store.",
+      "concreteVisual": "Ted sits behind the desk with a clock indicating the massive 4-hour daily investment.",
+      "onScreenText": "FOUR HOURS A DAY DEVOURING MOVIES",
+      "relationToPrevious": "Quantifies the daily volume of his cinematic consumption.",
+      "addedInformation": "Demonstrates the sheer time discipline behind his consumption habit."
+    }
+  },
+  {
+    "i": 141,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "ENCYCLOPEDIC MENTAL LIBRARY",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Sarandos builds an encyclopedic mental archive, studying pacing, character arcs, and narrative tension.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He systematically builds a mental library of cinema, noting pacing, arcs, and genre resolutions.",
+      "concreteVisual": "Ted studies written notes while seated at the counter, cataloging narrative mechanics.",
+      "onScreenText": "ENCYCLOPEDIC MENTAL LIBRARY",
+      "relationToPrevious": "Reveals the analytical method underlying his movie watching.",
+      "addedInformation": "Shows that his watching was active reverse-engineering rather than passive consumption."
+    }
+  },
+  {
+    "i": 142,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "BRAIN WITH EXEMPLARS",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "explainedBy": "Neurologically, Sarandos was loading his brain with exemplars to build intuitive pattern recognition.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In neurological terms, he was loading his brain with exemplars to intuitively recognize successful patterns.",
+      "concreteVisual": "The creator in an abstract mental space reflecting beside an illuminated lightbulb of exemplar patterns.",
+      "onScreenText": "BRAIN WITH EXEMPLARS",
+      "relationToPrevious": "Connects the video store habit to cognitive neuroscience theory.",
+      "addedInformation": "Explains how broad domain exposure wires the brain for automatic pattern recognition."
+    }
+  },
+  {
+    "i": 143,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Living Eighty Percent",
+        "Intake Twenty Percent"
+      ],
+      "values": [
+        0.8,
+        0.2
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A spectrum diagram illustrating the 20 percent rule: dedicating one fifth of waking hours to raw domain intake.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Top innovators dedicate roughly 20% of their waking hours to raw, focused domain intake.",
+      "concreteVisual": "A spectrum partition dividing waking life into ordinary routine and the 20% dedicated consumption zone.",
+      "onScreenText": "Daily Living (80%) vs Raw Domain Intake (20%)",
+      "relationToPrevious": "Formulates the general rule derived from Sarandos and top creators.",
+      "addedInformation": "Gives the benchmark mathematical proportion of creative input to output."
+    }
+  },
+  {
+    "i": 144,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "KNOW THE 90% BASELINE",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "compass",
+    "explainedBy": "You cannot add a 10 percent novelty twist without knowing the 90 percent familiarity baseline of your audience.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You cannot add a 10% twist without intimately knowing what the 90% familiarity baseline is for your audience.",
+      "concreteVisual": "The creator holds a navigational compass to map the audience familiarity territory.",
+      "onScreenText": "KNOW THE 90% BASELINE",
+      "relationToPrevious": "Ties the 20% consumption rule back to the 90/10 sweet spot formula.",
+      "addedInformation": "Clarifies that consumption is necessary to accurately locate cultural conventions."
+    }
+  },
+  {
+    "i": 145,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CO-CEO OF NETFLIX",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "explainedBy": "Showing the ultimate career payoff of the 20 percent rule: Ted Sarandos rising to Co-CEO of Netflix.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The payoff of that 20% rule is visible in Sarandos today as Co-CEO and chief content officer of Netflix.",
+      "concreteVisual": "A confident executive mentor in a sleek studio office pointing to the Netflix corporate achievement.",
+      "onScreenText": "CO-CEO OF NETFLIX",
+      "relationToPrevious": "Jumps forward from the 1980s video counter to global media leadership today.",
+      "addedInformation": "Demonstrates the compounding long-term career value of the consumption habit."
+    }
+  },
+  {
+    "i": 146,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "GLOBAL CULTURE HITS",
+      "style": "reveal"
+    },
+    "set": "stage",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "trophy",
+    "explainedBy": "Sarandos greenlit global culture-defining hits including Stranger Things, Orange is the New Black, and Squid Game.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He greenlit massive global hits like Stranger Things, Orange is the New Black, and Squid Game.",
+      "concreteVisual": "The mentor stands on a premier spotlighted stage holding a trophy celebrating global cultural triumphs.",
+      "onScreenText": "GLOBAL CULTURE HITS",
+      "relationToPrevious": "Names the specific blockbuster creative bets generated by his curated intuition.",
+      "addedInformation": "Pins down the undeniable cultural impact of his greenlighting decisions."
+    }
+  },
+  {
+    "i": 147,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HUMAN RECOMMENDATION ALGORITHM",
+      "style": "box"
+    },
+    "set": "stage",
+    "continue": true,
+    "cast": [
+      "mentor",
+      "creator"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Sarandos jokes that he acted as a human recommendation algorithm decades before Netflix built automated ones.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sarandos frequently jokes that he acted as a human recommendation algorithm decades before Netflix coded one.",
+      "concreteVisual": "The mentor speaks with a knowing smirk to the attentive creator on the stage set.",
+      "onScreenText": "HUMAN RECOMMENDATION ALGORITHM",
+      "relationToPrevious": "Underlines how human consumption preceded digital algorithmic prediction.",
+      "addedInformation": "Validates that deep human domain immersion outperforms raw mechanical data early on."
+    },
+    "holds": "trophy"
+  },
+  {
+    "i": 148,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CURVE OF ADOPTION",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Evaluating a script pitch across his desk using the mental database built behind the video counter.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When a pitch crosses his desk, he uses his video store mental database to locate where it sits on the curve.",
+      "concreteVisual": "The executive mentor holds project notes in his modern office, assessing its adoption trajectory.",
+      "onScreenText": "CURVE OF ADOPTION",
+      "relationToPrevious": "Shows the real-time executive application of his historical mental library.",
+      "addedInformation": "Illustrates the actual decision moment when a pitch is measured against the curve."
+    }
+  },
+  {
+    "i": 149,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "JUST NOVEL ENOUGH",
+      "style": "reveal"
+    },
+    "set": "office",
+    "continue": true,
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Sarandos instinctively gauges whether a pitch is clichéd or hits the sweet spot of being just novel enough.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He knows instinctively if a pitch is too familiar or just novel enough across every creative medium.",
+      "concreteVisual": "The mentor holds the bullseye target at the desk, confirming the concept hits the novel sweet spot.",
+      "onScreenText": "JUST NOVEL ENOUGH",
+      "relationToPrevious": "Pinpoints the precise creative judgment that separates hits from misses.",
+      "addedInformation": "Shows the successful alignment between the pitch and the sweet spot."
+    }
+  },
+  {
+    "i": 150,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "YOUTUBER CONNOR FRANTA",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "Introducing Connor Franta as proof that the 20 percent consumption habit applies to modern digital creators too.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Allen Gannett points to YouTuber Connor Franta to prove this rule applies across new digital platforms too.",
+      "concreteVisual": "A young creator in a digital studio setup discussing Connor Franta online breakout.",
+      "onScreenText": "YOUTUBER CONNOR FRANTA",
+      "relationToPrevious": "Expands the 20% consumption principle from Hollywood to digital creators.",
+      "addedInformation": "Demonstrates cross-medium validity of the creative curve principles."
+    }
+  },
+  {
+    "i": 151,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "5 MILLION SUBSCRIBERS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "Franta achieved astronomical success with over 5 million subscribers following intense prep work.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Franta built an audience of over 5 million subscribers and achieved astronomical view counts.",
+      "concreteVisual": "The creator celebrates at the workstation acknowledging the massive 5-million subscriber milestone.",
+      "onScreenText": "5 MILLION SUBSCRIBERS",
+      "relationToPrevious": "Quantifies the scale of success achieved on the video platform.",
+      "addedInformation": "Establishes the payoff before revealing the years of consumption that enabled it."
+    }
+  },
+  {
+    "i": 152,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "JUMP CUT PACING",
+        "CONVERSATIONAL",
+        "INTIMATE TONE"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A sorter diagram breaking down what Franta absorbed during his 20 percent: jump cuts, conversational editing, and intimate tone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Before ever posting, he spent years absorbing jump cuts, conversational editing, and native platform intimacy.",
+      "concreteVisual": "A sorter diagram organizing the three native conventions of YouTube editing absorbed during his 20% study.",
+      "onScreenText": "JUMP CUT PACING, CONVERSATIONAL, INTIMATE TONE",
+      "relationToPrevious": "Reveals the exact craft elements absorbed through disciplined consumption.",
+      "addedInformation": "Specifies the native stylistic grammar that separated his videos from amateur uploads."
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "policy": "baseline",
+  "promptSha256": "323c8aee3a27a8cc5b3bca033c45ebeaac9abd7d49781c6d2a90b39cb0b2a9e5",
+  "codeSha": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+  "code": {
+    "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+    "dirty": 1,
+    "treeSha256": "ce6b707aa0ebeb87a90f44452c0d5ed5925ac722baa23d60165f668598ca0ef9",
+    "changed": [
+      "src/books.generated.ts"
+    ],
+    "untracked": []
+  },
+  "engine": "antidote",
+  "beatSource": "plan-antidote (VTT)",
+  "model": "unrecorded",
+  "generation": {
+    "chunk": 40,
+    "mode": "claude-authored"
+  },
+  "recordedAt": "2026-11-04T07:19:16.164Z"
+}

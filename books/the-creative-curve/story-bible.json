@@ -1,0 +1,245 @@
+{
+  "slug": "the-creative-curve",
+  "world": {
+    "era": "contemporary",
+    "eraEvidence": "modern creative process and hit-making in business, pop culture, and technology with historical case studies",
+    "worldId": "modern-creative-studio",
+    "approxYear": 2018,
+    "setting": "modern creative workspaces, studios, labs, and abstract mental landscapes",
+    "register": "thoughtful, analytical, commercial, inspiring",
+    "forbid": []
+  },
+  "visualProvenance": {
+    "bookId": "the-creative-curve",
+    "worldId": "modern-creative-studio",
+    "allowedMotifs": [
+      "bellCurve",
+      "consumptionCycle",
+      "creativeTeam",
+      "iterationLoop",
+      "mask",
+      "trophy",
+      "notes",
+      "clock",
+      "coin",
+      "book",
+      "lightbulb",
+      "laptop",
+      "target",
+      "compass",
+      "city",
+      "road",
+      "magnifier",
+      "balance",
+      "photo",
+      "food",
+      "shield",
+      "key",
+      "phone",
+      "smartphone",
+      "law",
+      "home",
+      "cup",
+      "ledge",
+      "crash",
+      "boulder",
+      "tree"
+    ],
+    "forbiddenMotifs": [],
+    "allowedCharacters": [
+      "creator",
+      "mentor",
+      "collaborator"
+    ],
+    "allowedLocations": [
+      "workstation",
+      "room",
+      "office",
+      "cafe",
+      "stage",
+      "library",
+      "abstract"
+    ],
+    "allowedProps": [
+      "notes",
+      "lightbulb",
+      "laptopMockup",
+      "book",
+      "balance",
+      "target",
+      "compass",
+      "mask",
+      "trophy",
+      "clock",
+      "coin",
+      "laptop",
+      "city",
+      "road",
+      "magnifier",
+      "photo",
+      "food",
+      "shield",
+      "key",
+      "phone",
+      "smartphone",
+      "law",
+      "home",
+      "cup",
+      "ledge",
+      "crash",
+      "boulder",
+      "tree"
+    ]
+  },
+  "signatureObjects": [],
+  "cast": {
+    "creator": {
+      "name": "Everyman Creator",
+      "role": "Modern creator, entrepreneur, and artist seeking the timing sweet spot",
+      "look": "A focused 30-year-old creative with rolled-up sleeves, dark denim, and determined eyes in a studio environment.",
+      "variant": {
+        "gender": "m",
+        "age": "young",
+        "outfit": "casual",
+        "suit": "#2B4C7E",
+        "hair": "#2C1D11",
+        "hairStyle": "short",
+        "height": 1,
+        "build": "average",
+        "headScale": 1
+      },
+      "mentions": 120
+    },
+    "mentor": {
+      "name": "Master Teacher",
+      "role": "Experienced guide, master teacher, and seasoned promoter providing craft constraints and feedback",
+      "look": "A poised 55-year-old mentor with silver-streaked hair, sharp tailored blazer, and an observant expression.",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "outfit": "suit",
+        "suit": "#3D3D3D",
+        "hair": "#8C8C8C",
+        "hairStyle": "short",
+        "height": 1.05,
+        "build": "average",
+        "headScale": 1
+      },
+      "mentions": 45
+    },
+    "collaborator": {
+      "name": "Confidant & Muse",
+      "role": "Peer partner, confidant, and challenger pushing iteration and honest feedback",
+      "look": "An energetic 28-year-old collaborator with glasses, casual sweater, holding sketchpads and data charts.",
+      "variant": {
+        "gender": "f",
+        "age": "young",
+        "outfit": "hoodie",
+        "suit": "#964B3B",
+        "hair": "#4A2E1B",
+        "hairStyle": "curly",
+        "height": 0.98,
+        "build": "average",
+        "headScale": 1
+      },
+      "mentions": 35
+    }
+  },
+  "places": {
+    "workstation": {
+      "set": "workstation",
+      "look": "A minimalist creative desk with sketchbooks, digital displays, and raw project drafts.",
+      "mentions": 25
+    },
+    "abstract": {
+      "set": "abstract",
+      "look": "A conceptual landscape displaying the bell-shaped creative curve and tension between novelty and familiarity.",
+      "mentions": 30
+    },
+    "library": {
+      "set": "library",
+      "look": "An extensive research archive and mental library filled with historical manuscripts and source inspirations.",
+      "mentions": 12
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "A vibrant public coffee house where trends, collective taste, and casual conversations spark ideas.",
+      "mentions": 10
+    },
+    "office": {
+      "set": "office",
+      "look": "A clean modern collaborative studio with whiteboards, iteration cycles, and audience feedback boards.",
+      "mentions": 15
+    },
+    "stage": {
+      "set": "stage",
+      "look": "A focused spotlighted stage representing commercial debut, public launch, and cultural adoption.",
+      "mentions": 8
+    }
+  },
+  "objects": [
+    {
+      "concept": "lightbulb",
+      "mentions": 19,
+      "why": "Represents the myth of sudden epiphany versus engineered insight."
+    },
+    {
+      "concept": "notes",
+      "mentions": 13,
+      "why": "Represents the 20% consumption rule, structured sketches, and written formulas."
+    },
+    {
+      "concept": "laptopMockup",
+      "mentions": 11,
+      "why": "Represents modern digital tools, rapid iteration, and prototyping."
+    },
+    {
+      "concept": "balance",
+      "mentions": 9,
+      "why": "Represents the delicate 90/10 equilibrium between familiar security and novel excitement."
+    },
+    {
+      "concept": "target",
+      "mentions": 8,
+      "why": "Represents finding the exact peak sweet spot of the Creative Curve."
+    },
+    {
+      "concept": "book",
+      "mentions": 8,
+      "why": "Represents established cultural canons, formulas, and deep study."
+    },
+    {
+      "concept": "compass",
+      "mentions": 7,
+      "why": "Represents navigating creative risk and avoiding the downslope of fatigue."
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 5,
+      "claim": "Shattering the myth of divine inspiration by examining how historical hits like Mozart were meticulously engineered."
+    },
+    {
+      "act": "development",
+      "fromFrame": 16212,
+      "claim": "Unpacking the Creative Curve: the biological conflict between neophilia and neophobia that defines cultural taste."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 32196,
+      "claim": "The Four Laws in practice: consumption (20% rule), imitation of proven structures, and creative network dynamics."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 47033,
+      "claim": "Testing ideas via rapid iteration and data feedback loops to prevent falling into the downslope of creative cliché."
+    },
+    {
+      "act": "close",
+      "fromFrame": 63002,
+      "claim": "Creativity is an accessible, disciplined craft of timing and soil cultivation, not a rare lightning strike."
+    }
+  ],
+  "authored": true
+}

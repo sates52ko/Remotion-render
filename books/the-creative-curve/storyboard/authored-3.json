@@ -1,0 +1,950 @@
+[
+  {
+    "i": 83,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Flashing midbrain",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "Event: Lead neuroscientist Emmer Duzelle watches the lab monitors as the subjects' midbrain flashes with activation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Lead neuroscientist Emmer Duzelle observes the subjects' midbrain light up remarkably on the monitors.",
+      "concreteVisual": "Neuroscientist pointing at active laboratory monitors showing the flashing midbrain.",
+      "onScreenText": "Flashing midbrain",
+      "relationToPrevious": "Direct continuation of the hospital fMRI experiment from beat 82.",
+      "addedInformation": "Highlights the sudden neurological burst observed on the monitor."
+    }
+  },
+  {
+    "i": 84,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Flooding with dopamine",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Mechanism: The brain floods with dopamine at the exact millisecond novel images are processed, challenging the pop-psychology pleasure chemical trope.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The brain floods with dopamine upon novel images, though pop psychology mislabels it as pure pleasure.",
+      "concreteVisual": "Scientist at workstation explaining the biological flood of dopamine.",
+      "onScreenText": "Flooding with dopamine",
+      "relationToPrevious": "Explains the chemical surge behind the flashing monitors in beat 83.",
+      "addedInformation": "Specifies that dopamine release happens at the millisecond novel images appear."
+    }
+  },
+  {
+    "i": 85,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Motivation to act",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Comparison: Dopamine is not merely a pleasure response; it is the active motivation signal to seek and explore.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Duzelle's distinction clarifies that dopamine is the motivation to explore rather than passive pleasure.",
+      "concreteVisual": "Scientist pointing emphatically at data charts showing dopamine driving motivation.",
+      "onScreenText": "Motivation to act",
+      "relationToPrevious": "Corrects the pop-psychology trope from beat 84 to reveal true function.",
+      "addedInformation": "Clarifies dopamine as the active driver behind approaching novelty."
+    }
+  },
+  {
+    "i": 86,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Novel stimulus",
+        "Motor signal",
+        "Approach & learn"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Cause -> effect: Novel stimulus triggers a motor signal that compels physical approach to explore.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dopamine signals the motor system to approach and learn about novel stimuli.",
+      "concreteVisual": "A flow diagram mapping the motor circuit: Novel stimulus -> Motor signal -> Approach & learn.",
+      "onScreenText": "Novel stimulus -> Motor signal -> Approach & learn",
+      "relationToPrevious": "Formalizes the biological motor mechanism described in beats 84-85.",
+      "addedInformation": "Explicitly outlines the physiological chain linking novelty to motor pursuit."
+    }
+  },
+  {
+    "i": 87,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Neophilia: New",
+        "Neophobia: Fear"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Comparison: Human biology is driven by two competing appetites — neophilia (desire for the new) and neophobia (fear of the unknown).",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Biology dictates two violently competing appetites: neophilia for the new and neophobia for safety.",
+      "concreteVisual": "A sorter diagram displaying the two competing forces: Neophilia: New and Neophobia: Fear.",
+      "onScreenText": "Neophilia: New | Neophobia: Fear",
+      "relationToPrevious": "Transitions from individual neurology to the dual evolutionary framework.",
+      "addedInformation": "Categorizes the two opposing biological drives into distinct evolutionary categories."
+    }
+  },
+  {
+    "i": 88,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "A novelty bonus",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "surprised",
+    "action": "walk",
+    "holds": "compass",
+    "explainedBy": "Event: An ancient cave dweller steps over a ridge, compelled toward an unexplored valley by a biological novelty bonus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A prehistoric explorer walking over a ridge is motivated by a neurological novelty bonus.",
+      "concreteVisual": "Creator with a compass walking forward in search of unexplored territory.",
+      "onScreenText": "A novelty bonus",
+      "relationToPrevious": "Illustrates the neophilia branch introduced in beat 87 through an evolutionary scenario.",
+      "addedInformation": "Embodies the evolutionary urge to step toward uncharted horizons."
+    }
+  },
+  {
+    "i": 89,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "A survival source",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "explainedBy": "Mechanism: The exploratory drive offered survival payoffs — fresh water, shelter, and new food sources.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Exploring unfamiliar valleys provides critical survival advantages like new food and shelter.",
+      "concreteVisual": "Creator discovering a food icon representing vital survival resources.",
+      "onScreenText": "A survival source",
+      "relationToPrevious": "Shows the survival payoff that rewarded the cave dweller's venture in beat 88.",
+      "addedInformation": "Identifies the tangible resources that made novelty an evolutionary imperative."
+    }
+  },
+  {
+    "i": 90,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Fear of the unknown",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "shield",
+    "explainedBy": "Relationship: The counter-force of neophobia awakens caution against lethal unknowns such as poisonous berries or dark caves.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neophobia emerges as an opposing evolutionary fear because the unknown carries deadly risks.",
+      "concreteVisual": "Creator raising a protective shield defensively against unfamiliar hazards.",
+      "onScreenText": "Fear of the unknown",
+      "relationToPrevious": "Shifts to the opposite biological pole: the danger of unchecked exploration.",
+      "addedInformation": "Depicts defense against potential environmental predators and toxins."
+    }
+  },
+  {
+    "i": 91,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A braking system",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": "shield",
+    "explainedBy": "Mechanism: Neophobia functions as a biological braking system preventing organisms from reckless fatal encounters.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neophobia is the subconscious braking system that keeps human beings alive.",
+      "concreteVisual": "Creator halted in tracks, holding shield, representing the braking mechanism.",
+      "onScreenText": "A braking system",
+      "relationToPrevious": "Continues from beat 90, defining fear as an active protective restraint.",
+      "addedInformation": "Frames hesitation not as weakness, but as an essential survival brake."
+    }
+  },
+  {
+    "i": 92,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "Biological tug-of-war",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "creator",
+      "collaborator"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "worried",
+    "partnerAction": "reach",
+    "explainedBy": "Comparison: Subconscious decision-making constantly balances the urge to explore against the fear of danger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Humans constantly toggle in a biological tug-of-war between exploration desire and survival fear.",
+      "concreteVisual": "Two figures reaching toward a balancing scale icon, illustrating the opposing urges.",
+      "onScreenText": "Biological tug-of-war",
+      "relationToPrevious": "Synthesizes neophilia and neophobia into a single internal balance.",
+      "addedInformation": "Visualizes the dual forces tugging human choices in opposite directions."
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A music exposure study",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "explainedBy": "Event: Allen Gannett highlights Professor Glenn Schellenberg's music lab experiment testing repetition and preference.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Professor Glenn Schellenberg's music exposure study demonstrates how these competing appetites shape cultural trends.",
+      "concreteVisual": "Mentor presenting the experimental research study from the university lab.",
+      "onScreenText": "A music exposure study",
+      "relationToPrevious": "Transitions from prehistoric evolutionary theory to modern psychological lab proof.",
+      "addedInformation": "Introduces empirical music research demonstrating cultural adoption."
+    }
+  },
+  {
+    "i": 94,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "The exact same song",
+      "style": "reveal"
+    },
+    "set": "office",
+    "continue": true,
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Event: Students listened to the exact same musical song repeatedly over an extended testing timeline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Students in Schellenberg's lab listened to the exact same song repeatedly over a long duration.",
+      "concreteVisual": "Mentor holding music experiment score notes, demonstrating repeated listens.",
+      "onScreenText": "The exact same song",
+      "relationToPrevious": "Specifies the exact procedure of Schellenberg's music study from beat 93.",
+      "addedInformation": "Highlights the repetitive nature of the audio exposure trial."
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Pure neophilia",
+        "Rapid boredom",
+        "Liking decreased"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Cause -> effect: If human taste were governed solely by neophilia, every repeated listen would trigger boredom and diminished liking.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Under pure neophilia, listeners would dislike the song more with every play due to vanished novelty.",
+      "concreteVisual": "A flow diagram illustrating the first hypothetical outcome: Pure neophilia -> Rapid boredom -> Liking decreased.",
+      "onScreenText": "Pure neophilia -> Rapid boredom -> Liking decreased",
+      "relationToPrevious": "Tests the first extreme hypothesis using the listening study.",
+      "addedInformation": "Models the theoretical collapse of interest if novelty were the only drive."
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Pure neophobia",
+        "Growing safety",
+        "Liking increased"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Cause -> effect: If governed solely by neophobia, each repetition would feel safer and drive endless increases in liking.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Under pure neophobia, listeners would like the song more endlessly as it becomes safer and recognizable.",
+      "concreteVisual": "A flow diagram showing the opposite extreme: Pure neophobia -> Growing safety -> Liking increased.",
+      "onScreenText": "Pure neophobia -> Growing safety -> Liking increased",
+      "relationToPrevious": "Contrasts beat 95 by testing the opposite extreme hypothesis.",
+      "addedInformation": "Models endless preference growth under safety-seeking alone."
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Low exposure",
+        "Peak preference"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Comparison: Neither extreme occurred; instead listener preference followed a bell curve rising to an optimum before declining.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Actual listener responses formed a mathematical bell curve balancing novelty and familiarity.",
+      "concreteVisual": "A spectrum diagram tracking listener preference from low exposure to peak preference.",
+      "onScreenText": "Low exposure | Peak preference",
+      "relationToPrevious": "Rejects both extreme models of beats 95-96 in favor of the real bell curve.",
+      "addedInformation": "Shows the mathematical shape formed by the interaction of both drives."
+    }
+  },
+  {
+    "i": 98,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Liking increased steadily",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "Event: Between the second and eighth listen, listener appreciation for the song climbed steadily.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "From listen two to eight, self-reported song preference increased steadily.",
+      "concreteVisual": "Creator at audio workstation gesturing upward at rising approval marks.",
+      "onScreenText": "Liking increased steadily",
+      "relationToPrevious": "Traces the upward trajectory on the front half of the bell curve.",
+      "addedInformation": "Quantifies the initial ascent of audience appreciation over repeated plays."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Familiarity grows",
+        "Fear suppressed",
+        "Novelty active"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Mechanism: Familiarity suppressed neophobia while dopamine-driven novelty remained active, yielding peak enjoyment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Familiarity suppresses fear while dopamine novelty bonuses persist, giving listeners the best of both.",
+      "concreteVisual": "A flow diagram mapping the dual neurological state: Familiarity grows -> Fear suppressed -> Novelty active.",
+      "onScreenText": "Familiarity grows -> Fear suppressed -> Novelty active",
+      "relationToPrevious": "Explains the biological mechanism driving the rise documented in beat 98.",
+      "addedInformation": "Reveals the sweet-spot harmony where safety and curiosity coincide."
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The novelty bonus decayed",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Event: After the eighth listen through the thirty-second listen, song liking steadily degraded as novelty vanished.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Past the eighth listen, liking dropped as the novelty bonus decayed and overexposure set in.",
+      "concreteVisual": "Creator slumping with fatigue in front of workstation monitors.",
+      "onScreenText": "The novelty bonus decayed",
+      "relationToPrevious": "Documents the downward slope of the bell curve following the peak.",
+      "addedInformation": "Shows the onset of sensory boredom after repeated overexposure."
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Left with the mundane",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "blank",
+    "action": "talk",
+    "explainedBy": "Comparison: With dopamine exhausted, listeners were left with flat, mundane over-familiarity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "With dopamine depleted, audience perception turns to mundane boredom.",
+      "concreteVisual": "Creator seated with a blank expression, uninspired by the stale song.",
+      "onScreenText": "Left with the mundane",
+      "relationToPrevious": "Consolidates the conclusion of the music study from beat 100.",
+      "addedInformation": "Highlights the emotional numbness that replaces faded novelty."
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Camping out in tents",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "collaborator"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "explainedBy": "Event: Host asks how intense fear of the unknown squares with people camping on sidewalks for days for new gadgets.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Host questions why consumers camp on sidewalks for cutting-edge products if humans fear novelty.",
+      "concreteVisual": "Collaborator raising an inquisitive objection about consumer mania for new releases.",
+      "onScreenText": "Camping out in tents",
+      "relationToPrevious": "Presents a challenging counterexample against the neophobia principle.",
+      "addedInformation": "Cites real-world retail frenzy as an apparent contradiction to risk aversion."
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Radically new fashion",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "collaborator"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "Comparison: Runway fashion in Paris showcases bizarre, extreme garments looking nothing like everyday clothes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Avant-garde Paris runway trends appear radically foreign to everyday clothing.",
+      "concreteVisual": "Collaborator pointing to images of bizarre avant-garde runway designs.",
+      "onScreenText": "Radically new fashion",
+      "relationToPrevious": "Adds a second striking counterexample of extreme novelty.",
+      "addedInformation": "Directs focus to high fashion's seemingly pure pursuit of shock value."
+    }
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "An illusion of novelty",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "mentor",
+      "collaborator"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "Comparison: The appearance of pure novelty in radical fashion and tech is merely an illusion to human perception.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The perception of radical pure novelty in hits is an illusion.",
+      "concreteVisual": "Mentor revealing to the surprised collaborator that pure novelty is an illusion.",
+      "onScreenText": "An illusion of novelty",
+      "relationToPrevious": "Rebuts the counterexamples proposed in beats 102-103.",
+      "addedInformation": "Prepares the explanation of subconscious familiarity underlying modern trends."
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Brain processing centers",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Mechanism: The brain's processing centers decode avant-garde items using recognized underlying patterns.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neurologically, avant-garde items are not nearly as radical as they appear on the surface.",
+      "concreteVisual": "Mentor pointing to schematic brain processing maps.",
+      "onScreenText": "Brain processing centers",
+      "relationToPrevious": "Explains why the brain does not reject the trends mentioned in beat 104.",
+      "addedInformation": "Points to cognitive pattern recognition operating beneath surface shock."
+    }
+  },
+  {
+    "i": 106,
+    "concept": "key",
+    "diagram": null,
+    "callout": {
+      "text": "A hidden anchor",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "key",
+    "explainedBy": "Mechanism: Successful innovations always possess a hidden anchor in the familiar that unlocks public adoption.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Even the most avant-garde trends maintain a hidden anchor in familiar patterns.",
+      "concreteVisual": "Mentor holding up a key icon representing the hidden familiar anchor.",
+      "onScreenText": "A hidden anchor",
+      "relationToPrevious": "Introduces the core concept resolving the novelty contradiction.",
+      "addedInformation": "Identifies familiarity as the essential key unlocking public acceptance."
+    }
+  },
+  {
+    "i": 107,
+    "concept": "phone",
+    "diagram": null,
+    "callout": {
+      "text": "A revolutionary smartphone",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "smartphone",
+    "explainedBy": "Event: Consider a revolutionary new smartphone packed with radical hardware changes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A revolutionary smartphone represents the intersection of radical hardware and familiar interface.",
+      "concreteVisual": "Creator holding a modern smartphone in hand.",
+      "onScreenText": "A revolutionary smartphone",
+      "relationToPrevious": "Provides a tangible consumer tech example of the hidden anchor principle.",
+      "addedInformation": "Grounds the theoretical anchor in an iconic contemporary device."
+    }
+  },
+  {
+    "i": 108,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Radical new camera",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "holds": "smartphone",
+    "explainedBy": "Comparison: The device might feature a folding body or radical camera array, but its software remains reassuringly familiar.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A smartphone can feature folding screens or advanced cameras while relying on familiar foundations.",
+      "concreteVisual": "Creator pointing at the novel camera hardware on the held phone.",
+      "onScreenText": "Radical new camera",
+      "relationToPrevious": "Details the novel half of the smartphone example from beat 107.",
+      "addedInformation": "Highlights the surface hardware innovations catching consumer attention."
+    }
+  },
+  {
+    "i": 109,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Deeply familiar icons",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "holds": "smartphone",
+    "explainedBy": "Mechanism: Familiar app iconography and hand-feel anchor the user in safety, making the novelty enjoyable.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Operating systems and familiar app icons anchor users in safety to let them enjoy novelty.",
+      "concreteVisual": "Creator comfortably navigating familiar phone icons on the screen.",
+      "onScreenText": "Deeply familiar icons",
+      "relationToPrevious": "Identifies the familiar half of the phone balancing beat 108.",
+      "addedInformation": "Shows how interface habits provide psychological reassurance."
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Remixes familiar silhouettes",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Mechanism: High fashion remixes silhouettes, fabrics, and historical touchstones that audiences already understand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Bizarre runway fashion remixes silhouettes and touchstones already subconsciously understood.",
+      "concreteVisual": "Mentor explaining how avant-garde fashion repurposes classical silhouettes.",
+      "onScreenText": "Remixes familiar silhouettes",
+      "relationToPrevious": "Applies the anchor principle back to the Paris fashion objection of beat 103.",
+      "addedInformation": "Demonstrates that even daring runway cuts rely on historic motifs."
+    }
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Never 100% new",
+      "style": "strike"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "mentor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Comparison: Successful creative work is never completely new; pure novelty without an anchor triggers immediate panic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Adoptions are never 100% new; absolute novelty triggers the brain's avoidance reflex.",
+      "concreteVisual": "Mentor pointing firmly, rejecting the myth of 100% novel innovation.",
+      "onScreenText": "Never 100% new",
+      "relationToPrevious": "States the central rule deduced from the tech and fashion examples.",
+      "addedInformation": "Warns creators against the fatal error of total detachment from convention."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "100% novelty",
+        "Avoidance reflex",
+        "Outright rejection"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Cause -> effect: Completely novel ideas activate the avoidance reflex, leading audiences to reject them as confusing or dangerous.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Truly 100% novel ideas trigger avoidance reflexes and cause outright audience rejection.",
+      "concreteVisual": "A flow diagram mapping the failure cascade: 100% novelty -> Avoidance reflex -> Outright rejection.",
+      "onScreenText": "100% novelty -> Avoidance reflex -> Outright rejection",
+      "relationToPrevious": "Diagrams the failure mechanism described in beat 111.",
+      "addedInformation": "Illustrates why unanchored creative projects fail instantly in the market."
+    }
+  },
+  {
+    "i": 113,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Pure safety",
+        "Pure surprise"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Comparison: The adoption curve requires engineering a deliberate collision between safety and surprise.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The creative sweet spot requires engineering the perfect collision between safety and surprise.",
+      "concreteVisual": "A spectrum diagram balancing Pure safety on the left and Pure surprise on the right with marker at peak.",
+      "onScreenText": "Pure safety | Pure surprise",
+      "relationToPrevious": "Summarizes the biological tension into an engineered design objective.",
+      "addedInformation": "Positions the commercial sweet spot squarely between familiarity and shock."
+    }
+  },
+  {
+    "i": 114,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "Missing the sweet spot",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Comparison: Hitting the peak is the difference between a billion-dollar success and a forgotten bankruptcy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Missing the sweet spot spells the difference between a massive success and forgotten bankruptcy.",
+      "concreteVisual": "Creator slumping despondently beside a lost trophy prize icon.",
+      "onScreenText": "Missing the sweet spot",
+      "relationToPrevious": "Establishes high business stakes before introducing the historical case study.",
+      "addedInformation": "Highlights commercial disaster resulting from poor timing."
+    }
+  },
+  {
+    "i": 115,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Columbia University",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator",
+      "collaborator"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Event: In the early 2000s at Columbia University, students Adam Goldberg and Wayne Ting launched a platform called Campus Network.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At Columbia University in the early 2000s, students launched Campus Network.",
+      "concreteVisual": "Two ambitious student creators discussing their platform at a computer workstation.",
+      "onScreenText": "Columbia University",
+      "relationToPrevious": "Opens the case study illustrating a premature, overly novel product launch.",
+      "addedInformation": "Introduces founders Adam Goldberg and Wayne Ting at Columbia."
+    }
+  },
+  {
+    "i": 116,
+    "concept": "phone",
+    "diagram": null,
+    "callout": {
+      "text": "A digital platform",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator",
+      "collaborator"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Event: Campus Network featured a digital architecture wildly ahead of its historical era.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Campus Network was a digital platform with feature sets wildly advanced for its era.",
+      "concreteVisual": "Founders pointing proudly to screens displaying their network architecture.",
+      "onScreenText": "A digital platform",
+      "relationToPrevious": "Continues from beat 115, elaborating on the platform's technological capabilities.",
+      "addedInformation": "Emphasizes how technologically sophisticated the platform was for its time."
+    }
+  },
+  {
+    "i": 117,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Activity feeds",
+        "Photo sharing",
+        "Community groups"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Comparison: Campus Network offered dynamic feeds, photo sharing, and community groups — anticipating today's modern internet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Campus Network featured dynamic feeds, photo sharing, and robust communities years before rivals.",
+      "concreteVisual": "A sorter diagram detailing the advanced feature suite: Activity feeds, Photo sharing, and Community groups.",
+      "onScreenText": "Activity feeds | Photo sharing | Community groups",
+      "relationToPrevious": "Catalogs the exact feature set that made Campus Network remarkably visionary.",
+      "addedInformation": "Breaks down the core social media mechanics pioneered by the platform."
+    }
+  },
+  {
+    "i": 118,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Overwhelmed by interface",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Event: Students found the advanced interface overwhelming and confusing, ignoring the platform.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Columbia students looked at the advanced interface, felt overwhelmed, and ignored it.",
+      "concreteVisual": "Creator slumping with hands on head in front of a cluttered screen interface.",
+      "onScreenText": "Overwhelmed by interface",
+      "relationToPrevious": "Reveals the unexpected market failure of the features showcased in beat 117.",
+      "addedInformation": "Visualizes cognitive overload shutting down user adoption."
+    }
+  },
+  {
+    "i": 119,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Too novel and confusing",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "creator"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "explainedBy": "Mechanism: The platform failed because it was too novel and lacked familiar anchors, triggering avoidance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Campus Network triggered user avoidance reflexes because it was too novel and confusing.",
+      "concreteVisual": "Creator explaining the product's demise due to overwhelming novelty.",
+      "onScreenText": "Too novel and confusing",
+      "relationToPrevious": "Connects Campus Network's failure directly to the avoidance reflex of beat 112.",
+      "addedInformation": "Diagnoses the precise cause of death: zero grounding in existing mental models."
+    }
+  },
+  {
+    "i": 120,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "Designing a product",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "creator"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "lightbulb",
+    "explainedBy": "Comparison: Designers and artists must recognize that early ideas fail from confusion while late ideas fail from boredom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Creators designing products or art must carefully balance novelty against confusion.",
+      "concreteVisual": "Creator holding a lightbulb idea icon, thoughtfully weighing new designs.",
+      "onScreenText": "Designing a product",
+      "relationToPrevious": "Draws actionable advice for creators from the cautionary tale of beats 115-119.",
+      "addedInformation": "Transitions to the 90/10 rule developed in subsequent chunk beats."
+    }
+  }
+]

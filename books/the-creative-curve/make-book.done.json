@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-04T07:23:21.270Z",
+  "at": "2026-11-04T07:25:35.024Z",
+  "config": "config.antidote.json",
+  "configSha256": "0a1d6cb8c261ab3034fdfd955a3c55f26cb27517441da9525ccadc4143f1eac1",
+  "inputs": {
+    "storyboard": {
+      "path": "books/the-creative-curve/art.json",
+      "sha256": "c8c95120c54d8075f7513b0aedc4a13efe7392482eea9c2b2aac4925212316f6"
+    },
+    "storyBible": {
+      "path": "books/the-creative-curve/story-bible.json",
+      "sha256": "8406759cc0195492c802e2aee19a76df108fdaaf06a2468da5de4b4ee9b10c9e"
+    },
+    "motifs": {
+      "path": "books/the-creative-curve/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/the-creative-curve.vtt",
+      "sha256": "9bd4b4c8ced1f2f6d1f1042ecb408ea4a71b30c57233b61b3f7b07e68dbbc72b"
+    },
+    "audio": {
+      "path": "public/audio/the-creative-curve.mp3",
+      "sha256": "7e807ae8c95bd3d1c9ab8f5052fd8c8b1095e629b0c8c2435089486c0ed54e1d"
+    }
+  },
+  "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+  "previewOnly": true,
+  "skipPack": true
+}

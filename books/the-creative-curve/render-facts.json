@@ -1,0 +1,161 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-04T11:40:50.856Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "eadb0371",
+      "tools": "20941526",
+      "pin": "eadb0371cc72",
+      "configHash": "0a1d6cb8c261ab30",
+      "renderInputHash": "b9013f1358d26e2b",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 430
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "final",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 0,
+          "adds": 21,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "REFUSED",
+        "ok": false,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 40,
+        "goneFindings": 0
+      },
+      "authorization": null,
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-04T11:41:14.297Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "eadb0371",
+      "tools": "20941526",
+      "pin": "eadb0371cc72",
+      "configHash": "0a1d6cb8c261ab30",
+      "renderInputHash": "b9013f1358d26e2b",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 430
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "final",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 0,
+          "adds": 21,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "bütün github hesaplarında render başlat ve youtube a hazırla",
+        "covered": 40,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-04T11:41:11.378Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-04T13:35:56.429Z",
+      "kind": "technical",
+      "technical": "VERIFIED",
+      "file": "out\\the-creative-curve.mp4",
+      "frames": 77368,
+      "expectedFrames": 77368,
+      "decodes": true,
+      "problems": [],
+      "media": {
+        "narrationFile": "public\\audio\\the-creative-curve.mastered.m4a",
+        "sync": {
+          "verdict": "PASS",
+          "startOffsetSec": 0,
+          "endOffsetSec": 0.044,
+          "endToleranceSec": 0.076,
+          "audioDiscontinuities": 0,
+          "problems": []
+        },
+        "video": {
+          "packets": 77368,
+          "endSec": 2590.0573,
+          "holds": 199,
+          "chunkHolds": 190,
+          "segmentHolds": 9,
+          "offGridHolds": 0,
+          "stretchSec": 11.124,
+          "stretchPct": 0.431
+        },
+        "audio": {
+          "packets": 121411,
+          "endSec": 2590.1013,
+          "excessOverNarrationSec": 11.301
+        },
+        "joinDropouts": {
+          "status": "DEFECT_REPORTED",
+          "count": 199,
+          "totalSec": 7.629,
+          "maxSec": 0.0638,
+          "filmZeroRuns": 200,
+          "sourceZeroRuns": 3,
+          "first": [
+            13.395,
+            26.792,
+            40.169
+          ]
+        },
+        "loudness": {
+          "integratedLufs": -14.3,
+          "lraLu": 4.4,
+          "samplePeakDbfs": -0.5,
+          "status": "REPORT_ONLY"
+        }
+      },
+      "checkedBy": "209415262dd93cb2daba0fd7ab84cf0af04ea106",
+      "tools": "20941526",
+      "pin": "eadb0371cc72"
+    }
+  ]
+}

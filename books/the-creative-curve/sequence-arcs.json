@@ -1,0 +1,3527 @@
+{
+  "slug": "the-creative-curve",
+  "totalSequences": 109,
+  "totalScenes": 273,
+  "averageDurationSecs": 23.7,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "authored",
+      "fromFrame": 5,
+      "durationFrames": 782,
+      "durationSeconds": 26.1,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 5,
+          "durationFrames": 247,
+          "role": "authored-start",
+          "narration": "See, just picture this scene, right? It is this massive, echoing, incredibly ornate hall in the mid7"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 252,
+          "durationFrames": 336,
+          "role": "authored-kept",
+          "narration": "Oh, yeah. Totally visually stunning, right? You have European royalty, you have popes, all of them w"
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 588,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "Completely captivated. Exactly. Because at the center of the room is this tiny four-year-old kid,"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 787,
+      "durationFrames": 622,
+      "durationSeconds": 20.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 787,
+          "durationFrames": 360,
+          "role": "setup",
+          "narration": "Wolf Gang Amade Mozart, just a toddler basically. I mean barely out of toddlerhood and he is complet"
+        },
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1147,
+          "durationFrames": 262,
+          "role": "reveal",
+          "narration": "flawless unbelievably complex It is the ultimate enduring image of the divine prodigy. It really is "
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "authored",
+      "fromFrame": 1409,
+      "durationFrames": 1022,
+      "durationSeconds": 34.1,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1409,
+          "durationFrames": 331,
+          "role": "authored-start",
+          "narration": "touched by the gods, born with a finished symphony already playing in his head, We've all heard the "
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1740,
+          "durationFrames": 254,
+          "role": "authored-kept",
+          "narration": "full compositions just appear to his mind out of thin air. Well, I really hate to shatter this beaut"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1994,
+          "durationFrames": 195,
+          "role": "authored-kept",
+          "narration": "Because that letter you're talking about, it was a complete forgery. Wait, what? A total fabrication"
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2189,
+          "durationFrames": 242,
+          "role": "authored-kept",
+          "narration": "I am. That letter was published in a German music magazine in 1815, which if you do the math is deca"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "authored",
+      "fromFrame": 2431,
+      "durationFrames": 898,
+      "durationSeconds": 29.9,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2431,
+          "durationFrames": 228,
+          "role": "authored-start",
+          "narration": "Oh wow. I didn't realize the timeline on Yeah. The publisher of that magazine, a man named Johan Roc"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2659,
+          "durationFrames": 331,
+          "role": "authored-kept",
+          "narration": "So it was just a cash grab pretty much. I mean, he idolized Mozart, sure. But he also recognized tha"
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2990,
+          "durationFrames": 339,
+          "role": "authored-kept",
+          "narration": "genius. They wanted the magic. Exactly. So he just made it up. He wrote a completely fake letter cla"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 3329,
+      "durationFrames": 1243,
+      "durationSeconds": 41.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3329,
+          "durationFrames": 249,
+          "role": "setup",
+          "narration": "That is insane. So this image we all have, the divine spark, the effortless genius. The cornerstone "
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3578,
+          "durationFrames": 320,
+          "role": "question",
+          "narration": "true creativity just strikes like lightning. that was essentially 19th century It was exactly 19th c"
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3898,
+          "durationFrames": 360,
+          "role": "complication",
+          "narration": "That is wild. Now the reality of Mozart is intensely different. The truth when you actually look at "
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 4258,
+          "durationFrames": 314,
+          "role": "reveal",
+          "narration": "Manufactured how? Well, his father Leopold began subjecting him to this grueling, laborious daily tr"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "authored",
+      "fromFrame": 4572,
+      "durationFrames": 523,
+      "durationSeconds": 17.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4572,
+          "durationFrames": 353,
+          "role": "authored-start",
+          "narration": "a right? And you mentioned that blindfolded four-year-old playing those complex concerto. Yeah. The "
+        },
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4925,
+          "durationFrames": 170,
+          "role": "authored-kept",
+          "narration": "of other composer songs that his father heavily curated for him. Oh, so he wasn't writing them from"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 5095,
+      "durationFrames": 569,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 5095,
+          "durationFrames": 247,
+          "role": "setup",
+          "narration": "Not at all. In fact, his first truly original piano concerto didn't actually happen until he was 17 "
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 5342,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Meaning he had been doing 14 straight years of intense curated daily practice forced upon him by a s"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "authored",
+      "fromFrame": 5664,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5664,
+          "durationFrames": 314,
+          "role": "authored-start",
+          "narration": "14 years of doing grueling reps in the that is a completely different story. It really is. And when "
+        },
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5978,
+          "durationFrames": 250,
+          "role": "authored-kept",
+          "narration": "not the mythical ones where the ink supposedly flowed perfectly onto the page, right, without a sing"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "authored",
+      "fromFrame": 6228,
+      "durationFrames": 722,
+      "durationSeconds": 24.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 6228,
+          "durationFrames": 379,
+          "role": "authored-start",
+          "narration": "scratchouts, and revisions. He even had to invent his own personal shortorthhand just to make his ag"
+        },
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 6607,
+          "durationFrames": 343,
+          "role": "authored-kept",
+          "narration": "friends about how laborious and exhausting his efforts actually were. That completely changes the na"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "authored",
+      "fromFrame": 6950,
+      "durationFrames": 665,
+      "durationSeconds": 22.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6950,
+          "durationFrames": 267,
+          "role": "authored-start",
+          "narration": "For sure. We are trapped in this uh this cult of natural genius. The idea that if you aren't born wi"
+        },
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 7217,
+          "durationFrames": 398,
+          "role": "authored-kept",
+          "narration": "It's a very romantic lie. It is. And honestly, it paralyzes people and makes you think, well, I didn"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "authored",
+      "fromFrame": 7615,
+      "durationFrames": 579,
+      "durationSeconds": 19.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 7615,
+          "durationFrames": 387,
+          "role": "authored-start",
+          "narration": "We are diving deep into Alan Ganette's brilliant exploration of this topic, looking at the actual me"
+        },
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 8002,
+          "durationFrames": 192,
+          "role": "authored-kept",
+          "narration": "hits and massive creative breakthroughs do not survive on divine inspiration, right? They don't just"
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "engine",
+      "fromFrame": 8194,
+      "durationFrames": 1264,
+      "durationSeconds": 42.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 8194,
+          "durationFrames": 184,
+          "role": "setup",
+          "narration": "Exactly. They survive on a very specific mathematically predictable bell curve of adoption."
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 8378,
+          "durationFrames": 377,
+          "role": "question",
+          "narration": "And that curve represents an arena where maximum novelty meets maximum familiarity. Yes. In that spe"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 8755,
+          "durationFrames": 231,
+          "role": "partial_answer",
+          "narration": "Precisely. And Ganet spent years interviewing and analyzing the people who actually manufacture thes"
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8986,
+          "durationFrames": 160,
+          "role": "complication",
+          "narration": "Oh, everywhere. from the flavor labs of Ben &amp; Jerry's to the chief content officer of Netflix,"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 9146,
+          "durationFrames": 312,
+          "role": "reveal",
+          "narration": "top tier pop producers, and incredibly successful startup founders. And they all fundamentally under"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "authored",
+      "fromFrame": 9458,
+      "durationFrames": 747,
+      "durationSeconds": 24.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 9458,
+          "durationFrames": 358,
+          "role": "authored-start",
+          "narration": "Well, if you are a creator of any kind right now, whether you are launching a tech startup, designin"
+        },
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 9816,
+          "durationFrames": 389,
+          "role": "authored-kept",
+          "narration": "Exactly. You are probably haunted by two massive terrifying extremes. Let's hear them. On one hand, "
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "engine",
+      "fromFrame": 10205,
+      "durationFrames": 1233,
+      "durationSeconds": 41.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 10205,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "No one wants to be basic, right? But on the other extreme, you are terrified of being this avantgard"
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 10558,
+          "durationFrames": 384,
+          "role": "question",
+          "narration": "It's a very thin line to walk. So today we are going to walk through the exact repeatable habits tha"
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 10942,
+          "durationFrames": 168,
+          "role": "complication",
+          "narration": "those habits, we first have to completely exercise this ghost of the divine epiphany."
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 11110,
+          "durationFrames": 328,
+          "role": "reveal",
+          "narration": "We have to look at how these supposedly magical moments actually happen in the Let's do it. Okay, le"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "engine",
+      "fromFrame": 11438,
+      "durationFrames": 375,
+      "durationSeconds": 12.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 11438,
+          "durationFrames": 149,
+          "role": "setup",
+          "narration": "We are in central London. It is November Classic era."
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 11587,
+          "durationFrames": 226,
+          "role": "reveal",
+          "narration": "We're on the top floor of 57 Wimple Street. 21-year-old Paul McCartney wakes up at noon. Of course, "
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "authored",
+      "fromFrame": 11813,
+      "durationFrames": 1075,
+      "durationSeconds": 35.8,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 11813,
+          "durationFrames": 314,
+          "role": "authored-start",
+          "narration": "So, he rolls out of bed, still half asleep, and stumbles over to this small piano he keeps by his be"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 12127,
+          "durationFrames": 245,
+          "role": "authored-kept",
+          "narration": "G, F# minor 7th, B, E minor, E, that's the one. And he freezes because the melody is so complete."
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 12372,
+          "durationFrames": 190,
+          "role": "authored-kept",
+          "narration": "so overwhelmingly beautiful that his first reaction isn't joy. It's not. No, it's terror."
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 12562,
+          "durationFrames": 326,
+          "role": "authored-kept",
+          "narration": "He is absolutely terrified he has accidentally plagiarized an old jazz standard his dad used to play"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "authored",
+      "fromFrame": 12888,
+      "durationFrames": 888,
+      "durationSeconds": 29.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 12888,
+          "durationFrames": 214,
+          "role": "authored-start",
+          "narration": "So he spends the next several days walking around to his friends and colleagues basically interrogat"
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 13102,
+          "durationFrames": 367,
+          "role": "authored-kept",
+          "narration": "He goes to John Lennon, hums it and asks, \"Have you heard this?\" Lennon says, \"No.\" Okay. He goes to"
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 13469,
+          "durationFrames": 307,
+          "role": "authored-kept",
+          "narration": "even visits the British singer Alma Kogan, sits down at her piano, plays the progression, and litera"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "authored",
+      "fromFrame": 13776,
+      "durationFrames": 857,
+      "durationSeconds": 28.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 13776,
+          "durationFrames": 230,
+          "role": "authored-start",
+          "narration": "She assures him it's an original piece of music. And eventually, this becomes Yesterday, one of the "
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 14006,
+          "durationFrames": 267,
+          "role": "authored-kept",
+          "narration": "It's massive. Now, when we hear stories like that, they are incredibly Why dangerous? Because McCart"
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 14273,
+          "durationFrames": 360,
+          "role": "authored-kept",
+          "narration": "He later told reporters that it just came to him in a dream, that music is all very mystical and mag"
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "engine",
+      "fromFrame": 14633,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 14633,
+          "durationFrames": 355,
+          "role": "setup",
+          "narration": "do something great, you just need to sit around, stare at the ceiling, and wait for a lightning bolt"
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 14988,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "They're biological. Exactly. They are simply your brain's unconscious synthesis of massive amounts o"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "authored",
+      "fromFrame": 15197,
+      "durationFrames": 1337,
+      "durationSeconds": 44.6,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 15197,
+          "durationFrames": 302,
+          "role": "authored-start",
+          "narration": "The divine inspiration narrative completely glosses over the brutal grind that actually produces the"
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 15499,
+          "durationFrames": 226,
+          "role": "authored-kept",
+          "narration": "Oh, the grind was incredibly real because waking up with those chords was literally just the startin"
+        },
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 15725,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "It took McCartney 20 agonizing months of obsessive, frustrating work to actually finish the song."
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 15924,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "20 months. That's almost two years. Yeah. And for a long time, he didn't even have lyrics, so he jus"
+        },
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 16140,
+          "durationFrames": 394,
+          "role": "authored-kept",
+          "narration": "He originally titled the song Scrambled Eggs. Wait, really? Scrambled eggs? I'm completely serious. "
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "authored",
+      "fromFrame": 16534,
+      "durationFrames": 868,
+      "durationSeconds": 28.9,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 16534,
+          "durationFrames": 355,
+          "role": "authored-start",
+          "narration": "It is. And he drove everyone around him completely insane trying to crack the final version. I can i"
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 16889,
+          "durationFrames": 333,
+          "role": "authored-kept",
+          "narration": "Oh, I bet they were sick of it. Oh, totally. When the Beatles were filming their movie Help, the dir"
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 17222,
+          "durationFrames": 180,
+          "role": "authored-kept",
+          "narration": "No way. Yes. Because Paul wouldn't stop playing that same unfinished tune over and over again betwee"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "authored",
+      "fromFrame": 17402,
+      "durationFrames": 641,
+      "durationSeconds": 21.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 17402,
+          "durationFrames": 320,
+          "role": "authored-start",
+          "narration": "He was just that He even demanded a piano be moved into his hotel room in France during a tour just "
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 17722,
+          "durationFrames": 321,
+          "role": "authored-kept",
+          "narration": "car ride in Portugal in 1965, like we said, almost two years later, that he finally nailed the real "
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 18043,
+      "durationFrames": 550,
+      "durationSeconds": 18.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 18043,
+          "durationFrames": 274,
+          "role": "setup",
+          "narration": "a bolt from the blue. Not at all. Ian Hammond, who is a highly renowned Beatles expert, spent time t"
+        },
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 18317,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "And what did he find? He found that it shares its core chord progressions and underlying baselines w"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "authored",
+      "fromFrame": 18593,
+      "durationFrames": 998,
+      "durationSeconds": 33.3,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 18593,
+          "durationFrames": 187,
+          "role": "authored-start",
+          "narration": "Okay, I have to jump in here because I feel like we might be stripping a little too much of the magi"
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 18780,
+          "durationFrames": 305,
+          "role": "authored-kept",
+          "narration": "If we say his brain is just acting like a human computer, spitting out Ray Charles cords that he dig"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 19085,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "Doesn't the fact that his subconscious synthesize that in a dream make him a genius? Isn't the abili"
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 19361,
+          "durationFrames": 230,
+          "role": "authored-kept",
+          "narration": "I mean, it's a totally fair question, but it fundamentally misunderstands what the brain is actually"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "authored",
+      "fromFrame": 19591,
+      "durationFrames": 1087,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 19591,
+          "durationFrames": 293,
+          "role": "authored-start",
+          "narration": "It's the biological reality of brain plasticity. Your brain creates roughly 1,400 new cells every si"
+        },
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 19884,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "Every day. And if you don't actively challenge those cells with new rigorous experiences, they simpl"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 20100,
+          "durationFrames": 367,
+          "role": "authored-kept",
+          "narration": "But if you are actively learning, observing, and engaging with complex material, those new cells act"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 20467,
+          "durationFrames": 211,
+          "role": "authored-kept",
+          "narration": "So the hardware is literally changing based on what you feed it. Exactly. McCartney hadn't just had "
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "authored",
+      "fromFrame": 20678,
+      "durationFrames": 519,
+      "durationSeconds": 17.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 20678,
+          "durationFrames": 288,
+          "role": "authored-start",
+          "narration": "He had spent thousands of hours in Hamburg, Germany, playing in these grueling club residencies, doi"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 20966,
+          "durationFrames": 231,
+          "role": "authored-kept",
+          "narration": "studying, deconstructing, and playing covers of Ray Charles and Little Richard. Oh, so he was intent"
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "authored",
+      "fromFrame": 21197,
+      "durationFrames": 540,
+      "durationSeconds": 18,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 21197,
+          "durationFrames": 331,
+          "role": "authored-start",
+          "narration": "He didn't have a magical subconscious. He had actively engineered his own subconscious through relen"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 21528,
+          "durationFrames": 209,
+          "role": "authored-kept",
+          "narration": "brain finally connecting the very real physical pathways he had spent years building. That is such a"
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "authored",
+      "fromFrame": 21737,
+      "durationFrames": 1253,
+      "durationSeconds": 41.8,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 21737,
+          "durationFrames": 314,
+          "role": "authored-start",
+          "narration": "The divine inspiration myth is just a smokeokc screen. It really is. It hides the absolute truth tha"
+        },
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 22051,
+          "durationFrames": 305,
+          "role": "authored-kept",
+          "narration": "It is a meticulously engineered collision between familiarity like the Ray Charles chords and novelt"
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 22356,
+          "durationFrames": 305,
+          "role": "authored-kept",
+          "narration": "Which naturally brings us to a really fundamental question about human nature? Why do we crave that "
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 22661,
+          "durationFrames": 329,
+          "role": "authored-kept",
+          "narration": "To answer that, we have to look at the two deep biological appetites that drive almost every decisio"
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "authored",
+      "fromFrame": 22990,
+      "durationFrames": 583,
+      "durationSeconds": 19.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 22990,
+          "durationFrames": 352,
+          "role": "authored-start",
+          "narration": "fMRI machine in a research hospital in Britain. You have volunteers sliding into this loud claustrop"
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 23342,
+          "durationFrames": 231,
+          "role": "authored-kept",
+          "narration": "before. So, familiar right? But suddenly, without warning, the researchers flash photos of faces the"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "authored",
+      "fromFrame": 23573,
+      "durationFrames": 1010,
+      "durationSeconds": 33.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 23573,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "Okay. Totally new stimuli. Exactly. And the lead neuroscientist, Emmer Duzelle, is watching the moni"
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 23902,
+          "durationFrames": 319,
+          "role": "authored-kept",
+          "narration": "The brain is flooding with dopamine at the exact millisecond they process the new novel images. Now,"
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 24221,
+          "durationFrames": 362,
+          "role": "authored-kept",
+          "narration": "Yeah. That's the common trope. But Doo's research clarifies a crucial distinction. Dopamine is not j"
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "engine",
+      "fromFrame": 24583,
+      "durationFrames": 1025,
+      "durationSeconds": 34.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 24583,
+          "durationFrames": 329,
+          "role": "setup",
+          "narration": "our motor system that we need to physically approach something to learn more about Oh, so it's an ac"
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 24912,
+          "durationFrames": 319,
+          "role": "question",
+          "narration": "You have two violently competing appetites dictated by your biology. Okay. On one side, you have neo"
+        },
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 25231,
+          "durationFrames": 377,
+          "role": "reveal",
+          "narration": "right? Imagine you are a prehistoric cave dweller. You walk over a ridge and see a valley you've nev"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 25608,
+      "durationFrames": 336,
+      "durationSeconds": 11.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 25608,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "that valley because it might contain a new food source, fresh water, or a better shelter. It's a sur"
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "authored",
+      "fromFrame": 25944,
+      "durationFrames": 662,
+      "durationSeconds": 22.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 25944,
+          "durationFrames": 317,
+          "role": "authored-start",
+          "narration": "deep evolutionary fear of the because the unknown is dangerous. Exactly. That same cave dweller know"
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 26261,
+          "durationFrames": 345,
+          "role": "authored-kept",
+          "narration": "might house a predator. Neophobia is the breaking system that keeps you safe from getting yourself k"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 26606,
+      "durationFrames": 212,
+      "durationSeconds": 7.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 26606,
+          "durationFrames": 212,
+          "role": "reveal",
+          "narration": "thing might actually kill me. A biological tug-of-war. And to prove how these two appetites interact"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "authored",
+      "fromFrame": 26818,
+      "durationFrames": 552,
+      "durationSeconds": 18.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 26818,
+          "durationFrames": 211,
+          "role": "authored-start",
+          "narration": "Ganet points to a really fascinating study from Professor Glenn Shelonberg's music lab in Canada. Ye"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 27029,
+          "durationFrames": 341,
+          "role": "authored-kept",
+          "narration": "This perfectly illustrates the tension. Walk us through it. Shelonburgg took a group of students and"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "engine",
+      "fromFrame": 27370,
+      "durationFrames": 1279,
+      "durationSeconds": 42.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 27370,
+          "durationFrames": 326,
+          "role": "setup",
+          "narration": "only driven by neophilia, the love of the new, they would have liked the song less and less every si"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 27696,
+          "durationFrames": 370,
+          "role": "question",
+          "narration": "But if we were only driven by neophobia, the fear of the unknown, they would have liked it more ever"
+        },
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 28066,
+          "durationFrames": 230,
+          "role": "complication",
+          "narration": "But neither of those extreme outcomes happened. Instead, their preference formed a perfect mathemati"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 28296,
+          "durationFrames": 353,
+          "role": "reveal",
+          "narration": "From the second listen to the eighth listen, their self-reported liking of the song increased steadi"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "engine",
+      "fromFrame": 28649,
+      "durationFrames": 369,
+      "durationSeconds": 12.3,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 28649,
+          "durationFrames": 369,
+          "role": "reveal",
+          "narration": "growing which actively suppressed their fear of the unknown, their neophobia. So the braking system "
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "authored",
+      "fromFrame": 29018,
+      "durationFrames": 704,
+      "durationSeconds": 23.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 29018,
+          "durationFrames": 365,
+          "role": "authored-start",
+          "narration": "But right around the eighth listen, it It did. And from the eighth listen to the 32nd listen, they l"
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 29383,
+          "durationFrames": 339,
+          "role": "authored-kept",
+          "narration": "Exactly. The dopamine hit was gone and they were just left with the mundane Okay, hold on. I'm track"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "authored",
+      "fromFrame": 29722,
+      "durationFrames": 633,
+      "durationSeconds": 21.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 29722,
+          "durationFrames": 321,
+          "role": "authored-start",
+          "narration": "degree, how do you explain things like high fashion or cutting edge What do you mean? I mean, I see "
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 30043,
+          "durationFrames": 312,
+          "role": "authored-kept",
+          "narration": "new Or you look at the runway in Paris and people are obsessing over bizarre, highly unusual fashion"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "authored",
+      "fromFrame": 30355,
+      "durationFrames": 425,
+      "durationSeconds": 14.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 30355,
+          "durationFrames": 281,
+          "role": "authored-start",
+          "narration": "Doesn't that prove that we actually do love pure novelty when it's presented It definitely seems lik"
+        },
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 30636,
+          "durationFrames": 144,
+          "role": "authored-kept",
+          "narration": "Because those things aren't as radical as they appear to your brain's processing centers."
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "engine",
+      "fromFrame": 30780,
+      "durationFrames": 247,
+      "durationSeconds": 8.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 30780,
+          "durationFrames": 247,
+          "role": "reveal",
+          "narration": "The things we adopt, even the weirdest, most avantgard trends, always have a hidden anchor in the fa"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "authored",
+      "fromFrame": 31027,
+      "durationFrames": 595,
+      "durationSeconds": 19.8,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 31027,
+          "durationFrames": 163,
+          "role": "authored-start",
+          "narration": "Think about a new highly anticipated piece of tech like a revolutionary new smartphone."
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 31190,
+          "durationFrames": 176,
+          "role": "authored-kept",
+          "narration": "It might have a radical new camera array or literally fold in half, but the operating system,"
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 31366,
+          "durationFrames": 256,
+          "role": "authored-kept",
+          "narration": "the iconography of the apps, the way you hold it in your hand, those are deeply familiar. Oh, I see."
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "authored",
+      "fromFrame": 31622,
+      "durationFrames": 629,
+      "durationSeconds": 21,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 31622,
+          "durationFrames": 279,
+          "role": "authored-start",
+          "narration": "In fashion, a bizarre high fashion trend usually remixes silhouettes, fabrics, or cultural touchston"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 31901,
+          "durationFrames": 350,
+          "role": "authored-kept",
+          "narration": "So, it's never 100% new. Never. If something is truly 100% novel with absolutely no anchor in the fa"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "engine",
+      "fromFrame": 32251,
+      "durationFrames": 857,
+      "durationSeconds": 28.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 32251,
+          "durationFrames": 245,
+          "role": "setup",
+          "narration": "and we reject it outright, it's confusing or dangerous. That is the whole ball game right there. Thi"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 32496,
+          "durationFrames": 341,
+          "role": "question",
+          "narration": "is exactly what creates that bell curve of adoption. You have to engineer the collision between safe"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 32837,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "often the literal difference between a billion-dollar company and a forgotten bankrupt Let's paint t"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "authored",
+      "fromFrame": 33108,
+      "durationFrames": 473,
+      "durationSeconds": 15.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 33108,
+          "durationFrames": 218,
+          "role": "authored-start",
+          "narration": "it's the early 2000s. We are at Columbia University. Two ambitious students, Adam Goldberg and Wayne"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 33326,
+          "durationFrames": 255,
+          "role": "authored-kept",
+          "narration": "launch a digital platform called Campus Network. Campus Network right now. If you look at the featur"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "engine",
+      "fromFrame": 33581,
+      "durationFrames": 276,
+      "durationSeconds": 9.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 33581,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "We are talking about dynamic activity feeds, complex photo sharing capabilities, robust community fe"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "authored",
+      "fromFrame": 33857,
+      "durationFrames": 554,
+      "durationSeconds": 18.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 33857,
+          "durationFrames": 305,
+          "role": "authored-start",
+          "narration": "It is arguably the social network of the future. Built years ahead of its time. And what happened? T"
+        },
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 34162,
+          "durationFrames": 249,
+          "role": "authored-kept",
+          "narration": "and entirely ignores it because it aggressively triggered the avoidance reflex. Exactly. It was too "
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "engine",
+      "fromFrame": 34411,
+      "durationFrames": 797,
+      "durationSeconds": 26.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 34411,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "Users didn't know what they were supposed to do with all those So if you are designing a product, a "
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 34682,
+          "durationFrames": 298,
+          "role": "question",
+          "narration": "Early ideas fail because they trigger fear and confusion. And late ideas fail because they trigger b"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 34980,
+          "durationFrames": 228,
+          "role": "reveal",
+          "narration": "To hit the sweet spot for your audience, you need an idea that is roughly 90% familiar with a 10% tw"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "authored",
+      "fromFrame": 35208,
+      "durationFrames": 1229,
+      "durationSeconds": 41,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 35208,
+          "durationFrames": 317,
+          "role": "authored-start",
+          "narration": "To see the absolute masterclass in this, you just have to look at what Mark Zuckerberg did with Face"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 35525,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "Right? Because Facebook started totally differently. The very early version of Facebook was incredib"
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 35724,
+          "durationFrames": 266,
+          "role": "authored-kept",
+          "narration": "boringly just super simple. It was quite literally just a digital translation of the physical studen"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 35990,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "sitting on their dorm room desk. Oh wow. You had a photo, some basic info, and a feature to poke som"
+        },
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 36276,
+          "durationFrames": 161,
+          "role": "authored-kept",
+          "narration": "Zuckerberg famously told a reporter that the trick isn't adding stuff, it's taking away."
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "engine",
+      "fromFrame": 36437,
+      "durationFrames": 273,
+      "durationSeconds": 9.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 36437,
+          "durationFrames": 273,
+          "role": "reveal",
+          "narration": "Facebook anchored its users in absolute safety and they only pushed the curve and introduced complex"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "authored",
+      "fromFrame": 36710,
+      "durationFrames": 728,
+      "durationSeconds": 24.3,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 36710,
+          "durationFrames": 284,
+          "role": "authored-start",
+          "narration": "years later after the audience was already fully comfortable with the baseline platform. But wait, t"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 36994,
+          "durationFrames": 223,
+          "role": "authored-kept",
+          "narration": "What do you mean? Campus Network had objectively better technology. They built the future first. The"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 37217,
+          "durationFrames": 221,
+          "role": "authored-kept",
+          "narration": "Shouldn't the best, most advanced product win in a free market? It's a tough pill to swallow, especi"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "engine",
+      "fromFrame": 37438,
+      "durationFrames": 1070,
+      "durationSeconds": 35.7,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 37438,
+          "durationFrames": 180,
+          "role": "setup",
+          "narration": "But superior technology is entirely irrelevant if it terrifies the user."
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 37618,
+          "durationFrames": 249,
+          "role": "question",
+          "narration": "That is the harsh, unyielding truth of the creative curve. Being too early is indistinguishable from"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 37867,
+          "durationFrames": 161,
+          "role": "partial_answer",
+          "narration": "If your audience's avoidance reflex overwhelms their approach reflex, they will back away."
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 38028,
+          "durationFrames": 204,
+          "role": "complication",
+          "narration": "It doesn't matter how elegant your code is or how profound your writing is. If they feel unsafe, the"
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 38232,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "So to hit that sweet spot, you have to consciously engineer the collision. And Ganet breaks down how"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "engine",
+      "fromFrame": 38508,
+      "durationFrames": 271,
+      "durationSeconds": 9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 38508,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "And the first habit, the absolute baseline is consumption, which looks very different from how we ty"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "authored",
+      "fromFrame": 38779,
+      "durationFrames": 1133,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 38779,
+          "durationFrames": 305,
+          "role": "authored-start",
+          "narration": "we are in a video rental store in the late 1980s. Picture the smell of the plastic VHS cases, the hu"
+        },
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 39084,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "Right. A young college dropout named Ted Sarandos is sitting behind the counter. Ted Sarandos. Yeah."
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 39367,
+          "durationFrames": 223,
+          "role": "authored-kept",
+          "narration": "He is spending 3 to four hours every single day systematically devouring every single movie in the J"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 39590,
+          "durationFrames": 322,
+          "role": "authored-kept",
+          "narration": "Everything. He is building this massive encyclopedic mental library of cinema. He's noting the pacin"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "engine",
+      "fromFrame": 39912,
+      "durationFrames": 1250,
+      "durationSeconds": 41.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 39912,
+          "durationFrames": 365,
+          "role": "setup",
+          "narration": "What he was doing in neurological terms is loading his brain with exemplars. What this means for any"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 40277,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "the top innovators in the world dedicate roughly 20% of their waking hours to raw focused domain int"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 40565,
+          "durationFrames": 297,
+          "role": "complication",
+          "narration": "novelty twist if you don't intimately know what the 90% familiarity baseline is for your specific au"
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 40862,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "And if you want to see the payoff of that 20% rule, look at Serandos today. Who is he now? Ted Seran"
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "authored",
+      "fromFrame": 41162,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 41162,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "He is the guy who green lit massive global culture defining hits like Stranger Things, Orange is the"
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 41414,
+          "durationFrames": 312,
+          "role": "authored-kept",
+          "narration": "And he built that intuition in the video He frequently jokes that he was acting as a human recommend"
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "authored",
+      "fromFrame": 41726,
+      "durationFrames": 533,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 41726,
+          "durationFrames": 300,
+          "role": "authored-start",
+          "narration": "That's incredible. When a pitch comes across his desk, he uses the exact same mental database he bui"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 42026,
+          "durationFrames": 233,
+          "role": "authored-kept",
+          "narration": "He knows instinctively if it's too familiar or just novel enough. And we see this across every mediu"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "authored",
+      "fromFrame": 42259,
+      "durationFrames": 519,
+      "durationSeconds": 17.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 42259,
+          "durationFrames": 195,
+          "role": "authored-start",
+          "narration": "Who else? Ganet points to Connor Franta, the YouTuber. Yeah. He became a massive YouTube sensation,"
+        },
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 42454,
+          "durationFrames": 324,
+          "role": "authored-kept",
+          "narration": "building an audience of over 5 million subscribers and doing astronomical numbers. Huge numbers. But"
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "engine",
+      "fromFrame": 42778,
+      "durationFrames": 376,
+      "durationSeconds": 12.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 42778,
+          "durationFrames": 376,
+          "role": "reveal",
+          "narration": "years obsessively watching doing his 20%. Exactly. He was absorbing the jump cut pacing, the convers"
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "authored",
+      "fromFrame": 43154,
+      "durationFrames": 809,
+      "durationSeconds": 27,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 43154,
+          "durationFrames": 370,
+          "role": "authored-start",
+          "narration": "Okay. But I have a major issue with this 20% rule. What is it? Because if you look at the data, the "
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 43524,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "20% of their waking If the 20% consumption rule is the secret to genius,"
+        },
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 43728,
+          "durationFrames": 235,
+          "role": "authored-kept",
+          "narration": "why aren't we a nation of Netflix executives and millionaire It's a great distinction to make becaus"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "engine",
+      "fromFrame": 43963,
+      "durationFrames": 521,
+      "durationSeconds": 17.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 43963,
+          "durationFrames": 199,
+          "role": "setup",
+          "narration": "There is a massive fundamental difference between passive consumption and active consumption."
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 44162,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Okay, break that down. Passive consumption is just entertainment. You're sitting on the couch after "
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "authored",
+      "fromFrame": 44484,
+      "durationFrames": 636,
+      "durationSeconds": 21.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 44484,
+          "durationFrames": 312,
+          "role": "authored-start",
+          "narration": "right? Innovators, however, consume actively. They are leaning in. They're studying it. Yes, they ar"
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 44796,
+          "durationFrames": 324,
+          "role": "authored-kept",
+          "narration": "Why did this pop course hook me on the first listen? How is this chapter structured to make me turn "
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "engine",
+      "fromFrame": 45120,
+      "durationFrames": 1003,
+      "durationSeconds": 33.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 45120,
+          "durationFrames": 377,
+          "role": "setup",
+          "narration": "It's purposeful analytical intake, not just doom scrolling. Yeah. So this deliberate act of consumpt"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 45497,
+          "durationFrames": 391,
+          "role": "question",
+          "narration": "how do you actually build the engine? How do you sit down and start creating without just regurgitat"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 45888,
+          "durationFrames": 235,
+          "role": "reveal",
+          "narration": "And this is something that might make some people uncomfortable. Let's jump back in time to see this"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "authored",
+      "fromFrame": 46123,
+      "durationFrames": 413,
+      "durationSeconds": 13.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 46123,
+          "durationFrames": 195,
+          "role": "authored-start",
+          "narration": "early America. He is stinging from his father's harsh, vocal criticism of his poor,"
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 46318,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "disorganized writing skills. His dad basically called him a bad pretty much. He wants to be a great "
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "source": "authored",
+      "fromFrame": 46536,
+      "durationFrames": 857,
+      "durationSeconds": 28.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 46536,
+          "durationFrames": 281,
+          "role": "authored-start",
+          "narration": "So, he goes to a local coffee shop with a copy of The Spectator, which was a major publication, a hi"
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 46817,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "But he doesn't just read it passively. What does he do? He goes through the best articles and writes"
+        },
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 47033,
+          "durationFrames": 360,
+          "role": "authored-kept",
+          "narration": "He maps out the flow of their logic. Then he hides the magazines away, waits a few days, so he forge"
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "source": "engine",
+      "fromFrame": 47393,
+      "durationFrames": 845,
+      "durationSeconds": 28.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 47393,
+          "durationFrames": 293,
+          "role": "setup",
+          "narration": "on his structural outlines. He is desperately trying to match the masterful geometry of the original"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 47686,
+          "durationFrames": 225,
+          "role": "question",
+          "narration": "Exactly. What this teaches us is that true creativity requires constraints, which goes against the w"
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 47911,
+          "durationFrames": 327,
+          "role": "reveal",
+          "narration": "The myth tells us that geniuses sit down at a blank page, light a candle, and just bleed purely orig"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "source": "authored",
+      "fromFrame": 48238,
+      "durationFrames": 590,
+      "durationSeconds": 19.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 48238,
+          "durationFrames": 326,
+          "role": "authored-start",
+          "narration": "with a blank page. They dissect and intentionally imitate established archetypes. Imitation gives yo"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 48564,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "energy trying to invent a new structure, it frees up your brain's processing power to focus entirely"
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "source": "engine",
+      "fromFrame": 48828,
+      "durationFrames": 1037,
+      "durationSeconds": 34.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 48828,
+          "durationFrames": 346,
+          "role": "setup",
+          "narration": "We see this structural reliance everywhere across every genre of art and For example, Alexis O'hane,"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 49174,
+          "durationFrames": 369,
+          "role": "question",
+          "narration": "A remix? Yes. The most famous example is Star Oh, right. George Lucas didn't invent a wholly origina"
+        },
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 49543,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Kurasawa's samurai films. Simply transplanted into space. You have the farm boy, the rogue smuggler,"
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "source": "authored",
+      "fromFrame": 49865,
+      "durationFrames": 566,
+      "durationSeconds": 18.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 49865,
+          "durationFrames": 350,
+          "role": "authored-start",
+          "narration": "It's all there just dressed up with aliens and lasers. Exactly. The structure was deeply familiar to"
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 50215,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "of alienating. Any other examples? We can look at the neuroscience of music again with uh Gregory Bu"
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "source": "engine",
+      "fromFrame": 50431,
+      "durationFrames": 245,
+      "durationSeconds": 8.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 50431,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "He was watching the show American Idol when a contestant named Chris Allen sang a cover of One Repub"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "source": "authored",
+      "fromFrame": 50676,
+      "durationFrames": 2350,
+      "durationSeconds": 78.3,
+      "sceneCount": 8,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 50676,
+          "durationFrames": 370,
+          "role": "authored-start",
+          "narration": "Burns had previously spent years mapping human brain responses to music. And he realized that the re"
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 51046,
+          "durationFrames": 259,
+          "role": "authored-kept",
+          "narration": "perfectly mirrored historical pop hits. It had like the classic structure built into its DNA. Exactl"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 51305,
+          "durationFrames": 259,
+          "role": "authored-kept",
+          "narration": "if I did what Benjamin Franklin did, if I went and took somebody else's, you know, chord progression"
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 51564,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "rewrote it, if I did that in a modern college course, in a college class, I would get expelled for p"
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 51780,
+          "durationFrames": 326,
+          "role": "authored-kept",
+          "narration": "It it feels uncomfortably close to just hacking someone else's work because you lack originality. It"
+        },
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 52106,
+          "durationFrames": 360,
+          "role": "authored-kept",
+          "narration": "to remember you aren't publishing the imitation. Oh, you keep it hidden. You are doing reps in the g"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 52466,
+          "durationFrames": 363,
+          "role": "authored-kept",
+          "narration": "He was just copying the structure. He was trying to internalize the geometry of a persuasive argumen"
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 52829,
+          "durationFrames": 197,
+          "role": "authored-kept",
+          "narration": "exactly by the book before they are ever allowed to invent a new dish. That makes total sense. Imita"
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "source": "engine",
+      "fromFrame": 53026,
+      "durationFrames": 856,
+      "durationSeconds": 28.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 53026,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "It ensures your underlying structure lands safely on the bell curve of adoption before you start add"
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 53280,
+          "durationFrames": 264,
+          "role": "question",
+          "narration": "Imitation guarantees the familiarity so you have a safe foundation to engineer the collision with yo"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 53544,
+          "durationFrames": 338,
+          "role": "reveal",
+          "narration": "Which leads us to the third habit, cultivating creative communities. And this is where we completely"
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "source": "authored",
+      "fromFrame": 53882,
+      "durationFrames": 982,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 53882,
+          "durationFrames": 216,
+          "role": "authored-start",
+          "narration": "You walk off the elevator and step into Andy Warhol's famous factory loft. It is absolute sensory ch"
+        },
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 54098,
+          "durationFrames": 224,
+          "role": "authored-kept",
+          "narration": "The walls are covered in silver foil. It's packed shoulder-to-shoulder with painters, underground mu"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 54322,
+          "durationFrames": 225,
+          "role": "authored-kept",
+          "narration": "Just a wild scene. But if you look closely, it's not just a hedonistic party space. It is a highly f"
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 54547,
+          "durationFrames": 317,
+          "role": "authored-kept",
+          "narration": "intentionally designed ecosystem of cross-pollination. What Warhol understood and what every creator"
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "source": "engine",
+      "fromFrame": 54864,
+      "durationFrames": 578,
+      "durationSeconds": 19.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 54864,
+          "durationFrames": 266,
+          "role": "setup",
+          "narration": "you must engineer a network around yourself. You cannot do it alone. And Ganet breaks down the speci"
+        },
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 55130,
+          "durationFrames": 312,
+          "role": "reveal",
+          "narration": "very specific roles in your community to succeed. Let's hear them. First, you need the master teache"
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "source": "authored",
+      "fromFrame": 55442,
+      "durationFrames": 526,
+      "durationSeconds": 17.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 55442,
+          "durationFrames": 207,
+          "role": "authored-start",
+          "narration": "Second, the conflicting collaborator whose strengths actively compensate for your blind spots, and w"
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 55649,
+          "durationFrames": 319,
+          "role": "authored-kept",
+          "narration": "You need someone to tell you when you're Exactly. Third, the modern muse who sustains your energy, i"
+        }
+      ]
+    },
+    {
+      "id": "seq-76",
+      "source": "engine",
+      "fromFrame": 55968,
+      "durationFrames": 214,
+      "durationSeconds": 7.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 55968,
+          "durationFrames": 214,
+          "role": "reveal",
+          "narration": "And finally, the prominent promoter who lends you their established credibility. We have a brilliant"
+        }
+      ]
+    },
+    {
+      "id": "seq-77",
+      "source": "authored",
+      "fromFrame": 56182,
+      "durationFrames": 580,
+      "durationSeconds": 19.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 56182,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "Let's hear it. When Taylor Swift made her massive risky transition from country music to pure pop on"
+        },
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 56434,
+          "durationFrames": 328,
+          "role": "authored-kept",
+          "narration": "Huge. She didn't just lock herself in a room and guess at how pop music worked. She systematically b"
+        }
+      ]
+    },
+    {
+      "id": "seq-78",
+      "source": "engine",
+      "fromFrame": 56762,
+      "durationFrames": 915,
+      "durationSeconds": 30.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 56762,
+          "durationFrames": 336,
+          "role": "setup",
+          "narration": "producer alive. He served as her master teacher. So he taught her the constraints. He taught her the"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 57098,
+          "durationFrames": 216,
+          "role": "question",
+          "narration": "hyperspecific lyrical ability to that familiar structure. And it's important to note that gathering "
+        },
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 57314,
+          "durationFrames": 363,
+          "role": "reveal",
+          "narration": "How so? The famous sociologist Mihal Chicken Mihoy conducted a massive study of art He found that th"
+        }
+      ]
+    },
+    {
+      "id": "seq-79",
+      "source": "authored",
+      "fromFrame": 57677,
+      "durationFrames": 554,
+      "durationSeconds": 18.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 57677,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "lofts in specific neighborhoods specifically to host parties to attract the right people. Yes. To ph"
+        },
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 58006,
+          "durationFrames": 225,
+          "role": "authored-kept",
+          "narration": "It was a strategic networking tool. Okay. Wait. I have a massive problem with this prominent promote"
+        }
+      ]
+    },
+    {
+      "id": "seq-80",
+      "source": "authored",
+      "fromFrame": 58231,
+      "durationFrames": 579,
+      "durationSeconds": 19.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 58231,
+          "durationFrames": 204,
+          "role": "authored-start",
+          "narration": "If I'm hearing that I absolutely must have a prominent promoter to succeed, doesn't that just prove "
+        },
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 58435,
+          "durationFrames": 375,
+          "role": "authored-kept",
+          "narration": "Doesn't it prove the whole system is rigged? If I'm a kid in a basement in the Midwest and I don't h"
+        }
+      ]
+    },
+    {
+      "id": "seq-81",
+      "source": "authored",
+      "fromFrame": 58810,
+      "durationFrames": 691,
+      "durationSeconds": 23,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 58810,
+          "durationFrames": 352,
+          "role": "authored-start",
+          "narration": "concern. And Ganet doesn't shy away from the systemic barriers. So, he admits it's rigged. Well, the"
+        },
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 59162,
+          "durationFrames": 339,
+          "role": "authored-kept",
+          "narration": "institutional gatekeeping is a very real, very damaging problem. So, if you don't have access, you'r"
+        }
+      ]
+    },
+    {
+      "id": "seq-82",
+      "source": "authored",
+      "fromFrame": 59501,
+      "durationFrames": 972,
+      "durationSeconds": 32.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 59501,
+          "durationFrames": 353,
+          "role": "authored-start",
+          "narration": "It doesn't have to be an A-list celebrity or a billionaire venture Who can it be? A promoter just ne"
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 59854,
+          "durationFrames": 338,
+          "role": "authored-kept",
+          "narration": "share their credibility with you. Just one step ahead. Yeah. If you are a writer with 100 followers "
+        },
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 60192,
+          "durationFrames": 281,
+          "role": "authored-kept",
+          "narration": "validates your work to their audience. It's entirely about relative credibility, not absolute fame. "
+        }
+      ]
+    },
+    {
+      "id": "seq-83",
+      "source": "engine",
+      "fromFrame": 60473,
+      "durationFrames": 223,
+      "durationSeconds": 7.4,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 60473,
+          "durationFrames": 223,
+          "role": "reveal",
+          "narration": "So a strong community functioning with those four roles is the vehicle that actually drives your eng"
+        }
+      ]
+    },
+    {
+      "id": "seq-84",
+      "source": "authored",
+      "fromFrame": 60696,
+      "durationFrames": 442,
+      "durationSeconds": 14.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 60696,
+          "durationFrames": 293,
+          "role": "authored-start",
+          "narration": "But if you have the vehicle, how do you know if you are actually steering in the right direction? Th"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 60989,
+          "durationFrames": 149,
+          "role": "authored-kept",
+          "narration": "This is where the romantic idea of trusting your gut gets thrown completely out the window."
+        }
+      ]
+    },
+    {
+      "id": "seq-85",
+      "source": "authored",
+      "fromFrame": 61138,
+      "durationFrames": 936,
+      "durationSeconds": 31.2,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 61138,
+          "durationFrames": 312,
+          "role": "authored-start",
+          "narration": "Let's drop into the Ben &amp; Jerry's flavor lab in Vermont. Best job in the world. Seriously, you'v"
+        },
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 61450,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "Just endless options. But here is the secret of their success. They aren't just mixing things togeth"
+        },
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 61668,
+          "durationFrames": 406,
+          "role": "authored-kept",
+          "narration": "Let's ship millions of pints.\" No, they are pouring over dense data from international food conventi"
+        }
+      ]
+    },
+    {
+      "id": "seq-86",
+      "source": "engine",
+      "fromFrame": 62074,
+      "durationFrames": 549,
+      "durationSeconds": 18.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 62074,
+          "durationFrames": 324,
+          "role": "setup",
+          "narration": "against real audience reactions. They do not trust their raw instincts because they know their insti"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 62398,
+          "durationFrames": 225,
+          "role": "reveal",
+          "narration": "You cannot rely on your gut alone to tell you where your idea currently sits on the creative curve. "
+        }
+      ]
+    },
+    {
+      "id": "seq-87",
+      "source": "authored",
+      "fromFrame": 62623,
+      "durationFrames": 511,
+      "durationSeconds": 17,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 62623,
+          "durationFrames": 180,
+          "role": "authored-start",
+          "narration": "Exactly. You must use data, audience feedback, and rapid iteration to measure the actual reaction."
+        },
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 62803,
+          "durationFrames": 331,
+          "role": "authored-kept",
+          "narration": "This is how you transition from having a lucky one-off strike to building a repeatable engineered sy"
+        }
+      ]
+    },
+    {
+      "id": "seq-88",
+      "source": "authored",
+      "fromFrame": 63134,
+      "durationFrames": 545,
+      "durationSeconds": 18.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 63134,
+          "durationFrames": 365,
+          "role": "authored-start",
+          "narration": "company, Trackmaven, around this exact principle. Oh, really? Yeah. They analyze millions of pieces "
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 63499,
+          "durationFrames": 180,
+          "role": "authored-kept",
+          "narration": "consumers right now. So, it's about moving from blind guesswork to precise navigation."
+        }
+      ]
+    },
+    {
+      "id": "seq-89",
+      "source": "authored",
+      "fromFrame": 63679,
+      "durationFrames": 706,
+      "durationSeconds": 23.5,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 63679,
+          "durationFrames": 211,
+          "role": "authored-start",
+          "narration": "And we can go back to Facebook for perhaps the most famous example of following the data over the no"
+        },
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 63890,
+          "durationFrames": 327,
+          "role": "authored-kept",
+          "narration": "Yes. Remember when Facebook launched the news feed? The user base absolutely Oh, they hated it. Peop"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 64217,
+          "durationFrames": 168,
+          "role": "authored-kept",
+          "narration": "They sent angry, vitriolic messages to the developers. It was a PR nightmare."
+        }
+      ]
+    },
+    {
+      "id": "seq-90",
+      "source": "engine",
+      "fromFrame": 64385,
+      "durationFrames": 257,
+      "durationSeconds": 8.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 64385,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "If you just looked at the vocal feedback, it was a total disaster. But Facebook's internal cold hard"
+        }
+      ]
+    },
+    {
+      "id": "seq-91",
+      "source": "authored",
+      "fromFrame": 64642,
+      "durationFrames": 616,
+      "durationSeconds": 20.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 64642,
+          "durationFrames": 367,
+          "role": "authored-start",
+          "narration": "What did it show? Engagement was absolutely skyrocketing. Users were logging in more frequently, sta"
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 65009,
+          "durationFrames": 249,
+          "role": "authored-kept",
+          "narration": "That is hilarious. Zuckerberg and his team held their nerve and followed the behavioral data over th"
+        }
+      ]
+    },
+    {
+      "id": "seq-92",
+      "source": "authored",
+      "fromFrame": 65258,
+      "durationFrames": 639,
+      "durationSeconds": 21.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 65258,
+          "durationFrames": 317,
+          "role": "authored-start",
+          "narration": "But this raises a huge red flag for me. What's that? If we just rely on data, AB testing, and focus "
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 65575,
+          "durationFrames": 322,
+          "role": "authored-kept",
+          "narration": "boring, lowest common denominator products imaginable? I get that fear. Isn't worshiping data the ul"
+        }
+      ]
+    },
+    {
+      "id": "seq-93",
+      "source": "authored",
+      "fromFrame": 65897,
+      "durationFrames": 525,
+      "durationSeconds": 17.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 65897,
+          "durationFrames": 254,
+          "role": "authored-start",
+          "narration": "data in the creative Tell me why I'm wrong. Data doesn't invent the flavor or the feature. A spreads"
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 66151,
+          "durationFrames": 271,
+          "role": "authored-kept",
+          "narration": "Right? A dashboard cannot write a beautiful melody. Data is simply your GPS telling you where your p"
+        }
+      ]
+    },
+    {
+      "id": "seq-94",
+      "source": "engine",
+      "fromFrame": 66422,
+      "durationFrames": 672,
+      "durationSeconds": 22.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 66422,
+          "durationFrames": 272,
+          "role": "setup",
+          "narration": "Just a map. It tells you, \"Hey, your audience finds this new flavor too weird. Pull back to safety.\""
+        },
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 66694,
+          "durationFrames": 400,
+          "role": "reveal",
+          "narration": "Ah, so it just measures the reaction. The data is just a feedback loop informing your next iteration"
+        }
+      ]
+    },
+    {
+      "id": "seq-95",
+      "source": "authored",
+      "fromFrame": 67094,
+      "durationFrames": 471,
+      "durationSeconds": 15.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 67094,
+          "durationFrames": 255,
+          "role": "authored-start",
+          "narration": "that engineered collision on the curve. But we have to talk about the terrifying part of the curve b"
+        },
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 67349,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "Gravity always wins. There is a downs slope. Yes, the phase Ganet calls creative fatigue."
+        }
+      ]
+    },
+    {
+      "id": "seq-96",
+      "source": "authored",
+      "fromFrame": 67565,
+      "durationFrames": 585,
+      "durationSeconds": 19.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 67565,
+          "durationFrames": 271,
+          "role": "authored-start",
+          "narration": "Let's look at how fast the fall can be. It's 2009. Reality TV star John Goslin is photographed by pa"
+        },
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 67836,
+          "durationFrames": 314,
+          "role": "authored-kept",
+          "narration": "flashy bedazzled Ed Hardy shirt. Oh man, the Ed Hardy era. Around this exact same time, Don Ed Hardy"
+        }
+      ]
+    },
+    {
+      "id": "seq-97",
+      "source": "authored",
+      "fromFrame": 68150,
+      "durationFrames": 677,
+      "durationSeconds": 22.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 68150,
+          "durationFrames": 334,
+          "role": "authored-start",
+          "narration": "walks into a random retail store and what does he see? He looks around and sees that his licensing c"
+        },
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 68484,
+          "durationFrames": 343,
+          "role": "authored-kept",
+          "narration": "designs on literally everything. Cheap lighters, energy drinks, steering wheel covers, absolute junk"
+        }
+      ]
+    },
+    {
+      "id": "seq-98",
+      "source": "engine",
+      "fromFrame": 68827,
+      "durationFrames": 348,
+      "durationSeconds": 11.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 68827,
+          "durationFrames": 348,
+          "role": "reveal",
+          "narration": "massive mountain right around 2009 and then almost instantly plummets into a The brand had reached t"
+        }
+      ]
+    },
+    {
+      "id": "seq-99",
+      "source": "authored",
+      "fromFrame": 69175,
+      "durationFrames": 713,
+      "durationSeconds": 23.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 69175,
+          "durationFrames": 372,
+          "role": "authored-start",
+          "narration": "unforgiving downslope. When your idea hits that absolute peak of cultural saturation, the novelty bo"
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 69547,
+          "durationFrames": 341,
+          "role": "authored-kept",
+          "narration": "to your product now actively breeds resentment, annoyance, and fatigue in the audience. You go from "
+        }
+      ]
+    },
+    {
+      "id": "seq-100",
+      "source": "engine",
+      "fromFrame": 69888,
+      "durationFrames": 934,
+      "durationSeconds": 31.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 69888,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "parody of yourself. It perfectly mirrors that Shelonberg music study we discussed right? The 30 seco"
+        },
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 70241,
+          "durationFrames": 230,
+          "role": "question",
+          "narration": "It was grading to them. Just annoying. Think about the Macarena dance in the '9s or opening a gourme"
+        },
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 70471,
+          "durationFrames": 351,
+          "role": "reveal",
+          "narration": "That specific phenomenon is what Ganet calls follow-on failure. Follow-on failure. It's the tragic t"
+        }
+      ]
+    },
+    {
+      "id": "seq-101",
+      "source": "authored",
+      "fromFrame": 70822,
+      "durationFrames": 664,
+      "durationSeconds": 22.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 70822,
+          "durationFrames": 400,
+          "role": "authored-start",
+          "narration": "accelerating down the slope into cliche. But wait, if you are a savvy creator and you are looking at"
+        },
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 71222,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "save it? Can't you pivot the marketing or change the logo to trick the brain back into The harsh his"
+        }
+      ]
+    },
+    {
+      "id": "seq-102",
+      "source": "engine",
+      "fromFrame": 71486,
+      "durationFrames": 1040,
+      "durationSeconds": 34.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 71486,
+          "durationFrames": 370,
+          "role": "setup",
+          "narration": "Really? You can't save it. You really can't. Once the novelty bonus decays at a mass group level, th"
+        },
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 71856,
+          "durationFrames": 370,
+          "role": "question",
+          "narration": "annoyance. They're just sick of it. True innovators, the ones who sustain decades long careers, thin"
+        },
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 72226,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "peak. You have to jump to the next curve while you are still comfortably climbing the first one. Yes"
+        }
+      ]
+    },
+    {
+      "id": "seq-103",
+      "source": "engine",
+      "fromFrame": 72526,
+      "durationFrames": 369,
+      "durationSeconds": 12.3,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 72526,
+          "durationFrames": 369,
+          "role": "reveal",
+          "narration": "It demands you start the engineering process, the consumption, the imitation, the community building"
+        }
+      ]
+    },
+    {
+      "id": "seq-104",
+      "source": "authored",
+      "fromFrame": 72895,
+      "durationFrames": 1037,
+      "durationSeconds": 34.6,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 72895,
+          "durationFrames": 231,
+          "role": "authored-start",
+          "narration": "because as we wrap this up, there is this massive fundamental push back hanging over this entire con"
+        },
+        {
+          "index": 256,
+          "sceneId": "scene-256",
+          "fromFrame": 73126,
+          "durationFrames": 379,
+          "role": "authored-kept",
+          "narration": "We have spent this whole time dismantling the magic of genius. We've talked about engineering famili"
+        },
+        {
+          "index": 257,
+          "sceneId": "scene-257",
+          "fromFrame": 73505,
+          "durationFrames": 180,
+          "role": "authored-kept",
+          "narration": "hard data dashboards. We have Doesn't this entire philosophy risk completely sterilizing bold art?"
+        },
+        {
+          "index": 258,
+          "sceneId": "scene-258",
+          "fromFrame": 73685,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "If we treat human creativity like a math formula for market adoption, aren't we just going to end up"
+        }
+      ]
+    },
+    {
+      "id": "seq-105",
+      "source": "authored",
+      "fromFrame": 73932,
+      "durationFrames": 595,
+      "durationSeconds": 19.8,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 259,
+          "sceneId": "scene-259",
+          "fromFrame": 73932,
+          "durationFrames": 192,
+          "role": "authored-start",
+          "narration": "It's the ultimate fear of every artist and it's a completely understandable reaction because it soun"
+        },
+        {
+          "index": 260,
+          "sceneId": "scene-260",
+          "fromFrame": 74124,
+          "durationFrames": 242,
+          "role": "authored-kept",
+          "narration": "But I want you to look closely at the actual examples we've explored today. Paul McCartney's Yesterd"
+        },
+        {
+          "index": 261,
+          "sceneId": "scene-261",
+          "fromFrame": 74366,
+          "durationFrames": 161,
+          "role": "authored-kept",
+          "narration": "Wolf Gang Amadeus Mozart Symphonies These are not corporate sludge."
+        }
+      ]
+    },
+    {
+      "id": "seq-106",
+      "source": "engine",
+      "fromFrame": 74527,
+      "durationFrames": 1066,
+      "durationSeconds": 35.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 262,
+          "sceneId": "scene-262",
+          "fromFrame": 74527,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "They are not forgettable algorithmic garbage. They are culture defining breathtaking masterpieces"
+        },
+        {
+          "index": 263,
+          "sceneId": "scene-263",
+          "fromFrame": 74731,
+          "durationFrames": 221,
+          "role": "partial_answer",
+          "narration": "that literally change the world. They define the zeitgeist of their eras. Exactly. The myth of the l"
+        },
+        {
+          "index": 264,
+          "sceneId": "scene-264",
+          "fromFrame": 74952,
+          "durationFrames": 343,
+          "role": "question",
+          "narration": "is a romantic lie. And more importantly, it's a toxic lie. Why toxic? Because it keeps you sitting i"
+        },
+        {
+          "index": 265,
+          "sceneId": "scene-265",
+          "fromFrame": 75295,
+          "durationFrames": 298,
+          "role": "reveal",
+          "narration": "bolt. It is a gardener. A gardener. A gardener doesn't stand in an empty barren field staring at the"
+        }
+      ]
+    },
+    {
+      "id": "seq-107",
+      "source": "engine",
+      "fromFrame": 75593,
+      "durationFrames": 861,
+      "durationSeconds": 28.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 266,
+          "sceneId": "scene-266",
+          "fromFrame": 75593,
+          "durationFrames": 233,
+          "role": "setup",
+          "narration": "They have to do the work. They relentlessly engineer the soil. They study the changing of the season"
+        },
+        {
+          "index": 267,
+          "sceneId": "scene-267",
+          "fromFrame": 75826,
+          "durationFrames": 336,
+          "role": "question",
+          "narration": "They brutally prune the dead branches. And they do all this laborious unseen work over a long period"
+        },
+        {
+          "index": 268,
+          "sceneId": "scene-268",
+          "fromFrame": 76162,
+          "durationFrames": 292,
+          "role": "reveal",
+          "narration": "They engineer the collision. They do. They do the work so the art can They do. Which brings us to a "
+        }
+      ]
+    },
+    {
+      "id": "seq-108",
+      "source": "authored",
+      "fromFrame": 76454,
+      "durationFrames": 524,
+      "durationSeconds": 17.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 269,
+          "sceneId": "scene-269",
+          "fromFrame": 76454,
+          "durationFrames": 286,
+          "role": "authored-start",
+          "narration": "A challenge. Look closely at your own life right now. What exactly makes up the 20% of the media, th"
+        },
+        {
+          "index": 270,
+          "sceneId": "scene-270",
+          "fromFrame": 76740,
+          "durationFrames": 238,
+          "role": "authored-kept",
+          "narration": "you are consuming? Are you just passively snacking on mental junk food? Right? Letting algorithms fe"
+        }
+      ]
+    },
+    {
+      "id": "seq-109",
+      "source": "authored",
+      "fromFrame": 76978,
+      "durationFrames": 390,
+      "durationSeconds": 13,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 271,
+          "sceneId": "scene-271",
+          "fromFrame": 76978,
+          "durationFrames": 360,
+          "role": "authored-start",
+          "narration": "or are you actively, deliberately engineering the soil for your own breakthrough? Because you have t"
+        },
+        {
+          "index": 272,
+          "sceneId": "scene-272",
+          "fromFrame": 77338,
+          "durationFrames": 30,
+          "role": "authored-kept",
+          "narration": "Go build it."
+        }
+      ]
+    }
+  ]
+}

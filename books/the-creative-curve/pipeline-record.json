@@ -1,0 +1,214 @@
+{
+  "note": "production-guard.js: which code each pipeline step ran on",
+  "runs": [
+    {
+      "step": "storyboard prep",
+      "at": "2026-11-04T05:21:00.993Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard prep",
+      "at": "2026-11-04T05:22:09.805Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T05:51:27.371Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T05:51:47.940Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T05:57:28.359Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T05:59:36.337Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T06:01:39.242Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T06:02:50.731Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "make-book",
+      "at": "2026-11-04T06:29:44.655Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "make-book",
+      "at": "2026-11-04T06:33:40.383Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard prep",
+      "at": "2026-11-04T07:19:07.072Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "storyboard merge",
+      "at": "2026-11-04T07:19:33.384Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "make-book",
+      "at": "2026-11-04T07:23:20.879Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "mute-test prep final",
+      "at": "2026-11-04T07:26:09.353Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "mute-test prep final",
+      "at": "2026-11-04T07:26:46.686Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 10,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "preview-ready",
+      "at": "2026-11-04T08:13:08.310Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 17,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "preview-ready",
+      "at": "2026-11-04T08:16:14.517Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 17,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "render",
+      "at": "2026-11-04T11:40:40.381Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 18,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    },
+    {
+      "step": "render",
+      "at": "2026-11-04T11:41:02.962Z",
+      "head": "eadb0371cc72402728b0de55ff3ccde3dde22313",
+      "scriptsTree": "14784bb294dcae5764b2860778c4b53dbe46f1ee",
+      "srcTree": "29fa32146abd173dab610c9c640b5f024247462c",
+      "behindOrigin": 18,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    }
+  ]
+}

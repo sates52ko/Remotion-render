@@ -1,0 +1,57 @@
+{
+  "slug": "the-creative-curve",
+  "title": "The Creative Curve: How to Develop the Right Idea at the Right Time",
+  "author": "Allen Gannett",
+  "genre": "business",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "nonfiction",
+    "world": "ideas",
+    "era": 2018,
+    "realPeople": false,
+    "format": "argument",
+    "violence": "none",
+    "minorHarm": false,
+    "mustSee": [
+      "the bell curve of familiarity vs novelty",
+      "a creator consuming raw inputs (the 20% rule)",
+      "creative collaboration and feedback loops",
+      "the timing sweet spot for commercial ideas"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 45,
+    "reasons": [
+      "an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)"
+    ],
+    "risks": []
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-04",
+    "fit": "antidote",
+    "confidence": "moderate",
+    "voxScore": 8,
+    "antidoteScore": 15.6,
+    "signals": {
+      "year": 0.8,
+      "history": 2,
+      "second": 25.6,
+      "abstract": 8.3,
+      "sensitive": 1.2,
+      "era": 2018,
+      "words": 7436
+    },
+    "reasons": [
+      "the narration addresses the viewer (\"you\" 25.6/1k) → an idea/advice film, drawn as icons, diagrams and an everyman (Antidote)"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/the-creative-curve.mp3"
+}

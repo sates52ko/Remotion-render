@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "generatedAt": "2026-11-04T06:30:15.188Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "The Creative Curve: How to Develop the Right Idea at the Right Time",
+      "author": "Allen Gannett",
+      "genre": "business"
+    }
+  },
+  "world": {
+    "universeKey": "contemporary_general",
+    "label": "Contemporary General Non-Fiction",
+    "recommendedEngine": "antidote",
+    "engineConfidence": 0.7,
+    "engineRationale": "Balanced narrative pace suited for expressive vector characters and kinetic callouts.",
+    "palette": {
+      "primary": "#2563EB",
+      "secondary": "#1E293B",
+      "accent": "#F97316",
+      "paper": "#FAFAF9",
+      "ink": "#18181B"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "office",
+      "room",
+      "stage"
+    ],
+    "activeCustomMotifs": {},
+    "gaps": []
+  },
+  "vox": {
+    "primaryDocType": "newspaper",
+    "suggestedLocations": [
+      {
+        "name": "New York",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    ],
+    "photoPromptStyle": "Contemporary General Non-Fiction, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

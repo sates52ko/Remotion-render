@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-04T07:22:31.994Z",
+  "n": 273,
+  "total": 273,
+  "sources": [
+    "readcheck",
+    "recheck-1"
+  ],
+  "totals": {
+    "CORRECT": 268,
+    "NEUTRAL": 2,
+    "WRONG": 3
+  },
+  "wrongRate": 0.011,
+  "blame": {
+    "diagram": 2,
+    "words": 3
+  },
+  "iconBlame": {},
+  "beats": [
+    {
+      "i": 14,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The scale diagram suggests creativity lies on a spectrum rather than conveying that Mozart was a manufactured prodigy.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 164,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "Crossing out \"A BAD WRITER\" caused the viewer to think the label was rejected, whereas his father actually called him one.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A BAD WRITER"
+    },
+    {
+      "i": 215,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "Crossing out \"THROWN COMPLETELY OUT\" implies being thrown out is rejected, contradicting the narration that gut instinct is indeed discarded.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THROWN COMPLETELY OUT"
+    },
+    {
+      "i": 261,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "Crossing out \"NOT CORPORATE SLUDGE\" creates a double negative implying the works are corporate sludge, contradicting the narrator.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "NOT CORPORATE SLUDGE"
+    },
+    {
+      "i": 264,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The refute diagram has an empty label so the viewer only sees an abstract refutation without knowing what is being refuted.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 8,
+    "wrong": [
+      {
+        "i": 215,
+        "code": "BODY_EVENT_STANDING"
+      }
+    ],
+    "neutral": [],
+    "cleared": 7,
+    "unread": []
+  }
+}
