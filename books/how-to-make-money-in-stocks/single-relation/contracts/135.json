@@ -1,0 +1,52 @@
+{
+  "schema": "single-relation/1",
+  "type": "B",
+  "understanding": "Quiet institutional support holds the price ground.",
+  "evidence": "It is holding its ground because institutions are quietly supporting the price, refusing to let it fall.",
+  "claim": {
+    "asserted": "Quiet institutional support holds the price.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "mechanism": "cause-effect",
+  "before": "The price faces market downdraft.",
+  "transformation": "Institutional volume supports the ground.",
+  "after": "The price holds firmly.",
+  "camera": {
+    "framing": "wide-locked",
+    "purpose": "price holding ground in one frame"
+  },
+  "entities": [
+    {
+      "id": "coinGlyph",
+      "kind": "object",
+      "glyph": "coin",
+      "label": "institutions"
+    },
+    {
+      "id": "p",
+      "kind": "stock",
+      "label": "price",
+      "value": 0.5
+    }
+  ],
+  "events": [
+    {
+      "at": 0.35,
+      "cause": "coinGlyph",
+      "effects": [
+        {
+          "entity": "p",
+          "value": 0.85
+        }
+      ]
+    }
+  ],
+  "required": [
+    "institutions",
+    "price"
+  ],
+  "omitted": [],
+  "_author": "antigravity-single-relation"
+}

@@ -1,0 +1,288 @@
+[
+  {
+    "i": 262,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "125 YEARS OF MARKET DATA",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor reviews William O'Neil's historical study of 125 years of market data to synthesize the core rules of stock investing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The summary synthesizes 125 years of historical stock market data into core principles.",
+      "concreteVisual": "The retail investor in a study room holds O'Neil's reference book of historical market data.",
+      "onScreenText": "125 YEARS OF MARKET DATA",
+      "relationToPrevious": "Opens the concluding synthesis segment after discussing cash patience in choppy markets.",
+      "addedInformation": "Grounds '125 years of market data' in the physical study book containing O'Neil's empirical research."
+    }
+  },
+  {
+    "i": 263,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A PROFOUND SHIFT IN PERSPECTIVE",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "sit",
+    "explainedBy": "The investor experiences a fundamental shift in perspective about what drives stock market success.",
+    "noVisual": "Abstract perspective shift has no literal icon in the vocabulary; staged with the investor's sudden realization at the trading desk.",
+    "storyboard": {
+      "claim": "Stock market survival demands a fundamental shift in trader perspective.",
+      "concreteVisual": "The retail investor sits at his workstation, eyes wide in sudden realization at his monitors.",
+      "onScreenText": "A PROFOUND SHIFT IN PERSPECTIVE",
+      "relationToPrevious": "Transitions from historical data study to the fundamental psychological realization.",
+      "addedInformation": "Visualizes the moment of insight at the trading desk where retail habits are challenged."
+    }
+  },
+  {
+    "i": 264,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT ABOUT BEING RIGHT",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "blank",
+    "action": "sit",
+    "continue": true,
+    "explainedBy": "The investor rejects personal infatuation with gadgets and visionary CEOs as irrelevant to market performance.",
+    "noVisual": "Debunking emotional fondness for a company has no literal icon; staged with the investor's indifferent detachment at his screens.",
+    "storyboard": {
+      "claim": "Market success has nothing to do with personal admiration for a company's products or CEO.",
+      "concreteVisual": "The retail investor remains seated at his desk with a blank, detached expression as company hype fades.",
+      "onScreenText": "NOT ABOUT BEING RIGHT",
+      "relationToPrevious": "Continues the trading desk stage from beat 263, showing detachment replacing emotional enthusiasm.",
+      "addedInformation": "Contrasts the cold reality of market tape with subjective retail admiration for gadgets."
+    }
+  },
+  {
+    "i": 265,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Tiny losses",
+        "Making money"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Keeping losses tiny is the direct cause that enables making money in stocks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The core mechanism of making money in stocks is keeping losses tiny.",
+      "concreteVisual": "A two-node flow diagram showing 'Tiny losses' leading directly to 'Making money'.",
+      "onScreenText": "Tiny losses -> Making money",
+      "relationToPrevious": "Transitions from debunking company infatuation to stating the core profitable mechanism.",
+      "addedInformation": "Maps the cause-and-effect relationship between loss prevention and portfolio profitability."
+    }
+  },
+  {
+    "i": 266,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE MATHEMATICAL TAPE",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "The investor submits to the market's mathematical tape of price and volume rather than trading on ego.",
+    "noVisual": "Mathematical tape of volume, price, and earnings acceleration is shown via screen charts rather than a single icon.",
+    "storyboard": {
+      "claim": "Traders must crush ego and let the mathematical tape dictate every portfolio decision.",
+      "concreteVisual": "The retail investor sits at his workstation, intently following the price and volume data streams.",
+      "onScreenText": "THE MATHEMATICAL TAPE",
+      "relationToPrevious": "Follows the loss-prevention rule with the objective data feed that enforces it.",
+      "addedInformation": "Emphasizes the mathematical tape as an impersonal authority that replaces emotional guesswork."
+    }
+  },
+  {
+    "i": 267,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REACTOR TO THE PRESENT",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "partnerAction": "point",
+    "explainedBy": "The investor acts as a disciplined reactor to present market conditions guided by institutional moves.",
+    "noVisual": "Being a reactor rather than a predictor has no literal icon; staged with the investor watching the institution point.",
+    "storyboard": {
+      "claim": "Successful investors do not predict the future; they react with discipline to present reality.",
+      "concreteVisual": "The retail investor stands beside the institutional fund manager, watching him point out market direction.",
+      "onScreenText": "REACTOR TO THE PRESENT",
+      "relationToPrevious": "Transitions from studying data at the workstation to observing institutional direction on the trading floor.",
+      "addedInformation": "Frames the investor as a disciplined follower reacting to institutional market leadership."
+    }
+  },
+  {
+    "i": 268,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "INSTITUTIONAL MONEY FLOW",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "partnerExpression": "neutral",
+    "partnerAction": "walk",
+    "continue": true,
+    "explainedBy": "The retail investor walks in step with institutional money flow instead of stubbornly fighting it.",
+    "noVisual": "Money flow alignment is shown through two figures walking in unison rather than a literal currency icon.",
+    "storyboard": {
+      "claim": "Traders must align with massive institutional capital flow instead of fighting it with personal opinions.",
+      "concreteVisual": "The retail investor walks in unison behind the institutional fund manager through the trading office.",
+      "onScreenText": "INSTITUTIONAL MONEY FLOW",
+      "relationToPrevious": "Continues the office two-shot from beat 267, turning observation into coordinated forward movement.",
+      "addedInformation": "Uses matching walking movement to make 'aligning with money flow' visually concrete."
+    }
+  },
+  {
+    "i": 269,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A FINAL PROVOCATIVE THOUGHT",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The narrator challenges the investor to reflect on personal trading psychology and past mistakes.",
+    "noVisual": "Reflective challenge setup has no literal icon in the vocabulary; staged with the investor pausing at the desk.",
+    "storyboard": {
+      "claim": "The conclusion leaves the investor with a provocative challenge on trading psychology.",
+      "concreteVisual": "The retail investor stands pensively by his trading desk, pausing to consider the prompt.",
+      "onScreenText": "A FINAL PROVOCATIVE THOUGHT",
+      "relationToPrevious": "Transitions from institutional alignment to the personal psychological closing question.",
+      "addedInformation": "Sets an introspective tone before confronting the viewer's worst trading mistake."
+    }
+  },
+  {
+    "i": 270,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "WORST INVESTMENT LOSS",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The investor relives the painful memory and defeat of the worst investment loss of his life.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Every trader carries the painful memory of a devastating investment loss.",
+      "concreteVisual": "The retail investor slumps in defeat beside a crash icon at his workstation.",
+      "onScreenText": "WORST INVESTMENT LOSS",
+      "relationToPrevious": "Continues the workstation setting from beat 269, shifting posture from pensive pause to slumped defeat.",
+      "addedInformation": "Pairs the emotional posture of failure with the crash icon to embody a catastrophic loss."
+    }
+  },
+  {
+    "i": 271,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLINGING TO A NARRATIVE",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The investor confronted the tape screaming to exit but refused to admit error due to clinging to a narrative.",
+    "noVisual": "Stubborn internal denial has no literal icon; staged with the anxious slumped investor ignoring chart warning signals.",
+    "storyboard": {
+      "claim": "Traders suffer catastrophic losses by clinging to a personal narrative and refusing to admit they were wrong.",
+      "concreteVisual": "The retail investor remains slumped at his workstation, looking worried as he ignores warning signals.",
+      "onScreenText": "CLINGING TO A NARRATIVE",
+      "relationToPrevious": "Maintains the slumped posture from beat 270 while pinpointing the psychological cause of the loss.",
+      "addedInformation": "Identifies narrative clinging as the exact emotional mechanism that overrides mathematical stop rules."
+    }
+  },
+  {
+    "i": 272,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "YOURS OR THE INSTITUTIONS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "phone",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The investor checks his brokerage app alongside the institutional manager, deciding whose instincts will govern his trades.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ultimate question for every trader is whether their trades follow emotional retail instincts or institutional discipline.",
+      "concreteVisual": "The retail investor holds his smartphone checking his brokerage app beside the institutional fund manager.",
+      "onScreenText": "YOURS OR THE INSTITUTIONS",
+      "relationToPrevious": "Transitions from the past loss reflection to the actionable future question confronting every trade.",
+      "addedInformation": "Visualizes the dual presence of retail temptation and institutional reality at the moment of trade execution."
+    }
+  }
+]

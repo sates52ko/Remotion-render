@@ -1,0 +1,47 @@
+{
+  "slug": "farsighted",
+  "title": "Farsighted",
+  "author": "Steven Johnson",
+  "genre": "nonfiction",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "nonfiction",
+    "world": "ideas",
+    "realPeople": false,
+    "format": "argument",
+    "violence": "none",
+    "minorHarm": false,
+    "mustSee": [
+      "Darwin weighing marriage on a pros-and-cons list",
+      "the Collect Pond in old Manhattan being filled in",
+      "the Abbottabad compound and the team debating the raid",
+      "a decision map of branching scenarios",
+      "a premortem imagining the plan already failed"
+    ]
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-10-26",
+    "fit": "antidote",
+    "confidence": "strong",
+    "voxScore": 9.4,
+    "antidoteScore": 22.4,
+    "signals": {
+      "year": 0.9,
+      "history": 2.4,
+      "second": 32.3,
+      "abstract": 13.9,
+      "sensitive": 1.7,
+      "era": 2018,
+      "words": 9300
+    },
+    "reasons": [
+      "the narration addresses the viewer (\"you\" 32.3/1k) → an idea/advice film, drawn as icons, diagrams and an everyman (Antidote)",
+      "idea vocabulary 13.9/1k (habits, decisions, attention, money…) → concepts need icons/diagrams, not photographs (Antidote)"
+    ],
+    "risks": [],
+    "confirmed": false
+  }
+}

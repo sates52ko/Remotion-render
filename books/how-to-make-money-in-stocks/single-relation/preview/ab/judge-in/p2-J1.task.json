@@ -1,0 +1,94 @@
+{
+ "instructions": "You judge whether muted viewers understood short scenes of animated book-summary videos. This file holds several items, each from a DIFFERENT scene; each has the narration spoken over the scene, the frozen answer key (what a muted viewer should understand, its cause, its effect, key facts, plausible wrong inferences, whether the narration states any causality at all, what the narrator asserts, and what the narration mentions but does NOT assert — notAsserted), and what a viewer with the sound off wrote (description). Some viewers saw three moments of the scene, some saw more moments; judge only what the description says. Judge each item on its own.\r\n1. cause — CORRECT (the viewer's cause matches the key's cause in meaning), WRONG (contradicts it), NOT_SHOWN (unclear / missing / something else). effect — the same against the key's effect. If the key says supportsCausality: false, answer \"NA\" for both.\r\n2. message — MATCH (the viewer's message states the key's understanding), PARTIAL (its subject or half of it), MISS.\r\n3b. polarityError — YES if the viewer states as true (or as the narrator's point) something the key lists under notAsserted (a rejected premise, counterfactual, hypothesis, question, quoted speech, uncertain claim or the setup half of a contrast); otherwise NO.\r\n3. wrongInference — YES if the viewer states something the key lists as a wrong inference, or a cause / claim that contradicts the narration; otherwise NO.\r\n4. whatChanged — CORRECT if who or what the viewer says changed matches the key's effect (the thing that ends up different), WRONG if the viewer names a different change that contradicts the key, NOT_SHOWN if the viewer names no change or an unrelated one, NA if the key states no causality.\r\n5. finalConsequence — YES if the viewer states the key's final consequence (the end state / result the narration gives), NO if not, NA if the key states no causality.\r\nJudge meaning, not wording; be strict and literal; do not reward a description for being longer, prettier or busier.\r\nWrite ONLY a JSON array (one object per item, same order) to the output path you were given: [{\"img\":\"…\",\"cause\":\"…\",\"effect\":\"…\",\"message\":\"…\",\"wrongInference\":\"YES|NO\",\"polarityError\":\"YES|NO\",\"whatChanged\":\"…\",\"finalConsequence\":\"…\",\"why\":\"…\"}, …]",
+ "items": [
+  {
+   "img": "e833a0d09e",
+   "narration": "Because your capital base is cut in half. Exactly. O'Neal's math proves that writing out a severe bare market destroys the magic of compound interest.",
+   "answerKey": {
+    "understanding": "Riding out a severe bear market cuts your capital base in half and destroys the magic of compound interest according to O'Neil's math.",
+    "cause": "Riding out a severe bear market and having your capital base cut in half",
+    "effect": "The magic of compound interest is destroyed",
+    "keyFacts": [
+     "The capital base is cut in half.",
+     "O'Neil has mathematical proof regarding bear markets.",
+     "Writing out a severe bear market destroys the magic of compound interest."
+    ],
+    "wrongInferences": [
+     "The destruction of compound interest causes an investor's capital base to be cut in half.",
+     "O'Neil's math proves that enduring a severe bear market strengthens compound interest.",
+     "Cutting your capital base in half accelerates the power of compound interest."
+    ],
+    "supportsCausality": true,
+    "asserted": "Your capital base is cut in half, and O'Neil's math proves that riding out a severe bear market destroys the magic of compound interest.",
+    "notAsserted": [
+     {
+      "text": "Holding through a bear market preserves compound interest",
+      "why": "The narration asserts that writing out a severe bear market destroys compound interest."
+     },
+     {
+      "text": "Compound interest continues without capital loss",
+      "why": "The narration states that the capital base is cut in half."
+     }
+    ]
+   },
+   "description": {
+    "img": "e833a0d09e",
+    "sees": [
+     "frame 1: A car icon labeled 'MARKET' with a small starburst on its hood rests beside a fully filled dark container labeled 'INTEREST'.",
+     "frame 2: A pink circle highlights the market car as the burst turns red and yellow, while an arrow curves over to the interest container, which drains to near empty.",
+     "frame 3: The highlighted market car and connecting arrow stay in place while the interest container remains depleted at the bottom level."
+    ],
+    "changed": "The market car receives a prominent crash burst and circular highlight, an arrow connects it to the interest meter, and the interest meter drains from full to almost empty.",
+    "cause": "A crash or breakdown in the market triggers a drain on interest.",
+    "effect": "Interest drops drastically to near zero.",
+    "message": "When the broader market crashes, interest rapidly collapses.",
+    "wouldConfuse": "It is ambiguous whether 'INTEREST' refers to interest rates or market enthusiasm/investor interest, and representing the market as a car is metaphorical."
+   }
+  },
+  {
+   "img": "3d67ac1326",
+   "narration": "pushes its RS rating up to 87. It is holding its ground because institutions are quietly supporting the price, refusing to let it fall.",
+   "answerKey": {
+    "understanding": "The stock holds its ground and its RS rating rises to 87 because institutions are quietly supporting its price and refusing to let it drop.",
+    "cause": "Institutions quietly supporting the price and refusing to let it fall",
+    "effect": "The stock holds its ground and its RS rating is pushed up to 87",
+    "keyFacts": [
+     "The stock's RS rating is pushed up to 87.",
+     "The stock is holding its ground.",
+     "Institutions are quietly supporting the price.",
+     "Institutions refuse to let the stock fall."
+    ],
+    "wrongInferences": [
+     "A high RS rating of 87 causes institutions to quietly begin supporting the stock price.",
+     "The stock is dropping sharply because institutions refuse to support it.",
+     "Quiet institutional selling is holding the stock's ground and lowering its RS rating."
+    ],
+    "supportsCausality": true,
+    "asserted": "Institutions are quietly supporting the stock's price, refusing to let it fall, which holds its ground and pushes its RS rating up to 87.",
+    "notAsserted": [
+     {
+      "text": "The stock price is falling freely",
+      "why": "The narration explicitly states institutions refuse to let it fall and it is holding its ground."
+     },
+     {
+      "text": "Institutions are aggressively and publicly bidding up the stock",
+      "why": "The narration states support is occurring quietly."
+     }
+    ]
+   },
+   "description": {
+    "img": "3d67ac1326",
+    "sees": [
+     "frame 1: A grey circular dollar coin labeled 'INSTITUTIONS' sits next to a rectangular gauge labeled 'PRICE' filled roughly halfway.",
+     "frame 2: The institutions dollar coin turns red with a pink halo around it, and an arrow curves over to the price gauge, which fills up significantly above the dashed midpoint.",
+     "frame 3: The highlighted red dollar coin and connecting arrow remain in place, with the price gauge staying filled near the top."
+    ],
+    "changed": "The institutions dollar coin turns red with a pink halo, an arrow connects it to the price gauge, and the price level rises from half-full to near the top.",
+    "cause": "Institutional activity or capital inflow causes the price level to rise.",
+    "effect": "Price increases substantially past its initial level.",
+    "message": "When institutional investors buy in, they drive the price sharply higher.",
+    "wouldConfuse": "The color red for institutions often signifies danger or decline rather than buying, which could momentarily confuse viewers about whether institutional action is positive or negative."
+   }
+  }
+ ]
+}

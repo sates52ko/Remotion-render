@@ -1,0 +1,59 @@
+{
+  "slug": "how-to-make-money-in-stocks",
+  "title": "How to Make Money in Stocks",
+  "author": "William J. O'Neil",
+  "genre": "finance",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "nonfiction",
+    "world": "ideas",
+    "era": 1988,
+    "realPeople": false,
+    "format": "argument",
+    "violence": "none",
+    "minorHarm": false,
+    "mustSee": [
+      "stock chart patterns with cup with handle breakout",
+      "CAN SLIM acronym rules",
+      "investor cutting losses at 7-8 percent",
+      "stock market ticker and trading floor"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 45,
+    "reasons": [
+      "an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)"
+    ],
+    "risks": []
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-06",
+    "fit": "antidote",
+    "confidence": "moderate",
+    "voxScore": 10.2,
+    "antidoteScore": 18.8,
+    "signals": {
+      "year": 1.9,
+      "history": 1.1,
+      "second": 30.1,
+      "abstract": 10.3,
+      "sensitive": 1.8,
+      "era": 2000,
+      "words": 7188
+    },
+    "reasons": [
+      "real-world / dated references (1.9 years, 1.1 history terms per 1k words) → photoreal shows the actual world (Vox)",
+      "the narration addresses the viewer (\"you\" 30.1/1k) → an idea/advice film, drawn as icons, diagrams and an everyman (Antidote)",
+      "idea vocabulary 10.3/1k (habits, decisions, attention, money…) → concepts need icons/diagrams, not photographs (Antidote)"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/how-to-make-money-in-stocks.mp3"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "img": "e833a0d09e",
+    "sees": [
+      "frame 1: A car icon labeled 'MARKET' with a small starburst on its hood rests beside a fully filled dark container labeled 'INTEREST'.",
+      "frame 2: A pink circle highlights the market car as the burst turns red and yellow, while an arrow curves over to the interest container, which drains to near empty.",
+      "frame 3: The highlighted market car and connecting arrow stay in place while the interest container remains depleted at the bottom level."
+    ],
+    "changed": "The market car receives a prominent crash burst and circular highlight, an arrow connects it to the interest meter, and the interest meter drains from full to almost empty.",
+    "cause": "A crash or breakdown in the market triggers a drain on interest.",
+    "effect": "Interest drops drastically to near zero.",
+    "message": "When the broader market crashes, interest rapidly collapses.",
+    "wouldConfuse": "It is ambiguous whether 'INTEREST' refers to interest rates or market enthusiasm/investor interest, and representing the market as a car is metaphorical."
+  },
+  {
+    "img": "3d67ac1326",
+    "sees": [
+      "frame 1: A grey circular dollar coin labeled 'INSTITUTIONS' sits next to a rectangular gauge labeled 'PRICE' filled roughly halfway.",
+      "frame 2: The institutions dollar coin turns red with a pink halo around it, and an arrow curves over to the price gauge, which fills up significantly above the dashed midpoint.",
+      "frame 3: The highlighted red dollar coin and connecting arrow remain in place, with the price gauge staying filled near the top."
+    ],
+    "changed": "The institutions dollar coin turns red with a pink halo, an arrow connects it to the price gauge, and the price level rises from half-full to near the top.",
+    "cause": "Institutional activity or capital inflow causes the price level to rise.",
+    "effect": "Price increases substantially past its initial level.",
+    "message": "When institutional investors buy in, they drive the price sharply higher.",
+    "wouldConfuse": "The color red for institutions often signifies danger or decline rather than buying, which could momentarily confuse viewers about whether institutional action is positive or negative."
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-07T07:40:47.942Z",
+  "at": "2026-11-07T07:42:35.370Z",
+  "config": "config.antidote.json",
+  "configSha256": "9055c5fee2bb0bca479a57967042618e9771116316aa58568f2fc6ad65e1ef2a",
+  "inputs": {
+    "storyboard": {
+      "path": "books/how-to-make-money-in-stocks/art.json",
+      "sha256": "0533f15f9047e3c61204c855ff69a542f69f8160cec466ae6f8ec4ddeb0ff56f"
+    },
+    "storyBible": {
+      "path": "books/how-to-make-money-in-stocks/story-bible.json",
+      "sha256": "1cca99beeba134ad4cbe1b8020e51a8709bbb6e55c2a5d12a154a381af050e24"
+    },
+    "motifs": {
+      "path": "books/how-to-make-money-in-stocks/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/how-to-make-money-in-stocks.vtt",
+      "sha256": "d6958bc88d372812c12678f20891cbccaf14c6e4667a824b9c6980a6b0129b54"
+    },
+    "audio": {
+      "path": "public/audio/how-to-make-money-in-stocks.mp3",
+      "sha256": "a7b500a456240756fcb41a8d3b20137a46eb4ca90e4ae091794074cfa2df0c35"
+    },
+    "singleRelation": {
+      "path": "books/how-to-make-money-in-stocks/single-relation/active.json",
+      "sha256": "6697a79db04baaf1f84d9552c9b9d55266a6a78a59d45da316f896b891a7827b"
+    }
+  },
+  "head": "1445f82345191de748d76be292895246ba753bfc",
+  "previewOnly": true,
+  "skipPack": true
+}

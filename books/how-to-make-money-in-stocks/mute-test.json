@@ -1,0 +1,68 @@
+{
+  "runs": [
+    {
+      "label": "final",
+      "date": "2026-11-07T07:29:44.968Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 28,
+        "ADDS": 15,
+        "WRONG": 2,
+        "NONE": 2,
+        "TEXT_ONLY": 13,
+        "EXPLAINS": 1
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": false,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "cc62ee1685da9f45a3d1b8d9c849a62f75c6aa5d2653be88e826eddd0b130a66",
+      "verdict": false,
+      "dead": 2,
+      "addsTargetMet": false,
+      "evidenceSha256": "f044e944b132811f6d036440ac78006f019cb384ccfc79e6965052581f496bea",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 50,
+      "configSha256": "9424d94dbaa0bbfe1178fca7be7bb7a4069925f9885d065be4d42d5758ff31fc",
+      "renderInputHash": "255349091a1e1b40",
+      "codeHead": "1445f82345191de748d76be292895246ba753bfc",
+      "framesConfigSha": "9424d94dbaa0bbfe"
+    },
+    {
+      "label": "run2",
+      "date": "2026-11-07T08:16:58.183Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 29,
+        "ADDS": 19,
+        "TEXT_ONLY": 11,
+        "WRONG": 1
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": true,
+      "sample": "fresh",
+      "verdict": true,
+      "dead": 0,
+      "addsTargetMet": true,
+      "evidenceSha256": "7e8a0d28756f6c8abe054b278eae30006f227a8c0309de702ae916947c417dd1",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 63,
+      "configSha256": "9055c5fee2bb0bca479a57967042618e9771116316aa58568f2fc6ad65e1ef2a",
+      "renderInputHash": "5d9695c5142ffc68",
+      "codeHead": "1445f82345191de748d76be292895246ba753bfc",
+      "framesConfigSha": "9055c5fee2bb0bca"
+    }
+  ]
+}

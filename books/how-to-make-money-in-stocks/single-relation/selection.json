@@ -1,0 +1,18 @@
+{
+  "schema": "single-relation-selection/1",
+  "policy": "c17-operator-selective-rollout",
+  "maxScenes": 15,
+  "chosen": [],
+  "kept": [
+    {
+      "sceneIndex": 135,
+      "keep": "A",
+      "why": "A/B: more wrong inferences with B (2 > 0)"
+    },
+    {
+      "sceneIndex": 189,
+      "keep": "A",
+      "why": "A/B: B 16.7 not above A 50"
+    }
+  ]
+}

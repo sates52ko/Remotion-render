@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "generatedAt": "2026-11-06T18:32:02.747Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "How to Make Money in Stocks",
+      "author": "William J. O'Neil",
+      "genre": "finance"
+    }
+  },
+  "world": {
+    "universeKey": "behavioral_psychology",
+    "label": "Cognitive Science & Behavioral Psychology",
+    "recommendedEngine": "antidote",
+    "engineConfidence": 0.85,
+    "engineRationale": "Mental loops and decision frameworks are best explained with kinetic animated diagrams and loops.",
+    "palette": {
+      "primary": "#7C3AED",
+      "secondary": "#0284C7",
+      "accent": "#F59E0B",
+      "paper": "#FDFDFE",
+      "ink": "#1E1B4B"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "room",
+      "office",
+      "classroom",
+      "stage"
+    ],
+    "activeCustomMotifs": {
+      "synapseLoop": {
+        "title": "Habit Loop",
+        "viewBox": "0 0 520 520",
+        "paths": [
+          {
+            "d": "M 260 100 A 150 150 0 0 1 410 250",
+            "stroke": "accent",
+            "strokeWidth": 9,
+            "strokeLinecap": "round",
+            "fill": "none"
+          },
+          {
+            "d": "M 410 270 A 150 150 0 0 1 260 420",
+            "stroke": "ink",
+            "strokeWidth": 9,
+            "strokeLinecap": "round",
+            "fill": "none"
+          },
+          {
+            "d": "M 240 420 A 150 150 0 0 1 90 270",
+            "stroke": "accent",
+            "strokeWidth": 9,
+            "strokeLinecap": "round",
+            "fill": "none"
+          },
+          {
+            "d": "M 90 250 A 150 150 0 0 1 240 100",
+            "stroke": "ink",
+            "strokeWidth": 9,
+            "strokeLinecap": "round",
+            "fill": "none"
+          },
+          {
+            "d": "M 260 80 L 285 100 L 260 120 Z",
+            "fill": "accent"
+          },
+          {
+            "d": "M 430 250 L 410 275 L 390 250 Z",
+            "fill": "ink"
+          },
+          {
+            "d": "M 260 440 L 235 420 L 260 400 Z",
+            "fill": "accent"
+          },
+          {
+            "d": "M 70 270 L 90 245 L 110 270 Z",
+            "fill": "ink"
+          }
+        ]
+      }
+    },
+    "gaps": [
+      {
+        "type": "motif",
+        "name": "synapseLoop",
+        "action": "synthesize_customSvg"
+      }
+    ]
+  },
+  "vox": {
+    "primaryDocType": "lab",
+    "suggestedLocations": [],
+    "photoPromptStyle": "Cognitive Science & Behavioral Psychology, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

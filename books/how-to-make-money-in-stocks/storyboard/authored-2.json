@@ -1,0 +1,963 @@
+[
+  {
+    "i": 38,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "ACCELERATING BY 25 TO 50%",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "The investor points to the target quarterly acceleration threshold of 25 to 50 percent minimum.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quarterly earnings must accelerate by at least 25 to 50 percent.",
+      "concreteVisual": "The investor sits at his workstation pointing to a target metric icon representing the strict earnings cutoff.",
+      "onScreenText": "ACCELERATING BY 25 TO 50%",
+      "relationToPrevious": "Opens Chunk 2 by quantifying the explosive earnings acceleration baseline.",
+      "addedInformation": "Visualizes the minimum threshold target that separates true market leaders from mediocre stocks."
+    }
+  },
+  {
+    "i": 39,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ONE LUCKY QUARTER",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "The investor rejects the illusion of a single windfall quarter from non-operational sales.",
+    "noVisual": "Non-operating windfalls like real estate sales cannot be drawn directly without confusing the trading context.",
+    "storyboard": {
+      "claim": "A single lucky quarter from asset sales does not count as real growth.",
+      "concreteVisual": "The investor at his workstation speaks firmly beside the struck-through phrase crossing out the lucky quarter.",
+      "onScreenText": "ONE LUCKY QUARTER",
+      "relationToPrevious": "Disqualifies temporary earnings spikes from the legitimate acceleration defined in beat 38.",
+      "addedInformation": "The strike visually eliminates one-time windfalls from valid CAN SLIM candidates."
+    }
+  },
+  {
+    "i": 40,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "CURRENT QUARTER",
+        "3-YEAR GROWTH"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flow diagram links the current quarterly earnings surge with three consecutive years of annual growth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Annual earnings growth over three years must validate the current quarter.",
+      "concreteVisual": "A two-stage flow diagram showing CURRENT QUARTER flowing into 3-YEAR GROWTH.",
+      "onScreenText": "CURRENT QUARTER -> 3-YEAR GROWTH",
+      "relationToPrevious": "Builds the dual-filter foundation by adding the multi-year track record to the current quarter.",
+      "addedInformation": "Abstracts the pairing mechanism into an explicit analytical sequence."
+    }
+  },
+  {
+    "i": 41,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "CURRENT QUARTER",
+        "3-YEAR GROWTH",
+        "EXPLOSIVE SPARK"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The flow diagram resolves into a third stage showing how historical proof and current acceleration produce an explosive spark.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The collision of annual proof and quarterly acceleration sparks the stock's major run.",
+      "concreteVisual": "The flow diagram extends with a third node labeled EXPLOSIVE SPARK receiving input from the first two.",
+      "onScreenText": "CURRENT QUARTER -> 3-YEAR GROWTH -> EXPLOSIVE SPARK",
+      "relationToPrevious": "Completes the flow sequence started in beat 40 by revealing the ultimate outcome.",
+      "addedInformation": "Shows the causal synergy where historical track record and immediate momentum converge."
+    }
+  },
+  {
+    "i": 42,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "TEXAS INSTRUMENTS IN 1958",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor consults O'Neil's historical records book to examine the 1958 Texas Instruments case study.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil grounds CAN SLIM rules in historical winners like Texas Instruments in 1958.",
+      "concreteVisual": "The investor in a study room holding a book of market models with the historical case study callout.",
+      "onScreenText": "TEXAS INSTRUMENTS IN 1958",
+      "relationToPrevious": "Shifts from the theoretical formula to a concrete historical case study.",
+      "addedInformation": "Anchors the discussion in documented market history rather than speculation."
+    }
+  },
+  {
+    "i": 43,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WATCHING CLOSELY",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The investor examines company figures through a magnifier, demonstrating intense analytical discipline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The real discipline is rigorously scrutinizing earnings deceleration before the crowd notices.",
+      "concreteVisual": "The investor at his workstation holds a magnifier up to examine the fine print of financial reports.",
+      "onScreenText": "PAYING INCREDIBLY CLOSE ATTENTION",
+      "relationToPrevious": "Moves from identifying the company to the discipline needed to monitor its growth trajectory.",
+      "addedInformation": "The magnifier highlights the forensic scrutiny required to spot early warning signs."
+    }
+  },
+  {
+    "i": 44,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EARNINGS GROWTH WAS BLISTERING",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "The investor highlights the blistering initial earnings numbers driving Texas Instruments' historic run.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Texas Instruments began its historic advance with blistering earnings growth.",
+      "concreteVisual": "The investor at his workstation reviews the surging performance metrics displayed on screen.",
+      "onScreenText": "EARNINGS GROWTH WAS BLISTERING",
+      "relationToPrevious": "Establishes the explosive growth baseline before the subsequent slowdown.",
+      "addedInformation": "Shows the initial euphoria and validation of early CAN SLIM criteria."
+    }
+  },
+  {
+    "i": 45,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "UP 129% THEN 87%",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "continue": true,
+    "explainedBy": "The investor points to the remarkable quarterly growth sequence of 129, 97, and 87 percent as it begins to moderate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Growth rates peaked at 129 percent before beginning a visible downshift.",
+      "concreteVisual": "The investor remains at the workstation pointing to the descending growth rate numbers.",
+      "onScreenText": "UP 129% THEN 87%",
+      "relationToPrevious": "Continues the workstation inspection by displaying the specific numerical peak.",
+      "addedInformation": "Shows the exact inflection point where triple-digit growth begins to cool."
+    }
+  },
+  {
+    "i": 46,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "QUARTERLY SLOWDOWN",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "continue": true,
+    "explainedBy": "The investor reacts with concern to two consecutive quarters of growth slowing to 22 percent.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Growth sharply decelerated to 22 percent across two back-to-back quarters.",
+      "concreteVisual": "The investor at the same workstation looks concerned as the quarterly growth drop is highlighted.",
+      "onScreenText": "TWO CONSECUTIVE QUARTERS SLOWDOWN",
+      "relationToPrevious": "Shows the confirmation of deceleration following the peak shown in beat 45.",
+      "addedInformation": "Shifts the emotional and analytical tone from excitement to danger."
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRIPS EVERYONE UP",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "The investor notes the deceptive nuance where positive absolute earnings conceal slowing growth.",
+    "noVisual": "The mathematical distinction between positive levels and negative second derivatives is conceptual.",
+    "storyboard": {
+      "claim": "Positive total profits trick most people into ignoring slowing growth velocity.",
+      "concreteVisual": "The investor speaks directly at the workstation, highlighting the common analytical trap.",
+      "onScreenText": "TRIPS EVERYONE UP",
+      "relationToPrevious": "Pauses to emphasize why most traders fail to act on the deceleration shown in beat 46.",
+      "addedInformation": "warns the viewer against confusing nominal profitability with accelerating momentum."
+    }
+  },
+  {
+    "i": 48,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HOLD ON TO IT",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional analyst smugly advises holding the stock while the retail investor looks skeptical.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Wall Street urges holding mature profitable companies despite their slowing growth.",
+      "concreteVisual": "The institutional manager speaks smugly next to a struck-through HOLD ON TO IT callout, while the investor stands skeptical.",
+      "onScreenText": "HOLD ON TO IT",
+      "relationToPrevious": "Contrasts mainstream analyst complacency with the quantitative warning sign.",
+      "addedInformation": "The strike rejects standard Wall Street advice to hold slowing winners."
+    }
+  },
+  {
+    "i": 49,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A BLARING ALARM",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The investor slumps in dread as the growth collapse from 129 percent to 20 percent acts as an alarm.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sudden deceleration from 129 percent down to 20 percent is a critical warning alarm.",
+      "concreteVisual": "The investor slumps at his desk under high tension with an alarm callout.",
+      "onScreenText": "A BLARING ALARM",
+      "relationToPrevious": "Translates the analytical slowdown into an urgent emergency for the trader.",
+      "addedInformation": "Dramatizes the urgency of the growth drop that analysts dismissed in beat 48."
+    }
+  },
+  {
+    "i": 50,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MATHEMATICAL SIGNAL TO SELL",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "explainedBy": "The investor walks away from the trade, executing the mathematical rule to sell as momentum expires.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Deceleration is the objective mathematical mandate to exit the position.",
+      "concreteVisual": "The investor walks decisively away from the trading desk, concluding the Texas Instruments case.",
+      "onScreenText": "MATHEMATICAL SIGNAL TO SELL",
+      "relationToPrevious": "Resolves the Texas Instruments sequence with the definitive exit action.",
+      "addedInformation": "Demonstrates strict mechanical execution over emotional attachment."
+    }
+  },
+  {
+    "i": 51,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TERRIBLE IDEA",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "afraid",
+    "action": "talk",
+    "partnerExpression": "smirk",
+    "partnerAction": "talk",
+    "explainedBy": "The retail investor pushes back anxiously while the institutional host calmly welcomes the objection.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retail traders instinctively fear that buying explosive growth is reckless.",
+      "concreteVisual": "The investor gestures in panic as the institutional host smirks back confidently.",
+      "onScreenText": "A TERRIBLE IDEA",
+      "relationToPrevious": "Transitions from the case study to an interactive devil's advocate debate.",
+      "addedInformation": "Captures the visceral psychological recoil most people feel toward buying high growth."
+    }
+  },
+  {
+    "i": 52,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN UNSUSTAINABLE BUBBLE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The investor questions whether requiring massive growth forces traders into unsustainable bubbles.",
+    "noVisual": "A financial bubble cannot be drawn as a literal soap bubble without trivializing the market risk.",
+    "storyboard": {
+      "claim": "Demanding extreme growth rates seems like an invitation to buy financial bubbles.",
+      "concreteVisual": "The investor argues the objection with an anxious expression beside the bubble callout.",
+      "onScreenText": "AN UNSUSTAINABLE BUBBLE",
+      "relationToPrevious": "Articulates the specific argument behind the skepticism raised in beat 51.",
+      "addedInformation": "Frames the classic retail critique of momentum and growth investing."
+    }
+  },
+  {
+    "i": 53,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUYING PEAK HYPE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "explainedBy": "The investor presses the point that chasing unsustainable growth means buying at the absolute peak of hype.",
+    "noVisual": "Metaphors like trees growing to the sky read literally and mislead viewers; the hype concept is text-carried.",
+    "storyboard": {
+      "claim": "Skeptics argue that high growth requirements lead straight into peak hype.",
+      "concreteVisual": "The investor points upward emphatically, challenging the wisdom of chasing peak valuations.",
+      "onScreenText": "BUYING PEAK HYPE",
+      "relationToPrevious": "Deepens the counter-argument before the rebuttal begins.",
+      "addedInformation": "Identifies the fear of buying the exact top of an unsustainable advance."
+    }
+  },
+  {
+    "i": 54,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MISUNDERSTANDS THE OBJECTIVE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager explains that the objection fundamentally misunderstands the trader's true objective.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The objection fails to understand that CAN SLIM traders never plan to hold forever.",
+      "concreteVisual": "The institutional manager speaks patiently while the retail investor listens attentively.",
+      "onScreenText": "MISUNDERSTANDS THE OBJECTIVE",
+      "relationToPrevious": "Begins the formal refutation of the devil's advocate argument.",
+      "addedInformation": "Validates the skeptic's premise while shifting to the correct tactical framework."
+    }
+  },
+  {
+    "i": 55,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MARRYING THIS COMPANY",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The trader rejects romantic lifelong attachment to a corporation.",
+    "noVisual": "Marriage and romance icons would mislead viewers into reading literal romance.",
+    "storyboard": {
+      "claim": "Traders must abandon the buy-and-hold romantic attachment to companies.",
+      "concreteVisual": "The investor firmly gestures no beside the struck-through phrase MARRYING THIS COMPANY.",
+      "onScreenText": "MARRYING THIS COMPANY",
+      "relationToPrevious": "Dismantles the conventional investing myth of holding beloved companies forever.",
+      "addedInformation": "Strips away emotional sentimentality from stock ownership."
+    }
+  },
+  {
+    "i": 56,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "WINDOW OF HYPER ACCELERATION",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor targets the precise mathematical window of hyper-acceleration on his charts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Stocks should only be held during the precise mathematical window of hyper-acceleration.",
+      "concreteVisual": "The investor at his workstation points to the target icon framing the specific trading window.",
+      "onScreenText": "WINDOW OF HYPER ACCELERATION",
+      "relationToPrevious": "Supplies the positive replacement strategy to the romantic myth rejected in beat 55.",
+      "addedInformation": "Focuses capital exclusively on periods of maximum velocity."
+    }
+  },
+  {
+    "i": 57,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "STEP OFF THE TRAIN",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "leave",
+    "explainedBy": "The investor steps away down the road before deceleration causes a catastrophic derailment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Two quarters of deceleration require stepping off before the position derails.",
+      "concreteVisual": "The investor executes a leave action walking past the road icon representing the exit path.",
+      "onScreenText": "STEP OFF THE TRAIN",
+      "relationToPrevious": "Details the concrete exit trigger that enforces the temporary holding strategy.",
+      "addedInformation": "Translates mathematical deceleration into a definitive physical departure."
+    }
+  },
+  {
+    "i": 58,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STEADY GROWER",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The investor consciously dismisses the psychological craving for comfortable mediocre growth.",
+    "noVisual": "Psychological comfort and complacency are mental states lacking direct physical icons.",
+    "storyboard": {
+      "claim": "Investors must suppress the instinct to seek comfort in slow 12 percent growers.",
+      "concreteVisual": "The investor speaks with clear resolve beside the struck-through callout rejecting comfortable stocks.",
+      "onScreenText": "BORING RELIABLE 12% GROWER",
+      "relationToPrevious": "Directly links back to the psychological barrier that blocks explosive returns.",
+      "addedInformation": "Eliminates the false security of average returns from the trader's mindset."
+    }
+  },
+  {
+    "i": 59,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "SAFE AND STEADY",
+        "EXPLOSIVE ACCELERATION"
+      ],
+      "values": [
+        0.9
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A spectrum diagram contrasts safe and steady against explosive acceleration, showing where market rewards concentrate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The market heavily rewards explosive acceleration over safe and steady stocks.",
+      "concreteVisual": "A spectrum diagram placing the value indicator near the explosive acceleration pole.",
+      "onScreenText": "SAFE AND STEADY <---> EXPLOSIVE ACCELERATION",
+      "relationToPrevious": "Summarizes the entire C & A debate with a clear quantitative spectrum.",
+      "addedInformation": "Visually polarizes the two investing philosophies and highlights the asymmetric payoff."
+    }
+  },
+  {
+    "i": 60,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "NEW CATALYST AND HIGHS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "lightbulb",
+    "explainedBy": "The investor holds a lightbulb, introducing the new catalyst and new highs that trigger acceleration.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The N in CAN SLIM stands for new catalysts that trigger explosive acceleration.",
+      "concreteVisual": "The investor at his workstation holds an illuminating lightbulb icon symbolizing a new catalyst.",
+      "onScreenText": "NEW CATALYST AND HIGHS",
+      "relationToPrevious": "Transitions from earnings metrics (C and A) to the operational catalyst (N).",
+      "addedInformation": "Provides a concrete symbol for the spark that drives institutional interest."
+    }
+  },
+  {
+    "i": 61,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHANGE IN BUSINESS REALITY",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The institutional manager emphasizes that only a massive shift in business reality causes explosive growth.",
+    "noVisual": "A macroeconomic or corporate operational overhaul is systemic and lacks a single physical motif.",
+    "storyboard": {
+      "claim": "Explosive earnings require a structural transformation in underlying operations.",
+      "concreteVisual": "The institutional manager speaks from his trading office highlighting the operational change.",
+      "onScreenText": "CHANGE IN BUSINESS REALITY",
+      "relationToPrevious": "Explains the underlying cause behind the catalyst introduced in beat 60.",
+      "addedInformation": "Reminds the trader that charts reflect real underlying business transformations."
+    }
+  },
+  {
+    "i": 62,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "WRIGHT AERONAUTICAL IN 1927",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The investor studies the historical notes documenting Wright Aeronautical in 1927.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Wright Aeronautical in 1927 provides the classic historical study of a new catalyst.",
+      "concreteVisual": "The investor in the study room reviews archival notes on the 1927 aviation breakthrough.",
+      "onScreenText": "WRIGHT AERONAUTICAL IN 1927",
+      "relationToPrevious": "Grounds the catalyst concept in a legendary historical market case.",
+      "addedInformation": "Introduces the narrative example that will demonstrate catalysts and all-time highs."
+    }
+  },
+  {
+    "i": 63,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DEAFENING NOISE",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "slump",
+    "explainedBy": "The observer reacts in awe to the deafening roar and power of the industrial factory floor.",
+    "noVisual": "Smell of ozone and loud factory noise cannot be drawn visually in the rig.",
+    "storyboard": {
+      "claim": "The factory floor was an intensely sensory environment of deafening industrial production.",
+      "concreteVisual": "The investor covers his ears or reacts with astonishment against an abstract industrial backdrop.",
+      "onScreenText": "NOISE IS ABSOLUTELY DEAFENING",
+      "relationToPrevious": "Transports the viewer into the physical manufacturing reality behind the breakthrough.",
+      "addedInformation": "Sensory immersion contrasting raw physical engineering with Wall Street ticker screens."
+    }
+  },
+  {
+    "i": 64,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "TOTAL GAME CHANGER",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "explainedBy": "The investor points to the chess knight icon celebrating the revolutionary aircraft engine as a total game changer.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The air-cooled aircraft engine was a revolutionary technological game changer.",
+      "concreteVisual": "The investor points to the chess knight game icon signifying a decisive strategic breakthrough.",
+      "onScreenText": "TOTAL GAME CHANGER",
+      "relationToPrevious": "Names the specific physical innovation that produced the factory roar in beat 63.",
+      "addedInformation": "The chess knight emphasizes the game-changing strategic leap in aviation."
+    }
+  },
+  {
+    "i": 65,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TICKER TAPE",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "explainedBy": "The institutional manager on Wall Street monitors the frantically chattering ticker tape feed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "On Wall Street, the ticker tape exploded with furious trading activity.",
+      "concreteVisual": "The institutional trader on a busy trading floor reacts to rapid incoming market tape.",
+      "onScreenText": "TICKER TAPE CHATTERING FRANTICALLY",
+      "relationToPrevious": "Cuts from the factory floor innovation to the Wall Street market reaction.",
+      "addedInformation": "Shows the institutional transmission mechanism turning technological disruption into trading frenzy."
+    }
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ALL-TIME HIGH",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "The institutional manager celebrates as Wright Aeronautical breaks out to an absolute all-time high.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Wright Aeronautical surged to an unprecedented all-time high price.",
+      "concreteVisual": "The institutional manager celebrates in his office beside the all-time high callout.",
+      "onScreenText": "ABSOLUTE ALL-TIME HIGH",
+      "relationToPrevious": "Shows the price consequence of the frantic ticker tape buying in beat 65.",
+      "addedInformation": "Marks the critical price milestone that terrifies retail traders."
+    }
+  },
+  {
+    "i": 67,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TERRIFIED TO BUY IT",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The retail investor freezes in terror, refusing to buy a stock trading at all-time highs.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retail traders are terrified to buy stocks trading at all-time record highs.",
+      "concreteVisual": "The retail investor slumps fearfully at his desk, paralyzed by the high stock price.",
+      "onScreenText": "TERRIFIED TO BUY IT",
+      "relationToPrevious": "Directly contrasts the institutional celebration in beat 66 with retail paralysis.",
+      "addedInformation": "Visualizes the psychological fallacy that what is high cannot go higher."
+    }
+  },
+  {
+    "i": 68,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OLD COMFORTABLE STOCK",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The investor rejects buying stagnant, comfortable stocks that linger at five-year-old price levels.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Traders must avoid buying stagnant stocks that remain stuck at multi-year lows.",
+      "concreteVisual": "The investor turns away from the struck-through phrase rejecting old comfortable stocks.",
+      "onScreenText": "OLD COMFORTABLE STOCK",
+      "relationToPrevious": "Points out the negative habit that leads retail traders to avoid winning stocks.",
+      "addedInformation": "The strike discredits the false comfort of buying unmoving legacy stocks."
+    }
+  },
+  {
+    "i": 69,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "NEW PRODUCT",
+        "NEW MANAGEMENT",
+        "NEW CONDITION"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A sorter diagram categorizes the three main market catalysts: new product, new management, and new industry conditions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "New catalysts fall into three primary categories: products, management, or industry conditions.",
+      "concreteVisual": "A three-bucket sorter diagram displaying NEW PRODUCT, NEW MANAGEMENT, and NEW CONDITION.",
+      "onScreenText": "NEW PRODUCT | NEW MANAGEMENT | NEW CONDITION",
+      "relationToPrevious": "Breaks down the broad catalyst concept into its three concrete operational forms.",
+      "addedInformation": "Organizes the diverse triggers that can ignite explosive institutional buying."
+    }
+  },
+  {
+    "i": 70,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ENERGY CRISIS",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The investor examines historical market records illustrating the 1970s energy crisis as a catalyst.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The 1970s energy crisis created a massive industry condition catalyst for Dome Petroleum.",
+      "concreteVisual": "The investor at his workstation holds research notes detailing the energy crisis catalyst.",
+      "onScreenText": "THE ENERGY CRISIS",
+      "relationToPrevious": "Provides a concrete historical example of the third sorter bucket (industry conditions).",
+      "addedInformation": "Validates macroeconomic and commodity shifts as valid CAN SLIM triggers."
+    }
+  },
+  {
+    "i": 71,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DOME ADVANCED 1000%",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "The investor celebrates the massive 1,000 percent advance generated by the new fundamental catalyst.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dome advanced 1,000 percent powered by the fundamental energy of the new catalyst.",
+      "concreteVisual": "The investor raises his hands celebrating the monumental 1,000 percent return on his chart.",
+      "onScreenText": "DOME ADVANCED 1000%",
+      "relationToPrevious": "Demonstrates the spectacular payoff of correctly identifying a new industry catalyst.",
+      "addedInformation": "Reinforces the massive magnitude of gains possible when catalysts align."
+    }
+  },
+  {
+    "i": 72,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BREAKING INTO BLUE SKY",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The investor wrestles with the difficult requirement of buying stocks breaking out into new all-time high territory.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Traders find buying stocks at brand new price highs the most difficult rule to accept.",
+      "concreteVisual": "The investor at his trading desk speaks with visible anxiety about buying at record price highs.",
+      "onScreenText": "BREAKING INTO BLUE SKY",
+      "relationToPrevious": "Transitions from the operational catalyst to the psychological dread of new highs.",
+      "addedInformation": "Highlights the emotional resistance that keeps most traders from buying winning stocks."
+    }
+  },
+  {
+    "i": 73,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TALK ABOUT OVERHEAD SUPPLY",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager introduces the mechanics of overhead supply and trapped buyer psychology.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Overhead supply is a mechanical price barrier driven by trapped buyer psychology.",
+      "concreteVisual": "The institutional manager gestures explanatory to the investor in the office setting.",
+      "onScreenText": "TALK ABOUT OVERHEAD SUPPLY",
+      "relationToPrevious": "Sets up the psychological explanation for why new highs offer frictionless advance.",
+      "addedInformation": "Deconstructs a seemingly technical concept into raw human emotion."
+    }
+  },
+  {
+    "i": 74,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "WATCH IT CRASH TO $20",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The retail investor slumps in horror beside the crash icon as his $50 stock plummets to $20.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Buying at fifty dollars before a crash to twenty traps the investor in severe pain.",
+      "concreteVisual": "The investor slumps at his desk beside the red crash icon showing the collapse from fifty to twenty.",
+      "onScreenText": "WATCH IT CRASH TO $20",
+      "relationToPrevious": "Instantiates the trapped buyer scenario with concrete prices and sudden disaster.",
+      "addedInformation": "Visualizes the traumatic origin of overhead supply."
+    }
+  },
+  {
+    "i": 75,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HOLD ON FOR 5 YEARS",
+      "style": "stack"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The investor slumps in exhaustion after holding a losing stock for five agonizing years.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Five years of holding a collapsed stock erodes all desire for profit into pure regret.",
+      "concreteVisual": "The investor remains slumped at his workstation, burdened by five years of trapped capital.",
+      "onScreenText": "HOLD ON FOR 5 YEARS",
+      "relationToPrevious": "Depicts the prolonged psychological wear of bag-holding through the years.",
+      "addedInformation": "Emphasizes how time transforms an aggressive growth expectation into desperate regret."
+    }
+  },
+  {
+    "i": 76,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "JUST WANT YOUR MONEY BACK",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "continue": true,
+    "explainedBy": "The trapped investor vows to sell the instant the stock recovers to fifty dollars to get his money back.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Trapped buyers only want to break even at fifty dollars and dump their shares.",
+      "concreteVisual": "The investor speaks with desperate relief at his desk, ready to sell the moment the stock hits fifty.",
+      "onScreenText": "JUST WANT YOUR MONEY BACK",
+      "relationToPrevious": "Concludes the trapped buyer narrative, establishing the exact mechanism that forms overhead resistance.",
+      "addedInformation": "Reveals the psychological origin of overhead supply before chunk 3 explores its market impact."
+    }
+  }
+]

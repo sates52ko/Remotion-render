@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "135",
+      "understanding": "The stock holds its ground and its RS rating rises to 87 because institutions are quietly supporting its price and refusing to let it drop.",
+      "cause": "Institutions quietly supporting the price and refusing to let it fall",
+      "effect": "The stock holds its ground and its RS rating is pushed up to 87",
+      "supportsCausality": true,
+      "asserted": "Institutions are quietly supporting the stock's price, refusing to let it fall, which holds its ground and pushes its RS rating up to 87.",
+      "notAsserted": [
+        {
+          "text": "The stock price is falling freely",
+          "why": "The narration explicitly states institutions refuse to let it fall and it is holding its ground."
+        },
+        {
+          "text": "Institutions are aggressively and publicly bidding up the stock",
+          "why": "The narration states support is occurring quietly."
+        }
+      ],
+      "keyFacts": [
+        "The stock's RS rating is pushed up to 87.",
+        "The stock is holding its ground.",
+        "Institutions are quietly supporting the price.",
+        "Institutions refuse to let the stock fall."
+      ],
+      "wrong": [
+        "A high RS rating of 87 causes institutions to quietly begin supporting the stock price.",
+        "The stock is dropping sharply because institutions refuse to support it.",
+        "Quiet institutional selling is holding the stock's ground and lowering its RS rating."
+      ]
+    },
+    {
+      "id": "189",
+      "understanding": "Riding out a severe bear market cuts your capital base in half and destroys the magic of compound interest according to O'Neil's math.",
+      "cause": "Riding out a severe bear market and having your capital base cut in half",
+      "effect": "The magic of compound interest is destroyed",
+      "supportsCausality": true,
+      "asserted": "Your capital base is cut in half, and O'Neil's math proves that riding out a severe bear market destroys the magic of compound interest.",
+      "notAsserted": [
+        {
+          "text": "Holding through a bear market preserves compound interest",
+          "why": "The narration asserts that writing out a severe bear market destroys compound interest."
+        },
+        {
+          "text": "Compound interest continues without capital loss",
+          "why": "The narration states that the capital base is cut in half."
+        }
+      ],
+      "keyFacts": [
+        "The capital base is cut in half.",
+        "O'Neil has mathematical proof regarding bear markets.",
+        "Writing out a severe bear market destroys the magic of compound interest."
+      ],
+      "wrong": [
+        "The destruction of compound interest causes an investor's capital base to be cut in half.",
+        "O'Neil's math proves that enduring a severe bear market strengthens compound interest.",
+        "Cutting your capital base in half accelerates the power of compound interest."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+[
+  {
+    "i": 0,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "PLUMMETED 50%",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "A retail trader sits at his workstation staring in shock at a stock chart that has plummeted 50%.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A stock chart collapses by 50% on the trader's screen.",
+      "concreteVisual": "A retail trader at a dual-monitor workstation looks worriedly at a crashed stock line.",
+      "onScreenText": "PLUMMETED 50%",
+      "relationToPrevious": "Opening scene establishing the trader confronting a market collapse.",
+      "addedInformation": "Puts the viewer in the trader's seat witnessing the severe 50% drop."
+    }
+  },
+  {
+    "i": 1,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BARGAIN, IT'S CHEAP",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "The seated trader rationalizes the bleeding red chart as an irresistible cheap bargain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trader's brain misinterprets a collapsing stock as a bargain.",
+      "concreteVisual": "The seated trader smiles and talks at his screen, treating the red drop as an opportunity.",
+      "onScreenText": "BARGAIN, IT'S CHEAP",
+      "relationToPrevious": "Continues the trader at the desk as his cognitive bias takes over.",
+      "addedInformation": "Contrasts the objective market collapse with the trader's naive optimism."
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BLASTED THROUGH ALL-TIME HIGH",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "The trader looks over at a second screen where another stock has blasted through its all-time high.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A second stock blasts through its all-time high into uncharted territory.",
+      "concreteVisual": "The trader points in astonishment at a second monitor showing a vertical breakout.",
+      "onScreenText": "BLASTED THROUGH ALL-TIME HIGH",
+      "relationToPrevious": "Contrasts the plunged stock on screen one with an explosive breakout on screen two.",
+      "addedInformation": "Visualizes the stark divergence between the two charts confronting the trader."
+    }
+  },
+  {
+    "i": 3,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TERRIFYING, IT'S TOO EXPENSIVE",
+      "style": "box"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The trader recoils in fear from the high-flying stock, convincing himself it is too expensive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trader's fear instincts label the breakout stock as too expensive and terrifying.",
+      "concreteVisual": "The trader slumps in his chair with a fearful expression, backing away from the breakout.",
+      "onScreenText": "TERRIFYING, IT'S TOO EXPENSIVE",
+      "relationToPrevious": "Shows the psychological flip side of fear preventing buying at highs.",
+      "addedInformation": "Captures the emotional dread of feeling you missed the boat."
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ULTIMATE PSYCHOLOGICAL TRAP",
+      "style": "highlight"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The trader rationalizes that the high stock must crash, falling into the ultimate psychological trap.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Believing cheap stocks must bounce and expensive stocks must crash is a recurring psychological trap.",
+      "concreteVisual": "The trader at his desk speaks with concern, caught in the documented retail trap.",
+      "onScreenText": "THE ULTIMATE PSYCHOLOGICAL TRAP",
+      "relationToPrevious": "Names the twin cognitive biases as a historical psychological trap.",
+      "addedInformation": "Frames the dual instincts as the primary driver of retail trading failure."
+    }
+  },
+  {
+    "i": 5,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "98% OF RETAIL INVESTORS",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Almost all retail investors inevitably click buy on the cheap, falling stock.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "98% of retail investors click buy on falling, supposedly cheap stocks.",
+      "concreteVisual": "The retail trader clicks his screen to purchase the falling stock.",
+      "onScreenText": "98% OF RETAIL INVESTORS",
+      "relationToPrevious": "Shows the trap springing as retail traders execute the wrong decision.",
+      "addedInformation": "Highlights the overwhelming 98% statistical majority making this mistake."
+    }
+  },
+  {
+    "i": 6,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "COLLAPSE TO ZERO",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The retail investor sits helplessly watching his stock slowly bleed out and collapse to zero.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retail investors watch helplessly as their cheap stock collapses toward zero.",
+      "concreteVisual": "The trader slumps at his workstation watching the crash icon as his position dissolves.",
+      "onScreenText": "COLLAPSE TO ZERO",
+      "relationToPrevious": "The catastrophic outcome of buying the falling stock.",
+      "addedInformation": "Shows the emotional defeat of bag-holding a dying position."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUYING AT ALL-TIME HIGHS",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "institution"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "Institutional fund managers aggressively buy the expensive stock at all-time highs, fueling a massive breakout.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutional funds aggressively buy stocks at all-time highs, pushing them into vertical breakouts.",
+      "concreteVisual": "A confident institutional manager in a navy suit points decisively at market breakout feeds.",
+      "onScreenText": "BUYING AT ALL-TIME HIGHS",
+      "relationToPrevious": "Cuts from retail defeat to institutional dominance on the opposite trade.",
+      "addedInformation": "Demonstrates why institutional volume drives the real winners higher."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NATURAL INSTINCTS BETRAY US",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "coin",
+    "explainedBy": "An investor clutches his money worriedly, questioning why natural human instincts betray traders under pressure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Natural human psychology is wired to fail when real financial capital is at stake.",
+      "concreteVisual": "The retail investor stands holding a coin with an anxious expression, reflecting on his losses.",
+      "onScreenText": "NATURAL INSTINCTS BETRAY US",
+      "relationToPrevious": "Transitions from the market divergence to the underlying psychological cause.",
+      "addedInformation": "Grounds the existential question in the physical preservation of capital."
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "FEAR OF HEIGHTS",
+        "DESIRE FOR A BARGAIN"
+      ],
+      "values": [
+        0.8
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A spectrum contrasts human instincts: the retail fear of heights on the left against the craving for bargains on the right.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Human instincts swing between fear of high prices and the irrational craving for cheap bargains.",
+      "concreteVisual": "A spectrum diagram plotting the emotional tension between fear of heights and desire for bargains.",
+      "onScreenText": "FEAR OF HEIGHTS / DESIRE FOR A BARGAIN",
+      "relationToPrevious": "Breaks down the psychological instincts named in the previous beat into measurable poles.",
+      "addedInformation": "Visualizes the dual emotional biases governing retail behavior without sound."
+    }
+  },
+  {
+    "i": 10,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DESTROYING YOUR PORTFOLIO",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "An investor slumps at his workstation as his emotional attachment to corporate stories destroys his portfolio.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The emotional need to be right about a story is what destroys investor portfolios.",
+      "concreteVisual": "The investor slumps at his trading desk looking distraught as his capital deteriorates.",
+      "onScreenText": "DESTROYING YOUR PORTFOLIO",
+      "relationToPrevious": "Resolves the emotional trap by showing the final damage to capital.",
+      "addedInformation": "Pinpoints the root cause of ruin: ego and narrative attachment."
+    }
+  },
+  {
+    "i": 11,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "WILLIAM J. O'NEIL",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor holds up William J. O'Neil's landmark study as the hosts introduce the deep dive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The episode unpacks William J. O'Neil's exhaustive historical market study.",
+      "concreteVisual": "An investor in a study room holds the research book introducing O'Neil's masterwork.",
+      "onScreenText": "WILLIAM J. O'NEIL",
+      "relationToPrevious": "Introduces the authoritative source material that solves the retail dilemma.",
+      "addedInformation": "Establishes the foundation of empirical historical research."
+    }
+  },
+  {
+    "i": 12,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "HOW TO MAKE MONEY IN STOCKS",
+      "style": "highlight"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor presents the classic book How to Make Money in Stocks to decode the CAN SLIM system.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil's research was codified in the book How to Make Money in Stocks and the CAN SLIM system.",
+      "concreteVisual": "The investor continues holding the book, smiling as the title and mission are highlighted.",
+      "onScreenText": "HOW TO MAKE MONEY IN STOCKS",
+      "relationToPrevious": "Connects O'Neil's monumental research to the published book title.",
+      "addedInformation": "Clearly names the book and the CAN SLIM system under investigation."
+    }
+  },
+  {
+    "i": 13,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "COMMON ASSUMPTION",
+        "claim": "A TRADITIONAL STOCK PICKING GUIDE",
+        "inputs": [
+          "FINANCIAL RATIOS",
+          "STOCK PICKING GUIDE"
+        ],
+        "hub": "ANALYSIS",
+        "output": "INVESTMENT SUCCESS",
+        "verdict": "MISSING THE POINT ENTIRELY",
+        "reason": "AN UNFEELING MECHANISM",
+        "truth": "A PSYCHOLOGICAL FRAMEWORK",
+        "cues": {
+          "rejected": {
+            "phrase": "missing the point entirely",
+            "occurrence": 1
+          }
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A refute diagram rejects the assumption that O'Neil's work is a traditional guide of memorized ratios.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "This work is not a traditional stock-picking guide or a list of financial ratios.",
+      "concreteVisual": "A refute diagram crosses out the traditional stock guide model on the cue phrase.",
+      "onScreenText": "MISSING THE POINT ENTIRELY",
+      "relationToPrevious": "Dismantles the conventional view of financial investing guides.",
+      "addedInformation": "Forces a fundamental reframe before exploring the actual rules."
+    }
+  },
+  {
+    "i": 14,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN UNCOMPROMISING PSYCHOLOGICAL FRAMEWORK",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor points to the core reframe: an uncompromising psychological framework for an unfeeling market.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil's system is an uncompromising psychological framework for operating in an unfeeling market.",
+      "concreteVisual": "The investor stands in an abstract analytical space emphasizing psychological discipline.",
+      "onScreenText": "AN UNCOMPROMISING PSYCHOLOGICAL FRAMEWORK",
+      "relationToPrevious": "Provides the correct replacement model after refuting the traditional ratio myth.",
+      "addedInformation": "Defines the true nature of market mastery as psychological rigor."
+    }
+  },
+  {
+    "i": 15,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "SUPPLY AND DEMAND",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "An institutional manager indicates the balance of supply and demand governed by institutional volume.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The market is governed entirely by supply, demand, and institutional footprints.",
+      "concreteVisual": "An institutional manager points at a balance scale icon representing supply and demand.",
+      "onScreenText": "SUPPLY AND DEMAND",
+      "relationToPrevious": "Explains the mechanical forces driving stock price movements.",
+      "addedInformation": "Makes supply and demand visible as the objective balance of market forces."
+    }
+  },
+  {
+    "i": 16,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DEADLY TO YOUR PORTFOLIO",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "A retail investor slumps with worry, confronting the reality that personal opinions and brand attachments are deadly.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Personal opinions and brand attachments are irrelevant and deadly to portfolio returns.",
+      "concreteVisual": "A retail investor slumps at his workstation acknowledging the fatal flaw of opinion.",
+      "onScreenText": "DEADLY TO YOUR PORTFOLIO",
+      "relationToPrevious": "Contrasts institutional market mechanics with retail emotional attachment.",
+      "addedInformation": "Warns viewers against falling in love with company products or narratives."
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A LOSING GAME",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "explainedBy": "The trader discusses value hunting, which historical data mathematically proves to be a losing game.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Value hunting for cheap overlooked stocks is mathematically proven to be a losing retail game.",
+      "concreteVisual": "The seated trader speaks with dismay at his workstation about the failure of value hunting.",
+      "onScreenText": "A LOSING GAME",
+      "relationToPrevious": "Tackles and rejects the popular myth of retail value investing.",
+      "addedInformation": "Emphasizes the mathematical certainty of underperformance in cheap stocks."
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DISCIPLINED PATTERN RECOGNITION",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor points in an analytical space, establishing disciplined pattern recognition as the only true edge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The only edge for survival and success is disciplined pattern recognition.",
+      "concreteVisual": "The investor points to chart patterns in an analytical space, focusing on disciplined recognition.",
+      "onScreenText": "DISCIPLINED PATTERN RECOGNITION",
+      "relationToPrevious": "Transitions from failing strategies to the trader's only proven edge.",
+      "addedInformation": "Focuses the visual on precision pattern identification."
+    }
+  },
+  {
+    "i": 19,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "MATHEMATICAL RISK CONTROL",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "shield",
+    "explainedBy": "The investor holds a protective shield representing strict mathematical risk control rather than guesswork.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Survival requires strict mathematical risk control rather than guessing.",
+      "concreteVisual": "The investor holds a shield in an abstract analytical set, symbolizing capital protection.",
+      "onScreenText": "MATHEMATICAL RISK CONTROL",
+      "relationToPrevious": "Pairs pattern recognition with defensive risk management.",
+      "addedInformation": "Reinforces defense and rule-based risk mitigation as non-negotiable."
+    }
+  },
+  {
+    "i": 20,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "SPANNING 125 YEARS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The investor in his study examines historical notes spanning 125 years of stock market winners.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil analyzed the greatest market winners across 125 years of history.",
+      "concreteVisual": "The investor holds research notes beside a clock icon, impressed by the historical scope.",
+      "onScreenText": "SPANNING 125 YEARS",
+      "relationToPrevious": "Expands on the empirical depth of O'Neil's research.",
+      "addedInformation": "Illustrates the massive 125-year timescale behind the study."
+    }
+  },
+  {
+    "i": 21,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "1880S",
+        "2008"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A timeline spectrum displays the full data range stretching from the 1880s to 2008.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The historical dataset stretches from the 1880s all the way to 2008.",
+      "concreteVisual": "A spectrum diagram anchoring the 1880s on the left and 2008 on the right.",
+      "onScreenText": "1880S / 2008",
+      "relationToPrevious": "Makes the 125-year timeline concrete with specific boundary dates.",
+      "addedInformation": "Demonstrates the immense empirical span tested across market cycles."
+    }
+  },
+  {
+    "i": 22,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "APPLE AND GOOGLE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "An institutional analyst points out the comparison between an 1885 railroad and 21st century tech leaders Apple and Google.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil compared 19th-century railroads directly with modern leaders like Apple and Google.",
+      "concreteVisual": "An institutional manager points at modern market charts comparing historical and modern titans.",
+      "onScreenText": "APPLE AND GOOGLE",
+      "relationToPrevious": "Provides concrete historical and contemporary examples from the dataset.",
+      "addedInformation": "Juxtaposes disparate eras to highlight the boldness of the comparative study."
+    }
+  },
+  {
+    "i": 23,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "OVER 1,000 SUPER WINNERS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The investor examines historical market data with a magnifier, uncovering the shared DNA of over 1,000 super winners.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil decoded the exact common traits shared by over 1,000 super winners before their massive runs.",
+      "concreteVisual": "The investor inspects records with a magnifier beside a trophy icon representing super winners.",
+      "onScreenText": "OVER 1,000 SUPER WINNERS",
+      "relationToPrevious": "Reveals the key output of the 125-year study: the shared precursor DNA.",
+      "addedInformation": "Shows the rigorous forensic analysis of top-performing stocks."
+    }
+  },
+  {
+    "i": 24,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE WORLD IS DIFFERENT",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The retail investor asks why studying an 1880s railroad matters when the modern technological world is completely different.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Skeptics question how an 1880s railroad can provide insight into modern tech companies.",
+      "concreteVisual": "The retail trader talks with an inquisitive, doubtful look at his workstation.",
+      "onScreenText": "THE WORLD IS DIFFERENT",
+      "relationToPrevious": "Voices the intuitive skepticism of modern investors.",
+      "addedInformation": "Articulates the core objection regarding changing technology."
+    }
+  },
+  {
+    "i": 25,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "LAW OF SUPPLY AND DEMAND",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager explains to the investor that while technology changes, human nature and supply and demand never change.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Human nature and the fundamental law of supply and demand remain unchanged across market eras.",
+      "concreteVisual": "An institutional fund manager speaks authoritatively beside the balance icon to the listening retail trader.",
+      "onScreenText": "LAW OF SUPPLY AND DEMAND",
+      "relationToPrevious": "Answers the skepticism by identifying the unchanging constant: human psychology and supply/demand.",
+      "addedInformation": "Frames market pricing as an unchanging reflection of human behavior."
+    }
+  },
+  {
+    "i": 26,
+    "concept": null,
+    "diagram": {
+      "type": "matchWave",
+      "labels": [
+        "PANIC AND GREED"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A matchWave diagram synchronizes panic and greed across 1901 ticker tapes and 2001 digital screens.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Market panic and greed look identical on a 1901 ticker tape and a 2001 digital screen.",
+      "concreteVisual": "A matchWave diagram showing the synchronized emotional waveforms of panic and greed.",
+      "onScreenText": "PANIC AND GREED",
+      "relationToPrevious": "Demonstrates the exact visual equivalence of market psychology across a century.",
+      "addedInformation": "Makes the identical emotional cycles visible as matching waves."
+    }
+  },
+  {
+    "i": 27,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "CAN SLIM FORMULA",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor holds the book beside a target icon, celebrating the codified seven-trait CAN SLIM formula.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The 125-year study codified the seven-trait CAN SLIM formula for identifying super winners.",
+      "concreteVisual": "The investor smiles holding the research book next to a target icon symbolizing CAN SLIM criteria.",
+      "onScreenText": "CAN SLIM FORMULA",
+      "relationToPrevious": "Synthesizes the historical findings into the codified seven-trait formula.",
+      "addedInformation": "Introduces the CAN SLIM acronym as the distillation of historical winners."
+    }
+  },
+  {
+    "i": 28,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "FOUNDATION",
+        "FUNDAMENTAL ENGINE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A flow diagram maps the foundation of CAN SLIM leading into the fundamental earnings engine.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The C and A components form the foundational engine of the CAN SLIM framework.",
+      "concreteVisual": "A flow diagram showing the progression from foundation to fundamental engine.",
+      "onScreenText": "FOUNDATION → FUNDAMENTAL ENGINE",
+      "relationToPrevious": "Begins unpacking the specific letters of CAN SLIM, starting with C and A.",
+      "addedInformation": "Structures the mechanics visually as an engine."
+    }
+  },
+  {
+    "i": 29,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "QUARTERLY EARNINGS ACCELERATION",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The institutional manager emphasizes quarterly earnings acceleration and annual growth as non-negotiable standards.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Current quarterly earnings acceleration and annual growth are mandatory requirements for any stock.",
+      "concreteVisual": "An institutional manager explains the strict earnings standard on the trading floor.",
+      "onScreenText": "QUARTERLY EARNINGS ACCELERATION",
+      "relationToPrevious": "Defines what C and A stand for in practical company performance.",
+      "addedInformation": "Establishes earnings acceleration as the non-negotiable baseline filter."
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A CORPORATE BOARDROOM",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "A CEO stands at the head of a mahogany table in a tense corporate boardroom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Imagine a tense corporate boardroom with the CEO standing at the head of the table.",
+      "concreteVisual": "An executive in a tailored suit stands at the head of the conference room table.",
+      "onScreenText": "A CORPORATE BOARDROOM",
+      "relationToPrevious": "Opens the narrative parable illustrating corporate earnings announcements.",
+      "addedInformation": "Establishes the corporate boardroom setting for the earnings drama."
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PROJECTING TOTAL CONFIDENCE",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "The CEO taps a laser pointer on his presentation slide, projecting confidence despite pressure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The CEO projects complete confidence while tapping his presentation slide.",
+      "concreteVisual": "The CEO smirks and points firmly toward his presentation screen.",
+      "onScreenText": "PROJECTING TOTAL CONFIDENCE",
+      "relationToPrevious": "Continues the boardroom scene as the CEO prepares to announce results.",
+      "addedInformation": "Depicts the corporate theater used to sell quarterly performance."
+    }
+  },
+  {
+    "i": 32,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ACHIEVED A 12% GAIN",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "The CEO proudly announces a 12% quarterly earnings gain to a room of nodding executives.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The CEO proudly announces a 12% quarterly earnings gain to his nodding board.",
+      "concreteVisual": "The CEO speaks happily to the executives, announcing the 12% figure.",
+      "onScreenText": "ACHIEVED A 12% GAIN",
+      "relationToPrevious": "The CEO delivers the climactic announcement of the 12% number.",
+      "addedInformation": "Highlights the 12% figure that conventional executives celebrate."
+    }
+  },
+  {
+    "i": 33,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MEDIOCRE EARNINGS",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "partnerExpression": "worried",
+    "partnerAction": "talk",
+    "explainedBy": "While the corporate board claps in celebration, a disciplined investor sits quietly in the back evaluating the number.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The board applauds steady earnings, but an O'Neil investor sits unmoved in the back.",
+      "concreteVisual": "The investor sits calmly in the background while the executive in front celebrates.",
+      "onScreenText": "THE BOARD CLAPS",
+      "relationToPrevious": "Contrasts the board's conventional applause with the disciplined investor's skepticism.",
+      "addedInformation": "Stages the dramatic clash of perspectives within the same room."
+    }
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IN THE TRASH",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "take",
+    "holds": "notes",
+    "actionCue": "takes",
+    "explainedBy": "The investor takes the beautifully printed quarterly report and discards it in the trash.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The investor quietly takes the quarterly report, crumples it, and throws it away.",
+      "concreteVisual": "The investor reaches out and takes the quarterly financial report to toss it out.",
+      "onScreenText": "IN THE TRASH",
+      "relationToPrevious": "The investor takes physical action rejecting the mediocre 12% report.",
+      "addedInformation": "Executes the vivid deed of taking the glossy report before discarding it."
+    }
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BRING ME 50%",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "office",
+    "cast": [
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The investor holds the crumpled report, rejecting 12% as a rounding error and demanding 50%.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In the stock market, 12% is a rounding error; super winners require 50% earnings growth.",
+      "concreteVisual": "The investor holds the crumpled report with a sharp smirk, demanding explosive 50% growth.",
+      "onScreenText": "BRING ME 50%",
+      "relationToPrevious": "Articulates why the report was discarded: 12% is completely insufficient.",
+      "addedInformation": "States the high quantitative threshold required by CAN SLIM."
+    }
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A MASSIVE LIABILITY",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "An institutional manager explains that mediocre 10 to 12% earnings growth is a massive liability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mediocre 10-12% earnings growth is a massive liability that fails to attract institutional money.",
+      "concreteVisual": "The institutional fund manager talks candidly about fund requirements on the trading floor.",
+      "onScreenText": "A MASSIVE LIABILITY",
+      "relationToPrevious": "Explains the institutional mechanics behind rejecting 12% gains.",
+      "addedInformation": "Reframes 'steady' corporate earnings as dangerous investment mediocrity."
+    }
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FRANTIC INSTITUTIONAL BUYING",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The manager points out that small earnings increases cannot generate the frantic institutional buying needed to double a stock.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Small gains cannot generate the massive institutional buying needed to double or triple a stock.",
+      "concreteVisual": "The institutional manager points emphatically at the trading floor volume displays.",
+      "onScreenText": "FRANTIC INSTITUTIONAL BUYING",
+      "relationToPrevious": "Concludes the chapter on why only explosive earnings spark institutional accumulation.",
+      "addedInformation": "Sets up the transition to the required 25-50% baseline in the next beat."
+    }
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "i": 191,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WEALTH PRESERVATION",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "The retail investor holds his wallet close, choosing capital preservation over reckless trading.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Protecting capital is not day trading; it is the discipline of wealth preservation.",
+      "concreteVisual": "The retail investor sits at his workstation holding his wallet firmly, keeping his capital safe.",
+      "onScreenText": "WEALTH PRESERVATION",
+      "relationToPrevious": "Picks up directly from the preceding chunk's advice to step aside into cash.",
+      "addedInformation": "Gives capital protection a concrete physical object: the investor guarding his wallet."
+    }
+  },
+  {
+    "i": 192,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "WEATHER THE STORM",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The retail investor endures market turbulence, misled by conventional advice to hold on through the storm.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retail investors are conditioned to be loyal and stubbornly hold through severe downturns.",
+      "concreteVisual": "The retail investor slumps anxiously beside the storm icon, enduring painful losses.",
+      "onScreenText": "WEATHER THE STORM",
+      "relationToPrevious": "Contrasts the wisdom of wealth preservation with the instinct to hold on.",
+      "addedInformation": "The storm icon visualizes the punishing market downturn retail investors mistakenly try to endure."
+    }
+  },
+  {
+    "i": 193,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUY AND HOLD DOGMA",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor rejects conventional buy-and-hold dogma, pointing to the exit as market discipline dictates.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "CAN SLIM explicitly rejects blind buy-and-hold dogma in favor of retreating to cash.",
+      "concreteVisual": "The investor at his workstation decisively points away, refusing the struck-out dogma on screen.",
+      "onScreenText": "BUY AND HOLD DOGMA",
+      "relationToPrevious": "Directly rejects the 'weather the storm' loyalty mindset introduced in beat 192.",
+      "addedInformation": "The struck callout establishes that buy-and-hold is an explicit trap rejected by the system."
+    }
+  },
+  {
+    "i": 194,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A HEALTHY STOCK",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The investor considers how to identify a genuine market leader when the market recovers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "After stepping aside into cash, investors must learn how to spot healthy leading stocks upon market recovery.",
+      "concreteVisual": "The investor at his workstation gestures thoughtfully while analyzing future recovery candidates.",
+      "onScreenText": "A HEALTHY STOCK",
+      "relationToPrevious": "Raises the next logical question: what to look for once the storm has passed.",
+      "addedInformation": "Frames the transition from defense (cash) back to offense (identifying winners)."
+    }
+  },
+  {
+    "i": 195,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHART ANATOMY",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The investor uses a magnifying glass to inspect the chart for physical institutional footprints.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Chart anatomy reveals the physical footprint of institutional accumulation before a price run.",
+      "concreteVisual": "The investor closely inspects market charts at his workstation holding a magnifier.",
+      "onScreenText": "CHART ANATOMY",
+      "relationToPrevious": "Answers the previous question by introducing chart anatomy as the visual footprint.",
+      "addedInformation": "The magnifier highlights the forensic nature of searching for institutional volume footprints."
+    }
+  },
+  {
+    "i": 196,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "OCTOBER 1898",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor examines historical market data reaching back over a century to 1898.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Chart patterns represent visual geometry of crowd psychology tested over a century of market history.",
+      "concreteVisual": "The investor studies an open historical book in his study room beside a clock, looking back to October 1898.",
+      "onScreenText": "OCTOBER 1898",
+      "relationToPrevious": "Grounds chart analysis in a specific historical precedent.",
+      "addedInformation": "Shows that O'Neil's models are derived from over a century of empirical price records."
+    }
+  },
+  {
+    "i": 197,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CUP AND HANDLE",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor points to the historical chart pattern that resembles a teacup with a handle.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hand-drawn 1898 chart of Tennessee Coal and Iron displays the classic cup and handle base.",
+      "concreteVisual": "The investor stands at his workstation pointing toward a chart outlining the cup and handle formation.",
+      "onScreenText": "THE CUP AND HANDLE",
+      "relationToPrevious": "Examines the specific historical chart structure introduced in beat 196.",
+      "addedInformation": "Introduces the central visual metaphor and pattern examined throughout this section."
+    }
+  },
+  {
+    "i": 198,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "ROUNDED BOTTOM",
+        "PRIOR HIGH",
+        "LOW VOLUME DRIFT"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flow diagram tracks the three price stages: rounded bottom, prior high, and downward drift on low volume.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A cup with handle develops through a rounded bottom, a return to prior high, and a downward drift on low volume.",
+      "concreteVisual": "A clean flow diagram maps the price progression from rounded bottom to prior high to low volume drift.",
+      "onScreenText": "none",
+      "relationToPrevious": "Breaks down the physical geometry of the cup and handle described in beat 197.",
+      "addedInformation": "Visualizes the sequential mechanical stages of the pattern across the screen."
+    }
+  },
+  {
+    "i": 199,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "INSIDE THE HANDLE",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "explainedBy": "The investor considers the hidden market mechanics taking place during the handle's downward drift.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The downward drift forms the handle, concealing critical supply-and-demand mechanics.",
+      "concreteVisual": "The investor at his workstation adopts a thoughtful posture, probing what happens inside the handle.",
+      "onScreenText": "INSIDE THE HANDLE",
+      "relationToPrevious": "Zooms in on the third stage of the flow diagram from beat 198.",
+      "addedInformation": "Shifts attention from chart geometry to the underlying market mechanics."
+    }
+  },
+  {
+    "i": 200,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WEAK RETAIL BUYERS",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The anxious retail investor slumps in dread, weighed down by weeks of psychological stress.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The handle is created by the psychological distress of anxious retail holders.",
+      "concreteVisual": "The retail investor slumps at his workstation with a worried expression, groaning in frustration.",
+      "onScreenText": "WEAK RETAIL BUYERS",
+      "relationToPrevious": "Shifts focus to the human emotions inside the handle formation.",
+      "addedInformation": "Gives a human face to the abstract market term 'weak hands'."
+    }
+  },
+  {
+    "i": 201,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE FRUSTRATION IS PEAKING",
+      "style": "stack"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "angry",
+    "action": "slump",
+    "explainedBy": "The retail investor remains stuck in agony as the stock falls just short of his break-even price.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Investors who endured months in the red face unbearable frustration when the stock dips near break-even.",
+      "concreteVisual": "The retail investor continues slumping at his desk, staring in angry frustration as the price drops again.",
+      "onScreenText": "THE FRUSTRATION IS PEAKING",
+      "relationToPrevious": "Advances the emotional journey of the trapped buyer as frustration reaches its boiling point.",
+      "addedInformation": "Connects the chart's price dip to the intense emotional threshold of retail capitulation."
+    }
+  },
+  {
+    "i": 202,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SELL THEIR SHARES",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "explainedBy": "The retail investor screams in disgust and dumps his shares just to escape the emotional pain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Exhausted retail buyers sell their shares in frustration to break even or cut ties, washing their hands of the trade.",
+      "concreteVisual": "The retail investor at his workstation throws up his hands shouting angrily, dumping his position.",
+      "onScreenText": "SELL THEIR SHARES",
+      "relationToPrevious": "The culmination of the frustration built up in beats 200-201: capitulation.",
+      "addedInformation": "Stages the precise moment of retail capitulation that clears the supply overhang."
+    }
+  },
+  {
+    "i": 203,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TRUE BREAKOUT",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "The institutional manager celebrates as the stock breaks out on massive volume with weak hands removed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A true breakout occurs on massive volume the moment weak emotional sellers have capitulated.",
+      "concreteVisual": "The institutional fund manager in his office celebrates with raised arms as the breakout surges.",
+      "onScreenText": "A TRUE BREAKOUT",
+      "relationToPrevious": "Replaces the retail seller with the institutional victor as the breakout launches.",
+      "addedInformation": "Shows the direct contrast between retail despair and institutional breakout volume."
+    }
+  },
+  {
+    "i": 204,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "RECORD OF SUPPLY DRYING",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The institutional manager points to the balance icon representing supply drying up against institutional demand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Chart patterns are not magic; they are the mathematical record of supply drying up and human behavior.",
+      "concreteVisual": "The institutional manager stands beside the balance icon pointing out the supply-demand equilibrium shifting.",
+      "onScreenText": "RECORD OF SUPPLY DRYING",
+      "relationToPrevious": "Explains the underlying mechanical reality behind the breakout in beat 203.",
+      "addedInformation": "The balance icon grounds chart patterns in economic supply and demand rather than magic."
+    }
+  },
+  {
+    "i": 205,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A PRESSURE VALVE",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "explainedBy": "The speaker illustrates the chart base as a pressure valve releasing volatile market tension.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A chart base acts like a pressure valve on a shaken soda bottle, unscrewing the cap to let out volatility.",
+      "concreteVisual": "The investor at his workstation gestures enthusiastically as he explains the soda bottle analogy.",
+      "onScreenText": "A PRESSURE VALVE",
+      "relationToPrevious": "Introduces a colorful analogy to explain how bases release excess volatility.",
+      "addedInformation": "Translates the abstract mechanics of accumulation into an intuitive physical metaphor."
+    }
+  },
+  {
+    "i": 206,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EMOTIONAL HANDS CAPITULATING",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The exhausted retail investor slumps as emotional traders capitulate on low volume.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Low volume in the handle provides visual proof that emotional, fizzy investors have capitulated.",
+      "concreteVisual": "The retail investor slumps at his workstation with a dejected expression as emotional selling subsides.",
+      "onScreenText": "EMOTIONAL HANDS CAPITULATING",
+      "relationToPrevious": "Continues the soda bottle analogy, showing the fizzy investors hissing out.",
+      "addedInformation": "Connects low volume directly to retail exhaustion."
+    }
+  },
+  {
+    "i": 207,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "QUIETLY ABSORBING SUPPLY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "briefcase",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager quietly accumulates shares while the retail investor looks on anxiously.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutions quietly absorb remaining retail supply without driving the price up prematurely.",
+      "concreteVisual": "The institutional manager holds his briefcase with a knowing smirk while the retail trader watches in unease.",
+      "onScreenText": "QUIETLY ABSORBING SUPPLY",
+      "relationToPrevious": "Shows the other side of the trade: who is buying what the emotional retail traders dumped.",
+      "addedInformation": "The two-person cast establishes the predator-prey relationship between institutions and retail."
+    }
+  },
+  {
+    "i": 208,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EXPLODES UPWARD",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "The institutional manager celebrates as the stock explodes upward after weak supply is cleared.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Once weak hands are cleared, the price explodes upward on institutional demand.",
+      "concreteVisual": "The institutional fund manager raises his hands in celebration as the breakout takes off.",
+      "onScreenText": "EXPLODES UPWARD",
+      "relationToPrevious": "Completes the soda bottle analogy: the cap comes off and the price explodes.",
+      "addedInformation": "Visualizes the triumphant outcome of institutional accumulation."
+    }
+  },
+  {
+    "i": 209,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE HIGH TIGHT FLAG",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor references the book's catalog of base structures, highlighting the high tight flag.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Beyond the cup with handle, O'Neil documents over 100 historical patterns including the high tight flag.",
+      "concreteVisual": "The investor in his study room holds O'Neil's book open, highlighting the high tight flag pattern.",
+      "onScreenText": "THE HIGH TIGHT FLAG",
+      "relationToPrevious": "Transitions from the cup with handle to alternative winning base formations.",
+      "addedInformation": "The held book emphasizes O'Neil's extensive catalog of 100+ historical precedents."
+    }
+  },
+  {
+    "i": 210,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "SURGED 1479%",
+      "style": "stack"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "The investor points to Bethlehem Steel's historic surge on wartime news following a tight flag pattern.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Bethlehem Steel surged 1479% after breaking out of a tight six-week flag formed on wartime news.",
+      "concreteVisual": "The investor stands astonished beside the war icon, pointing to the massive 1479% price surge.",
+      "onScreenText": "SURGED 1479%",
+      "relationToPrevious": "Provides the historical case study validating the high tight flag base.",
+      "addedInformation": "The war icon grounds the historical catalyst for Bethlehem Steel's legendary run."
+    }
+  },
+  {
+    "i": 211,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WIDE AND LOOSE",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "explainedBy": "The investor examines a dangerous chart pattern, warning against wide and loose swings at market tops.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "O'Neil cautions against wide and loose base formations appearing at market tops.",
+      "concreteVisual": "The investor at his workstation points with concern at erratic, wide price swings on his monitor.",
+      "onScreenText": "WIDE AND LOOSE",
+      "relationToPrevious": "Contrasts tight, healthy bases like Bethlehem Steel with defective wide and loose bases.",
+      "addedInformation": "Warns the viewer that not all chart formations are safe to buy."
+    }
+  },
+  {
+    "i": 212,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "ERRATIC PRICE ACTION",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The investor recoils from the volatile price swings of a broken base where institutions have lost control.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Wild volatile swings signal a death trap where institutions have lost control to erratic public trading.",
+      "concreteVisual": "The investor slumps in dread beside a grave icon as erratic price volatility destroys capital.",
+      "onScreenText": "ERRATIC PRICE ACTION",
+      "relationToPrevious": "Explains why wide and loose bases are fatal: loss of institutional support.",
+      "addedInformation": "The grave icon underscores the deadly risk of buying erratic, institution-less bases."
+    }
+  },
+  {
+    "i": 213,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CUP WITH HANDLE",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "The retail investor smiles skeptically at the whimsical jargon of chart patterns.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Names like cup with handle and high tight flag sound comical and unscientific to outsiders.",
+      "concreteVisual": "The retail investor at his desk smirks skeptically while discussing the pattern names.",
+      "onScreenText": "CUP WITH HANDLE",
+      "relationToPrevious": "Transitions from technical analysis to the host's honest skepticism about chart terminology.",
+      "addedInformation": "Acknowledges the viewer's natural skepticism before refuting it."
+    }
+  },
+  {
+    "i": 214,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "READING TEA LEAVES",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "The investor mocks chart shapes, likening them to reading tea leaves or cloud watching.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Skeptics dismiss technical analysis as superstition akin to reading tea leaves or cloud shapes.",
+      "concreteVisual": "The investor points upward with an amused smirk, ridiculing subjective chart interpretations.",
+      "onScreenText": "READING TEA LEAVES",
+      "relationToPrevious": "Amplifies the skeptical critique of chart patterns as arbitrary pareidolia.",
+      "addedInformation": "Directly confronts the common objection that technical patterns are imaginary."
+    }
+  },
+  {
+    "i": 215,
+    "concept": "mirror",
+    "diagram": null,
+    "callout": {
+      "text": "EXTREME CONFIRMATION BIAS",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The investor questions whether pattern recognition is merely confirmation bias reflecting personal hope.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Traders often project imagined cup patterns onto charts to satisfy their own confirmation bias.",
+      "concreteVisual": "The investor stares thoughtfully beside the mirror icon, confronting the trap of self-deception.",
+      "onScreenText": "EXTREME CONFIRMATION BIAS",
+      "relationToPrevious": "Sharpens the criticism into a direct challenge: is technical analysis pure confirmation bias?",
+      "addedInformation": "The mirror icon visually embodies looking into one's own biases rather than objective reality."
+    }
+  },
+  {
+    "i": 216,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BYPRODUCT OF HUMAN BEHAVIOR",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The institutional manager explains that chart geometry is simply the physical record of human crowd behavior.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Chart geometry is not a magical cause, but the mathematical byproduct of human behavioral psychology.",
+      "concreteVisual": "The institutional fund manager in his office points firmly, refuting the voodoo misconception.",
+      "onScreenText": "BYPRODUCT OF HUMAN BEHAVIOR",
+      "relationToPrevious": "Answers the confirmation bias challenge by reframing geometry as human psychology mapped out.",
+      "addedInformation": "Dismantles the superstition charge by grounding patterns in aggregate human behavior."
+    }
+  },
+  {
+    "i": 217,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "VOLUME SPIKES REQUIRED",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The institutional manager establishes that pattern shapes require massive volume and earnings to be valid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The critical defense against confirmation bias requires pairing chart patterns with massive volume and 50% earnings growth.",
+      "concreteVisual": "The institutional manager outlines the mandatory filters needed to validate any chart pattern.",
+      "onScreenText": "THE CRITICAL DEFENSE",
+      "relationToPrevious": "Introduces the empirical safeguard preventing false pattern recognition.",
+      "addedInformation": "Binds technical chart shapes to hard fundamental and volume criteria."
+    }
+  },
+  {
+    "i": 218,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "FUNDAMENTALS",
+        "VOLUME FOOTPRINT",
+        "COILED MECHANISM"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flow diagram shows how fundamentals, volume footprint, and shakeout combine into a coiled mechanism.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Without fundamentals a cup shape fails, but combined with volume and shakeouts it forms a tightly coiled mechanism.",
+      "concreteVisual": "A structural flow diagram connects fundamentals and volume footprints directly to a coiled breakout mechanism.",
+      "onScreenText": "none",
+      "relationToPrevious": "Synthesizes the technical and fundamental pillars into a unified mechanical model.",
+      "addedInformation": "Visualizes the complete synthesis that distinguishes real CAN SLIM setups from empty shapes."
+    }
+  },
+  {
+    "i": 219,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRUST THE GEOMETRY",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor chooses mathematical chart geometry over subjective gut feelings.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The CAN SLIM framework requires trusting mathematical crowd geometry over personal gut feelings.",
+      "concreteVisual": "The investor at his workstation points decisively toward the chart, overriding his subjective impulses.",
+      "onScreenText": "TRUST THE GEOMETRY",
+      "relationToPrevious": "Draws the practical behavioral rule from the synthesized model in beat 218.",
+      "addedInformation": "Emphasizes rule-based discipline over human emotional intuition."
+    }
+  },
+  {
+    "i": 220,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WEAK HANDS ARE CAPITULATING",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The investor battles his intuition that the stock is boring, recognizing that weak hands are quietly exiting.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "While gut instinct dismisses a drifting stock as boring, geometry detects weak hands capitulating.",
+      "concreteVisual": "The investor continues sitting at his workstation, wrestling with the conflict between his gut and the chart.",
+      "onScreenText": "WEAK HANDS ARE CAPITULATING",
+      "relationToPrevious": "Contrasts gut instinct with geometric reality in a live decision-making moment.",
+      "addedInformation": "Shows the psychological tension required to execute the CAN SLIM methodology."
+    }
+  },
+  {
+    "i": 221,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE HARSH REALITY",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager steps forward to take control as a sobering reality check is announced.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutions take control after the shakeout, but a harsh reality awaits even the best setups.",
+      "concreteVisual": "The institutional manager points forward authoritatively while the retail investor watches anxiously in the background.",
+      "onScreenText": "THE HARSH REALITY",
+      "relationToPrevious": "Transitions from institutional control to the ultimate caveat of market uncertainty.",
+      "addedInformation": "Sets up the shift toward risk management and selling rules."
+    }
+  },
+  {
+    "i": 222,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "YOU WILL STILL BE WRONG",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The retail investor slumps in dismay as the host reveals that even the most perfect chart setup can fail.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Even with perfect fundamentals, peak relative strength, and an ideal cup and handle, trades still fail.",
+      "concreteVisual": "The retail investor slumps defeated at his workstation, facing the inevitable reality of trading losses.",
+      "onScreenText": "YOU WILL STILL BE WRONG",
+      "relationToPrevious": "Delivers the shocking culmination of the chapter: perfection does not guarantee success.",
+      "addedInformation": "Acts as the bridge to Chunk 7's core topic: cutting losses decisively at 7-8%."
+    }
+  }
+]

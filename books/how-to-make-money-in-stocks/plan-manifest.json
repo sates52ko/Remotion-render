@@ -1,0 +1,2565 @@
+{
+  "version": 1,
+  "slug": "how-to-make-money-in-stocks",
+  "generatedAt": "2026-11-07T07:41:32.354Z",
+  "history": [
+    {
+      "at": "2026-11-06T18:32:57.234Z",
+      "reason": "pipeline",
+      "scenes": 273
+    },
+    {
+      "at": "2026-11-06T18:36:48.304Z",
+      "reason": "pipeline",
+      "scenes": 273
+    },
+    {
+      "at": "2026-11-07T05:45:32.557Z",
+      "reason": "pipeline",
+      "scenes": 273
+    },
+    {
+      "at": "2026-11-07T06:31:03.247Z",
+      "reason": "pipeline",
+      "scenes": 273
+    },
+    {
+      "at": "2026-11-07T07:41:32.350Z",
+      "reason": "pipeline",
+      "scenes": 273
+    }
+  ],
+  "scenes": {
+    "intro": {
+      "fp": "7642a85a1c",
+      "props": [],
+      "texts": 2,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-01": {
+      "fp": "869891d716",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-02": {
+      "fp": "edbca5356e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-03": {
+      "fp": "07ca0e5cf1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-04": {
+      "fp": "1a99136ec5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-05": {
+      "fp": "d76e14b9a1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-06": {
+      "fp": "3e5cf308f7",
+      "props": [
+        "crash"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "crash",
+      "set": "workstation"
+    },
+    "scene-07": {
+      "fp": "e85fe915ed",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-08": {
+      "fp": "2ed21e86d4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-09": {
+      "fp": "8b46933a43",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-10": {
+      "fp": "1a52e8ad6b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-11": {
+      "fp": "890606b43f",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "book",
+      "set": "room"
+    },
+    "scene-12": {
+      "fp": "729892eef5",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "book",
+      "set": "room"
+    },
+    "scene-13": {
+      "fp": "4e52503b39",
+      "props": [],
+      "texts": 0,
+      "diagram": "refute",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-14": {
+      "fp": "2032101340",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-15": {
+      "fp": "cd0d90f511",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-16": {
+      "fp": "2dffbde6cb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-17": {
+      "fp": "0863a59a67",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-18": {
+      "fp": "02a07e725b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-19": {
+      "fp": "025291d950",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "abstract"
+    },
+    "scene-20": {
+      "fp": "481451104b",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "room"
+    },
+    "scene-21": {
+      "fp": "037d8f1293",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-22": {
+      "fp": "b135702d14",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-23": {
+      "fp": "209388e37d",
+      "props": [
+        "trophy"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "trophy",
+      "set": "room"
+    },
+    "scene-24": {
+      "fp": "38fa9231f3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-25": {
+      "fp": "835b4dfab8",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-26": {
+      "fp": "bcc63aeec6",
+      "props": [],
+      "texts": 0,
+      "diagram": "matchWave",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-27": {
+      "fp": "656683c25f",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "room"
+    },
+    "scene-28": {
+      "fp": "2ae4769a67",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-29": {
+      "fp": "e53e6927f5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-30": {
+      "fp": "b93823f50e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-31": {
+      "fp": "b746f8b275",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-32": {
+      "fp": "b9c2b5d790",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-33": {
+      "fp": "659572f61e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-34": {
+      "fp": "da37dc5757",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-35": {
+      "fp": "24514e3483",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-36": {
+      "fp": "172e5b1510",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-37": {
+      "fp": "1d8096843f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-38": {
+      "fp": "ac3662d608",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "workstation"
+    },
+    "scene-39": {
+      "fp": "7347b72eb5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-40": {
+      "fp": "14520972b3",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-41": {
+      "fp": "6dadca69c3",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-42": {
+      "fp": "7a97dc8ff4",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "book",
+      "set": "room"
+    },
+    "scene-43": {
+      "fp": "7f5db834ad",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-44": {
+      "fp": "4b33c69d4d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-45": {
+      "fp": "17c8ba3b75",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-46": {
+      "fp": "e8540be79c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-47": {
+      "fp": "387f59a9d6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-48": {
+      "fp": "53a8d3828f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-49": {
+      "fp": "2ce416cb53",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-50": {
+      "fp": "71053d4a5c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-51": {
+      "fp": "5970511d34",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-52": {
+      "fp": "b49353a2b3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-53": {
+      "fp": "8d15ba618e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-54": {
+      "fp": "864a449772",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-55": {
+      "fp": "a585b9af7f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-56": {
+      "fp": "6ea83ad8ea",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "workstation"
+    },
+    "scene-57": {
+      "fp": "1155443023",
+      "props": [
+        "road"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "road",
+      "set": "abstract"
+    },
+    "scene-58": {
+      "fp": "91336b7522",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-59": {
+      "fp": "5409e9420b",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-60": {
+      "fp": "635731df52",
+      "props": [
+        "lightbulb"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "lightbulb",
+      "set": "workstation"
+    },
+    "scene-61": {
+      "fp": "b84993463b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-62": {
+      "fp": "4d6aa789a5",
+      "props": [
+        "notes"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "notes",
+      "set": "room"
+    },
+    "scene-63": {
+      "fp": "2547e337b4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-64": {
+      "fp": "52eeae8554",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "abstract"
+    },
+    "scene-65": {
+      "fp": "edb67b0ad1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-66": {
+      "fp": "c82556cf27",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-67": {
+      "fp": "007f0a59f1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-68": {
+      "fp": "14e02f9855",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-69": {
+      "fp": "91c65fbfd4",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-70": {
+      "fp": "8a62d1cbaa",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-71": {
+      "fp": "c7c631a747",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-72": {
+      "fp": "ed4669ed62",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-73": {
+      "fp": "c07d9dac1f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-74": {
+      "fp": "348b18df3d",
+      "props": [
+        "crash"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "crash",
+      "set": "workstation"
+    },
+    "scene-75": {
+      "fp": "70016c3838",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-76": {
+      "fp": "1bb8594227",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-77": {
+      "fp": "90c1714af1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-78": {
+      "fp": "e2eef8d0b4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-79": {
+      "fp": "cea6bd2035",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-80": {
+      "fp": "36618362b5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-81": {
+      "fp": "38410f4bc3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-82": {
+      "fp": "479dff45f0",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-83": {
+      "fp": "c15ff6ff60",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-84": {
+      "fp": "e5a70d8485",
+      "props": [
+        "crash"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "crash",
+      "set": "workstation"
+    },
+    "scene-85": {
+      "fp": "7737c8fb63",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-86": {
+      "fp": "5ef06de485",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-87": {
+      "fp": "90aeb0620b",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "abstract"
+    },
+    "scene-88": {
+      "fp": "b062935314",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-89": {
+      "fp": "858db487e1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-90": {
+      "fp": "bf2e62728c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-91": {
+      "fp": "868fc0ccd1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-92": {
+      "fp": "78c5df79d0",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-93": {
+      "fp": "7661ef6326",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-94": {
+      "fp": "6e0e7414c4",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-95": {
+      "fp": "6e341f53f1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-96": {
+      "fp": "c098ac4849",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-97": {
+      "fp": "60d5e56a96",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-98": {
+      "fp": "85e2417bc2",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-99": {
+      "fp": "4135ec3f74",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-100": {
+      "fp": "668c731c3b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-101": {
+      "fp": "bf64ae1d60",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-102": {
+      "fp": "22e99cfc8c",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-103": {
+      "fp": "26b165789c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-104": {
+      "fp": "a7d4597ee9",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "workstation"
+    },
+    "scene-105": {
+      "fp": "7f1a4a151a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-106": {
+      "fp": "41992317fc",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-107": {
+      "fp": "79cdc6a55c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-108": {
+      "fp": "9d57e58105",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-109": {
+      "fp": "106ae8f587",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-110": {
+      "fp": "e671fec3e2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-111": {
+      "fp": "03ce0bf96e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-112": {
+      "fp": "5e02836018",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-113": {
+      "fp": "8f8cc170a1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-114": {
+      "fp": "6ada55f7aa",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-115": {
+      "fp": "fdfbc701d6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-116": {
+      "fp": "db48dd039a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-117": {
+      "fp": "427da508b5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-118": {
+      "fp": "c58f5f8796",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-119": {
+      "fp": "e5372adb14",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-120": {
+      "fp": "4377581e85",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-121": {
+      "fp": "29377ffaab",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-122": {
+      "fp": "b1852b4143",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-123": {
+      "fp": "84f5c3c4de",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-124": {
+      "fp": "9eecd5bd5a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-125": {
+      "fp": "1744e9a012",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-126": {
+      "fp": "515a1b70c5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-127": {
+      "fp": "0711b8555c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-128": {
+      "fp": "ee47d849b8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-129": {
+      "fp": "c425391f7b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-130": {
+      "fp": "9b1ad8328f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-131": {
+      "fp": "d079bf0f77",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-132": {
+      "fp": "8c611f0e5d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-133": {
+      "fp": "58327c9a83",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "workstation"
+    },
+    "scene-134": {
+      "fp": "e349ddfc93",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-135": {
+      "fp": "ffafb4b6bf",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-136": {
+      "fp": "5efc81e963",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-137": {
+      "fp": "1a5aee104f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-138": {
+      "fp": "839c053192",
+      "props": [
+        "trophy"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "trophy",
+      "set": "office"
+    },
+    "scene-139": {
+      "fp": "0a86568404",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-140": {
+      "fp": "bd42e52194",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-141": {
+      "fp": "adfaef4ae2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-142": {
+      "fp": "cdb3fab6b4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-143": {
+      "fp": "6e2f007de2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-144": {
+      "fp": "c6470da091",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-145": {
+      "fp": "b4203a5c75",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-146": {
+      "fp": "c99e8841bc",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-147": {
+      "fp": "644048f01d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-148": {
+      "fp": "9fae8c9660",
+      "props": [
+        "coin"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "coin",
+      "set": "workstation"
+    },
+    "scene-149": {
+      "fp": "fb553f45c8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-150": {
+      "fp": "37245166b8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-151": {
+      "fp": "cc97d239b4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-152": {
+      "fp": "54c2d0409e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-153": {
+      "fp": "b7320055e4",
+      "props": [
+        "trophy"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "trophy",
+      "set": "office"
+    },
+    "scene-154": {
+      "fp": "8393e28c69",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-155": {
+      "fp": "1b9fcbb097",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-156": {
+      "fp": "8150028f6b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-157": {
+      "fp": "15295e153c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-158": {
+      "fp": "ec6196665c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-159": {
+      "fp": "ecfed12db3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-160": {
+      "fp": "820bf89684",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-161": {
+      "fp": "74df41302d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-162": {
+      "fp": "1276c4cd8b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-163": {
+      "fp": "187268b180",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-164": {
+      "fp": "f9efbb7544",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-165": {
+      "fp": "bbbcf880a7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-166": {
+      "fp": "980b420318",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-167": {
+      "fp": "cdcf95528f",
+      "props": [
+        "crash"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "crash",
+      "set": "workstation"
+    },
+    "scene-168": {
+      "fp": "6a1fa77d85",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-169": {
+      "fp": "13853a692f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-170": {
+      "fp": "7e23c09cc0",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-171": {
+      "fp": "620e076ed7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-172": {
+      "fp": "51d9a23f12",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-173": {
+      "fp": "b53a560be6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-174": {
+      "fp": "c2f733b5bf",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-175": {
+      "fp": "15463044c9",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-176": {
+      "fp": "4cedcc8013",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-177": {
+      "fp": "84594a522f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-178": {
+      "fp": "aca39e5790",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-179": {
+      "fp": "1412d7dc8a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-180": {
+      "fp": "d8750012d8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-181": {
+      "fp": "35d4f9ef1c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-182": {
+      "fp": "bee059b43e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-183": {
+      "fp": "0460d325eb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-184": {
+      "fp": "b4e37db13b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-185": {
+      "fp": "2f63bae4d2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-186": {
+      "fp": "063ba133e2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-187": {
+      "fp": "d1040f947e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-188": {
+      "fp": "175342a2d8",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-189": {
+      "fp": "02c033023b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-190": {
+      "fp": "6169370d13",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-191": {
+      "fp": "bf7786fe3d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-192": {
+      "fp": "31a0ab8d32",
+      "props": [
+        "storm"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "storm",
+      "set": "workstation"
+    },
+    "scene-193": {
+      "fp": "8ed2245c5c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-194": {
+      "fp": "cde83dd10f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-195": {
+      "fp": "cb685159e3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-196": {
+      "fp": "fcc63ab50a",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "room"
+    },
+    "scene-197": {
+      "fp": "c71756a704",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-198": {
+      "fp": "faa5388076",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-199": {
+      "fp": "68f9ab5f5a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-200": {
+      "fp": "ebf4fa6af6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-201": {
+      "fp": "75f8207ab5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-202": {
+      "fp": "2c0e622f6e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-203": {
+      "fp": "dfa700b248",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-204": {
+      "fp": "50a7d13101",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-205": {
+      "fp": "f062368f76",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-206": {
+      "fp": "79a199728b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-207": {
+      "fp": "75fcf6749b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-208": {
+      "fp": "a7f3f1753d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-209": {
+      "fp": "27b3f01b3d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-210": {
+      "fp": "90940b5a43",
+      "props": [
+        "war"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "war",
+      "set": "room"
+    },
+    "scene-211": {
+      "fp": "16518d4256",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-212": {
+      "fp": "83a65dd76c",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "workstation"
+    },
+    "scene-213": {
+      "fp": "2509ce5fc1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-214": {
+      "fp": "1152124a06",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-215": {
+      "fp": "0c8b9ae373",
+      "props": [
+        "mirror"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mirror",
+      "set": "workstation"
+    },
+    "scene-216": {
+      "fp": "21635a95f3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-217": {
+      "fp": "ac9ca2f0a9",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "office"
+    },
+    "scene-218": {
+      "fp": "e4c0fbc198",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-219": {
+      "fp": "91f7f53ec2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-220": {
+      "fp": "b6aece4515",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-221": {
+      "fp": "e8bfe5d2a8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-222": {
+      "fp": "905da85d7e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-223": {
+      "fp": "431e6dce41",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-224": {
+      "fp": "def92c4288",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-225": {
+      "fp": "3f4fae9fdf",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-226": {
+      "fp": "89655499d6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-227": {
+      "fp": "9685629131",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-228": {
+      "fp": "63a96235c5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-229": {
+      "fp": "9f9d485637",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-230": {
+      "fp": "bf1f243d64",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-231": {
+      "fp": "62cbe0d993",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "office"
+    },
+    "scene-232": {
+      "fp": "a5fa1f4414",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-233": {
+      "fp": "f9a94286da",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-234": {
+      "fp": "6fee2bbd13",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-235": {
+      "fp": "7eb55cd0d0",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-236": {
+      "fp": "9c1e227d3d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-237": {
+      "fp": "84ead5363e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-238": {
+      "fp": "107d2a4d43",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-239": {
+      "fp": "f2da0e7f58",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-240": {
+      "fp": "2c5092f1e6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-241": {
+      "fp": "3390505961",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-242": {
+      "fp": "d03b0370e9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-243": {
+      "fp": "e360a47e24",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-244": {
+      "fp": "8c2c2d95a7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-245": {
+      "fp": "55d905fbed",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-246": {
+      "fp": "b53b70a0c0",
+      "props": [
+        "crash"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "crash",
+      "set": "workstation"
+    },
+    "scene-247": {
+      "fp": "ce9f4acc0d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-248": {
+      "fp": "b1e70ed3fb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-249": {
+      "fp": "9f4ba56d39",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-250": {
+      "fp": "d13f14dc9e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-251": {
+      "fp": "522d4ac441",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "abstract"
+    },
+    "scene-252": {
+      "fp": "dbd12fe5f2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-253": {
+      "fp": "9f67775537",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-254": {
+      "fp": "8e944f168a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-255": {
+      "fp": "cc401a077a",
+      "props": [
+        "compass"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "compass",
+      "set": "office"
+    },
+    "scene-256": {
+      "fp": "f69ba60c78",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-257": {
+      "fp": "06a8722dbe",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "office"
+    },
+    "scene-258": {
+      "fp": "1d88ac3a06",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-259": {
+      "fp": "05e150554f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-260": {
+      "fp": "39b6ed5fc1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-261": {
+      "fp": "7718a22972",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-262": {
+      "fp": "ee60e63c49",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-263": {
+      "fp": "cd19bf47e9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-264": {
+      "fp": "7ca96a9de3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-265": {
+      "fp": "53875a705d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-266": {
+      "fp": "ee0832df86",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-267": {
+      "fp": "786443386f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-268": {
+      "fp": "a7b7da4976",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-269": {
+      "fp": "0cc0a2fc02",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-270": {
+      "fp": "958dc50c6a",
+      "props": [
+        "crash"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "crash",
+      "set": "workstation"
+    },
+    "scene-271": {
+      "fp": "9033576925",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "workstation"
+    },
+    "scene-272": {
+      "fp": "5e85c84d73",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "workstation"
+    }
+  }
+}

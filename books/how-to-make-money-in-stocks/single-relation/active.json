@@ -1,0 +1,23 @@
+{
+ "schema": "single-relation-active/1",
+ "policy": "c17-operator-selective-rollout",
+ "level2": "INCONCLUSIVE (cycle 16, dev/c16 audit/c16/holdout/result.json) — unchanged; this is a separate operator-approved selective rollout, not a Level-2 PASS",
+ "at": "2026-11-07T06:27:50.131Z",
+ "tool": "1445f823",
+ "configBefore": "255349091a1e1b40",
+ "configAfter": "2c55128b927208ad",
+ "scenes": [],
+ "kept": [
+  {
+   "sceneIndex": 135,
+   "keep": "A",
+   "why": "A/B: more wrong inferences with B (2 > 0)"
+  },
+  {
+   "sceneIndex": 189,
+   "keep": "A",
+   "why": "A/B: B 16.7 not above A 50"
+  }
+ ],
+ "reverted": []
+}

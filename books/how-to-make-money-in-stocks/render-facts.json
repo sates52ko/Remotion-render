@@ -1,0 +1,103 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-07T08:46:02.452Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "1445f823",
+      "tools": "8d228546",
+      "pin": "1445f8234519",
+      "configHash": "9055c5fee2bb0bca",
+      "renderInputHash": "5d9695c5142ffc68",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 445
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run2",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 1,
+          "dead": 0,
+          "adds": 19,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "REFUSED",
+        "ok": false,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 33,
+        "goneFindings": 0
+      },
+      "authorization": null,
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-07T12:45:09.546Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "1445f823",
+      "tools": "15113176",
+      "pin": "1445f8234519",
+      "configHash": "9055c5fee2bb0bca",
+      "renderInputHash": "5d9695c5142ffc68",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 445
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run2",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 1,
+          "dead": 0,
+          "adds": 19,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "bütün github hesaplarında render başlat ve youtube a hazırla",
+        "covered": 33,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-07T12:45:03.798Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    }
+  ]
+}

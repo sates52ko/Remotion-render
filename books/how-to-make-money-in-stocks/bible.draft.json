@@ -1,0 +1,310 @@
+{
+  "slug": "how-to-make-money-in-stocks",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=how-to-make-money-in-stocks --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "how-to-make-money-in-stocks",
+    "world": {
+      "era": "contemporary",
+      "eraEvidence": "modern financial markets, brokerage screens, historical analysis 1880-2008",
+      "worldId": "modern-finance",
+      "approxYear": 2000,
+      "setting": "Modern trading floor, office workstations, and investor study rooms",
+      "register": "analytical financial guide, market discipline, chart patterns",
+      "forbid": [
+        "sword",
+        "shield",
+        "thirtyTyrants",
+        "ringOfGyges",
+        "caveAllegory",
+        "shipOfState",
+        "kallipolis",
+        "fiveRegimes",
+        "mythOfEr"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "how-to-make-money-in-stocks",
+      "worldId": "modern-finance",
+      "allowedMotifs": [
+        "stock charts",
+        "breakout candlesticks",
+        "trading desk",
+        "market ticker",
+        "percentage rules",
+        "cup with handle"
+      ],
+      "forbiddenMotifs": [
+        "ancient armor",
+        "mythological creatures",
+        "fantasy weapons"
+      ],
+      "allowedCharacters": [
+        "investor",
+        "institution",
+        "analyst"
+      ],
+      "allowedLocations": [
+        "workstation",
+        "office",
+        "abstract",
+        "room"
+      ],
+      "allowedProps": [
+        "laptopMockup",
+        "dollarExchange",
+        "coin",
+        "target",
+        "magnifier",
+        "book",
+        "balance",
+        "clock",
+        "wallet",
+        "zap",
+        "crash"
+      ]
+    },
+    "cast": {
+      "investor": {
+        "name": "Retail Investor",
+        "role": "The individual trader navigating retail biases, fear, and discipline",
+        "look": "A focused retail trader in casual business attire studying market charts at a desk, contemporary era.",
+        "variant": {
+          "outfit": "casual",
+          "headwear": "none",
+          "hairStyle": "short",
+          "hair": "#2b1e16",
+          "height": 175,
+          "build": "average",
+          "headScale": 1.0
+        }
+      },
+      "institution": {
+        "name": "Institutional Fund Manager",
+        "role": "The institutional giant moving high volumes and setting market direction",
+        "look": "A confident Wall Street portfolio manager in a tailored navy suit analyzing large order blocks, contemporary era.",
+        "variant": {
+          "outfit": "suit",
+          "headwear": "none",
+          "hairStyle": "short",
+          "hair": "#6b7280",
+          "height": 182,
+          "build": "average",
+          "headScale": 1.0
+        }
+      }
+    },
+    "places": {
+      "workstation": {
+        "set": "workstation",
+        "look": "A modern dual-monitor desk displaying candlestick financial charts and order books.",
+        "mentions": 15
+      },
+      "office": {
+        "set": "office",
+        "look": "An institutional trading floor with market feeds and analytics screens.",
+        "mentions": 8
+      },
+      "abstract": {
+        "set": "abstract",
+        "look": "A minimalist diagrammatic space highlighting chart axes, percentage gates, and CAN SLIM metrics.",
+        "mentions": 10
+      },
+      "room": {
+        "set": "room",
+        "look": "A quiet study room with financial books and personal trading notes.",
+        "mentions": 4
+      }
+    },
+    "objects": [
+      {
+        "concept": "laptopMockup",
+        "mentions": 15,
+        "why": "The trading screen showing stock charts and breakout volumes"
+      },
+      {
+        "concept": "dollarExchange",
+        "mentions": 17,
+        "why": "Capital allocation, institutional accumulation, and profit taking"
+      },
+      {
+        "concept": "coin",
+        "mentions": 23,
+        "why": "Money management, compounding returns, and risk control"
+      },
+      {
+        "concept": "target",
+        "mentions": 12,
+        "why": "CAN SLIM criteria, pivot buy points, and exit rules"
+      },
+      {
+        "concept": "crash",
+        "mentions": 8,
+        "why": "Market corrections, distribution days, and cutting 7-8% losses"
+      },
+      {
+        "concept": "magnifier",
+        "mentions": 10,
+        "why": "Detecting institutional footprints, volume spikes, and earnings acceleration"
+      },
+      {
+        "concept": "balance",
+        "mentions": 6,
+        "why": "Risk-to-reward ratio and supply vs demand dynamics"
+      },
+      {
+        "concept": "wallet",
+        "mentions": 8,
+        "why": "Preserving capital and avoiding emotional bag-holding"
+      },
+      {
+        "concept": "zap",
+        "mentions": 5,
+        "why": "Explosive breakouts on massive volume surges"
+      },
+      {
+        "concept": "book",
+        "mentions": 5,
+        "why": "William O'Neil's historical winning stock model studies"
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 0,
+        "claim": "Retail instincts lure investors into cheap falling stocks, while institutional winners look expensive and make new highs."
+      },
+      {
+        "act": "development",
+        "fromFrame": 14304,
+        "claim": "The CAN SLIM framework decodes institutional accumulation through explosive earnings and supply-demand footprints."
+      },
+      {
+        "act": "turn",
+        "fromFrame": 28733,
+        "claim": "Proper base patterns like the cup-with-handle shake out weak hands before institutional breakouts begin."
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 43174,
+        "claim": "General market direction rules and rigid 7-8% loss cutoffs protect capital from fatal drawdown."
+      },
+      {
+        "act": "close",
+        "fromFrame": 60101,
+        "claim": "Stock market mastery requires abandoning personal opinion and executing the mathematical tape with strict discipline."
+      }
+    ]
+  }
+}

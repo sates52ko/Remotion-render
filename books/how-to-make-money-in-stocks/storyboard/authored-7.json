@@ -1,0 +1,981 @@
+[
+  {
+    "i": 223,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE BREAKOUT WILL FAIL",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "An investor slumps at his workstation as a breakout collapses, introducing the necessity of the core selling rule.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Breakouts sometimes fail, necessitating an uncompromising exit rule.",
+      "concreteVisual": "The investor slumps at his workstation desk looking worried as a breakout pattern fails.",
+      "onScreenText": "THE BREAKOUT WILL FAIL",
+      "relationToPrevious": "Follows the warning in beat 222 that even perfect chart patterns can fail.",
+      "addedInformation": "Shows the immediate personal disappointment of a failed breakout before the rule is stated."
+    }
+  },
+  {
+    "i": 224,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WHERE PROFESSIONALS SURVIVE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "sad",
+    "partnerAction": "slump",
+    "explainedBy": "The disciplined institutional manager explains survival while the amateur investor slumps in defeat.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cutting losses is where professionals survive and amateurs lose everything.",
+      "concreteVisual": "An institutional manager in an office addresses the amateur retail investor who slumps beside him.",
+      "onScreenText": "WHERE PROFESSIONALS SURVIVE",
+      "relationToPrevious": "Contrasts professional longevity with retail destruction introduced in beat 223.",
+      "addedInformation": "Juxtaposes the surviving professional with the devastated amateur side by side."
+    }
+  },
+  {
+    "i": 225,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ALONE AT NIGHT",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "An investor sits alone late at night illuminated only by his brokerage workstation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A retail investor sits alone at night staring at a losing position in a beloved company.",
+      "concreteVisual": "An investor sitting alone at his trading workstation in the dim glow of his screen.",
+      "onScreenText": "ALONE AT NIGHT",
+      "relationToPrevious": "Begins the narrative scenario illustrating the emotional torment of taking a loss.",
+      "addedInformation": "Establishes the lonely, solitary environment where retail emotional battles take place."
+    }
+  },
+  {
+    "i": 226,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DOWN 7% FROM BUY POINT",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "The seated investor stares anxiously at his screen as his favorite stock registers a 7% drop.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A favorite stock with a perfect chart has dropped 7% below the purchase price.",
+      "concreteVisual": "The investor remains seated at his desk, his face tensing with worry as the 7% loss displays.",
+      "onScreenText": "DOWN 7% FROM BUY POINT",
+      "relationToPrevious": "Continues the nocturnal desk scenario, revealing the exact 7% deficit on the monitor.",
+      "addedInformation": "Shows the shift from neutral study to acute emotional distress as the loss hits the trigger."
+    }
+  },
+  {
+    "i": 227,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EGO STARTS SCREAMING",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "point",
+    "explainedBy": "The investor hesitates with his hand reaching toward the mouse as fear and ego urge him not to sell.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The investor hesitates to sell because ego promises the stock will bounce back.",
+      "concreteVisual": "The investor stays at the workstation, hand reaching hesitantly toward the controls with an afraid expression.",
+      "onScreenText": "EGO STARTS SCREAMING",
+      "relationToPrevious": "Deepens the sequence from recognizing the loss to the frozen hesitation before the sell button.",
+      "addedInformation": "Captures the psychological freeze where personal ego battles trading discipline."
+    }
+  },
+  {
+    "i": 228,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TEMPORARY DIP",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The investor rationalizes the drop as temporary, desperate to avoid making the loss permanent.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Rationalizing a loss as a temporary dip is an ego defense to avoid acknowledging a mistake.",
+      "concreteVisual": "The seated investor holds a hand to his head in agonizing thought while the rationalization is struck through.",
+      "onScreenText": "TEMPORARY DIP",
+      "relationToPrevious": "Continues the sequence of inner monologue trying to justify holding the losing stock.",
+      "addedInformation": "The strike-through directly discredits the seductive lie that the drop is merely temporary."
+    }
+  },
+  {
+    "i": 229,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DON'T LOCK IN THE LOSS",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "blank",
+    "action": "sit",
+    "explainedBy": "The seated investor closes his eyes in numb focus, rejecting the instinct to cling to the trade.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cutting a loss requires tuning out the instinct that tells you not to lock in a deficit.",
+      "concreteVisual": "The investor sits motionless at the workstation with a blank, closed-off expression confronting the truth.",
+      "onScreenText": "DON'T LOCK IN THE LOSS",
+      "relationToPrevious": "Advances the sequence to the moment of mental detachment right before execution.",
+      "addedInformation": "Depicts the blank sensory detachment required to override visceral financial panic."
+    }
+  },
+  {
+    "i": 230,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HARDEST PHYSICAL ACTION",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor clicks the sell button with firm determination, executing the hardest order in trading.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Clicking the sell button and swallowing pride is the most difficult physical action in investing.",
+      "concreteVisual": "The investor firmly points downward to click the order execution, his expression resolving into neutral discipline.",
+      "onScreenText": "HARDEST PHYSICAL ACTION",
+      "relationToPrevious": "Resolves the 6-beat night workstation sequence with the decisive execution of the sale.",
+      "addedInformation": "Shows the breakthrough moment where discipline overcomes emotional paralysis."
+    }
+  },
+  {
+    "i": 231,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "CUT LOSSES EARLY",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The institutional manager points firmly to the protective shield representing the ironclad 7% to 8% loss cutoff rule.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Every single loss must be cut at 7% to 8% below purchase price without exception.",
+      "concreteVisual": "The institutional manager in his office points decisively toward a protective shield icon.",
+      "onScreenText": "CUT EVERY SINGLE LOSS",
+      "relationToPrevious": "Transitions from the individual desk scenario to the universal protective loss-cutting rule.",
+      "addedInformation": "Positions the stop-loss rule visually as an active defensive shield protecting trading capital."
+    }
+  },
+  {
+    "i": 232,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO EXCEPTIONS WHATSOEVER",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "explainedBy": "The investor firmly rejects external news, analyst upgrades, and excuses for holding a falling stock.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "There are no exceptions, news checks, or analyst upgrades that justify delaying a loss cut.",
+      "concreteVisual": "The investor gestures firmly with an uncompromising angry stance at the trading desk.",
+      "onScreenText": "NO EXCEPTIONS WHATSOEVER",
+      "relationToPrevious": "Reenforces the unyielding nature of the 7-8% shield rule declared in beat 231.",
+      "addedInformation": "Displays active resistance against the common temptations to rationalize a losing trade."
+    }
+  },
+  {
+    "i": 233,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "8% Loss",
+        "20% Profit"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flow diagram links the strict 8% maximum loss cutoff directly to the 20% profit target.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An 8% maximum loss pairs with a 20% to 25% profit target to form a disciplined risk framework.",
+      "concreteVisual": "A two-node flow diagram showing '8% Loss' leading into '20% Profit'.",
+      "onScreenText": "8% Loss -> 20% Profit",
+      "relationToPrevious": "Connects the loss prevention rule to its profit-taking counterpart.",
+      "addedInformation": "Clarifies the structural pairing of asymmetric risk and reward in O'Neil's strategy."
+    }
+  },
+  {
+    "i": 234,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PROFITS AT 20%",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [
+      "institution"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "The institutional manager highlights the power of systematically locking in 20% gains.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Taking profits systematically at 20% provides the high-yield side of the trading equation.",
+      "concreteVisual": "An institutional manager points authoritatively with a knowing smirk in an abstract financial space.",
+      "onScreenText": "PROFITS AT 20%",
+      "relationToPrevious": "Begins the mathematical demonstration of asymmetric risk-reward.",
+      "addedInformation": "Presents the institutional confidence behind routine mathematical gain-taking."
+    }
+  },
+  {
+    "i": 235,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WRONG TWO OF THREE TIMES",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "explainedBy": "The investor expresses surprise at the realization that a 7% cutoff allows being wrong 66% of the time.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cutting losses at 7% allows an investor to be wrong on two out of every three trades.",
+      "concreteVisual": "The retail investor speaks with genuine surprise as the mathematical asymmetry is stated.",
+      "onScreenText": "WRONG TWO OF THREE TIMES",
+      "relationToPrevious": "Pairs the 20% win with the 7% loss cutoff to show the astonishing margin for error.",
+      "addedInformation": "Captures the eye-opening realization that perfection is unnecessary when losses are truncated."
+    }
+  },
+  {
+    "i": 236,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "33% Wins",
+        "7% Loss",
+        "Survival"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flow diagram maps how a 33% win rate combined with a 7% loss cutoff guarantees account survival.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A 33% win rate combined with strict 7% stops mathematically guarantees trading survival.",
+      "concreteVisual": "A three-step flow diagram connecting '33% Wins' through '7% Loss' to 'Survival'.",
+      "onScreenText": "33% Wins -> 7% Loss -> Survival",
+      "relationToPrevious": "Synthesizes the mathematical proof from beats 234 and 235 into a complete survival mechanism.",
+      "addedInformation": "Diagrams the mathematical certainty that triumphs over emotional anxiety."
+    }
+  },
+  {
+    "i": 237,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "INFURIATING IN PRACTICE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The frustrated investor confronts the institutional manager about the agonizing reality of being stopped out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In practice, cutting losses can feel infuriating when stocks immediately bounce back.",
+      "concreteVisual": "The investor vigorously gestures in frustration while the institution listens impassively.",
+      "onScreenText": "INFURIATING IN PRACTICE",
+      "relationToPrevious": "Transitions from abstract mathematical perfection to the practical emotional grievance.",
+      "addedInformation": "Stages the active debate between real-world frustration and mathematical theory."
+    }
+  },
+  {
+    "i": 238,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LOCKING IN MY LOSS",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The investor describes following the rules precisely to sell at an 8% loss.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An investor follows the rule, cuts at 8% down, and feels disciplined yet vulnerable.",
+      "concreteVisual": "The investor continues explaining the painful scenario, hands held out to describe the exit.",
+      "onScreenText": "LOCKING IN MY LOSS",
+      "relationToPrevious": "Builds the first half of the common whipsaw dilemma.",
+      "addedInformation": "Details the initial compliance with the rule before the whipsaw occurs."
+    }
+  },
+  {
+    "i": 239,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SOLD AT THE BOTTOM",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "smirk",
+    "partnerAction": "talk",
+    "explainedBy": "The investor slumps in misery at selling the bottom while the manager acknowledges the feeling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Selling right before a 20% bounce makes the disciplined trader feel like a complete fool.",
+      "concreteVisual": "The investor slumps in total dejection beside the calm portfolio manager who smiles knowingly.",
+      "onScreenText": "SOLD AT THE BOTTOM",
+      "relationToPrevious": "Delivers the punchline of the pushback scenario: getting whipsawed out at the exact bottom.",
+      "addedInformation": "Visualizes the acute humiliation of following rules only to watch the stock rebound."
+    }
+  },
+  {
+    "i": 240,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LOOK AT THE ALTERNATIVE",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager reminds the shaken retail trader to examine the catastrophic alternative.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Getting shaken out happens repeatedly, but the alternative of holding losses is far worse.",
+      "concreteVisual": "The institutional manager addresses the worried investor directly, gesturing toward the bigger picture.",
+      "onScreenText": "LOOK AT THE ALTERNATIVE",
+      "relationToPrevious": "Shifts the perspective from short-term embarrassment to systemic survival.",
+      "addedInformation": "Frames whipsaw losses as the minor trade-off against catastrophic portfolio wipeout."
+    }
+  },
+  {
+    "i": 241,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IBM IN 1926",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The manager holds O'Neil's historical reference book citing IBM's 1926 violent shakeout.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "William O'Neil points to IBM in 1926 as a classic example of a violent shakeout in a winning stock.",
+      "concreteVisual": "The institutional manager holding a reference book in his office, citing historical precedents.",
+      "onScreenText": "IBM IN 1926",
+      "relationToPrevious": "Introduces historical evidence to prove that shakeouts happen even to the greatest market leaders.",
+      "addedInformation": "Anchors the discussion in empirical market history rather than theoretical speculation."
+    }
+  },
+  {
+    "i": 242,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUY IT BACK HIGHER",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "The professional explains that disciplined traders swallow their pride and re-enter at a higher buy point.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Professionals swallow their pride and rebuy a shaken-out stock when it crosses the pivot again.",
+      "concreteVisual": "The institutional manager points upward decisively, demonstrating re-buying at higher prices.",
+      "onScreenText": "BUY IT BACK HIGHER",
+      "relationToPrevious": "Reveals the professional reaction to a stock that recovers after triggering a stop loss.",
+      "addedInformation": "Demonstrates the counter-intuitive mastery of paying up rather than pouting."
+    }
+  },
+  {
+    "i": 243,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HOLD NO GRUDGES",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "talk",
+    "explainedBy": "The retail investor reacts with amazement as the manager explains why professionals hold no grudges.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The market does not know you exist, so holding an emotional grudge against a stock is foolish.",
+      "concreteVisual": "The investor gestures in astonishment while the fund manager calmly explains emotional neutrality.",
+      "onScreenText": "HOLD NO GRUDGES",
+      "relationToPrevious": "Contrasts retail spite with institutional objectivity following a stopped-out trade.",
+      "addedInformation": "Stresses the complete absence of personal vendettas in professional trading."
+    }
+  },
+  {
+    "i": 244,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN INSURANCE PREMIUM",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "shield",
+    "explainedBy": "The investor holds a protective shield, understanding that small losses are merely insurance premiums.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "An 8% loss is not an analytical error but a necessary insurance premium for capital preservation.",
+      "concreteVisual": "The investor stands in an abstract space holding a golden protective shield with calm acceptance.",
+      "onScreenText": "AN INSURANCE PREMIUM",
+      "relationToPrevious": "Reframes the psychological pain of the loss into a deliberate defensive expense.",
+      "addedInformation": "Transforms the perception of a loss from failure to prudent risk management."
+    }
+  },
+  {
+    "i": 245,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ISN'T GOING TO BOUNCE",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The investor ponders at his workstation the looming danger of a stock that never recovers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Eventually, a stock that drops 8% will not bounce back, turning into a disastrous collapse.",
+      "concreteVisual": "The investor stands at his desk with a worried expression as the bounce assumption is struck down.",
+      "onScreenText": "ISN'T GOING TO BOUNCE",
+      "relationToPrevious": "Explains why the insurance premium in beat 244 must be paid every single time.",
+      "addedInformation": "Shatters the complacency that every declining stock will eventually recover."
+    }
+  },
+  {
+    "i": 246,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "DROP 50% OR 80%",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The investor slumps in terror beside a crash icon as catastrophic 50% to 80% losses wipe out capital.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Without the 8% rule, a single stock dropping 50% to 80% can wipe out an entire account.",
+      "concreteVisual": "The investor slumps in fear beside a dramatic crash icon representing market ruin.",
+      "onScreenText": "DROP 50% OR 80%",
+      "relationToPrevious": "Shows the catastrophic endpoint that the 8% insurance rule exists to prevent.",
+      "addedInformation": "Illustrates the true ruinous danger of refusing to take small losses."
+    }
+  },
+  {
+    "i": 247,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STRANGLING YOUR EGO",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "explainedBy": "The investor aggressively confronts his own ego, committing to cut losses before pride destroys capital.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Reversing retail instinct requires ruthlessly suppressing ego to cut losses before pride destroys capital.",
+      "concreteVisual": "The retail trader stands in an abstract space with intense, angry determination.",
+      "onScreenText": "STRANGLING YOUR EGO",
+      "relationToPrevious": "Synthesizes the psychological victory required to survive the market crashes of beat 246.",
+      "addedInformation": "Depicts the fierce internal war against ego required for professional execution."
+    }
+  },
+  {
+    "i": 248,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REQUIRED FOR SURVIVAL",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The fund manager emphasizes that counter-intuitive loss cutting is required for market survival.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cutting losses immediately is unnatural to human psychology but mandatory for long-term survival.",
+      "concreteVisual": "The portfolio manager stands calmly in his office, emphasizing the core survival mandate.",
+      "onScreenText": "REQUIRED FOR SURVIVAL",
+      "relationToPrevious": "Concludes the loss-cutting doctrine before pivoting to the framework's core vulnerability.",
+      "addedInformation": "Affirms that market survival depends on embracing unnatural, disciplined habits."
+    }
+  },
+  {
+    "i": 249,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT A MAGIC BULLET",
+      "style": "strike"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "explainedBy": "The investor points to the CAN SLIM framework with concern, acknowledging it is not a magic bullet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "CAN SLIM is not an invincible magic bullet that works in every market condition.",
+      "concreteVisual": "The investor points in an abstract analytical space with a worried expression as 'magic bullet' is struck.",
+      "onScreenText": "NOT A MAGIC BULLET",
+      "relationToPrevious": "Transitions from praising the system's power to examining its specific vulnerabilities.",
+      "addedInformation": "Temples uncritical enthusiasm by highlighting systemic limitations."
+    }
+  },
+  {
+    "i": 250,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WHEN AND WHY IT FAILS",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The institutional manager explains that knowing when a trading strategy fails is vital.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Understanding the precise market conditions where a system fails is as important as knowing how it works.",
+      "concreteVisual": "The institutional manager speaks thoughtfully in his office, breaking down system mechanics.",
+      "onScreenText": "WHEN AND WHY IT FAILS",
+      "relationToPrevious": "Reinforces the necessity of stress-testing the CAN SLIM methodology.",
+      "addedInformation": "Frames failure analysis as an essential component of professional competence."
+    }
+  },
+  {
+    "i": 251,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Bull Trend",
+        "Whipsaw"
+      ],
+      "values": [
+        0.85
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A spectrum diagram identifies the choppy whipsaw bear market as the lethal environment for CAN SLIM.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The fatal vulnerability of momentum breakouts is a choppy, rangebound whipsaw bear market.",
+      "concreteVisual": "A spectrum continuum ranging from 'Bull Trend' to 'Whipsaw' with the indicator near maximum chop.",
+      "onScreenText": "Bull Trend <---> Whipsaw",
+      "relationToPrevious": "Pinpoints the exact market environment where breakout systems encounter distress.",
+      "addedInformation": "Visualizes the structural shift from trending conditions to choppy algorithmic traps."
+    }
+  },
+  {
+    "i": 252,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STOPPED OUT AT 7%",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "The seated investor gets stopped out at 7% as a cup-with-handle breakout fails in a weak market.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Buying breakouts in an indecisive market leads to immediate failure and a 7% stop-out.",
+      "concreteVisual": "The investor sits at his workstation looking anxious as the first breakout trade fails.",
+      "onScreenText": "STOPPED OUT AT 7%",
+      "relationToPrevious": "Begins the repetitive sequence showing how whipsaws bleed trader capital.",
+      "addedInformation": "Demonstrates that textbook technical patterns collapse when the broader tide is negative."
+    }
+  },
+  {
+    "i": 253,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ANOTHER STOCK BREAKOUT",
+      "style": "box"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The investor slumps at his desk as another stock breakout fails, triggering another 7% loss.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A second breakout fails the following week, triggering another 7% loss despite perfect discipline.",
+      "concreteVisual": "The investor slumps further over the workstation monitors as a second loss registers.",
+      "onScreenText": "ANOTHER STOCK BREAKOUT",
+      "relationToPrevious": "Continues the whipsaw sequence, showing repetition of the loss-cutting cycle.",
+      "addedInformation": "Captures the grinding erosion of capital and morale from repeated stop-outs."
+    }
+  },
+  {
+    "i": 254,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DEATH BY A THOUSAND CUTS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "The investor clutches an emptying wallet in distress after five consecutive stop-outs bleed his capital.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Repeatedly taking 7% losses in a whipsaw market inflicts death by a thousand cuts on trading capital.",
+      "concreteVisual": "The investor sits at his workstation holding a depleted wallet with an expression of fear.",
+      "onScreenText": "DEATH BY A THOUSAND CUTS",
+      "relationToPrevious": "Culminates the whipsaw sequence by exposing the devastating cumulative impact of repeated stops.",
+      "addedInformation": "Shows that even flawless rule execution drains an account if trading in the wrong market."
+    }
+  },
+  {
+    "i": 255,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "THE M IN CAN SLIM",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The institutional manager points to a navigational compass representing Market Direction, the crucial 'M'.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The system is only vulnerable to whipsaws if the trader ignores Market Direction, the M in CAN SLIM.",
+      "concreteVisual": "The institutional manager in his office points toward a crisp navigational compass icon.",
+      "onScreenText": "THE M IN CAN SLIM",
+      "relationToPrevious": "Shifts from the whipsaw trap to the navigational rule that prevents it.",
+      "addedInformation": "Introduces market direction as the macro compass that overrules individual stock setups."
+    }
+  },
+  {
+    "i": 256,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SUSTAINED UPTREND",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "explainedBy": "The portfolio manager explains that CAN SLIM is specifically engineered to exploit sustained bull markets.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "CAN SLIM is engineered specifically to compound wealth during sustained bull market uptrends.",
+      "concreteVisual": "The institutional manager speaks warmly and confidently in his trading office.",
+      "onScreenText": "SUSTAINED UPTREND",
+      "relationToPrevious": "Defines the true intended operational environment for CAN SLIM momentum strategies.",
+      "addedInformation": "Clarifies that the system is a specialized offensive weapon, not an all-weather tool."
+    }
+  },
+  {
+    "i": 257,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "STOP PLAYING THE GAME",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Beside a chess knight strategy icon, the manager declares that true discipline means stepping aside.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In a choppy or bear market, the highest discipline is to stop trading rather than taking repeated losses.",
+      "concreteVisual": "The institutional manager stands beside a chess knight game icon, gesturing to step away.",
+      "onScreenText": "STOP PLAYING THE GAME",
+      "relationToPrevious": "Provides the tactical remedy to the death-by-a-thousand-cuts whipsaw dilemma.",
+      "addedInformation": "Reframes inaction not as giving up, but as a superior strategic decision."
+    }
+  },
+  {
+    "i": 258,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IN 100% CASH",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "holds": "coin",
+    "explainedBy": "The investor sits patiently at his workstation holding physical cash, completely removed from market risk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ultimate discipline during market chop is holding 100% cash and refusing to force trades.",
+      "concreteVisual": "The retail investor sits peacefully at his workstation holding a coin, charts left inactive.",
+      "onScreenText": "IN 100% CASH",
+      "relationToPrevious": "Translates the concept of stopping the game into the concrete posture of holding cash.",
+      "addedInformation": "Depicts sitting in cash as an active, deliberate position of strength."
+    }
+  },
+  {
+    "i": 259,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SITTING IN CASH",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "holds": "coin",
+    "explainedBy": "The seated investor struggles with the restless anxiety of doing nothing while holding cash.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Doing absolutely nothing is psychologically the hardest challenge for an active retail trader.",
+      "concreteVisual": "The investor remains seated with his cash, an expression of restless anxiety creeping onto his face.",
+      "onScreenText": "DOING ABSOLUTELY NOTHING",
+      "relationToPrevious": "Explores the psychological resistance to staying in cash introduced in beat 258.",
+      "addedInformation": "Exposes the internal itch to gamble that torments disciplined traders in cash."
+    }
+  },
+  {
+    "i": 260,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "URGE TO ACT",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "talk",
+    "explainedBy": "The investor battles the compulsive impulse to reach toward the keyboard and enter sub-par setups.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The psychological urge to feel productive drives traders out of cash and into dangerous, low-quality setups.",
+      "concreteVisual": "The investor leans forward in his chair, hand reaching temptingly toward trading controls in agitation.",
+      "onScreenText": "URGE TO ACT",
+      "relationToPrevious": "Demonstrates how the boredom identified in beat 259 transforms into reckless trading.",
+      "addedInformation": "Visualizes the physical temptation that destroys trader discipline during market lulls."
+    }
+  },
+  {
+    "i": 261,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KEEP YOUR POWDER DRY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The institutional manager instructs the retail trader to keep his capital dry until the market tide turns.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mastery consists in preserving capital in cash until institutional accumulation confirms a new uptrend.",
+      "concreteVisual": "The institutional manager and retail trader stand side by side in the office in calm mutual alignment.",
+      "onScreenText": "KEEP YOUR POWDER DRY",
+      "relationToPrevious": "Concludes chunk 7 by uniting retail patience with institutional market timing.",
+      "addedInformation": "Harmonizes retail behavior with institutional market currents."
+    }
+  }
+]

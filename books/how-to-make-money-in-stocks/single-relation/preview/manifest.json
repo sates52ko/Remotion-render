@@ -1,0 +1,57 @@
+{
+ "schema": "stills/1",
+ "name": "single-relation A/B how-to-make-money-in-stocks",
+ "composition": "Antidote-lab",
+ "entry": "src/index.ts",
+ "silent": true,
+ "shards": 2,
+ "extra": [
+  "public/sfx/ding.wav",
+  "public/sfx/pop.wav",
+  "public/sfx/thud.wav",
+  "public/sfx/tick.wav",
+  "public/sfx/whoosh.wav"
+ ],
+ "jobs": [
+  {
+   "id": "s135-A",
+   "config": "configs/s135-A.json",
+   "frames": [
+    431,
+    512,
+    592
+   ],
+   "strip": true
+  },
+  {
+   "id": "s135-B",
+   "config": "configs/s135-B.json",
+   "frames": [
+    431,
+    512,
+    592
+   ],
+   "strip": true
+  },
+  {
+   "id": "s189-A",
+   "config": "configs/s189-A.json",
+   "frames": [
+    286,
+    358,
+    430
+   ],
+   "strip": true
+  },
+  {
+   "id": "s189-B",
+   "config": "configs/s189-B.json",
+   "frames": [
+    286,
+    358,
+    430
+   ],
+   "strip": true
+  }
+ ]
+}

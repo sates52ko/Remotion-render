@@ -1,0 +1,165 @@
+{
+ "schema": "single-relation-candidates/1",
+ "slug": "how-to-make-money-in-stocks",
+ "at": "2026-11-07T05:55:03.583Z",
+ "capability": "single-relation/1",
+ "level": "Level 1 — default OFF; candidates are proposals, nothing is applied",
+ "scenes": 273,
+ "causalBeats": 13,
+ "listed": 4,
+ "configHash": "9424d94dbaa0bbfe",
+ "candidates": [
+  {
+   "sceneIndex": 51,
+   "sceneId": "scene-51",
+   "evidence": "Okay, I'm going to stop you right there.",
+   "cause": "Okay, I'm going to",
+   "effect": "you right there.",
+   "cue": "stop",
+   "inputHash": "75af48a242a6b335",
+   "currentLimitation": "people + on-screen words only (shot wide) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "removal",
+   "expectedUnderstanding": "Okay, I'm going to → you right there.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 253,
+   "sceneId": "scene-253",
+   "evidence": "You buy it, it drops down, stopped out at 7%.",
+   "cause": "You buy it, it drops down",
+   "effect": "out at 7%.",
+   "cue": "stopped",
+   "inputHash": "8687bec9b4f7c45c",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "You buy it, it drops down → out at 7%.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 189,
+   "sceneId": "scene-189",
+   "evidence": "O'Neal's math proves that writing out a severe bare market destroys the magic of compound interest.",
+   "cause": "O'Neal's math proves that writing out a severe bare market",
+   "effect": "the magic of compound interest.",
+   "cue": "destroys",
+   "inputHash": "010c8c25e353c17d",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "depletion",
+   "expectedUnderstanding": "O'Neal's math proves that writing out a severe bare market → the magic of compound interest.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 135,
+   "sceneId": "scene-135",
+   "evidence": "It is holding its ground because institutions are quietly supporting the price, refusing to let it fall.",
+   "cause": "institutions are quietly supporting the price, refusing to let it",
+   "effect": "It is holding its ground",
+   "cue": "because",
+   "inputHash": "4553e9a86acb3600",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "institutions are quietly supporting the price, refusing to let it → It is holding its ground",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  }
+ ],
+ "rejected": [
+  {
+   "sceneIndex": 12,
+   "sceneId": "scene-12",
+   "evidence": "the research that eventually became the book How to Make Money in Stocks.",
+   "cause": "the research that eventually became the book How to",
+   "effect": "Money in Stocks.",
+   "cue": "Make",
+   "inputHash": "21e6bf4dafab84ab",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 37,
+   "sceneId": "scene-37",
+   "evidence": "not enough to drive the kind of massive frantic institutional buying required to double or triple a stock's price.",
+   "cause": "not enough to",
+   "effect": "the kind of massive frantic institutional buying required to double",
+   "cue": "drive",
+   "inputHash": "3967e0598156c472",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"not\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 53,
+   "sceneId": "scene-53",
+   "evidence": "A company cannot grow at 50% forever.",
+   "cause": "A company cannot",
+   "effect": "at 50% forever.",
+   "cue": "grow",
+   "inputHash": "d0050ce79d3b2b0b",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"cannot\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 59,
+   "sceneId": "scene-59",
+   "evidence": "you refuse to settle for safe and steady because the market only heavily rewards explosive acceleration.",
+   "cause": "the market only heavily rewards explosive acceleration.",
+   "effect": "you refuse to settle for safe and steady",
+   "cue": "because",
+   "inputHash": "99d7b49f51a9836b",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 60,
+   "sceneId": "scene-60",
+   "evidence": "Which naturally brings us to what actually triggers that acceleration in the first place, the N in can slim, the new catalyst and new highs.",
+   "cause": "Which naturally brings us to what actually",
+   "effect": "that acceleration in the first place, the N in can",
+   "cue": "triggers",
+   "inputHash": "b43942817ee52cce",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 215,
+   "sceneId": "scene-215",
+   "evidence": "We see a cup because we desperately want to see a cup to justify buying the stock.",
+   "cause": "we desperately want to see a cup to justify buying",
+   "effect": "We see a cup",
+   "cue": "because",
+   "inputHash": "44c808e55e5c67ef",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 228,
+   "sceneId": "scene-228",
+   "evidence": "Because the moment you click sell, you make the loss You could become a loser.",
+   "cause": "Because the moment you click sell, you",
+   "effect": "the loss You could become a loser.",
+   "cue": "make",
+   "inputHash": "46dca90c081a11d0",
+   "rejectClass": "planned / hypothetical",
+   "reason": "planned / hypothetical cue (\"could\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 260,
+   "sceneId": "scene-260",
+   "evidence": "The urge to act, the need to feel like you are making money forces them into bad setups.",
+   "cause": "The urge to act, the need to feel like you",
+   "effect": "them into bad setups.",
+   "cue": "forces",
+   "inputHash": "d243ec07778f618e",
+   "rejectClass": "obligation / advice",
+   "reason": "obligation / advice cue (\"need to\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 270,
+   "sceneId": "scene-270",
+   "evidence": "That one stock that still makes you wse when you think about it.",
+   "cause": "That one stock that still",
+   "effect": "you wse when you think about it.",
+   "cue": "makes",
+   "inputHash": "56e73c6d7aa37232",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+  "slug": "how-to-make-money-in-stocks",
+  "engine": "antidote",
+  "at": "2026-11-07T07:34:27.762Z",
+  "write": true,
+  "written": true,
+  "problems": 0,
+  "byClass": {
+    "OPERATOR": 0,
+    "AGENT_STEP": 0,
+    "REAUTHOR": 0,
+    "ROUTINE": 0
+  },
+  "byCode": [],
+  "byFile": {},
+  "operatorNeeded": false,
+  "next": "merged — next: node scripts/preview-state.js status (it names the next step: readcheck for Antidote, make-book for Vox); routine, never end the turn",
+  "items": [],
+  "warnings": 0,
+  "review": [
+    {
+      "i": 1,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"BARGAIN, IT'S CHEAP\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 4,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"THE ULTIMATE PSYCHOLOGICAL TRAP\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 14,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"AN UNCOMPROMISING PSYCHOLOGICAL FRAMEWORK\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 18,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"DISCIPLINED PATTERN RECOGNITION\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 29,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"QUARTERLY EARNINGS ACCELERATION\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 31,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"PROJECTING TOTAL CONFIDENCE\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 37,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"FRANTIC INSTITUTIONAL BUYING\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 39,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ONE LUCKY QUARTER\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 44,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"EARNINGS GROWTH WAS BLISTERING\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 53,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"BUYING PEAK HYPE\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 68,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"OLD COMFORTABLE STOCK\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 76,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"JUST WANT YOUR MONEY BACK\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 78,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ZERO OVERHEAD SUPPLY\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 92,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"FOOTPRINT OF INSTITUTIONAL MONEY\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 96,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"THE BUYING URGENCY INCREASES\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 110,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"FRAMEWORK OF HARD DATA\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 127,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"PITCH TO THE TOP TIER\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 128,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"CHASING PAST PERFORMANCE\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 131,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"STRAIGHT UP IN A VERTICAL LINE\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 137,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"THE UNDERDOG USUALLY LOSES\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 147,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"A MAJOR REALITY CHECK\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 152,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"THE SMART BIG MONEY\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 157,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"BECOME THEIR EXIT LIQUIDITY\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 177,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"300% EARNINGS GROWTH\" shows \"earnings growth\" before the narration says it (beat 178) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 214,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"READING TEA LEAVES\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 216,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"BYPRODUCT OF HUMAN BEHAVIOR\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 220,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"WEAK HANDS ARE CAPITULATING\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 227,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"EGO STARTS SCREAMING\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 230,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"HARDEST PHYSICAL ACTION\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 245,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ISN'T GOING TO BOUNCE\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 269,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"A FINAL PROVOCATIVE THOUGHT\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    }
+  ],
+  "refused": {}
+}

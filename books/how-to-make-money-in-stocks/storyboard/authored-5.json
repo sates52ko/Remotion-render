@@ -1,0 +1,840 @@
+[
+  {
+    "i": 159,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FINISHED THEIR ACCUMULATION",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "walk",
+    "explainedBy": "The institutional fund manager smirks with calculating satisfaction as the late retail investor arrives after accumulation is finished.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutions finish accumulating stock months before retail hears about it and prepare to sell to latecomers.",
+      "concreteVisual": "The institutional fund manager in a suit talks with a smirk while the retail trader walks in late.",
+      "onScreenText": "FINISHED THEIR ACCUMULATION",
+      "relationToPrevious": "Transitions from the dinner party hype of beat 158 to the institutional trap waiting on the other side.",
+      "addedInformation": "Contrasts the calculated preparedness of the institution with the tardy arrival of retail."
+    }
+  },
+  {
+    "i": 160,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUY THE INITIAL BREAKOUT",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "explainedBy": "The retail investor points eagerly at the workstation screen, catching the initial breakout right as institutional buying begins.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The discipline is to buy at the initial pivot breakout right as institutional buying pushes price out of the base.",
+      "concreteVisual": "The retail investor stands at his workstation pointing with focused excitement at the breakout on his monitor.",
+      "onScreenText": "BUY THE INITIAL BREAKOUT",
+      "relationToPrevious": "Provides the disciplined remedy to the latecomer dilemma shown in beat 159.",
+      "addedInformation": "Pinpoints the exact pivot entry point where institutional volume validates the trade."
+    }
+  },
+  {
+    "i": 161,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HIDDEN INSTITUTIONAL SELLING",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The investor inspects the daily tape through a magnifier looking for hidden institutional selling blocks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutions cannot dump millions of shares at once, so they disguise their exits through gradual distribution.",
+      "concreteVisual": "The investor at his workstation holds a magnifier up to his eye, scrutinizing the tape with deep concern.",
+      "onScreenText": "HIDDEN INSTITUTIONAL SELLING",
+      "relationToPrevious": "Shifts from entering the initial run to the constant vigilance needed to detect distribution.",
+      "addedInformation": "Portrays distribution as covert footprints that require forensic tape-reading scrutiny."
+    }
+  },
+  {
+    "i": 162,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SELL INTO STRENGTH",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "notes",
+    "partnerExpression": "happy",
+    "partnerAction": "reach",
+    "explainedBy": "The fund manager smirks as he offers share notes to the eager retail trader who excitedly reaches out on an up day.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutions sell into strength on green market days, feeding shares to excited retail buyers to cap the price.",
+      "concreteVisual": "The fund manager offers stock certificates across the trading desk while the retail trader reaches eagerly to buy.",
+      "onScreenText": "SELL INTO STRENGTH",
+      "relationToPrevious": "Illustrates the exact mechanism of hidden institutional selling introduced in beat 161.",
+      "addedInformation": "Makes the predatory exchange visible: retail buys euphoria while institutions quietly offload supply."
+    }
+  },
+  {
+    "i": 163,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STALLS ON MASSIVE VOLUME",
+      "style": "box"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "The retail investor sits at his workstation alarmed as heavy volume produces a stalled close on the daily chart.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Distribution footprints appear when a stock stalls out or closes down despite massive trading volume.",
+      "concreteVisual": "The investor sits tensely in his workstation chair with a worried expression, staring at a stalled volume bar.",
+      "onScreenText": "STALLS ON MASSIVE VOLUME",
+      "relationToPrevious": "Translates the institutional feeding from beat 162 into the specific chart signature it leaves on screen.",
+      "addedInformation": "Highlights the divergence between high effort (volume) and zero result (stalled price)."
+    }
+  },
+  {
+    "i": 164,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HEAD FOR THE EXITS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "wide",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "leave",
+    "actionCue": "exits",
+    "explainedBy": "The disciplined investor spots the distribution footprints and calmly walks off screen toward safety before the crowd catches on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Detecting distribution footprints allows disciplined traders to exit safely before the general public notices.",
+      "concreteVisual": "The investor walks steadily away from his workstation across a wide room shot, exiting off screen.",
+      "onScreenText": "HEAD FOR THE EXITS",
+      "relationToPrevious": "The necessary behavioral action following the stalled volume signal identified in beat 163.",
+      "addedInformation": "Shows the orderly, unpanicked early departure that separates professionals from late retail bag-holders."
+    }
+  },
+  {
+    "i": 165,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SUPPRESS YOUR EGO",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The investor holds a magnifier with a sober, neutral demeanor, accepting his humble role as a tape detective.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The framework demands suppressing personal ego to act as a detective following institutional footprints.",
+      "concreteVisual": "The investor stands at his workstation holding a magnifier with a blank, emotionless expression.",
+      "onScreenText": "SUPPRESS YOUR EGO",
+      "relationToPrevious": "Explains the psychological posture required to execute the quiet exit shown in beat 164.",
+      "addedInformation": "Links emotional detachment and humility directly to the detective work of tape reading."
+    }
+  },
+  {
+    "i": 166,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE PERFECT STOCK",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The investor happily reviews his checklist of flawless earnings and sponsorship, confident in his ideal setup.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Even a stock with massive earnings, new catalysts, and top institutional sponsorship remains vulnerable.",
+      "concreteVisual": "The investor smiles complacently at his workstation while reviewing trading notes filled with positive metrics.",
+      "onScreenText": "THE PERFECT STOCK",
+      "relationToPrevious": "Sets up the maximum fundamental confidence right before revealing the fatal systemic market vulnerability.",
+      "addedInformation": "Depicts retail vulnerability when relying strictly on company-level excellence."
+    }
+  },
+  {
+    "i": 167,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "IGNORE THE M",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The investor slumps in panic beside a crash icon as his perfect stock setup collapses when the market turns.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Everything is destroyed in an instant if an investor ignores the M (Market Direction) in CAN SLIM.",
+      "concreteVisual": "The investor slumps in fear beside a crash icon as his setup collapses around him.",
+      "onScreenText": "IGNORE THE M (struck through)",
+      "relationToPrevious": "Instantly shatters the happy complacency of the 'perfect stock' in beat 166.",
+      "addedInformation": "Visualizes the rapid capital destruction that occurs when fighting general market direction."
+    }
+  },
+  {
+    "i": 168,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BRUTAL UNFORGIVING FILTER",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "The investor sits soberly at his desk, acknowledging the severe market filter that protects against catastrophic loss.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The general market direction filter is an unforgiving rule that protects traders from unrecoverable ruin.",
+      "concreteVisual": "The investor sits in deep contemplation at his workstation with a grave, focused expression.",
+      "onScreenText": "BRUTAL UNFORGIVING FILTER",
+      "relationToPrevious": "Defines the market filter as a strict protective boundary following the crash warning in beat 167.",
+      "addedInformation": "Frames the strictness of the market filter as a lifesaving shield rather than an obstacle."
+    }
+  },
+  {
+    "i": 169,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUSTLING TRADING DESK",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "wide",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Traders chat casually across a bright, active office floor on a pleasant Tuesday, oblivious to any danger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Major market declines begin in deceptive calm on an ordinary, bustling trading desk under sunny skies.",
+      "concreteVisual": "The fund manager and retail trader stand cheerfully together in a sunlit institutional trading room.",
+      "onScreenText": "BUSTLING TRADING DESK",
+      "relationToPrevious": "Opens a concrete vignette demonstrating how distribution days stealthily initiate market tops.",
+      "addedInformation": "Establishes the calm, cheerful baseline atmosphere that masks the onset of distribution."
+    }
+  },
+  {
+    "i": 170,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DOWN JUST A FRACTION",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "happy",
+    "partnerAction": "talk",
+    "continue": true,
+    "explainedBy": "The traders smile over good earnings reports while the Dow registers only a negligible fractional decline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Earnings reports look strong and minor index drops of a fraction of a percent are greeted with cheer.",
+      "concreteVisual": "The two traders continue conversing cheerfully on the trading floor, untroubled by the tiny index dip.",
+      "onScreenText": "DOWN JUST A FRACTION",
+      "relationToPrevious": "Maintains the office sequence, underscoring how benign the market appears on surface levels.",
+      "addedInformation": "Shows how superficial price metrics lull the trading community into a false sense of security."
+    }
+  },
+  {
+    "i": 171,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHILLING ON THE TAPE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "investor",
+      "institution"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "The retail investor turns anxious and points to the tape while the institution watches with a knowing smirk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "While financial media downplays the dip as healthy, an O'Neil methodology trader spots chilling tape data.",
+      "concreteVisual": "The investor points tensely at the desk monitors while the fund manager watches with a smirk.",
+      "onScreenText": "CHILLING ON THE TAPE",
+      "relationToPrevious": "Shatters the complacency of beat 170 as analytical discipline detects an underlying anomaly.",
+      "addedInformation": "Contrasts the superficial optimism of financial TV with the ominous reality on the tape."
+    }
+  },
+  {
+    "i": 172,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "HEAVIER VOLUME",
+        "INDEX DOWN",
+        "DISTRIBUTION DAY"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A three-node flowchart defines a distribution day: heavier index volume combined with falling price signals institutional selling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Heavier volume across the entire index on a down day definitively defines an institutional distribution day.",
+      "concreteVisual": "A three-step flowchart connects HEAVIER VOLUME and INDEX DOWN to DISTRIBUTION DAY.",
+      "onScreenText": "none",
+      "relationToPrevious": "Reveals the exact technical mechanism behind the chilling tape signal seen in beat 171.",
+      "addedInformation": "Codifies O'Neil's objective definition of a distribution day into a clear causal flow diagram."
+    }
+  },
+  {
+    "i": 173,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DUMPING INTO BUY ORDERS",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "partnerExpression": "worried",
+    "partnerAction": "slump",
+    "explainedBy": "The smart money calmly walks toward the exit while dumping large share blocks into retail purchase orders.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Smart money methodically heads for the exits by dumping stock into unsuspecting retail buy orders.",
+      "concreteVisual": "The fund manager walks calmly toward the trading floor exit while the retail trader slumps in mounting unease.",
+      "onScreenText": "DUMPING INTO BUY ORDERS",
+      "relationToPrevious": "Illustrates the institutional exodus occurring under the cover of the distribution day in beat 172.",
+      "addedInformation": "Dramatizes the transfer of inventory from savvy institutions to trapped retail buyers."
+    }
+  },
+  {
+    "i": 174,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT A DRAMATIC CRASH",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "blank",
+    "action": "sit",
+    "explainedBy": "The investor sits in blank contemplation as the myth of an immediate dramatic crash is struck down.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Bear markets begin not with an obvious dramatic crash, but through a slow bleed of distribution days.",
+      "concreteVisual": "The investor sits quietly at his workstation staring ahead as the concept of a dramatic crash is struck out.",
+      "onScreenText": "NOT A DRAMATIC CRASH (struck through)",
+      "relationToPrevious": "Refutes the popular belief that bear markets announce themselves with sensational collapse.",
+      "addedInformation": "Highlights the quiet, insidious nature of market topping patterns versus sensational crashes."
+    }
+  },
+  {
+    "i": 175,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "FOLLOW MARKET",
+        "BUCK TREND"
+      ],
+      "values": [
+        75,
+        25
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A sorter diagram partitions stocks into the 75% that follow the general market and the 25% that resist.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Three out of four stocks (75%) follow the overall general market trend.",
+      "concreteVisual": "A two-bin sorter categorizes stocks into FOLLOW MARKET (75%) versus BUCK TREND (25%).",
+      "onScreenText": "none",
+      "relationToPrevious": "Supplies the empirical research data explaining why the slow bleed in beat 174 pulls down most stocks.",
+      "addedInformation": "Gives visual proof of the overwhelming 75% correlation between individual stocks and general market direction."
+    }
+  },
+  {
+    "i": 176,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DOES NOT MATTER",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The retail investor slumps dejectedly at his workstation, realizing individual stock merits cannot defy a market top.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If the general market is entering a bear phase, the quality of your individual stock fundamentally does not matter.",
+      "concreteVisual": "The investor slumps at his desk with a furrowed brow, looking helplessly at his trading screen.",
+      "onScreenText": "DOES NOT MATTER",
+      "relationToPrevious": "Connects the 75% market correlation in beat 175 to the trader's individual stock portfolio.",
+      "addedInformation": "Captures the sobering realization that stock picking excellence is subordinate to market tides."
+    }
+  },
+  {
+    "i": 177,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "300% EARNINGS GROWTH",
+      "style": "box"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "continue": true,
+    "explainedBy": "The investor stares at his 300% earnings report, bewildered that phenomenal growth cannot halt the stock's decline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Even revolutionary products and 300% earnings growth cannot protect an individual stock during a market top.",
+      "concreteVisual": "The investor clutches trading notes detailing 300% earnings growth, looking anxious and perplexed.",
+      "onScreenText": "300% EARNINGS GROWTH",
+      "relationToPrevious": "Continues the workstation scene, pushing the argument to the extreme scenario of 300% earnings growth.",
+      "addedInformation": "Proves that fundamental perfection cannot save an equity from systemic market outflows."
+    }
+  },
+  {
+    "i": 178,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NASDAQ TOP IN 2000",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The investor recoils in fear at his workstation as the nightmare of the 2000 NASDAQ dot-com top is recalled.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When the market tide recedes everything goes down with it, exemplified by the nightmarish 2000 NASDAQ top.",
+      "concreteVisual": "The investor slumps back in alarm before his monitors, visibly shaken by the historical dot-com peak.",
+      "onScreenText": "NASDAQ TOP IN 2000",
+      "relationToPrevious": "Grounds the market tsunami principle in the definitive historical precedent of the dot-com peak.",
+      "addedInformation": "Evokes the visceral trauma of the 2000 peak to reinforce the necessity of defensive exits."
+    }
+  },
+  {
+    "i": 179,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WASN'T A MYSTERY",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "The investor points steadily at the historical chart, showing that the 2000 top gave clear tape signals.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dot-com collapse was no sudden mystery to traders who monitored the tape for distribution.",
+      "concreteVisual": "The investor points with calm precision at the historical chart displayed on his screen.",
+      "onScreenText": "WASN'T A MYSTERY",
+      "relationToPrevious": "Shifts from the fear of the 2000 collapse in beat 178 to analytical certainty.",
+      "addedInformation": "Demonstrates that even historic market crashes give advance technical warnings to disciplined observers."
+    }
+  },
+  {
+    "i": 180,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLOSING DOWN MORE THAN 0.2%",
+      "style": "box"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The investor consults O'Neil's book at his workstation, reviewing the rule of index drops exceeding 0.2% on higher volume.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Clustered distribution days where the index closes down over 0.2% on higher volume definitively signal market tops.",
+      "concreteVisual": "The investor holds O'Neil's reference book open at his desk while checking the distribution parameters.",
+      "onScreenText": "CLOSING DOWN MORE THAN 0.2%",
+      "relationToPrevious": "Provides the exact quantitative distribution rule that forecasted the 2000 dot-com peak.",
+      "addedInformation": "Reinforces O'Neil's methodology as an exact empirical science rather than subjective guessing."
+    }
+  },
+  {
+    "i": 181,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CYCLE WAS OVER",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "partnerExpression": "worried",
+    "partnerAction": "slump",
+    "explainedBy": "The institutional manager walks away smirking while dumping tech shares on the anxious retail investor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutions dumped tech stocks under retail cover, signaling the cycle was over weeks before the bloodbath.",
+      "concreteVisual": "The fund manager walks off with a confident smirk while the retail trader slumps in mounting dread.",
+      "onScreenText": "CYCLE WAS OVER",
+      "relationToPrevious": "Shows the institutional exodus occurring during the clustered distribution weeks described in beat 180.",
+      "addedInformation": "Exposes the divergence between the screaming tape signals and the oblivious retail public."
+    }
+  },
+  {
+    "i": 182,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LOOKING AT PAPER PROFITS",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "coin",
+    "explainedBy": "The retail investor smiles foolishly while looking at a gold coin, blinded by paper gains and ignoring volume.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Investors failed to heed warning volume data because they were hypnotized by paper profits.",
+      "concreteVisual": "The investor gazes happily at a coin in his hand at his desk, blinded by unrealized gains.",
+      "onScreenText": "LOOKING AT PAPER PROFITS",
+      "relationToPrevious": "Explains why the broader public ignored the screaming tape signals depicted in beat 181.",
+      "addedInformation": "Visualizes greed-induced blindness: fixating on paper wealth while the foundation crumbles."
+    }
+  },
+  {
+    "i": 183,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EVERY FINANCIAL ADVISER",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "A mainstream institutional adviser angrily lectures the investor, defending orthodox buy-and-hold dogma.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Stepping out of the market into cash is the most controversial stance for traditional financial advisers.",
+      "concreteVisual": "The institutional fund manager talks with stern anger, confronting the hesitant retail investor.",
+      "onScreenText": "EVERY FINANCIAL ADVISER",
+      "relationToPrevious": "Pivots from the historical 2000 case study to the orthodox backlash against market timing.",
+      "addedInformation": "Stages the institutional establishment's hostile resistance to active risk management."
+    }
+  },
+  {
+    "i": 184,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TIME IN THE MARKET",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "institution"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The Wall Street adviser holds up an index fund pamphlet with a smug smirk, repeating the buy-and-hold mantra.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mainstream finance repeats the mantra that time in the market beats timing the market: just buy, hold, and wait.",
+      "concreteVisual": "The fund manager holds up promotional pamphlet notes with a self-satisfied smirk.",
+      "onScreenText": "TIME IN THE MARKET",
+      "relationToPrevious": "Quotes the primary marketing slogan used by the financial advisers introduced in beat 183.",
+      "addedInformation": "Shows the institutional sales script designed to discourage investors from managing downside risk."
+    }
+  },
+  {
+    "i": 185,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRYING TO TIME THE MARKET",
+      "style": "box"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The retail investor slumps in anxious self-doubt at his desk, worried he is degenerating into a reckless day trader.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retail investors internalize guilt, fearing that moving to cash turns them into foolish market timers.",
+      "concreteVisual": "The retail investor slumps in his workstation chair with a furrowed brow, wrestling with self-doubt.",
+      "onScreenText": "TRYING TO TIME THE MARKET",
+      "relationToPrevious": "Reflects the retail investor's psychological struggle under the weight of Wall Street's dogma.",
+      "addedInformation": "Exposes how conventional financial messaging creates false guilt around capital preservation."
+    }
+  },
+  {
+    "i": 186,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A WALL STREET MARKETING MYTH",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "wallet",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "The fund manager smirks while holding a fat wallet of management fees as his marketing myth is exposed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The buy-and-hold mantra is a Wall Street marketing myth engineered to collect management fees regardless of losses.",
+      "concreteVisual": "The fund manager smirks while holding a wallet as the retail investor glares in realization.",
+      "onScreenText": "A WALL STREET MARKETING MYTH (struck through)",
+      "relationToPrevious": "Directly shatters the buy-and-hold dogma that caused the investor's doubt in beat 185.",
+      "addedInformation": "Reveals the financial conflict of interest: keeping clients invested protects fund management fees."
+    }
+  },
+  {
+    "i": 187,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PORTFOLIO DROPS 50%",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The investor slumps in dejection at his desk as his buy-and-hold portfolio suffers an unforgiving 50% bear market plunge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A passive buy-and-hold portfolio suffers devastating 50% capital destruction during severe bear markets.",
+      "concreteVisual": "The investor sits slumped in his workstation chair, head bowed in distress before a collapsed portfolio.",
+      "onScreenText": "PORTFOLIO DROPS 50%",
+      "relationToPrevious": "Begins the mathematical demonstration of why passive holding fails catastrophically.",
+      "addedInformation": "Sets the baseline -50% loss condition to demonstrate the brutal math of portfolio recovery."
+    }
+  },
+  {
+    "i": 188,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "50% LOSS",
+        "100% GAIN"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A flowchart demonstrates the mathematical asymmetry of losses: a 50% loss requires a 100% gain to break even.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Recovering from a 50% drawdown mathematically requires a 100% gain just to return to even.",
+      "concreteVisual": "A two-node flowchart links a 50% LOSS to the mandatory 100% GAIN required to break even.",
+      "onScreenText": "none",
+      "relationToPrevious": "Reveals the non-linear mathematical trap created by the 50% drop shown in beat 187.",
+      "addedInformation": "Visually proves the asymmetry of drawdowns: losses cut the capital base, demanding double the recovery effort."
+    }
+  },
+  {
+    "i": 189,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DESTROYS COMPOUND INTEREST",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "shotOverride": "medium",
+    "cast": [
+      "investor"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The investor slumps at his desk as the loss of half his capital base destroys the long-term magic of compound interest.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Halving the capital base permanently destroys the compounding power that creates long-term wealth.",
+      "concreteVisual": "The investor sits slumped at his desk in quiet resignation, staring at his decimated balance sheet.",
+      "onScreenText": "DESTROYS COMPOUND INTEREST",
+      "relationToPrevious": "Explains why the 100% recovery requirement in beat 188 is so fatal to long-term investor returns.",
+      "addedInformation": "Demonstrates the catastrophic hidden cost of drawdowns: decades lost simply fighting to regain principal."
+    }
+  },
+  {
+    "i": 190,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STEP ASIDE INTO CASH",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "shotOverride": "wide",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "explainedBy": "The investor calmly steps aside from his trading desk into cash, preserving his capital while the tape distributes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When the tape signals distribution, the disciplined alternative is to step aside into cash and protect capital.",
+      "concreteVisual": "The investor steps calmly away from his trading desk on a wide workstation shot, embracing cash preservation.",
+      "onScreenText": "STEP ASIDE INTO CASH",
+      "relationToPrevious": "Provides the ultimate disciplined resolution to the devastating drawdown math of beats 187-189.",
+      "addedInformation": "Transforms moving into cash from an act of fear into an empowered act of capital protection."
+    }
+  }
+]

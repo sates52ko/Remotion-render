@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-07T07:40:31.610Z",
+  "n": 273,
+  "total": 273,
+  "sources": [
+    "readcheck",
+    "recheck-1",
+    "recheck-2"
+  ],
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "how-to-make-money-in-stocks-prep-39b3311205a3",
+    "folders": {
+      "readcheck": {
+        "run": "how-to-make-money-in-stocks-prep-39b3311205a3",
+        "evidenceSha256": "d1f2efcb321f71e32a9ecac9109071e5629adb640e1efba4676f04bdd5039737"
+      },
+      "recheck-1": {
+        "run": "how-to-make-money-in-stocks-prep-4faab5dc435c",
+        "evidenceSha256": "c7a6de9dd6725583a90826c7a928033500822e9c9e49331b12a315a69b49e721"
+      },
+      "recheck-2": {
+        "run": "how-to-make-money-in-stocks-prep-9c7f1ddb4bbe",
+        "evidenceSha256": "ee9883d693df82c6d51f17346ade8ecedf47acdee3b81c8ad7299db9aeb93b8d"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 264,
+    "NEUTRAL": 1,
+    "WRONG": 8
+  },
+  "wrongRate": 0.029,
+  "blame": {
+    "words": 4,
+    "face": 2,
+    "body": 1,
+    "diagram": 1,
+    "icon": 1
+  },
+  "iconBlame": {
+    "storm": 1
+  },
+  "beats": [
+    {
+      "i": 16,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The on-screen words only state 'deadly to your portfolio' without naming brand attachment or personal opinion, so the viewer inferred violating supply and demand rules.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "DEADLY TO YOUR PORTFOLIO"
+    },
+    {
+      "i": 51,
+      "verdict": "WRONG",
+      "blame": "face",
+      "why": "The portfolio manager's smirking face led the viewer to believe the manager was dismissing the retail trader's plan rather than the retail trader playing devil's advocate against the strategy.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "A TERRIBLE IDEA"
+    },
+    {
+      "i": 63,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The on-screen words 'DEAFENING NOISE' in an abstract setting led the viewer to infer metaphorical market noise rather than physical factory floor machinery.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "DEAFENING NOISE"
+    },
+    {
+      "i": 82,
+      "verdict": "WRONG",
+      "blame": "body",
+      "why": "The trader holding a wallet with a smirk led the viewer to believe the narrator was advocating locking in financial gains rather than warning against the ego's trap of seeking bargains.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "A PSYCHOLOGICAL VICTORY"
+    },
+    {
+      "i": 158,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The words 'TOO LATE BY THEN' lacked the context of magazine covers and public euphoria, leading the viewer to guess it referred to public filings of institutional selling.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "TOO LATE BY THEN"
+    },
+    {
+      "i": 159,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The words 'FINISHED THEIR ACCUMULATION' led the viewer to expect an upward markup rather than institutions preparing to sell to latecomers.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "FINISHED THEIR ACCUMULATION"
+    },
+    {
+      "i": 175,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The labelled buckets diagram framed the statistical 75% trend correlation as a trader's decision between following or bucking the trend.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 192,
+      "verdict": "WRONG",
+      "blame": "icon",
+      "why": "The storm cloud icon led the viewer to believe the narrator was warning of catastrophic losses rather than describing the conventional dogma to weather the storm.",
+      "from": "readcheck",
+      "concept": "storm",
+      "callout": "WEATHER THE STORM"
+    },
+    {
+      "i": 213,
+      "verdict": "WRONG",
+      "blame": "face",
+      "why": "The trader's smirk led the viewer to believe the narrator was criticizing amateur pattern labeling rather than chuckling at the odd names of chart patterns.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "CUP WITH HANDLE"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 31,
+    "wrong": [],
+    "neutral": [],
+    "cleared": 31,
+    "unread": []
+  }
+}

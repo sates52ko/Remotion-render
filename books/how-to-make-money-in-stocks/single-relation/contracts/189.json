@@ -1,0 +1,52 @@
+{
+  "schema": "single-relation/1",
+  "type": "B",
+  "understanding": "Holding through a severe market destroys compound interest.",
+  "evidence": "O'Neal's math proves that writing out a severe bare market destroys the magic of compound interest.",
+  "claim": {
+    "asserted": "Writing out a severe bare market destroys the magic of compound interest.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "mechanism": "depletion",
+  "before": "Compound interest stands high.",
+  "transformation": "A crash cuts the capital base.",
+  "after": "Compound interest is drained.",
+  "camera": {
+    "framing": "wide-locked",
+    "purpose": "capital depletion in one frame"
+  },
+  "entities": [
+    {
+      "id": "m",
+      "kind": "object",
+      "glyph": "crash",
+      "label": "market"
+    },
+    {
+      "id": "c",
+      "kind": "stock",
+      "label": "interest",
+      "value": 1.0
+    }
+  ],
+  "events": [
+    {
+      "at": 0.35,
+      "cause": "m",
+      "effects": [
+        {
+          "entity": "c",
+          "value": 0.2
+        }
+      ]
+    }
+  ],
+  "required": [
+    "market",
+    "interest"
+  ],
+  "omitted": [],
+  "_author": "antigravity-single-relation"
+}

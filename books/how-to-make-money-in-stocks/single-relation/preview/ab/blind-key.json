@@ -1,0 +1,59 @@
+{
+ "seed": "sr-ab|how-to-make-money-in-stocks|135,189",
+ "key": {
+  "517fab3c2a": {
+   "sceneIndex": 135,
+   "arm": "A"
+  },
+  "3d67ac1326": {
+   "sceneIndex": 135,
+   "arm": "B"
+  },
+  "c2f82235e9": {
+   "sceneIndex": 189,
+   "arm": "A"
+  },
+  "e833a0d09e": {
+   "sceneIndex": 189,
+   "arm": "B"
+  }
+ },
+ "describers": [
+  {
+   "d": "D1",
+   "imgs": [
+    "e833a0d09e",
+    "3d67ac1326"
+   ]
+  },
+  {
+   "d": "D2",
+   "imgs": [
+    "c2f82235e9",
+    "517fab3c2a"
+   ]
+  }
+ ],
+ "judges": {
+  "p1": [
+   [
+    "3d67ac1326",
+    "c2f82235e9"
+   ],
+   [
+    "517fab3c2a",
+    "e833a0d09e"
+   ]
+  ],
+  "p2": [
+   [
+    "e833a0d09e",
+    "3d67ac1326"
+   ],
+   [
+    "c2f82235e9",
+    "517fab3c2a"
+   ]
+  ]
+ }
+}

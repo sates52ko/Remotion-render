@@ -1,0 +1,58 @@
+{
+ "schema": "single-relation-contracts/1",
+ "slug": "how-to-make-money-in-stocks",
+ "at": "2026-11-07T06:02:14.956Z",
+ "valid": [
+  135,
+  189
+ ],
+ "invalid": [],
+ "contracts": {
+  "135": {
+   "sceneIndex": 135,
+   "sceneId": "scene-135",
+   "previousSceneId": "scene-134",
+   "author": "antigravity-single-relation",
+   "inputHash": "9ac3d2b6b46feb37",
+   "contractHash": "a68be23795f30476",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "TRY_CONCRETE",
+    "ends": [
+     "coinGlyph",
+     "p"
+    ],
+    "labelCarried": [
+     "coinGlyph",
+     "p"
+    ],
+    "labelDependence": 1,
+    "note": "every end of the relation is carried by its label alone (a tank / a metaphor glyph) and nothing moves, appears, leaves or changes face — try a version with a literal object or a person first (creative-direction.md)"
+   }
+  },
+  "189": {
+   "sceneIndex": 189,
+   "sceneId": "scene-189",
+   "previousSceneId": "scene-188",
+   "author": "antigravity-single-relation",
+   "inputHash": "a2ae570c31d45adc",
+   "contractHash": "fc5271af31d7b24c",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "TRY_CONCRETE",
+    "ends": [
+     "m",
+     "c"
+    ],
+    "labelCarried": [
+     "m",
+     "c"
+    ],
+    "labelDependence": 1,
+    "note": "every end of the relation is carried by its label alone (a tank / a metaphor glyph) and nothing moves, appears, leaves or changes face — try a version with a literal object or a person first (creative-direction.md)"
+   }
+  }
+ }
+}

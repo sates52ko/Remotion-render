@@ -1,0 +1,899 @@
+[
+  {
+    "i": 77,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CEILING OF SELLERS",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Trapped retail investors create an overhead ceiling of sell orders that crushes every rally back down.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Millions of trapped buyers waiting to break even at fifty dollars create an overhead ceiling of sellers.",
+      "concreteVisual": "A retail investor slumps defeated at his workstation beneath a box callout marking the ceiling of sellers.",
+      "onScreenText": "CEILING OF SELLERS",
+      "relationToPrevious": "Builds on the trapped buyer's break-even desperation from beat 76 by multiplying it across millions of retail traders.",
+      "addedInformation": "Shows the emotional fatigue of the trapped investor sitting helplessly as overhead supply caps the market."
+    }
+  },
+  {
+    "i": 78,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ZERO OVERHEAD SUPPLY",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "Breaking out to an all-time high clears out all trapped sellers, leaving zero overhead resistance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When a stock breaks out to all-time highs, every historical seller is eliminated, leaving zero overhead resistance.",
+      "concreteVisual": "The investor at his workstation perks up with surprise, pointing upward as the overhead supply vanishes.",
+      "onScreenText": "ZERO OVERHEAD SUPPLY",
+      "relationToPrevious": "Directly contrasts the ceiling of sellers in beat 77 with the completely open blue sky of all-time highs.",
+      "addedInformation": "Highlights the sudden reversal from heavy downward selling pressure to unimpeded upward trajectory."
+    }
+  },
+  {
+    "i": 79,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EVERY OWNER IN PROFIT",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "Every owner holding the stock at new highs enjoys a profit, eliminating panic selling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "At all-time highs, every shareholder is profitable and content, leaving the path of least resistance upward.",
+      "concreteVisual": "The retail investor celebrates happily at his workstation as all overhead selling pressure vanishes.",
+      "onScreenText": "EVERY OWNER IN PROFIT",
+      "relationToPrevious": "Resolves the breakout from beat 78 by showing the shareholder base universally in profit.",
+      "addedInformation": "Visualizes the psychological relief and absence of panic dumping when all holders are winning."
+    }
+  },
+  {
+    "i": 80,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FEELS LIKE FINANCIAL SUICIDE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "investor"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The retail trader experiences intense visceral fear that buying at the top guarantees immediate disaster.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retail traders instinctively reject buying at all-time highs because normal consumer habits equate high prices with danger.",
+      "concreteVisual": "A fearful retail investor slumps in dread at his desk facing the psychological terror of buying at the top.",
+      "onScreenText": "FEELS LIKE FINANCIAL SUICIDE",
+      "relationToPrevious": "Shifts from the theoretical appeal of new highs in beat 79 to the visceral retail objection.",
+      "addedInformation": "Accentuates the sheer counterintuitive terror that makes retail traders freeze at proper buy points."
+    }
+  },
+  {
+    "i": 81,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUY THE DIP",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "Retail investors cling to the ingrained rule of seeking bargains and buying discounted dips.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Conditioned by conventional retail habits, investors obsess over buying discounted dips to feel they obtained a bargain.",
+      "concreteVisual": "A retail investor holds his wallet protectively in his study room, clinging to the buy-the-dip dogma.",
+      "onScreenText": "BUY THE DIP",
+      "relationToPrevious": "Deepens the retail trader's objection from beat 80 by naming the ingrained dogma of seeking discounts.",
+      "addedInformation": "Gives physical form to bargain hunting through the guarded wallet."
+    }
+  },
+  {
+    "i": 82,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A PSYCHOLOGICAL VICTORY",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "explainedBy": "The trader's ego craves the hollow satisfaction of feeling smarter than the market by snagging a perceived bargain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The urge to buy cheap dips stems from ego seeking the psychological victory of outsmarting the crowd.",
+      "concreteVisual": "The investor wears a self-satisfied smirk as he rationalizes his bargain-hunting bias as superior intelligence.",
+      "onScreenText": "A PSYCHOLOGICAL VICTORY",
+      "relationToPrevious": "Unmasks the psychological root behind the buy-the-dip habit defended in beat 81.",
+      "addedInformation": "Highlights how personal ego and vanity masquerade as smart investing tactics."
+    },
+    "holds": "wallet"
+  },
+  {
+    "i": 83,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DEMAND OVERWHELMING SUPPLY",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "Institutional money aggressively bids stock prices to new highs as demand eclipses all available supply.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A stock breaking out to new highs reflects institutional buyers pouring in capital that overwhelms supply in an open auction.",
+      "concreteVisual": "An institutional fund manager points decisively at the market tape while a retail investor looks on surprised.",
+      "onScreenText": "DEMAND OVERWHELMING SUPPLY",
+      "relationToPrevious": "Counters the grocery-store analogy of beat 82 with the true reality of an institutional auction.",
+      "addedInformation": "Contrasts the power of professional institutional demand against retail hesitation."
+    }
+  },
+  {
+    "i": 84,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "BUYING A FALLING KNIFE",
+      "style": "strike"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Dipping stocks are cheap because large institutions are actively liquidating their positions, creating a falling knife.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Buying falling dips amounts to catching a falling knife discarded by the best-informed institutional funds.",
+      "concreteVisual": "A worried retail investor slumps beside a market crash icon under a struck callout rejecting falling knives.",
+      "onScreenText": "BUYING A FALLING KNIFE",
+      "relationToPrevious": "Exposes the grim flipside of beat 83: stocks on sale are actively dumped by smart capital.",
+      "addedInformation": "The strike style explicitly repudiates the retail illusion that cheap prices equal bargains."
+    }
+  },
+  {
+    "i": 85,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE EXPENSIVE GO HIGHER",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "Investors must overcome stomach-churning anxiety to buy leading stocks at high prices because they keep climbing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The paradoxical rule of the market is that stocks appearing expensive at all-time highs are the ones most likely to rise further.",
+      "concreteVisual": "A nervous retail investor sits at his workstation battling his gut instinct as expensive winners break out.",
+      "onScreenText": "THE EXPENSIVE GO HIGHER",
+      "relationToPrevious": "Articulates the disciplined rule needed to act on the institutional auction described in beat 84.",
+      "addedInformation": "Captures the visceral physical discomfort ('stomach doing flips') of buying at apparent peaks."
+    }
+  },
+  {
+    "i": 86,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CHEAPEST GO LOWER",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Cheap bargain stocks tend to keep spiraling lower, demanding strict validation rather than blind purchasing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cheap stocks consistently drop further, proving that buying new highs requires objective institutional validation.",
+      "concreteVisual": "The investor talks candidly at his desk, questioning whether all-time highs should ever be bought blindly.",
+      "onScreenText": "THE CHEAPEST GO LOWER",
+      "relationToPrevious": "Completes the contrast started in beat 85 before pivoting to the need for institutional proof.",
+      "addedInformation": "Shows the investor pausing to demand a reliable filter rather than reckless speculation."
+    }
+  },
+  {
+    "i": 87,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "PROOF OF BIG MONEY",
+      "style": "box"
+    },
+    "set": "abstract",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "The S in CAN SLIM acts as a market lie detector, measuring the balance of institutional supply and demand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Volume and supply-demand balance serve as the ultimate lie detector verifying that institutional money powers the breakout.",
+      "concreteVisual": "The investor points toward a balance scale icon against an abstract analytical backdrop representing market forces.",
+      "onScreenText": "PROOF OF BIG MONEY",
+      "relationToPrevious": "Transitions from the theoretical dilemma of beat 86 to the concrete CAN SLIM metric: Supply and Demand.",
+      "addedInformation": "Uses the balance scale to represent the fundamental equilibrium between buying demand and floating supply."
+    }
+  },
+  {
+    "i": 88,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRACKING THE VOLUME SPIKES",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "holds": "briefcase",
+    "explainedBy": "Tracking heavy institutional footprints begins by monitoring massive volume spikes on breakout days.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Unusual volume spikes provide the definitive trail left by large institutions moving into a stock.",
+      "concreteVisual": "An institutional portfolio manager carrying a briefcase walks across an institutional trading floor.",
+      "onScreenText": "TRACKING THE VOLUME SPIKES",
+      "relationToPrevious": "Pins down the exact mechanism of the S component introduced in beat 87: volume spikes.",
+      "addedInformation": "Personifies the 'heavy money' as an institutional manager entering the scene."
+    }
+  },
+  {
+    "i": 89,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TRADER IN MARCH 1986",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "In March 1986, a trader sits focused at his desk watching market data flicker across an early CRT terminal.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The historical case study opens in March 1986 with a trader monitoring price action on a vintage trading terminal.",
+      "concreteVisual": "A focused trader sits at his workstation desk gazing intently at his monitor screen.",
+      "onScreenText": "A TRADER IN MARCH 1986",
+      "relationToPrevious": "Transports the viewer back in time to the historical March 1986 Microsoft IPO case study.",
+      "addedInformation": "Establishes the quiet concentration of the trader before the sudden volume anomaly occurs."
+    }
+  },
+  {
+    "i": 90,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOTICES THE VOLUME COLUMN",
+      "style": "box"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The trader suddenly spots an extraordinary surge appearing in Microsoft's volume column right after its IPO.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Following Microsoft's initial offering, an unexpected surge in the trading volume column catches the trader's attention.",
+      "concreteVisual": "The trader examines his screen with surprise, holding a magnifier to inspect the sudden volume anomaly.",
+      "onScreenText": "NOTICES THE VOLUME COLUMN",
+      "relationToPrevious": "Builds directly on beat 89 as the routine screen inspection turns into an alert.",
+      "addedInformation": "The magnifier highlights the meticulous scrutiny required to detect early institutional footprints."
+    }
+  },
+  {
+    "i": 91,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "545% ABOVE ITS AVERAGE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "celebrate",
+    "explainedBy": "Microsoft trading volume registers an astounding 545 percent above average as the trading floor erupts in chaos.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Microsoft's breakout volume reaches an astonishing 545 percent above average, sparking trading floor pandemonium.",
+      "concreteVisual": "The trader on the bustling office trading floor reacts with wide-eyed shock as the 545 percent volume surge prints.",
+      "onScreenText": "545% ABOVE ITS AVERAGE",
+      "relationToPrevious": "Explodes the tension built in beat 90 with the concrete mathematical magnitude of the volume spike.",
+      "addedInformation": "Demonstrates the sheer disruptive scale of a true institutional breakout on a trading desk."
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FOOTPRINT OF INSTITUTIONAL MONEY",
+      "style": "box"
+    },
+    "set": "abstract",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Trading volume leaves an unmistakable physical footprint of institutional money that cannot be concealed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Trading volume represents objective mathematical data that reveals the undeniable accumulation of institutional funds.",
+      "concreteVisual": "An institutional manager stands against an abstract diagrammatic background pointing to the undeniable tape data.",
+      "onScreenText": "FOOTPRINT OF INSTITUTIONAL MONEY",
+      "relationToPrevious": "Pivots from the sensory chaos of beat 91 to the underlying mathematical signal.",
+      "addedInformation": "Emphasizes the institutional manager as the prime mover behind the volume print."
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE MASSIVE FUNDS OPERATE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Massive institutional funds operate under enormous size constraints that prevent them from executing trades like individual retail traders.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Large institutional funds manage capital on such a massive scale that their trading mechanics differ entirely from retail.",
+      "concreteVisual": "An institutional portfolio manager in a tailored suit stands beside a casual retail investor on the trading floor.",
+      "onScreenText": "THE MASSIVE FUNDS OPERATE",
+      "relationToPrevious": "Begins explaining the operational mechanics that produce the institutional footprint identified in beat 92.",
+      "addedInformation": "Visually contrasts the institutional giant against the individual trader to illustrate scale."
+    }
+  },
+  {
+    "i": 94,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "TWO MILLION",
+        "SPIKES 30%"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Placing a market order for two million shares would violently spike the price by thirty percent, ruining the fund's entry.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If a mutual fund bought two million shares immediately, the sudden surge would spike prices thirty percent and ruin execution.",
+      "concreteVisual": "A cause-and-effect flow diagram mapping a two-million share buy order leading directly to an immediate thirty percent price spike.",
+      "onScreenText": "TWO MILLION → SPIKES 30%",
+      "relationToPrevious": "Demonstrates why the fund manager in beat 93 cannot execute market orders like a retail trader.",
+      "addedInformation": "Translates the mathematical consequence of massive order size into an explicit causal link."
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TINY CHUNKS OVER WEEKS",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "Institutions deploy execution algorithms to slowly accumulate positions in tiny increments over weeks to hide their tracks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "To avoid moving the market, institutions use volume-weighted algorithms to accumulate shares in small pieces over extended periods.",
+      "concreteVisual": "An institutional manager sits patiently at a workstation quietly executing fractional order blocks.",
+      "onScreenText": "TINY CHUNKS OVER WEEKS",
+      "relationToPrevious": "Reveals the stealth accumulation technique institutions use to avoid the price spike illustrated in beat 94.",
+      "addedInformation": "Illustrates the calculated patience and algorithmic disguise required in institutional trading."
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE BUYING URGENCY INCREASES",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "institution"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "When a stock breaks out of consolidation, institutional caution vanishes and urgent buying takes over.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The quiet blending in on daily charts ends abruptly when a breakout forces institutions to buy with aggressive urgency.",
+      "concreteVisual": "The fund manager at his workstation suddenly points at an accelerating breakout as stealth turns into urgent buying.",
+      "onScreenText": "THE BUYING URGENCY INCREASES",
+      "relationToPrevious": "Shifts from the stealthy algorithmic accumulation of beat 95 to the urgent rush triggered by a breakout.",
+      "addedInformation": "Highlights the sharp change in institutional posture from patient accumulation to urgent demand."
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A MASSIVE VOLUME SPIKE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "Institutions rushing to fill orders before prices escape generate unmistakable volume spikes of forty to fifty percent or more.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Institutional fear of missing the breakout forces sudden block buying that spikes trading volume forty to fifty percent above normal.",
+      "concreteVisual": "An institutional manager explains the mechanics on the trading floor while the retail investor listens in surprise.",
+      "onScreenText": "A MASSIVE VOLUME SPIKE",
+      "relationToPrevious": "Directly links the buying urgency of beat 96 to the massive percentage volume spike on the tape.",
+      "addedInformation": "Shows the retail trader's revelation as he finally grasps why volume surges occur at breakouts."
+    }
+  },
+  {
+    "i": 98,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "NEW HIGH",
+        "50% HIGHER",
+        "ACCUMULATION"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A breakout to new highs on fifty percent volume surge provides definitive confirmation of institutional accumulation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The union of a new price high and a fifty percent volume spike constitutes physical proof of institutional accumulation.",
+      "concreteVisual": "A three-step flow diagram linking a new high and fifty percent volume surge directly to institutional accumulation.",
+      "onScreenText": "NEW HIGH → 50% HIGHER → ACCUMULATION",
+      "relationToPrevious": "Synthesizes beats 96-97 into the definitive CAN SLIM breakout equation.",
+      "addedInformation": "Presents the core algorithmic rule cleanly without distraction."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IMPORTANCE OF FLOATING SUPPLY",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "O'Neil highlights floating supply—the total number of shares actually available to trade—as the critical counterpart to demand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Beyond institutional demand, stock price explosiveness depends critically on floating supply, the actual shares available on the market.",
+      "concreteVisual": "The retail investor holds O'Neil's book at his workstation, reviewing the definition of floating supply.",
+      "onScreenText": "IMPORTANCE OF FLOATING SUPPLY",
+      "relationToPrevious": "Pivots from the demand side of the S formula to its indispensable supply counterpart.",
+      "addedInformation": "Grounds the concept in O'Neil's authoritative investment research text."
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REDUCING THE AVAILABLE SUPPLY",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "explainedBy": "A company executing a ten percent share buyback creates supply scarcity by removing millions of shares from circulation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Corporate share buybacks drastically shrink the pool of tradeable floating shares, creating supply scarcity.",
+      "concreteVisual": "The retail investor speaks at his desk with realization as corporate buybacks remove available shares from the market.",
+      "onScreenText": "REDUCING THE AVAILABLE SUPPLY",
+      "relationToPrevious": "Provides the corporate catalyst that tightens the floating supply introduced in beat 99.",
+      "addedInformation": "Explains the fundamental mechanics of corporate share reduction."
+    },
+    "holds": "book"
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SHRUNK SUPPLY",
+        "DEMAND SPIKES"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "A corporate buyback reducing share supply combined with surging institutional demand creates a financial pressure cooker.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The combination of corporate share retirement and surging institutional demand forms an explosive market pressure cooker.",
+      "concreteVisual": "A two-part causal flow diagram displaying shrunk floating supply interacting with spiking institutional demand.",
+      "onScreenText": "SHRUNK SUPPLY → DEMAND SPIKES",
+      "relationToPrevious": "Unites the supply reduction of beat 100 with incoming institutional demand into an active causal chain.",
+      "addedInformation": "Visually models the twin forces building internal pressure inside the stock's float."
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SHRUNK SUPPLY",
+        "DEMAND SPIKES",
+        "FORCED UPWARD"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "continue": true,
+    "cast": [],
+    "explainedBy": "When massive institutional demand meets severely constricted floating supply, price is mechanically forced upward.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Like basic physics, overwhelming demand chasing scarce floating shares forces the stock price sharply upward.",
+      "concreteVisual": "The flow diagram completes as the third node draws in, showing the inevitable upward surge in share price.",
+      "onScreenText": "SHRUNK SUPPLY → DEMAND SPIKES → FORCED UPWARD",
+      "relationToPrevious": "Completes the causal sequence started in beat 101 by showing the mechanical price eruption.",
+      "addedInformation": "Makes the 'basic physics' of supply and demand concrete on screen."
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COULD A SPIKE BE COORDINATED",
+      "style": "reveal"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The retail trader raises a skeptical objection, questioning whether a huge volume spike could simply be coordinated manipulation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A skeptical trader questions whether even a massive volume spike might simply represent coordinated artificial manipulation.",
+      "concreteVisual": "The retail investor leans forward at his workstation, raising a skeptical objection about false volume.",
+      "onScreenText": "COULD A SPIKE BE COORDINATED",
+      "relationToPrevious": "Breaks out of the mechanical physics of beat 102 to introduce the devil's advocate challenge.",
+      "addedInformation": "Frames the suspicion that retail traders harbor toward sudden, unexplained volume spikes."
+    }
+  },
+  {
+    "i": 104,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "PUMP AND DUMP SCHEME",
+      "style": "box"
+    },
+    "set": "workstation",
+    "continue": true,
+    "cast": [
+      "investor"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Internet hype groups orchestrate pump and dump schemes, artificially pumping prices to trap retail traders.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Internet hype groups and chat rooms frequently coordinate artificial volume spikes to trap retail buyers in pump and dumps.",
+      "concreteVisual": "A worried retail investor slumps at his workstation beside a puppeteer icon representing social manipulation.",
+      "onScreenText": "PUMP AND DUMP SCHEME",
+      "relationToPrevious": "Directly finishes the objection begun in beat 103, naming the predatory chat-room pump and dump.",
+      "addedInformation": "The puppeteer icon underscores how retail buyers are puppeted and trapped by coordinated hype."
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN INTEGRATED SEQUENTIAL FRAMEWORK",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "CAN SLIM prevents fake volume traps by functioning as an integrated sequential framework rather than an isolated metric.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "While isolated volume spikes can be manipulated, CAN SLIM functions as a multi-step sequential system that filters out fraud.",
+      "concreteVisual": "The institutional manager gestures firmly on the trading floor, explaining CAN SLIM's sequential structure to the investor.",
+      "onScreenText": "AN INTEGRATED SEQUENTIAL FRAMEWORK",
+      "relationToPrevious": "Responds directly to the pump-and-dump trap of beat 104 with CAN SLIM's systemic defense.",
+      "addedInformation": "Establishes the authority of the sequential framework against single-indicator vulnerabilities."
+    }
+  },
+  {
+    "i": 106,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A FRENZY FOR 48 HOURS",
+      "style": "highlight"
+    },
+    "set": "office",
+    "continue": true,
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Coordinated online chat rooms can generate a temporary forty-eight hour buying frenzy, but cannot manufacture genuine business performance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Speculative hype groups can manufacture short-lived two-day trading frenzies that briefly mimic institutional volume.",
+      "concreteVisual": "The institutional manager explains how temporary forty-eight hour social media volume spikes are engineered.",
+      "onScreenText": "A FRENZY FOR 48 HOURS",
+      "relationToPrevious": "Concedes the deceptive capability of pump-and-dump groups from beat 105 before exposing their boundary.",
+      "addedInformation": "Contrasts the fleeting duration of artificial frenzies against durable corporate growth."
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "3 YEARS OF 50% GROWTH",
+      "style": "box"
+    },
+    "set": "office",
+    "continue": true,
+    "cast": [
+      "institution"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Speculators cannot fabricate three years of fifty percent audited annual earnings growth and accelerating return on equity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Artificial hype collapses when tested against hard corporate fundamentals: three consecutive years of fifty percent earnings growth.",
+      "concreteVisual": "The fund manager displays audited corporate financial notes showing three years of fifty percent growth.",
+      "onScreenText": "3 YEARS OF 50% GROWTH",
+      "relationToPrevious": "Directly finishes beat 106 by naming the impenetrable fundamental proof that fraudsters cannot duplicate.",
+      "addedInformation": "Uses audited financial statements to anchor the CAN SLIM criteria in verified corporate math."
+    }
+  },
+  {
+    "i": 108,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "FUNDAMENTALS",
+        "VOLUME SPIKE",
+        "VALIDATION"
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Trading volume functions strictly as confirmation of verified underlying current and annual earnings growth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A volume breakout is valid only when confirmed by the sequential application of Current and Annual earnings criteria.",
+      "concreteVisual": "A three-part flow diagram illustrating how solid fundamentals and a volume spike combine to achieve valid breakout confirmation.",
+      "onScreenText": "FUNDAMENTALS → VOLUME SPIKE → VALIDATION",
+      "relationToPrevious": "Synthesizes the argument of beats 106-107 into CAN SLIM's sequential order of operations.",
+      "addedInformation": "Clarifies that volume is never an entry signal in isolation, but the final validator."
+    }
+  },
+  {
+    "i": 109,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CARE ABOUT PROFIT MARGINS",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Speculative chat room operators show complete indifference to pre-tax profit margins and three-year earnings consistency.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Internet promoters disregard essential balance sheet quality such as pre-tax profit margins and three-year earnings stability.",
+      "concreteVisual": "The retail investor stares with blank indifference at his computer screen, mirroring the reckless apathy of chat-room traders.",
+      "onScreenText": "CARE ABOUT PROFIT MARGINS",
+      "relationToPrevious": "Contrasts the deep corporate metrics of beat 108 with the superficial noise of chat-room stock promotion.",
+      "addedInformation": "Visualizes the total indifference of speculative crowds toward fundamental financial health."
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FRAMEWORK OF HARD DATA",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "institution"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Investors must anchor to hard mathematical data because opinions, internet chatter, and corporate executives can all lie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Disciplined investors insulate themselves with hard data because human opinions, chat room hype, and CEO promises lie.",
+      "concreteVisual": "An institutional manager stands composed on the trading floor, backed by an uncompromising framework of audited data.",
+      "onScreenText": "FRAMEWORK OF HARD DATA",
+      "relationToPrevious": "Directly counters the chat-room carelessness of beat 109 with institutional rigor and defense.",
+      "addedInformation": "Reinforces the institutional manager as the model of disciplined reliance on objective evidence."
+    }
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE TAPE VOLUME NEVER LIES",
+      "style": "highlight"
+    },
+    "set": "workstation",
+    "cast": [
+      "institution",
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Ticker tape volume confirmed by earnings acceleration provides an infallible record of genuine institutional accumulation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tape volume validated by surging earnings never lies, providing the only trustworthy trail for following smart money.",
+      "concreteVisual": "The institutional manager points out the tape volume directly to the investor at his trading desk.",
+      "onScreenText": "THE TAPE VOLUME NEVER LIES",
+      "relationToPrevious": "Affirms the ultimate conclusion of the S metric before issuing a warning about stock selection.",
+      "addedInformation": "Shows the veteran institutional professional mentoring the retail investor on reading tape prints."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT EVERY STOCK IN INDUSTRY",
+      "style": "box"
+    },
+    "set": "workstation",
+    "cast": [
+      "investor"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Even inside a booming industry group, capital concentrates in true leaders while laggards fail to win.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A booming sector does not lift all boats equally; investors must identify true market leaders rather than lagging sympathy plays.",
+      "concreteVisual": "The retail investor pauses thoughtfully at his workstation as the discussion transitions to Leaders versus Laggards.",
+      "onScreenText": "NOT EVERY STOCK IN INDUSTRY",
+      "relationToPrevious": "Concludes chunk 3 by pivoting from supply-and-demand volume to the next CAN SLIM element: Leaders versus Laggards.",
+      "addedInformation": "Sets up the psychological trap of the 'underdog fallacy' introduced in chunk 4."
+    }
+  }
+]

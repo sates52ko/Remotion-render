@@ -1,0 +1,24 @@
+[
+ {
+  "img": "e833a0d09e",
+  "cause": "NOT_SHOWN",
+  "effect": "NOT_SHOWN",
+  "message": "PARTIAL",
+  "wrongInference": "NO",
+  "polarityError": "NO",
+  "whatChanged": "NOT_SHOWN",
+  "finalConsequence": "NO",
+  "why": "The viewer identifies the general topic of a market crash affecting interest (PARTIAL message), but misses the specific cause (riding out a severe bear market and having capital base cut in half) and the specific effect (the magic of compound interest is destroyed), interpreting interest as interest rates or enthusiasm. No contradictory claim or notAsserted item is stated."
+ },
+ {
+  "img": "3d67ac1326",
+  "cause": "CORRECT",
+  "effect": "WRONG",
+  "message": "PARTIAL",
+  "wrongInference": "YES",
+  "polarityError": "YES",
+  "whatChanged": "WRONG",
+  "finalConsequence": "NO",
+  "why": "The viewer correctly identifies institutional activity/capital inflow as the cause, but claims that price increases substantially past initial levels (WRONG effect and whatChanged), which contradicts the narration stating the stock is holding its ground and refusing to let it fall. This also directly asserts the unasserted item that institutions are aggressively bidding up the stock (polarityError: YES, wrongInference: YES)."
+ }
+]

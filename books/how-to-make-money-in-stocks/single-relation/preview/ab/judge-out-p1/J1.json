@@ -1,0 +1,24 @@
+[
+  {
+    "img": "3d67ac1326",
+    "cause": "CORRECT",
+    "effect": "WRONG",
+    "message": "PARTIAL",
+    "wrongInference": "YES",
+    "polarityError": "NO",
+    "whatChanged": "WRONG",
+    "finalConsequence": "NO",
+    "why": "Viewer correctly identifies institutional activity as the cause, but incorrectly states the effect is a substantial price increase (driving price sharply higher) rather than the stock holding its ground and its RS rating rising to 87. This contradicts the narration, making wrongInference YES, effect WRONG, and whatChanged WRONG, while message is PARTIAL for capturing the subject."
+  },
+  {
+    "img": "c2f82235e9",
+    "cause": "NOT_SHOWN",
+    "effect": "CORRECT",
+    "message": "PARTIAL",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "CORRECT",
+    "finalConsequence": "YES",
+    "why": "Viewer states the cause is unclear (missing the severe bear market / capital cut in half), but correctly identifies the effect and final consequence that compound interest is destroyed. Message is PARTIAL for capturing the destruction of compounding without the specific cause."
+  }
+]
