@@ -1,0 +1,21 @@
+{
+  "schema": "single-relation/1",
+  "type": "B",
+  "understanding": "Forcing their thoughts exhausts people; the forcing is the cause and the exhaustion is the result.",
+  "evidence": "because people just exhaust themselves trying to force their reality to change by forcing their thoughts.",
+  "claim": { "asserted": "People exhaust themselves by forcing their thoughts to change their reality.", "polarity": "asserted", "speaker": "narrator", "notAsserted": [] },
+  "before": "The reader is angry, with the words FORCING THOUGHTS on screen.",
+  "transformation": "Their thoughts are the cause; the reader's face drains from angry to sad.",
+  "after": "The reader looks sad and worn out after forcing their thoughts.",
+  "camera": { "framing": "wide-locked", "purpose": "cause and effect in one frame" },
+  "entities": [
+    { "id": "t", "kind": "object", "glyph": "lightbulb", "label": "their thoughts" },
+    { "id": "p", "kind": "person", "cast": "reader", "mood": "angry" }
+  ],
+  "events": [
+    { "at": 0.5, "cause": "t", "effects": [ { "entity": "p", "mood": "sad" } ], "mechanism": "transformation", "anchors": { "effect": "exhaust themselves" } }
+  ],
+  "required": ["the lightbulb labelled their thoughts", "the reader's face changing from angry to sad"],
+  "omitted": ["the framework claim after the sentence"],
+  "_author": "single-relation author (Haiku 5.5)"
+}

@@ -1,0 +1,25 @@
+{
+ "shard": 0,
+ "of": 1,
+ "name": "single-relation A/B the-law-of-attraction",
+ "inputHash": "2534746be6b77ad9",
+ "jobs": [
+  "s8-A",
+  "s8-B"
+ ],
+ "failed": [],
+ "files": {
+  "raw/s8-A-f395.png": "c26bd07c7e94303006b504e79fd29d1342ce1fc4319e67fbc04cb667ef3c9d54",
+  "raw/s8-A-f467.png": "e5cb50e083d4fc0a93248b503fa1ee8b05e4da37c409a4cf6e68d009bd399893",
+  "raw/s8-A-f540.png": "8298f5e692b8bcb4d28414d9b8d8cb798f56e1e76962579a04384b98c243101a",
+  "strips/s8-A.png": "bfefa2ecad928eb6c4e8aeae352abed3e10307dd0549807cc0e6224870289952",
+  "raw/s8-B-f395.png": "94d30299fc71aba596d538c10f29082260c6269bedc5b841cc173f516880670f",
+  "raw/s8-B-f467.png": "b41b09dfdafc3eac4b00270042bb982e32bc92d77ba57680063ddb9cac8f1e1c",
+  "raw/s8-B-f540.png": "2f08a5189db6b56f26a4b6a72dd40fd88a9076bb8aed054b465bb4474f04f6de",
+  "strips/s8-B.png": "21ba05f37442b0d08dbdb6744762d3de401cf7999525e6abc80f2d08408eec66"
+ },
+ "bundleSec": 4.365,
+ "totalSec": 21.353,
+ "run": "43226335604",
+ "commit": "8f57663ca14771b0ff6f9c9cdc34cab1e92504bb"
+}

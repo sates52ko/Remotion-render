@@ -1,0 +1,31 @@
+{
+ "schema": "single-relation-preview/1",
+ "slug": "the-law-of-attraction",
+ "level": "isolated A/B preview configs — the book is unchanged",
+ "pairs": [
+  {
+   "sceneIndex": 8,
+   "sceneId": "scene-08",
+   "narration": "because people just exhaust themselves trying to force their reality to change by forcing their thoughts. And this book offers a totally different framework.",
+   "previousNarration": "which I know sounds out there for some right? But honestly, regardless of how you feel about the mechanics of channeling, it's the practical application in this",
+   "contract": "contracts/8.json",
+   "type": "B",
+   "frames": [
+    395,
+    467,
+    540
+   ],
+   "timing": [
+    {
+     "effect": "exhaust themselves",
+     "effectAt": 24,
+     "changeStart": 30,
+     "changeEnd": 50
+    }
+   ],
+   "derived": [],
+   "bContractHash": "46bcf65ee11a25c6"
+  }
+ ],
+ "timingDropped": []
+}

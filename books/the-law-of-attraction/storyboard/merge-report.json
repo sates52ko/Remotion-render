@@ -1,0 +1,100 @@
+{
+  "slug": "the-law-of-attraction",
+  "engine": "antidote",
+  "at": "2026-11-12T11:32:57.787Z",
+  "write": true,
+  "written": true,
+  "problems": 0,
+  "byClass": {
+    "OPERATOR": 0,
+    "AGENT_STEP": 0,
+    "REAUTHOR": 0,
+    "ROUTINE": 0
+  },
+  "byCode": [],
+  "byFile": {},
+  "operatorNeeded": false,
+  "next": "merged — next: node scripts/preview-state.js status (it names the next step: readcheck for Antidote, make-book for Vox); routine, never end the turn",
+  "items": [],
+  "warnings": 2,
+  "review": [
+    {
+      "i": 2,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"SLAP A HAPPY FACE ON\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 26,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"COME ON, JUST PLAY THE SONG\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 28,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"NOT EMPTY CLOUDS\" shows \"empty clouds\" before the narration says it (beat 29) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 33,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"THE DOOR WIDE OPEN\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 56,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"ANTIQUE BRASS COMPASS\" shows \"brass compass\" before the narration says it (beat 57) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 63,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"PLASTIC POSITIVITY\" shows \"plastic positivity\" before the narration says it (beat 64) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 73,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"COMPASS POINTING TRUE\" shows \"pointing true\" before the narration says it (beat 74) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 75,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ANGER, FEAR, GUILT\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 102,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"A CHAOTIC, LOUD RESTAURANT\" shows \"loud restaurant\" before the narration says it (beat 103) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 197,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"LATE AFTERNOON SUNLIGHT\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 243,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"Cold hardwood floor\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    }
+  ],
+  "refused": {}
+}

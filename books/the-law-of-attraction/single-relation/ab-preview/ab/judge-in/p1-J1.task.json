@@ -1,0 +1,45 @@
+{
+ "instructions": "You judge whether muted viewers understood short scenes of animated book-summary videos. This file holds several items, each from a DIFFERENT scene; each has the narration spoken over the scene, the frozen answer key (what a muted viewer should understand, its cause, its effect, key facts, plausible wrong inferences, whether the narration states any causality at all, what the narrator asserts, and what the narration mentions but does NOT assert — notAsserted), and what a viewer with the sound off wrote (description). Some viewers saw three moments of the scene, some saw more moments; judge only what the description says. Judge each item on its own.\r\n1. cause — CORRECT (the viewer's cause matches the key's cause in meaning), WRONG (contradicts it), NOT_SHOWN (unclear / missing / something else). effect — the same against the key's effect. If the key says supportsCausality: false, answer \"NA\" for both.\r\n2. message — MATCH (the viewer's message states the key's understanding), PARTIAL (its subject or half of it), MISS.\r\n3b. polarityError — YES if the viewer states as true (or as the narrator's point) something the key lists under notAsserted (a rejected premise, counterfactual, hypothesis, question, quoted speech, uncertain claim or the setup half of a contrast); otherwise NO.\r\n3. wrongInference — YES if the viewer states something the key lists as a wrong inference, or a cause / claim that contradicts the narration; otherwise NO.\r\n4. whatChanged — CORRECT if who or what the viewer says changed matches the key's effect (the thing that ends up different), WRONG if the viewer names a different change that contradicts the key, NOT_SHOWN if the viewer names no change or an unrelated one, NA if the key states no causality.\r\n5. finalConsequence — YES if the viewer states the key's final consequence (the end state / result the narration gives), NO if not, NA if the key states no causality.\r\nJudge meaning, not wording; be strict and literal; do not reward a description for being longer, prettier or busier.\r\nWrite ONLY a JSON array (one object per item, same order) to the output path you were given: [{\"img\":\"…\",\"cause\":\"…\",\"effect\":\"…\",\"message\":\"…\",\"wrongInference\":\"YES|NO\",\"polarityError\":\"YES|NO\",\"whatChanged\":\"…\",\"finalConsequence\":\"…\",\"why\":\"…\"}, …]",
+ "items": [
+  {
+   "img": "7e2065cabe",
+   "narration": "because people just exhaust themselves trying to force their reality to change by forcing their thoughts. And this book offers a totally different framework.",
+   "answerKey": {
+    "understanding": "People wear themselves out trying to change their reality by forcing their thoughts, and the book offers a completely different framework.",
+    "cause": "People forcing their thoughts in an attempt to force their reality to change",
+    "effect": "They exhaust themselves; the book then offers a different framework instead",
+    "keyFacts": [
+     "People exhaust themselves",
+     "They try to force reality by forcing their thoughts",
+     "The book offers a totally different framework"
+    ],
+    "wrongInferences": [
+     "Forcing thoughts successfully changes reality and gives people energy",
+     "The book teaches people to force their thoughts harder",
+     "Reality changing causes people to become exhausted"
+    ],
+    "supportsCausality": true,
+    "asserted": "People exhaust themselves by trying to force reality to change through forcing thoughts, and this book offers a totally different framework.",
+    "notAsserted": [
+     {
+      "text": "regardless of how you feel about the mechanics of channeling",
+      "why": "From the previous line only; context about skepticism, not asserted in this scene"
+     }
+    ]
+   },
+   "description": {
+    "img": "7e2065cabe",
+    "sees": [
+     "frame 1: A cartoon young man with a dark cap, furrowed brows and a frowning mouth, in a gray hoodie, arms at his sides, standing in a pale kitchen with a fridge and table; no text.",
+     "frame 2: Same man, still frowning with a slightly sideways glance; bold text 'FORCING THOUGHTS' appears at upper right, with 'THOUGHTS' highlighted in pink.",
+     "frame 3: Same man, eyes looking toward the text, mouth now slightly open as if speaking or grimacing; 'FORCING THOUGHTS' text still shown."
+    ],
+    "changed": "The text 'FORCING THOUGHTS' appeared and the man's expression shifted slightly from a closed frown to an open, strained mouth.",
+    "cause": "unclear; the text appears as a caption of what the narrator says, and the man's face seems to react to it",
+    "effect": "The scene labels the man's tense, annoyed state with the idea of forcing thoughts.",
+    "message": "Trying to force your thoughts is a strained, frustrating effort.",
+    "wouldConfuse": "Not clear what the man is actually doing or what the thoughts are; the expression change is subtle and the relation between him and the text is only implied."
+   }
+  }
+ ]
+}

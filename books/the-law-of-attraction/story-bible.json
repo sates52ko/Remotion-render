@@ -1,0 +1,220 @@
+{
+  "slug": "the-law-of-attraction",
+  "world": {
+    "era": "contemporary",
+    "eraEvidence": "two modern hosts discussing a self-help book; phone, banking app, email, traffic and kitchen life are present-day",
+    "worldId": "contemporary-self-help",
+    "approxYear": 2026,
+    "setting": "A modern podcast-style conversation about everyday emotion, money, work and relationships, staged in ordinary present-day rooms and streets.",
+    "register": "warm, practical, conversational, US English",
+    "forbid": [
+      "period costume",
+      "horses",
+      "typewriters",
+      "ancient temples",
+      "sci-fi machinery"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "the-law-of-attraction",
+    "worldId": "contemporary-self-help",
+    "allowedMotifs": [
+      "compass",
+      "phone",
+      "car",
+      "road",
+      "home",
+      "target",
+      "work",
+      "heart",
+      "gift",
+      "alarmClock",
+      "clock",
+      "water",
+      "lightbulb",
+      "photo",
+      "food",
+      "city",
+      "notes",
+      "balance",
+      "key",
+      "storm",
+      "fire"
+    ],
+    "forbiddenMotifs": [
+      "war",
+      "grave",
+      "crash"
+    ],
+    "allowedCharacters": [
+      "ellen",
+      "marcus",
+      "reader"
+    ],
+    "allowedLocations": [
+      "kitchen",
+      "cafe",
+      "highway",
+      "office"
+    ],
+    "allowedProps": [
+      "compass",
+      "phone",
+      "car",
+      "gift",
+      "target"
+    ]
+  },
+  "cast": {
+    "ellen": {
+      "name": "Host A",
+      "role": "curious host who asks the questions and pushes back on the hard points",
+      "look": "a woman in her early 30s, medium build, shoulder-length brown hair, wearing a simple cardigan over a t-shirt, modern casual clothes",
+      "variant": {
+        "gender": "f",
+        "age": "young",
+        "outfit": "casual",
+        "hairStyle": "long",
+        "hair": "#4a3426",
+        "height": 1.65,
+        "build": "average",
+        "headScale": 1,
+        "suit": "#3d4a5c",
+        "shirt": "#e8dcc8",
+        "skin": "#e0b89a"
+      },
+      "mentions": 19
+    },
+    "marcus": {
+      "name": "Host B",
+      "role": "calm host who explains the book's ideas with everyday examples",
+      "look": "a man in his mid 40s, slim build, short graying hair and a light button-up shirt with rolled sleeves, modern casual clothes",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "outfit": "casual",
+        "hairStyle": "short",
+        "hair": "#8a8a8a",
+        "height": 1.8,
+        "build": "slight",
+        "headScale": 1,
+        "suit": "#4a4f57",
+        "shirt": "#d9e2ec",
+        "skin": "#c99a78"
+      },
+      "mentions": 19
+    },
+    "reader": {
+      "name": "The Reader",
+      "role": "everyman listener who is stuck in worry about money, work or relationships",
+      "look": "a tired adult in their late 30s, average build, messy dark hair, wearing a grey hoodie, sitting at a kitchen table at night",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "outfit": "hoodie",
+        "hairStyle": "messy",
+        "hair": "#2a2320",
+        "height": 1.72,
+        "build": "average",
+        "headScale": 1,
+        "suit": "#5a5f66",
+        "shirt": "#7a7f86",
+        "skin": "#d8a883"
+      },
+      "mentions": 12
+    }
+  },
+  "places": {
+    "kitchen": {
+      "set": "kitchen",
+      "look": "a small modern kitchen at night, a leaking ceiling stain above the sink, a laptop open on the table",
+      "mentions": 6
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "a busy noisy cafe with clattering cups and crowded tables, warm lights",
+      "mentions": 4
+    },
+    "highway": {
+      "set": "highway",
+      "look": "a foggy highway at night with gridlocked cars and a steering wheel in view",
+      "mentions": 2
+    },
+    "office": {
+      "set": "office",
+      "look": "an open-plan modern office with desks, monitors and a clock on the wall",
+      "mentions": 3
+    }
+  },
+  "objects": [
+    {
+      "concept": "compass",
+      "mentions": 21,
+      "why": "the book's central metaphor: feelings as an internal compass pointing toward relief or away from it"
+    },
+    {
+      "concept": "phone",
+      "mentions": 20,
+      "why": "the everyday screen of worry, banking apps and notifications"
+    },
+    {
+      "concept": "car",
+      "mentions": 15,
+      "why": "the steering wheel and traffic: a feeling of being stuck or moving forward"
+    },
+    {
+      "concept": "road",
+      "mentions": 14,
+      "why": "the path toward the desire; choices as turns in the road"
+    },
+    {
+      "concept": "home",
+      "mentions": 13,
+      "why": "the place where the reader lives with the leak and the bills"
+    },
+    {
+      "concept": "target",
+      "mentions": 12,
+      "why": "focus on the desire, aiming the attention"
+    },
+    {
+      "concept": "heart",
+      "mentions": 8,
+      "why": "feeling good versus bad, the emotional signal"
+    },
+    {
+      "concept": "gift",
+      "mentions": 7,
+      "why": "the desire already received in thought, appreciation as a gift"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": "Positive-thinking routines fail because the feeling underneath is still heavy; the reader is not broken, the compass is just being ignored."
+    },
+    {
+      "act": "development",
+      "fromFrame": 15821,
+      "claim": "Feelings are guidance, not verdicts: the emotional scale shows which direction your focus is pointing right now."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 32551,
+      "claim": "Contrast is not punishment; the bad feeling is the signal to turn attention toward what you want."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 45614,
+      "claim": "Allowing and appreciation change the feeling in daily life, without forcing or denial."
+    },
+    {
+      "act": "close",
+      "fromFrame": 62038,
+      "claim": "Your current feeling is not a verdict on your life; it is the next reading of your own compass."
+    }
+  ],
+  "signatureObjects": [],
+  "authored": true
+}

@@ -1,0 +1,32 @@
+{
+ "schema": "single-relation-contracts/1",
+ "slug": "the-law-of-attraction",
+ "at": "2026-11-12T13:11:12.580Z",
+ "valid": [
+  8
+ ],
+ "invalid": [],
+ "contracts": {
+  "8": {
+   "sceneIndex": 8,
+   "sceneId": "scene-08",
+   "previousSceneId": "scene-07",
+   "author": "single-relation author (Haiku 5.5)",
+   "inputHash": "3f9f65b22adce011",
+   "contractHash": "46bcf65ee11a25c6",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "OK",
+    "ends": [
+     "t",
+     "p"
+    ],
+    "labelCarried": [
+     "t"
+    ],
+    "labelDependence": 0.5
+   }
+  }
+ }
+}

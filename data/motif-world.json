@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "meta": {
+    "owner": "code",
+    "policy": "System-verified motif provenance registry. Maps a motif to the worldId that owns it. This file is code-owned and can NEVER be authored into a story-bible.json: a bible must not be able to whitelist foreign motifs for itself. Seeded from rendered use-site evidence plus human review of cross-book conflicts; extending it is a code change, not a bible change.",
+    "lookupOrder": "origins[motif] wins over shared-generic-motifs.json; unknown motifs fall back to scene-local grounding (VOCABULARY_NOT_GROUNDED)."
+  },
+  "origins": {
+    "barChart": "colleen-hoover-verity",
+    "lineGrowth": "colleen-hoover-verity",
+    "shadowSelf": "camus-absurdism",
+    "cardinalVirtues": "plato-republic",
+    "caveAllegory": "plato-republic",
+    "civicPolis": "plato-republic",
+    "fiveRegimes": "plato-republic",
+    "historicalAthens": "plato-republic",
+    "kallipolis": "plato-republic",
+    "mythOfEr": "plato-republic",
+    "ringOfGyges": "plato-republic",
+    "shipOfState": "plato-republic",
+    "socraticInquiry": "plato-republic",
+    "thirtyTyrants": "plato-republic",
+    "thrasymachusDebate": "plato-republic",
+    "tripartiteSoul": "plato-republic"
+  }
+}

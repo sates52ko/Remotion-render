@@ -1,0 +1,1047 @@
+[
+ {
+  "i": 163,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "KNUCKLES BONE WHITE",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "hold",
+  "explainedBy": "a hand gripping a heavy rope so hard the knuckles go white",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "picture a hand gripping rope until the knuckles whiten",
+   "concreteVisual": "the reader clenches both fists at the chest, grimacing",
+   "onScreenText": "KNUCKLES BONE WHITE",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: a clenched grip, rope not drawable"
+  }
+ },
+ {
+  "i": 164,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ROPE BURN",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "continue": true,
+  "explainedBy": "the same grip hurts: red skin, popping veins, rope burn",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "the same grip hurts: red skin, popping veins, rope burn",
+   "concreteVisual": "same clenched reader, face strained",
+   "onScreenText": "ROPE BURN",
+   "relationToPrevious": "same stage, grimace deepens",
+   "addedInformation": "weak: the pain is shown by the face"
+  }
+ },
+ {
+  "i": 165,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "OPEN THE FINGERS",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "neutral",
+  "action": "reach",
+  "continue": true,
+  "explainedBy": "contrast: the hand opens and releases the tension",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "contrast: the hand opens and releases the tension",
+   "concreteVisual": "the reader opens the hand, shoulders relaxing",
+   "onScreenText": "OPEN THE FINGERS",
+   "relationToPrevious": "grip changes to open hand",
+   "addedInformation": "weak: open hand vs clench"
+  }
+ },
+ {
+  "i": 166,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "LIVING WITH WHITE KNUCKLES",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "the rope drops; most adults live gripping, believing tension holds life together",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "the rope drops; most adults live gripping, believing tension holds life together",
+   "concreteVisual": "the reader relaxed, hands open at the sides",
+   "onScreenText": "LIVING WITH WHITE KNUCKLES",
+   "relationToPrevious": "the rope is dropped; the grip is gone",
+   "addedInformation": "weak: relief face"
+  }
+ },
+ {
+  "i": 167,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "GRIDLOCK ON THE HIGHWAY",
+   "style": "highlight"
+  },
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "explainedBy": "a driver gripping the steering wheel in bumper-to-bumper traffic",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "you grip the wheel in gridlock",
+   "concreteVisual": "the reader on the highway set, gripping an invisible wheel, road icon beside",
+   "onScreenText": "GRIDLOCK ON THE HIGHWAY",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 168,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "A FLIGHT IN 2 HOURS",
+   "style": "highlight"
+  },
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "continue": true,
+  "explainedBy": "the deadline presses: flight in two hours, jaw locked, growling",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "the deadline presses: flight in two hours, jaw locked, growling",
+   "concreteVisual": "same driver, clock icon beside the furious face",
+   "onScreenText": "A FLIGHT IN 2 HOURS",
+   "relationToPrevious": "the clock enters as the deadline",
+   "addedInformation": "the deadline shown by the clock"
+  }
+ },
+ {
+  "i": 169,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "WILLPOWER VS THOUSANDS OF TONS",
+   "style": "highlight"
+  },
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "point",
+  "explainedBy": "a driver trying to bend traffic with sheer willpower",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "a driver trying to bend traffic with sheer willpower",
+   "concreteVisual": "the angry reader stabs a finger ahead at the traffic",
+   "onScreenText": "WILLPOWER VS THOUSANDS OF TONS",
+   "relationToPrevious": "same driver, now commanding the traffic",
+   "addedInformation": "weak: pointing at invisible traffic"
+  }
+ },
+ {
+  "i": 170,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ALLOWING BALANCES WANTING",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "worried",
+  "explainedBy": "what does tension achieve? allowing is the mandatory balance to wanting",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "the art of allowing is the balance to the act of wanting",
+   "concreteVisual": "Host B explains, Host A listens with a questioning look",
+   "onScreenText": "ALLOWING BALANCES WANTING",
+   "relationToPrevious": "back to the hosts after the traffic scene",
+   "addedInformation": "weak: hosts discussing"
+  }
+ },
+ {
+  "i": 171,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "STILL HOLDING THE ROPE",
+   "style": "highlight"
+  },
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "explainedBy": "tolerating while internally screaming is still gripping",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "tolerating while internally screaming is still gripping",
+   "concreteVisual": "the reader grips with a forced calm face, jaw tight",
+   "onScreenText": "STILL HOLDING THE ROPE",
+   "relationToPrevious": "returns to the gripping driver",
+   "addedInformation": "weak: gripping pose"
+  }
+ },
+ {
+  "i": 172,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "STRESS, PANIC, ANGER",
+    "MASSIVE RESISTANCE"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "negative emotion mechanically means a state of resistance",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "flooded with negative emotion means massive resistance",
+   "concreteVisual": "flow diagram: stress, panic, anger leading to massive resistance",
+   "onScreenText": "STRESS, PANIC, ANGER / MASSIVE RESISTANCE",
+   "relationToPrevious": "new point",
+   "addedInformation": "the cause to effect chain"
+  }
+ },
+ {
+  "i": 173,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ALLOWING: RELEASING RESISTANCE",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "allowing is not tolerating; it is releasing resistance entirely, opening the hand",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "allowing is not tolerating; it is releasing resistance entirely, opening the hand",
+   "concreteVisual": "Host B opens his palm wide as he explains",
+   "onScreenText": "ALLOWING: RELEASING RESISTANCE",
+   "relationToPrevious": "new point",
+   "addedInformation": "the open hand gesture ties back to the rope"
+  }
+ },
+ {
+  "i": 174,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "DROPPING THE ROPE",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "surprised",
+  "explainedBy": "the book uses an extreme example to show the power of dropping resistance",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "an extreme example of dropping resistance",
+   "concreteVisual": "Host B introduces, Host A leans in surprised",
+   "onScreenText": "DROPPING THE ROPE",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 175,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "HYSTERICAL STRENGTH",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "afraid",
+  "action": "idle",
+  "explainedBy": "a mother lifting a car off her trapped child, a documented phenomenon",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "a mother lifts an automobile off her trapped child",
+   "concreteVisual": "Host A as the frightened mother, alarmed face",
+   "onScreenText": "HYSTERICAL STRENGTH",
+   "relationToPrevious": "new point",
+   "addedInformation": "the car and child cannot be drawn; the mother and her fear are"
+  }
+ },
+ {
+  "i": 176,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "A TWO-TON CAR",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "on a normal Tuesday she does not believe she can deadlift a car",
+  "noVisual": "no car or lifted-weight icon in the vocabulary",
+  "storyboard": {
+   "claim": "on a normal Tuesday she does not believe she can deadlift a car",
+   "concreteVisual": "the mother calm and ordinary, knowing her limits",
+   "onScreenText": "A TWO-TON CAR",
+   "relationToPrevious": "the same mother on an ordinary day, face calm",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 177,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "PRIMAL DESIRE"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "her desire for her child to live overrides her lack of belief",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "desire is all-consuming and overrides lack of belief",
+   "concreteVisual": "flow diagram starts with PRIMAL DESIRE",
+   "onScreenText": "PRIMAL DESIRE",
+   "relationToPrevious": "new point",
+   "addedInformation": "the first link of the chain"
+  }
+ },
+ {
+  "i": 178,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "PRIMAL DESIRE",
+    "DROPS RESISTANCE"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "continue": true,
+  "explainedBy": "she drops all resistance to the idea of impossible",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "she drops all resistance to the idea of impossible",
+   "concreteVisual": "the diagram grows: desire leads to dropped resistance",
+   "onScreenText": "PRIMAL DESIRE / DROPS RESISTANCE",
+   "relationToPrevious": "one label added: DROPS RESISTANCE",
+   "addedInformation": "the causal step builds"
+  }
+ },
+ {
+  "i": 179,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "PRIMAL DESIRE",
+    "DROPS RESISTANCE",
+    "QUANTUM LEAP"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "continue": true,
+  "explainedBy": "allowing the desire to flow creates a quantum leap, not muscle",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "allowing the desire to flow creates a quantum leap, not muscle",
+   "concreteVisual": "the diagram completes at QUANTUM LEAP",
+   "onScreenText": "PRIMAL DESIRE / DROPS RESISTANCE / QUANTUM LEAP",
+   "relationToPrevious": "the result label is added",
+   "addedInformation": "the full chain desire, no resistance, quantum leap"
+  }
+ },
+ {
+  "i": 180,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ISN'T THAT JUST GIVING UP?",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A pushes back: if I let go, am I giving up?",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "a total absence of resistance; but letting go sounds like giving up",
+   "concreteVisual": "Host A questions, worried; Host B listens",
+   "onScreenText": "ISN'T THAT JUST GIVING UP?",
+   "relationToPrevious": "back to the hosts",
+   "addedInformation": "weak: the push-back is a conversation"
+  }
+ },
+ {
+  "i": 181,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "I'M GOING TO MISS MY FLIGHT",
+   "style": "highlight"
+  },
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "letting go of urgency in traffic feels like accepting failure",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "letting go of urgency in traffic feels like accepting failure",
+   "concreteVisual": "the reader in traffic, clock beside, bowed and worried",
+   "onScreenText": "I'M GOING TO MISS MY FLIGHT",
+   "relationToPrevious": "back to the driver with the clock",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 182,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "YOU GET RUN OVER BY LIFE",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "afraid",
+  "action": "slump",
+  "explainedBy": "we are taught that without pushing and hustling life runs us over",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "we are taught that without pushing and hustling life runs us over",
+   "concreteVisual": "the reader looks frightened, braced",
+   "onScreenText": "YOU GET RUN OVER BY LIFE",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: fear face"
+  }
+ },
+ {
+  "i": 183,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "The fear keeps knuckles white",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "hold",
+  "explainedBy": "the fear that everything falls apart keeps the grip tight",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "the fear that everything falls apart keeps the grip tight",
+   "concreteVisual": "the reader grips again, anxious",
+   "onScreenText": "The fear keeps knuckles white",
+   "relationToPrevious": "the white-knuckle grip returns",
+   "addedInformation": "ties the fear back to the rope image"
+  }
+ },
+ {
+  "i": 184,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "NOT GIVING UP THE DESIRE",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "worried",
+  "explainedBy": "letting go of the rope is not giving up the desire to catch the flight",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "letting go does not mean giving up the desire",
+   "concreteVisual": "Host B reassures, Host A unsure",
+   "onScreenText": "NOT GIVING UP THE DESIRE",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 185,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "THE DESIRE REMAINS INTACT",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "what am I dropping? the desire to make the plane remains intact",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "what am I dropping? the desire to make the plane remains intact",
+   "concreteVisual": "Host A asks, Host B nods",
+   "onScreenText": "THE DESIRE REMAINS INTACT",
+   "relationToPrevious": "Host A asks the follow-up",
+   "addedInformation": "weak: a question"
+  }
+ },
+ {
+  "i": 186,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "PANIC AND ANGER",
+    "MORE FRUSTRATION"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "pushing against the traffic attracts more frustration",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "what you drop is resistance; pushing attracts frustration",
+   "concreteVisual": "flow: panic and anger lead to more frustration",
+   "onScreenText": "PANIC AND ANGER / MORE FRUSTRATION",
+   "relationToPrevious": "new point",
+   "addedInformation": "cause and effect of pushing"
+  }
+ },
+ {
+  "i": 187,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "I JUST AM MORE ANGRY",
+   "style": "highlight"
+  },
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "explainedBy": "pushing back makes the driver angrier",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "pushing back makes the driver angrier",
+   "concreteVisual": "the reader grips the wheel, angrier",
+   "onScreenText": "I JUST AM MORE ANGRY",
+   "relationToPrevious": "the effect lands on the driver",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 188,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "A SIGH OF RELIEF",
+    "NO FRICTION",
+    "PATH OF LEAST RESISTANCE"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "a relieving thought stops the friction and lets the path open",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "a thought like a sigh of relief stops the friction",
+   "concreteVisual": "flow: relief, no friction, easiest path",
+   "onScreenText": "A SIGH OF RELIEF / NO FRICTION / PATH OF LEAST RESISTANCE",
+   "relationToPrevious": "new point",
+   "addedInformation": "the alternative chain"
+  }
+ },
+ {
+  "i": 189,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "TENSION IS MY COMPASS",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "hold",
+  "explainedBy": "jaw tension is a compass saying I am miscreating; opening the hand returns to alignment",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "tension is a compass; opening the hand returns to alignment",
+   "concreteVisual": "the reader looks at a compass beside, clenching, then easing",
+   "onScreenText": "TENSION IS MY COMPASS",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 190,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "FROM PANIC TO ALLOWANCE",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "shifting internal vibration from lack and panic to allowance; how do we practice it?",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "shift from lack and panic back to allowance",
+   "concreteVisual": "Host A asks how, Host B ready to answer",
+   "onScreenText": "FROM PANIC TO ALLOWANCE",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 191,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ONE TINY STROKE OF GOOD LUCK",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "one small good thing shifts the dominant point of attraction in an instant",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "a small luck turns the day by shifting your point of attraction",
+   "concreteVisual": "Host B explains with a smile",
+   "onScreenText": "ONE TINY STROKE OF GOOD LUCK",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 192,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ONE YELLOW LEMON",
+   "style": "reveal"
+  },
+  "set": "kitchen",
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "a single bright lemon on a messy kitchen counter",
+  "noVisual": "no lemon icon in the vocabulary; only the kitchen set and the words carry it",
+  "storyboard": {
+   "claim": "a single bright lemon on a messy kitchen counter",
+   "concreteVisual": "an empty messy kitchen set with the callout",
+   "onScreenText": "ONE YELLOW LEMON",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: the lemon cannot be drawn"
+  }
+ },
+ {
+  "i": 193,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "One good thing noticed lifts her",
+   "style": "highlight"
+  },
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "one genuinely good thing noticed in chaos brings lightness",
+  "noVisual": "no lemon icon",
+  "storyboard": {
+   "claim": "one genuinely good thing noticed in chaos brings lightness",
+   "concreteVisual": "the reader in the kitchen, face lifting",
+   "onScreenText": "One good thing noticed lifts her",
+   "relationToPrevious": "the reader enters the kitchen scene",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 194,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "THE MAGNETIC POWER OF NOTICING",
+   "style": "highlight"
+  },
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "point",
+  "continue": true,
+  "explainedBy": "we underestimate noticing one pleasing thing; here is the scene",
+  "noVisual": "no lemon icon",
+  "storyboard": {
+   "claim": "we underestimate noticing one pleasing thing; here is the scene",
+   "concreteVisual": "the reader looks and points at the counter",
+   "onScreenText": "THE MAGNETIC POWER OF NOTICING",
+   "relationToPrevious": "same kitchen; attention goes to the counter",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 195,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "DISHES PILED HIGH",
+   "style": "highlight"
+  },
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "explainedBy": "standing in a disaster-zone kitchen after a long day",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "standing in a disaster-zone kitchen after a long day",
+   "concreteVisual": "the reader slumped in the kitchen",
+   "onScreenText": "DISHES PILED HIGH",
+   "relationToPrevious": "the day turns heavy",
+   "addedInformation": "weak: kitchen set and slump"
+  }
+ },
+ {
+  "i": 196,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Mail piles up, floor sticky",
+   "style": "highlight"
+  },
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "continue": true,
+  "explainedBy": "overwhelmed, defeated by the mess",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "overwhelmed, defeated by the mess",
+   "concreteVisual": "the same reader, shoulders dropped, face sad",
+   "onScreenText": "Mail piles up, floor sticky",
+   "relationToPrevious": "same stage, more mess named",
+   "addedInformation": "weak: sad face"
+  }
+ },
+ {
+  "i": 197,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "LATE AFTERNOON SUNLIGHT",
+   "style": "highlight"
+  },
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "surprised",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "a beam of sunlight hits the lemon: the mood lifts",
+  "noVisual": "no lemon icon",
+  "storyboard": {
+   "claim": "a beam of sunlight hits the lemon: the mood lifts",
+   "concreteVisual": "the reader looks up, surprised, kitchen",
+   "onScreenText": "LATE AFTERNOON SUNLIGHT",
+   "relationToPrevious": "the face changes from sad to surprised",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 198,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "3 SECONDS OF APPRECIATION",
+   "style": "highlight"
+  },
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "for three seconds he stops looking at dishes and bills and appreciates the color",
+  "noVisual": "no lemon icon",
+  "storyboard": {
+   "claim": "for three seconds he stops looking at dishes and bills and appreciates the color",
+   "concreteVisual": "the reader smiling at the counter",
+   "onScreenText": "3 SECONDS OF APPRECIATION",
+   "relationToPrevious": "surprise becomes a smile",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 199,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "A SELECTIVE SIFTER",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "doing that makes you what Abraham calls a selective sifter",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "noticing the lemon makes you a selective sifter",
+   "concreteVisual": "Host B names the idea",
+   "onScreenText": "A SELECTIVE SIFTER",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 200,
+  "concept": null,
+  "diagram": {
+   "type": "sorter",
+   "labels": [
+    "DIRTY DISHES",
+    "BRIGHT LEMONS"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "reality holds contradictory data: dishes and lemons",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "endless contradictory data; you choose which to engage with",
+   "concreteVisual": "sorter with two buckets",
+   "onScreenText": "DIRTY DISHES / BRIGHT LEMONS",
+   "relationToPrevious": "new point",
+   "addedInformation": "two kinds of data side by side"
+  }
+ },
+ {
+  "i": 201,
+  "concept": null,
+  "diagram": {
+   "type": "spectrum",
+   "labels": [
+    "OVERWHELM",
+    "BEAUTY"
+   ],
+   "values": [
+    0.2
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "in 3 seconds of appreciation you change your point of attraction",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "you choose which reality; the point of attraction changes",
+   "concreteVisual": "spectrum, marker near overwhelm",
+   "onScreenText": "OVERWHELM / BEAUTY",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: face and callout carry the line"
+  }
+ },
+ {
+  "i": 202,
+  "concept": null,
+  "diagram": {
+   "type": "spectrum",
+   "labels": [
+    "OVERWHELM",
+    "BEAUTY"
+   ],
+   "values": [
+    0.9
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "continue": true,
+  "explainedBy": "you tune the dial from overwhelm toward beauty",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "you tune the dial from overwhelm toward beauty",
+   "concreteVisual": "the marker slides to beauty",
+   "onScreenText": "OVERWHELM / BEAUTY",
+   "relationToPrevious": "the marker moves",
+   "addedInformation": "the shift"
+  }
+ },
+ {
+  "i": 203,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "STARING AT PROBLEM",
+    "FEELS BAD"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "observing problems makes you feel bad",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "looking at the problem feels bad",
+   "concreteVisual": "flow: problem leads to feeling bad",
+   "onScreenText": "STARING AT PROBLEM / FEELS BAD",
+   "relationToPrevious": "new point",
+   "addedInformation": "cause and effect"
+  }
+ },
+ {
+  "i": 204,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "LOOKING AT LEMON",
+    "FEELS GOOD"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "looking for solutions or pleasing things feels good, against lowering your vibration",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "the pleasing thing feels good",
+   "concreteVisual": "flow: lemon leads to feeling good",
+   "onScreenText": "LOOKING AT LEMON / FEELS GOOD",
+   "relationToPrevious": "the contrasting chain",
+   "addedInformation": "the opposite chain"
+  }
+ },
+ {
+  "i": 205,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "FEELS GOOD",
+    "BETTER CIRCUMSTANCES"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "the universe matches your feeling, so good attracts better circumstances",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "looking at the good attracts better circumstances",
+   "concreteVisual": "flow: feeling good leads to better circumstances",
+   "onScreenText": "FEELS GOOD / BETTER CIRCUMSTANCES",
+   "relationToPrevious": "new point",
+   "addedInformation": "the claim of the mechanism"
+  }
+ },
+ {
+  "i": 206,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "HEAD IN THE SAND?",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A pushes back hard: this sounds like putting your head in the sand",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "to many it sounds like putting your head in the sand",
+   "concreteVisual": "Host A confronts, Host B calmly invites it",
+   "onScreenText": "HEAD IN THE SAND?",
+   "relationToPrevious": "new point",
+   "addedInformation": "weak: push-back is conversation"
+  }
+ }
+]

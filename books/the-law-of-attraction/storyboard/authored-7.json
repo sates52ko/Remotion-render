@@ -1,0 +1,933 @@
+[
+ {
+  "i": 244,
+  "concept": "phone",
+  "diagram": null,
+  "callout": {
+   "text": "Grab your phone",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "take",
+  "holds": "phone",
+  "actionCue": "grab",
+  "explainedBy": "Someone reaches for the phone first thing and takes it in hand.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The default morning is phone, emails, doom news.",
+   "concreteVisual": "The reader at the kitchen table takes the phone in hand.",
+   "onScreenText": "GRAB YOUR PHONE",
+   "relationToPrevious": "first beat of the morning scene",
+   "addedInformation": "weak: shows the habit, not the panic"
+  }
+ },
+ {
+  "i": 245,
+  "concept": "phone",
+  "diagram": null,
+  "callout": {
+   "text": "Pause",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "neutral",
+  "action": "hold",
+  "holds": "phone",
+  "explainedBy": "Before vs after: the same person now holds off the phone and pauses.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "This time you pause before touching the phone and set an intent.",
+   "concreteVisual": "The reader holds the phone at the chest, calm face.",
+   "onScreenText": "PAUSE",
+   "relationToPrevious": "same person as before, the hand stops",
+   "addedInformation": "weak: the intent itself is only spoken"
+  }
+ },
+ {
+  "i": 246,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Segment intending",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "The host names the practice: segment intending.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The book calls the process segment intending.",
+   "concreteVisual": "Host B explains, smiling.",
+   "onScreenText": "SEGMENT INTENDING",
+   "relationToPrevious": "names what the previous beat did",
+   "addedInformation": "weak: naming only; commentary beat"
+  }
+ },
+ {
+  "i": 247,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Waking up",
+    "Driving to work",
+    "Walking into a meeting"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "The day is divided into segments in order, an intent declared before each.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "You divide your day into segments and declare your intent before each.",
+   "concreteVisual": "A flow of three day segments.",
+   "onScreenText": "WAKING UP / DRIVING TO WORK / WALKING INTO A MEETING",
+   "relationToPrevious": "splits the day into parts",
+   "addedInformation": "adds the segment structure"
+  }
+ },
+ {
+  "i": 248,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Before it begins",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "happy",
+  "explainedBy": "State what you want before the segment starts, ahead of the world forcing a thought.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "You choose the thought before the chaotic world can.",
+   "concreteVisual": "Host B explains, Host A nods, smiling.",
+   "onScreenText": "BEFORE IT BEGINS",
+   "relationToPrevious": "the reason for doing it first",
+   "addedInformation": "weak: commentary on timing"
+  }
+ },
+ {
+  "i": 249,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Esther Hicks meditation",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "The hosts turn to Esther Hicks own meditation practice.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Hicks detailed a meditation practice as intent setting.",
+   "concreteVisual": "Host B introduces the practice.",
+   "onScreenText": "ESTHER HICKS MEDITATION",
+   "relationToPrevious": "topic shift to her routine",
+   "addedInformation": "weak: topic setup"
+  }
+ },
+ {
+  "i": 250,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "Just 15 minutes",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "A small fixed amount of time, not hours of focus.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "She sat just 15 minutes a day, not hours.",
+   "concreteVisual": "Host B beside a clock icon.",
+   "onScreenText": "JUST 15 MINUTES",
+   "relationToPrevious": "gives the amount of time",
+   "addedInformation": "adds the 15-minute length"
+  }
+ },
+ {
+  "i": 251,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Wing back chair",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "sit",
+  "explainedBy": "Someone sits comfortably in a chair and focuses on breathing.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "She sat in a wing back chair and focused only on breathing.",
+   "concreteVisual": "Host A seated, calm face.",
+   "onScreenText": "WING BACK CHAIR",
+   "relationToPrevious": "the setting of the practice",
+   "addedInformation": "shows the seated pose"
+  }
+ },
+ {
+  "i": 252,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Being breathed by the universe",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "sit",
+  "continue": true,
+  "explainedBy": "Same seated person, quiet mind, no mantras.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "She just intended to quiet her mind for one 15-minute segment.",
+   "concreteVisual": "Host A stays seated, eyes calm.",
+   "onScreenText": "BEING BREATHED BY THE UNIVERSE",
+   "relationToPrevious": "keeps the seat, adds the feeling",
+   "addedInformation": "weak: a feeling"
+  }
+ },
+ {
+  "i": 253,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "50 transitions a day",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "The worry: about 50 transitions a day is too many to intend each.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "I transition like 50 times a day.",
+   "concreteVisual": "The reader slumped, worried, beside a clock.",
+   "onScreenText": "50 TRANSITIONS A DAY",
+   "relationToPrevious": "pushback against the practice",
+   "addedInformation": "adds the objection and number"
+  }
+ },
+ {
+  "i": 254,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "The car",
+    "The elevator",
+    "The Zoom call"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "A day is a rapid chain of shifts from place to place.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "I go from the car to the elevator to the Zoom call and on.",
+   "concreteVisual": "Flow of three shifts.",
+   "onScreenText": "THE CAR / THE ELEVATOR / THE ZOOM CALL",
+   "relationToPrevious": "lists the shifts of the previous beat",
+   "addedInformation": "adds the concrete list"
+  }
+ },
+ {
+  "i": 255,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Exhausting. Robotic.",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "A reaction: constant intending sounds exhausting and robotic.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Intending at every shift sounds exhausting and like micromanaging my brain.",
+   "concreteVisual": "Host A bowed, worried.",
+   "onScreenText": "EXHAUSTING. ROBOTIC.",
+   "relationToPrevious": "her feeling about the previous list",
+   "addedInformation": "weak: a feeling"
+  }
+ },
+ {
+  "i": 256,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Not constantly",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "One host answers the other: not every microsecond.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Abraham says you do not do it constantly.",
+   "concreteVisual": "Host B answers, Host A listens.",
+   "onScreenText": "NOT CONSTANTLY",
+   "relationToPrevious": "answers the objection",
+   "addedInformation": "weak: reassurance"
+  }
+ },
+ {
+  "i": 257,
+  "concept": "key",
+  "diagram": null,
+  "callout": {
+   "text": "Turn the key",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "hold",
+  "holds": "key",
+  "explainedBy": "The intent is set in two seconds at the ignition.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Turning the key, you take two seconds to set the intent for a safe drive.",
+   "concreteVisual": "Host B holds a key.",
+   "onScreenText": "TURN THE KEY",
+   "relationToPrevious": "first example of a natural segment",
+   "addedInformation": "adds the car example"
+  }
+ },
+ {
+  "i": 258,
+  "concept": "home",
+  "diagram": null,
+  "callout": {
+   "text": "A peaceful evening",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Arriving home, one second sets the intent for the evening.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "At the door you take a second to set a peaceful, loving evening.",
+   "concreteVisual": "Host A smiling beside a home icon.",
+   "onScreenText": "A PEACEFUL EVENING",
+   "relationToPrevious": "second example of a natural segment",
+   "addedInformation": "adds the home example"
+  }
+ },
+ {
+  "i": 259,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Not a robot",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "It is the opposite of a robot: you stop living by default.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It stops you from creating your life by default.",
+   "concreteVisual": "Host B explains.",
+   "onScreenText": "NOT A ROBOT",
+   "relationToPrevious": "reverses the robot fear",
+   "addedInformation": "weak: assertion"
+  }
+ },
+ {
+  "i": 260,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Traffic stress",
+    "Dinner with kids"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "Without intent, stress from the traffic segment carries into dinner.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It stops you carrying traffic stress into the dinner segment.",
+   "concreteVisual": "Flow: traffic stress to dinner.",
+   "onScreenText": "TRAFFIC STRESS / DINNER WITH KIDS",
+   "relationToPrevious": "cause and effect of what it prevents",
+   "addedInformation": "adds the carry-over"
+  }
+ },
+ {
+  "i": 261,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "You decide first",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "You decide what you feel before the world does.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "You reclaim your creative power over your attention.",
+   "concreteVisual": "Host B states it plainly.",
+   "onScreenText": "YOU DECIDE FIRST",
+   "relationToPrevious": "the payoff of the idea",
+   "addedInformation": "weak: summary"
+  }
+ },
+ {
+  "i": 262,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "Radio, compass, rope",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "Hosts recap the tools built so far.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "We have gone through the radio, the compass, the rope and the toy store window.",
+   "concreteVisual": "Host A recaps with a compass icon.",
+   "onScreenText": "RADIO, COMPASS, ROPE",
+   "relationToPrevious": "recap before the objection",
+   "addedInformation": "weak: recap"
+  }
+ },
+ {
+  "i": 263,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "The you attracted it trap",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "A turn to the hardest objection of the book.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "We must address the you attracted it trap.",
+   "concreteVisual": "Host A raises the topic.",
+   "onScreenText": "THE YOU ATTRACTED IT TRAP",
+   "relationToPrevious": "changes topic to the criticism",
+   "addedInformation": "adds the central objection"
+  }
+ },
+ {
+  "i": 264,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "She hurls the book across the room",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "throw",
+  "holds": "book",
+  "explainedBy": "Angry readers throw the book across the room.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Intelligent people throw the book across the room.",
+   "concreteVisual": "The reader throws a book, angry.",
+   "onScreenText": "She hurls the book across the room",
+   "relationToPrevious": "what criticism looks like",
+   "addedInformation": "shows the reaction"
+  }
+ },
+ {
+  "i": 265,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Terminal cancer. Poverty.",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "explainedBy": "The pushback lists severe suffering.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Terminal cancer, child poverty, assault.",
+   "concreteVisual": "Host A presses the objection.",
+   "onScreenText": "TERMINAL CANCER. POVERTY.",
+   "relationToPrevious": "builds the objection list",
+   "addedInformation": "weak: spoken examples"
+  }
+ },
+ {
+  "i": 266,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Cruel victim blaming",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "sad",
+  "action": "talk",
+  "continue": true,
+  "explainedBy": "Saying thoughts caused it feels like blaming.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It feels like cruel victim blaming.",
+   "concreteVisual": "Host A pained.",
+   "onScreenText": "CRUEL VICTIM BLAMING",
+   "relationToPrevious": "the feeling of the objection",
+   "addedInformation": "weak: a feeling"
+  }
+ },
+ {
+  "i": 267,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "They asked for it?",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "sad",
+  "action": "talk",
+  "partnerExpression": "sad",
+  "explainedBy": "Both hosts react to the idea that innocents asked for trauma.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It feels like telling suffering people they asked for it.",
+   "concreteVisual": "Both hosts look pained.",
+   "onScreenText": "THEY ASKED FOR IT?",
+   "relationToPrevious": "shared reaction",
+   "addedInformation": "weak: a feeling"
+  }
+ },
+ {
+  "i": 268,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Only the book logic",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "Host B sets the rule: analyze with the book own logic.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "We must use only the logic provided in the book.",
+   "concreteVisual": "Host B explains.",
+   "onScreenText": "ONLY THE BOOK LOGIC",
+   "relationToPrevious": "sets the frame",
+   "addedInformation": "weak: framing"
+  }
+ },
+ {
+  "i": 269,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Co-creators",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "surprised",
+  "explainedBy": "The book says assaulted and assaulter are co-creators.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The text states they are co-creators.",
+   "concreteVisual": "Host B states, Host A surprised.",
+   "onScreenText": "CO-CREATORS",
+   "relationToPrevious": "adds the claim and a reaction",
+   "addedInformation": "adds the book claim"
+  }
+ },
+ {
+  "i": 270,
+  "concept": null,
+  "diagram": {
+   "type": "sorter",
+   "labels": [
+    "Wanting",
+    "Believing or expecting"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "Wanting something is separated from believing or expecting it.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Abraham separates wanting from believing.",
+   "concreteVisual": "Sorter: wanting vs believing.",
+   "onScreenText": "WANTING / BELIEVING OR EXPECTING",
+   "relationToPrevious": "a comparison of two things",
+   "addedInformation": "adds the split"
+  }
+ },
+ {
+  "i": 271,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Deep fear",
+    "Constant focus"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "Fear and constant focus keep the belief in illness strong.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "No one wants cancer, but fear and focus make belief keen.",
+   "concreteVisual": "Flow: deep fear to constant focus.",
+   "onScreenText": "DEEP FEAR / CONSTANT FOCUS",
+   "relationToPrevious": "builds belief from fear and focus",
+   "addedInformation": "adds the mechanism"
+  }
+ },
+ {
+  "i": 272,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Deep fear",
+    "Constant focus",
+    "Dominant vibration"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "The law responds to the dominant vibration, even a fear one.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The law responds only to the dominant vibration.",
+   "concreteVisual": "The same flow gains a third label.",
+   "onScreenText": "DOMINANT VIBRATION",
+   "relationToPrevious": "result of the chain",
+   "addedInformation": "adds the result"
+  }
+ },
+ {
+  "i": 273,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Powerlessness",
+    "Vibrational match",
+    "Matching events"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "Powerlessness becomes a mechanical match to events.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "A constant vibration of powerlessness matches events that reflect it.",
+   "concreteVisual": "Flow from powerlessness to matching events.",
+   "onScreenText": "POWERLESSNESS / VIBRATIONAL MATCH / MATCHING EVENTS",
+   "relationToPrevious": "a second chain of cause",
+   "addedInformation": "adds the mechanism"
+  }
+ },
+ {
+  "i": 274,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "The victim is blamed",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "A host restates the implication for the victim.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "So they are saying the victim...",
+   "concreteVisual": "Host A bowed, uneasy.",
+   "onScreenText": "The victim is blamed",
+   "relationToPrevious": "sets up the next line",
+   "addedInformation": "weak: transition"
+  }
+ },
+ {
+  "i": 275,
+  "concept": null,
+  "diagram": {
+   "type": "matchWave",
+   "labels": [
+    "Fear matched aggression"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "expression": "neutral",
+  "action": "idle",
+  "explainedBy": "The victim fear and the mugger aggression sync as frequencies.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Their frequencies matched.",
+   "concreteVisual": "Two rhythms syncing.",
+   "onScreenText": "FEAR MATCHED AGGRESSION",
+   "relationToPrevious": "two rhythms syncing",
+   "addedInformation": "adds the matching picture"
+  }
+ },
+ {
+  "i": 276,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "You vibrated wrong",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "angry",
+  "action": "point",
+  "partnerExpression": "worried",
+  "explainedBy": "One host accuses the framing of blame; the other takes it in.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Even so it sounds like blame: you vibrated wrong, you got attacked.",
+   "concreteVisual": "Host A points, Host B looks worried.",
+   "onScreenText": "YOU VIBRATED WRONG",
+   "relationToPrevious": "relationship: accuser and receiver",
+   "addedInformation": "adds the blame reading"
+  }
+ },
+ {
+  "i": 277,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Remove morality and fault",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "The framework survives only without morality or fault.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It survives only if you remove morality, judgment and fault.",
+   "concreteVisual": "Host B explains.",
+   "onScreenText": "REMOVE MORALITY AND FAULT",
+   "relationToPrevious": "answers the objection",
+   "addedInformation": "adds the condition"
+  }
+ },
+ {
+  "i": 278,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Dropping judgment about outcomes is hard",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "Host A: attaching morality to outcomes is natural.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "We constantly attach morality to outcomes.",
+   "concreteVisual": "Host A pushes back.",
+   "onScreenText": "Dropping judgment about outcomes is hard",
+   "relationToPrevious": "pushback on the condition",
+   "addedInformation": "weak: pushback"
+  }
+ },
+ {
+  "i": 279,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Purely physics",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "Contrast: tragedy judged morally vs the law presented as physics.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Abraham presents the law as purely physics.",
+   "concreteVisual": "Host B explains.",
+   "onScreenText": "PURELY PHYSICS",
+   "relationToPrevious": "reframes the law",
+   "addedInformation": "adds the physics frame"
+  }
+ },
+ {
+  "i": 280,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Gravity pulls both",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "afraid",
+  "action": "falling",
+  "partnerExpression": "afraid",
+  "partnerAction": "falling",
+  "shotOverride": "wide",
+  "explainedBy": "A good and an evil person both step off a roof and fall equally.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Gravity pulls a good and an evil person down at the same speed.",
+   "concreteVisual": "Two people fall side by side.",
+   "onScreenText": "GRAVITY PULLS BOTH",
+   "relationToPrevious": "a comparison of two people, same outcome",
+   "addedInformation": "shows the equal fall"
+  }
+ },
+ {
+  "i": 281,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Not a punishment",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "Gravity does not care about deserving; it is not a punishment.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It does not care if you deserve to fall.",
+   "concreteVisual": "Host B explains.",
+   "onScreenText": "NOT A PUNISHMENT",
+   "relationToPrevious": "conclusion of the gravity analogy",
+   "addedInformation": "weak: conclusion"
+  }
+ },
+ {
+  "i": 282,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Cosmic judge",
+   "style": "strike"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "smirk",
+  "action": "talk",
+  "explainedBy": "The law is not a cosmic judge sentencing bad thoughts.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The law is not a cosmic judge.",
+   "concreteVisual": "Host A states it.",
+   "onScreenText": "COSMIC JUDGE (struck)",
+   "relationToPrevious": "rejects the judge reading",
+   "addedInformation": "weak: negation"
+  }
+ }
+]

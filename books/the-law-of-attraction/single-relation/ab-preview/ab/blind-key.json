@@ -1,0 +1,52 @@
+{
+ "seed": "sr-ab|the-law-of-attraction|8",
+ "key": {
+  "7e2065cabe": {
+   "sceneIndex": 8,
+   "arm": "A"
+  },
+  "046344144a": {
+   "sceneIndex": 8,
+   "arm": "B"
+  }
+ },
+ "describers": [
+  {
+   "d": "D1",
+   "imgs": [
+    "7e2065cabe"
+   ]
+  },
+  {
+   "d": "D2",
+   "imgs": [
+    "046344144a"
+   ]
+  }
+ ],
+ "judges": {
+  "p1": [
+   [
+    "7e2065cabe"
+   ],
+   [
+    "046344144a"
+   ]
+  ],
+  "p2": [
+   [
+    "046344144a"
+   ],
+   [
+    "7e2065cabe"
+   ]
+  ]
+ },
+ "av": {
+  "S8": {
+   "sceneIndex": 8,
+   "X": "B",
+   "Y": "A"
+  }
+ }
+}

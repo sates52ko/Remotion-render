@@ -1,0 +1,166 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-13T06:41:39.455Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "a69adf9c",
+      "tools": "af97474b",
+      "pin": "a69adf9c92c1",
+      "configHash": "16e0588f4d52a88b",
+      "renderInputHash": "1a11c4a758d42d78",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 504
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "final",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 1,
+          "dead": 0,
+          "adds": 17,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "REFUSED",
+        "ok": false,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 32,
+        "goneFindings": 0
+      },
+      "authorization": null,
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-13T06:43:32.966Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "a69adf9c",
+      "tools": "af97474b",
+      "pin": "a69adf9c92c1",
+      "configHash": "16e0588f4d52a88b",
+      "renderInputHash": "1a11c4a758d42d78",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 504
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "final",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 1,
+          "dead": 0,
+          "adds": 17,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Kabul ediyorum",
+        "covered": 32,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-13T06:43:30.178Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-13T12:09:23.508Z",
+      "kind": "technical",
+      "technical": "VERIFIED",
+      "file": "out\\the-law-of-attraction.mp4",
+      "frames": 78831,
+      "expectedFrames": 78831,
+      "decodes": true,
+      "problems": [],
+      "media": {
+        "narrationFile": "public\\audio\\the-law-of-attraction.mastered.m4a",
+        "joinRepair": {
+          "status": "REPAIRED",
+          "joins": 199,
+          "encoderDelaySamples": 2048,
+          "removedSec": 11.212,
+          "audioDiffSamples": 0
+        },
+        "sync": {
+          "verdict": "PASS",
+          "startOffsetSec": 0,
+          "endOffsetSec": -0.0001,
+          "endToleranceSec": 0.076,
+          "audioDiscontinuities": 0,
+          "clock": "ON",
+          "clockToleranceSec": 0.0667,
+          "problems": []
+        },
+        "video": {
+          "packets": 78831,
+          "endSec": 2627.7,
+          "holds": 0,
+          "chunkHolds": 0,
+          "segmentHolds": 0,
+          "offGridHolds": 0,
+          "stretchSec": 0,
+          "stretchPct": 0
+        },
+        "audio": {
+          "packets": 123175,
+          "endSec": 2627.6999,
+          "excessOverNarrationSec": -0.2
+        },
+        "joinDropouts": {
+          "status": "NONE",
+          "count": 0,
+          "totalSec": 0,
+          "maxSec": 0,
+          "filmZeroRuns": 1,
+          "sourceZeroRuns": 2,
+          "first": []
+        },
+        "loudness": {
+          "integratedLufs": -14.3,
+          "lraLu": 4.7,
+          "samplePeakDbfs": -0.5,
+          "status": "REPORT_ONLY"
+        }
+      },
+      "checkedBy": "af97474bd733fed1984d1a39cb9a7e1356a1942f",
+      "tools": "af97474b",
+      "pin": "a69adf9c92c1"
+    }
+  ]
+}

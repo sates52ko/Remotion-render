@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-12T11:35:56.727Z",
+  "at": "2026-11-12T12:45:22.944Z",
+  "config": "config.antidote.json",
+  "configSha256": "16e0588f4d52a88b60ad3719f4a537886480f90a5a89ef2578bcf41bc39ebe17",
+  "inputs": {
+    "storyboard": {
+      "path": "books/the-law-of-attraction/art.json",
+      "sha256": "a0657ec81f4c54fc20ceca52f4a7068db7291bbecfbea2ee977839b20fa0d59e"
+    },
+    "storyBible": {
+      "path": "books/the-law-of-attraction/story-bible.json",
+      "sha256": "9d360aa3037998c051187166c8582173972b1199cbfb298d9c2b9d236052fafc"
+    },
+    "motifs": {
+      "path": "books/the-law-of-attraction/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/the-law-of-attraction.vtt",
+      "sha256": "6b5e40587ed2a282a80b9857b6031905648b5886ff696fd530b38d548448450e"
+    },
+    "audio": {
+      "path": "public/audio/the-law-of-attraction.mp3",
+      "sha256": "deed2d1bed9f0e0f21ee63f168f1bbb6500b693929d33cf74320c05d8fad2237"
+    },
+    "singleRelation": {
+      "path": "books/the-law-of-attraction/single-relation/active.json",
+      "sha256": null
+    }
+  },
+  "head": "e2b8605228eb90bebe2e241e525a3085fa1db603",
+  "previewOnly": true,
+  "skipPack": true
+}

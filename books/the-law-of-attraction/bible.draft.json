@@ -1,0 +1,430 @@
+{
+  "slug": "the-law-of-attraction",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=the-law-of-attraction --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "the-law-of-attraction",
+    "world": {
+      "era": "contemporary",
+      "eraEvidence": "period words: app, email",
+      "worldId": "",
+      "approxYear": 1995,
+      "setting": "",
+      "register": "",
+      "forbid": []
+    },
+    "visualProvenance": {
+      "bookId": "the-law-of-attraction",
+      "worldId": "",
+      "allowedMotifs": [],
+      "forbiddenMotifs": [],
+      "allowedCharacters": [],
+      "allowedLocations": [],
+      "allowedProps": []
+    },
+    "cast": {
+      "abraham": {
+        "name": "Abraham",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 3
+      },
+      "one": {
+        "name": "One",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      },
+      "contrast": {
+        "name": "Contrast",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      },
+      "allowing": {
+        "name": "Allowing",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      }
+    },
+    "places": {
+      "manuscript": {
+        "set": "manuscript",
+        "look": "",
+        "mentions": 12
+      },
+      "kitchen": {
+        "set": "kitchen",
+        "look": "",
+        "mentions": 6
+      },
+      "cafe": {
+        "set": "cafe",
+        "look": "",
+        "mentions": 4
+      },
+      "highway": {
+        "set": "highway",
+        "look": "",
+        "mentions": 2
+      }
+    },
+    "objects": [
+      {
+        "concept": "compass",
+        "mentions": 21,
+        "why": ""
+      },
+      {
+        "concept": "phone",
+        "mentions": 20,
+        "why": ""
+      },
+      {
+        "concept": "car",
+        "mentions": 15,
+        "why": ""
+      },
+      {
+        "concept": "road",
+        "mentions": 14,
+        "why": ""
+      },
+      {
+        "concept": "home",
+        "mentions": 13,
+        "why": ""
+      },
+      {
+        "concept": "target",
+        "mentions": 12,
+        "why": ""
+      },
+      {
+        "concept": "work",
+        "mentions": 10,
+        "why": ""
+      },
+      {
+        "concept": "heart",
+        "mentions": 8,
+        "why": ""
+      },
+      {
+        "concept": "gift",
+        "mentions": 7,
+        "why": ""
+      },
+      {
+        "concept": "war",
+        "mentions": 7,
+        "why": ""
+      },
+      {
+        "concept": "alarmClock",
+        "mentions": 7,
+        "why": ""
+      },
+      {
+        "concept": "funnelMetrics",
+        "mentions": 7,
+        "why": ""
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 2,
+        "claim": ""
+      },
+      {
+        "act": "development",
+        "fromFrame": 15821,
+        "claim": ""
+      },
+      {
+        "act": "turn",
+        "fromFrame": 32551,
+        "claim": ""
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 45614,
+        "claim": ""
+      },
+      {
+        "act": "close",
+        "fromFrame": 62038,
+        "claim": ""
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 539,
+    "cast": [
+      {
+        "name": "Abraham",
+        "asSubject": 3,
+        "total": 19,
+        "samples": [
+          "Okay. How Abraham says you absolutely are not supposed to stay focused on the gray drawing.",
+          "So, if we look at the mechanics of that moment, Abraham says that pure desire without the heavy baggage of doubt or guilt is the literal engine of deliberate cr",
+          "Oh wow. Abraham says that wanting is not a state of lack."
+        ]
+      },
+      {
+        "name": "One",
+        "asSubject": 2,
+        "total": 2,
+        "samples": [
+          "One feels good and one feels bad.",
+          "One is a rough, chaotic sketch done in dull gray pencil."
+        ]
+      },
+      {
+        "name": "Contrast",
+        "asSubject": 2,
+        "total": 2,
+        "samples": [
+          "Contrast is not the universe punishing you for vibrating badly, It is the universe providing a massive diverse buffet of options so you can figure out your own ",
+          "Contrast is meant to be a brief momentary touch point."
+        ]
+      },
+      {
+        "name": "Allowing",
+        "asSubject": 2,
+        "total": 2,
+        "samples": [
+          "Allowing is not the same as tolerating.",
+          "Oh, that's a good Allowing is releasing the resistance entirely."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "manuscript",
+        "mentions": 12,
+        "samples": [
+          "Which brings us to the core argument of this entire text.",
+          "The text says you must look at the problem only long enough to define the solution you want, which is a dry safe house."
+        ]
+      },
+      {
+        "set": "kitchen",
+        "mentions": 6,
+        "samples": [
+          "Okay, if I wake up and there is literally water pouring through a leak in my kitchen ceiling or I don't know, I log into my banking app and my account",
+          "You can't just ignore a flooded kitchen and pretend everything is fine."
+        ]
+      },
+      {
+        "set": "cafe",
+        "mentions": 4,
+        "samples": [
+          "So, picture yourself sitting in a severely chaotic, deafeningly loud restaurant.",
+          "The book refers to that terrible restaurant experience as contrast."
+        ]
+      },
+      {
+        "set": "highway",
+        "mentions": 2,
+        "samples": [
+          "You are gripping the steering wheel in absolute bumperto-bumper gridlock traffic on the highway.",
+          "Think of a traveler driving a car on a pitch black, incredibly foggy highway at Okay, spooky, right?"
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "compass",
+        "mentions": 21,
+        "sample": "Second, how you can use your own raw feelings as a literal internal compass."
+      },
+      {
+        "concept": "phone",
+        "mentions": 20,
+        "sample": "Which brings us to the core argument of this entire text."
+      },
+      {
+        "concept": "car",
+        "mentions": 15,
+        "sample": "So, I was trying to visualize this concept of drawing things in and I just kept thinking about an old school analog car radio."
+      },
+      {
+        "concept": "road",
+        "mentions": 14,
+        "sample": "Wow. Okay. But if our compass is always trying to guide us toward feeling good, toward true relief, why do we keep running into people or si"
+      },
+      {
+        "concept": "home",
+        "mentions": 13,
+        "sample": "Okay, if I wake up and there is literally water pouring through a leak in my kitchen ceiling or I don't know, I log into my banking app and "
+      },
+      {
+        "concept": "target",
+        "mentions": 12,
+        "sample": "Which brings us to the mission of this deep dive."
+      },
+      {
+        "concept": "work",
+        "mentions": 10,
+        "sample": "Yeah. So, if your internal emotional dial is tuned to the frequency of uh I am terrified of being late and getting fired, the universe canno"
+      },
+      {
+        "concept": "heart",
+        "mentions": 8,
+        "sample": "I mean, you're someone who wants more money or better health or just a relationship that actually works for once and you've bought into this"
+      },
+      {
+        "concept": "gift",
+        "mentions": 7,
+        "sample": "Give me something good to listen to.\" Your knuckles are totally white."
+      },
+      {
+        "concept": "war",
+        "mentions": 7,
+        "sample": "I mean, you are in a full-blown battle with the machinery of your own car."
+      },
+      {
+        "concept": "alarmClock",
+        "mentions": 7,
+        "sample": "Okay, if I wake up and there is literally water pouring through a leak in my kitchen ceiling or I don't know, I log into my banking app and "
+      },
+      {
+        "concept": "funnelMetrics",
+        "mentions": 7,
+        "sample": "Cuz Buddhism teaches that attachment and craving lead to misery."
+      }
+    ],
+    "openingLines": [
+      "So, if I'm anxious about the bills, I'm actually sending out a request for more Yeah, you're literally putting in an order for the exact thing you're trying to avoid.",
+      "Okay, we need to unpack that immediately because look, if you're listening to this deep dive right now, chances are you've tried the whole, you know, think positive routine.",
+      "Oh, totally, We all have, right?",
+      "And you probably felt like you were just spinning your wheels.",
+      "I mean, you're someone who wants more money or better health or just a relationship that actually works for once and you've bought into this huge cultural mandate to just slap a happy face on everything.",
+      "Exactly. But the exhaustion of that is so real."
+    ],
+    "closingLines": [
+      "Which brings us to the ultimate realization of this entire deep dive.",
+      "The whole hour we've spent breaking down radios and brass compasses and tight ropes and toy store windows all distills down to this exact reframing.",
+      "The feeling you have right now is not a verdict on your life.",
+      "It is the next reading of your own compass."
+    ]
+  }
+}

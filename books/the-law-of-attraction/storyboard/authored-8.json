@@ -1,0 +1,238 @@
+[
+ {
+  "i": 283,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "ATTENTION OVER TIME",
+    "NEUTRAL RESPONSE"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Attention paid over time leads to a neutral mechanical response.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The law is a neutral mechanical response to attention",
+   "concreteVisual": "flow diagram: attention over time -> neutral response",
+   "onScreenText": "ATTENTION OVER TIME, NEUTRAL RESPONSE",
+   "relationToPrevious": "opens the neutral-mechanism idea",
+   "addedInformation": "cause-effect chain with no judge"
+  }
+ },
+ {
+  "i": 284,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Attention flows over time",
+    "The response stays neutral",
+    "Deliberate or unconscious attention"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "continue": true,
+  "explainedBy": "The same chain holds whether the attention was deliberate or unconscious.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Response is the same deliberate or unconscious",
+   "concreteVisual": "same flow gains a third label",
+   "onScreenText": "Attention flows over time / The response stays neutral / Deliberate or unconscious attention",
+   "relationToPrevious": "adds one label to the flow",
+   "addedInformation": "states the chain ignores intent"
+  }
+ },
+ {
+  "i": 285,
+  "concept": "fire",
+  "diagram": null,
+  "callout": {
+   "text": "A BURNED HAND",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "surprised",
+  "action": "reach",
+  "explainedBy": "A hand touching a hot flame gets burned: a physical response, not a punishment.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "A burned hand is not a moral punishment",
+   "concreteVisual": "woman reaches toward a fire, surprised",
+   "onScreenText": "A BURNED HAND",
+   "relationToPrevious": "new example for the mechanism",
+   "addedInformation": "hot-stove analogy shown as the deed"
+  }
+ },
+ {
+  "i": 286,
+  "concept": "fire",
+  "diagram": null,
+  "callout": {
+   "text": "JUST A RESPONSE TO HEAT",
+   "style": "box"
+  },
+  "cast": [
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "continue": true,
+  "explainedBy": "The burn is only a response to heat; nothing moral in it.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The burn is just a physical response to heat",
+   "concreteVisual": "same woman and fire, face now worried and bowed",
+   "onScreenText": "JUST A RESPONSE TO HEAT",
+   "relationToPrevious": "keeps the stove stage, changes face and posture",
+   "addedInformation": "states the burn has no moral meaning"
+  }
+ },
+ {
+  "i": 287,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ULTIMATE EMPOWERMENT",
+   "style": "reveal"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "worried",
+  "partnerAction": "idle",
+  "explainedBy": "One host claims removing blame makes it empowering; the other doubts it.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Without blame it becomes an empowerment mechanism",
+   "concreteVisual": "calm man explains while the woman looks doubtful",
+   "onScreenText": "ULTIMATE EMPOWERMENT",
+   "relationToPrevious": "moves from the stove example to its conclusion",
+   "addedInformation": "the skeptic's question is on her face"
+  }
+ },
+ {
+  "i": 288,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Even illness, trauma or poverty can shift",
+   "style": "stack"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "A person in the middle of terrible circumstances is told they can still shift their point of attraction.",
+  "noVisual": "no icon reads as illness, trauma and poverty together",
+  "storyboard": {
+   "claim": "Even terrible manifestations can be shifted",
+   "concreteVisual": "weary reader slumped at a kitchen table",
+   "onScreenText": "Even illness, trauma or poverty can shift",
+   "relationToPrevious": "from hosts to the listener in hardship",
+   "addedInformation": "weak: the hardship is carried by the text"
+  }
+ },
+ {
+  "i": 289,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "SHIFTING YOUR ATTENTION",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "surprised",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "The same person learns the shift starts now, simply by changing attention.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "You can shift starting now by shifting attention",
+   "concreteVisual": "same reader, face lifting from worried to surprised",
+   "onScreenText": "SHIFTING YOUR ATTENTION",
+   "relationToPrevious": "keeps the reader, face changes",
+   "addedInformation": "the hopeful turn"
+  }
+ },
+ {
+  "i": 290,
+  "concept": null,
+  "diagram": {
+   "type": "sorter",
+   "labels": [
+    "RADIOS",
+    "BRASS COMPASSES",
+    "TIGHT ROPES",
+    "TOY STORE WINDOWS"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "The hour's four metaphors gathered as parts of one whole.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The hour of metaphors distills to one idea",
+   "concreteVisual": "four buckets: radios, brass compasses, tight ropes, toy store windows",
+   "onScreenText": "RADIOS, BRASS COMPASSES, TIGHT ROPES, TOY STORE WINDOWS",
+   "relationToPrevious": "recaps the episode's images",
+   "addedInformation": "lists the four named metaphors"
+  }
+ },
+ {
+  "i": 291,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "NOT A VERDICT",
+   "style": "reveal"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "The host reframes the present feeling as not a judgment on one's life.",
+  "noVisual": "no icon shows a feeling that is not a verdict",
+  "storyboard": {
+   "claim": "The feeling is not a verdict on your life",
+   "concreteVisual": "calm host speaking warmly",
+   "onScreenText": "NOT A VERDICT",
+   "relationToPrevious": "from the recap to its single reframing",
+   "addedInformation": "weak: the claim is carried by the callout"
+  }
+ },
+ {
+  "i": 292,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "NEXT READING OF YOUR COMPASS",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "point",
+  "explainedBy": "The feeling is a reading on a compass, pointing to the next step.",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The feeling is the next compass reading",
+   "concreteVisual": "host points at a brass compass",
+   "onScreenText": "NEXT READING OF YOUR COMPASS",
+   "relationToPrevious": "closes the metaphor chain",
+   "addedInformation": "compass image names the feeling as a reading"
+  }
+ }
+]

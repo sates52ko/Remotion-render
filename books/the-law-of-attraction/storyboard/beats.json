@@ -1,0 +1,2941 @@
+{
+  "book": {
+    "slug": "the-law-of-attraction",
+    "title": "The Law of Attraction: The Basics of the Teachings of Abraham",
+    "author": "Esther Hicks",
+    "genre": "self-help"
+  },
+  "instructions": [
+    "Rewrite `callout.text` per beat: 2-4 words, concrete and loaded, in the viewer's second person where it fits.",
+    "NEVER an abstract noun (ORGANIZATION / MANAGEMENT / INFORMATION). Prefer what a person can see, feel or do.",
+    "Set callout to null when the beat has no hook worth stamping — silence is a valid, good choice.",
+    "`style`: reveal (3-4 words) | highlight (2 words) | strike (a negation) | outline (a real stat) | box | stack.",
+    "`concept`: the beat's LITERAL subject → a scene icon that gets shown instead of talking heads.",
+    "  Allowed: alarmClock, butterfly, subway, car, coffee, codeWindow, rocketLaunch, funnelMetrics, dollarExchange, laptopMockup, crash, ledge, water, grave, medical, notes, phone, school, home, family, road, storm, star, heart, fire, tree, mask, mirror, key, law, photo, war, game, work, city, food, coin, door, lightbulb, shadowSelf, puppeteer, chains, compass, dominoCascade, icebergDepth, funnelTrap, thirtyTyrants, ringOfGyges, caveAllegory, shipOfState, tripartiteSoul, kallipolis, fiveRegimes, mythOfEr, boulder, summit, ladder, crack, clock, balance, book, shield, trophy, hourglass, sword, target, magnifier, wallet, gift, inheritance, zap. Set a string when the beat is really ABOUT that thing",
+    "  (a crash, a home, a lake, a wall of notes); null or omitted = no icon (there is no lexicon",
+    "  fallback). Use only when it's the true subject — a wrong icon is worse than none. The icon must",
+    "  be in the book's story-bible visualProvenance.allowedMotifs or it is dropped with a warning.",
+    "`set` (optional): the location, one of the renderer's sets — honoured as written.",
+    "`shotOverride` (optional): force a framing. `shot` above is only the director's first guess.",
+    "The director stages the body itself from the concept — a beat whose subject is a",
+    "  letter/phone/key/photo/book/coin/mirror/mask/idea/compass/meal/love/job/court puts that",
+    "  object IN THE LEAD'S HAND, an outdoor beat can make them walk across the set, an indoor",
+    "  one can sit them down. You do not author that here; naming the right `concept` is what",
+    "  turns it on. A wrong concept costs more now than it used to.",
+    "`diagram`: an EXPLANATORY self-drawing graphic that BECOMES the whole beat (cast dropped,",
+    "  no callout). Author one ONLY on a genuinely conceptual beat; leave null otherwise — a weak",
+    "  or generic diagram is worse than none. Use at most a handful across the whole book. Shape:",
+    "  { type, title?, labels[], values[] }, where type is one of:",
+    "    sorter   — a taxonomy sorting into buckets. labels = the 2-4 category names; values = optional per-bucket counts.",
+    "    matchWave— two rhythms drifting then locking into sync. labels[0] = the payoff word (e.g. IN SYNC).",
+    "    flow     — a cause→effect chain. labels = 2-3 ordered node names.",
+    "    spectrum — a marker on a continuum. labels = [leftPole, rightPole]; values = [0..1 marker position].",
+    "  Keep labels 1-2 words. Best on the beat that first NAMES a framework, a sync, a process or a scale.",
+    "`concept: null` means NO icon on this beat (not even a decorative one); omitting the key is ALSO no icon — there is no lexicon fallback (Faz 0). Every beat needs an entry; an unauthored beat fails gate-authorship.",
+    "Do not leave a beat silent when its narration names concrete things (a list of objects, an anecdote, a person doing something) — give it the narrator's phrase or the object.",
+    "Prefer the narrator's concrete phrase over an abstract metaphor label (\"PAUSE THE IMPULSE\", not \"A LOGIC FILTER\").",
+    "A diagram title must not promise a shape its type cannot draw (no \"LOOP\"/\"PYRAMID\" on a straight flow).",
+    "Keep the array order and length. Then re-run plan-antidote with --callouts=<this file>.",
+    "After re-running: node scripts/audit-antidote.js --slug=<slug> — it FAILS the plan if any",
+    "  window runs longer than 8s with nothing happening on screen."
+  ],
+  "beats": [
+    {
+      "i": 0,
+      "shot": "lowAngle",
+      "beat": "title",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, if I'm anxious about the bills, I'm actually sending out a request for more Yeah, you're literally putting in an order for the exact thing you're trying to avoid. Okay, we need to unpack that immediately because look, if you're listening to this deep",
+      "callout": {
+        "text": "THE LAW OF ATTRACTION",
+        "style": "plain"
+      }
+    },
+    {
+      "i": 1,
+      "shot": "diorama",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "dive right now, chances are you've tried the whole, you know, think positive routine. Oh, totally, We all have, right? And you probably felt like you were just spinning your wheels. I mean, you're someone who wants more money or better health or just a relationship that",
+      "callout": {
+        "text": "WANTS MORE MONEY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 2,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "actually works for once and you've bought into this huge cultural mandate to just slap a happy face on everything. Exactly.",
+      "callout": null
+    },
+    {
+      "i": 3,
+      "shot": "diorama",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the exhaustion of that is so real. The stakes here are high because years of that intense exhausting effort just feel like nothing has actually changed in your day-to-day Yeah.",
+      "callout": null
+    },
+    {
+      "i": 4,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The frustration of doing all the right, you know, mental gymnastics and still running into a brick wall.",
+      "callout": {
+        "text": "BRICK WALL",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 5,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a universal experience. It really is. So, today we're looking at the law of attraction, the basics of the teachings of Abraham by Esther and Jerry Hicks.",
+      "callout": null
+    },
+    {
+      "i": 6,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And just for context here, Esther Hicks essentially channeled a group of non-physical entities uh collectively known as Abraham to dictate this",
+      "callout": null
+    },
+    {
+      "i": 7,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "which I know sounds out there for some right? But honestly, regardless of how you feel about the mechanics of channeling, it's the practical application in this book that we really have to look at today",
+      "callout": null
+    },
+    {
+      "i": 8,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "because people just exhaust themselves trying to force their reality to change by forcing their thoughts. And this book offers a totally different framework.",
+      "callout": {
+        "text": "CHANGE",
+        "style": "box"
+      }
+    },
+    {
+      "i": 9,
+      "shot": "diorama",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "Which brings us to the mission of this deep dive. Over the next hour or so, you are going to walk away understanding three very specific things.",
+      "callout": null
+    },
+    {
+      "i": 10,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "First, why worrying actually feels like it actively makes your situation worse.",
+      "callout": null
+    },
+    {
+      "i": 11,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "Second, how you can use your own raw feelings as a literal internal compass. Yeah. And third, why forcing positive thoughts like that toxic positivity we all try to do actually",
+      "callout": null
+    },
+    {
+      "i": 12,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "fails entirely. It all really comes down to a fundamental shift in how we perceive our own attention. Which brings us to the core argument of this entire text.",
+      "callout": null
+    },
+    {
+      "i": 13,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And I'm only going to state this plainly once, so you know, hold on to it. The law of attraction is less a promise that wishes come true than a claim about",
+      "callout": {
+        "text": "WISHES COME TRUE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 14,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "attention. What you keep returning to in your mind decides what you feel, and what you feel decides what you notice next.",
+      "callout": {
+        "text": "YOUR MIND",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 15,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right? So the book's practical power lies in reading your own feelings as a signal, not enforcing positive thoughts. I think framing it as a mechanical process",
+      "callout": {
+        "text": "POWER LIES",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 16,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "rather than like a moral failing is the only way to actually grasp what they're teaching here. It's physics. It's not a judgment.",
+      "callout": null
+    },
+    {
+      "i": 17,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. So let's test that physics right away. Then if this is a mechanical process, why does worrying feel like it makes things worse?",
+      "callout": null
+    },
+    {
+      "i": 18,
+      "shot": "insert",
+      "beat": "negative",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "MECHANICALLY SPEAKING",
+          "WELL"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "Well, because mechanically speaking, it's drawing the essence of the problem closer to you.",
+      "callout": null
+    },
+    {
+      "i": 19,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, I was trying to visualize this concept of drawing things in and I just kept thinking about an old school analog car radio.",
+      "callout": null
+    },
+    {
+      "i": 20,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, with a physical tuning knob. Exactly. The kind with the physical knob. So, imagine someone trying to find a station, but the dial is stuck right between two frequencies and the speaker is just violently spitting",
+      "callout": {
+        "text": "DIAL IS STUCK",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 21,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "out that aggressive grading static. Yeah. The worst sound in the world, right? and you're sitting there turning it a millimeter to the left, a millimeter to the right, just trying to force the music to come through, but getting",
+      "callout": null
+    },
+    {
+      "i": 22,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "what you want in this framework, it's about tuning. It's not about brute But we rely so much on brute force, don't we? We do. We really believe that if we just twist the dial harder, if we stress about the",
+      "callout": null
+    },
+    {
+      "i": 23,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "problem more intensely, the static will somehow magically become a clear melody. Like worrying is going to fix it.",
+      "callout": null
+    },
+    {
+      "i": 24,
+      "shot": "medium",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. But the mechanism of the radio, it doesn't care how hard you twist the knob. So, think about being stuck in your car in the pouring rain. Your windshield wipers are going at top speed, totally useless against the water.",
+      "callout": null
+    },
+    {
+      "i": 25,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are late for a massive presentation at work that could define your whole year. Oh, that panic, right?",
+      "callout": {
+        "text": "YOU ARE LATE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 26,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The sheer panic. You are desperately wrenching that dashboard radio dial back and forth through blasting static, shouting, \"Come on, just play the song.",
+      "callout": null
+    },
+    {
+      "i": 27,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Give me something good to listen to.\" Your knuckles are totally white. Your jaw is locked. Your heart is pounding. I mean, you are in a full-blown battle with the machinery of your own car.",
+      "callout": {
+        "text": "YOUR HEART",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 28,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, here's what that actually means for you. According to Abraham, your thoughts aren't just these invisible",
+      "callout": null
+    },
+    {
+      "i": 29,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "empty clouds floating inside your skull. They are literal, measurable, magnetic And the universe operates on one incredibly simple premise here.",
+      "callout": null
+    },
+    {
+      "i": 30,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "That which is like unto itself is drawn. That which is like unto itself is drawn. Exactly. When you were sitting in that car, panicked,",
+      "callout": null
+    },
+    {
+      "i": 31,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "angry, forcing the dial and cursing the rain, your dominant active vibration is panic and",
+      "callout": null
+    },
+    {
+      "i": 32,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Because the universe operates on magnetic matching, you are actively attracting the essence of what you are currently focused on.",
+      "callout": null
+    },
+    {
+      "i": 33,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "So worrying makes it worse because by giving your absolute undivided attention to the thing you're terrified of, you're basically holding the door wide open for the essence of that fear to walk into",
+      "callout": null
+    },
+    {
+      "i": 34,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "your experience. So the book uses a really grounded detail to explain this frequency matching. They talk about setting your receiver dial to 6:30",
+      "callout": null
+    },
+    {
+      "i": 35,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "a.m. Yeah, the AM dial example is perfect, right? Because when you tune to 6:30 a.m., you fully expect to receive the 6:30 a.m.",
+      "callout": null
+    },
+    {
+      "i": 36,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "broadcast. You wouldn't sit there expecting to hear a 98.7 FM broadcast on that AM station, right? Because you logically understand that the frequencies must match. The signals absolutely have to align.",
+      "callout": null
+    },
+    {
+      "i": 37,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. So, if your internal emotional dial is tuned to the frequency of uh I am terrified of being late and getting fired, the universe cannot broadcast the frequency of smooth sailing, green lights, and a",
+      "callout": null
+    },
+    {
+      "i": 38,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "promotion back to you. It just defies the law of the universe. Exactly. Just like expecting FM music on an AM dial. And this is exactly where people trip up",
+      "callout": null
+    },
+    {
+      "i": 39,
+      "shot": "twoShot",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "because the universe doesn't possess the ability to process the concept of no or Wait, what do you mean? Well, it only processes the subject of the focus. So, if you are vibrating at I don't",
+      "callout": null
+    },
+    {
+      "i": 40,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "want to be sick, the universe isn't hearing the don't. It is just receiving the frequency of sick",
+      "callout": null
+    },
+    {
+      "i": 41,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "and it's matching it. Okay, but hold on. am struggling with this a bit because sometimes I actually have to force my focus onto a negative problem to fix it.",
+      "callout": null
+    },
+    {
+      "i": 42,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, give me an example. Okay, if I wake up and there is literally water pouring through a leak in my kitchen ceiling or I don't know, I log into my banking app and my account is overdrawn by $1,000, right?",
+      "callout": {
+        "text": "$1,000,",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 43,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "I can't just blissfully tune to a different FM station. I mean, I have to intensely focus on that disaster to orchestrate a solution.",
+      "callout": null
+    },
+    {
+      "i": 44,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You can't just ignore a flooded kitchen and pretend everything is fine. So that right there is the most common roadblock with this material.",
+      "callout": null
+    },
+    {
+      "i": 45,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Abraham argues that forceful attention on a problem doesn't actually fix it. It just invites the essence of the problem deeper into your But the kitchen is flooding, right?",
+      "callout": null
+    },
+    {
+      "i": 46,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And they aren't saying you ignore the leak. You obviously call a plumber. Okay. Thank God. But if you stand there staring at the leak in a state of absolute paralyzing",
+      "callout": null
+    },
+    {
+      "i": 47,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "just obsessing over it. Yeah. obsessing over the potential water damage and the cost to fix it. Your point of attraction is disaster.",
+      "callout": null
+    },
+    {
+      "i": 48,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are tuning your dial to the disaster Oh, I see. The text says you must look at the problem only long enough to define the solution you want, which is a dry safe house.",
+      "callout": {
+        "text": "ONLY LONG ENOUGH",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 49,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And then you must deliberately tune your emotional dial to the relief of that solution. The relief of it. Yes. The moment you forcefully focus on the unwanted thing, you amplify the unwanted thing.",
+      "callout": null
+    },
+    {
+      "i": 50,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, it circles right back to the core thesis. My attention dictates what I feel and what I feel dictates what I notice next.",
+      "callout": null
+    },
+    {
+      "i": 51,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "If I stay focused on the disaster of the leak, I just notice more disasters. Like, I notice the drywall bubbling. I notice the smell of mold.",
+      "callout": null
+    },
+    {
+      "i": 52,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "I'm just that stressed out driver wrenching the dial stuck between stations getting nothing but loud",
+      "callout": {
+        "text": "DIAL STUCK",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 53,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "grading static. You're just generating more static. You have to stop wrestling with the dial. take a breath and smoothly tune it to the frequency of the music you actually want to hear.",
+      "callout": null
+    },
+    {
+      "i": 54,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Which naturally makes me wonder about the times we try to fake it. Because if we are supposed to tune our frequency to something better, why does faking a smile when you're deeply miserable feel so physically exhausting?",
+      "callout": {
+        "text": "TRY TO FAKE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 55,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, because you are actively aggressively fighting your own internal navigation system.",
+      "callout": null
+    },
+    {
+      "i": 56,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "You're basically at war with your own mechanics. Okay, I have a visual for this. Imagine a beautiful heavy antique",
+      "callout": null
+    },
+    {
+      "i": 57,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "brass pocket But instead of pointing north, east, and west, the face of this compass has a feeling scale. At the very top,",
+      "callout": {
+        "text": "WEST THE FACE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 58,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "absolute relief and joy. At the very bottom, absolute despair and powerlessness, And this compass isn't something you consult like in your hand. It's something you literally feel in your",
+      "callout": null
+    },
+    {
+      "i": 59,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. We treat our negative emotions as if they're a disease we need to cure or mask, right? Rather than a precision instrument giving us a reading.",
+      "callout": null
+    },
+    {
+      "i": 60,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. So, think about what this actually looks like in real life. It's 11 p.m.",
+      "callout": {
+        "text": "REAL LIFE",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 61,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are sitting completely alone in your home office. You are staring at a blindingly bright Excel spreadsheet. The worst. Your eyes are burning.",
+      "callout": null
+    },
+    {
+      "i": 62,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Your lower back is aching. And you are literally muttering through gritted teeth, \"I have to finish this. I have to be positive.",
+      "callout": null
+    },
+    {
+      "i": 63,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I am a team player. I love my job. You're forcing it. You are forcing this toxic",
+      "callout": {
+        "text": "TEAM PLAYER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 64,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "plastic positivity over yourself while every single fiber of your nervous system is just screaming in exhaustion and So here's what that means for you in the context of that late night grind.",
+      "callout": null
+    },
+    {
+      "i": 65,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The book explains that those feelings of exhaustion and resentment, they are not random misfires, They aren't a sign of weakness or like a bad work ethic.",
+      "callout": {
+        "text": "BAD WORK",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 66,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Your emotions are a literal physical indication of your relationship with what Abraham calls your inner being.",
+      "callout": null
+    },
+    {
+      "i": 67,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, let's unpack inner being for a second because that sounds a little bit esoteric to me. What does that actually mean in this specific framework?",
+      "callout": null
+    },
+    {
+      "i": 68,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Fair question. In this text, your inner being is the broader non-physical part of you. It's the part of you that holds the complete",
+      "callout": null
+    },
+    {
+      "i": 69,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "pure vibration of everything you have ever asked for and Okay? So when you're sitting at that desk forcing a smile and pretending to be happy while internally feeling just absolutely miserable,",
+      "callout": null
+    },
+    {
+      "i": 70,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "your physical conscious thought is completely out of alignment with your inner being. Oh, I see. The physical exhaustion you feel isn't just from a lack of sleep.",
+      "callout": null
+    },
+    {
+      "i": 71,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It comes from the immense grading energetic friction of that misalignment. So the book goes into extreme detail about this emotional guidance system.",
+      "callout": null
+    },
+    {
+      "i": 72,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Abraham states that despite all our complex psychological labels for how we feel, fundamentally there are really only two emotions.",
+      "callout": null
+    },
+    {
+      "i": 73,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "One feels good and one feels bad. Keep it simple. Yeah. Right. When you feel good, when you feel joy or eagerness or honestly even just the sigh of relief, that is your internal brass compass",
+      "callout": null
+    },
+    {
+      "i": 74,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "pointing true It means your current thought is in perfect alignment with your broader inner being.",
+      "callout": null
+    },
+    {
+      "i": 75,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "But when you feel bad like anger, fear, guilt, resentment, it is a literal",
+      "callout": {
+        "text": "ANGER FEAR GUILT",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 76,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "mechanical alarm bell. It's just Just pure data. It's telling you that you are misaligned and consequently you're miscreating. The negative emotion is just information telling you that your current focus is",
+      "callout": null
+    },
+    {
+      "i": 77,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "pointing directly away from what you actually desire. Which is why faking it doesn't work.",
+      "callout": {
+        "text": "FAKING IT DOESN'T WORK",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 78,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The law of attraction responds to your true core vibration. It responds to the feeling in your gut, not the fake smile plastered on your face.",
+      "callout": {
+        "text": "GUT NOT THE FAKE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 79,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right. Right. The universe reads the frequency of your deep resentment, not the words, \"I love my job.\" Okay, but I have to push back here",
+      "callout": {
+        "text": "LOVE MY JOB",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 80,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "for a Go for it. Because this opens up a really weird moral loophole, I think. How so?",
+      "callout": null
+    },
+    {
+      "i": 81,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Well, what if I feel really good about doing something terrible to someone who wronged me?",
+      "callout": null
+    },
+    {
+      "i": 82,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "like let's say a co-orker completely sabotaged my project, okay? and I find a clever way to get them fired. In that moment, sitting at my desk plotting my revenge, I feel this massive rush of",
+      "callout": null
+    },
+    {
+      "i": 83,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "absolute pleasure and satisfaction. By this logic, feeling good means I'm in alignment. Right? So, my brass compass is telling me to destroy my enemies. Okay?",
+      "callout": null
+    },
+    {
+      "i": 84,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a really sharp observation, but the source material counters this How? Abraham explains that true connection to your broader perspective, to your inner being only ever feels like love, joy,",
+      "callout": null
+    },
+    {
+      "i": 85,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "or appreciation. When you feel that rush of vindictive pleasure from plotting revenge, you aren't actually feeling",
+      "callout": null
+    },
+    {
+      "i": 86,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "true joy. Well, what am I feeling then? Because I'm telling you, it definitely feels better than being sabotaged and sitting there crying about it.",
+      "callout": null
+    },
+    {
+      "i": 87,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. You just nailed it. You're experiencing a slight upward movement on the emotional scale. Oh, you're moving from absolute powerlessness and victimhood up to anger or",
+      "callout": {
+        "text": "UP TO ANGER",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 88,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "revenge. It feels slightly better because it has more forward momentum than just pure despair,",
+      "callout": null
+    },
+    {
+      "i": 89,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "but it still carries an intense underlying discord. Okay, that makes sense. Maliciousness is never a vibrational match to your true inner being. If you genuinely tune into your body",
+      "callout": {
+        "text": "YOUR TRUE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 90,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "in that moment, that desire to harm another person always carries a physiological like a tightness, right? There's a knot in the stomach, a tightness in the chest.",
+      "callout": null
+    },
+    {
+      "i": 91,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is not true alignment. It's literally just less resistance than total despair.",
+      "callout": {
+        "text": "NOT TRUE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 92,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Ah, okay. That makes perfect sense. It's the difference between pointing true north and just pointing slightly less Which just proves the thesis again, doesn't it?",
+      "callout": null
+    },
+    {
+      "i": 93,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "What you return to in your mind decides what you feel. If I dwell on the coworker who betrayed me, I feel that tight, vindictive tension.",
+      "callout": null
+    },
+    {
+      "i": 94,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "My feelings are the signal. I just have to look at the brass pocket compass and realize I'm still not pointing to genuine relief. You are still out of alignment and your compass is working flawlessly to show you exactly where",
+      "callout": null
+    },
+    {
+      "i": 95,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "you stand. Wow. Okay. But if our compass is always trying to guide us toward feeling good, toward true relief,",
+      "callout": {
+        "text": "GOOD TOWARD TRUE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 96,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "why do we keep running into people or situations that drive us absolutely crazy? Like, why is the world so full of annoying,",
+      "callout": null
+    },
+    {
+      "i": 97,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "difficult That brings us to what might be the most counterintuitive concept in the entire book. It's basically reframes our entire relationship with adversity.",
+      "callout": null
+    },
+    {
+      "i": 98,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, think about this image. you walk into a gallery and there are two drawings pinned side by side on a stark white wall. One is a rough, chaotic sketch done in dull gray pencil.",
+      "callout": {
+        "text": "STARK WHITE WALL",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 99,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Like a really messy draft. Yeah, it's messy, undefined, and kind of ugly. But right next to it is a masterpiece painted in bright, vibrant, breathtaking watercolors.",
+      "callout": null
+    },
+    {
+      "i": 100,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The crucial takeaway here is that the gray drawing is not a mistake.",
+      "callout": {
+        "text": "NOT A MISTAKE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 101,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is just information. See, we spend almost our entire lives running away from the gray drawings. We really do. We try to completely eradicate them from our experience, thinking they mean we somehow failed",
+      "callout": null
+    },
+    {
+      "i": 102,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "at manifesting a good life. So, picture yourself sitting in a severely chaotic,",
+      "callout": {
+        "text": "GOOD LIFE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 103,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "deafeningly loud restaurant. The tables are just crammed together, elbow to elbow. I'm getting stressed just picturing it, right?",
+      "callout": null
+    },
+    {
+      "i": 104,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And the person sitting at the table right next to you is chewing their food so loudly you can actually hear it over the terrible background music.",
+      "callout": null
+    },
+    {
+      "i": 105,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The absolute worst. You are white knuckling your cloth napkin. just clenching it under the table, staring at your plate, thinking, \"I absolutely hate this place. I hate this noise.",
+      "callout": {
+        "text": "HATE THIS NOISE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 106,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I hate this person.\" So, here is what that awful dinner actually means for you. The book refers to that terrible restaurant experience as",
+      "callout": null
+    },
+    {
+      "i": 107,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "contrast. Yes. And Abraham treats contrast, the negative stuff, the annoying people, the bad situations, the broken cars, as the exact primary",
+      "callout": null
+    },
+    {
+      "i": 108,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "reason you are currently here on earth in a physical body. Wait, really?",
+      "callout": null
+    },
+    {
+      "i": 109,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The reason we're here. Yes. The great drawing isn't a failure of your ability to create. It's the vital necessary data you need to draw the bright watercolor.",
+      "callout": null
+    },
+    {
+      "i": 110,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You fundamentally cannot know what you truly want until you intensely experience what you do not",
+      "callout": null
+    },
+    {
+      "i": 111,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The book actually shares a deeply personal intense story from Jerry Hicks about this. Oh, the fighting story. Yeah. When Jerry was in his 33rd year, he realized he was constantly getting into fights.",
+      "callout": null
+    },
+    {
+      "i": 112,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "like he was physically and verbally fighting people week in and week out which is wild to think about for a guy writing this book right it was this chaotic violent period of his life but",
+      "callout": null
+    },
+    {
+      "i": 113,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "through the process of all that intense painful contrast a massive realization was born he realized he deeply hated hurting people and he hated",
+      "callout": null
+    },
+    {
+      "i": 114,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "being hurt that gray painful contrast was necessary exactly it birthed a brand new vibrant point of attraction action for him.",
+      "callout": null
+    },
+    {
+      "i": 115,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "VISCERAL EXPERIENCE OF THE FIGHTING",
+          "CLARIFIED HIS PREFERENCES"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "It clarified his preferences because without the visceral experience of the fighting, he wouldn't have launched the powerful, undeniable desire for peace and",
+      "callout": null
+    },
+    {
+      "i": 116,
+      "shot": "insert",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "understanding that eventually led him to discover this exact work. The shift in perspective here is just massive. Contrast is not the universe punishing you for vibrating badly, It is the universe",
+      "callout": {
+        "text": "EXACT WORK",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 117,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "providing a massive diverse buffet of options so you can figure out your own specific tastes. Okay, but I'm going to interrupt you there because telling someone to appreciate contrast sounds like a recipe for just enduring misery.",
+      "callout": null
+    },
+    {
+      "i": 118,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "How do you mean? Well, if I am in an abusive job or a terribly toxic relationship, you're telling me that's just contrast and it's somehow good for me, that sounds like we're just telling people to accept",
+      "callout": null
+    },
+    {
+      "i": 119,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "suffering because it's quote unquote It absolutely sounds dangerous if it's misunderstood. I agree. But the text clarifies this beautifully.",
+      "callout": null
+    },
+    {
+      "i": 120,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. How Abraham says you absolutely are not supposed to stay focused on the gray drawing.",
+      "callout": null
+    },
+    {
+      "i": 121,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Contrast is meant to be a brief momentary touch point. Just a touch point, right? You experience the loud restaurant. You instantly identify what you do want, which is a quiet, intimate, peaceful dining experience.",
+      "callout": null
+    },
+    {
+      "i": 122,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And then you immediately pivot all your attention to the new desire. The suffering only happens when you stay staring at the gray drawing.",
+      "callout": null
+    },
+    {
+      "i": 123,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Like when you go home and complain about the loud chewer for 3 hours on the phone to your mom and analyze why people are so rude and obsess over the ruined evening.",
+      "callout": {
+        "text": "3 HOURS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 124,
+      "shot": "split",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, so the contrast is the bounce pad, not the destination. The bounce pad. Yes. Perfect way to put Which loops right back to our thesis. My feelings in that loud restaurant are a signal. The sheer annoyance I feel is",
+      "callout": {
+        "text": "DESTINATION",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 125,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the compass pointing aggressively away from the unwanted, urging me to focus my attention on the beautiful watercolor painting of what I actually do want.",
+      "callout": null
+    },
+    {
+      "i": 126,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The gray drawing has perfectly served its purpose the exact moment you realize you prefer color. Man, that is so good.",
+      "callout": null
+    },
+    {
+      "i": 127,
+      "shot": "overShoulder",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But that brings up a really heavy cultural issue, I think. Once the contrast shows us what we prefer, why do we feel so guilty for wanting things, especially material things like wanting more money or",
+      "callout": null
+    },
+    {
+      "i": 128,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "a bigger house or a prestigious job? Because we have been deeply culturally conditioned to view desire as inherently right?",
+      "callout": null
+    },
+    {
+      "i": 129,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "or flawed or even a sign of spiritual immaturity. Imagine a little kid at a toy store. They have both hands and their nose pressed completely flat against the cold glass of the storefront window,",
+      "callout": {
+        "text": "LITTLE KID",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 130,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "just staring in at a shiny, bright red They are vibrating with excitement. They are desperate for it.",
+      "callout": null
+    },
+    {
+      "i": 131,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "That pure unfiltered want itself is the first step of everything. And yet, as adults, we look at that child and our instinct is often to think, well, they need to learn. turn they can't have everything they",
+      "callout": {
+        "text": "LOOK AT THAT CHILD",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 132,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "want. The world doesn't work that way. We just crush it. We instantly introduce the concept of lack into their pure desire. Right?",
+      "callout": {
+        "text": "WORLD DOESN'T WORK",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 133,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, put yourself in this scene. You are walking down a freezing city street on a Tuesday afternoon. You walk past a warm,",
+      "callout": {
+        "text": "PUT YOURSELF",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 134,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "brightly lit bakery. You instantly smell the fresh baking sourdough bread and the melting butter.",
+      "callout": null
+    },
+    {
+      "i": 135,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh my god, heaven. Right. You feel an intense, undeniable, mouthwatering craving. But almost instantly, before you even break stride, your internal monologue kicks in.",
+      "callout": {
+        "text": "BREAK",
+        "style": "box"
+      }
+    },
+    {
+      "i": 136,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The guilt. Yeah. No, I shouldn't want that. I'm trying to lose weight. It's too expensive. I don't deserve a treat today.",
+      "callout": null
+    },
+    {
+      "i": 137,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "I haven't worked out. You've violently killed a desire the exact second it is born. So, if we look at the mechanics of that moment, Abraham says that pure desire without the heavy baggage of doubt or guilt",
+      "callout": {
+        "text": "DOUBT OR GUILT",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 138,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "is the literal engine of deliberate creation. The engine. Yes. When you smell that bread and want it or when you want financial abundance to feel secure, that desire is actual life force",
+      "callout": null
+    },
+    {
+      "i": 139,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "flowing through your physical body. It is the universe expanding. When you immediately shut it down with I shouldn't,",
+      "callout": {
+        "text": "YOUR PHYSICAL BODY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 140,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "you are energetically choking off your own life force. You are cutting yourself off from the energy that creates worlds. The book actually offers a really specific almost mechanical exercise to help harness",
+      "callout": {
+        "text": "YOUR OWN LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 141,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "this pure desire without triggering the guilt. Oh, the paper exercise. Yeah. It says to take three pieces of paper.",
+      "callout": null
+    },
+    {
+      "i": 142,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "At the very top of each page, write down one specific thing you want. A new car, a healthier body, a specific amount of money. Then underneath you write the phrase, \"These are the reasons I want this.\" And you just",
+      "callout": {
+        "text": "AMOUNT OF MONEY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 143,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "let the passion flow onto the No holding back, right? You write without resistance. You do not think about how it will happen or what it costs or if you deserve it.",
+      "callout": null
+    },
+    {
+      "i": 144,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You just document the pure joyful desire. The whole purpose of that exercise is to separate the act of wanting from the habit of resisting.",
+      "callout": null
+    },
+    {
+      "i": 145,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It trains your brain to feel the purity of the desire before your logical conditioned mind can jump in and sabotage it with practicalities.",
+      "callout": {
+        "text": "TRAINS YOUR BRAIN",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 146,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But hold on, I have to challenge this because this philosophy completely contradicts some of the oldest wisdom traditions in human history.",
+      "callout": null
+    },
+    {
+      "i": 147,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, isn't desire the actual root of all human suffering? That is a big one, right? Cuz Buddhism teaches that attachment and craving lead to misery. Stoicism teaches us to want nothing,",
+      "callout": null
+    },
+    {
+      "i": 148,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "to accept whatever happens so we can't be disappointed. If I'm always wanting things, more money, better food, more success. Aren't I just living in a perpetual state of lack? That is probably the most profound",
+      "callout": null
+    },
+    {
+      "i": 149,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "philosophical hurdle when people read this book. It challenges aseticism directly. Yeah, it really does.",
+      "callout": null
+    },
+    {
+      "i": 150,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But Abraham pushes back on that aesthetic philosophy using a very tight logical loop.",
+      "callout": null
+    },
+    {
+      "i": 151,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The text argues that the desire to have no desire is still fundamentally a desire. Wait, say that again.",
+      "callout": null
+    },
+    {
+      "i": 152,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. If you are meditating to achieve a state of emptiness, you are desiring emptiness.",
+      "callout": null
+    },
+    {
+      "i": 153,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are desiring peace. You literally cannot escape desire. Oh wow. Abraham says that wanting is not a state of lack.",
+      "callout": {
+        "text": "CANNOT ESCAPE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 154,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is the natural inevitable expansion of the universe expressing itself through your physical perspective.",
+      "callout": null
+    },
+    {
+      "i": 155,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The suffering doesn't come from the act of wanting. The suffering comes from wanting it while simultaneously believing you cannot have Oh wow.",
+      "callout": null
+    },
+    {
+      "i": 156,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. So the suffering is just the energetic friction between the desire and the doubt.",
+      "callout": null
+    },
+    {
+      "i": 157,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It brings us right back to the thesis. Attention to the pure desire feels amazing. attention to the lack of the desire, the impossibility of it feels terrible.",
+      "callout": null
+    },
+    {
+      "i": 158,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The kid at the toy store window only starts crying when his parents drag him away and tell him he can't have the bike. The wanting itself felt exhilarating.",
+      "callout": null
+    },
+    {
+      "i": 159,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly right. The pure want is pure forward moving energy. Keep that image of the child at the toy store window.",
+      "callout": null
+    },
+    {
+      "i": 160,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The desire is the fuel. Which leads us to the next massive roadblock. We have the desire.",
+      "callout": null
+    },
+    {
+      "i": 161,
+      "shot": "split",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "The fuel is there. But why does working harder, hustling, and forcing things sometimes push the goal further away?",
+      "callout": {
+        "text": "WHY DOES WORKING HARDER",
+        "style": "box"
+      }
+    },
+    {
+      "i": 162,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "This brings us to the crucial difference between what the book calls the art of allowing and the sheer act of pushing.",
+      "callout": null
+    },
+    {
+      "i": 163,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. Picture a thick, coarse, heavy piece of marine rope. First, picture a hand grabbing that rope and holding it so tightly that the knuckles are bone Oh, I can feel that.",
+      "callout": null
+    },
+    {
+      "i": 164,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. The skin is turning red. The veins are popping. There's literal rope burn.",
+      "callout": null
+    },
+    {
+      "i": 165,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Now contrast that image with a hand that simply opens its fingers, releases the tension,",
+      "callout": null
+    },
+    {
+      "i": 166,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and lets the rope drop heavily to the floor. Most of us live our entire adult lives with white knuckles. We are absolutely convinced that tension, stress, and anxiety are the only",
+      "callout": null
+    },
+    {
+      "i": 167,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "things holding our lives together. You definitely know this feeling. You are gripping the steering wheel in absolute bumperto-bumper gridlock traffic on the highway.",
+      "callout": null
+    },
+    {
+      "i": 168,
+      "shot": "insert",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "You have a flight to catch in 2 hours. Your jaw is completely locked. You are sweating and you are literally growling under your breath. Move, move, move.",
+      "callout": {
+        "text": "MOVE",
+        "style": "box"
+      }
+    },
+    {
+      "i": 169,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Like you can push the cards with your right? You are trying to use the sheer invisible force of your personal willpower to bend thousands of tons of metal and hundreds of other drivers to your",
+      "callout": null
+    },
+    {
+      "i": 170,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "specific itinerary. So what does that tension actually achieve? In the teachings of Abraham, the art of allowing is the essential mandatory balance to the act of wanting.",
+      "callout": null
+    },
+    {
+      "i": 171,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "If you are gripping the steering wheel, if you are just tolerating a terrible situation while internally screaming, you are still holding that coarse rope.",
+      "callout": null
+    },
+    {
+      "i": 172,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right. You're not letting go. Exactly. You are flooded with negative emotion, stress, panic, anger, which means mechanically",
+      "callout": {
+        "text": "STRESS PANIC ANGER",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 173,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "you are in a state of massive resistance. Allowing is not the same as tolerating. Oh, that's a good Allowing is releasing the resistance entirely. It is opening the hand",
+      "callout": null
+    },
+    {
+      "i": 174,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and dropping the rope. To explain the sheer unimaginable power of dropping resistance, the book uses an extreme example. They talk about the documented phenomenon of",
+      "callout": null
+    },
+    {
+      "i": 175,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "a mother literally lifting an automobile off her trapped child. Yeah. Hysterical strength. Right now, normally on a Tuesday,",
+      "callout": {
+        "text": "TRAPPED CHILD",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 176,
+      "shot": "split",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "she does not have the belief that she can deadlift a two-tonon car. She knows her physical limits, but in that exact moment, her wanting, her absolute primal",
+      "callout": {
+        "text": "EXACT MOMENT",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 177,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "desire for her child to live is so extreme, so all-consuming that it completely overrides her lack of belief. She isn't overthinking her muscle mass.",
+      "callout": null
+    },
+    {
+      "i": 178,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She isn't worrying about her form. She drops all resistance to the idea of impossible.",
+      "callout": null
+    },
+    {
+      "i": 179,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She just allows the pure desire to flow, creating what the book calls a quantum leap. The quantum elite wasn't achieved because she suddenly gained superhuman muscle mass. It was achieved by a momentary",
+      "callout": null
+    },
+    {
+      "i": 180,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "total absence of resistance to her own desire. The desire was perfectly allowed to flow. But if I let go of the rope, if I stop pushing and gripping the wheel, aren't I",
+      "callout": {
+        "text": "STOP",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 181,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "just giving up? Like if I'm in traffic and I just let go of the urgency, I'm accepting failure. I'm going to miss my flight.",
+      "callout": null
+    },
+    {
+      "i": 182,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We are taught that if you don't push, if you don't hustle, you get run over by life.",
+      "callout": {
+        "text": "RUN OVER BY LIFE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 183,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "That fear that if I stop worrying everything will fall apart is exactly what keeps the knuckles white.",
+      "callout": null
+    },
+    {
+      "i": 184,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the book's stance is incredibly nuanced here. Letting go of the rope does not mean giving up the desire to catch your flight.",
+      "callout": null
+    },
+    {
+      "i": 185,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay. So what am I dropping? The desire to make the plane remains intact.",
+      "callout": null
+    },
+    {
+      "i": 186,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "What you are dropping is the resistance, the panic, the anger, the useless pushing against the reality of the traffic. Because mechanically pushing against the traffic just attracts more frustration.",
+      "callout": {
+        "text": "PANIC THE ANGER",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 187,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I just am more angry. Right? By dropping the emotional resistance and finding a thought that feels like a sigh of relief like you know I will get there when I get there and if I miss it I can always book another flight.",
+      "callout": null
+    },
+    {
+      "i": 188,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "You stop introducing the friction of pushing. This allows the universe to actually orchestrate the path of least It's trusting the signal.",
+      "callout": null
+    },
+    {
+      "i": 189,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The immense tension in my jaw is my compass telling me I'm miscreating. I'm adding static. Opening my hand, dropping the rope is just returning to alignment.",
+      "callout": null
+    },
+    {
+      "i": 190,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "You're shifting your internal vibration from lack and panic back to allowance. So, if we know we need to practice allowance, how do we actively do that?",
+      "callout": {
+        "text": "NEED TO PRACTICE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 191,
+      "shot": "overShoulder",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Why does one tiny, seemingly insignificant stroke of good luck suddenly turn a whole bad day around? Because it shifts your dominant point of attraction in a single instant.",
+      "callout": null
+    },
+    {
+      "i": 192,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "I love the visual for this part. Imagine one small, perfectly round, impossibly bright yellow lemon sitting on a cluttered,",
+      "callout": null
+    },
+    {
+      "i": 193,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "disastrously messy kitchen it's just one real, genuinely good thing noticed in the absolute midst of chaos and the sudden feeling of lightness that lifts from noticing it.",
+      "callout": {
+        "text": "MIDST OF CHAOS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 194,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We really completely underestimate the magnetic power of just noticing one small aesthetically pleasing thing. Here is the scene.",
+      "callout": null
+    },
+    {
+      "i": 195,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are standing in your kitchen after a brutally long day. It is a disaster zone. There are crusty dishes piled high in the sink,",
+      "callout": null
+    },
+    {
+      "i": 196,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "unpaid mail scattered everywhere, sticky spills on the floor. Gh, I've been there. We all have. You are standing there feeling totally overwhelmed, defeated by the mess of your own life.",
+      "callout": null
+    },
+    {
+      "i": 197,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But then a beam of late afternoon sunlight hits that one perfect yellow lemon sitting alone on the counter. Okay.",
+      "callout": {
+        "text": "LEMON SITTING ALONE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 198,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The color is so vivid, so bright. For exactly 3 seconds, you stop looking at the dirty dishes. You stop thinking about the bills, and you just appreciate the bright, clean color of",
+      "callout": null
+    },
+    {
+      "i": 199,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "that fruit. So when you do that, you are engaging in the active process of becoming what Abraham calls a selective sifter.",
+      "callout": null
+    },
+    {
+      "i": 200,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "A selective sifter. Yes. Your physical reality is constantly filled with endless contradictory data. You have dirty dishes and you have bright lemons, When you deliberately focus on the",
+      "callout": null
+    },
+    {
+      "i": 201,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "lemon, you are choosing which reality to engage with. In that 3-second moment of genuine appreciation, you instantly change your magnetic point of attraction.",
+      "callout": null
+    },
+    {
+      "i": 202,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You tune the dial away from overwhelm and directly toward beauty and The book establishes a very hard rule about this.",
+      "callout": {
+        "text": "HARD RULE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 203,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Observing problems versus seeking solutions. Looking at a problem, staring at the dirty dishes and feeling like a failure makes you feel bad.",
+      "callout": null
+    },
+    {
+      "i": 204,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It mechanically lowers your vibration. Looking for a solution or just looking at something pleasing like the lemon feels good.",
+      "callout": null
+    },
+    {
+      "i": 205,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "And because the universe strictly matches your feeling, looking at the good thing attracts different better circumstances.",
+      "callout": null
+    },
+    {
+      "i": 206,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's the mechanics of it. Yeah. But wait, I have to push back really hard on this one. All right, let's hear it. Because to a lot of people, this sounds like just putting your head in the sand.",
+      "callout": {
+        "text": "PUTTING YOUR HEAD",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 207,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, if I just look at the lemon and ignore the dishes, my kitchen rots.",
+      "callout": null
+    },
+    {
+      "i": 208,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "Bugs come in. And extrapolate that out, right? If I just look at the nice things in society and ignore massive systemic injustice,",
+      "callout": null
+    },
+    {
+      "i": 209,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "aren't I being complicit? Isn't this philosophy just an excuse for ignoring the world's very real, very dangerous That is a massive criticism of the New Age movement",
+      "callout": null
+    },
+    {
+      "i": 210,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "in general, honestly. But Abraham addresses this head-on within their framework. Oh, they do. They do. They argue that you aren't ignoring reality.",
+      "callout": null
+    },
+    {
+      "i": 211,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are refusing to let the negative reality dictate your personal vibration. The text argues that focusing intensely on pain only creates more pain.",
+      "callout": null
+    },
+    {
+      "i": 212,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "If you stare at the world's problems from a place of absolute despair and powerlessness, you are actively adding your frequency of despair to the mass Oh, I hadn't thought of it like that.",
+      "callout": null
+    },
+    {
+      "i": 213,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right. By becoming a selective sifter, you are maintaining a high vibration.",
+      "callout": null
+    },
+    {
+      "i": 214,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "This puts you in a position of clarity and actual power where you might actually be inspired to take effective, meaningful action rather than just drowning in the problem. So, it all comes back to",
+      "callout": {
+        "text": "ACTUAL POWER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 215,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "attention dictating feeling. If I stare at the mess, I feel paralyzed and I do nothing. If I look at the bright yellow lemon, I feel a tiny spark of energy, a little hit of relief, which might actually give me the momentum",
+      "callout": {
+        "text": "FEEL A TINY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 216,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "to roll up my sleeves and start washing the dishes. Precisely. You change the feeling first internally and the physical action follows with much less resistance. Okay. But when we do get that momentum",
+      "callout": null
+    },
+    {
+      "i": 217,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "to take action, why do detailed step-by-step plans usually make us more anxious instead of less?",
+      "callout": null
+    },
+    {
+      "i": 218,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, because the more specific details you add before you're ready, the more opportunities you create for doubt to creep into your vibration.",
+      "callout": {
+        "text": "YOU CREATE FOR DOUBT",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 219,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "I've got a great picture for this. Think of a traveler driving a car on a pitch black, incredibly foggy highway at",
+      "callout": null
+    },
+    {
+      "i": 220,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, spooky, right? They don't have a GPS map of the entire cross-country route illuminated in front of them. All they need to see is the very next reflective road sign appearing out of the fog",
+      "callout": null
+    },
+    {
+      "i": 221,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "just a few hundred feet ahead. Just one sign at a Yet, in our careers and our lives, we usually demand to see the entire map perfectly illuminated from start to finish",
+      "callout": {
+        "text": "CAREERS AND OUR LIVES",
+        "style": "box"
+      }
+    },
+    {
+      "i": 222,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "before we are even willing to put the car in drive. Right? Imagine you were sitting at your desk. You have a fresh blank notepad and you are chewing nervously on the end of a pen. You are trying to map out a flawless,",
+      "callout": null
+    },
+    {
+      "i": 223,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "foolproof 5-year career plan. The dreaded 5-year plan. You are trying to anticipate every pivot, every financial requirement, every potential promotion, every market shift.",
+      "callout": null
+    },
+    {
+      "i": 224,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And as you try to force all these unknown details onto the paper, you just feel a heavy sinking nauseating knot of dread forming in your stomach.",
+      "callout": null
+    },
+    {
+      "i": 225,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The mechanics of that dread are very clear in this book. Getting too specific too soon introduces massive doubt. The teachings explain that you only need to focus on the feeling of the destination, not the mechanical steps of how to get",
+      "callout": null
+    },
+    {
+      "i": 226,
+      "shot": "medium",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "When you try to map out a 5-year plan, you're confronting a million hows that you simply don't have the answers to yet.",
+      "callout": null
+    },
+    {
+      "i": 227,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "That triggers your belief system to say, \"I don't know how to do this.\" which immediately introduces resistance,",
+      "callout": null
+    },
+    {
+      "i": 228,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "drops your vibration and ruins your point of attraction. The book has this great simple example for this that the red car example.",
+      "callout": null
+    },
+    {
+      "i": 229,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "If you say, \"I want a brand new red car,\" you start the engine of creation. You feel the excitement, But if you immediately add, \"But it is way too expensive, and I don't know how I'll get the bank loan, and",
+      "callout": null
+    },
+    {
+      "i": 230,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "my credit score is terrible,\" you violently halt the creation. You focused on the lack of the means. You tried to look way past the immediate road sign deep into the fog and you panicked",
+      "callout": {
+        "text": "CREDIT SCORE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 231,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "because you couldn't see the finish line. But wait, if I don't have a specific blueprint, aren't I just sitting around I mean, you can't just sit on your couch, feel good about a red car, and expect it to magically materialize",
+      "callout": null
+    },
+    {
+      "i": 232,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "in your driveway without a plan. You're not achieving anything. So, the expert analysis of the text reveals that Abraham insists the universe itself",
+      "callout": null
+    },
+    {
+      "i": 233,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "handles the blueprint. The universe handles it. Yes. Your only job is the what",
+      "callout": {
+        "text": "YOUR ONLY JOB",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 234,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "and the emotional state of the why. When you hold the feeling of the destination without demanding to know the exact how, the universe orchestrates the path of least resistance.",
+      "callout": null
+    },
+    {
+      "i": 235,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It delivers the next road sign, the next inspired idea, the next coincidental meeting.",
+      "callout": null
+    },
+    {
+      "i": 236,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The action you eventually take is inspired by alignment, not forced out of fear and obligation.",
+      "callout": {
+        "text": "OUT OF FEAR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 237,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You drive to the next sign and then the next sign is revealed out of the fog. It's trusting the compass again.",
+      "callout": null
+    },
+    {
+      "i": 238,
+      "shot": "medium",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "The dread of writing the five-year plan is the compass saying stop. You are focusing on your lack of knowledge. The relief of just looking at the next immediate road sign is the compass saying you",
+      "callout": null
+    },
+    {
+      "i": 239,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "are back on track. Just do the next right thing. You genuinely only need enough light to take the next step. So, how do we make this a daily habit? How do we stop our old terrible",
+      "callout": {
+        "text": "ONLY NEED ENOUGH",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 240,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "habits of thought from running the show every single morning? It requires a very deliberate conscious interception of your default Picture a morning routine. You are opening your cluttered closet",
+      "callout": null
+    },
+    {
+      "i": 241,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "and instead of just grabbing whatever wrinkled shirt falls out first, you deliberately carefully pick out one specific silk scarf or one specific pattern tie to wear.",
+      "callout": {
+        "text": "FALLS OUT FIRST",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 242,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "You choose it on purpose for a reason. But most of us treat our internal thoughts like grabbing whatever falls out of a messy closet.",
+      "callout": null
+    },
+    {
+      "i": 243,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We just wear whatever stressful mood hits us the moment we wake up. Exactly. Here is the scene. You are waking up. Your feet hit the cold hardwood floor.",
+      "callout": null
+    },
+    {
+      "i": 244,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Usually your immediate knee-jerk instinct is to grab your phone off the nightstand, check your work emails, read the doom and gloom news, and let the panic of the day wash over you before you've even brushed your Every day, right?",
+      "callout": {
+        "text": "CHECK YOUR WORK",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 245,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But this time you pause before your hand even touches the phone. You deliberately think in this segment of my day",
+      "callout": null
+    },
+    {
+      "i": 246,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "I want clarity. I want to feel calm. The book calls this magical highly practical process segment intending. Segment intending. Yeah.",
+      "callout": null
+    },
+    {
+      "i": 247,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You mentally divide your day into segments. Waking up, driving to work, walking into a meeting, making dinner. And you actively declare your emotional intent before entering each one.",
+      "callout": null
+    },
+    {
+      "i": 248,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "By stating what you want before the segment even begins, you are prepaving your That's so powerful. You are selecting the specific thought, the specific tie before the chaotic world can force one",
+      "callout": null
+    },
+    {
+      "i": 249,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "upon you. Esther Hicks actually detailed her specific meditation practice at the beginning of all this, which is a really powerful form of setting intent.",
+      "callout": null
+    },
+    {
+      "i": 250,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh yeah, her routine. She would sit for just 15 minutes a day, not hours of agonizing focus, just 15 minutes.",
+      "callout": {
+        "text": "DAY NOT HOURS",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 251,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She wore comfortable clothes, sat in a wing back chair, and focused only on her breathing. She did this until she felt an incredible sensation of being completely detached, of actually",
+      "callout": null
+    },
+    {
+      "i": 252,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "being breathed by the universe rather than forcing the breath. She didn't overcomplicate it with mantras or visualizations. She just intended to quiet her mind completely for that one 15minute segment.",
+      "callout": {
+        "text": "QUIET HER MIND",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 253,
+      "shot": "closeUp",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's so simple. But wait, I'm looking at my daily schedule and I transition like 50 times a day.",
+      "callout": {
+        "text": "WAIT",
+        "style": "box"
+      }
+    },
+    {
+      "i": 254,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I go from the car to the elevator to the Zoom call to making dinner to dealing with the kids to answering a late email.",
+      "callout": {
+        "text": "LATE EMAIL",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 255,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah, life is busy. Doing the segment intending for every single shift sounds absolutely exhausting. It sounds robotic, like I'm micromanaging my own brain at every turn.",
+      "callout": null
+    },
+    {
+      "i": 256,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's a really fair concern, but Abraham clarifies that you don't do it constantly, obsessively monitoring every microsecond of your life.",
+      "callout": {
+        "text": "YOUR LIFE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 257,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You only do it when the segment naturally obviously Okay? Like when when you turn the key in the ignition, you take two seconds to set the intent for a safe, smooth drive.",
+      "callout": null
+    },
+    {
+      "i": 258,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "When you grab the doororknob to your house after work, you take one second to set the intent for a peaceful, loving evening with your Just a second, right? It's not robotic.",
+      "callout": {
+        "text": "YOUR HOUSE AFTER WORK",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 259,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's the exact opposite of being a robot. It stops you from creating your life by default.",
+      "callout": null
+    },
+    {
+      "i": 260,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It stops you from unconsciously carrying the heavy stress of the traffic segment into the dinner segment with your kids. It's all about asserting control over your attention, picking the specific scarf.",
+      "callout": {
+        "text": "YOUR KIDS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 261,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "You decide what you feel before the world decides for you. You're reclaiming your creative power over your own attention. Okay, we have built this entire framework.",
+      "callout": null
+    },
+    {
+      "i": 262,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We've gone through the mechanics of the radio, the compass, the rope, the toy store window,",
+      "callout": null
+    },
+    {
+      "i": 263,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "but we absolutely cannot do a deep dive on this book without addressing the massive, incredibly controversial elephant in the We have to talk about the you attracted it trap.",
+      "callout": null
+    },
+    {
+      "i": 264,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes, this is the honest, visceral criticism that makes so many intelligent people throw this book across the room. I don't blame them.",
+      "callout": {
+        "text": "ACROSS THE ROOM",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 265,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I'm going to bring up a very aggressive, very real push back. When someone is severely ill with terminal cancer or when a child is living in extreme inescapable poverty or when someone is a",
+      "callout": null
+    },
+    {
+      "i": 266,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "victim of a violent assault. Telling them that their thoughts caused it doesn't just feel wrong. It feels like cruel toxic",
+      "callout": {
+        "text": "FEEL WRONG",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 267,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "victim blaming. It feels like we are telling innocent suffering people that they somehow asked for this trauma. It is absolutely the most understandable rejection of this entire philosophy.",
+      "callout": null
+    },
+    {
+      "i": 268,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean to analyze this fairly we must wrestle with it using only the specific logic provided in the book itself we have to look at how Abraham explains the mechanics of this totally divorced",
+      "callout": null
+    },
+    {
+      "i": 269,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "from human emotion because the text doesn't shy away from this at all it explicitly states that the assaulted and the assaulter are co-creators",
+      "callout": null
+    },
+    {
+      "i": 270,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "it mentions severe illness like cancer specifically yes Abraham's explanation relies entirely on separating the concept of wanting something from the concept of believing or expecting something. the text argues",
+      "callout": null
+    },
+    {
+      "i": 271,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "that a person does not want cancer obviously, but the belief in the illness, the deep fear of it, the constant cultural focus on it",
+      "callout": {
+        "text": "DEEP FEAR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 272,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "is incredibly keen. The law of attraction is defined here only responds to the dominant vibration. Even if it's a fear vibration.",
+      "callout": null
+    },
+    {
+      "i": 273,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. If a person is constantly vibrating at the frequency of extreme powerlessness, fear or vulnerability,",
+      "callout": null
+    },
+    {
+      "i": 274,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "even unconsciously, even due to past trauma, they become a mechanical vibrational match to events that reflect that powerlessness. So they are saying the victim",
+      "callout": null
+    },
+    {
+      "i": 275,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "didn't ask for the mugger. But the victim's chronic perhaps unconscious vibration of fear or vulnerability matched the mugger's vibration of aggression and domination. They just matched frequencies on the",
+      "callout": null
+    },
+    {
+      "i": 276,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. But even knowing that mechanical explanation, it still sounds exactly like blame. You vibrated wrong, so you got attacked.",
+      "callout": {
+        "text": "YOU VIBRATED WRONG",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 277,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "How does the framework survive this massive ethical objection? Well, the framework only survives if you completely ruthlessly remove human morality, judgment, and the concept of fault from the equation.",
+      "callout": null
+    },
+    {
+      "i": 278,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Explain that. Because taking morality out of something like that is really hard to do. I know we constantly attach morality to outcomes.",
+      "callout": null
+    },
+    {
+      "i": 279,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "We look at a tragedy and say, \"They didn't deserve this. they were a good person, But Abraham presents the law of attraction purely as physics.",
+      "callout": null
+    },
+    {
+      "i": 280,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It operates exactly like gravity. If a profoundly good person and a deeply evil person both step off the edge of a roof, gravity pulls them both down equally at the",
+      "callout": null
+    },
+    {
+      "i": 281,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "exact same speed. Gravity doesn't care if you were a saint. It doesn't care if you deserve to fall. It is not a punishment.",
+      "callout": null
+    },
+    {
+      "i": 282,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's just gravity, right? The law of attraction in this text is not a cosmic judge handing down sentences for bad thoughts.",
+      "callout": null
+    },
+    {
+      "i": 283,
+      "shot": "insert",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a completely neutral mechanical response to where attention has been paid over time.",
+      "callout": {
+        "text": "PAID OVER TIME",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 284,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Whether that attention was deliberate or entirely unconscious. So it's a mechanical response,",
+      "callout": null
+    },
+    {
+      "i": 285,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "not a verdict. Like if I accidentally touch a hot stove, my burned hand isn't a moral punishment from the universe for being a bad person.",
+      "callout": null
+    },
+    {
+      "i": 286,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's just a mechanical physical response to touching heat. Exactly. When you remove the moral blame,",
+      "callout": {
+        "text": "MORAL BLAME",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 287,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "it ceases to be a cruel trap and actually becomes the ultimate empowerment mechanism. And well, how is that empowering?",
+      "callout": null
+    },
+    {
+      "i": 288,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Because it means that no matter what terrible thing has manifested, even illness, even trauma, even poverty, you still possess the mechanical ability to shift your point of attraction starting right",
+      "callout": null
+    },
+    {
+      "i": 289,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "now simply by shifting your attention. Which brings us to the ultimate realization of this entire deep dive.",
+      "callout": null
+    },
+    {
+      "i": 290,
+      "shot": "diorama",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "The whole hour we've spent breaking down radios and brass compasses and tight ropes and toy store windows",
+      "callout": null
+    },
+    {
+      "i": 291,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "all distills down to this exact reframing. The feeling you have right now is not a verdict on your life.",
+      "callout": null
+    },
+    {
+      "i": 292,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is the next reading of your own compass.",
+      "callout": null
+    }
+  ]
+}

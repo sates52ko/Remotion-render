@@ -1,0 +1,939 @@
+[
+ {
+  "i": 81,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "SOMEONE WHO WRONGED ME",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "Host A poses the objection: what if I feel good doing something terrible to someone who wronged me?",
+  "storyboard": {
+   "claim": "Host A raises a what-if: feeling good about harming a wrongdoer.",
+   "concreteVisual": "Host A, troubled, posing the objection.",
+   "onScreenText": "SOMEONE WHO WRONGED ME",
+   "relationToPrevious": "Opens the pushback.",
+   "addedInformation": "weak: a posed question carried by face and words."
+  }
+ },
+ {
+  "i": 82,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "PLOTTING MY REVENGE",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "ellen"
+  ],
+  "expression": "smirk",
+  "action": "sit",
+  "holds": "phone",
+  "explainedBy": "Host A pictures herself at her desk plotting a co-worker's firing and feeling a rush.",
+  "storyboard": {
+   "claim": "A hypothetical: at a desk, scheming to get a saboteur fired.",
+   "concreteVisual": "Host A seated in the office with a smirk, phone in hand, scheming.",
+   "onScreenText": "PLOTTING MY REVENGE",
+   "relationToPrevious": "Gives the what-if its concrete scene.",
+   "addedInformation": "The desk and the smirk show the imagined pleasure of revenge."
+  }
+ },
+ {
+  "i": 83,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "FEELING GOOD = ALIGNMENT?",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "ellen"
+  ],
+  "expression": "smirk",
+  "action": "talk",
+  "continue": true,
+  "explainedBy": "Her logic: pleasure means alignment, so the compass points to destroying enemies; the compass icon is that logic.",
+  "storyboard": {
+   "claim": "By the feel-good rule, the compass would send her to destroy her enemies.",
+   "concreteVisual": "Smirking Host A at the desk with the compass icon in front.",
+   "onScreenText": "FEELING GOOD = ALIGNMENT?",
+   "relationToPrevious": "Same desk; the compass enters as the book's rule she is turning against it.",
+   "addedInformation": "The compass names the rule being tested."
+  }
+ },
+ {
+  "i": 84,
+  "concept": "heart",
+  "diagram": null,
+  "callout": {
+   "text": "LOVE, JOY, APPRECIATION",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Host B counters: the inner being only ever feels like love, joy or appreciation (heart).",
+  "storyboard": {
+   "claim": "Connection to the inner being only feels like love, joy or appreciation.",
+   "concreteVisual": "Host B warmly explaining beside a heart.",
+   "onScreenText": "LOVE, JOY, APPRECIATION",
+   "relationToPrevious": "Answers the objection with the true signal.",
+   "addedInformation": "The heart shows what real alignment feels like."
+  }
+ },
+ {
+  "i": 85,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "NOT TRUE JOY",
+   "style": "box"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "smirk",
+  "action": "idle",
+  "explainedBy": "Vindictive pleasure from revenge is shown as a smirk, not joy; the box labels it as not true joy.",
+  "storyboard": {
+   "claim": "Revenge pleasure is not true joy.",
+   "concreteVisual": "Host A with a cold smirk, labelled NOT TRUE JOY.",
+   "onScreenText": "NOT TRUE JOY",
+   "relationToPrevious": "Contrasts with the warm heart face before.",
+   "addedInformation": "A smirk, not a smile, marks the difference."
+  }
+ },
+ {
+  "i": 86,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "BETTER THAN CRYING",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "explainedBy": "Host A protests that revenge still feels better than sitting there crying.",
+  "storyboard": {
+   "claim": "Revenge feels better than being sabotaged and crying.",
+   "concreteVisual": "Host A drooping, recalling the crying.",
+   "onScreenText": "BETTER THAN CRYING",
+   "relationToPrevious": "Her objection to the denial of joy.",
+   "addedInformation": "weak: mood plus words."
+  }
+ },
+ {
+  "i": 87,
+  "concept": null,
+  "diagram": {
+   "type": "spectrum",
+   "labels": [
+    "POWERLESSNESS",
+    "ANGER OR REVENGE"
+   ],
+   "values": [
+    0.15
+   ]
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "The emotional scale: she moves from powerlessness up toward anger.",
+  "storyboard": {
+   "claim": "Revenge is a slight upward move from powerlessness to anger.",
+   "concreteVisual": "A two-pole scale from POWERLESSNESS to ANGER OR REVENGE with the marker low.",
+   "onScreenText": "POWERLESSNESS / ANGER OR REVENGE",
+   "relationToPrevious": "Answers what she is actually feeling.",
+   "addedInformation": "The scale shows degrees, not joy."
+  }
+ },
+ {
+  "i": 88,
+  "concept": null,
+  "diagram": {
+   "type": "spectrum",
+   "labels": [
+    "POWERLESSNESS",
+    "ANGER OR REVENGE"
+   ],
+   "values": [
+    0.6
+   ]
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "continue": true,
+  "explainedBy": "The marker moves up: more forward momentum than despair.",
+  "storyboard": {
+   "claim": "It feels better because it has more momentum than despair.",
+   "concreteVisual": "The same scale, marker moved up.",
+   "onScreenText": "none",
+   "relationToPrevious": "Marker rises along the same scale.",
+   "addedInformation": "Shows the small upward shift."
+  }
+ },
+ {
+  "i": 89,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "NEVER A VIBRATIONAL MATCH",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host B explains malice is never a match to the true inner being; Host A accepts.",
+  "storyboard": {
+   "claim": "Maliciousness never matches the true inner being.",
+   "concreteVisual": "Host B explaining, Host A listening.",
+   "onScreenText": "NEVER A VIBRATIONAL MATCH",
+   "relationToPrevious": "Continues the explanation.",
+   "addedInformation": "weak: explanation by two talkers."
+  }
+ },
+ {
+  "i": 90,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "KNOT IN THE STOMACH",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "The body shows harm as tension: a knot in the stomach, a tight chest.",
+  "storyboard": {
+   "claim": "Wanting to harm someone brings tightness and a knot in the stomach.",
+   "concreteVisual": "The reader hunched, worried, as tension.",
+   "onScreenText": "KNOT IN THE STOMACH",
+   "relationToPrevious": "Names the bodily sign.",
+   "addedInformation": "The slumped, worried body shows the tightness."
+  }
+ },
+ {
+  "i": 91,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "LESS RESISTANCE THAN DESPAIR",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "explainedBy": "Host B concludes it is not alignment, only less resistance than total despair.",
+  "storyboard": {
+   "claim": "It is only less resistance than total despair.",
+   "concreteVisual": "Host B stating the verdict.",
+   "onScreenText": "LESS RESISTANCE THAN DESPAIR",
+   "relationToPrevious": "Closes the point.",
+   "addedInformation": "weak: spoken conclusion."
+  }
+ },
+ {
+  "i": 92,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "TRUE NORTH",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "The difference between pointing true north and pointing only slightly less wrong.",
+  "storyboard": {
+   "claim": "Revenge points slightly less wrong, not true north.",
+   "concreteVisual": "Host A beside the compass, understanding.",
+   "onScreenText": "TRUE NORTH",
+   "relationToPrevious": "Compass returns for the metaphor.",
+   "addedInformation": "The compass carries the true-north comparison."
+  }
+ },
+ {
+  "i": 93,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "DWELL ON THE BETRAYER",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "explainedBy": "What she returns to in mind decides her feeling: dwelling on the co-worker brings tight tension.",
+  "storyboard": {
+   "claim": "Dwelling on the betrayer brings vindictive tension.",
+   "concreteVisual": "Angry Host A with the compass.",
+   "onScreenText": "DWELL ON THE BETRAYER",
+   "relationToPrevious": "Applies the compass to her example.",
+   "addedInformation": "The angry face is the felt tension."
+  }
+ },
+ {
+  "i": 94,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "WORKING FLAWLESSLY",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "point",
+  "continue": true,
+  "explainedBy": "Host B: the compass works flawlessly and shows exactly where you stand.",
+  "storyboard": {
+   "claim": "The compass shows where you stand; it is not broken.",
+   "concreteVisual": "Host B pointing at the compass.",
+   "onScreenText": "WORKING FLAWLESSLY",
+   "relationToPrevious": "Same compass, now Host B reads it.",
+   "addedInformation": "The pointing hand reads the compass."
+  }
+ },
+ {
+  "i": 95,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "TOWARD TRUE RELIEF",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "surprised",
+  "action": "talk",
+  "explainedBy": "Host A reflects that the compass always guides toward feeling good.",
+  "storyboard": {
+   "claim": "If the compass always guides toward relief...",
+   "concreteVisual": "Host A beside the compass, wondering.",
+   "onScreenText": "TOWARD TRUE RELIEF",
+   "relationToPrevious": "Sets up her next question.",
+   "addedInformation": "weak: a transitional question."
+  }
+ },
+ {
+  "i": 96,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ANNOYING, DIFFICULT PEOPLE",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "explainedBy": "Host A asks why the world is full of annoying, difficult people.",
+  "storyboard": {
+   "claim": "Why so many annoying people and situations?",
+   "concreteVisual": "Exasperated Host A.",
+   "onScreenText": "ANNOYING, DIFFICULT PEOPLE",
+   "relationToPrevious": "The question the next idea answers.",
+   "addedInformation": "weak: a question."
+  }
+ },
+ {
+  "i": 97,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "MOST COUNTERINTUITIVE CONCEPT",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "smirk",
+  "action": "talk",
+  "explainedBy": "Host B introduces the book's most counterintuitive idea about adversity.",
+  "storyboard": {
+   "claim": "The most counterintuitive concept reframes adversity.",
+   "concreteVisual": "Host B introducing it.",
+   "onScreenText": "MOST COUNTERINTUITIVE CONCEPT",
+   "relationToPrevious": "Answers her question with a teaser.",
+   "addedInformation": "weak: a setup line."
+  }
+ },
+ {
+  "i": 98,
+  "concept": "photo",
+  "diagram": null,
+  "callout": {
+   "text": "A ROUGH GRAY SKETCH",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "The gallery wall: a rough gray pencil drawing pinned up (the picture icon).",
+  "storyboard": {
+   "claim": "Two drawings hang side by side; one is a gray, messy sketch.",
+   "concreteVisual": "A framed picture icon on a wall.",
+   "onScreenText": "A ROUGH GRAY SKETCH",
+   "relationToPrevious": "Starts the gallery image.",
+   "addedInformation": "The picture icon stands for the pinned drawing."
+  }
+ },
+ {
+  "i": 99,
+  "concept": null,
+  "diagram": {
+   "type": "sorter",
+   "labels": [
+    "MESSY GRAY SKETCH",
+    "BRIGHT WATERCOLOR"
+   ]
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "Two drawings side by side: messy gray beside a vibrant watercolor.",
+  "storyboard": {
+   "claim": "Next to the ugly sketch hangs a vibrant watercolor masterpiece.",
+   "concreteVisual": "Two side-by-side buckets: MESSY GRAY SKETCH and BRIGHT WATERCOLOR.",
+   "onScreenText": "MESSY GRAY SKETCH / BRIGHT WATERCOLOR",
+   "relationToPrevious": "Adds the second drawing.",
+   "addedInformation": "The comparison is drawn as two panels."
+  }
+ },
+ {
+  "i": 100,
+  "concept": null,
+  "diagram": {
+   "type": "sorter",
+   "labels": [
+    "MESSY GRAY SKETCH",
+    "BRIGHT WATERCOLOR"
+   ]
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "continue": true,
+  "explainedBy": "The same pair stays; the point is the gray one is not a mistake.",
+  "storyboard": {
+   "claim": "The gray drawing is not a mistake.",
+   "concreteVisual": "Same two panels held.",
+   "onScreenText": "none",
+   "relationToPrevious": "Holds the pair while the takeaway is said.",
+   "addedInformation": "weak: stage kept; the point is spoken."
+  }
+ },
+ {
+  "i": 101,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "RUNNING AWAY FROM GRAY DRAWINGS",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "worried",
+  "partnerAction": "idle",
+  "explainedBy": "It is just information; we run from gray drawings thinking we failed.",
+  "storyboard": {
+   "claim": "Gray drawings are just information; we run from them fearing failure.",
+   "concreteVisual": "Host B explaining, Host A uneasy.",
+   "onScreenText": "RUNNING AWAY FROM GRAY DRAWINGS",
+   "relationToPrevious": "Moves from the image to the habit.",
+   "addedInformation": "weak: commentary."
+  }
+ },
+ {
+  "i": 102,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "A CHAOTIC, LOUD RESTAURANT",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "sit",
+  "explainedBy": "You sit in a severely chaotic restaurant (the cafe set).",
+  "storyboard": {
+   "claim": "Picture sitting in a chaotic, deafeningly loud restaurant.",
+   "concreteVisual": "The reader seated in a crowded cafe.",
+   "onScreenText": "A CHAOTIC, LOUD RESTAURANT",
+   "relationToPrevious": "Starts the worked example.",
+   "addedInformation": "The cafe set places the viewer in the scene."
+  }
+ },
+ {
+  "i": 103,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "TABLES CRAMMED TOGETHER",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "sit",
+  "continue": true,
+  "explainedBy": "Same restaurant; the tables are crammed together and stress builds.",
+  "storyboard": {
+   "claim": "Tables elbow to elbow, stressful.",
+   "concreteVisual": "Same reader and cafe.",
+   "onScreenText": "TABLES CRAMMED TOGETHER",
+   "relationToPrevious": "Adds the crowding.",
+   "addedInformation": "weak: same scene, added detail."
+  }
+ },
+ {
+  "i": 104,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "CHEWING SO LOUDLY",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "reader",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "sit",
+  "partnerExpression": "neutral",
+  "partnerAction": "talk",
+  "explainedBy": "The neighbor chews loudly beside the reader.",
+  "storyboard": {
+   "claim": "The next-table person chews audibly over the music.",
+   "concreteVisual": "Reader seated, a loud neighbor beside.",
+   "onScreenText": "CHEWING SO LOUDLY",
+   "relationToPrevious": "Adds the neighbor.",
+   "addedInformation": "The second person is the loud neighbor."
+  }
+ },
+ {
+  "i": 105,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "WHITE KNUCKLING THE NAPKIN",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "explainedBy": "The reader grips the napkin and thinks I hate this place.",
+  "storyboard": {
+   "claim": "Clenching a napkin and hating the place and noise.",
+   "concreteVisual": "Reader angry with fists clenched.",
+   "onScreenText": "WHITE KNUCKLING THE NAPKIN",
+   "relationToPrevious": "His reaction.",
+   "addedInformation": "The angry clenched hold shows the reaction."
+  }
+ },
+ {
+  "i": 106,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "I HATE THIS PERSON",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "hold",
+  "continue": true,
+  "explainedBy": "He keeps clenching; the book calls this awful dinner contrast.",
+  "storyboard": {
+   "claim": "I hate this person; the book names it contrast.",
+   "concreteVisual": "Same angry reader.",
+   "onScreenText": "I HATE THIS PERSON",
+   "relationToPrevious": "Keeps the stage.",
+   "addedInformation": "weak: held stage."
+  }
+ },
+ {
+  "i": 107,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "CONTRAST",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "neutral",
+  "action": "point",
+  "explainedBy": "Host B names the negative stuff as contrast.",
+  "storyboard": {
+   "claim": "Annoying people, bad situations and broken cars are contrast.",
+   "concreteVisual": "Host B naming the word.",
+   "onScreenText": "CONTRAST",
+   "relationToPrevious": "Gives the experience its name.",
+   "addedInformation": "weak: a definition."
+  }
+ },
+ {
+  "i": 108,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "THE REASON WE'RE HERE",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "ellen"
+  ],
+  "expression": "surprised",
+  "action": "talk",
+  "explainedBy": "Host A is startled that contrast is the primary reason for being here.",
+  "storyboard": {
+   "claim": "Contrast is the reason we are here in a body.",
+   "concreteVisual": "Host A surprised.",
+   "onScreenText": "THE REASON WE'RE HERE",
+   "relationToPrevious": "Her reaction.",
+   "addedInformation": "weak: a reaction."
+  }
+ },
+ {
+  "i": 109,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "GRAY DRAWING",
+    "NECESSARY DATA",
+    "BRIGHT WATERCOLOR"
+   ]
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "Cause to effect: the gray drawing is the data you need to draw the watercolor.",
+  "storyboard": {
+   "claim": "The gray drawing is data for drawing the watercolor.",
+   "concreteVisual": "A flow from GRAY DRAWING to NECESSARY DATA to BRIGHT WATERCOLOR.",
+   "onScreenText": "GRAY DRAWING / NECESSARY DATA / BRIGHT WATERCOLOR",
+   "relationToPrevious": "Turns the image into a chain.",
+   "addedInformation": "The flow shows contrast feeding creation."
+  }
+ },
+ {
+  "i": 110,
+  "concept": "target",
+  "diagram": null,
+  "callout": {
+   "text": "WHAT YOU TRULY WANT",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "You cannot know what you want until you experience what you do not (the target is the want).",
+  "storyboard": {
+   "claim": "You cannot know what you want until you feel what you don't.",
+   "concreteVisual": "Host B beside a target icon.",
+   "onScreenText": "WHAT YOU TRULY WANT",
+   "relationToPrevious": "Generalizes the chain.",
+   "addedInformation": "The target stands for the want."
+  }
+ },
+ {
+  "i": 111,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Jerry is in his 33rd year",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "surprised",
+  "partnerAction": "idle",
+  "explainedBy": "Host B introduces the Jerry Hicks fighting story.",
+  "storyboard": {
+   "claim": "Jerry in his 33rd year realized he was constantly in fights.",
+   "concreteVisual": "Host B telling, Host A recognizing the story.",
+   "onScreenText": "Jerry is in his 33rd year",
+   "relationToPrevious": "Starts the story.",
+   "addedInformation": "weak: story setup."
+  }
+ },
+ {
+  "i": 112,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Jerry was in fights",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "fighting",
+  "partnerExpression": "angry",
+  "partnerAction": "fighting",
+  "explainedBy": "Jerry fights people physically and verbally; shown as a scuffle.",
+  "storyboard": {
+   "claim": "Jerry fought people week after week.",
+   "concreteVisual": "Two figures in a scuffle.",
+   "onScreenText": "Jerry was in fights",
+   "relationToPrevious": "Dramatizes the story.",
+   "addedInformation": "The fight is shown as a deed."
+  }
+ },
+ {
+  "i": 113,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "HATED HURTING PEOPLE",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "reader"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "partnerExpression": "sad",
+  "partnerAction": "slump",
+  "explainedBy": "After the fighting he realized he hated hurting people and being hurt.",
+  "storyboard": {
+   "claim": "From the pain, he realized he hated hurting and being hurt.",
+   "concreteVisual": "Both figures slumped and sad after the fight.",
+   "onScreenText": "HATED HURTING PEOPLE",
+   "relationToPrevious": "Fight ends in a realization.",
+   "addedInformation": "Fighting poses become slumped faces."
+  }
+ },
+ {
+  "i": 114,
+  "concept": "lightbulb",
+  "diagram": null,
+  "callout": {
+   "text": "A NEW POINT OF ATTRACTION",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "surprised",
+  "action": "talk",
+  "explainedBy": "The painful contrast birthed a new point of attraction (the lightbulb is the realization).",
+  "storyboard": {
+   "claim": "The contrast birthed a new vibrant point of attraction.",
+   "concreteVisual": "Host B with a lightbulb.",
+   "onScreenText": "A NEW POINT OF ATTRACTION",
+   "relationToPrevious": "Realization becomes an idea.",
+   "addedInformation": "The bulb marks the new idea."
+  }
+ },
+ {
+  "i": 115,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "DESIRE FOR PEACE",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Without the fighting he would not have wanted peace.",
+  "storyboard": {
+   "claim": "Fighting launched a desire for peace and understanding.",
+   "concreteVisual": "Host B calm and happy.",
+   "onScreenText": "DESIRE FOR PEACE",
+   "relationToPrevious": "Result of the realization.",
+   "addedInformation": "weak: calm face."
+  }
+ },
+ {
+  "i": 116,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "THE UNIVERSE PUNISHING YOU",
+   "style": "strike"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "happy",
+  "partnerAction": "idle",
+  "explainedBy": "Contrast is not punishment; the struck phrase is the rejected reading.",
+  "storyboard": {
+   "claim": "Contrast is not the universe punishing you.",
+   "concreteVisual": "Host B explaining, Host A relieved.",
+   "onScreenText": "THE UNIVERSE PUNISHING YOU (struck)",
+   "relationToPrevious": "Reframes the story.",
+   "addedInformation": "The strike marks the rejected reading."
+  }
+ },
+ {
+  "i": 117,
+  "concept": "food",
+  "diagram": null,
+  "callout": {
+   "text": "A DIVERSE BUFFET OF OPTIONS",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "The universe provides a buffet of options to find your tastes (plate icon).",
+  "storyboard": {
+   "claim": "Contrast is a buffet of options to find tastes.",
+   "concreteVisual": "Host B beside a plate icon.",
+   "onScreenText": "A DIVERSE BUFFET OF OPTIONS",
+   "relationToPrevious": "Gives the reframe its image.",
+   "addedInformation": "The plate shows options to choose from."
+  }
+ },
+ {
+  "i": 118,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Is an abusive job still contrast?",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "reader",
+   "ellen"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "partnerExpression": "worried",
+  "partnerAction": "idle",
+  "explainedBy": "Host A objects: is an abusive job just contrast and good for me?",
+  "storyboard": {
+   "claim": "Calling an abusive job or toxic relationship contrast sounds like enduring misery.",
+   "concreteVisual": "Slumped reader at the office, Host A worried.",
+   "onScreenText": "Is an abusive job still contrast?",
+   "relationToPrevious": "Her pushback.",
+   "addedInformation": "The slumped reader shows who would suffer."
+  }
+ },
+ {
+  "i": 119,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "DANGEROUS IF MISUNDERSTOOD",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "partnerExpression": "worried",
+  "partnerAction": "idle",
+  "explainedBy": "Both agree it sounds dangerous if misunderstood; the text clarifies.",
+  "storyboard": {
+   "claim": "It sounds dangerous if misunderstood, but the text clarifies.",
+   "concreteVisual": "Both hosts concerned.",
+   "onScreenText": "DANGEROUS IF MISUNDERSTOOD",
+   "relationToPrevious": "Bridges to the clarification.",
+   "addedInformation": "weak: agreement."
+  }
+ }
+]

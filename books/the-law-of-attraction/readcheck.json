@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-12T11:35:29.001Z",
+  "n": 293,
+  "total": 293,
+  "sources": [
+    "readcheck",
+    "recheck-1"
+  ],
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "the-law-of-attraction-prep-6396a11de107",
+    "folders": {
+      "readcheck": {
+        "run": "the-law-of-attraction-prep-6396a11de107",
+        "evidenceSha256": "c35c32ba688cd97c4ef38769b21d3a8c9de54bc0100f2c4c23c639501badf284"
+      },
+      "recheck-1": {
+        "run": "the-law-of-attraction-prep-d550f29153a0",
+        "evidenceSha256": "c53bf52a99a69c1d4fd8a09993201e95233b389f097da3ca19759c8bc3c87fe6"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 277,
+    "NEUTRAL": 16,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {
+    "words": 5,
+    "body": 2,
+    "nothing-fits": 2,
+    "people": 1,
+    "diagram": 3,
+    "icon": 2,
+    "face": 1
+  },
+  "iconBlame": {
+    "heart": 1,
+    "gift": 1
+  },
+  "beats": [
+    {
+      "i": 0,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess reads the order as surprising news, missing that worry sends out a request for more of the problem.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "AN ORDER FOR MORE"
+    },
+    {
+      "i": 1,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "The phone prop suggests a phone-based routine, not the general think-positive habit.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE THINK-POSITIVE ROUTINE"
+    },
+    {
+      "i": 13,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Pointing at a claim about attention conveys little of the actual claim.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A CLAIM ABOUT ATTENTION"
+    },
+    {
+      "i": 34,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "A clock reading 6:30 misses the radio-dial tuning idea.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The clock reads 6:30"
+    },
+    {
+      "i": 44,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Cafe talk about a roadblock says nothing of what the roadblock is.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE COMMON ROADBLOCK"
+    },
+    {
+      "i": 47,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The label alone gives no meaning of disaster-focused attraction.",
+      "from": "readcheck",
+      "concept": "water",
+      "callout": "POINT OF ATTRACTION"
+    },
+    {
+      "i": 54,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Guess invents a cafe conversation with an unconvinced listener and misses the point that faking a smile is exhausting.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "FAKING A SMILE"
+    },
+    {
+      "i": 81,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Posture gives only a vague sense, missing the revenge-feels-good setup.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "SOMEONE WHO WRONGED ME"
+    },
+    {
+      "i": 100,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Sketch-before-watercolor ordering misses that the gray drawing is not a mistake.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 153,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "The heart icon suggests love rather than the idea that wanting is not lack.",
+      "from": "readcheck",
+      "concept": "heart",
+      "callout": "You cannot escape desire"
+    },
+    {
+      "i": 159,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "The wrapped gift adds an eager-unwrapping idea the narration does not make.",
+      "from": "readcheck",
+      "concept": "gift",
+      "callout": "Keep the child image"
+    },
+    {
+      "i": 177,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Only a lone starting node shows, so the point about overriding belief is not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 232,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "The smirk and 'he' attribution distort the speaker's moment of objection turning to Abraham's answer.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Without a plan"
+    },
+    {
+      "i": 263,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The trap is only called a worry, without saying what the trap is.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The you attracted it trap"
+    },
+    {
+      "i": 290,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Labelled buckets suggest categories collected rather than topics the hour broke down, so the meaning is vague.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 292,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The compass reading is shown but the guess adds an attention direction not stated; the core meaning is only partly carried.",
+      "from": "readcheck",
+      "concept": "compass",
+      "callout": "NEXT READING OF YOUR COMPASS"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 11,
+    "wrong": [],
+    "neutral": [],
+    "cleared": 11,
+    "unread": []
+  }
+}

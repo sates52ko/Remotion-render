@@ -1,0 +1,998 @@
+[
+ {
+  "i": 42,
+  "concept": "water",
+  "diagram": null,
+  "callout": {
+   "text": "WATER THROUGH THE CEILING",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "afraid",
+  "action": "talk",
+  "explainedBy": "The reader wakes to a leak and an overdrawn account: two real disasters shown as the water icon over a frightened person.",
+  "storyboard": {
+   "claim": "Real problems like a ceiling leak or an overdrawn account seem to demand focus.",
+   "concreteVisual": "The reader in the kitchen, afraid, with water pouring in beside him.",
+   "onScreenText": "WATER THROUGH THE CEILING",
+   "relationToPrevious": "Opens the objection: the hosts leave the theory for a concrete crisis.",
+   "addedInformation": "Gives the objection a physical emergency instead of an abstract worry."
+  }
+ },
+ {
+  "i": 43,
+  "concept": "water",
+  "diagram": null,
+  "callout": {
+   "text": "FOCUS ON THE DISASTER",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "explainedBy": "The same kitchen stays; the reader argues he must stare at the problem to solve it.",
+  "storyboard": {
+   "claim": "He says he must intensely focus on the disaster to orchestrate a fix.",
+   "concreteVisual": "The same reader, still under the leak, now arguing his case.",
+   "onScreenText": "FOCUS ON THE DISASTER",
+   "relationToPrevious": "Same stage; his face moves from fear to insistence.",
+   "addedInformation": "Turns the leak into his argument that focus on a negative is necessary."
+  }
+ },
+ {
+  "i": 44,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "THE COMMON ROADBLOCK",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "The asker presses the objection while the explainer listens: one side pushes, the other receives it.",
+  "storyboard": {
+   "claim": "You cannot ignore a flooded kitchen; this is the most common roadblock to the material.",
+   "concreteVisual": "Host A pressing her point, Host B listening across from her.",
+   "onScreenText": "THE COMMON ROADBLOCK",
+   "relationToPrevious": "Back from the kitchen to the two hosts.",
+   "addedInformation": "Names the objection as the one everybody hits."
+  }
+ },
+ {
+  "i": 45,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "FORCEFUL FOCUS",
+    "PROBLEM DEEPER"
+   ],
+   "values": []
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "Cause to effect: forceful attention on a problem invites the problem deeper instead of fixing it.",
+  "storyboard": {
+   "claim": "Abraham argues forceful attention on a problem invites it deeper rather than fixing it.",
+   "concreteVisual": "A two-step flow from FORCEFUL FOCUS to PROBLEM DEEPER.",
+   "onScreenText": "FORCEFUL FOCUS -> PROBLEM DEEPER",
+   "relationToPrevious": "The hosts answer the objection with a cause and effect.",
+   "addedInformation": "Shows the book is claiming attention makes the problem grow."
+  }
+ },
+ {
+  "i": 46,
+  "concept": "water",
+  "diagram": null,
+  "callout": {
+   "text": "CALL A PLUMBER",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "hold",
+  "holds": "phone",
+  "explainedBy": "The book does not say ignore the leak: the reader picks up the phone to call a plumber.",
+  "storyboard": {
+   "claim": "They are not saying ignore the leak; you call a plumber.",
+   "concreteVisual": "The reader in the kitchen holding a phone, the leak beside him.",
+   "onScreenText": "CALL A PLUMBER",
+   "relationToPrevious": "Back to the kitchen to show the sensible action.",
+   "addedInformation": "Separates acting on the problem from obsessing over it."
+  }
+ },
+ {
+  "i": 47,
+  "concept": "water",
+  "diagram": null,
+  "callout": {
+   "text": "POINT OF ATTRACTION",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "afraid",
+  "action": "slump",
+  "holds": "phone",
+  "explainedBy": "Staring at the leak in paralysis instead of acting: the same kitchen, his posture now collapsed.",
+  "storyboard": {
+   "claim": "Standing there obsessing over damage and cost makes disaster your point of attraction.",
+   "concreteVisual": "The reader slumped and frozen, still holding the phone, staring at the leak.",
+   "onScreenText": "POINT OF ATTRACTION",
+   "relationToPrevious": "Same stage; he stops acting and just stares.",
+   "addedInformation": "Contrasts the plumber call with paralysed obsessing."
+  }
+ },
+ {
+  "i": 48,
+  "concept": "home",
+  "diagram": null,
+  "callout": {
+   "text": "A DRY SAFE HOUSE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "surprised",
+  "partnerAction": "idle",
+  "explainedBy": "The explainer gives the book's rule: look at the problem only long enough to define the wanted solution, a safe dry house.",
+  "storyboard": {
+   "claim": "Look at the problem only long enough to define the solution you want: a dry safe house.",
+   "concreteVisual": "Host B explaining beside a house icon while Host A realizes.",
+   "onScreenText": "A DRY SAFE HOUSE",
+   "relationToPrevious": "From the leak to the solution the text wants you to picture.",
+   "addedInformation": "Gives the wanted solution a concrete image: the house."
+  }
+ },
+ {
+  "i": 49,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "TUNE TO THE RELIEF",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "happy",
+  "partnerAction": "idle",
+  "explainedBy": "After defining the solution, you tune your feeling to its relief; staring at the problem amplifies it.",
+  "storyboard": {
+   "claim": "Tune your emotional dial to the relief of the solution; forceful focus amplifies the problem.",
+   "concreteVisual": "Both hosts calm and smiling as the relief is described.",
+   "onScreenText": "TUNE TO THE RELIEF",
+   "relationToPrevious": "Continues the explanation in the same room.",
+   "addedInformation": "Adds the second step: feel the relief, not the problem."
+  }
+ },
+ {
+  "i": 50,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "ATTENTION",
+    "WHAT I FEEL",
+    "WHAT I NOTICE"
+   ],
+   "values": []
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "The core thesis as a chain: attention sets the feeling and the feeling sets what you notice next.",
+  "storyboard": {
+   "claim": "Attention dictates what I feel and what I feel dictates what I notice next.",
+   "concreteVisual": "A three-step flow from ATTENTION to WHAT I FEEL to WHAT I NOTICE.",
+   "onScreenText": "ATTENTION -> WHAT I FEEL -> WHAT I NOTICE",
+   "relationToPrevious": "Summarizes the previous beats as one chain.",
+   "addedInformation": "Ties the leak example back to the core thesis."
+  }
+ },
+ {
+  "i": 51,
+  "concept": "water",
+  "diagram": null,
+  "callout": {
+   "text": "THE SMELL OF MOLD",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "afraid",
+  "action": "slump",
+  "explainedBy": "Focused on the leak, he notices more disasters: drywall bubbling, the smell of mold.",
+  "storyboard": {
+   "claim": "Staying focused on the leak, I just notice more disasters: bubbling drywall, mold.",
+   "concreteVisual": "The reader afraid in the kitchen under the leak.",
+   "onScreenText": "THE SMELL OF MOLD",
+   "relationToPrevious": "Back to the kitchen to show the effect of the thesis.",
+   "addedInformation": "Shows noticing more disasters as the result of the focus."
+  }
+ },
+ {
+  "i": 52,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "LOUD GRATING STATIC",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "explainedBy": "The stressed driver wrenches the radio dial and gets nothing but static: the road scene is the radio metaphor.",
+  "storyboard": {
+   "claim": "I am the stressed driver wrenching the dial between stations getting only static.",
+   "concreteVisual": "The reader as an angry driver on the highway.",
+   "onScreenText": "LOUD GRATING STATIC",
+   "relationToPrevious": "Switches from the kitchen to the radio metaphor.",
+   "addedInformation": "Makes the static literal: a frustrated driver."
+  }
+ },
+ {
+  "i": 53,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "TUNE TO THE MUSIC",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "highway",
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "idle",
+  "explainedBy": "The same driver stops wrestling the dial: anger turns to calm as he tunes to the music he wants.",
+  "storyboard": {
+   "claim": "Stop wrestling with the dial, breathe, and tune smoothly to the music you want.",
+   "concreteVisual": "The same driver, now relaxed and smiling.",
+   "onScreenText": "TUNE TO THE MUSIC",
+   "relationToPrevious": "Same road; his face changes from angry to calm.",
+   "addedInformation": "Gives the static story its resolution."
+  }
+ },
+ {
+  "i": 54,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "FAKING A SMILE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host A asks why a faked smile is exhausting; the mask icon and her forced smile show the pretending.",
+  "storyboard": {
+   "claim": "Why does faking a smile when deeply miserable feel so exhausting?",
+   "concreteVisual": "Host A with a forced smile beside a mask while Host B listens.",
+   "onScreenText": "FAKING A SMILE",
+   "relationToPrevious": "New question that follows the tune-your-frequency idea.",
+   "addedInformation": "Introduces the fake smile as the thing being questioned (her smile is forced)."
+  }
+ },
+ {
+  "i": 55,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "FIGHTING YOUR OWN COMPASS",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host B answers: faking means fighting your internal navigation system, shown as the compass.",
+  "storyboard": {
+   "claim": "You are aggressively fighting your own internal navigation system.",
+   "concreteVisual": "Host B explaining beside a compass.",
+   "onScreenText": "FIGHTING YOUR OWN COMPASS",
+   "relationToPrevious": "Answers the question of the previous beat.",
+   "addedInformation": "Introduces the compass as the inner navigation system."
+  }
+ },
+ {
+  "i": 56,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "ANTIQUE BRASS COMPASS",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host A offers a picture: a heavy antique brass compass, drawn on screen.",
+  "storyboard": {
+   "claim": "At war with your own mechanics; imagine a heavy antique brass pocket compass.",
+   "concreteVisual": "Host A describing the compass icon.",
+   "onScreenText": "ANTIQUE BRASS COMPASS",
+   "relationToPrevious": "Switches speaker to introduce the visual.",
+   "addedInformation": "Makes the metaphor object visible."
+  }
+ },
+ {
+  "i": 57,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "A FEELING SCALE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "cafe",
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "The same compass, but its face is a feeling scale rather than compass points.",
+  "storyboard": {
+   "claim": "The compass face has a feeling scale instead of north, east and west.",
+   "concreteVisual": "The same compass icon with Host A describing it.",
+   "onScreenText": "A FEELING SCALE",
+   "relationToPrevious": "Same stage; the compass gets its meaning.",
+   "addedInformation": "States what the compass measures."
+  }
+ },
+ {
+  "i": 58,
+  "concept": null,
+  "diagram": {
+   "type": "spectrum",
+   "labels": [
+    "DESPAIR",
+    "RELIEF AND JOY"
+   ],
+   "values": [
+    0.5
+   ]
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "The compass scale: absolute despair at the bottom and relief and joy at the top.",
+  "storyboard": {
+   "claim": "At the top absolute relief and joy, at the bottom despair and powerlessness.",
+   "concreteVisual": "A spectrum from DESPAIR to RELIEF AND JOY.",
+   "onScreenText": "DESPAIR <-> RELIEF AND JOY",
+   "relationToPrevious": "Turns the described compass face into a scale.",
+   "addedInformation": "Shows the two ends of the feeling scale."
+  }
+ },
+ {
+  "i": 59,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "A PRECISION INSTRUMENT",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Negative emotions are a reading from an instrument, not a disease to cure or mask.",
+  "storyboard": {
+   "claim": "We treat negative emotions as a disease to cure or mask, not a precision instrument.",
+   "concreteVisual": "Host B with the compass behind him as the instrument.",
+   "onScreenText": "A PRECISION INSTRUMENT",
+   "relationToPrevious": "Back to hosts with the compass as the instrument.",
+   "addedInformation": "Reframes feelings as readings."
+  }
+ },
+ {
+  "i": 60,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "IT'S 11 P.M.",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "explainedBy": "The reader is still at work at 11 p.m.: the clock beside a tired person.",
+  "storyboard": {
+   "claim": "It is 11 p.m. and you are in a real-life situation.",
+   "concreteVisual": "The reader tired in the office with a clock.",
+   "onScreenText": "IT'S 11 P.M.",
+   "relationToPrevious": "Moves from the metaphor to real life.",
+   "addedInformation": "Sets the time of the late night grind."
+  }
+ },
+ {
+  "i": 61,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "BRIGHT EXCEL SPREADSHEET",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "sit",
+  "explainedBy": "Same office and clock: alone, staring at a spreadsheet, eyes burning.",
+  "storyboard": {
+   "claim": "Alone in the home office staring at a bright spreadsheet, eyes burning.",
+   "concreteVisual": "The same reader seated at the desk in the late hour.",
+   "onScreenText": "BRIGHT EXCEL SPREADSHEET",
+   "relationToPrevious": "Same stage; he sits down to the work.",
+   "addedInformation": "Adds the lonely work and physical strain."
+  }
+ },
+ {
+  "i": 62,
+  "concept": "clock",
+  "diagram": null,
+  "callout": {
+   "text": "I HAVE TO BE POSITIVE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "explainedBy": "He mutters through gritted teeth that he has to be positive: the face is clenched.",
+  "storyboard": {
+   "claim": "Back aching, he mutters through gritted teeth that he must finish and be positive.",
+   "concreteVisual": "The same reader with a clenched angry face, talking.",
+   "onScreenText": "I HAVE TO BE POSITIVE",
+   "relationToPrevious": "Same stage; the face tightens.",
+   "addedInformation": "Shows the forced positivity as a clenched jaw."
+  }
+ },
+ {
+  "i": 63,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "PLASTIC POSITIVITY",
+   "style": "reveal"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "He says I love my job while forcing it: a smile worn like the mask.",
+  "storyboard": {
+   "claim": "I am a team player, I love my job: forcing toxic plastic positivity.",
+   "concreteVisual": "The reader smiling beside a mask: a false face.",
+   "onScreenText": "PLASTIC POSITIVITY",
+   "relationToPrevious": "Same office; the smile is put on.",
+   "addedInformation": "Shows the smile is worn, not felt."
+  }
+ },
+ {
+  "i": 64,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "SCREAMING IN EXHAUSTION",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "explainedBy": "The mask stays while his body collapses: the forced smile against the exhausted nervous system.",
+  "storyboard": {
+   "claim": "While he forces positivity, every fiber of his nervous system screams in exhaustion.",
+   "concreteVisual": "The same reader slumped and sad beside the mask.",
+   "onScreenText": "SCREAMING IN EXHAUSTION",
+   "relationToPrevious": "Same stage; the smile drops, the exhaustion shows.",
+   "addedInformation": "Contrasts the false face with the real feeling."
+  }
+ },
+ {
+  "i": 65,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "NOT A BAD WORK ETHIC",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host B reads the compass for the late-night worker: exhaustion is a reading, not a weakness.",
+  "storyboard": {
+   "claim": "Exhaustion and resentment are not random misfires or a sign of weakness.",
+   "concreteVisual": "Host B explaining beside the compass.",
+   "onScreenText": "NOT A BAD WORK ETHIC",
+   "relationToPrevious": "Back to the hosts to interpret the late night.",
+   "addedInformation": "Rereads the feeling as a signal."
+  }
+ },
+ {
+  "i": 66,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "Feelings signal your inner self",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "The compass gauges your relationship with your inner being.",
+  "storyboard": {
+   "claim": "Emotions are a physical indication of your relationship with your inner being.",
+   "concreteVisual": "The same hosts and compass.",
+   "onScreenText": "Feelings signal your inner self",
+   "relationToPrevious": "Same stage; the compass gets its reference.",
+   "addedInformation": "Names what the feelings point to."
+  }
+ },
+ {
+  "i": 67,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "What does inner being mean?",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host A asks for a definition; the asker and the explainer are the relationship.",
+  "storyboard": {
+   "claim": "That sounds esoteric; what does inner being actually mean here?",
+   "concreteVisual": "Host A asking, Host B listening.",
+   "onScreenText": "What does inner being mean?",
+   "relationToPrevious": "Host A challenges the new term.",
+   "addedInformation": "Asks for a plain definition."
+  }
+ },
+ {
+  "i": 68,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "THE NON-PHYSICAL PART",
+   "style": "highlight"
+  },
+  "noVisual": "a broader non-physical part of you has no icon in the vocabulary",
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host B defines inner being as the broader non-physical part of you; only text can carry it.",
+  "storyboard": {
+   "claim": "Your inner being is the broader non-physical part of you.",
+   "concreteVisual": "Host B answering Host A.",
+   "onScreenText": "THE NON-PHYSICAL PART",
+   "relationToPrevious": "Answers the question of the previous beat.",
+   "addedInformation": "Gives the definition (text-led: no icon draws it)."
+  }
+ },
+ {
+  "i": 69,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "FORCING A SMILE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "sit",
+  "explainedBy": "At the desk he forces a smile while feeling miserable: the mask worn over his real face.",
+  "storyboard": {
+   "claim": "Forcing a smile at the desk while internally feeling miserable.",
+   "concreteVisual": "The reader smiling with a mask beside him.",
+   "onScreenText": "FORCING A SMILE",
+   "relationToPrevious": "Moves from the definition to the desk example.",
+   "addedInformation": "Shows the faked happiness the definition is applied to."
+  }
+ },
+ {
+  "i": 70,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "FORCED SMILE",
+    "OUT OF ALIGNMENT"
+   ],
+   "values": []
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "The forced smile puts the conscious thought out of alignment with the inner being.",
+  "storyboard": {
+   "claim": "Conscious thought is out of alignment with your inner being.",
+   "concreteVisual": "A flow from FORCED SMILE to OUT OF ALIGNMENT.",
+   "onScreenText": "FORCED SMILE -> OUT OF ALIGNMENT",
+   "relationToPrevious": "Turns the desk example into a cause and effect.",
+   "addedInformation": "Names the misalignment as the effect."
+  }
+ },
+ {
+  "i": 71,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "FORCED SMILE",
+    "OUT OF ALIGNMENT",
+    "ENERGETIC FRICTION"
+   ],
+   "values": []
+  },
+  "callout": null,
+  "noVisual": null,
+  "continue": true,
+  "cast": [],
+  "explainedBy": "The same chain grows one step: the exhaustion comes from the friction of that misalignment.",
+  "storyboard": {
+   "claim": "Exhaustion comes from the energetic friction of the misalignment.",
+   "concreteVisual": "The same flow with ENERGETIC FRICTION added.",
+   "onScreenText": "ENERGETIC FRICTION",
+   "relationToPrevious": "Adds one label to the chain.",
+   "addedInformation": "Says where the tiredness comes from."
+  }
+ },
+ {
+  "i": 72,
+  "concept": null,
+  "diagram": {
+   "type": "sorter",
+   "labels": [
+    "FEELS GOOD",
+    "FEELS BAD"
+   ],
+   "values": []
+  },
+  "callout": null,
+  "noVisual": null,
+  "cast": [],
+  "explainedBy": "Despite all the labels, there are only two emotions, sorted into feels good and feels bad.",
+  "storyboard": {
+   "claim": "Fundamentally there are really only two emotions.",
+   "concreteVisual": "A sorter with FEELS GOOD and FEELS BAD.",
+   "onScreenText": "FEELS GOOD / FEELS BAD",
+   "relationToPrevious": "Moves to the emotional guidance system.",
+   "addedInformation": "Reduces every emotion to two."
+  }
+ },
+ {
+  "i": 73,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "COMPASS POINTING TRUE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "happy",
+  "partnerAction": "idle",
+  "explainedBy": "When it feels good the compass points true: joy or relief means alignment.",
+  "storyboard": {
+   "claim": "Joy, eagerness, even a sigh of relief means the compass is pointing true.",
+   "concreteVisual": "Both hosts smiling beside the compass.",
+   "onScreenText": "COMPASS POINTING TRUE",
+   "relationToPrevious": "Takes the good side of the two emotions.",
+   "addedInformation": "Makes feeling good a reading of alignment."
+  }
+ },
+ {
+  "i": 74,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "PERFECT ALIGNMENT",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "partnerExpression": "happy",
+  "partnerAction": "idle",
+  "explainedBy": "The thought matches the inner being: the same compass reading.",
+  "storyboard": {
+   "claim": "Your current thought is in perfect alignment with your broader inner being.",
+   "concreteVisual": "The same hosts and compass.",
+   "onScreenText": "PERFECT ALIGNMENT",
+   "relationToPrevious": "Same stage; states what the true reading means.",
+   "addedInformation": "Says what the good feeling confirms."
+  }
+ },
+ {
+  "i": 75,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "ANGER, FEAR, GUILT",
+   "style": "highlight"
+  },
+  "noVisual": "no icon for an alarm bell or for anger, fear and guilt as signals",
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "talk",
+  "explainedBy": "The bad emotions are shown in a person: an angry reader shows the alarm sounding.",
+  "storyboard": {
+   "claim": "When you feel anger, fear, guilt or resentment, it is a literal alarm bell.",
+   "concreteVisual": "The reader angry in the kitchen.",
+   "onScreenText": "ANGER, FEAR, GUILT",
+   "relationToPrevious": "Turns to the bad side of the two emotions.",
+   "addedInformation": "Names the negative emotions (face and text only)."
+  }
+ },
+ {
+  "i": 76,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "JUST PURE DATA",
+   "style": "highlight"
+  },
+  "noVisual": "no icon reads as an alarm bell or as data",
+  "continue": true,
+  "set": "kitchen",
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "idle",
+  "explainedBy": "The alarm is only information: the reader's face turns from anger to a worried reading.",
+  "storyboard": {
+   "claim": "It is pure data telling you that you are misaligned.",
+   "concreteVisual": "The same reader, face now worried.",
+   "onScreenText": "JUST PURE DATA",
+   "relationToPrevious": "Same stage; the anger becomes a signal.",
+   "addedInformation": "Adds that the bad feeling is information, not a verdict."
+  }
+ },
+ {
+  "i": 77,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "POINTING AWAY FROM DESIRE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Back to the compass: the bad feeling says your focus points away from what you want, so faking cannot work.",
+  "storyboard": {
+   "claim": "Your focus is pointing directly away from what you desire, which is why faking it does not work.",
+   "concreteVisual": "Host B with the compass.",
+   "onScreenText": "POINTING AWAY FROM DESIRE",
+   "relationToPrevious": "Back to the hosts to draw the conclusion.",
+   "addedInformation": "Explains why faking fails."
+  }
+ },
+ {
+  "i": 78,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "NOT THE FAKE SMILE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "sad",
+  "action": "slump",
+  "explainedBy": "The mask is the fake smile; his sad slumped real feeling is what the law responds to.",
+  "storyboard": {
+   "claim": "The law responds to the feeling in your gut, not the fake smile.",
+   "concreteVisual": "The reader sad beside a mask: the true feeling and the false face.",
+   "onScreenText": "NOT THE FAKE SMILE",
+   "relationToPrevious": "Returns to the desk to show the faked smile.",
+   "addedInformation": "Contrasts the gut feeling with the mask."
+  }
+ },
+ {
+  "i": 79,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "DEEP RESENTMENT",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "continue": true,
+  "set": "office",
+  "cast": [
+   "reader"
+  ],
+  "expression": "angry",
+  "action": "idle",
+  "explainedBy": "What the universe reads is the resentment behind the mask, not the words I love my job.",
+  "storyboard": {
+   "claim": "The universe reads the deep resentment, not the words I love my job.",
+   "concreteVisual": "The same reader, face now angry behind the mask.",
+   "onScreenText": "DEEP RESENTMENT",
+   "relationToPrevious": "Same stage; the real feeling shows.",
+   "addedInformation": "Says which one the universe reads."
+  }
+ },
+ {
+  "i": 80,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "A MORAL LOOPHOLE",
+   "style": "highlight"
+  },
+  "noVisual": null,
+  "set": "cafe",
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "smirk",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "partnerAction": "idle",
+  "explainedBy": "Host A pushes back on the idea, Host B invites it: asker against explainer.",
+  "storyboard": {
+   "claim": "A moral loophole: Host A pushes back and Host B says go for it.",
+   "concreteVisual": "Host A with a skeptical smirk, Host B waiting.",
+   "onScreenText": "A MORAL LOOPHOLE",
+   "relationToPrevious": "Host A raises a new objection.",
+   "addedInformation": "Opens the objection about feeling good over something terrible."
+  }
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "schema": "single-relation-selection/1",
+  "policy": "c17-operator-selective-rollout",
+  "maxScenes": null,
+  "chosen": [],
+  "kept": [
+    {
+      "sceneIndex": 8,
+      "keep": "A",
+      "why": "A/B: B 8.3 not above A 16.7"
+    }
+  ]
+}

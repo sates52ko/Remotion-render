@@ -1,0 +1,875 @@
+[
+ {
+  "i": 207,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "My kitchen rots",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "set": "kitchen",
+  "expression": "worried",
+  "action": "point",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A objects: looking only at the lemon lets the dishes pile up and the kitchen rots",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Ignoring the dishes makes the kitchen rot",
+   "concreteVisual": "Host A points in the kitchen, worried, Host B listens",
+   "onScreenText": "My kitchen rots",
+   "relationToPrevious": "new objection",
+   "addedInformation": "weak: objection shown by the pushback pose and text"
+  }
+ },
+ {
+  "i": 208,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Ignoring systemic injustice",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "point",
+  "partnerExpression": "neutral",
+  "explainedBy": "The objection widens from the kitchen to society: looking away from injustice",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Extending the argument to ignoring injustice",
+   "concreteVisual": "Host A keeps pressing the point, Host B listens",
+   "onScreenText": "Ignoring systemic injustice",
+   "relationToPrevious": "same people, wider objection",
+   "addedInformation": "weak: text-led"
+  }
+ },
+ {
+  "i": 209,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Being complicit?",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "angry",
+  "action": "point",
+  "partnerExpression": "worried",
+  "explainedBy": "Host A accuses the philosophy of excusing ignorance and Host B concedes the criticism",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The criticism: it is an excuse for ignoring the world",
+   "concreteVisual": "Host A angry, pointing; Host B worried",
+   "onScreenText": "Being complicit?",
+   "relationToPrevious": "the accusation lands",
+   "addedInformation": "Host B reacts to the accusation"
+  }
+ },
+ {
+  "i": 210,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Abraham addresses this",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus",
+   "ellen"
+  ],
+  "expression": "neutral",
+  "action": "talk",
+  "partnerExpression": "surprised",
+  "explainedBy": "Host B answers: Abraham addresses it head-on, you are not ignoring reality",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Abraham addresses the criticism",
+   "concreteVisual": "Host B explains, Host A leans in surprised",
+   "onScreenText": "Abraham addresses this",
+   "relationToPrevious": "the answer begins",
+   "addedInformation": "Host A reacts to the reply"
+  }
+ },
+ {
+  "i": 211,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Focus on pain",
+    "More pain"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Cause to effect: focusing intensely on pain creates more pain",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Focusing on pain only creates more pain",
+   "concreteVisual": "Flow: Focus on pain to More pain",
+   "onScreenText": "Focus on pain / More pain",
+   "relationToPrevious": "the answer in a cause chain",
+   "addedInformation": "a cause-effect structure"
+  }
+ },
+ {
+  "i": 212,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Stare in despair",
+    "Add your despair",
+    "To the mass"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Staring at problems in despair adds your despair to the mass",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Your despair adds to the collective despair",
+   "concreteVisual": "Flow in three steps",
+   "onScreenText": "Stare in despair / Add your despair / To the mass",
+   "relationToPrevious": "spells out the mechanism",
+   "addedInformation": "adds the collective step"
+  }
+ },
+ {
+  "i": 213,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Selective sifter",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Host B names the alternative: being a selective sifter keeps the vibration high",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "A selective sifter keeps a high vibration",
+   "concreteVisual": "Host B explains, pleased",
+   "onScreenText": "Selective sifter",
+   "relationToPrevious": "names the alternative",
+   "addedInformation": "weak: a person with a label"
+  }
+ },
+ {
+  "i": 214,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "High vibration",
+    "Clarity and power",
+    "Inspired action"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Cause chain: high vibration gives clarity and power and then effective action",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "High vibration leads to clarity, power and action",
+   "concreteVisual": "Flow of three steps",
+   "onScreenText": "High vibration / Clarity and power / Inspired action",
+   "relationToPrevious": "the positive chain",
+   "addedInformation": "result of the sifting"
+  }
+ },
+ {
+  "i": 215,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Stare at the mess",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "kitchen",
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "The Reader staring at the mess feels paralyzed and does nothing",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Staring at the mess paralyzes",
+   "concreteVisual": "Reader slumped in the kitchen, worried",
+   "onScreenText": "Stare at the mess",
+   "relationToPrevious": "start of the dishes example",
+   "addedInformation": "before state: paralysis"
+  }
+ },
+ {
+  "i": 216,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Feeling first",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "kitchen",
+  "expression": "happy",
+  "action": "celebrate",
+  "continue": true,
+  "explainedBy": "Change the feeling first and the action follows: the Reader perks up ready to wash",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Feeling changes first, then action",
+   "concreteVisual": "Same Reader, now lifted and happy in the same kitchen",
+   "onScreenText": "Feeling first",
+   "relationToPrevious": "the face and posture change from stuck to energised",
+   "addedInformation": "after state: energy to act"
+  }
+ },
+ {
+  "i": 217,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Plans breed anxiety",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A asks why detailed plans make us more anxious",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Why step-by-step plans increase anxiety",
+   "concreteVisual": "Host A asks, Host B listens",
+   "onScreenText": "Plans breed anxiety",
+   "relationToPrevious": "new question",
+   "addedInformation": "weak: question"
+  }
+ },
+ {
+  "i": 218,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Specific details",
+    "More doubt"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "More details before you are ready create more doubt",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Early details create doubt",
+   "concreteVisual": "Flow: Specific details to More doubt",
+   "onScreenText": "Specific details / More doubt",
+   "relationToPrevious": "answers the question as cause-effect",
+   "addedInformation": "the cause of anxiety"
+  }
+ },
+ {
+  "i": 219,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "Foggy highway at night",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "highway",
+  "expression": "worried",
+  "action": "idle",
+  "explainedBy": "A traveler drives a pitch black foggy highway",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "A traveler on a foggy night road",
+   "concreteVisual": "Reader on the highway with a road ahead",
+   "onScreenText": "Foggy highway at night",
+   "relationToPrevious": "new picture for the idea",
+   "addedInformation": "introduces the highway metaphor"
+  }
+ },
+ {
+  "i": 220,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "Only the next sign",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "highway",
+  "expression": "neutral",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "All the traveler needs is the next reflective road sign out of the fog",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Only the next sign is needed",
+   "concreteVisual": "Same traveler, same road",
+   "onScreenText": "Only the next sign",
+   "relationToPrevious": "keeps the road, adds the need",
+   "addedInformation": "weak: text-led"
+  }
+ },
+ {
+  "i": 221,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "Demand the entire map",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "highway",
+  "expression": "worried",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "We demand to see the entire map before putting the car in drive",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "We demand the whole map first",
+   "concreteVisual": "Same traveler, worried, same road",
+   "onScreenText": "Demand the entire map",
+   "relationToPrevious": "the contrast to one sign",
+   "addedInformation": "the contrast with the next sign"
+  }
+ },
+ {
+  "i": 222,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "A flawless five-year plan",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "office",
+  "expression": "worried",
+  "action": "hold",
+  "holds": "pen",
+  "explainedBy": "At a desk chewing a pen the Reader tries to map out a flawless five-year plan",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Trying to map a flawless plan",
+   "concreteVisual": "Reader at an office desk holding a pen, worried",
+   "onScreenText": "A flawless five-year plan",
+   "relationToPrevious": "new scene: the desk",
+   "addedInformation": "the plan scenario"
+  }
+ },
+ {
+  "i": 223,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Anticipate every pivot",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "office",
+  "expression": "worried",
+  "action": "hold",
+  "holds": "pen",
+  "continue": true,
+  "explainedBy": "Anticipating every pivot, requirement and market shift",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Trying to foresee everything",
+   "concreteVisual": "Same Reader, same desk, same pen",
+   "onScreenText": "Anticipate every pivot",
+   "relationToPrevious": "same scene, more weight",
+   "addedInformation": "weak: text-led"
+  }
+ },
+ {
+  "i": 224,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Knot of dread",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "set": "office",
+  "expression": "afraid",
+  "action": "hold",
+  "holds": "pen",
+  "continue": true,
+  "explainedBy": "Forcing unknown details onto paper brings a heavy knot of dread",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Dread from forcing unknowns",
+   "concreteVisual": "Same Reader now afraid at the desk",
+   "onScreenText": "Knot of dread",
+   "relationToPrevious": "the face changes to afraid",
+   "addedInformation": "the feeling result"
+  }
+ },
+ {
+  "i": 225,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Too specific",
+    "Massive doubt"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Getting too specific too soon introduces massive doubt",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Specificity too soon creates doubt",
+   "concreteVisual": "Flow: Too specific to Massive doubt",
+   "onScreenText": "Too specific / Massive doubt",
+   "relationToPrevious": "states the mechanism",
+   "addedInformation": "cause-effect of dread"
+  }
+ },
+ {
+  "i": 226,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Five-year plan",
+    "A million hows"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "A five-year plan confronts a million hows you cannot answer",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The plan raises a million unanswered hows",
+   "concreteVisual": "Flow: Five-year plan to A million hows",
+   "onScreenText": "Five-year plan / A million hows",
+   "relationToPrevious": "first step of the chain",
+   "addedInformation": "the hows"
+  }
+ },
+ {
+  "i": 227,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "I do not know how",
+    "That belief brings resistance"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "The belief \"I don't know how\" immediately introduces resistance",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Not knowing how creates resistance",
+   "concreteVisual": "Flow: Don't know how to Resistance",
+   "onScreenText": "I do not know how / That belief brings resistance",
+   "relationToPrevious": "next step of the chain",
+   "addedInformation": "belief to resistance"
+  }
+ },
+ {
+  "i": 228,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Vibration drops",
+    "Point of attraction ruined"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Resistance drops the vibration and ruins the point of attraction",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Resistance drops the vibration",
+   "concreteVisual": "Flow: Vibration drops to Point of attraction ruined",
+   "onScreenText": "Vibration drops / Point of attraction ruined",
+   "relationToPrevious": "last step of the chain",
+   "addedInformation": "the result"
+  }
+ },
+ {
+  "i": 229,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "A brand new red car",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "celebrate",
+  "explainedBy": "Saying \"I want a brand new red car\" starts the engine of creation with excitement",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Wanting the red car brings excitement",
+   "concreteVisual": "Reader excited, celebrating",
+   "onScreenText": "A brand new red car",
+   "relationToPrevious": "start of the red car example",
+   "addedInformation": "the exciting want"
+  }
+ },
+ {
+  "i": 230,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Lack of the means",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "afraid",
+  "action": "slump",
+  "explainedBy": "Adding \"too expensive, bad credit\" halts the creation and panics the Reader",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Focusing on lack halts creation",
+   "concreteVisual": "Reader afraid and slumped, same person after the excitement",
+   "onScreenText": "Lack of the means",
+   "relationToPrevious": "the face turns from excited to panicked",
+   "addedInformation": "the change after the \"but\""
+  }
+ },
+ {
+  "i": 231,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Where's the blueprint?",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "point",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A objects: without a blueprint, feeling good about a car will not make it appear",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Objection: no plan, no car",
+   "concreteVisual": "Host A points, Host B listens",
+   "onScreenText": "Where's the blueprint?",
+   "relationToPrevious": "new objection",
+   "addedInformation": "weak: objection"
+  }
+ },
+ {
+  "i": 232,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Without a plan",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "smirk",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A insists you cannot just sit on the couch and expect the car to appear",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "You cannot sit and wait for a car",
+   "concreteVisual": "Host A skeptical, Host B listens",
+   "onScreenText": "Without a plan",
+   "relationToPrevious": "same objection continues",
+   "addedInformation": "weak: text-led"
+  }
+ },
+ {
+  "i": 233,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Only the what is yours",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Host B answers: the universe handles the blueprint, your only job is the what",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "The universe handles the how",
+   "concreteVisual": "Host B explains with a calm face",
+   "onScreenText": "Only the what is yours",
+   "relationToPrevious": "the answer",
+   "addedInformation": "weak: a person with a label"
+  }
+ },
+ {
+  "i": 234,
+  "concept": null,
+  "diagram": {
+   "type": "flow",
+   "labels": [
+    "Hold the feeling",
+    "Skip the how",
+    "Path of least resistance"
+   ]
+  },
+  "callout": null,
+  "cast": [],
+  "explainedBy": "Holding the feeling without demanding the how lets the universe orchestrate the path of least resistance",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Feeling without the how leads to the easy path",
+   "concreteVisual": "Flow of three steps",
+   "onScreenText": "Hold the feeling / Skip the how / Path of least resistance",
+   "relationToPrevious": "the process in a chain",
+   "addedInformation": "the mechanism of the answer"
+  }
+ },
+ {
+  "i": 235,
+  "concept": "road",
+  "diagram": null,
+  "callout": {
+   "text": "The next road sign",
+   "style": "highlight"
+  },
+  "cast": [],
+  "set": "highway",
+  "explainedBy": "The universe delivers the next road sign, idea and meeting",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "It delivers the next sign",
+   "concreteVisual": "Road icon on the highway",
+   "onScreenText": "The next road sign",
+   "relationToPrevious": "returns to the road image",
+   "addedInformation": "the road as delivery"
+  }
+ },
+ {
+  "i": 236,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Inspired, not forced",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Action inspired by alignment rather than forced by fear",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Inspired action instead of forced",
+   "concreteVisual": "Reader relaxed and happy",
+   "onScreenText": "Inspired, not forced",
+   "relationToPrevious": "contrasts two kinds of action",
+   "addedInformation": "weak: a face and a label"
+  }
+ },
+ {
+  "i": 237,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "Trusting the compass",
+   "style": "highlight"
+  },
+  "cast": [],
+  "set": "highway",
+  "explainedBy": "You drive to the next sign and the next appears: trusting the compass again",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Driving sign to sign is trusting the compass",
+   "concreteVisual": "Compass icon on the highway",
+   "onScreenText": "Trusting the compass",
+   "relationToPrevious": "introduces the compass",
+   "addedInformation": "the compass metaphor"
+  }
+ },
+ {
+  "i": 238,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "Dread says stop",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "worried",
+  "action": "slump",
+  "explainedBy": "The dread of the plan is the compass saying stop, relief at the next sign says go",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Dread means stop, relief means on track",
+   "concreteVisual": "Reader worried beside the compass",
+   "onScreenText": "Dread says stop",
+   "relationToPrevious": "the compass is read through feeling",
+   "addedInformation": "links feeling to the compass"
+  }
+ },
+ {
+  "i": 239,
+  "concept": "compass",
+  "diagram": null,
+  "callout": {
+   "text": "Enough light for the next step",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "happy",
+  "action": "idle",
+  "continue": true,
+  "explainedBy": "Do the next right thing, only enough light for the next step",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Only the next step is needed",
+   "concreteVisual": "Same Reader now relieved, same compass",
+   "onScreenText": "Enough light for the next step",
+   "relationToPrevious": "the face changes from dread to relief",
+   "addedInformation": "the relief state"
+  }
+ },
+ {
+  "i": 240,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Conscious interception",
+   "style": "highlight"
+  },
+  "cast": [
+   "ellen",
+   "marcus"
+  ],
+  "expression": "worried",
+  "action": "talk",
+  "partnerExpression": "neutral",
+  "explainedBy": "Host A asks how to stop old thought habits running every morning",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Stopping default thoughts needs interception",
+   "concreteVisual": "Host A asks, Host B listens",
+   "onScreenText": "Conscious interception",
+   "relationToPrevious": "new question about the habit",
+   "addedInformation": "weak: question"
+  }
+ },
+ {
+  "i": 241,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "One scarf, on purpose",
+   "style": "highlight"
+  },
+  "cast": [
+   "marcus"
+  ],
+  "expression": "happy",
+  "action": "talk",
+  "explainedBy": "Deliberately picking one specific scarf or tie from a cluttered closet",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Choosing clothes on purpose",
+   "concreteVisual": "Host B describing the closet choice",
+   "onScreenText": "One scarf, on purpose",
+   "relationToPrevious": "the choosing analogy",
+   "addedInformation": "weak: text-led analogy"
+  }
+ },
+ {
+  "i": 242,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "We grab thoughts like closet clutter",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "blank",
+  "action": "slump",
+  "explainedBy": "Most of us grab thoughts like whatever falls out of a messy closet",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Grabbing thoughts unthinkingly",
+   "concreteVisual": "Reader blank and slumped",
+   "onScreenText": "We grab thoughts like closet clutter",
+   "relationToPrevious": "contrasts choosing with grabbing",
+   "addedInformation": "the contrast to choosing"
+  }
+ },
+ {
+  "i": 243,
+  "concept": null,
+  "diagram": null,
+  "callout": {
+   "text": "Cold hardwood floor",
+   "style": "highlight"
+  },
+  "cast": [
+   "reader"
+  ],
+  "expression": "blank",
+  "action": "idle",
+  "explainedBy": "We wear whatever stressful mood hits us the moment we wake up",
+  "noVisual": null,
+  "storyboard": {
+   "claim": "Waking to a stressful mood",
+   "concreteVisual": "Reader just awake, blank, feet on the floor",
+   "onScreenText": "Cold hardwood floor",
+   "relationToPrevious": "the morning scene begins",
+   "addedInformation": "introduces the morning scene"
+  }
+ }
+]

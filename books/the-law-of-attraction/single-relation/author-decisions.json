@@ -1,0 +1,27 @@
+[
+  {
+    "sceneIndex": 198,
+    "decision": "skipped",
+    "why": "No stated cause-effect relation: 'For exactly 3 seconds, you stop looking at the dirty dishes' is a timed action, not a because/leads-to claim. The scene already carries its point with the on-screen text '3 SECONDS OF APPRECIATION' and the reader's happy face."
+  },
+  {
+    "sceneIndex": 185,
+    "decision": "skipped",
+    "why": "The narration is a metaphor ('what am I dropping? The desire to make the plane remains intact'), not a causal claim, and the candidate's 'cause' has no drawable entity. The scene already carries the point with 'THE DESIRE REMAINS INTACT' and the two-shot."
+  },
+  {
+    "sceneIndex": 8,
+    "decision": "contract",
+    "why": "Narrator asserts a causal relation with 'because': people exhaust themselves by forcing their thoughts. Both ends are narration words ('their thoughts' as the drawn object, 'exhaust themselves' as the result). The authored scene shows only the text FORCING THOUGHTS and an angry face, so the exhaustion is not shown. Contract is type B, a lightbulb labelled 'their thoughts' with the reader's face changing angry to sad. Validator passes and review verdict is OK."
+  },
+  {
+    "sceneIndex": 264,
+    "decision": "skipped",
+    "why": "The effect ('throw this book across the room') is already shown by the authored scene: action throw with the book held, plus the on-screen text 'SHE HURLS THE BOOK ACROSS THE ROOM'. A contract would duplicate the authored change."
+  },
+  {
+    "sceneIndex": 274,
+    "decision": "skipped",
+    "why": "The relation is not drawable with entities named in the narration: 'past trauma' is a cause, but 'a mechanical vibrational match to events' has no honest object or state that could change on screen. The hedge 'even unconsciously' also weakens the claim. The authored scene stays as it is."
+  }
+]

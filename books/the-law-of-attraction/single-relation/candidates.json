@@ -1,0 +1,213 @@
+{
+ "schema": "single-relation-candidates/1",
+ "slug": "the-law-of-attraction",
+ "at": "2026-11-12T12:46:38.865Z",
+ "capability": "single-relation/1",
+ "level": "Level 1 — default OFF; candidates are proposals, nothing is applied",
+ "scenes": 293,
+ "causalBeats": 17,
+ "listed": 5,
+ "configHash": "16e0588f4d52a88b",
+ "candidates": [
+  {
+   "sceneIndex": 198,
+   "sceneId": "scene-198",
+   "evidence": "For exactly 3 seconds, you stop looking at the dirty dishes.",
+   "cause": "For exactly 3 seconds, you",
+   "effect": "looking at the dirty dishes.",
+   "cue": "stop",
+   "inputHash": "03708be8bc9eab61",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "removal",
+   "expectedUnderstanding": "For exactly 3 seconds, you → looking at the dirty dishes.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 185,
+   "sceneId": "scene-185",
+   "evidence": "The desire to make the plane remains intact.",
+   "cause": "The desire to",
+   "effect": "the plane remains intact.",
+   "cue": "make",
+   "inputHash": "b2933ceb83517953",
+   "currentLimitation": "people + on-screen words only (shot twoShot) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "The desire to → the plane remains intact.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 8,
+   "sceneId": "scene-08",
+   "evidence": "because people just exhaust themselves trying to force their reality to change by forcing their thoughts.",
+   "cause": "because people just exhaust themselves trying to",
+   "effect": "their reality to change by forcing their thoughts.",
+   "cue": "force",
+   "inputHash": "2a7565acbf80a5e7",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "because people just exhaust themselves trying to → their reality to change by forcing their thoughts.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 264,
+   "sceneId": "scene-264",
+   "evidence": "Yes, this is the honest, visceral criticism that makes so many intelligent people throw this book across the room.",
+   "cause": "Yes, this is the honest, visceral criticism that",
+   "effect": "so many intelligent people throw this book across the room.",
+   "cue": "makes",
+   "inputHash": "321ce2637cb74e53",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "Yes, this is the honest, visceral criticism that → so many intelligent people throw this book across the room.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 274,
+   "sceneId": "scene-274",
+   "evidence": "even unconsciously, even due to past trauma, they become a mechanical vibrational match to events that reflect that powerlessness.",
+   "cause": "past trauma, they become a mechanical vibrational match to events",
+   "effect": "even unconsciously, even",
+   "cue": "due to",
+   "inputHash": "3341ce6e65babf07",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "transformation",
+   "expectedUnderstanding": "past trauma, they become a mechanical vibrational match to events → even unconsciously, even",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  }
+ ],
+ "rejected": [
+  {
+   "sceneIndex": 10,
+   "sceneId": "scene-10",
+   "evidence": "First, why worrying actually feels like it actively makes your situation worse.",
+   "cause": "First, why worrying actually feels like it actively",
+   "effect": "your situation worse.",
+   "cue": "makes",
+   "inputHash": "db302a9c71f83904",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 41,
+   "sceneId": "scene-41",
+   "evidence": "am struggling with this a bit because sometimes I actually have to force my focus onto a negative problem to fix it.",
+   "cause": "sometimes I actually have to force my focus onto a",
+   "effect": "am struggling with this a bit",
+   "cue": "because",
+   "inputHash": "88f19b7bfa7c9cd0",
+   "rejectClass": "obligation / advice",
+   "reason": "obligation / advice cue (\"have to\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 53,
+   "sceneId": "scene-53",
+   "evidence": "You have to stop wrestling with the dial.",
+   "cause": "You have to",
+   "effect": "wrestling with the dial.",
+   "cue": "stop",
+   "inputHash": "e573dcadc4a5e899",
+   "rejectClass": "obligation / advice",
+   "reason": "obligation / advice cue (\"have to\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 146,
+   "sceneId": "scene-146",
+   "evidence": "But hold on, I have to challenge this because this philosophy completely contradicts some of the oldest wisdom traditions in human history.",
+   "cause": "this philosophy completely contradicts some of the oldest wisdom traditions",
+   "effect": "But hold on, I have to challenge this",
+   "cue": "because",
+   "inputHash": "34da14ed66454b50",
+   "rejectClass": "obligation / advice",
+   "reason": "obligation / advice cue (\"have to\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 181,
+   "sceneId": "scene-181",
+   "evidence": "Like if I'm in traffic and I just let go of the urgency, I'm accepting failure.",
+   "cause": "Like if I'm in traffic and I just",
+   "effect": "go of the urgency, I'm accepting failure.",
+   "cue": "let",
+   "inputHash": "c1b8149325d986c6",
+   "rejectClass": "conditional",
+   "reason": "conditional cue (\"if\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 183,
+   "sceneId": "scene-183",
+   "evidence": "That fear that if I stop worrying everything will fall apart is exactly what keeps the knuckles white.",
+   "cause": "That fear that if I",
+   "effect": "worrying everything will fall apart is exactly what keeps the",
+   "cue": "stop",
+   "inputHash": "3344b965782d9024",
+   "rejectClass": "conditional",
+   "reason": "conditional cue (\"if\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 203,
+   "sceneId": "scene-203",
+   "evidence": "Looking at a problem, staring at the dirty dishes and feeling like a failure makes you feel bad.",
+   "cause": "Looking at a problem, staring at the dirty dishes and",
+   "effect": "you feel bad.",
+   "cue": "makes",
+   "inputHash": "496afaa03ff53082",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 211,
+   "sceneId": "scene-211",
+   "evidence": "You are refusing to let the negative reality dictate your personal vibration.",
+   "cause": "You are refusing to",
+   "effect": "the negative reality dictate your personal vibration.",
+   "cue": "let",
+   "inputHash": "42a220d21a83ac5a",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 218,
+   "sceneId": "scene-218",
+   "evidence": "Oh, because the more specific details you add before you're ready, the more opportunities you create for doubt to creep into your vibration.",
+   "cause": "Oh, because the more specific details you add before you're",
+   "effect": "for doubt to creep into your vibration.",
+   "cue": "create",
+   "inputHash": "2feddd15816be327",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 224,
+   "sceneId": "scene-224",
+   "evidence": "And as you try to force all these unknown details onto the paper, you just feel a heavy sinking nauseating knot of dread forming in your stomach.",
+   "cause": "And as you try to",
+   "effect": "all these unknown details onto the paper, you just feel",
+   "cue": "force",
+   "inputHash": "3f931d410950de0b",
+   "rejectClass": "planned / hypothetical",
+   "reason": "planned / hypothetical cue (\"try to\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 236,
+   "sceneId": "scene-236",
+   "evidence": "The action you eventually take is inspired by alignment, not forced out of fear and obligation.",
+   "cause": "The action you eventually take is inspired by alignment, not",
+   "effect": "out of fear and obligation.",
+   "cue": "forced",
+   "inputHash": "4815923b60fb490e",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"not\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 266,
+   "sceneId": "scene-266",
+   "evidence": "Telling them that their thoughts caused it doesn't just feel wrong.",
+   "cause": "Telling them that their thoughts",
+   "effect": "it doesn't just feel wrong.",
+   "cue": "caused",
+   "inputHash": "88e9ac574724dc6c",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"doesn't\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  }
+ ]
+}
