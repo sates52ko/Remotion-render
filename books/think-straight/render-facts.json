@@ -1,0 +1,114 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-07T06:31:38.323Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "1445f823",
+      "tools": "8ce1e634",
+      "pin": "1445f8234519",
+      "configHash": "0812b94a7c1f34fe",
+      "renderInputHash": "982677eb75d0ba44",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 350
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "final",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 0,
+          "adds": 30,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Operator accepted preview quality debt (350 review, 0 block) for production render",
+        "covered": 13,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-07T06:30:59.708Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-11-07T09:39:44.042Z",
+      "kind": "technical",
+      "technical": "VERIFIED",
+      "file": "out\\think-straight.mp4",
+      "frames": 70189,
+      "expectedFrames": 70189,
+      "decodes": true,
+      "problems": [],
+      "media": {
+        "narrationFile": "public\\audio\\think-straight.mastered.m4a",
+        "sync": {
+          "verdict": "PASS",
+          "startOffsetSec": 0,
+          "endOffsetSec": 0.0507,
+          "endToleranceSec": 0.076,
+          "audioDiscontinuities": 0,
+          "problems": []
+        },
+        "video": {
+          "packets": 70189,
+          "endSec": 2349.6027,
+          "holds": 179,
+          "chunkHolds": 170,
+          "segmentHolds": 9,
+          "offGridHolds": 0,
+          "stretchSec": 9.969,
+          "stretchPct": 0.426
+        },
+        "audio": {
+          "packets": 110140,
+          "endSec": 2349.6533,
+          "excessOverNarrationSec": 7.753
+        },
+        "joinDropouts": {
+          "status": "DEFECT_REPORTED",
+          "count": 179,
+          "totalSec": 7.097,
+          "maxSec": 0.0639,
+          "filmZeroRuns": 182,
+          "sourceZeroRuns": 4,
+          "first": [
+            13.382,
+            26.792,
+            40.188
+          ]
+        },
+        "loudness": {
+          "integratedLufs": -14.2,
+          "lraLu": 4.6,
+          "samplePeakDbfs": -0.8,
+          "status": "REPORT_ONLY"
+        }
+      },
+      "checkedBy": "8d2285464c2b684c4095d5ad7b2f622c76ad4472",
+      "tools": "8d228546",
+      "pin": "1445f8234519"
+    }
+  ]
+}

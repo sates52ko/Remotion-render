@@ -1,0 +1,3195 @@
+{
+  "slug": "think-straight",
+  "totalSequences": 64,
+  "totalScenes": 269,
+  "averageDurationSecs": 36.6,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "engine",
+      "fromFrame": 5,
+      "durationFrames": 1087,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 5,
+          "durationFrames": 201,
+          "role": "setup",
+          "narration": "You know, you're probably listening to this right now while you're driving or maybe you're uh foldin"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 206,
+          "durationFrames": 375,
+          "role": "question",
+          "narration": "Yeah, walking the dog. And as you're doing that, your brain is just quietly serving you up a thought"
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 581,
+          "durationFrames": 161,
+          "role": "complication",
+          "narration": "intense memory of like an awkward joke you made 3 years ago. Oh, the worst it is."
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 742,
+          "durationFrames": 350,
+          "role": "reveal",
+          "narration": "Or maybe it's just a vague anxiety about the economy. And it's funny to think about the sheer volume"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 1092,
+      "durationFrames": 1202,
+      "durationSeconds": 40.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1092,
+          "durationFrames": 286,
+          "role": "setup",
+          "narration": "American pragmatism, which is fascinating in itself, it is. And if you lay that over modern psycholo"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1378,
+          "durationFrames": 208,
+          "role": "question",
+          "narration": "reality. The human mind produces roughly 50,000 thoughts a 50,000"
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1586,
+          "durationFrames": 260,
+          "role": "partial_answer",
+          "narration": "individual cognitive events. And if you actually audit them, you know, sit down and look at what tho"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1846,
+          "durationFrames": 146,
+          "role": "complication",
+          "narration": "of them are completely useless friction. It is a staggering amount of noise."
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 1992,
+          "durationFrames": 302,
+          "role": "reveal",
+          "narration": "And I think the real danger is how seamlessly it blends into our perception. Like we walk around ass"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "engine",
+      "fromFrame": 2294,
+      "durationFrames": 1126,
+      "durationSeconds": 37.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2294,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "We are experiencing our own unvetted mental rehearsals. We're reacting to a simulation that our brai"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2534,
+          "durationFrames": 180,
+          "role": "question",
+          "narration": "Exactly. We are not drowning in reality. We are drowning in our own involuntary chatter."
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2714,
+          "durationFrames": 224,
+          "role": "partial_answer",
+          "narration": "So, welcome to the deep dive. Today, we are going on a mission to basically upgrade your cognitive h"
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 2938,
+          "durationFrames": 220,
+          "role": "complication",
+          "narration": "Desperately needed for all of us for sure. We are unpacking Darius Fau's framework, Think Straight. "
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3158,
+          "durationFrames": 262,
+          "role": "reveal",
+          "narration": "We want to help you stop being a passenger in your own skull. We want to hand you back the controls."
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "engine",
+      "fromFrame": 3420,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3420,
+          "durationFrames": 266,
+          "role": "setup",
+          "narration": "shift in how you view your own consciousness. The core argument we're going to explore today, the le"
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 3686,
+          "durationFrames": 216,
+          "role": "question",
+          "narration": "You just sit back and observe. Genuine thinking is an active instrument of utility. An active instru"
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 3902,
+          "durationFrames": 327,
+          "role": "complication",
+          "narration": "I want to underline that because it's the heartbeat of this entire conversation. It really is. If a "
+        },
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4229,
+          "durationFrames": 187,
+          "role": "reveal",
+          "narration": "kind of actionable value, letting it run wild in your head is literally just self-inflicted sabotage"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 4416,
+      "durationFrames": 1130,
+      "durationSeconds": 37.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4416,
+          "durationFrames": 324,
+          "role": "setup",
+          "narration": "Oh, completely. And you know, this isn't just some abstract armchair philosophy. This framework was "
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 4740,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "He did. He hit a moment in his life where his brain was so overloaded with useless commentary, so bo"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 4992,
+          "durationFrames": 238,
+          "role": "complication",
+          "narration": "of friction that it physically shut down. And to climb out of that, he didn't go to some like mystic"
+        },
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5230,
+          "durationFrames": 316,
+          "role": "reveal",
+          "narration": "He looked backward. He combined classical stoicism with the American pragmatism of thinkers like Wil"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "engine",
+      "fromFrame": 5546,
+      "durationFrames": 1275,
+      "durationSeconds": 42.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5546,
+          "durationFrames": 365,
+          "role": "setup",
+          "narration": "Good idea. Stoicism from ancient Greece and Rome is basically the ultimate operating system for resi"
+        },
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 5911,
+          "durationFrames": 307,
+          "role": "question",
+          "narration": "which popped up in the late 19th century is just brilliantly utilitarian. Older European philosophie"
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6218,
+          "durationFrames": 281,
+          "role": "complication",
+          "narration": "Getting lost in the weeds. Exactly. But pragmatism basically asked what is the cash value of this id"
+        },
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6499,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "Yes. Cash value of an idea. I love that. So, when you smash those two together, you get this minimal"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 6821,
+      "durationFrames": 981,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6821,
+          "durationFrames": 345,
+          "role": "setup",
+          "narration": "need that manual because the default state of the modern brain is chaos. To understand why we have t"
+        },
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7166,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "the most universal experience on Earth. Picture this. It's late at night. You're lying in bed."
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7351,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "Well, I know where this is going. The bedroom is totally dark. You're staring up at the ceiling. You"
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7567,
+          "durationFrames": 235,
+          "role": "reveal",
+          "narration": "You feel the fatigue in your bones. But your brain, it's just screaming, screaming at you, looping t"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "engine",
+      "fromFrame": 7802,
+      "durationFrames": 968,
+      "durationSeconds": 32.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7802,
+          "durationFrames": 267,
+          "role": "setup",
+          "narration": "What if I fail that presentation? What does my boss actually think of me? Did that text mean she wan"
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8069,
+          "durationFrames": 213,
+          "role": "question",
+          "narration": "Yes. The heart starts racing. We have all been in that bed. Every single one of us. And the mechanis"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8282,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "Evolutionarily, when you're lying in the dark with no immediate physical threats, your brain's defau"
+        },
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8527,
+          "durationFrames": 243,
+          "role": "reveal",
+          "narration": "Exactly. It scans for social and abstract threats. But because this is happening inside your skull, "
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "engine",
+      "fromFrame": 8770,
+      "durationFrames": 986,
+      "durationSeconds": 32.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 8770,
+          "durationFrames": 201,
+          "role": "setup",
+          "narration": "You feel like you're working on a like you're being productive, right? You feel like you're thinking"
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 8971,
+          "durationFrames": 214,
+          "role": "question",
+          "narration": "You're just suffering a biological glitch. The illusion of productivity. It feels important because "
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9185,
+          "durationFrames": 194,
+          "role": "partial_answer",
+          "narration": "Faru actually talks about his own visceral version of this. He had this constant recurring thought o"
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9379,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "just out of nowhere. Out of nowhere. It wasn't tied to a specific disaster. It would just pop up tot"
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 9595,
+          "durationFrames": 161,
+          "role": "reveal",
+          "narration": "Like when he was younger sweating it out playing high school basketball, his brain would whisper, \"J"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "engine",
+      "fromFrame": 9756,
+      "durationFrames": 1279,
+      "durationSeconds": 42.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 9756,
+          "durationFrames": 329,
+          "role": "setup",
+          "narration": "Go Wow. and later running a business dealing with normal stress, the exact same script. Just quit. W"
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10085,
+          "durationFrames": 331,
+          "role": "question",
+          "narration": "It lacks context. It's a biological reflex, not a logical deduction. But for years, those thoughts c"
+        },
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10416,
+          "durationFrames": 283,
+          "role": "complication",
+          "narration": "a deep truth, not just throwing mental static at the wall. Okay, wait. I have to jump in here becaus"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10699,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "If you are having recurring thoughts of quitting like three or four times a month for years, shouldn"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "engine",
+      "fromFrame": 11035,
+      "durationFrames": 1121,
+      "durationSeconds": 37.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11035,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "Listen to your intuition. If my brain keeps telling me to walk away from my business, isn't that my "
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11263,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "I am so glad you brought that up because the gut feeling is one of the most romanticized,"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11448,
+          "durationFrames": 250,
+          "role": "partial_answer",
+          "narration": "misunderstood concepts we have. What you're calling intuition in that scenario is almost always just"
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 11698,
+          "durationFrames": 180,
+          "role": "complication",
+          "narration": "Wait, really? Yes. It is biological fear. Fear of failure, fear of exhaustion."
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 11878,
+          "durationFrames": 278,
+          "role": "reveal",
+          "narration": "So, you're saying intuition is just a Not exactly a lie. True intuition, the kind experts use, is ba"
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "engine",
+      "fromFrame": 12156,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12156,
+          "durationFrames": 331,
+          "role": "setup",
+          "narration": "Like a firefighter gets a gut feeling a floor will collapse and orders everyone out. That is intuiti"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12487,
+          "durationFrames": 401,
+          "role": "question",
+          "narration": "them, that is just the brain seeking the path of least resistance. Wow. Okay. If you surrender to th"
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 12888,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "nervous system is just being lazy. So, how do we combat that in the moment when you're in the bed st"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "engine",
+      "fromFrame": 13152,
+      "durationFrames": 1042,
+      "durationSeconds": 34.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13152,
+          "durationFrames": 286,
+          "role": "setup",
+          "narration": "You remember that thinking is an active instrument of utility. You isolate the thought, I should qui"
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13438,
+          "durationFrames": 201,
+          "role": "question",
+          "narration": "Exactly. Does the thought of quitting serve a useful purpose right now? Does it offer a strategic al"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13639,
+          "durationFrames": 223,
+          "role": "complication",
+          "narration": "Does it solve the cash flow problem? And if the answer is no, you treat it like spam email. You disc"
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 13862,
+          "durationFrames": 332,
+          "role": "reveal",
+          "narration": "You become a ruthless bouncer at the door of your own mind. Bad shoes, you don't get in the club. I "
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "engine",
+      "fromFrame": 14194,
+      "durationFrames": 1149,
+      "durationSeconds": 38.3,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14194,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "Let's go to London 2014. Faru has moved there for a massive opportunity. This story is so stressful."
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14422,
+          "durationFrames": 225,
+          "role": "question",
+          "narration": "It is. Imagine the scene. He's got an SUV parked on the street packed to the roof with moving boxes,"
+        },
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 14647,
+          "durationFrames": 209,
+          "role": "partial_answer",
+          "narration": "He's in a cramped hotel room with his parents who drove all the way from the Netherlands to help him"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 14856,
+          "durationFrames": 185,
+          "role": "complication",
+          "narration": "The land lady of his new apartment cancels his lease the day before the move."
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15041,
+          "durationFrames": 302,
+          "role": "reveal",
+          "narration": "He is in full-blown panic, pacing the carpet, yelling, \"I don't know what to do. I have a van full o"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "engine",
+      "fromFrame": 15343,
+      "durationFrames": 1025,
+      "durationSeconds": 34.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15343,
+          "durationFrames": 286,
+          "role": "setup",
+          "narration": "It's the classic downward spiral. And it feels entirely justified. The sky actually appears to be fa"
+        },
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 15629,
+          "durationFrames": 197,
+          "role": "question",
+          "narration": "But if we apply our framework, the brutal truth emerges. Pity parties have zero utility."
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 15826,
+          "durationFrames": 192,
+          "role": "complication",
+          "narration": "None. The universe does not care how stressed you are. Right? Your stress isn't a currency."
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16018,
+          "durationFrames": 350,
+          "role": "reveal",
+          "narration": "Pacing the room doesn't magically produce a signed lease. In that moment, he was consumed by the nar"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "engine",
+      "fromFrame": 16368,
+      "durationFrames": 1308,
+      "durationSeconds": 43.6,
+      "sceneCount": 6,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 16368,
+          "durationFrames": 199,
+          "role": "setup",
+          "narration": "William Yes. You stop pacing, take a breath, and ask the clinical question, \"What"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 16567,
+          "durationFrames": 185,
+          "role": "partial_answer",
+          "narration": "tangible difference will dwelling on this thought make in my actual physical life right now?\""
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 16752,
+          "durationFrames": 161,
+          "role": "partial_answer",
+          "narration": "The answer being, \"It'll just elevate my blood pressure and ruin my parents' Precisely."
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 16913,
+          "durationFrames": 187,
+          "role": "question",
+          "narration": "So, he forced himself to snap out of it. He applied the pragmatic filter. What is the immediate prob"
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 17100,
+          "durationFrames": 187,
+          "role": "complication",
+          "narration": "I need a place to sleep. What is the active instrument to solve it? Booking a room. Booking an Airbn"
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 17287,
+          "durationFrames": 389,
+          "role": "reveal",
+          "narration": "He got on his laptop, booked a place, and spent a week there instead of agonizing. And the kicker, t"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "engine",
+      "fromFrame": 17676,
+      "durationFrames": 1147,
+      "durationSeconds": 38.2,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 17676,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "stress wasn't just useless. It was for a catastrophe that didn't even happen We suffer more in imagi"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 17928,
+          "durationFrames": 228,
+          "role": "complication",
+          "narration": "We really do. But this idea of pragmatic filtering, choosing your thoughts, can sound a bit like tox"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 18156,
+          "durationFrames": 168,
+          "role": "partial_answer",
+          "narration": "To understand how radical it is, we have to look at William James himself. Yes. Let's go back to 187"
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 18324,
+          "durationFrames": 259,
+          "role": "question",
+          "narration": "The medical landscape back then is incredibly bleak. James is 27, a Harvard grad, a doctor of medici"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 18583,
+          "durationFrames": 240,
+          "role": "reveal",
+          "narration": "But in reality, he is in hell, battling severe paralyzing depression, panic attacks, terrifying"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "engine",
+      "fromFrame": 18823,
+      "durationFrames": 1109,
+      "durationSeconds": 37,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 18823,
+          "durationFrames": 396,
+          "role": "setup",
+          "narration": "And the context of the 1870s is crucial here. The prevailing medical doctrine leaned heavily into bi"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 19219,
+          "durationFrames": 291,
+          "role": "question",
+          "narration": "Exactly. Your destiny was written in your flawed biology. And James genuinely believed that. Yeah. H"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 19510,
+          "durationFrames": 266,
+          "role": "complication",
+          "narration": "Even contemplated suicide for because he saw no exit. But then he's reading an essay by a French phi"
+        },
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 19776,
+          "durationFrames": 156,
+          "role": "reveal",
+          "narration": "free will. And James makes this historyaling breakthrough. This is my favorite part."
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "engine",
+      "fromFrame": 19932,
+      "durationFrames": 1181,
+      "durationSeconds": 39.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 19932,
+          "durationFrames": 360,
+          "role": "setup",
+          "narration": "He realizes that if biological determinism is true, he's doomed. But if free will exists, he has a w"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 20292,
+          "durationFrames": 281,
+          "role": "question",
+          "narration": "writes in his journal that his first act of free will shall simply be to believe in free will. He de"
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 20573,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "It is a breathtaking moment in the history of psychology. He basically argues that even if you can't"
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 20849,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "you have veto power over which thoughts get your active attention. He chose the thought that gave hi"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "engine",
+      "fromFrame": 21113,
+      "durationFrames": 1195,
+      "durationSeconds": 39.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 21113,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "But wait, I have to push back Okay, let's hear it. I see the historical brilliance, but practically "
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 21454,
+          "durationFrames": 232,
+          "role": "question",
+          "narration": "or what makes me feel better, doesn't that become a slippery slope into complete Oh, I see what you "
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 21686,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "Like take the guy I mentioned in the book who hears this philosophy and essentially says, \"Well, tak"
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 21962,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "Aren't we just ignoring objective reality to create a narcissistic bubble? That is the absolute most"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "engine",
+      "fromFrame": 22308,
+      "durationFrames": 1018,
+      "durationSeconds": 33.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 22308,
+          "durationFrames": 250,
+          "role": "setup",
+          "narration": "Pragmatism is not hedonism. It is not about instant gratification. When William James says evaluate "
+        },
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 22558,
+          "durationFrames": 254,
+          "role": "question",
+          "narration": "quote what works, he is demanding you look at the ultimate consequences in objective reality, not ju"
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 22812,
+          "durationFrames": 154,
+          "role": "partial_answer",
+          "narration": "So cash value Exactly. Let's look at the drug example."
+        },
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 22966,
+          "durationFrames": 151,
+          "role": "complication",
+          "narration": "Taking a substance might work to numb anxiety at 8:00 p.m. on a Tuesday."
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 23117,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "The immediate sensation is relief. But the pragmatist doesn't stop the timeline there. They look at "
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "engine",
+      "fromFrame": 23326,
+      "durationFrames": 1183,
+      "durationSeconds": 39.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 23326,
+          "durationFrames": 208,
+          "role": "setup",
+          "narration": "The ultimate consequence is the destruction of your liver, eroding relationships, depleting your ban"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 23534,
+          "durationFrames": 231,
+          "role": "question",
+          "narration": "which is the opposite of utility. Precisely. Real pragmatism forces you to look at the long-term tan"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 23765,
+          "durationFrames": 228,
+          "role": "partial_answer",
+          "narration": "It forces you to use thinking as an active instrument to construct a sustainable reality, not just g"
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 23993,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "James wasn't choosing free will just to feel fuzzy. No, he chose it because it was the only belief t"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 24209,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "do his research, and become the father of American psychology. That distinction changes everything. "
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 24509,
+      "durationFrames": 1171,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 24509,
+          "durationFrames": 408,
+          "role": "setup",
+          "narration": "And speaking of mental architecture, we have to talk about how we process our own history. The past "
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 24917,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "Faroo's grandmother is sitting in her living room. She's surrounded by family who loves her, but she"
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 25169,
+          "durationFrames": 170,
+          "role": "complication",
+          "narration": "carrying this visceral, suffocating weight of regret, grieving that she had to leave Iran."
+        },
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 25339,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "and she spent the last years of her life up until she passed away in 2015 almost entirely consumed b"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "engine",
+      "fromFrame": 25680,
+      "durationFrames": 1073,
+      "durationSeconds": 35.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 25680,
+          "durationFrames": 182,
+          "role": "setup",
+          "narration": "maybe ourselves trapped in that temporal loop. It's a powerful warning about cognitive hygiene."
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 25862,
+          "durationFrames": 372,
+          "role": "question",
+          "narration": "The mechanism at play is the difference between rumination and reflection. Let's break that down bec"
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 26234,
+          "durationFrames": 360,
+          "role": "complication",
+          "narration": "It's a paralyzing emotional loop regarding uncontrollable past Like a cognitive glitch. Yes. Your br"
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 26594,
+          "durationFrames": 159,
+          "role": "reveal",
+          "narration": "time, analyze someone's tone of voice, somehow the outcome will change."
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "engine",
+      "fromFrame": 26753,
+      "durationFrames": 1149,
+      "durationSeconds": 38.3,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 26753,
+          "durationFrames": 206,
+          "role": "setup",
+          "narration": "It's a phantom itch. You keep scratching it, but it never heals. It only bleeds. Wow."
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 26959,
+          "durationFrames": 243,
+          "role": "question",
+          "narration": "And reflection. Reflection is a deliberate surgical tool. You don't go into the past to feel the emo"
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 27202,
+          "durationFrames": 232,
+          "role": "partial_answer",
+          "narration": "You go in strictly to extract raw data for future action. I love that framing. It's a raid, not a re"
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 27434,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "You grab the intel and get the hell out. Precisely. You don't buy real estate in your past mistakes."
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 27650,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "Between 2012 and 2015, he basically didn't reflect at all. He just pushed forward blindly trying to "
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "engine",
+      "fromFrame": 27902,
+      "durationFrames": 1104,
+      "durationSeconds": 36.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 27902,
+          "durationFrames": 255,
+          "role": "setup",
+          "narration": "And it led to a severe internal crisis. So to fix it, he started a daily journaling practice. But he"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 28157,
+          "durationFrames": 264,
+          "role": "question",
+          "narration": "He literally started writing his own autobiography, which sounds like a massive undertaking. It was,"
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 28421,
+          "durationFrames": 242,
+          "role": "complication",
+          "narration": "He did it purely to uncover his own historical patterns, spot recurring mistakes, and gather data fr"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 28663,
+          "durationFrames": 343,
+          "role": "reveal",
+          "narration": "Okay, hold on. Let me critically examine this. Go for it. I hear the distinction between a raid and "
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "engine",
+      "fromFrame": 29006,
+      "durationFrames": 1064,
+      "durationSeconds": 35.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 29006,
+          "durationFrames": 212,
+          "role": "setup",
+          "narration": "form of living in the past? It sounds like it, doesn't it? Yeah. You are literally spending present "
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 29218,
+          "durationFrames": 223,
+          "role": "question",
+          "narration": "How is that fundamentally different from his grandmother reliving her time in Iran? That sounds like"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 29441,
+          "durationFrames": 345,
+          "role": "complication",
+          "narration": "That is a brilliant challenge. If you just sit down and write a nostalgic diary, you are just rumina"
+        },
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 29786,
+          "durationFrames": 284,
+          "role": "reveal",
+          "narration": "The grandmother was emotionally reliving the past, wishing it were different. When Fau wrote his aut"
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 30070,
+      "durationFrames": 1322,
+      "durationSeconds": 44.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 30070,
+          "durationFrames": 218,
+          "role": "setup",
+          "narration": "aggressively second guess his So, what does that look like on the Let's say he's writing about a fai"
+        },
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 30288,
+          "durationFrames": 240,
+          "role": "partial_answer",
+          "narration": "A ruminator writes, \"I can't believe I lost that money. I'm such an idiot. A reflector writes, \"I en"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 30528,
+          "durationFrames": 257,
+          "role": "question",
+          "narration": "Outcome: loss of capital. Why? Skipped due diligence due to artificial time Oh, that is very differe"
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 30785,
+          "durationFrames": 235,
+          "role": "complication",
+          "narration": "He strikes the lesson. I rush when anxious and builds a rule for the present. Mandate a twoe cooling"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 31020,
+          "durationFrames": 372,
+          "role": "reveal",
+          "narration": "Once the rule is built, you close the journal. You leave the past because wallowing has no utility. "
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "engine",
+      "fromFrame": 31392,
+      "durationFrames": 1130,
+      "durationSeconds": 37.7,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 31392,
+          "durationFrames": 230,
+          "role": "setup",
+          "narration": "So we get the data out of the past and into the present. And the physical act of getting thoughts ou"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 31622,
+          "durationFrames": 272,
+          "role": "question",
+          "narration": "You can't just do this in your head. No, absolutely not. Let's look at Leonardo da Vinci's notebook."
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 31894,
+          "durationFrames": 189,
+          "role": "partial_answer",
+          "narration": "You have delicate, precise sketches of flowers sharing a page with harsh geometry and a heavy hammer"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 32083,
+          "durationFrames": 161,
+          "role": "complication",
+          "narration": "It's a visual dump of a genius's brain. And that dump is essential."
+        },
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 32244,
+          "durationFrames": 278,
+          "role": "reveal",
+          "narration": "Thinking purely inside your head is incredibly dangerous. The human skull is a terrible place to sto"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "engine",
+      "fromFrame": 32522,
+      "durationFrames": 1035,
+      "durationSeconds": 34.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 32522,
+          "durationFrames": 339,
+          "role": "setup",
+          "narration": "Because thoughts don't remain objective in there. They get warped by a closed loop echo chamber of c"
+        },
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 32861,
+          "durationFrames": 350,
+          "role": "question",
+          "narration": "reasoning, right? Yes. Uh Amos Tverki and Daniel Conan won a Nobel Prize mapping this out. They docu"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 33211,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "Exactly. Where your perception of reality is altered by what you're currently worrying about. It's l"
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "engine",
+      "fromFrame": 33557,
+      "durationFrames": 962,
+      "durationSeconds": 32.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 33557,
+          "durationFrames": 386,
+          "role": "setup",
+          "narration": "If you're anxious about money, you only see financial threats and ignore opportunities. So if you do"
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 33943,
+          "durationFrames": 195,
+          "role": "question",
+          "narration": "Faru actually drew his own thoughts to understand this. In his notebook, he drew a chaotic, tangled"
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 34138,
+          "durationFrames": 381,
+          "role": "reveal",
+          "narration": "scribble of black ink, just a massive knot. He labeled it as his brain in its natural A great visual"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 34519,
+      "durationFrames": 1306,
+      "durationSeconds": 43.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 34519,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "representing clarity and structure. The point is, you can't untangle the scribble while you're trapp"
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 34723,
+          "durationFrames": 183,
+          "role": "question",
+          "narration": "The physical act of writing forces a linear sequential structure onto nonlinear panic."
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 34906,
+          "durationFrames": 240,
+          "role": "partial_answer",
+          "narration": "A panic attack happens all at once. A sentence has to be written one word at a time. It slows the br"
+        },
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 35146,
+          "durationFrames": 316,
+          "role": "complication",
+          "narration": "Okay, but I've got a massive bone to pick here. Uh-oh. The just journal it out advice is everywhere."
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 35462,
+          "durationFrames": 363,
+          "role": "reveal",
+          "narration": "A bad idea on paper is still a bad idea. A fair point. Faru even admits this. He tells this highly r"
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "engine",
+      "fromFrame": 35825,
+      "durationFrames": 965,
+      "durationSeconds": 32.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 35825,
+          "durationFrames": 266,
+          "role": "setup",
+          "narration": "list. Good stuff on one side, bad on the Oh, no. And he admits it was a terrible, reductive, embarra"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 36091,
+          "durationFrames": 202,
+          "role": "question",
+          "narration": "It didn't solve anything. It just quantified his confusion. So much for paper being the savior."
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 36293,
+          "durationFrames": 151,
+          "role": "complication",
+          "narration": "I enthusiastically agree and so does Faru. Externalizing is only step one."
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 36444,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "The paper is inert. It doesn't do the thinking for you. The problem wasn't the paper. It was the fla"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 36790,
+      "durationFrames": 1068,
+      "durationSeconds": 35.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 36790,
+          "durationFrames": 156,
+          "role": "setup",
+          "narration": "write them in a rigid this or that format, you've just built a prison out of ink."
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 36946,
+          "durationFrames": 374,
+          "role": "partial_answer",
+          "narration": "You're just organizing deck chairs on the Titanic. You're trapped in a maze. A pros and cons list as"
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 37320,
+          "durationFrames": 182,
+          "role": "question",
+          "narration": "True utility requires thinking abundantly. Stepping outside the maze. So, how should he have used th"
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 37502,
+          "durationFrames": 356,
+          "role": "reveal",
+          "narration": "To think abundantly. Maybe the problem wasn't the relationship, but his work schedule or communicati"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "engine",
+      "fromFrame": 37858,
+      "durationFrames": 1087,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 37858,
+          "durationFrames": 192,
+          "role": "setup",
+          "narration": "you can critique the framework itself. So paper is the laboratory, but you still have to design a go"
+        },
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 38050,
+          "durationFrames": 211,
+          "role": "question",
+          "narration": "I love that. But here's the catch with the laboratory. If you don't control the speed of the experim"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 38261,
+          "durationFrames": 343,
+          "role": "complication",
+          "narration": "Externalizing isn't enough. You have to master decisiveness. This is crucial. Let's picture Derek Ci"
+        },
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 38604,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "He does the math. He has 192,000 emails over 8 years. He is so overwhelmed, so fatigued by quick"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "engine",
+      "fromFrame": 38945,
+      "durationFrames": 979,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 38945,
+          "durationFrames": 259,
+          "role": "setup",
+          "narration": "5-minute questions. His visceral reaction is extreme. He wants to go full Henry David Theo, move to "
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 39204,
+          "durationFrames": 250,
+          "role": "question",
+          "narration": "And that reaction is so profoundly human. When we're drowning, our first impulse is an outdated, emo"
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 39454,
+          "durationFrames": 189,
+          "role": "complication",
+          "narration": "We want to flip the board over. Just rage quit, right? But decisiveness is rarely about being fast."
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 39643,
+          "durationFrames": 281,
+          "role": "reveal",
+          "narration": "We worship speed in corporate culture, but your first reaction is almost always just a triggered def"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "engine",
+      "fromFrame": 39924,
+      "durationFrames": 1186,
+      "durationSeconds": 39.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 39924,
+          "durationFrames": 173,
+          "role": "setup",
+          "narration": "It's inserting a deliberate uncomfortable pause to vet the utility of your next action."
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 40097,
+          "durationFrames": 259,
+          "role": "question",
+          "narration": "It's the gap between stimulus and response. John Dwey said, \"Action is the laboratory of thought, bu"
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 40356,
+          "durationFrames": 372,
+          "role": "complication",
+          "narration": "Civers inserted the pause. He didn't move to the woods. He realized he didn't need to go off the gri"
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 40728,
+          "durationFrames": 382,
+          "role": "reveal",
+          "narration": "maze. He found the straight arrow. But the danger of not inserting that pause can be incredibly expe"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "engine",
+      "fromFrame": 41110,
+      "durationFrames": 1260,
+      "durationSeconds": 42,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 41110,
+          "durationFrames": 405,
+          "role": "setup",
+          "narration": "consulting deal. Oh, this one hurts. He's rushing through his inbox trying to be ultra efficient. He"
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 41515,
+          "durationFrames": 281,
+          "role": "question",
+          "narration": "whim A, instead of the prospect, whim B. A nightmare scenario. Absolute nightmare. And the fatal pro"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 41796,
+          "durationFrames": 218,
+          "role": "complication",
+          "narration": "The prospect saw the lower rate given to the loyal client, felt cheated, and walked away from the de"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 42014,
+          "durationFrames": 356,
+          "role": "reveal",
+          "narration": "150 grand lost because he didn't pause for one second to verify a name. A very expensive lesson in t"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "engine",
+      "fromFrame": 42370,
+      "durationFrames": 1000,
+      "durationSeconds": 33.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 42370,
+          "durationFrames": 225,
+          "role": "setup",
+          "narration": "You have to slow down. Okay, wait. I am officially confused. All right, what's up? I'm struggling to"
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 42595,
+          "durationFrames": 219,
+          "role": "question",
+          "narration": "We just spent 10 minutes establishing that slowing down, inserting a pause is crucial, precision ove"
+        },
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 42814,
+          "durationFrames": 288,
+          "role": "complication",
+          "narration": "But later in the exact same book, Faru argues forcefully to take thinking out of the equation and ac"
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 43102,
+          "durationFrames": 268,
+          "role": "reveal",
+          "narration": "should be greater than thinking. If I stop thinking and just act, aren't I reacting blindly again? A"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "engine",
+      "fromFrame": 43370,
+      "durationFrames": 1188,
+      "durationSeconds": 39.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 43370,
+          "durationFrames": 320,
+          "role": "setup",
+          "narration": "Which is it? It sounds like a paradox, I know, but it's actually a highly sophisticated filtering sy"
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 43690,
+          "durationFrames": 396,
+          "role": "question",
+          "narration": "High stakes novel problems and low stakes maintenance tasks. You slow down and apply intense thought"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 44086,
+          "durationFrames": 199,
+          "role": "complication",
+          "narration": "emails where thinking is your scalpel. Yes. But, and this is key for your sanity,"
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 44285,
+          "durationFrames": 273,
+          "role": "reveal",
+          "narration": "you completely eliminate thinking from mundane, repeatable maintenance tasks. Give me a concrete exa"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "engine",
+      "fromFrame": 44558,
+      "durationFrames": 982,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 44558,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "Faru realized he was wasting immense cognitive energy arguing with himself every morning. Should I g"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 44772,
+          "durationFrames": 262,
+          "role": "question",
+          "narration": "Maybe yoga. Maybe tomorrow. I have that exact debate every day. We all do. But that entire debate is"
+        },
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 45034,
+          "durationFrames": 237,
+          "role": "complication",
+          "narration": "So he applied pragmatism, took thinking out entirely. He made a rigid rule. Exercise 30 minutes ever"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 45271,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "Period. No debate, no pros and cons list. You wake up, you move. By automating the routine, you hoar"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "engine",
+      "fromFrame": 45540,
+      "durationFrames": 1229,
+      "durationSeconds": 41,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 45540,
+          "durationFrames": 334,
+          "role": "setup",
+          "narration": "You build an autopilot for maintenance so your active thinking remains an instrument of utility. You"
+        },
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 45874,
+          "durationFrames": 321,
+          "role": "partial_answer",
+          "narration": "I love that. And a big part of flying through that storm is dealing with turbulence you cannot contr"
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 46195,
+          "durationFrames": 300,
+          "role": "question",
+          "narration": "Faru drew this very stark diagram. Imagine a blank page. A massive gray circle takes up almost the w"
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 46495,
+          "durationFrames": 274,
+          "role": "reveal",
+          "narration": "representing the vast majority of life. Right? Then near the bottom, a tiny almost insignificant dot"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "engine",
+      "fromFrame": 46769,
+      "durationFrames": 1176,
+      "durationSeconds": 39.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 46769,
+          "durationFrames": 187,
+          "role": "setup",
+          "narration": "And inside that tiny dot are only three things. Your desires, your actions, and your words."
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 46956,
+          "durationFrames": 391,
+          "role": "question",
+          "narration": "That's it. The ultimate visual of Epictitus and Marcus Aurelius. And the mechanism is profoundly lib"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 47347,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "massive gray circle. If you spend your thoughts worrying about the macroeconomy or what your boss se"
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 47623,
+          "durationFrames": 322,
+          "role": "reveal",
+          "narration": "You're trying to control the weather with your mind. It's exhausting. It's like bailing out the ocea"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "engine",
+      "fromFrame": 47945,
+      "durationFrames": 1063,
+      "durationSeconds": 35.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 47945,
+          "durationFrames": 175,
+          "role": "setup",
+          "narration": "job. Miserable every day but refused to quit. His excuse, I need the money."
+        },
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 48120,
+          "durationFrames": 312,
+          "role": "question",
+          "narration": "The economy is bad. Total paralysis induced by the gray Exactly. So, Fau counters this with simple d"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 48432,
+          "durationFrames": 266,
+          "role": "complication",
+          "narration": "dot. The rules are save 10% of your income, don't buy [&nbsp;__&nbsp;] you don't need, stay out of c"
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 48698,
+          "durationFrames": 310,
+          "role": "reveal",
+          "narration": "and don't be Right? And the magic is once you follow those rules and build a six-month buffer, you i"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "engine",
+      "fromFrame": 49008,
+      "durationFrames": 1181,
+      "durationSeconds": 39.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 49008,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "because you've controlled the inputs, You managed the tiny dot. Worrying about global inflation won'"
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 49279,
+          "durationFrames": 279,
+          "role": "question",
+          "narration": "By locking down the rules, you free up the Okay, I see the logic. But I have a major problem with th"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 49558,
+          "durationFrames": 312,
+          "role": "complication",
+          "narration": "Let's go back to that $150,000 deal. If I truly adopt this, if I emotionally detach from the outcome"
+        },
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 49870,
+          "durationFrames": 319,
+          "role": "reveal",
+          "narration": "try hard? Ah, I see. If I truly don't care if they sign, my pitch will be lazy. I won't rehearse. De"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "engine",
+      "fromFrame": 50189,
+      "durationFrames": 1265,
+      "durationSeconds": 42.2,
+      "sceneCount": 6,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 50189,
+          "durationFrames": 201,
+          "role": "setup",
+          "narration": "That is a vital distinction and it's where most people get stoicism wrong. Emotional detachment is n"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 50390,
+          "durationFrames": 156,
+          "role": "question",
+          "narration": "It is the ultimate form of hyperfocus. You do not detach from the effort."
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 50546,
+          "durationFrames": 161,
+          "role": "partial_answer",
+          "narration": "You detach entirely from the result. Explain how that works during a pitch."
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 50707,
+          "durationFrames": 154,
+          "role": "partial_answer",
+          "narration": "When you prepare for that pitch, you obsess over the inputs which are inside your tiny dot."
+        },
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 50861,
+          "durationFrames": 242,
+          "role": "complication",
+          "narration": "You meticulously craft the presentation. You rehearse flawlessly. You double check the damn email ad"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 51103,
+          "durationFrames": 351,
+          "role": "reveal",
+          "narration": "Yes, but and here is the hinge. Once you finish the pitch and walk out of that boardroom, you must a"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "engine",
+      "fromFrame": 51454,
+      "durationFrames": 1087,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 51454,
+          "durationFrames": 328,
+          "role": "setup",
+          "narration": "because they might have a budget freeze you don't know about. Or the CEO's nephew wants the contract"
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 51782,
+          "durationFrames": 207,
+          "role": "question",
+          "narration": "not let their rejection destroy your self-worth. Wasting thought on uncontrollable outcomes destroys"
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 51989,
+          "durationFrames": 221,
+          "role": "complication",
+          "narration": "Maximizing input is utility. You own the swing, but you let go of the ball the millisecond it leaves"
+        },
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 52210,
+          "durationFrames": 331,
+          "role": "reveal",
+          "narration": "That's a great way to put it. And you need to conserve energy for that swing because it's not infini"
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "engine",
+      "fromFrame": 52541,
+      "durationFrames": 1104,
+      "durationSeconds": 36.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 52541,
+          "durationFrames": 314,
+          "role": "setup",
+          "narration": "Furuks found out the hard way. He's in a period of intense productivity, reading dense material 2 ho"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 52855,
+          "durationFrames": 322,
+          "role": "question",
+          "narration": "And then the wall, a brutal physical wall. A pulsing, heavy headache takes over his skull. His mind "
+        },
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 53177,
+          "durationFrames": 235,
+          "role": "complication",
+          "narration": "He broke his brain through overuse. It's terrifying when the cognitive engine seizes up and it happe"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 53412,
+          "durationFrames": 233,
+          "role": "reveal",
+          "narration": "The brain isn't a silicon hard drive. It's biological tissue. It consumes massive amounts of glucose"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "engine",
+      "fromFrame": 53645,
+      "durationFrames": 1061,
+      "durationSeconds": 35.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 53645,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "Mental energy is a finite fuel tank. If you don't schedule deliberate recovery, your biology will fo"
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 53897,
+          "durationFrames": 300,
+          "role": "question",
+          "narration": "You cannot out hustle biology. So, what does recovery look like for a pragmatist? Because the modern"
+        },
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 54197,
+          "durationFrames": 192,
+          "role": "complication",
+          "narration": "It's like a $5,000 silent retreat or an complex morning routine with ice baths and saunas."
+        },
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 54389,
+          "durationFrames": 317,
+          "role": "reveal",
+          "narration": "But Faruk's recovery is refreshingly gritty. It really is. When he hits the wall, he just stops. He "
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "engine",
+      "fromFrame": 54706,
+      "durationFrames": 981,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 54706,
+          "durationFrames": 386,
+          "role": "setup",
+          "narration": "He just hangs out and lets his mind go completely blank. Just the physical rhythm of pingpong and lo"
+        },
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 55092,
+          "durationFrames": 221,
+          "role": "question",
+          "narration": "for recovery? Like 45 minutes of transcendental meditation? Ping pong seems like a waste of time for"
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 55313,
+          "durationFrames": 153,
+          "role": "complication",
+          "narration": "Not at all. And this is where the productivity movement gets it catastrophically wrong."
+        },
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 55466,
+          "durationFrames": 221,
+          "role": "reveal",
+          "narration": "The wellness industry commodified rest. Over complicating relaxation just burns people out more beca"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "engine",
+      "fromFrame": 55687,
+      "durationFrames": 1114,
+      "durationSeconds": 37.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 55687,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "Exactly. I must meditate perfectly to achieve optimal brain state. That's exhausting. You're still u"
+        },
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 55922,
+          "durationFrames": 274,
+          "role": "question",
+          "narration": "You don't need a $10,000 yoga class to find calm. Sometimes the highest possible utility is doing ab"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 56196,
+          "durationFrames": 367,
+          "role": "complication",
+          "narration": "Letting the neural networks actually Yes. Protecting the fuel tank by doing nothing ensures that whe"
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 56563,
+          "durationFrames": 238,
+          "role": "reveal",
+          "narration": "And when you are fueled up, you put that focus in the work itself, not the grand story about the wor"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "engine",
+      "fromFrame": 56801,
+      "durationFrames": 1094,
+      "durationSeconds": 36.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 56801,
+          "durationFrames": 350,
+          "role": "setup",
+          "narration": "Picture this. 2017. Faru is staring at the dashboard of his new membership site. He based it on Kevi"
+        },
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 57151,
+          "durationFrames": 255,
+          "role": "question",
+          "narration": "reality is staring back at him. A month after launch, he doesn't have a thousand fans. He has exactl"
+        },
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 57406,
+          "durationFrames": 345,
+          "role": "complication",
+          "narration": "and people are already cancelling. It's humiliating. But instead of pushing through for years preten"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 57751,
+          "durationFrames": 144,
+          "role": "reveal",
+          "narration": "courage to look at failure that clearly. He avoided the narrative trap."
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "engine",
+      "fromFrame": 57895,
+      "durationFrames": 1155,
+      "durationSeconds": 38.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 57895,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "What's the narrative trap? It's when we get attached to the identity of our projects. We construct g"
+        },
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 58099,
+          "durationFrames": 262,
+          "role": "question",
+          "narration": "I am building a community. When the project fails, we feel like we are failing as So to save our ego"
+        },
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 58361,
+          "durationFrames": 228,
+          "role": "partial_answer",
+          "narration": "Right? You have to strip away the ego, silence the commentary, and look exclusively at the brutal fa"
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 58589,
+          "durationFrames": 185,
+          "role": "complication",
+          "narration": "Yes, even this book we're discussing. He didn't settle for the narrative of I'm a published author. "
+        },
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 58774,
+          "durationFrames": 276,
+          "role": "reveal",
+          "narration": "His first draft title was the art of practicality. Scrapped it. Too vague. Then he tried the power o"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "engine",
+      "fromFrame": 59050,
+      "durationFrames": 1003,
+      "durationSeconds": 33.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 59050,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "Right? Sounds smart, but he researched it and found over 83,000 results on good readads for books st"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 59290,
+          "durationFrames": 204,
+          "role": "question",
+          "narration": "He refused to be generic. Kept stripping it down until he hit think He lived in the details of the w"
+        },
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 59494,
+          "durationFrames": 300,
+          "role": "complication",
+          "narration": "But let me interrupt this praise for a second. He pulled the plug on the site after just 6 weeks. Ea"
+        },
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 59794,
+          "durationFrames": 259,
+          "role": "reveal",
+          "narration": "The urge to quit is often biological fear. Everyone around him told him he was quitting too soon. Do"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "engine",
+      "fromFrame": 60053,
+      "durationFrames": 1183,
+      "durationSeconds": 39.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 60053,
+          "durationFrames": 177,
+          "role": "setup",
+          "narration": "a month and a half sound exactly like that involuntary fear like he panicked and ran."
+        },
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 60230,
+          "durationFrames": 231,
+          "role": "question",
+          "narration": "It absolutely looks like panicking from the outside, which is why everyone told him to keep going. O"
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 60461,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "But internally, the mechanism was entirely different. It wasn't panic. It was pure, cold, pragmatic "
+        },
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 60694,
+          "durationFrames": 168,
+          "role": "complication",
+          "narration": "It was fact-based, not fear-based. How so? He sat down and ran the numbers."
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 60862,
+          "durationFrames": 374,
+          "role": "reveal",
+          "narration": "1,000 desired fans divided by 78 actual fans. Factored in churn rate, weighed the immense time cost "
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "engine",
+      "fromFrame": 61236,
+      "durationFrames": 1145,
+      "durationSeconds": 38.2,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 61236,
+          "durationFrames": 247,
+          "role": "setup",
+          "narration": "business. So, the system was broken. Fundamentally broken. It wasn't that he was afraid of hard work"
+        },
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 61483,
+          "durationFrames": 214,
+          "role": "question",
+          "narration": "negative return on effort. He didn't quit because he felt bad. He quit because the utility was objec"
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 61697,
+          "durationFrames": 223,
+          "role": "partial_answer",
+          "narration": "Living in the work itself, running the math is how you keep thinking He killed the darling because t"
+        },
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 61920,
+          "durationFrames": 247,
+          "role": "complication",
+          "narration": "Okay. We have built this massive fortress of radical pragmatism today. Filter everything. Discard us"
+        },
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 62167,
+          "durationFrames": 214,
+          "role": "reveal",
+          "narration": "But I have to ask the ultimate philosophical The big one. I have to play devil's advocate for the hu"
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "engine",
+      "fromFrame": 62381,
+      "durationFrames": 1289,
+      "durationSeconds": 43,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 62381,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "If we reduce every single thought to its immediate utility, don't we risk completely flattening the "
+        },
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 62662,
+          "durationFrames": 352,
+          "role": "question",
+          "narration": "What happens to spontaneous daydreaming, artistic wonder, unresolved existential grief? If a thought"
+        },
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 63014,
+          "durationFrames": 296,
+          "role": "complication",
+          "narration": "Doesn't that make us robots? That is the most profound vulnerability of this entire framework. And i"
+        },
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 63310,
+          "durationFrames": 360,
+          "role": "reveal",
+          "narration": "Yes. To see how pragmatism handles the soul, we have to look at the tragic history of Charles Sander"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "engine",
+      "fromFrame": 63670,
+      "durationFrames": 1092,
+      "durationSeconds": 36.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 63670,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "professor at Johns Hopkins. But in 1884, his life fell apart. A messy, highly publicized divorce and"
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 63941,
+          "durationFrames": 237,
+          "role": "question",
+          "narration": "The university fired him due to the moral panic of the era and he never recovered. Oh man. He became"
+        },
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 64178,
+          "durationFrames": 226,
+          "role": "complication",
+          "narration": "Ended up entirely destitute. Literally sleeping on the freezing streets of New York City. Completely"
+        },
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 64404,
+          "durationFrames": 358,
+          "role": "reveal",
+          "narration": "He helped build a certified genius. The literal founder of this philosophy freezing on the Yes. And "
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "engine",
+      "fromFrame": 64762,
+      "durationFrames": 1029,
+      "durationSeconds": 34.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 64762,
+          "durationFrames": 223,
+          "role": "setup",
+          "narration": "William James, who by 1898 was a massive celebrity academic at Harvard, steps in. What does he do?"
+        },
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 64985,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "He doesn't just hand Pierce a few dollars. James uses his massive public platform to loudly publicly"
+        },
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 65273,
+          "durationFrames": 185,
+          "role": "complication",
+          "narration": "original founder of pragmatism. He forces the arrogant academic world to recognize Pierce."
+        },
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 65458,
+          "durationFrames": 333,
+          "role": "reveal",
+          "narration": "Wait a minute. Let's run that through the pragmatic filter we've been Let's do it. If pragmatism is "
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "engine",
+      "fromFrame": 65791,
+      "durationFrames": 1071,
+      "durationSeconds": 35.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 65791,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "homeless academic is a terrible investment. There is zero upside for James. It associates him with s"
+        },
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 65995,
+          "durationFrames": 195,
+          "role": "question",
+          "narration": "By the strict robotic definition of utility, saving Pierce's legacy is a completely useless thought."
+        },
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 66190,
+          "durationFrames": 381,
+          "role": "complication",
+          "narration": "And that contradiction is exactly where William James elevates the philosophy from a productivity ha"
+        },
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 66571,
+          "durationFrames": 291,
+          "role": "reveal",
+          "narration": "the greatest use of a life is to spend it on something that will outlast it. By risking his reputati"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "engine",
+      "fromFrame": 66862,
+      "durationFrames": 1140,
+      "durationSeconds": 38,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 256,
+          "sceneId": "scene-256",
+          "fromFrame": 66862,
+          "durationFrames": 232,
+          "role": "setup",
+          "narration": "or making your Tuesday easier. Sometimes the highest possible utility is an act of grace. It is loya"
+        },
+        {
+          "index": 257,
+          "sceneId": "scene-257",
+          "fromFrame": 67094,
+          "durationFrames": 380,
+          "role": "question",
+          "narration": "It is love. These are not useless thoughts. They produce a tangible result. They elevate the human c"
+        },
+        {
+          "index": 258,
+          "sceneId": "scene-258",
+          "fromFrame": 67474,
+          "durationFrames": 295,
+          "role": "complication",
+          "narration": "static, the anxieties, the jealousies precisely so that you have the energy left to do something tru"
+        },
+        {
+          "index": 259,
+          "sceneId": "scene-259",
+          "fromFrame": 67769,
+          "durationFrames": 233,
+          "role": "reveal",
+          "narration": "That perfectly lands the final realization of this deep dive. Mental clarity isn't about emptying yo"
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "engine",
+      "fromFrame": 68002,
+      "durationFrames": 998,
+      "durationSeconds": 33.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 260,
+          "sceneId": "scene-260",
+          "fromFrame": 68002,
+          "durationFrames": 280,
+          "role": "setup",
+          "narration": "Not at all. It's about taking command of the throttle, choosing with extreme prejudice where the pow"
+        },
+        {
+          "index": 261,
+          "sceneId": "scene-261",
+          "fromFrame": 68282,
+          "durationFrames": 240,
+          "role": "question",
+          "narration": "You do not change your life by merely changing your circumstances. Moving to London or getting a new"
+        },
+        {
+          "index": 262,
+          "sceneId": "scene-262",
+          "fromFrame": 68522,
+          "durationFrames": 248,
+          "role": "complication",
+          "narration": "No, it doesn't. You change your life the instant you refuse to entertain thoughts that do not serve "
+        },
+        {
+          "index": 263,
+          "sceneId": "scene-263",
+          "fromFrame": 68770,
+          "durationFrames": 230,
+          "role": "reveal",
+          "narration": "You become the architect of your own attention. Well, thank you for joining us on this deep dive. We"
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "engine",
+      "fromFrame": 69000,
+      "durationFrames": 1123,
+      "durationSeconds": 37.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 264,
+          "sceneId": "scene-264",
+          "fromFrame": 69000,
+          "durationFrames": 329,
+          "role": "setup",
+          "narration": "From ancient stoicism to 1870s Harvard to modern email, we covered some serious ground. We did. But "
+        },
+        {
+          "index": 265,
+          "sceneId": "scene-265",
+          "fromFrame": 69329,
+          "durationFrames": 247,
+          "role": "question",
+          "narration": "head. I want to leave you with one final provocative thought to mle over as you go about the rest of"
+        },
+        {
+          "index": 266,
+          "sceneId": "scene-266",
+          "fromFrame": 69576,
+          "durationFrames": 326,
+          "role": "complication",
+          "narration": "What is it? If you audited your thoughts today, if you took a snapshot of the last 24 hours and laid"
+        },
+        {
+          "index": 267,
+          "sceneId": "scene-267",
+          "fromFrame": 69902,
+          "durationFrames": 221,
+          "role": "reveal",
+          "narration": "deliberately chosen and directed by you? And how many were just the involuntary, panicked echoes of "
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "engine",
+      "fromFrame": 70123,
+      "durationFrames": 66,
+      "durationSeconds": 2.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 268,
+          "sceneId": "scene-268",
+          "fromFrame": 70123,
+          "durationFrames": 66,
+          "role": "reveal",
+          "narration": "That's the real question. Take a breath."
+        }
+      ]
+    }
+  ]
+}

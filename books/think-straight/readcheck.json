@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-06T18:40:41.683Z",
+  "n": 269,
+  "total": 269,
+  "sources": [
+    "readcheck"
+  ],
+  "evidence": {
+    "status": "OK",
+    "signals": [
+      "full run: readers 1: 140 items written 10 s after the input (a fresh reader needs >= 105 s)",
+      "full run: judges 1: 140 items written 10 s after the input (a fresh reader needs >= 105 s)",
+      "full run: readers 2: 129 items written 10 s after the input (a fresh reader needs >= 96.75 s)",
+      "full run: judges 2: 129 items written 10 s after the input (a fresh reader needs >= 96.75 s)"
+    ]
+  },
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "think-straight-prep-54ab9b6e4e97",
+    "folders": {
+      "readcheck": {
+        "run": "think-straight-prep-54ab9b6e4e97",
+        "evidenceSha256": "95cb445454e0233a773131b06b0c42ea2c3bcee8311cbfb4d5da936c22c73005"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 269,
+    "NEUTRAL": 0,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {},
+  "iconBlame": {},
+  "beats": []
+}

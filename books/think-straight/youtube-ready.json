@@ -1,0 +1,13 @@
+{
+  "slug": "think-straight",
+  "status": "READY",
+  "at": "2026-11-07T07:08:24.997Z",
+  "metaSha256": "da28120fd0f5c97ea1b39205294635f3cd03032aabbe2c4bf02821eaa5a97ba7",
+  "mdSha256": "2caecbb5d782249ddac4254f920fa8b82fed5976a85ffe9c3e66acd8b540d096",
+  "cleanVttSha256": "ae3c0dd649d52e00110907db8238d5fad92b0f235939c4745ece3c41168fd3a8",
+  "errors": [],
+  "warnings": [
+    "NO_CHAPTERS: youtube-meta.chapters is empty",
+    "HOOK_UNVERIFIED: no books/think-straight/thumbnail-check.json — run render-thumbnails.js (it checks the hook pixels in every variant)"
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "slug": "think-straight",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=think-straight --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "think-straight",
+    "world": {
+      "era": "2015-2017",
+      "eraEvidence": "Darius Foroux writing Think Straight, contemporary digital and everyday life",
+      "worldId": "modern-pragmatism",
+      "approxYear": 2017,
+      "setting": "Modern minimalist office, desk, and everyday contemporary settings",
+      "register": "contemporary pragmatic self-help",
+      "forbid": [
+        "medieval",
+        "cyberpunk",
+        "space"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "think-straight",
+      "worldId": "",
+      "allowedMotifs": [],
+      "forbiddenMotifs": [],
+      "allowedCharacters": [],
+      "allowedLocations": [],
+      "allowedProps": []
+    },
+    "cast": {
+      "darius": {
+        "name": "Darius",
+        "role": "Author & narrator, pragmatic thinker seeking mental clarity",
+        "look": "A man in his early 30s with short neat dark hair, slight athletic build, wearing a clean charcoal crewneck sweater and dark trousers, minimalist 2010s style.",
+        "variant": {
+          "outfit": "casual",
+          "hair": "#2b221c",
+          "hairStyle": "short",
+          "height": 1,
+          "build": "slight",
+          "headScale": 1
+        }
+      },
+      "james": {
+        "name": "William James",
+        "role": "19th century American philosopher and father of pragmatism",
+        "look": "A distinguished man in his late 40s with a neatly trimmed graying beard, parted brown hair, wearing a Victorian dark three-piece tweed suit with vest and necktie.",
+        "variant": {
+          "outfit": "suit",
+          "hair": "#5a4d41",
+          "hairStyle": "receding",
+          "height": 1,
+          "build": "average",
+          "headScale": 1
+        }
+      }
+    },
+    "places": {
+      "office": {
+        "set": "office",
+        "look": "A clean, brightly lit modern minimalist home office with a neat wooden desk, open journal, and laptop."
+      },
+      "room": {
+        "set": "room",
+        "look": "A quiet, contemplative room with gentle natural window light and sparse minimal furniture."
+      },
+      "street": {
+        "set": "street",
+        "look": "A brisk contemporary city sidewalk with parked cars and urban everyday rhythm."
+      },
+      "abstract": {
+        "set": "abstract",
+        "look": "A clean graphic conceptual space with subtle architectural grid lines for mental models and diagrams."
+      }
+    },
+    "objects": [
+      {
+        "concept": "notes",
+        "why": "Journaling, writing down thoughts on paper to externalize and filter mental chatter."
+      },
+      {
+        "concept": "coin",
+        "why": "The cash value of ideas in pragmatism: what practical difference does a belief make."
+      },
+      {
+        "concept": "lightbulb",
+        "why": "Moments of clear, intentional insight vs unvetted mental chatter."
+      },
+      {
+        "concept": "phone",
+        "why": "Digital distractions, unread emails, and modern noise triggering involuntary thoughts."
+      },
+      {
+        "concept": "target",
+        "why": "Focusing on actionable problems and directing attention with intention."
+      },
+      {
+        "concept": "work",
+        "why": "Focusing on direct productive action rather than narrating one's own life."
+      },
+      {
+        "concept": "magnifier",
+        "why": "Interrogating and cross-examining recurring anxious thoughts."
+      },
+      {
+        "concept": "balance",
+        "why": "Balancing mental energy and weighing decisions pragmatically."
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 5,
+        "claim": "Most human thinking is automatic, involuntary chatter that drains mental energy without solving problems."
+      },
+      {
+        "act": "development",
+        "fromFrame": 13944,
+        "claim": "Pragmatism offers a filter: evaluate every thought by its tangible, practical cash value in real life."
+      },
+      {
+        "act": "turn",
+        "fromFrame": 29086,
+        "claim": "Externalizing thoughts onto paper breaks cognitive spirals and turns vague anxiety into solvable decisions."
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 42370,
+        "claim": "Action cures overthinking; treating life as a laboratory eliminates the paralyzing fear of imperfect outcomes."
+      },
+      {
+        "act": "close",
+        "fromFrame": 55812,
+        "claim": "Mental clarity is an active discipline of choosing which thoughts to entertain and discarding the rest."
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 611,
+    "cast": [
+      {
+        "name": "Faru",
+        "asSubject": 3,
+        "total": 10,
+        "samples": [
+          "Faru has moved there for a massive opportunity.",
+          "Faru realized he was wasting immense cognitive energy arguing with himself every morning.",
+          "2017. Faru is staring at the dashboard of his new membership site."
+        ]
+      },
+      {
+        "name": "James",
+        "asSubject": 2,
+        "total": 15,
+        "samples": [
+          "James is 27, a Harvard grad, a doctor of medicine on paper.",
+          "When William James says evaluate an idea by quote what works, he is demanding you look at the ultimate consequences in objective reality, not just the immediate"
+        ]
+      },
+      {
+        "name": "Which",
+        "asSubject": 2,
+        "total": 4,
+        "samples": [
+          "Just quit. Which is the ultimate tell that it's involuntary chatter.",
+          "Which is it?"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "manuscript",
+        "mentions": 9,
+        "samples": [
+          "Did that text mean she wants to break up?",
+          "There's a really quiet, heavy scene in Faroo's writing."
+        ]
+      },
+      {
+        "set": "shipDeck",
+        "mentions": 2,
+        "samples": [
+          "You're just organizing deck chairs on the Titanic.",
+          "It's exhausting. It's like bailing out the ocean with a teacup."
+        ]
+      },
+      {
+        "set": "forest",
+        "mentions": 2,
+        "samples": [
+          "He wants to go full Henry David Theo, move to the woods, shut off the grid, become unreachable.",
+          "He didn't move to the woods."
+        ]
+      },
+      {
+        "set": "bedroom",
+        "mentions": 1,
+        "samples": [
+          "The bedroom is totally dark."
+        ]
+      },
+      {
+        "set": "street",
+        "mentions": 1,
+        "samples": [
+          "He's got an SUV parked on the street packed to the roof with moving boxes, everything he owns."
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "notes",
+        "mentions": 17,
+        "sample": "And since he can't objectively prove either one, he makes a choice based purely on he writes in his journal that his first act of free will "
+      },
+      {
+        "concept": "coin",
+        "mentions": 11,
+        "sample": "Exactly. But pragmatism basically asked what is the cash value of this idea?"
+      },
+      {
+        "concept": "wallet",
+        "mentions": 11,
+        "sample": "Exactly. But pragmatism basically asked what is the cash value of this idea?"
+      },
+      {
+        "concept": "lightbulb",
+        "mentions": 10,
+        "sample": "Good idea. Stoicism from ancient Greece and Rome is basically the ultimate operating system for resilience."
+      },
+      {
+        "concept": "phone",
+        "mentions": 9,
+        "sample": "Maybe it's about an email you forgot to send."
+      },
+      {
+        "concept": "target",
+        "mentions": 9,
+        "sample": "Like we walk around assuming we are experiencing objective reality, But we aren't."
+      },
+      {
+        "concept": "rocketLaunch",
+        "mentions": 8,
+        "sample": "He found a third option outside the binary maze."
+      },
+      {
+        "concept": "heart",
+        "mentions": 7,
+        "sample": "I love that."
+      },
+      {
+        "concept": "family",
+        "mentions": 7,
+        "sample": "He's in a cramped hotel room with his parents who drove all the way from the Netherlands to help him."
+      },
+      {
+        "concept": "work",
+        "mentions": 6,
+        "sample": "What does my boss actually think of me?"
+      },
+      {
+        "concept": "magnifier",
+        "mentions": 6,
+        "sample": "You isolate the thought, I should quit my business and you interrogate it, like cross-examine it."
+      },
+      {
+        "concept": "road",
+        "mentions": 5,
+        "sample": "You know, you're probably listening to this right now while you're driving or maybe you're uh folding laundry or walking the dog."
+      }
+    ],
+    "openingLines": [
+      "You know, you're probably listening to this right now while you're driving or maybe you're uh folding laundry or walking the dog.",
+      "Yeah, walking the dog.",
+      "And as you're doing that, your brain is just quietly serving you up a thought just out of nowhere, right?",
+      "Maybe it's about an email you forgot to send.",
+      "Or maybe it's this sudden, weirdly intense memory of like an awkward joke you made 3 years ago.",
+      "Oh, the worst it is."
+    ],
+    "closingLines": [
+      "If you audited your thoughts today, if you took a snapshot of the last 24 hours and laid every single thought out on a table, how many of them were actually yours, deliberately chosen and directed by you?",
+      "And how many were just the involuntary, panicked echoes of the world around you?",
+      "That's the real question.",
+      "Take a breath."
+    ]
+  }
+}

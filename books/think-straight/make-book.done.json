@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-06T17:59:34.533Z",
+  "at": "2026-11-06T18:39:28.683Z",
+  "config": "config.antidote.json",
+  "configSha256": "0812b94a7c1f34fe0dd8bae29f1cb4887e703d4895ae87f53a23facabe4ab74d",
+  "inputs": {
+    "storyboard": {
+      "path": "books/think-straight/art.json",
+      "sha256": "f2a24409ba6d308c21c4e5fd889e5c2bb78c4c1054075a9310894a326cbae6fb"
+    },
+    "storyBible": {
+      "path": "books/think-straight/story-bible.json",
+      "sha256": "c768b3fe3a30ead327592392bef79204d68d9f4ad74d986d78ac8c07b14a1be9"
+    },
+    "motifs": {
+      "path": "books/think-straight/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/think-straight.vtt",
+      "sha256": "db3d4c854d114436d2a90576a07537e2377caa3d33ba513c66e04bb1e77a4683"
+    },
+    "audio": {
+      "path": "public/audio/think-straight.mp3",
+      "sha256": "eb14c341087b31da78c0fa48d1269127f94c2bce98def7e8b2513e1f342159f4"
+    },
+    "singleRelation": {
+      "path": "books/think-straight/single-relation/active.json",
+      "sha256": null
+    }
+  },
+  "head": "1445f82345191de748d76be292895246ba753bfc",
+  "previewOnly": true,
+  "skipPack": true
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "think-straight",
+  "world": {
+    "era": "2015-2017",
+    "eraEvidence": "Darius Foroux writing Think Straight, contemporary digital and everyday life",
+    "worldId": "modern-pragmatism",
+    "approxYear": 2017,
+    "setting": "Modern minimalist office, desk, and everyday contemporary settings",
+    "register": "contemporary pragmatic self-help",
+    "forbid": [
+      "medieval",
+      "cyberpunk",
+      "space"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "think-straight",
+    "worldId": "modern-pragmatism",
+    "allowedMotifs": [
+      "notes",
+      "coin",
+      "phone",
+      "balance",
+      "lightbulb",
+      "target",
+      "work"
+    ],
+    "forbiddenMotifs": [
+      "medieval",
+      "space",
+      "fantasy"
+    ],
+    "allowedCharacters": [
+      "darius",
+      "james"
+    ],
+    "allowedLocations": [
+      "office",
+      "room",
+      "street",
+      "abstract"
+    ],
+    "allowedProps": [
+      "notes",
+      "coin",
+      "phone",
+      "balance"
+    ]
+  },
+  "cast": {
+    "darius": {
+      "name": "Darius",
+      "role": "Author & narrator, pragmatic thinker seeking mental clarity",
+      "look": "A man in his early 30s with short neat dark hair, slight athletic build, wearing a clean charcoal crewneck sweater and dark trousers, minimalist 2010s style.",
+      "variant": {
+        "outfit": "casual",
+        "hair": "#2b221c",
+        "hairStyle": "short",
+        "height": 1,
+        "build": "slight",
+        "headScale": 1,
+        "gender": "man",
+        "age": "adult",
+        "suit": "casual"
+      }
+    },
+    "james": {
+      "name": "William James",
+      "role": "19th century American philosopher and father of pragmatism",
+      "look": "A distinguished man in his late 40s with a neatly trimmed graying beard, parted brown hair, wearing a Victorian dark three-piece tweed suit with vest and necktie.",
+      "variant": {
+        "outfit": "suit",
+        "hair": "#5a4d41",
+        "hairStyle": "receding",
+        "height": 1,
+        "build": "average",
+        "headScale": 1,
+        "gender": "man",
+        "age": "mature",
+        "suit": "formal"
+      }
+    }
+  },
+  "places": {
+    "office": {
+      "set": "office",
+      "look": "A clean, brightly lit modern minimalist home office with a neat wooden desk, open journal, and laptop."
+    },
+    "room": {
+      "set": "room",
+      "look": "A quiet, contemplative room with gentle natural window light and sparse minimal furniture."
+    },
+    "street": {
+      "set": "street",
+      "look": "A brisk contemporary city sidewalk with parked cars and urban everyday rhythm."
+    },
+    "abstract": {
+      "set": "abstract",
+      "look": "A clean graphic conceptual space with subtle architectural grid lines for mental models and diagrams."
+    }
+  },
+  "objects": [
+    {
+      "concept": "notes",
+      "why": "Journaling, writing down thoughts on paper to externalize and filter mental chatter."
+    },
+    {
+      "concept": "coin",
+      "why": "The cash value of ideas in pragmatism: what practical difference does a belief make."
+    },
+    {
+      "concept": "lightbulb",
+      "why": "Moments of clear, intentional insight vs unvetted mental chatter."
+    },
+    {
+      "concept": "phone",
+      "why": "Digital distractions, unread emails, and modern noise triggering involuntary thoughts."
+    },
+    {
+      "concept": "target",
+      "why": "Focusing on actionable problems and directing attention with intention."
+    },
+    {
+      "concept": "work",
+      "why": "Focusing on direct productive action rather than narrating one's own life."
+    },
+    {
+      "concept": "magnifier",
+      "why": "Interrogating and cross-examining recurring anxious thoughts."
+    },
+    {
+      "concept": "balance",
+      "why": "Balancing mental energy and weighing decisions pragmatically."
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 5,
+      "claim": "Most human thinking is automatic, involuntary chatter that drains mental energy without solving problems."
+    },
+    {
+      "act": "development",
+      "fromFrame": 13944,
+      "claim": "Pragmatism offers a filter: evaluate every thought by its tangible, practical cash value in real life."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 29086,
+      "claim": "Externalizing thoughts onto paper breaks cognitive spirals and turns vague anxiety into solvable decisions."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 42370,
+      "claim": "Action cures overthinking; treating life as a laboratory eliminates the paralyzing fear of imperfect outcomes."
+    },
+    {
+      "act": "close",
+      "fromFrame": 55812,
+      "claim": "Mental clarity is an active discipline of choosing which thoughts to entertain and discarding the rest."
+    }
+  ],
+  "authored": true,
+  "signatureObjects": []
+}

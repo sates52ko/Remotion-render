@@ -1,0 +1,59 @@
+{
+  "slug": "think-straight",
+  "title": "Think Straight: Change Your Thoughts, Change Your Life",
+  "author": "Darius Foroux",
+  "genre": "self-help",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "nonfiction",
+    "world": "ideas",
+    "era": 2017,
+    "realPeople": false,
+    "format": "argument",
+    "violence": "none",
+    "minorHarm": false,
+    "mustSee": [
+      "pragmatism",
+      "clarity",
+      "mental clutter",
+      "decision making",
+      "action"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 45,
+    "reasons": [
+      "an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)"
+    ],
+    "risks": []
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-06",
+    "fit": "antidote",
+    "confidence": "strong",
+    "voxScore": 6.8,
+    "antidoteScore": 22.6,
+    "signals": {
+      "year": 1.4,
+      "history": 0.5,
+      "second": 37.4,
+      "abstract": 11.9,
+      "sensitive": 1.2,
+      "era": 2017,
+      "words": 6548
+    },
+    "reasons": [
+      "the narration addresses the viewer (\"you\" 37.4/1k) → an idea/advice film, drawn as icons, diagrams and an everyman (Antidote)",
+      "idea vocabulary 11.9/1k (habits, decisions, attention, money…) → concepts need icons/diagrams, not photographs (Antidote)"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/think-straight.mp3"
+}
