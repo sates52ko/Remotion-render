@@ -1,0 +1,28 @@
+{
+  "schema": "single-relation/1",
+  "type": "B",
+  "understanding": "Casinos force you to swap real cash for plastic chips — a concrete transfer that abstracts the loss.",
+  "evidence": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackjack table.",
+  "claim": {
+    "asserted": "Casinos force you to convert your cash into brightly colored plastic chips.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "mechanism": "transfer",
+  "before": "A shopper holds a coin (cash). A game-chip slot (chips) is empty. A group labelled 'casinos' is the cause.",
+  "transformation": "Casinos force the coin to leave the shopper's hand and move to the chip slot, leaving a dashed outline.",
+  "after": "The chip slot is filled — real money has been abstracted into chips.",
+  "camera": { "framing": "wide-locked", "purpose": "cash-to-chip transfer and loss abstraction in one frame" },
+  "entities": [
+    { "id": "casino", "kind": "group", "label": "casinos", "value": 1 },
+    { "id": "cash",   "kind": "object", "glyph": "coin",  "label": "cash" },
+    { "id": "chips",  "kind": "object", "glyph": "game",  "label": "chips" }
+  ],
+  "events": [
+    { "at": 0.35, "cause": "casino", "effects": [ { "entity": "cash", "moveTo": "chips" } ] }
+  ],
+  "required": ["casinos group", "the coin (cash)", "chip slot", "the transfer leaving a dashed cash outline"],
+  "omitted": ["blackjack table detail"],
+  "_author": "preview-agent"
+}

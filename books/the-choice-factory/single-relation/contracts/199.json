@@ -1,0 +1,27 @@
+{
+  "schema": "single-relation/1",
+  "type": "B",
+  "understanding": "Being the default safe choice is what protects IBM buyers — the safe choice shields people from getting fired.",
+  "evidence": "Nobody ever got fired for buying IBM because it's the default safe choice.",
+  "claim": {
+    "asserted": "Nobody ever got fired for buying IBM because it is the default safe choice.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "mechanism": "depletion",
+  "before": "A shield labelled 'safe choice' on the left. A stock labelled 'fired' at 1.0 on the right.",
+  "transformation": "The shield causes the fired-risk level to collapse to near zero.",
+  "after": "Fired-risk is minimal — nobody gets fired for buying IBM.",
+  "camera": { "framing": "wide-locked", "purpose": "safe-choice cause and fired-risk collapse in one frame" },
+  "entities": [
+    { "id": "shield", "kind": "object", "glyph": "shield", "label": "safe choice" },
+    { "id": "risk",   "kind": "stock",  "label": "fired",  "value": 1 }
+  ],
+  "events": [
+    { "at": 0.4, "cause": "shield", "effects": [ { "entity": "risk", "value": 0.05 } ] }
+  ],
+  "required": ["the shield (safe choice)", "the fired-risk level dropping"],
+  "omitted": ["IBM brand detail", "middle-manager career"],
+  "_author": "preview-agent"
+}

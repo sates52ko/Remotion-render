@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id": "25",
+      "understanding": "The book's value is that it forces readers to see academic theory applied to real-world commercial advertising.",
+      "cause": "Pitting academic theories against actual commercial campaigns and field trials",
+      "effect": "Readers are forced to see theory in the wild, making it a masterclass in structural analysis",
+      "supportsCausality": true,
+      "asserted": "The book bridges the ivory tower and the billboard by forcing us to see theory in the wild.",
+      "notAsserted": [
+        {"text": "The theories are proven correct by the campaigns", "why": "The narration says we see theory in the wild, not that the theory is validated"},
+        {"text": "The book is easy to read", "why": "No claim about difficulty or accessibility is made"}
+      ],
+      "keyFacts": [
+        "The book bridges academic theory and commercial advertising",
+        "It is described as a masterclass in structural analysis",
+        "It forces us to see theory applied in real contexts"
+      ],
+      "wrong": [
+        "The billboard industry inspired the academic theories",
+        "Structural analysis is taught separately from advertising examples",
+        "The book is primarily a critique of ivory-tower thinking"
+      ]
+    },
+    {
+      "id": "136",
+      "understanding": "A sign that simply stated a rule against stealing wood failed because it included no social proof about how common the theft was.",
+      "cause": "The sign used an injunctive norm (stating the rule) but made no mention of theft frequency",
+      "effect": "It provided no social proof, leaving a key persuasion mechanism unused",
+      "supportsCausality": true,
+      "asserted": "The injunctive-norm sign stated the rule but crucially omitted any reference to how often theft occurred, thus providing no social proof.",
+      "notAsserted": [
+        {"text": "The sign reduced theft", "why": "No outcome of this sign's effectiveness is stated in this narration"},
+        {"text": "Social proof was present but ignored", "why": "The narration says social proof was absent, not ignored"}
+      ],
+      "keyFacts": [
+        "The sign used an injunctive norm",
+        "It told people not to steal the wood",
+        "It made no mention of how often theft occurred",
+        "It provided no social proof"
+      ],
+      "wrong": [
+        "The sign included statistics about theft frequency",
+        "The sign's lack of social proof reduced theft rates",
+        "Cialdini's team wrote the sign to test social proof's presence"
+      ]
+    },
+    {
+      "id": "187",
+      "understanding": "The speaker is about to object that something frustrates them regarding the von Restorff effect being a biological response.",
+      "cause": "The von Restorff effect is a biological response (the established claim being referenced)",
+      "effect": "The speaker interrupts to express frustration with that point",
+      "supportsCausality": false,
+      "asserted": "The speaker stops the conversation because the biological-response framing of the von Restorff effect frustrates them.",
+      "notAsserted": [
+        {"text": "The von Restorff effect is NOT biological", "why": "The narration expresses frustration, not a counter-claim; the effect's nature is not settled here"},
+        {"text": "The brand succeeded by being blue", "why": "Color is referenced contextually from prior narration, not asserted as the cause here"}
+      ],
+      "keyFacts": [
+        "The von Restorff effect is described as a biological response",
+        "The speaker expresses frustration with this framing",
+        "The speaker interrupts to raise an objection"
+      ],
+      "wrong": [
+        "The speaker agrees that the von Restorff effect is purely biological",
+        "The brand failed because it chose to be the blue option",
+        "The speaker's frustration is about the brand's market success"
+      ]
+    },
+    {
+      "id": "199",
+      "understanding": "Choosing the conventional, safe option (like IBM) protects a manager's career even if it fails, because failure by conformity is easier to justify than failure by innovation.",
+      "cause": "IBM is the default safe choice; failing conventionally is safer for a middle manager's career",
+      "effect": "It is infinitely safer to fail conventionally than unconventionally",
+      "supportsCausality": true,
+      "asserted": "Nobody ever got fired for buying IBM because conforming to the default is the safest career move for a middle manager.",
+      "notAsserted": [
+        {"text": "IBM is the best product", "why": "The narration makes a career-safety argument, not a product-quality claim"},
+        {"text": "Unconventional choices always fail", "why": "The narration contrasts safety levels, not universal outcomes"}
+      ],
+      "keyFacts": [
+        "IBM is cited as the default safe corporate choice",
+        "Failing conventionally is safer for a middle manager's career",
+        "The saying 'Nobody ever got fired for buying IBM' is a famous corporate adage"
+      ],
+      "wrong": [
+        "IBM became dominant because its products were superior",
+        "Middle managers who buy IBM are more likely to be promoted",
+        "Unconventional choices are safer for a manager's career than conventional ones"
+      ]
+    },
+    {
+      "id": "210",
+      "understanding": "Despite the clumsy candidate's embarrassing coffee spill, the interviewer decides to hire them, which feels counterintuitive.",
+      "cause": "The candidate spilled coffee and was clearly mortified",
+      "effect": "The interviewer sits down and hires the clumsy candidate anyway, against intuition",
+      "supportsCausality": true,
+      "asserted": "You hire the clumsy candidate who spilled coffee, and the narration acknowledges this feels counterintuitive.",
+      "notAsserted": [
+        {"text": "The clumsy candidate is objectively the best hire", "why": "The narration calls it counterintuitive, not objectively superior"},
+        {"text": "The coffee spill was intentional", "why": "The candidate is described as mortified, implying accident"}
+      ],
+      "keyFacts": [
+        "The candidate spilled coffee on the carpet",
+        "The candidate was clearly mortified",
+        "The interviewer chose to hire the clumsy candidate",
+        "The decision is described as counterintuitive"
+      ],
+      "wrong": [
+        "The interviewer rejected the clumsy candidate because of the spill",
+        "The coffee spill improved the interviewer's confidence in the candidate rationally",
+        "The other candidate was hired instead"
+      ]
+    },
+    {
+      "id": "299",
+      "understanding": "Casinos convert cash into chips to psychologically distance gamblers from real money, reducing the pain of loss and encouraging more spending.",
+      "cause": "Casinos force players to convert cash into brightly colored plastic chips",
+      "effect": "The loss is abstracted, the brain stops registering spending as giving up a real resource, friction disappears, and spending increases",
+      "supportsCausality": true,
+      "asserted": "Casinos use chips to abstract the loss so the brain treats money like Monopoly money, removing friction and enabling freer spending.",
+      "notAsserted": [
+        {"text": "Chips make games fairer", "why": "No fairness claim is made; the motivation given is psychological abstraction of loss"},
+        {"text": "Players are unaware of chip conversion", "why": "The narration says casinos force conversion, implying players experience it"}
+      ],
+      "keyFacts": [
+        "Casinos require cash to be converted into brightly colored plastic chips",
+        "Chips abstract the loss away from real money",
+        "The brain stops treating chips as a finite survival resource",
+        "Removing friction increases spending"
+      ],
+      "wrong": [
+        "Casinos use chips primarily for security and fraud prevention",
+        "Players spend less when using chips than cash",
+        "The chip system increases the brain's awareness of real financial loss"
+      ]
+    }
+  ]
+}

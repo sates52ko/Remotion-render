@@ -1,0 +1,16 @@
+{
+  "note": "Deterministic regression suite for CI (scripts/ci-run-tests.js, .github/workflows/regression.yml). No model call, no render, no network, no credential. Measured 2026-10-30 on origin d2570e1a: 101 tests, none renders or touches gh / credentials; 9 need ffmpeg. A known baseline failure is reported apart from a NEW failure: only a new one fails the job. Remove an entry the day its test is fixed.",
+  "args": {
+    "test-agent-entrypoints.js": ["--structure-only"]
+  },
+  "argsWhy": {
+    "test-agent-entrypoints.js": "its behaviour half re-runs 7 other suites (600 s+); those run as themselves here"
+  },
+  "knownBaseline": {
+    "test-action-clarity.js": "stale source-text check: Scene.tsx now also accepts \"place\" next to \"take\" (fails on clean origin d2570e1a)",
+    "test-authorship-gate.js": "3 director checks (lolita / subway vocabulary refusal) fail on clean origin",
+    "test-bible-integrity.js": "the-republic / the-myth-of-sisyphus hit STRATEGY_ACTION_SCHEMA_EXTERNAL (gesture / push) on clean origin",
+    "test-p9a-vox.js": "check V5 (onScreenText pass-through) fails on clean origin",
+    "test-visual-compiler.js": "two T1 checks fail on clean origin"
+  }
+}

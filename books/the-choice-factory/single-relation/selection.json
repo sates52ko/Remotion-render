@@ -1,0 +1,46 @@
+{
+  "schema": "single-relation-selection/1",
+  "policy": "c17-operator-selective-rollout",
+  "maxScenes": 15,
+  "chosen": [
+    {
+      "sceneIndex": 299,
+      "contract": "C:\\Users\\savas\\Cursor\\Remotion\\wt-book-the-choice-factory\\books\\the-choice-factory\\single-relation\\contracts\\299.json",
+      "contractHash": "319168814d09eb8f",
+      "review": "OK",
+      "ab": {
+        "A": 16.7,
+        "B": 66.7,
+        "wiA": 0,
+        "wiB": 0
+      }
+    }
+  ],
+  "kept": [
+    {
+      "sceneIndex": 25,
+      "keep": "A",
+      "why": "A/B: wrong cause with B (2)"
+    },
+    {
+      "sceneIndex": 136,
+      "keep": "A",
+      "why": "A/B: B 16.7 not above A 50"
+    },
+    {
+      "sceneIndex": 187,
+      "keep": "A",
+      "why": "A/B: B 16.7 not above A 16.7"
+    },
+    {
+      "sceneIndex": 199,
+      "keep": "A",
+      "why": "A/B: B 50 not above A 50"
+    },
+    {
+      "sceneIndex": 210,
+      "keep": "A",
+      "why": "A/B: B 0 not above A 50"
+    }
+  ]
+}

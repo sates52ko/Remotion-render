@@ -1,0 +1,4705 @@
+{
+  "slug": "the-choice-factory",
+  "totalSequences": 128,
+  "totalScenes": 370,
+  "averageDurationSecs": 26.4,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "authored",
+      "fromFrame": 2,
+      "durationFrames": 946,
+      "durationSeconds": 31.5,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 2,
+          "durationFrames": 384,
+          "role": "authored-start",
+          "narration": "Picture a shopper hesitating before a supermarket shelf, completely unaware that their decision betw"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 386,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "contrast. Right. Yeah. I mean, we've all been there, right? You're standing in the aisle, the fluore"
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 672,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "looking very serious. Exactly. You're absolutely convinced you're engaged in this rigorous logical c"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 948,
+      "durationFrames": 1027,
+      "durationSeconds": 34.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 948,
+          "durationFrames": 326,
+          "role": "setup",
+          "narration": "you know origin and price per gram like you're a master economist of the grocery store. Yes. But the"
+        },
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1274,
+          "durationFrames": 245,
+          "role": "question",
+          "narration": "The architecture of the shelf, the specific typography on the label, the decoy pricing placed intent"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1519,
+          "durationFrames": 219,
+          "role": "complication",
+          "narration": "I mean, they did the math before your conscious brain even woke up. It is entirely an illusion of ag"
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1738,
+          "durationFrames": 237,
+          "role": "reveal",
+          "narration": "And well, it's a very comforting illusion. We desperately love to believe that we are the conscious "
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "engine",
+      "fromFrame": 1975,
+      "durationFrames": 1080,
+      "durationSeconds": 36,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1975,
+          "durationFrames": 255,
+          "role": "setup",
+          "narration": "We want to be in control. Exactly. We like to view ourselves as these hyperrational calculating mach"
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2230,
+          "durationFrames": 218,
+          "role": "question",
+          "narration": "I mean, neocclassical economics was actually built on this exact premise for over a century. the who"
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2448,
+          "durationFrames": 197,
+          "role": "partial_answer",
+          "narration": "Yeah, homoeconomicist. The perfectly rational human who weighs all available information to maximize"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2645,
+          "durationFrames": 187,
+          "role": "complication",
+          "narration": "But the more you dig into the psychology, the more you realize that homoeconomicus is basically a my"
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2832,
+          "durationFrames": 223,
+          "role": "reveal",
+          "narration": "It just doesn't exist. And that is the core of what we are dissecting today. The grand illusion of c"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "engine",
+      "fromFrame": 3055,
+      "durationFrames": 1212,
+      "durationSeconds": 40.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3055,
+          "durationFrames": 262,
+          "role": "setup",
+          "narration": "Because the fundamental truth we have to face is that human buying behavior is just this factory of "
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3317,
+          "durationFrames": 170,
+          "role": "complication",
+          "narration": "social validation, friction, they all systematically override price and product logic."
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3487,
+          "durationFrames": 291,
+          "role": "partial_answer",
+          "narration": "And the part that really gets under your skin once you see Oh, it's everywhere. Marketers are exploi"
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 3778,
+          "durationFrames": 201,
+          "role": "question",
+          "narration": "They do. And honestly, if we look at it from a biological perspective, they kind of have to. How do "
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 3979,
+          "durationFrames": 288,
+          "role": "reveal",
+          "narration": "Well, the modern consumer is bombarded with thousands of micro decisions a day. Imagine if you actua"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 4267,
+      "durationFrames": 1123,
+      "durationSeconds": 37.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4267,
+          "durationFrames": 319,
+          "role": "setup",
+          "narration": "I would never leave the house, right? If you stood in the toothpaste aisle and actively calculated t"
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4586,
+          "durationFrames": 231,
+          "role": "question",
+          "narration": "options. Your brain would literally freeze up. It would. Our cognitive bandwidth is like computer RA"
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 4817,
+          "durationFrames": 237,
+          "role": "complication",
+          "narration": "We simply don't have the processing power to navigate modern capitalism using system two, our slow a"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5054,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "Exactly. We rely on huristics. We outsource the heavy lifting to mental shortcuts just to survive th"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "engine",
+      "fromFrame": 5390,
+      "durationFrames": 1001,
+      "durationSeconds": 33.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5390,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "terrifying mechanics laid out in Richard Shottton's book, The Choice Factory. Such a great book. It "
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5630,
+          "durationFrames": 226,
+          "role": "question",
+          "narration": "He tracks an ordinary consumer navigating 25 mundane daily decision moments. Just normal stuff. Yeah"
+        },
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 5856,
+          "durationFrames": 331,
+          "role": "complication",
+          "narration": "And he maps those moments to the most robust behavioral psychology experiments of the last 50 years."
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6187,
+          "durationFrames": 204,
+          "role": "reveal",
+          "narration": "The heavy hitters. And he pits those academic theories against actual commercial advertising campaig"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 6391,
+      "durationFrames": 972,
+      "durationSeconds": 32.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6391,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "It's basically the ivory tower meeting the billboard. It's a masterclass in structural analysis real"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6662,
+          "durationFrames": 356,
+          "role": "question",
+          "narration": "By grounding these lofty academic models in the mundane reality of, you know, buying a flat white or"
+        },
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7018,
+          "durationFrames": 345,
+          "role": "reveal",
+          "narration": "We stop talking about abstract cognitive biases and start talking about why you bought that specific"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "engine",
+      "fromFrame": 7363,
+      "durationFrames": 204,
+      "durationSeconds": 6.8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7363,
+          "durationFrames": 204,
+          "role": "reveal",
+          "narration": "the checkout line is going to sound very different. You are about to see the gears turning behind th"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "authored",
+      "fromFrame": 7567,
+      "durationFrames": 883,
+      "durationSeconds": 29.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7567,
+          "durationFrames": 286,
+          "role": "authored-start",
+          "narration": "It's a one-way trip. It's you can't unsee it. No, you really can't. So, let's jump right into the fi"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7853,
+          "durationFrames": 259,
+          "role": "authored-kept",
+          "narration": "Okay. Tuesday morning. You pull the front door shut. You're holding a lukewarm travel mug of coffee "
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8112,
+          "durationFrames": 338,
+          "role": "authored-kept",
+          "narration": "It's freezing out. Very miserable. Halfway to the car, you spot a man slumped in a doorway holding a"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "engine",
+      "fromFrame": 8450,
+      "durationFrames": 471,
+      "durationSeconds": 15.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8450,
+          "durationFrames": 190,
+          "role": "setup",
+          "narration": "in a sharp pinstriped suit rushes past him, Actively averting his gaze, looking at his watch."
+        },
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8640,
+          "durationFrames": 281,
+          "role": "reveal",
+          "narration": "Instantly, your brain renders a verdict. You think, \"What an incredibly selfish person.\" Corporate g"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "authored",
+      "fromFrame": 8921,
+      "durationFrames": 386,
+      "durationSeconds": 12.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 8921,
+          "durationFrames": 189,
+          "role": "authored-start",
+          "narration": "But then you reach into your own pocket. You realize you only have a single note"
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9110,
+          "durationFrames": 197,
+          "role": "authored-kept",
+          "narration": "or a $5 bill and you need it for Oh no. You hesitate. You justify it to yourself."
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "engine",
+      "fromFrame": 9307,
+      "durationFrames": 1104,
+      "durationSeconds": 36.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9307,
+          "durationFrames": 142,
+          "role": "setup",
+          "narration": "And what do you do? You speed up. You look at your phone. You avert your gaze."
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9449,
+          "durationFrames": 305,
+          "role": "question",
+          "narration": "The speed at which our brains execute that double standard is just breathtaking. It is. You immediat"
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 9754,
+          "durationFrames": 204,
+          "role": "partial_answer",
+          "narration": "flawed. Yet you completely forgave your own identical behavior by pointing to your immediate Right."
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 9958,
+          "durationFrames": 153,
+          "role": "complication",
+          "narration": "Like, I only had a five. I was running late. I needed parking. Exactly."
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10111,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "This is the quintessential demonstration of the fundamental attribution error. We constantly overest"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "engine",
+      "fromFrame": 10411,
+      "durationFrames": 1116,
+      "durationSeconds": 37.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10411,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "the importance of the immediate environmental context. And if you're running a marketing department "
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10663,
+          "durationFrames": 327,
+          "role": "question",
+          "narration": "Oh, Because brands obsess over target demographic profiles. They spend entire quarters defining thei"
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 10990,
+          "durationFrames": 170,
+          "role": "complication",
+          "narration": "We target ambitious millennials. Yeah. Or we target affluent introverts."
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11160,
+          "durationFrames": 367,
+          "role": "reveal",
+          "narration": "They build these elaborate fictional avatars, but they completely ignore the actual driver of human "
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "engine",
+      "fromFrame": 11527,
+      "durationFrames": 485,
+      "durationSeconds": 16.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11527,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "person is and we completely ignore where they are and how they are feeling in that split second. So "
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 11741,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "To understand the sheer gravity of this, talk about Darly and Batson's Good Samaritan study because "
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "authored",
+      "fromFrame": 12012,
+      "durationFrames": 516,
+      "durationSeconds": 17.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12012,
+          "durationFrames": 288,
+          "role": "authored-start",
+          "narration": "It remains one of the most stunning indictments of human character ever conducted. That's a big clai"
+        },
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12300,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "These are seminary students whose stated absolute life goal is to serve God and help others. Right? "
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "authored",
+      "fromFrame": 12528,
+      "durationFrames": 528,
+      "durationSeconds": 17.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12528,
+          "durationFrames": 290,
+          "role": "authored-start",
+          "narration": "Theoretically, yes. They told them they needed to walk across the campus to an adjacent building to "
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 12818,
+          "durationFrames": 238,
+          "role": "authored-kept",
+          "narration": "Some of these theology students were explicitly assigned to give their talk on the parable of the Go"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "engine",
+      "fromFrame": 13056,
+      "durationFrames": 367,
+      "durationSeconds": 12.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13056,
+          "durationFrames": 367,
+          "role": "reveal",
+          "narration": "You really can't. It's almost too perfect. But here is where the psychological trap was set. Darlene"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "authored",
+      "fromFrame": 13423,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13423,
+          "durationFrames": 341,
+          "role": "authored-start",
+          "narration": "Some students were told, \"It'll be a few minutes before they're ready for you, but you might as well"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13764,
+          "durationFrames": 223,
+          "role": "authored-kept",
+          "narration": "hurry. The final group was told, \"Oh, you're late. They were expecting you a few minutes ago. You'd "
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "engine",
+      "fromFrame": 13987,
+      "durationFrames": 245,
+      "durationSeconds": 8.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 13987,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "And then the Yes. On their way across the Princeton campus, the researchers placed an actor slumped "
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "authored",
+      "fromFrame": 14232,
+      "durationFrames": 610,
+      "durationSeconds": 20.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14232,
+          "durationFrames": 365,
+          "role": "authored-start",
+          "narration": "As the seminary students passed by, the actor would cough violently and groan, clearly in physical d"
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14597,
+          "durationFrames": 245,
+          "role": "authored-kept",
+          "narration": "that a person who has dedicated their entire life to theology, who is literally on their way to prea"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "engine",
+      "fromFrame": 14842,
+      "durationFrames": 1094,
+      "durationSeconds": 36.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 14842,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "because we believe character dictates action. But character meant almost nothing. Their vocational c"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 15070,
+          "durationFrames": 273,
+          "role": "question",
+          "narration": "The only statistically significant variable that predicted whether they stopped to help was the arti"
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15343,
+          "durationFrames": 247,
+          "role": "complication",
+          "narration": "The hurry. The hurry. In the low hurry group, 63% of the students stopped to help. But in the high h"
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15590,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "a mere 10% Let that sink in. just 10%. Some of the rushing theology students literally stepped over "
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "engine",
+      "fromFrame": 15936,
+      "durationFrames": 1073,
+      "durationSeconds": 35.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 15936,
+          "durationFrames": 312,
+          "role": "setup",
+          "narration": "a speech about the good That is just brutal to hear. It strips away so much of our ego. I mean, the "
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16248,
+          "durationFrames": 362,
+          "role": "question",
+          "narration": "And when Shawn maps this into the commercial space in the choice factory, the parallels are undeniab"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16610,
+          "durationFrames": 399,
+          "role": "reveal",
+          "narration": "interact with online ad buying. They found that if a consumer sees an online ad for under a second, "
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 17009,
+      "durationFrames": 645,
+      "durationSeconds": 21.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 17009,
+          "durationFrames": 326,
+          "role": "setup",
+          "narration": "map narrows so severely to focus on their immediate goal, like closing a popup or finding their flig"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 17335,
+          "durationFrames": 319,
+          "role": "reveal",
+          "narration": "Exactly. You could put the most compelling, beautifully designed argument in front of them and it wi"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "authored",
+      "fromFrame": 17654,
+      "durationFrames": 545,
+      "durationSeconds": 18.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17654,
+          "durationFrames": 279,
+          "role": "authored-start",
+          "narration": "Okay, I have to play devil's advocate here, though. Go for it. I hear the Princeton study, but surel"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 17933,
+          "durationFrames": 266,
+          "role": "authored-kept",
+          "narration": "my personal tastes, my political leanings still dictates what I actually buy significantly more than"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "engine",
+      "fromFrame": 18199,
+      "durationFrames": 1131,
+      "durationSeconds": 37.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 18199,
+          "durationFrames": 255,
+          "role": "setup",
+          "narration": "You'd think so. Like a a Russian millionaire is still going to buy a Rolex on their way to the gate."
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 18454,
+          "durationFrames": 312,
+          "role": "question",
+          "narration": "Doesn't personality and demographics set the baseline? That is the standard push back and it makes i"
+        },
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 18766,
+          "durationFrames": 357,
+          "role": "complication",
+          "narration": "A heristic can't make you spend money you literally do not possess in your bank account. Right? But "
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 19123,
+          "durationFrames": 207,
+          "role": "reveal",
+          "narration": "Demographics give you the realm of possibility, but context pulls the trigger. Context pulls the tri"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "engine",
+      "fromFrame": 19330,
+      "durationFrames": 1135,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 19330,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "Targeting an audience based solely on their income or their stated preferences is functionally usele"
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 19570,
+          "durationFrames": 350,
+          "role": "question",
+          "narration": "You have to reach them when they actually have the cognitive bandwidth to absorb the I see. If you s"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19920,
+          "durationFrames": 338,
+          "role": "complication",
+          "narration": "flight, they won't even register the brand. Context trumps the demographic almost every single time."
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 20258,
+          "durationFrames": 207,
+          "role": "reveal",
+          "narration": "calculations based on our internal identity. our purchasing choices are highly predictable heristic "
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "engine",
+      "fromFrame": 20465,
+      "durationFrames": 1080,
+      "durationSeconds": 36,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 20465,
+          "durationFrames": 331,
+          "role": "setup",
+          "narration": "triggered by the immediate context, the physical friction and the framing that marketers exploit. Ex"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 20796,
+          "durationFrames": 319,
+          "role": "question",
+          "narration": "to that degree, we have to look at our external context too. Which means specifically the presence o"
+        },
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 21115,
+          "durationFrames": 149,
+          "role": "complication",
+          "narration": "powerful context of all. Which brings us to the phenomenon of social proof"
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 21264,
+          "durationFrames": 281,
+          "role": "reveal",
+          "narration": "and the power of numbers. Let's paint another picture. Let's do it. You're driving to the train stat"
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 21545,
+      "durationFrames": 381,
+      "durationSeconds": 12.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 21545,
+          "durationFrames": 230,
+          "role": "setup",
+          "narration": "There is a huddle of five or six pedestrians standing there and every single one of them is craning "
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 21775,
+          "durationFrames": 151,
+          "role": "reveal",
+          "narration": "at the top branches of a massive oak tree. Yeah, I know where this is going."
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "authored",
+      "fromFrame": 21926,
+      "durationFrames": 536,
+      "durationSeconds": 17.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 21926,
+          "durationFrames": 286,
+          "role": "authored-start",
+          "narration": "Before your conscious brain even processes what you were doing, before you even formulate a hypothes"
+        },
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 22212,
+          "durationFrames": 250,
+          "role": "authored-kept",
+          "narration": "you find yourself leaning over the steering wheel, peering up through the windshield, looking at the"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "engine",
+      "fromFrame": 22462,
+      "durationFrames": 1135,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 22462,
+          "durationFrames": 331,
+          "role": "setup",
+          "narration": "Totally involuntary. And it exists for a very good evolutionary reason. For a highly social species "
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 22793,
+          "durationFrames": 317,
+          "role": "question",
+          "narration": "a great way to get eaten by a leopard. Good point. When we are unsure of what to do or what is happe"
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 23110,
+          "durationFrames": 302,
+          "role": "complication",
+          "narration": "assuming that the group must possess information that we And if you are building a brand or selling "
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 23412,
+          "durationFrames": 185,
+          "role": "reveal",
+          "narration": "Showing existing popularity transforms consumer hesitation into herd compliance."
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "engine",
+      "fromFrame": 23597,
+      "durationFrames": 1073,
+      "durationSeconds": 35.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23597,
+          "durationFrames": 223,
+          "role": "setup",
+          "narration": "If you can prove to a buyer that a lot of other people already like your product, you completely byp"
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 23820,
+          "durationFrames": 276,
+          "role": "question",
+          "narration": "They stop asking, \"Is this good?\" and start asking, \"Where do I sign up?\" So I'm not left out. Exact"
+        },
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 24096,
+          "durationFrames": 266,
+          "role": "complication",
+          "narration": "The master, his work on influence is legendary. Talk about the hotel towel reuse experiment because "
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 24362,
+          "durationFrames": 308,
+          "role": "reveal",
+          "narration": "We have all seen those little placards left on the bathroom counter in a hotel, usually with a pictu"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 24670,
+      "durationFrames": 1015,
+      "durationSeconds": 33.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24670,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "Chelini tested that standard rational environmental message. It yielded about 35% compliance,"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 24886,
+          "durationFrames": 352,
+          "role": "question",
+          "narration": "which isn't a terrible success rate, which isn't a terrible success rate, but it inherently relies o"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 25238,
+          "durationFrames": 267,
+          "role": "complication",
+          "narration": "an ideological commitment. It asks for a rational moral judgment. But then Chaldini stripped away th"
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 25505,
+          "durationFrames": 180,
+          "role": "reveal",
+          "narration": "What did he do? He changed the card to simply read, \"Most people reuse their towels.\" That was it."
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "engine",
+      "fromFrame": 25685,
+      "durationFrames": 977,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25685,
+          "durationFrames": 372,
+          "role": "setup",
+          "narration": "That was it. Relying purely on the psychological weight of social proof, that single sentence booste"
+        },
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 26057,
+          "durationFrames": 240,
+          "role": "question",
+          "narration": "amplifies a heristic. He didn't stop there. He tailored the message to say most people in this speci"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 26297,
+          "durationFrames": 201,
+          "role": "complication",
+          "narration": "No way. Yes. Compliance pushed to nearly 49%. Almost half the guests complied"
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26498,
+          "durationFrames": 164,
+          "role": "reveal",
+          "narration": "just because they thought the phantom strangers who previously slept in that exact bed had done it."
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 26662,
+      "durationFrames": 1082,
+      "durationSeconds": 36.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 26662,
+          "durationFrames": 345,
+          "role": "setup",
+          "narration": "That is just wild to me. It ceases to have anything to do with saving water. And it becomes entirely"
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 27007,
+          "durationFrames": 267,
+          "role": "question",
+          "narration": "It's the phantom peer pressure. And you see this exact mechanism deployed in retail constantly. Shot"
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 27274,
+          "durationFrames": 218,
+          "role": "complication",
+          "narration": "Right. The porter. Yeah, the pub had a specific porter on draft that was selling decently but not br"
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27492,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "They didn't lower the price. They didn't run a taste test. They didn't change the lighting. They sim"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "engine",
+      "fromFrame": 27744,
+      "durationFrames": 1006,
+      "durationSeconds": 33.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27744,
+          "durationFrames": 206,
+          "role": "setup",
+          "narration": "bestselling ale of the week. And the results were immediate. Sales multiplied by two and a half time"
+        },
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 27950,
+          "durationFrames": 243,
+          "role": "question",
+          "narration": "The liquid in the glass didn't magically taste better. The economic value didn't change. should simp"
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 28193,
+          "durationFrames": 336,
+          "role": "complication",
+          "narration": "which creates a fascinating self-fulfilling prophecy. When people see a product as popular, they buy"
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28529,
+          "durationFrames": 221,
+          "role": "reveal",
+          "narration": "It becomes a runaway train of heristic compliance. Okay. But wait, I have a serious bone to pick wit"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "engine",
+      "fromFrame": 28750,
+      "durationFrames": 314,
+      "durationSeconds": 10.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28750,
+          "durationFrames": 314,
+          "role": "reveal",
+          "narration": "Because if you sit people down in a focus group or if you run a broad survey, almost everyone will f"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "authored",
+      "fromFrame": 29064,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 29064,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "I know I fall into this trap. I like to think of myself as an independent thinker. If you ask me why"
+        },
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29393,
+          "durationFrames": 235,
+          "role": "authored-kept",
+          "narration": "artisal brewing method, and the malt balance. You'd sound very sophisticated. I would try, but I wou"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "engine",
+      "fromFrame": 29628,
+      "durationFrames": 1097,
+      "durationSeconds": 36.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29628,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "I bought it because a sign told me it was popular. And the brilliant part is you wouldn't be lying. "
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 29899,
+          "durationFrames": 271,
+          "role": "question",
+          "narration": "This discrepancy raises a massive warning flag about how companies gather data. It is exactly why tr"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 30170,
+          "durationFrames": 315,
+          "role": "complication",
+          "narration": "People just make up reasons, right? David Oglev, the legendary advertising executive, had a quote th"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30485,
+          "durationFrames": 240,
+          "role": "reveal",
+          "narration": "feel, say what they think, or do what they say. We are incredible, worldclass confabulators. It's th"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "engine",
+      "fromFrame": 30725,
+      "durationFrames": 1171,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 30725,
+          "durationFrames": 321,
+          "role": "setup",
+          "narration": "Exactly. We like to think our conscious, rational brain is the oval office making all the executive "
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 31046,
+          "durationFrames": 341,
+          "role": "partial_answer",
+          "narration": "System one, the herd heristic, makes the decision in milliseconds based on a sign on the bar. Then s"
+        },
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 31387,
+          "durationFrames": 173,
+          "role": "question",
+          "narration": "sounding justification for why we made that choice. Just to protect our own ego and sense of"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31560,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "I chose the beer for the hops, says the press secretary, completely ignoring the giant bestseller si"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "engine",
+      "fromFrame": 31896,
+      "durationFrames": 982,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 31896,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "of pros and cons. Our buying choices are just these predictable shortcuts triggered by framing. We l"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 32177,
+          "durationFrames": 273,
+          "role": "question",
+          "narration": "make the choice for us. But invoking the herd can be a remarkably dangerous strategy if you don't un"
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 32450,
+          "durationFrames": 190,
+          "role": "complication",
+          "narration": "Because social proof has a dark, highly destructive twin. Yes, negative social proof."
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32640,
+          "durationFrames": 238,
+          "role": "reveal",
+          "narration": "This is honestly one of my favorite concepts in the entire book because you see brands completely sh"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "authored",
+      "fromFrame": 32878,
+      "durationFrames": 1423,
+      "durationSeconds": 47.4,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 32878,
+          "durationFrames": 292,
+          "role": "authored-start",
+          "narration": "Let's jump back into the commute. You finally secure a seat on the train. You settle in, pull out yo"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 33170,
+          "durationFrames": 207,
+          "role": "authored-kept",
+          "narration": "Immediately, the article is blocked by a massive screenhoging banner begging for a donation. We all "
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33377,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "And the headline is practically crying. More people are reading our journalism than ever before, but"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 33576,
+          "durationFrames": 307,
+          "role": "authored-kept",
+          "narration": "We are facing a How does your brain react? You don't pull out your credit card, you instantly start "
+        },
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 33883,
+          "durationFrames": 207,
+          "role": "authored-kept",
+          "narration": "And by closing that ad and reading for free, you are doing exactly what the advertisement inadverten"
+        },
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 34090,
+          "durationFrames": 211,
+          "role": "authored-kept",
+          "narration": "You are joining the vast majority of people who don't pay. For anyone writing copy or running a char"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "engine",
+      "fromFrame": 34301,
+      "durationFrames": 245,
+      "durationSeconds": 8.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 34301,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "Warning consumers that too many people are doing something wrong accidentally acts as a psychologica"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "authored",
+      "fromFrame": 34546,
+      "durationFrames": 758,
+      "durationSeconds": 25.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 34546,
+          "durationFrames": 388,
+          "role": "authored-start",
+          "narration": "It normalizes the exact action the marketer is desperately trying to It's a tragic irony born of rat"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 34934,
+          "durationFrames": 370,
+          "role": "authored-kept",
+          "narration": "a problem is. Right? They think if we show them the math of the shortfall, they will logically step "
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "authored",
+      "fromFrame": 35304,
+      "durationFrames": 624,
+      "durationSeconds": 20.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 35304,
+          "durationFrames": 348,
+          "role": "authored-start",
+          "narration": "somewhat disastrously at the Petrified Forest National Park in Oh, the stolen wood study. Yes. The p"
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35652,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "wood as Just slipping them in their pockets. Exactly. It seems small on an individual level, but in "
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "engine",
+      "fromFrame": 35928,
+      "durationFrames": 197,
+      "durationSeconds": 6.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 35928,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "geological history was going missing every single year. The park rangers were desperate, so they dep"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "authored",
+      "fromFrame": 36125,
+      "durationFrames": 530,
+      "durationSeconds": 17.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 36125,
+          "durationFrames": 259,
+          "role": "authored-start",
+          "narration": "They deployed signage, and Chaldini's team tracked the results. They tested different variations of "
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 36384,
+          "durationFrames": 271,
+          "role": "authored-kept",
+          "narration": "It simply laid out the rule, begging people not to steal the wood. But crucially, it made no mention"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "engine",
+      "fromFrame": 36655,
+      "durationFrames": 180,
+      "durationSeconds": 6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36655,
+          "durationFrames": 180,
+          "role": "reveal",
+          "narration": "That baseline sign resulted in a theft rate of 1.7%. Still some theft, but a baseline, right?"
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "authored",
+      "fromFrame": 36835,
+      "durationFrames": 795,
+      "durationSeconds": 26.5,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 36835,
+          "durationFrames": 365,
+          "role": "authored-start",
+          "narration": "But then they tested a sign that leaned heavily on negative social proof. It warned, \"Many past visi"
+        },
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 37200,
+          "durationFrames": 206,
+          "role": "authored-kept",
+          "narration": "of the damage would invoke environmental guilt. Exactly. They thought the scale of the tragedy would"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 37406,
+          "durationFrames": 224,
+          "role": "authored-kept",
+          "narration": "Instead, thefts skyrocketed. They quadrupled to an astonishing 7.9%."
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "engine",
+      "fromFrame": 37630,
+      "durationFrames": 1132,
+      "durationSeconds": 37.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 37630,
+          "durationFrames": 343,
+          "role": "setup",
+          "narration": "Wow. Because the sign didn't translate as a warning to the human brain. Translated as an invitation."
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 37973,
+          "durationFrames": 314,
+          "role": "question",
+          "narration": "this wood before the other tourists take it all.\" It completely normalized the crime. And the tragic"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 38287,
+          "durationFrames": 264,
+          "role": "complication",
+          "narration": "Look at Wikipedia's fundraising drives. Jimmy Wales's face pops up complaining that only a tiny frac"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 38551,
+          "durationFrames": 211,
+          "role": "reveal",
+          "narration": "Or the National Health Service in the Oh, the blood donation campaign. Yes. Running massive campaign"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "authored",
+      "fromFrame": 38762,
+      "durationFrames": 725,
+      "durationSeconds": 24.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 38762,
+          "durationFrames": 365,
+          "role": "authored-start",
+          "narration": "of eligible people give blood. They think they are highlighting an urgent critical shortfall to rall"
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 39127,
+          "durationFrames": 360,
+          "role": "authored-kept",
+          "narration": "of people don't give blood. Wow. Okay, I'm completely off the hook. I'm just acting in accordance wi"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "authored",
+      "fromFrame": 39487,
+      "durationFrames": 823,
+      "durationSeconds": 27.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 39487,
+          "durationFrames": 351,
+          "role": "authored-start",
+          "narration": "logic takes over. You'd think if a problem is genuinely massive, like 14 tons of ancient forest disa"
+        },
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 39838,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "moral obligation to communicate the terrifying severity of the crisis? Doesn't shocking people with "
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 40102,
+          "durationFrames": 208,
+          "role": "authored-kept",
+          "narration": "You are falling right back into the trap of assuming humans process statistics through a lens of mor"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "engine",
+      "fromFrame": 40310,
+      "durationFrames": 204,
+      "durationSeconds": 6.8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 40310,
+          "durationFrames": 204,
+          "role": "reveal",
+          "narration": "We are tribal mimics. Our brains evolved to blend in, not to stand out as moral martyrs."
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "authored",
+      "fromFrame": 40514,
+      "durationFrames": 584,
+      "durationSeconds": 19.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 40514,
+          "durationFrames": 221,
+          "role": "authored-start",
+          "narration": "If you tell us everyone is freeloading or everyone is stealing, the cognitive shortcut fires immedia"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 40735,
+          "durationFrames": 363,
+          "role": "authored-kept",
+          "narration": "It's self-preservation. It screams I would be an absolute sucker, an evolutionary loser to be the on"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "authored",
+      "fromFrame": 41098,
+      "durationFrames": 624,
+      "durationSeconds": 20.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 41098,
+          "durationFrames": 278,
+          "role": "authored-start",
+          "narration": "If you want to stop a bad behavior, you absolutely cannot publicize how incredibly common that bad b"
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 41376,
+          "durationFrames": 346,
+          "role": "authored-kept",
+          "narration": "So you have to manufacture the illusion of the good herd. Exactly. So instead of the NHS saying only"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "engine",
+      "fromFrame": 41722,
+      "durationFrames": 1108,
+      "durationSeconds": 36.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 41722,
+          "durationFrames": 369,
+          "role": "setup",
+          "narration": "to give blood this year. Come join them. You highlight the descriptive norm of the positive behavior"
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 42091,
+          "durationFrames": 367,
+          "role": "question",
+          "narration": "We default to the shortcut of mimicking the crowd, which proves yet again that rational calculations"
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 42458,
+          "durationFrames": 372,
+          "role": "reveal",
+          "narration": "So, we've thoroughly established how the gravity of the crowd pulls us in. But there is a flip side "
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "engine",
+      "fromFrame": 42830,
+      "durationFrames": 893,
+      "durationSeconds": 29.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 42830,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "you become completely invisible. Ah, okay. Let's jump back to that grim morning commute. The gift th"
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 43051,
+          "durationFrames": 365,
+          "role": "question",
+          "narration": "Truly, you're shuffling toward the station ticket gates. You are caught in a miserable sea of commut"
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 43416,
+          "durationFrames": 307,
+          "role": "reveal",
+          "narration": "or holding a black umbrella. Just a blur of monochrome monotony. Exactly. And then suddenly your eye"
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "authored",
+      "fromFrame": 43723,
+      "durationFrames": 399,
+      "durationSeconds": 13.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 43723,
+          "durationFrames": 195,
+          "role": "authored-start",
+          "narration": "Now he is wearing the standard uniform, but he has a two-ft tall chemically bright blue moakin"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 43918,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "You can't miss it. In a sea of thousands of people, you literally cannot look away from him. He owns"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "engine",
+      "fromFrame": 44122,
+      "durationFrames": 1051,
+      "durationSeconds": 35,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 44122,
+          "durationFrames": 381,
+          "role": "setup",
+          "narration": "Because your brain is fundamentally a difference engine through the mechanism of predictive coding, "
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 44503,
+          "durationFrames": 240,
+          "role": "question",
+          "narration": "power. So if everything is gray, your brain stops processing gray. But it is aggressively evolved to"
+        },
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 44743,
+          "durationFrames": 147,
+          "role": "complication",
+          "narration": "A break in the pattern could historically mean a predator, a food source, or a threat."
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 44890,
+          "durationFrames": 283,
+          "role": "reveal",
+          "narration": "We cannot ignore So for a brand trying to survive on a supermarket shelf or a digital ad feed, here "
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "engine",
+      "fromFrame": 45173,
+      "durationFrames": 1128,
+      "durationSeconds": 37.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 45173,
+          "durationFrames": 285,
+          "role": "setup",
+          "narration": "Standing out from category convention triggers intense memory recall and ultimately purchases while "
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 45458,
+          "durationFrames": 284,
+          "role": "question",
+          "narration": "Totally invisible. If your marketing looks exactly like your competitor's marketing, you aren't play"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 45742,
+          "durationFrames": 170,
+          "role": "complication",
+          "narration": "This brings us to a foundational concept in cognitive psychology. The van Rustorf effect."
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 45912,
+          "durationFrames": 389,
+          "role": "reveal",
+          "narration": "It is named after the German psychiatrist and Gestalt psychologist Hedwick von Rusttof back in the 1"
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "authored",
+      "fromFrame": 46301,
+      "durationFrames": 588,
+      "durationSeconds": 19.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 46301,
+          "durationFrames": 276,
+          "role": "authored-start",
+          "narration": "She gave participants a long list of items to memorize. It was mostly random, meaningless strings of"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 46577,
+          "durationFrames": 312,
+          "role": "authored-kept",
+          "narration": "PLK, just boring data. Very boring. But hidden right in the middle of this monotonous list of letter"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "engine",
+      "fromFrame": 46889,
+      "durationFrames": 525,
+      "durationSeconds": 17.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 46889,
+          "durationFrames": 377,
+          "role": "setup",
+          "narration": "a difference engine, the numbers acted like the blue Exactly. When tested later, the participants re"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 47266,
+          "durationFrames": 148,
+          "role": "reveal",
+          "narration": "When an item is isolated by its distinctiveness, it breaks the habituation filter."
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "authored",
+      "fromFrame": 47414,
+      "durationFrames": 694,
+      "durationSeconds": 23.1,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 47414,
+          "durationFrames": 219,
+          "role": "authored-start",
+          "narration": "The brain latches on to the thing that shatters the pattern. And if we pull this out of the 1930s la"
+        },
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 47633,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "Shodton highlights one of the greatest commercial pivots of the 21st Oh, compare the market. Yes, th"
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 47861,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "This case study is legendary. If you go back to 2008, the state of price comparison websites was a p"
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "engine",
+      "fromFrame": 48108,
+      "durationFrames": 161,
+      "durationSeconds": 5.4,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 48108,
+          "durationFrames": 161,
+          "role": "reveal",
+          "narration": "They all look the same. Every single brand, Go Compare, Money Supermarket, Confused.com,"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "authored",
+      "fromFrame": 48269,
+      "durationFrames": 941,
+      "durationSeconds": 31.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 48269,
+          "durationFrames": 247,
+          "role": "authored-start",
+          "narration": "was running identical, aggressive, shouty ads. They were just vomiting rational, functional benefits"
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 48516,
+          "durationFrames": 358,
+          "role": "authored-kept",
+          "narration": "We can save you 150 on your premium. Look at our spreadsheet. It was entirely rational, mathematical"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 48874,
+          "durationFrames": 336,
+          "role": "authored-kept",
+          "narration": "They abandoned the product logic entirely. They stopped talking about insurance. Instead, they launc"
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "source": "authored",
+      "fromFrame": 49210,
+      "durationFrames": 552,
+      "durationSeconds": 18.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 49210,
+          "durationFrames": 405,
+          "role": "authored-start",
+          "narration": "Russian mircat named Alexander Orlov. It's so weird when you say it out loud. It is. The premise of "
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 49615,
+          "durationFrames": 147,
+          "role": "authored-kept",
+          "narration": "site, compare the mircat.com, when they were looking for car insurance. It was absurd."
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "source": "authored",
+      "fromFrame": 49762,
+      "durationFrames": 1029,
+      "durationSeconds": 34.3,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 49762,
+          "durationFrames": 312,
+          "role": "authored-start",
+          "narration": "It broke every single established category convention for financial services and the results were ge"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 50074,
+          "durationFrames": 163,
+          "role": "authored-kept",
+          "narration": "83%. They hit their aggressive 12-month growth objectives in 9 weeks."
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 50237,
+          "durationFrames": 197,
+          "role": "authored-kept",
+          "narration": "They skyrocketed from being a middle-of the pack player to the absolute market leader. And they did "
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 50434,
+          "durationFrames": 357,
+          "role": "authored-kept",
+          "narration": "to be the blue moakin. But I'm going to stop you right there because this is the part that frustrate"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "source": "engine",
+      "fromFrame": 50791,
+      "durationFrames": 816,
+      "durationSeconds": 27.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 50791,
+          "durationFrames": 389,
+          "role": "setup",
+          "narration": "so incredibly obviously profitable, why doesn't everyone do it? Good question. I mean, turn on your "
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 51180,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "bend with deep voice over. Always. Every single luxury watch ad in a magazine shows the time piece s"
+        },
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 51432,
+          "durationFrames": 175,
+          "role": "reveal",
+          "narration": "Every perfume commercial features a moody celebrity staring longingly off the bow of a yacht."
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "source": "authored",
+      "fromFrame": 51607,
+      "durationFrames": 600,
+      "durationSeconds": 20,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 51607,
+          "durationFrames": 353,
+          "role": "authored-start",
+          "narration": "If being different makes you rich, why do highly paid marketing executives absolutely insist on copy"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 51960,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "with a lack of creativity. What is it then? It comes down to a structural economic issue called the "
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "source": "engine",
+      "fromFrame": 52207,
+      "durationFrames": 571,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 52207,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "paralyzing career Explain that. The interests of the brand, the principal, are not aligned with the "
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 52548,
+          "durationFrames": 230,
+          "role": "reveal",
+          "narration": "a wild creative risk is mathematically worth it because the payoff of a runaway success covers the c"
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "source": "authored",
+      "fromFrame": 52778,
+      "durationFrames": 1815,
+      "durationSeconds": 60.5,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 52778,
+          "durationFrames": 159,
+          "role": "authored-start",
+          "narration": "The compare the market strategy. Exactly. But for the human marketing executive,"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 52937,
+          "durationFrames": 333,
+          "role": "authored-kept",
+          "narration": "their personal risk calculus is totally different. If they approve a bizarre off on guard ad featuri"
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 53270,
+          "durationFrames": 358,
+          "role": "authored-kept",
+          "narration": "for being reckless. But if they fail normally if they run a standard boring monochrome car ad on a m"
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 53628,
+          "durationFrames": 312,
+          "role": "authored-kept",
+          "narration": "report and say, \"Well, we followed best practices. We did what the category dictates. It must be mac"
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 53940,
+          "durationFrames": 389,
+          "role": "authored-kept",
+          "narration": "Nobody ever got fired for buying IBM because it's the default safe choice. Precisely. It is infinite"
+        },
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 54329,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "very real risk of professional humiliation. Which is why true distinctiveness remains so rare and pa"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "source": "engine",
+      "fromFrame": 54593,
+      "durationFrames": 672,
+      "durationSeconds": 22.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 54593,
+          "durationFrames": 367,
+          "role": "setup",
+          "narration": "for the brave few who actually execute it. It's a structural trap. So rational product logic, how mu"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 54960,
+          "durationFrames": 305,
+          "role": "reveal",
+          "narration": "coding. Completely useless. We don't make rational calculations. Our purchasing choices are predicta"
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "source": "authored",
+      "fromFrame": 55265,
+      "durationFrames": 530,
+      "durationSeconds": 17.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 55265,
+          "durationFrames": 273,
+          "role": "authored-start",
+          "narration": "and the sheer visual framing that marketers use to break through the And sometimes standing out isn'"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 55538,
+          "durationFrames": 257,
+          "role": "authored-kept",
+          "narration": "Sometimes it's about acting differently on an emotional specifically by intentionally admitting you "
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "source": "engine",
+      "fromFrame": 55795,
+      "durationFrames": 1011,
+      "durationSeconds": 33.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 55795,
+          "durationFrames": 279,
+          "role": "setup",
+          "narration": "Okay, let's drop into a highstakes scenario for this one. You are a hiring manager at a prestigious "
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 56074,
+          "durationFrames": 309,
+          "role": "question",
+          "narration": "identical candidates for a crucial role. I mean they are clones on paper. Same immaculate university"
+        },
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 56383,
+          "durationFrames": 175,
+          "role": "complication",
+          "narration": "They both sit in the chair and give flawlessly polished, rehearsed answers to your questions."
+        },
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 56558,
+          "durationFrames": 248,
+          "role": "reveal",
+          "narration": "You're torn, But as the second candidate stands up to leave the office, he catches his foot on the l"
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "source": "engine",
+      "fromFrame": 56806,
+      "durationFrames": 1245,
+      "durationSeconds": 41.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 56806,
+          "durationFrames": 208,
+          "role": "setup",
+          "narration": "his cup of coffee all over the carpet. Oh, a nightmare. Total nightmare. You leave the room ashenfac"
+        },
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 57014,
+          "durationFrames": 228,
+          "role": "question",
+          "narration": "clearly mortified. You sit down at your desk to make your decision, and you hire the clumsy one. It "
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 57242,
+          "durationFrames": 228,
+          "role": "partial_answer",
+          "narration": "It really does. It goes against everything we are taught from childhood about presenting a flawless,"
+        },
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 57470,
+          "durationFrames": 250,
+          "role": "complication",
+          "narration": "But perfection is incredibly intimidating. And more importantly, from a survival standpoint, perfect"
+        },
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 57720,
+          "durationFrames": 331,
+          "role": "reveal",
+          "narration": "When something appears too good to be true, our critical faculties go on high alert, looking for the"
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "source": "engine",
+      "fromFrame": 58051,
+      "durationFrames": 1075,
+      "durationSeconds": 35.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 58051,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "confess a weakness become dramatically more believable, trustworthy, and appealing. A flaw makes you"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 58267,
+          "durationFrames": 365,
+          "role": "question",
+          "narration": "It entirely disarms the consumer's natural This phenomenon is known as the Prattfall effect. It was "
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 58632,
+          "durationFrames": 334,
+          "role": "complication",
+          "narration": "how fallibility impacts attraction. He had an actor record an audio tape of a trivia quiz. The actor"
+        },
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 58966,
+          "durationFrames": 160,
+          "role": "reveal",
+          "narration": "He was portrayed as a polymth, an absolute genius, the perfect candidate. Yes."
+        }
+      ]
+    },
+    {
+      "id": "seq-76",
+      "source": "engine",
+      "fromFrame": 59126,
+      "durationFrames": 1296,
+      "durationSeconds": 43.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 59126,
+          "durationFrames": 308,
+          "role": "setup",
+          "narration": "Aronson then played the tape to groups of university students and asked them to rate the actor's ove"
+        },
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 59434,
+          "durationFrames": 345,
+          "role": "question",
+          "narration": "Correct. But for the second group of students, Aronson added a tiny audio snippet at the very end of"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 59779,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "crash, and the actor groaning, saying he had just spilled a cup of coffee all over his new suit. The"
+        },
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 60055,
+          "durationFrames": 367,
+          "role": "reveal",
+          "narration": "The students who heard the clumsy coffee spill rated the actor as significantly more likable, more a"
+        }
+      ]
+    },
+    {
+      "id": "seq-77",
+      "source": "engine",
+      "fromFrame": 60422,
+      "durationFrames": 1054,
+      "durationSeconds": 35.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 60422,
+          "durationFrames": 190,
+          "role": "setup",
+          "narration": "The small, embarrassing blunder humanized his intimidating brilliance. It made them relatable."
+        },
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 60612,
+          "durationFrames": 235,
+          "role": "question",
+          "narration": "And when you look at the history of legendary advertising, the absolute greatest hall of fame campai"
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 60847,
+          "durationFrames": 336,
+          "role": "complication",
+          "narration": "They absolutely do. Look at the Volkswagen Beetle launch in America in the 1960s. The cars were tiny"
+        },
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 61183,
+          "durationFrames": 293,
+          "role": "reveal",
+          "narration": "cars of the era. Right? They didn't fit in at all. Instead of hiding it, VW ran print ads with headl"
+        }
+      ]
+    },
+    {
+      "id": "seq-78",
+      "source": "authored",
+      "fromFrame": 61476,
+      "durationFrames": 370,
+      "durationSeconds": 12.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 61476,
+          "durationFrames": 199,
+          "role": "authored-start",
+          "narration": "They admitted they were slow. They owned it. Or look at Avis car rental. Herz was the undisputed mar"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 61675,
+          "durationFrames": 171,
+          "role": "authored-kept",
+          "narration": "So Avis ran the tagline Avis is only number two in rent cars. So why go with us?"
+        }
+      ]
+    },
+    {
+      "id": "seq-79",
+      "source": "engine",
+      "fromFrame": 61846,
+      "durationFrames": 1048,
+      "durationSeconds": 34.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 61846,
+          "durationFrames": 309,
+          "role": "setup",
+          "narration": "We try Or Guinness. Instead of trying to hide the fact that a proper plane of Guinness takes an anno"
+        },
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 62155,
+          "durationFrames": 365,
+          "role": "question",
+          "narration": "Good things come to those who wait. It's a psychological Trojan horse. By confessing a minor negativ"
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 62520,
+          "durationFrames": 374,
+          "role": "reveal",
+          "narration": "You sneak the good stuff in behind the bad stuff. Exactly. If a brand is radically honest enough to "
+        }
+      ]
+    },
+    {
+      "id": "seq-80",
+      "source": "engine",
+      "fromFrame": 62894,
+      "durationFrames": 495,
+      "durationSeconds": 16.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 62894,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "they claim it gets incredible gas mileage. The confessed flaw acts as a truth serum for the rest of "
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 63115,
+          "durationFrames": 274,
+          "role": "reveal",
+          "narration": "Okay, but wait, I'm stopping you here because I see a massive flaw in this What is it? What if the b"
+        }
+      ]
+    },
+    {
+      "id": "seq-81",
+      "source": "authored",
+      "fromFrame": 63389,
+      "durationFrames": 701,
+      "durationSeconds": 23.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 63389,
+          "durationFrames": 345,
+          "role": "authored-start",
+          "narration": "if I'm running a terrible, filthy restaurant that has one star on Yelp and I put up a clever sandwic"
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 63734,
+          "durationFrames": 356,
+          "role": "authored-kept",
+          "narration": "am a complete and utter Yeah, you're not wrong. Surely you can't just slap a confessed flaw onto a p"
+        }
+      ]
+    },
+    {
+      "id": "seq-82",
+      "source": "engine",
+      "fromFrame": 64090,
+      "durationFrames": 199,
+      "durationSeconds": 6.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 64090,
+          "durationFrames": 199,
+          "role": "reveal",
+          "narration": "the exact critical nuance that Aronson found in the second phase of his study. Oh, he tested this."
+        }
+      ]
+    },
+    {
+      "id": "seq-83",
+      "source": "authored",
+      "fromFrame": 64289,
+      "durationFrames": 595,
+      "durationSeconds": 19.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 64289,
+          "durationFrames": 271,
+          "role": "authored-start",
+          "narration": "He anticipated this exact objection. He ran the coffee spill experiment again, but this time he inst"
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 64560,
+          "durationFrames": 324,
+          "role": "authored-kept",
+          "narration": "on the trivia quiz. The actor only got 30% of the questions right. He was presented to the listeners"
+        }
+      ]
+    },
+    {
+      "id": "seq-84",
+      "source": "engine",
+      "fromFrame": 64884,
+      "durationFrames": 986,
+      "durationSeconds": 32.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 64884,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "coffee at the end of the tape, his likability scores absolutely plummeted because the Prattfall just"
+        },
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 65105,
+          "durationFrames": 425,
+          "role": "question",
+          "narration": "Yes, the Prattfall effect is not a blanket fix. It is a multiplier. If you are already perceived by "
+        },
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 65530,
+          "durationFrames": 340,
+          "role": "reveal",
+          "narration": "But if you're bad, but if you are perceived as weak, cheap, or incompetent, a flaw just serves as un"
+        }
+      ]
+    },
+    {
+      "id": "seq-85",
+      "source": "engine",
+      "fromFrame": 65870,
+      "durationFrames": 1152,
+      "durationSeconds": 38.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 65870,
+          "durationFrames": 188,
+          "role": "setup",
+          "narration": "You have to possess the underlying baseline of quality to earn the psychological right to confess a "
+        },
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 66058,
+          "durationFrames": 374,
+          "role": "question",
+          "narration": "That is such a brilliant distinction. We use the shortcut of a confessed flaw to bypass our natural "
+        },
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 66432,
+          "durationFrames": 194,
+          "role": "partial_answer",
+          "narration": "Our purchasing choices are predictable heristic shortcuts triggered by the framing that marketers ex"
+        },
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 66626,
+          "durationFrames": 149,
+          "role": "complication",
+          "narration": "Let's shift the lens slightly here. We've talked extensively about how we judge other people"
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 66775,
+          "durationFrames": 247,
+          "role": "reveal",
+          "narration": "and how we judge brands based on their flaws or their popularity. But how do we judge the core metri"
+        }
+      ]
+    },
+    {
+      "id": "seq-86",
+      "source": "engine",
+      "fromFrame": 67022,
+      "durationFrames": 204,
+      "durationSeconds": 6.8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 67022,
+          "durationFrames": 204,
+          "role": "reveal",
+          "narration": "How do we judge value? How do we know what a price tag actually means? Oh, this is the chapter that "
+        }
+      ]
+    },
+    {
+      "id": "seq-87",
+      "source": "authored",
+      "fromFrame": 67226,
+      "durationFrames": 1352,
+      "durationSeconds": 45.1,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 67226,
+          "durationFrames": 341,
+          "role": "authored-start",
+          "narration": "broke my brain. Okay, let's go back to the supermarket. You're tasked with buying snacks for an offi"
+        },
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 67567,
+          "durationFrames": 324,
+          "role": "authored-kept",
+          "narration": "Tyrells are your absolute favorite premium chip, but you look at the price and they cost twice as mu"
+        },
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 67891,
+          "durationFrames": 339,
+          "role": "authored-kept",
+          "narration": "a bit stingy, not wanting to spend the company budget. A tough choice. But then, right in the middle"
+        },
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 68230,
+          "durationFrames": 348,
+          "role": "authored-kept",
+          "narration": "noticeably cheaper than the premium Tyrells. Boom. The cognitive tension evaporates. Choice made. Yo"
+        }
+      ]
+    },
+    {
+      "id": "seq-88",
+      "source": "engine",
+      "fromFrame": 68578,
+      "durationFrames": 175,
+      "durationSeconds": 5.8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 68578,
+          "durationFrames": 175,
+          "role": "reveal",
+          "narration": "you've made a highly rational, meticulously calculated compromise between quality and budget."
+        }
+      ]
+    },
+    {
+      "id": "seq-89",
+      "source": "authored",
+      "fromFrame": 68753,
+      "durationFrames": 679,
+      "durationSeconds": 22.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 68753,
+          "durationFrames": 281,
+          "role": "authored-start",
+          "narration": "But your entire sense of value was manipulated by the architecture of the shelf. You fell for the co"
+        },
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 69034,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "The terrifying truth for consumers is this. Products are not cheap or expensive in absolute terms."
+        },
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 69233,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "Our brains do not possess an internal objective meter for what a bag of chips, a car, or a watch sho"
+        }
+      ]
+    },
+    {
+      "id": "seq-90",
+      "source": "engine",
+      "fromFrame": 69432,
+      "durationFrames": 1111,
+      "durationSeconds": 37,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 69432,
+          "durationFrames": 384,
+          "role": "setup",
+          "narration": "We have no idea. Their value is entirely 100% relative to the comparison set presented to us in that"
+        },
+        {
+          "index": 256,
+          "sceneId": "scene-256",
+          "fromFrame": 69816,
+          "durationFrames": 331,
+          "role": "question",
+          "narration": "value. This is the phenomenon of anchoring and price relativity. Shottton's analysis of Nespresso co"
+        },
+        {
+          "index": 257,
+          "sceneId": "scene-257",
+          "fromFrame": 70147,
+          "durationFrames": 396,
+          "role": "reveal",
+          "narration": "Think about the launch of Nespresso. If Nestle had launched those little aluminum pods and placed th"
+        }
+      ]
+    },
+    {
+      "id": "seq-91",
+      "source": "engine",
+      "fromFrame": 70543,
+      "durationFrames": 519,
+      "durationSeconds": 17.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 258,
+          "sceneId": "scene-258",
+          "fromFrame": 70543,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "Because if you do the literal math, an espresso pods cost roughly 34 per pound of coffee. People wou"
+        },
+        {
+          "index": 259,
+          "sceneId": "scene-259",
+          "fromFrame": 70795,
+          "durationFrames": 267,
+          "role": "reveal",
+          "narration": "That's extortionate when compared to bulk beans. Exactly. But Nestle didn't frame it against bulk ro"
+        }
+      ]
+    },
+    {
+      "id": "seq-92",
+      "source": "authored",
+      "fromFrame": 71062,
+      "durationFrames": 919,
+      "durationSeconds": 30.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 260,
+          "sceneId": "scene-260",
+          "fromFrame": 71062,
+          "durationFrames": 338,
+          "role": "authored-start",
+          "narration": "Because the pods are sold and marketed as single perfect crema topped cups of espresso, consumers im"
+        },
+        {
+          "index": 261,
+          "sceneId": "scene-261",
+          "fromFrame": 71400,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "or Starbucks. Oh wow. Against that specific anchor, spending 30 p on an espresso pod doesn't feel li"
+        },
+        {
+          "index": 262,
+          "sceneId": "scene-262",
+          "fromFrame": 71618,
+          "durationFrames": 363,
+          "role": "authored-kept",
+          "narration": "overpriced ground coffee. It feels like getting an absolute massive bargain on a barista style drink"
+        }
+      ]
+    },
+    {
+      "id": "seq-93",
+      "source": "authored",
+      "fromFrame": 71981,
+      "durationFrames": 576,
+      "durationSeconds": 19.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 263,
+          "sceneId": "scene-263",
+          "fromFrame": 71981,
+          "durationFrames": 293,
+          "role": "authored-start",
+          "narration": "in a pub setting with King Cobra Oh, this is a great test. It is. King Cobra is a strong premium bee"
+        },
+        {
+          "index": 264,
+          "sceneId": "scene-264",
+          "fromFrame": 72274,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "glass bottle with a cork exactly the size and shape of a wine bottle. He ran a blind tasting where h"
+        }
+      ]
+    },
+    {
+      "id": "seq-94",
+      "source": "engine",
+      "fromFrame": 72557,
+      "durationFrames": 765,
+      "durationSeconds": 25.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 265,
+          "sceneId": "scene-265",
+          "fromFrame": 72557,
+          "durationFrames": 233,
+          "role": "setup",
+          "narration": "bottled beers. He asked people what they would pay for it. Anchored against the normal beers, people"
+        },
+        {
+          "index": 266,
+          "sceneId": "scene-266",
+          "fromFrame": 72790,
+          "durationFrames": 261,
+          "role": "question",
+          "narration": "Okay, standard price. Then he ran the exact same tasting with the exact same liquid, but place the b"
+        },
+        {
+          "index": 267,
+          "sceneId": "scene-267",
+          "fromFrame": 73051,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "Suddenly, the participants were willing to pay 28% more for the exact same beer. the exact same beer"
+        }
+      ]
+    },
+    {
+      "id": "seq-95",
+      "source": "authored",
+      "fromFrame": 73322,
+      "durationFrames": 730,
+      "durationSeconds": 24.3,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 268,
+          "sceneId": "scene-268",
+          "fromFrame": 73322,
+          "durationFrames": 166,
+          "role": "authored-start",
+          "narration": "their price anchor shifted upwards. But I'm going to challenge the longevity of this trick. Really? "
+        },
+        {
+          "index": 269,
+          "sceneId": "scene-269",
+          "fromFrame": 73488,
+          "durationFrames": 211,
+          "role": "authored-kept",
+          "narration": "Surely consumers eventually wise up. I mean, we aren't stupid. We have regulatory unit pricing on su"
+        },
+        {
+          "index": 270,
+          "sceneId": "scene-270",
+          "fromFrame": 73699,
+          "durationFrames": 353,
+          "role": "authored-kept",
+          "narration": "We can look at the tiny standardized price per 100 g label. Surely once the initial visual trick wea"
+        }
+      ]
+    },
+    {
+      "id": "seq-96",
+      "source": "authored",
+      "fromFrame": 74052,
+      "durationFrames": 631,
+      "durationSeconds": 21,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 271,
+          "sceneId": "scene-271",
+          "fromFrame": 74052,
+          "durationFrames": 341,
+          "role": "authored-start",
+          "narration": "and we realize we're paying £34 a pound for coffee. You would hope that rationality wins out in the "
+        },
+        {
+          "index": 272,
+          "sceneId": "scene-272",
+          "fromFrame": 74393,
+          "durationFrames": 290,
+          "role": "authored-kept",
+          "narration": "Amos Tverki and Daniel Conaman ran an experiment that demonstrates just how, you know, horrifyingly "
+        }
+      ]
+    },
+    {
+      "id": "seq-97",
+      "source": "authored",
+      "fromFrame": 74683,
+      "durationFrames": 2549,
+      "durationSeconds": 85,
+      "sceneCount": 9,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 273,
+          "sceneId": "scene-273",
+          "fromFrame": 74683,
+          "durationFrames": 370,
+          "role": "authored-start",
+          "narration": "Even when we know for an absolute fact the anchor is totally fake and random. They brought participa"
+        },
+        {
+          "index": 274,
+          "sceneId": "scene-274",
+          "fromFrame": 75053,
+          "durationFrames": 290,
+          "role": "authored-kept",
+          "narration": "or the number Just a completely arbitrary casino game. Yes. And right after the wheel landed, they a"
+        },
+        {
+          "index": 275,
+          "sceneId": "scene-275",
+          "fromFrame": 75343,
+          "durationFrames": 250,
+          "role": "authored-kept",
+          "narration": "The percentage of African nations in the United Nations. A question that has zero logical connection"
+        },
+        {
+          "index": 276,
+          "sceneId": "scene-276",
+          "fromFrame": 75593,
+          "durationFrames": 240,
+          "role": "authored-kept",
+          "narration": "Zero connection. But the huristic shortcut of anchoring hijacked their reasoning. The participants w"
+        },
+        {
+          "index": 277,
+          "sceneId": "scene-277",
+          "fromFrame": 75833,
+          "durationFrames": 230,
+          "role": "authored-kept",
+          "narration": "guessed on average that 25% of the UN was made up of African nations. The participants who saw the w"
+        },
+        {
+          "index": 278,
+          "sceneId": "scene-278",
+          "fromFrame": 76063,
+          "durationFrames": 274,
+          "role": "authored-kept",
+          "narration": "guessed 45%. That's wild. The initial random number sets a cognitive boundary that our brains simply"
+        },
+        {
+          "index": 279,
+          "sceneId": "scene-279",
+          "fromFrame": 76337,
+          "durationFrames": 401,
+          "role": "authored-kept",
+          "narration": "We start at the anchor and we try to adjust away from it using logic, but we never adjust far enough"
+        },
+        {
+          "index": 280,
+          "sceneId": "scene-280",
+          "fromFrame": 76738,
+          "durationFrames": 278,
+          "role": "authored-kept",
+          "narration": "purchase or a budget ripoff has already been irreversibly anchored by the packaging, the shelf place"
+        },
+        {
+          "index": 281,
+          "sceneId": "scene-281",
+          "fromFrame": 77016,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "So price logic is fundamentally an illusion. We are not making rational calculations based on utilit"
+        }
+      ]
+    },
+    {
+      "id": "seq-98",
+      "source": "engine",
+      "fromFrame": 77232,
+      "durationFrames": 216,
+      "durationSeconds": 7.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 282,
+          "sceneId": "scene-282",
+          "fromFrame": 77232,
+          "durationFrames": 216,
+          "role": "reveal",
+          "narration": "Our purchasing choices are predictable heristic shortcuts triggered by the physical context and fram"
+        }
+      ]
+    },
+    {
+      "id": "seq-99",
+      "source": "authored",
+      "fromFrame": 77448,
+      "durationFrames": 535,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 283,
+          "sceneId": "scene-283",
+          "fromFrame": 77448,
+          "durationFrames": 226,
+          "role": "authored-start",
+          "narration": "And speaking of the physical act of buying, sometimes the amount of money we are willing to spend is"
+        },
+        {
+          "index": 284,
+          "sceneId": "scene-284",
+          "fromFrame": 77674,
+          "durationFrames": 309,
+          "role": "authored-kept",
+          "narration": "It's about the physical tactile friction of handing over the money. Oh, this is where behavioral eco"
+        }
+      ]
+    },
+    {
+      "id": "seq-100",
+      "source": "authored",
+      "fromFrame": 77983,
+      "durationFrames": 538,
+      "durationSeconds": 17.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 285,
+          "sceneId": "scene-285",
+          "fromFrame": 77983,
+          "durationFrames": 255,
+          "role": "authored-start",
+          "narration": "on a Tuesday. You're hitting that mid-m morninging slump, so you pop down to the local artisal cafe."
+        },
+        {
+          "index": 286,
+          "sceneId": "scene-286",
+          "fromFrame": 78238,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "flat white. The barista rings it up on the screen. And just before you tap your smartphone or your c"
+        }
+      ]
+    },
+    {
+      "id": "seq-101",
+      "source": "engine",
+      "fromFrame": 78521,
+      "durationFrames": 984,
+      "durationSeconds": 32.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 287,
+          "sceneId": "scene-287",
+          "fromFrame": 78521,
+          "durationFrames": 329,
+          "role": "setup",
+          "narration": "You impulsively say, \"Actually, throw in that billionaire shortbread, too.\" A classic mistake. Tap. "
+        },
+        {
+          "index": 288,
+          "sceneId": "scene-288",
+          "fromFrame": 78850,
+          "durationFrames": 316,
+          "role": "question",
+          "narration": "three pound piece of shortbread if you had to physically open a leather wallet, dig through the coin"
+        },
+        {
+          "index": 289,
+          "sceneId": "scene-289",
+          "fromFrame": 79166,
+          "durationFrames": 339,
+          "role": "reveal",
+          "narration": "The behavioral data says the answer is almost certainly no. Because dealing with physical cash trigg"
+        }
+      ]
+    },
+    {
+      "id": "seq-102",
+      "source": "engine",
+      "fromFrame": 79505,
+      "durationFrames": 977,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 290,
+          "sceneId": "scene-290",
+          "fromFrame": 79505,
+          "durationFrames": 295,
+          "role": "setup",
+          "narration": "For anyone designing a checkout experience, here is the golden rule. Removing micro barriers and dou"
+        },
+        {
+          "index": 291,
+          "sceneId": "scene-291",
+          "fromFrame": 79800,
+          "durationFrames": 202,
+          "role": "question",
+          "narration": "more sales than doubling your massive advertising Making it easy strictly beats trying to make it pe"
+        },
+        {
+          "index": 292,
+          "sceneId": "scene-292",
+          "fromFrame": 80002,
+          "durationFrames": 187,
+          "role": "complication",
+          "narration": "The MIT basketball ticket auction is the classic undisputed demonstration of this phenomenon."
+        },
+        {
+          "index": 293,
+          "sceneId": "scene-293",
+          "fromFrame": 80189,
+          "durationFrames": 293,
+          "role": "reveal",
+          "narration": "Drazen Priac and Duncan Simster, two prominent researchers, set up a sealed bid auction for highly c"
+        }
+      ]
+    },
+    {
+      "id": "seq-103",
+      "source": "engine",
+      "fromFrame": 80482,
+      "durationFrames": 921,
+      "durationSeconds": 30.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 294,
+          "sceneId": "scene-294",
+          "fromFrame": 80482,
+          "durationFrames": 268,
+          "role": "setup",
+          "narration": "students. Okay. Half the students were informed they had to pay for their winning bid in physical ca"
+        },
+        {
+          "index": 295,
+          "sceneId": "scene-295",
+          "fromFrame": 80750,
+          "durationFrames": 255,
+          "role": "question",
+          "narration": "They are bidding on the exact same seats to the exact same game, the exact same utility. Under neocc"
+        },
+        {
+          "index": 296,
+          "sceneId": "scene-296",
+          "fromFrame": 81005,
+          "durationFrames": 398,
+          "role": "reveal",
+          "narration": "The bids should be identical. But they weren't even close. What happened? The cash group bid an aver"
+        }
+      ]
+    },
+    {
+      "id": "seq-104",
+      "source": "authored",
+      "fromFrame": 81403,
+      "durationFrames": 521,
+      "durationSeconds": 17.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 297,
+          "sceneId": "scene-297",
+          "fromFrame": 81403,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "over double the physical plastic card and now Apple Pay masks the tangibility of the money. It abstr"
+        },
+        {
+          "index": 298,
+          "sceneId": "scene-298",
+          "fromFrame": 81655,
+          "durationFrames": 269,
+          "role": "authored-kept",
+          "narration": "The brain stops registering it as giving up a finite survival resource and it starts treating it lik"
+        }
+      ]
+    },
+    {
+      "id": "seq-105",
+      "source": "engine",
+      "fromFrame": 81924,
+      "durationFrames": 557,
+      "durationSeconds": 18.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 299,
+          "sceneId": "scene-299",
+          "fromFrame": 81924,
+          "durationFrames": 266,
+          "role": "setup",
+          "narration": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before y"
+        },
+        {
+          "index": 300,
+          "sceneId": "scene-300",
+          "fromFrame": 82190,
+          "durationFrames": 291,
+          "role": "reveal",
+          "narration": "Exactly. And Shottton shows how this goes even further than payment technology. Just the mere visual"
+        }
+      ]
+    },
+    {
+      "id": "seq-106",
+      "source": "authored",
+      "fromFrame": 82481,
+      "durationFrames": 465,
+      "durationSeconds": 15.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 301,
+          "sceneId": "scene-301",
+          "fromFrame": 82481,
+          "durationFrames": 264,
+          "role": "authored-start",
+          "narration": "Researchers at Cornell University analyzed restaurant menus. They found that if a restaurant simply "
+        },
+        {
+          "index": 302,
+          "sceneId": "scene-302",
+          "fromFrame": 82745,
+          "durationFrames": 201,
+          "role": "authored-kept",
+          "narration": "so instead of writing steak $24, they just write steak 24 with no symbol."
+        }
+      ]
+    },
+    {
+      "id": "seq-107",
+      "source": "engine",
+      "fromFrame": 82946,
+      "durationFrames": 488,
+      "durationSeconds": 16.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 303,
+          "sceneId": "scene-303",
+          "fromFrame": 82946,
+          "durationFrames": 202,
+          "role": "setup",
+          "narration": "Total sales boost by a massive 8%. That's incredible. The currency symbol itself"
+        },
+        {
+          "index": 304,
+          "sceneId": "scene-304",
+          "fromFrame": 83148,
+          "durationFrames": 286,
+          "role": "reveal",
+          "narration": "acts as a visual friction point that reminds your brain, hey, you are sacrificing resources right no"
+        }
+      ]
+    },
+    {
+      "id": "seq-108",
+      "source": "authored",
+      "fromFrame": 83434,
+      "durationFrames": 547,
+      "durationSeconds": 18.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 305,
+          "sceneId": "scene-305",
+          "fromFrame": 83434,
+          "durationFrames": 309,
+          "role": "authored-start",
+          "narration": "isn't the credit card effect just a matter of practical liquidity? If I have $30 in my wallet, but a"
+        },
+        {
+          "index": 306,
+          "sceneId": "scene-306",
+          "fromFrame": 83743,
+          "durationFrames": 238,
+          "role": "authored-kept",
+          "narration": "I literally don't have the cash to make the bid. It's not about psychological pain. It's just about "
+        }
+      ]
+    },
+    {
+      "id": "seq-109",
+      "source": "engine",
+      "fromFrame": 83981,
+      "durationFrames": 1056,
+      "durationSeconds": 35.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 307,
+          "sceneId": "scene-307",
+          "fromFrame": 83981,
+          "durationFrames": 177,
+          "role": "setup",
+          "narration": "That is the most common logical objection and it's exactly what the neocclassical economists argued."
+        },
+        {
+          "index": 308,
+          "sceneId": "scene-308",
+          "fromFrame": 84158,
+          "durationFrames": 332,
+          "role": "question",
+          "narration": "But Prelick and Simister anticipated it and they controlled for it brilliantly. First, they explicit"
+        },
+        {
+          "index": 309,
+          "sceneId": "scene-309",
+          "fromFrame": 84490,
+          "durationFrames": 302,
+          "role": "complication",
+          "narration": "meaning liquidity was only 30 seconds Okay. But second, and much more importantly, they replicated t"
+        },
+        {
+          "index": 310,
+          "sceneId": "scene-310",
+          "fromFrame": 84792,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "items. Things like restaurant banners that only cost about $5. Ah, so nobody was constrained by a la"
+        }
+      ]
+    },
+    {
+      "id": "seq-110",
+      "source": "engine",
+      "fromFrame": 85037,
+      "durationFrames": 1193,
+      "durationSeconds": 39.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 311,
+          "sceneId": "scene-311",
+          "fromFrame": 85037,
+          "durationFrames": 173,
+          "role": "setup",
+          "narration": "Exactly. Every single MBA student had five bucks in their pocket. Liquidity was not an issue."
+        },
+        {
+          "index": 312,
+          "sceneId": "scene-312",
+          "fromFrame": 85210,
+          "durationFrames": 158,
+          "role": "question",
+          "narration": "Yet, even for a $5 item, the credit card group bid significantly higher than the cash group."
+        },
+        {
+          "index": 313,
+          "sceneId": "scene-313",
+          "fromFrame": 85368,
+          "durationFrames": 211,
+          "role": "complication",
+          "narration": "The friction of parting with physical cash isn't about practical liquidity. It is purely deeply"
+        },
+        {
+          "index": 314,
+          "sceneId": "scene-314",
+          "fromFrame": 85579,
+          "durationFrames": 288,
+          "role": "complication",
+          "narration": "By removing the friction of payment, marketers systematically override our price logic, allowing a c"
+        },
+        {
+          "index": 315,
+          "sceneId": "scene-315",
+          "fromFrame": 85867,
+          "durationFrames": 363,
+          "role": "reveal",
+          "narration": "We do not make rational calculations. Our purchasing choices are predictable, huristic shortcuts tri"
+        }
+      ]
+    },
+    {
+      "id": "seq-111",
+      "source": "engine",
+      "fromFrame": 86230,
+      "durationFrames": 362,
+      "durationSeconds": 12.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 316,
+          "sceneId": "scene-316",
+          "fromFrame": 86230,
+          "durationFrames": 362,
+          "role": "reveal",
+          "narration": "that gets us to buy easily, our final heristic is the heavy stick that forces us to buy immediately "
+        }
+      ]
+    },
+    {
+      "id": "seq-112",
+      "source": "authored",
+      "fromFrame": 86592,
+      "durationFrames": 569,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 317,
+          "sceneId": "scene-317",
+          "fromFrame": 86592,
+          "durationFrames": 372,
+          "role": "authored-start",
+          "narration": "final scene. You are out at a very nice restaurant for an anniversary dinner. You are agonizing over"
+        },
+        {
+          "index": 318,
+          "sceneId": "scene-318",
+          "fromFrame": 86964,
+          "durationFrames": 197,
+          "role": "authored-kept",
+          "narration": "ribeye. A classic dilemma. You know, you really shouldn't spend the extra money. You've made the rat"
+        }
+      ]
+    },
+    {
+      "id": "seq-113",
+      "source": "engine",
+      "fromFrame": 87161,
+      "durationFrames": 1044,
+      "durationSeconds": 34.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 319,
+          "sceneId": "scene-319",
+          "fromFrame": 87161,
+          "durationFrames": 357,
+          "role": "setup",
+          "narration": "You are about to order the rump. But as the waiter approaches, he leans in and conspiratorally annou"
+        },
+        {
+          "index": 320,
+          "sceneId": "scene-320",
+          "fromFrame": 87518,
+          "durationFrames": 178,
+          "role": "question",
+          "narration": "Suddenly, a primal switch flips in your brain. You absolutely must have the ribeye."
+        },
+        {
+          "index": 321,
+          "sceneId": "scene-321",
+          "fromFrame": 87696,
+          "durationFrames": 230,
+          "role": "complication",
+          "narration": "You blurt the order out and two of your friends at the table actually groan in frustration because t"
+        },
+        {
+          "index": 322,
+          "sceneId": "scene-322",
+          "fromFrame": 87926,
+          "durationFrames": 279,
+          "role": "reveal",
+          "narration": "The less there is of something, the more desperately we want it. This is the scarcity principle and "
+        }
+      ]
+    },
+    {
+      "id": "seq-114",
+      "source": "engine",
+      "fromFrame": 88205,
+      "durationFrames": 1094,
+      "durationSeconds": 36.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 323,
+          "sceneId": "scene-323",
+          "fromFrame": 88205,
+          "durationFrames": 177,
+          "role": "setup",
+          "narration": "For consumers, this is the most dangerous trap of all. The psychological fear of missing out"
+        },
+        {
+          "index": 324,
+          "sceneId": "scene-324",
+          "fromFrame": 88382,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "triggers an irrational purchasing urgency that acts infinitely faster than any actual product benefi"
+        },
+        {
+          "index": 325,
+          "sceneId": "scene-325",
+          "fromFrame": 88567,
+          "durationFrames": 216,
+          "role": "partial_answer",
+          "narration": "Steven Warhill proved the mechanics of this beautifully with a remarkably simple cookie jar experime"
+        },
+        {
+          "index": 326,
+          "sceneId": "scene-326",
+          "fromFrame": 88783,
+          "durationFrames": 291,
+          "role": "complication",
+          "narration": "He brought participants into a room and gave them chocolate chip cookies to taste and rate. Tough jo"
+        },
+        {
+          "index": 327,
+          "sceneId": "scene-327",
+          "fromFrame": 89074,
+          "durationFrames": 225,
+          "role": "reveal",
+          "narration": "an abundant supply. The other half took their cookie from an identical glass jar that only contained"
+        }
+      ]
+    },
+    {
+      "id": "seq-115",
+      "source": "engine",
+      "fromFrame": 89299,
+      "durationFrames": 960,
+      "durationSeconds": 32,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 328,
+          "sceneId": "scene-328",
+          "fromFrame": 89299,
+          "durationFrames": 367,
+          "role": "setup",
+          "narration": "But the cookies were baked in the exact same batch, right? Identical cookies. But the participants w"
+        },
+        {
+          "index": 329,
+          "sceneId": "scene-329",
+          "fromFrame": 89666,
+          "durationFrames": 216,
+          "role": "question",
+          "narration": "to pay 11% more for them at a bakery because the heruristic dictates that if they are almost gone, t"
+        },
+        {
+          "index": 330,
+          "sceneId": "scene-330",
+          "fromFrame": 89882,
+          "durationFrames": 377,
+          "role": "reveal",
+          "narration": "It's reverse engineering quality from availability. Precisely. And modern marketers weaponize this q"
+        }
+      ]
+    },
+    {
+      "id": "seq-116",
+      "source": "authored",
+      "fromFrame": 90259,
+      "durationFrames": 475,
+      "durationSeconds": 15.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 331,
+          "sceneId": "scene-331",
+          "fromFrame": 90259,
+          "durationFrames": 149,
+          "role": "authored-start",
+          "narration": "using standard cans of Campbell soup. He put the soup on sale for 79 cents."
+        },
+        {
+          "index": 332,
+          "sceneId": "scene-332",
+          "fromFrame": 90408,
+          "durationFrames": 326,
+          "role": "authored-kept",
+          "narration": "On certain days, there was no limit on how many cans a shopper could buy, the abundance condition. A"
+        }
+      ]
+    },
+    {
+      "id": "seq-117",
+      "source": "engine",
+      "fromFrame": 90734,
+      "durationFrames": 987,
+      "durationSeconds": 32.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 333,
+          "sceneId": "scene-333",
+          "fromFrame": 90734,
+          "durationFrames": 284,
+          "role": "setup",
+          "narration": "But on other days, he placed a small sign on the exact same display that read, \"Limit 12 cans per cu"
+        },
+        {
+          "index": 334,
+          "sceneId": "scene-334",
+          "fromFrame": 91018,
+          "durationFrames": 321,
+          "role": "question",
+          "narration": "is brilliant. By artificially capping the limit, he introduced the illusion of scarcity. Suddenly, s"
+        },
+        {
+          "index": 335,
+          "sceneId": "scene-335",
+          "fromFrame": 91339,
+          "durationFrames": 382,
+          "role": "reveal",
+          "narration": "limit. The sign didn't say you had to buy 12. It just said you couldn't buy more than 12. But the hu"
+        }
+      ]
+    },
+    {
+      "id": "seq-118",
+      "source": "engine",
+      "fromFrame": 91721,
+      "durationFrames": 1015,
+      "durationSeconds": 33.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 336,
+          "sceneId": "scene-336",
+          "fromFrame": 91721,
+          "durationFrames": 317,
+          "role": "setup",
+          "narration": "gone.\" But wait, I have to ask about the evolutionary root of this. Is this really just blind panic "
+        },
+        {
+          "index": 337,
+          "sceneId": "scene-337",
+          "fromFrame": 92038,
+          "durationFrames": 396,
+          "role": "question",
+          "narration": "Are we just trying to acquire rare things to show off our status to other people? Like a peacock sho"
+        },
+        {
+          "index": 338,
+          "sceneId": "scene-338",
+          "fromFrame": 92434,
+          "durationFrames": 302,
+          "role": "reveal",
+          "narration": "you prime the consumer with. Shton cites a fascinating study by evolutionary psychologist Vladis Gri"
+        }
+      ]
+    },
+    {
+      "id": "seq-119",
+      "source": "authored",
+      "fromFrame": 92736,
+      "durationFrames": 552,
+      "durationSeconds": 18.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 339,
+          "sceneId": "scene-339",
+          "fromFrame": 92736,
+          "durationFrames": 362,
+          "role": "authored-start",
+          "narration": "Great title. They wanted to see if scarcity always works. They found that scarcity works incredibly "
+        },
+        {
+          "index": 340,
+          "sceneId": "scene-340",
+          "fromFrame": 93098,
+          "durationFrames": 190,
+          "role": "authored-kept",
+          "narration": "romantic movie, like Before Sunset, and then showed them a scarce product, they wanted it desperatel"
+        }
+      ]
+    },
+    {
+      "id": "seq-120",
+      "source": "engine",
+      "fromFrame": 93288,
+      "durationFrames": 1205,
+      "durationSeconds": 40.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 341,
+          "sceneId": "scene-341",
+          "fromFrame": 93288,
+          "durationFrames": 286,
+          "role": "setup",
+          "narration": "When primed for romance, we want rare things to stand out from the pack and attract a The peacock ta"
+        },
+        {
+          "index": 342,
+          "sceneId": "scene-342",
+          "fromFrame": 93574,
+          "durationFrames": 331,
+          "role": "question",
+          "narration": "But here is the twist. If you prime people with fear, say by making them watch a clip from The Shini"
+        },
+        {
+          "index": 343,
+          "sceneId": "scene-343",
+          "fromFrame": 93905,
+          "durationFrames": 235,
+          "role": "complication",
+          "narration": "stand out holding a rare object. We want safety in numbers. We want to blend in. So when primed with"
+        },
+        {
+          "index": 344,
+          "sceneId": "scene-344",
+          "fromFrame": 94140,
+          "durationFrames": 353,
+          "role": "reveal",
+          "narration": "and scarcity fails. The emotional context dictates which evolutionary bias is deployed which brings "
+        }
+      ]
+    },
+    {
+      "id": "seq-121",
+      "source": "engine",
+      "fromFrame": 94493,
+      "durationFrames": 1087,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 345,
+          "sceneId": "scene-345",
+          "fromFrame": 94493,
+          "durationFrames": 211,
+          "role": "setup",
+          "narration": "Our purchasing choices are predictable heristic shortcuts triggered by context, friction and framing"
+        },
+        {
+          "index": 346,
+          "sceneId": "scene-346",
+          "fromFrame": 94704,
+          "durationFrames": 341,
+          "role": "question",
+          "narration": "Loss aversion and scarcity are simply the ultimate shortcuts marketers exploit to force our hand whe"
+        },
+        {
+          "index": 347,
+          "sceneId": "scene-347",
+          "fromFrame": 95045,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "in the room that we have to The ethics of it all. If we are genuinely this susceptible to 25 differe"
+        },
+        {
+          "index": 348,
+          "sceneId": "scene-348",
+          "fromFrame": 95321,
+          "durationFrames": 259,
+          "role": "reveal",
+          "narration": "that completely bypass our rational brains, when does a behavioral nudge stop being clever marketing"
+        }
+      ]
+    },
+    {
+      "id": "seq-122",
+      "source": "engine",
+      "fromFrame": 95580,
+      "durationFrames": 1162,
+      "durationSeconds": 38.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 349,
+          "sceneId": "scene-349",
+          "fromFrame": 95580,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "A very fine line. Are we just sheep being sheared? I mean, Lazar Jamik, a prominent digital strategi"
+        },
+        {
+          "index": 350,
+          "sceneId": "scene-350",
+          "fromFrame": 95844,
+          "durationFrames": 322,
+          "role": "partial_answer",
+          "narration": "He asked a chilling question. If cognitive biases are essentially a form of neurological blindness, "
+        },
+        {
+          "index": 351,
+          "sceneId": "scene-351",
+          "fromFrame": 96166,
+          "durationFrames": 235,
+          "role": "question",
+          "narration": "And furthermore, do these heristics even hold up in the long run once consumers become aware of the "
+        },
+        {
+          "index": 352,
+          "sceneId": "scene-352",
+          "fromFrame": 96401,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "It is the most important question we can ask about this field and the rigorous databacked answer is "
+        }
+      ]
+    },
+    {
+      "id": "seq-123",
+      "source": "engine",
+      "fromFrame": 96742,
+      "durationFrames": 1111,
+      "durationSeconds": 37,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 353,
+          "sceneId": "scene-353",
+          "fromFrame": 96742,
+          "durationFrames": 355,
+          "role": "setup",
+          "narration": "control. They don't force you to do something that violates your absolute core values. They merely i"
+        },
+        {
+          "index": 354,
+          "sceneId": "scene-354",
+          "fromFrame": 97097,
+          "durationFrames": 401,
+          "role": "question",
+          "narration": "The companies that use this purely for That is the crucial second point. If a marketer uses a behavi"
+        },
+        {
+          "index": 355,
+          "sceneId": "scene-355",
+          "fromFrame": 97498,
+          "durationFrames": 355,
+          "role": "reveal",
+          "narration": "infuriating example in the book of a shower gel company. They wanted to increase sales without spend"
+        }
+      ]
+    },
+    {
+      "id": "seq-124",
+      "source": "engine",
+      "fromFrame": 97853,
+      "durationFrames": 1286,
+      "durationSeconds": 42.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 356,
+          "sceneId": "scene-356",
+          "fromFrame": 97853,
+          "durationFrames": 283,
+          "role": "setup",
+          "narration": "They made it slightly wider by a few millimeters. So when a consumer squeezes it for their normal ha"
+        },
+        {
+          "index": 357,
+          "sceneId": "scene-357",
+          "fromFrame": 98136,
+          "durationFrames": 156,
+          "role": "question",
+          "narration": "Oh, that is infuriating. So you run out twice as fast and have to go back to the store to buy more."
+        },
+        {
+          "index": 358,
+          "sceneId": "scene-358",
+          "fromFrame": 98292,
+          "durationFrames": 257,
+          "role": "complication",
+          "narration": "And in the short term, their sales spiked beautifully. But humans aren't entirely stupid. We have a "
+        },
+        {
+          "index": 359,
+          "sceneId": "scene-359",
+          "fromFrame": 98549,
+          "durationFrames": 206,
+          "role": "complication",
+          "narration": "Once consumers realize they've been conned, once they feel the friction of having to buy shower gel "
+        },
+        {
+          "index": 360,
+          "sceneId": "scene-360",
+          "fromFrame": 98755,
+          "durationFrames": 384,
+          "role": "reveal",
+          "narration": "They leave. They abandon the brand with extreme prejudice and they tell their friends to avoid it. E"
+        }
+      ]
+    },
+    {
+      "id": "seq-125",
+      "source": "engine",
+      "fromFrame": 99139,
+      "durationFrames": 1195,
+      "durationSeconds": 39.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 361,
+          "sceneId": "scene-361",
+          "fromFrame": 99139,
+          "durationFrames": 348,
+          "role": "setup",
+          "narration": "the consumer is happy. But if you use it to sell snake oil, they will eventually find out and they w"
+        },
+        {
+          "index": 362,
+          "sceneId": "scene-362",
+          "fromFrame": 99487,
+          "durationFrames": 264,
+          "role": "question",
+          "narration": "to the illusion of the magic trick only survives if the magician actually delivers a good show at th"
+        },
+        {
+          "index": 363,
+          "sceneId": "scene-363",
+          "fromFrame": 99751,
+          "durationFrames": 252,
+          "role": "complication",
+          "narration": "If you strip away the million-dollar branding, the sleek logos, and the clever ad copy, we never rea"
+        },
+        {
+          "index": 364,
+          "sceneId": "scene-364",
+          "fromFrame": 100003,
+          "durationFrames": 331,
+          "role": "reveal",
+          "narration": "We really don't. Whether it's a massive 30 million pound football sponsorship, a station worker with"
+        }
+      ]
+    },
+    {
+      "id": "seq-126",
+      "source": "engine",
+      "fromFrame": 100334,
+      "durationFrames": 401,
+      "durationSeconds": 13.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 365,
+          "sceneId": "scene-365",
+          "fromFrame": 100334,
+          "durationFrames": 195,
+          "role": "setup",
+          "narration": "itself. We are buying the mental relief of letting a cognitive shortcut make the choice for us."
+        },
+        {
+          "index": 366,
+          "sceneId": "scene-366",
+          "fromFrame": 100529,
+          "durationFrames": 206,
+          "role": "reveal",
+          "narration": "We are quite simply buying freedom from decision fatigue. We are paying the brand to do the thinking"
+        }
+      ]
+    },
+    {
+      "id": "seq-127",
+      "source": "authored",
+      "fromFrame": 100735,
+      "durationFrames": 571,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 367,
+          "sceneId": "scene-367",
+          "fromFrame": 100735,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "So now that you know you are a walking talking factory of irrational choices, the next time you feel"
+        },
+        {
+          "index": 368,
+          "sceneId": "scene-368",
+          "fromFrame": 101064,
+          "durationFrames": 242,
+          "role": "authored-kept",
+          "narration": "sneaker that's almost sold out online, take a deep breath. Pause for a second. Pause the press secre"
+        }
+      ]
+    },
+    {
+      "id": "seq-128",
+      "source": "engine",
+      "fromFrame": 101306,
+      "durationFrames": 169,
+      "durationSeconds": 5.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 369,
+          "sceneId": "scene-369",
+          "fromFrame": 101306,
+          "durationFrames": 169,
+          "role": "reveal",
+          "narration": "ask yourself, are you actively choosing this or did the environment choose it for you three seconds "
+        }
+      ]
+    }
+  ]
+}

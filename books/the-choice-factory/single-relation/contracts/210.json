@@ -1,0 +1,27 @@
+{
+  "schema": "single-relation/1",
+  "type": "A",
+  "understanding": "Sitting at your desk to decide, you end up hiring the clumsy candidate — the act of deciding produces an unexpected choice.",
+  "evidence": "You sit down at your desk to make your decision, and you hire the clumsy one.",
+  "claim": {
+    "asserted": "You sit down to make your decision and hire the clumsy one.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "mechanism": "character-action",
+  "before": "A manager sits at a desk. Two candidate tokens visible: one polished, one clumsy.",
+  "transformation": "Manager reaches out and picks the clumsy token.",
+  "after": "Clumsy token is now in the manager's possession — the unexpected hire is made.",
+  "camera": { "framing": "wide-locked", "purpose": "decision action and surprise outcome in one frame" },
+  "entities": [
+    { "id": "mgr", "kind": "person", "cast": "marketer", "mood": "neutral" },
+    { "id": "tok", "kind": "object", "glyph": "target", "label": "clumsy one" }
+  ],
+  "events": [
+    { "at": 0.4, "cause": "mgr", "effects": [ { "entity": "tok", "moveTo": "mgr" } ] }
+  ],
+  "required": ["the manager at desk", "the clumsy token moving to the manager"],
+  "omitted": ["mortification detail"],
+  "_author": "preview-agent"
+}

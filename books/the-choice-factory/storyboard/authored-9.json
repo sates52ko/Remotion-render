@@ -1,0 +1,1288 @@
+[
+  {
+    "i": 325,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "COOKIE JAR EXPERIMENT",
+      "style": "box"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The researcher stages the 1975 cookie experiment to test human valuation of scarce goods.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Stephen Worchel proved the scarcity principle using a simple cookie jar experiment in 1975.",
+      "concreteVisual": "The Marketer stands in a research room holding clipboard notes beside a food icon representing the cookie jar test.",
+      "onScreenText": "COOKIE JAR EXPERIMENT",
+      "relationToPrevious": "Begins the empirical demonstration of the scarcity principle introduced in the previous chunk.",
+      "addedInformation": "Identifies the classic 1975 psychological study testing consumer valuation."
+    }
+  },
+  {
+    "i": 326,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "10 COOKIES IN A JAR",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The first experimental group receives cookies from a jar filled with an abundant supply of ten cookies.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Half the study participants received cookies from an abundant glass jar containing ten cookies.",
+      "concreteVisual": "The Shopper sits at a tasting table in a testing room ready to sample a cookie from a full jar.",
+      "onScreenText": "10 COOKIES IN A JAR",
+      "relationToPrevious": "Introduces the abundant control condition in Worchel's experiment.",
+      "addedInformation": "Shows the testing environment where baseline cookie ratings are gathered."
+    }
+  },
+  {
+    "i": 327,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "ABUNDANT SUPPLY",
+        "SCARCE SUPPLY"
+      ],
+      "values": [
+        0.15
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The experiment tests consumer valuation across two conditions: an abundant jar of ten versus a scarce jar of two.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The experiment contrasted an abundant supply of ten cookies against a scarce supply of only two.",
+      "concreteVisual": "A spectrum diagram contrasting abundant supply on the left with scarce supply on the right.",
+      "onScreenText": "none",
+      "relationToPrevious": "Contrasts the abundant condition of beat 326 with the scarce condition.",
+      "addedInformation": "Visualizes the experimental variable across a supply continuum."
+    }
+  },
+  {
+    "i": 328,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "RATED AS MORE DELICIOUS",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Consumers judge identical cookies from a scarce jar as far more attractive and delicious.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Despite identical cookies from the same batch, participants rated scarce cookies as significantly more delicious.",
+      "concreteVisual": "The Shopper looks surprised in close-up as their perception of flavor is warped by scarcity.",
+      "onScreenText": "RATED AS MORE DELICIOUS",
+      "relationToPrevious": "Reveals the experimental finding that scarcity directly alters subjective taste perception.",
+      "addedInformation": "Demonstrates the sensory illusion created entirely by perceived scarcity."
+    }
+  },
+  {
+    "i": 329,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "WILLING TO PAY 11% MORE",
+      "style": "stack"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "coin",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Shoppers assign 11% higher monetary value to scarce cookies because scarcity implies superior quality.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Participants were willing to pay 11% more for scarce cookies under the heuristic that rarity signals excellence.",
+      "concreteVisual": "The Shopper happily holds up a coin beside the coin concept icon, ready to pay a premium price.",
+      "onScreenText": "WILLING TO PAY 11% MORE",
+      "relationToPrevious": "Quantifies the commercial impact of the cookie jar scarcity effect.",
+      "addedInformation": "Connects perceived scarcity directly to willingness to pay higher prices."
+    }
+  },
+  {
+    "i": 330,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "QUALITY FROM AVAILABILITY",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The marketer exploits the cognitive quirk of reverse engineering quality from availability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern marketers weaponize the heuristic of reverse engineering product quality from perceived availability.",
+      "concreteVisual": "The Marketer points decisively in an office, explaining how retail environments manipulate scarcity.",
+      "onScreenText": "QUALITY FROM AVAILABILITY",
+      "relationToPrevious": "Transitions from lab experiments to physical supermarket retail marketing tactics.",
+      "addedInformation": "Frames the heuristic as an intentional pricing and promotional weapon."
+    }
+  },
+  {
+    "i": 331,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "SOUP ON SALE FOR 79 CENTS",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "wide",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "A supermarket researcher sets up a discount promotion on Campbell soup cans at 79 cents.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Brian Wansink tested scarcity limits in a supermarket by putting Campbell soup on sale for 79 cents.",
+      "concreteVisual": "The Shopper browses a supermarket aisle beside a food icon representing the discounted soup cans.",
+      "onScreenText": "SOUP ON SALE FOR 79 CENTS",
+      "relationToPrevious": "Sets the baseline pricing and setting for the Campbell soup retail experiment.",
+      "addedInformation": "Establishes the physical supermarket environment for the field test."
+    }
+  },
+  {
+    "i": 332,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NO LIMIT ON CANS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "continue": true,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Without a purchase limit, supermarket shoppers purchase an average of 3.3 soup cans.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In the abundance condition with no purchase limit, shoppers purchased an average of 3.3 cans.",
+      "concreteVisual": "The Shopper holds their receipt notes in the aisle, recording a modest baseline purchase of 3.3 cans.",
+      "onScreenText": "NO LIMIT ON CANS",
+      "relationToPrevious": "Measures the baseline sales volume without any artificial scarcity constraint.",
+      "addedInformation": "Provides the baseline benchmark to compare against the limited condition."
+    }
+  },
+  {
+    "i": 333,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LIMIT 12 CANS",
+      "style": "box"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "notes",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The marketer imposes an artificial purchase restriction of 12 cans per customer on the display.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "On test days, a small sign was placed on the display reading Limit 12 cans per customer.",
+      "concreteVisual": "The Marketer presents a sign board reading Limit 12 cans per customer to a surprised Shopper.",
+      "onScreenText": "LIMIT 12 CANS",
+      "relationToPrevious": "Introduces the artificial scarcity ceiling to test consumer purchasing response.",
+      "addedInformation": "Shows the exact wording used to frame an abundant item as scarce."
+    }
+  },
+  {
+    "i": 334,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "ARTIFICIAL LIMIT",
+        "SCARCITY ILLUSION",
+        "SEVEN CANS BOUGHT"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "An artificial limit creates an illusion of scarcity that more than doubles purchases to seven cans.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Artificially capping purchases created an illusion of scarcity that doubled sales to seven cans per person.",
+      "concreteVisual": "A flow diagram connecting artificial limit to scarcity illusion to seven cans bought.",
+      "onScreenText": "none",
+      "relationToPrevious": "Illustrates the causal chain linking the sign in beat 333 to doubled sales volume.",
+      "addedInformation": "Charts how a perceived constraint accelerates purchasing urgency."
+    }
+  },
+  {
+    "i": 335,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "HOARD THE RARE RESOURCE",
+      "style": "stack"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The shopper panics over scarcity and reflexively reaches to hoard the resource before it runs out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The brain misinterprets a purchase limit as a rare deal, triggering amygdala panic to hoard the resource.",
+      "concreteVisual": "The Shopper reaches anxiously toward an hourglass icon, gripped by urgency to hoard goods.",
+      "onScreenText": "HOARD THE RARE RESOURCE",
+      "relationToPrevious": "Explains the subconscious emotional panic triggered by the artificial limit.",
+      "addedInformation": "Highlights the amygdala fear response driving irrational overconsumption."
+    }
+  },
+  {
+    "i": 336,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "THE DEEPER EVOLUTIONARY DRIVE",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The host questions whether scarcity panic stems from a deeper evolutionary survival drive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts inquire into the deeper evolutionary drive underpinning scarcity panic.",
+      "concreteVisual": "The Shopper reflects thoughtfully beside a compass icon representing evolutionary orientation.",
+      "onScreenText": "THE DEEPER EVOLUTIONARY DRIVE",
+      "relationToPrevious": "Pivots from retail supermarket tactics to evolutionary psychology fundamentals.",
+      "addedInformation": "Introduces the evolutionary inquiry into status and resource display."
+    }
+  },
+  {
+    "i": 337,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "SHOWING OFF STATUS TO OTHERS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "trophy",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Acquiring scarce items acts like a peacock tail to display status and resources to peers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We acquire rare objects to show off status and resources to peers like a peacock's tail.",
+      "concreteVisual": "The Shopper smirks while holding a golden trophy prop, embodying status-seeking ostentation.",
+      "onScreenText": "SHOWING OFF STATUS TO OTHERS",
+      "relationToPrevious": "Elaborates the evolutionary peacock-tail hypothesis proposed in beat 336.",
+      "addedInformation": "Visualizes costly signaling theory where scarce goods signal reproductive fitness."
+    }
+  },
+  {
+    "i": 338,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "FEAR AND LOVING IN VEGAS",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The marketer cites Vladas Griskevicius's study on evolutionary priming and consumer behavior.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Shotton cites Vladas Griskevicius's study Fear and Loving in Las Vegas on evolutionary priming.",
+      "concreteVisual": "The Marketer stands in an office holding a study book, presenting Griskevicius's research findings.",
+      "onScreenText": "FEAR AND LOVING IN VEGAS",
+      "relationToPrevious": "Introduces the landmark academic paper explaining how emotional priming dictates bias.",
+      "addedInformation": "Cites the specific evolutionary psychology framework governing the phenomenon."
+    }
+  },
+  {
+    "i": 339,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "PRIMED WITH ROMANTIC MOTIVES",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "reach",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Scarcity becomes exceptionally compelling when consumers are primed with romantic or mating motives.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Scarcity works exceptionally well when consumers are primed with romantic or mating motives.",
+      "concreteVisual": "The Shopper in a cafe reaches affectionately toward a glowing heart concept icon.",
+      "onScreenText": "PRIMED WITH ROMANTIC MOTIVES",
+      "relationToPrevious": "Specifies the first prime condition where scarcity successfully boosts desire.",
+      "addedInformation": "Links courtship psychology directly to the valuation of scarce goods."
+    }
+  },
+  {
+    "i": 340,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "WANTED THE SCARCE PRODUCT",
+      "style": "stack"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "take",
+    "holds": "gift",
+    "actionCue": "wanted",
+    "continue": true,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "After watching a romantic film, participants grab the scarce item with desperate urgency.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "After watching a romantic movie like Before Sunset, participants desperately desired scarce products.",
+      "concreteVisual": "The Shopper takes a scarce gift box in the cafe, motivated by romantic priming.",
+      "onScreenText": "WANTED THE SCARCE PRODUCT",
+      "relationToPrevious": "Demonstrates the experimental outcome of romantic priming on scarce item selection.",
+      "addedInformation": "Depicts the physical act of grabbing a scarce product under romantic arousal."
+    }
+  },
+  {
+    "i": 341,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STAND OUT FROM THE PACK",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "celebrate",
+    "holds": "trophy",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Under romance primes, consumers flaunt rare items to stand out from the crowd and attract partners.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Romance primes compel us to acquire rare products to stand out from competitors and impress mates.",
+      "concreteVisual": "The Shopper smirks and celebrates while displaying a trophy prop in the cafe setting.",
+      "onScreenText": "STAND OUT FROM THE PACK",
+      "relationToPrevious": "Explains why scarcity works under romantic priming: status signaling.",
+      "addedInformation": "Synthesizes the peacock-tail analogy with limited-edition luxury consumption."
+    }
+  },
+  {
+    "i": 342,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "SCARCITY ENTIRELY BACKFIRES",
+      "style": "strike"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Priming consumers with fear causes the scarcity heuristic to completely backfire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Priming consumers with fear from a scary movie causes the scarcity heuristic to entirely backfire.",
+      "concreteVisual": "The Shopper slumps fearfully beside a storm icon, recoiling from isolated exposure.",
+      "onScreenText": "SCARCITY ENTIRELY BACKFIRES",
+      "relationToPrevious": "Introduces the sharp contrast where the scarcity effect reverses under threat.",
+      "addedInformation": "Shows how fear flips human priorities away from standing out."
+    }
+  },
+  {
+    "i": 343,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "SAFETY IN NUMBERS",
+      "style": "highlight"
+    },
+    "set": "street",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "shield",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Scared consumers prioritize safety in numbers and flock toward social proof rather than scarcity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When frightened, people reject rare objects in favor of safety in numbers and social proof.",
+      "concreteVisual": "The Shopper holds a protective shield in the street, seeking conformity and collective shelter.",
+      "onScreenText": "SAFETY IN NUMBERS",
+      "relationToPrevious": "Explains the psychological mechanism driving herd behavior during times of fear.",
+      "addedInformation": "Contrasts the conformity instinct with the status-seeking instinct."
+    }
+  },
+  {
+    "i": 344,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "NOT RATIONAL CALCULATIONS",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Human purchasing behavior is driven by emotional evolutionary context rather than rational utility calculations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Emotional context dictates which evolutionary bias triggers, disproving the myth of rational utility calculations.",
+      "concreteVisual": "The Shopper stands dejected beside a tipped balance scale icon, acknowledging irrational decision-making.",
+      "onScreenText": "NOT RATIONAL CALCULATIONS",
+      "relationToPrevious": "Brings the entire behavioral journey full circle back to the rejection of homo economicus.",
+      "addedInformation": "Summarizes the fundamental irrationality of human economic choice."
+    }
+  },
+  {
+    "i": 345,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "CONTEXT",
+        "FRICTION",
+        "FRAMING"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Consumer purchasing shortcuts are categorized into three core drivers: context, friction, and framing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Purchasing choices are predictable heuristic shortcuts triggered by context, friction, and framing.",
+      "concreteVisual": "A three-bucket sorter diagram sorting heuristic triggers into context, friction, and framing.",
+      "onScreenText": "none",
+      "relationToPrevious": "Synthesizes the behavioral forces governing consumer choices into three distinct categories.",
+      "addedInformation": "Categorizes the environmental levers that shape subconscious decisions."
+    }
+  },
+  {
+    "i": 346,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "THE UNCOMFORTABLE ELEPHANT",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "slump",
+    "explainedBy": "The marketer manipulates consumer hesitation, confronting the ethical elephant in the room.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Marketers exploit loss aversion and scarcity to force decisions, raising the uncomfortable elephant of ethics.",
+      "concreteVisual": "The Marketer points smugly while a puppeteer icon looms over a slumped, hesitant Shopper.",
+      "onScreenText": "THE UNCOMFORTABLE ELEPHANT",
+      "relationToPrevious": "Pivots from behavioral mechanics to the uncomfortable ethical consequences.",
+      "addedInformation": "Stages the power imbalance between behavioral architect and susceptible consumer."
+    }
+  },
+  {
+    "i": 347,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "THE ETHICS OF NUDGING",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The hosts raise the moral implications of exploiting subconscious behavioral heuristics.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Raises the moral dilemma of whether exploiting 25 cognitive vulnerabilities crosses ethical boundaries.",
+      "concreteVisual": "The Shopper stands pensive in an office beside a law icon representing moral standards.",
+      "onScreenText": "THE ETHICS OF NUDGING",
+      "relationToPrevious": "Formalizes the ethical question raised in beat 346.",
+      "addedInformation": "Frames behavioral science as a double-edged sword requiring ethical scrutiny."
+    }
+  },
+  {
+    "i": 348,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "CLEVER MARKETING",
+        "MANIPULATIVE DECEPTION"
+      ],
+      "values": [
+        0.8
+      ]
+    },
+    "callout": null,
+    "set": "office",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The spectrum charts the ethical boundary between clever marketing and manipulative deception.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Examines where a behavioral nudge crosses the spectrum from clever marketing into manipulative deception.",
+      "concreteVisual": "A spectrum diagram tracking the transition from clever marketing on the left to manipulative deception on the right.",
+      "onScreenText": "none",
+      "relationToPrevious": "Questions the ethical dividing line raised in beat 347.",
+      "addedInformation": "Frames the moral dilemma as a continuum between legitimate influence and exploitative trickery."
+    }
+  },
+  {
+    "i": 349,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "SHEEP BEING SHEARED",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The critic questions whether consumers are simply passive sheep being exploited by behavioral designers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Digital strategist Lazar Dzamic asks if consumers are merely defenseless sheep being sheared.",
+      "concreteVisual": "The Shopper slumps defeatedly beside a chains icon, feeling trapped by subtle behavioral manipulation.",
+      "onScreenText": "SHEEP BEING SHEARED",
+      "relationToPrevious": "Quotes industry criticism articulating the feeling of consumer vulnerability.",
+      "addedInformation": "Dramatizes the fear of being helpless against subconscious persuasion."
+    }
+  },
+  {
+    "i": 350,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "STEALING FROM THE BLIND",
+      "style": "strike"
+    },
+    "set": "street",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "grabbing",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "struggling",
+    "explainedBy": "The critic compares exploiting cognitive biases to marketers stealing from the neurologically blind.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dzamic asks whether weaponizing cognitive blindness is morally equivalent to stealing from the blind.",
+      "concreteVisual": "The Marketer smirks while grabbing the arm of a struggling Shopper in front of a deception mask icon.",
+      "onScreenText": "STEALING FROM THE BLIND",
+      "relationToPrevious": "Sharpening the ethical challenge to its most provocative formulation.",
+      "addedInformation": "Directly confronts the predatory potential of behavioral exploitation."
+    }
+  },
+  {
+    "i": 351,
+    "concept": "mirror",
+    "diagram": null,
+    "callout": {
+      "text": "AWARE OF THE MACHINERY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The host questions whether cognitive heuristics still work once consumers realize they are being manipulated.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Questions whether behavioral nudges retain efficacy once consumers discover the psychological machinery.",
+      "concreteVisual": "The Shopper reflects before a mirror icon, realizing the hidden psychological machinery at play.",
+      "onScreenText": "AWARE OF THE MACHINERY",
+      "relationToPrevious": "Shifts focus from immediate ethics to the long-term commercial sustainability of nudging.",
+      "addedInformation": "Investigates whether consumer awareness neutralizes cognitive biases."
+    }
+  },
+  {
+    "i": 352,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "NOT MIND CONTROL",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The host rejects the myth that behavioral nudges equate to mind control.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Demystifies nudges by refuting the false assumption that behavioral science equates to mind control.",
+      "concreteVisual": "The Marketer explains calmly beside a puppeteer icon struck through with a negative label.",
+      "onScreenText": "NOT MIND CONTROL",
+      "relationToPrevious": "Begins the two-part defense by clarifying the realistic scope of behavioral nudging.",
+      "addedInformation": "Dispels sensationalist fears of absolute hypnotic commercial control."
+    }
+  },
+  {
+    "i": 353,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "REDUCE FRICTION",
+        "INCREASE PROBABILITY"
+      ]
+    },
+    "callout": null,
+    "set": "office",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "A flow diagram illustrates that nudges work by reducing friction to slightly increase action probability.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Nudges do not force values; they simply reduce friction to increase the marginal probability of action.",
+      "concreteVisual": "A flow diagram showing reducing friction leading directly to increasing probability.",
+      "onScreenText": "none",
+      "relationToPrevious": "Clarifies the true scientific mechanism of nudging defined in beat 352.",
+      "addedInformation": "Models behavioral nudging as friction reduction rather than coercion."
+    }
+  },
+  {
+    "i": 354,
+    "concept": "crash",
+    "diagram": null,
+    "callout": {
+      "text": "DESTROYS THEIR BRAND EQUITY",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Short-term deceptive exploitation permanently destroys long-term brand equity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Using behavioral nudges for a short-term grift completely annihilates long-term brand equity.",
+      "concreteVisual": "The Marketer slumps in an office beside a crash icon depicting brand reputation collapse.",
+      "onScreenText": "DESTROYS THEIR BRAND EQUITY",
+      "relationToPrevious": "Presents the second crucial point: the commercial self-destruction of deceptive nudging.",
+      "addedInformation": "Warns of the catastrophic reputational costs of exploitative marketing."
+    }
+  },
+  {
+    "i": 355,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SECRETLY WIDENED THE APERTURE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "wrench",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "A shower gel company secretly alters its packaging aperture to force faster consumption.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A shower gel company secretly widened the bottle aperture by millimeters to increase sales covertly.",
+      "concreteVisual": "The Marketer smirks while holding a wrench tool, symbolizing the covert mechanical alteration.",
+      "onScreenText": "SECRETLY WIDENED THE APERTURE",
+      "relationToPrevious": "Introduces Shotton's real-world case study of unethical product manipulation.",
+      "addedInformation": "Reveals the physical design trick used to accelerate consumer depletion."
+    }
+  },
+  {
+    "i": 356,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "TWICE AS MUCH PRODUCT",
+      "style": "stack"
+    },
+    "set": "kitchen",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "reach",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The consumer applies a normal 1-second squeeze and accidentally dispenses twice as much gel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Habituated one-second bottle squeezes dispensed twice as much product due to the widened opening.",
+      "concreteVisual": "The Shopper in a domestic setting reaches out with surprise beside a water splash icon.",
+      "onScreenText": "TWICE AS MUCH PRODUCT",
+      "relationToPrevious": "Details how habitual physical routines interact with deceptive packaging design.",
+      "addedInformation": "Shows how subconscious user habits are hijacked by packaging changes."
+    }
+  },
+  {
+    "i": 357,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": {
+      "text": "RUN OUT TWICE AS FAST",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "angry",
+    "action": "hold",
+    "holds": "wallet",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The shopper burns through product twice as fast, realizing they must repurchase sooner.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Consumers run out of gel twice as fast, forcing premature and frustrating store visits.",
+      "concreteVisual": "The Shopper holds an open wallet with an angry expression beside an hourglass icon.",
+      "onScreenText": "RUN OUT TWICE AS FAST",
+      "relationToPrevious": "Illustrates the infuriating consequence of the sneaky packaging modification.",
+      "addedInformation": "Depicts consumer financial irritation at being tricked into rapid repurchasing."
+    }
+  },
+  {
+    "i": 358,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "RADAR FOR BEING CHEATED",
+      "style": "box"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Consumers possess a highly tuned instinct for detecting unfair brand manipulation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Despite short-term sales spikes, consumers possess an acute radar for detecting when they are cheated.",
+      "concreteVisual": "The Shopper points accusatorily in a store setting beside a target icon symbolizing detection.",
+      "onScreenText": "RADAR FOR BEING CHEATED",
+      "relationToPrevious": "Contrasts temporary commercial gain against innate human sensitivity to unfairness.",
+      "addedInformation": "Highlights the evolutionary cheater-detection mechanism in humans."
+    }
+  },
+  {
+    "i": 359,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "FEEL CONNED",
+        "ADDED FRICTION",
+        "CONSUMER CHURN"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "A flow diagram tracks how perceived cheating creates friction and drives customer churn.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When shoppers detect deception and experience forced purchasing friction, they immediately churn.",
+      "concreteVisual": "A flow diagram moving from feeling conned to added friction to consumer churn.",
+      "onScreenText": "none",
+      "relationToPrevious": "Details the behavioral chain reaction following the discovery of manipulation in beat 358.",
+      "addedInformation": "Diagrams the consumer backlash that transforms hidden friction into customer attrition."
+    }
+  },
+  {
+    "i": 360,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ABANDON THE BRAND",
+      "style": "strike"
+    },
+    "set": "room",
+    "shotOverride": "wide",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "angry",
+    "action": "leave",
+    "holds": null,
+    "actionCue": "leave",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The disgusted consumer abandons the deceptive brand and leaves the store.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cheated consumers abandon the brand with extreme prejudice and warn their social network.",
+      "concreteVisual": "The Shopper turns and walks out of the store in wide framing with an angry expression.",
+      "onScreenText": "ABANDON THE BRAND",
+      "relationToPrevious": "Demonstrates the ultimate commercial consequence of deceptive behavioral design.",
+      "addedInformation": "Stages customer abandonment as an active departure from the retail space."
+    }
+  },
+  {
+    "i": 361,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "GENUINE EXCHANGE OF VALUE",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Behavioral nudging only succeeds sustainably when grounded in an authentic exchange of value.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Behavioral nudges only endure long-term when the underlying exchange of value is authentic and high quality.",
+      "concreteVisual": "The Marketer slumps in an office beside a balance scale icon representing fair value exchange.",
+      "onScreenText": "GENUINE EXCHANGE OF VALUE",
+      "relationToPrevious": "Establishes the golden rule of ethical behavioral science in business.",
+      "addedInformation": "Contrasts snake-oil deception against genuine mutual value creation."
+    }
+  },
+  {
+    "i": 362,
+    "concept": "star",
+    "diagram": null,
+    "callout": {
+      "text": "THE GRAND PAYOFF",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The host announces the grand conclusion and ultimate synthesis of the book's principles.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The illusion succeeds only when delivered well, introducing the grand payoff of the book's 25 biases.",
+      "concreteVisual": "The Marketer points forward with a proud smile beside a gleaming star icon in an office.",
+      "onScreenText": "THE GRAND PAYOFF",
+      "relationToPrevious": "Transitions from the ethics discussion into the final grand synthesis of the summary.",
+      "addedInformation": "Sets up the closing psychological revelation of why consumers buy."
+    }
+  },
+  {
+    "i": 363,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "STRIP AWAY THE BRANDING",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Stripping away corporate branding reveals that consumers do not buy items for intrinsic features.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Stripping away ad copy and logos reveals we never purchase products for what they inherently are.",
+      "concreteVisual": "The Shopper contemplates quietly beside an unmasking icon in a retail showroom.",
+      "onScreenText": "STRIP AWAY THE BRANDING",
+      "relationToPrevious": "Deconstructs the surface veneer of modern corporate marketing.",
+      "addedInformation": "Focuses on the gap between external brand image and true psychological motivation."
+    }
+  },
+  {
+    "i": 364,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "NOT BUYING THE ITEM ITSELF",
+      "style": "strike"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Marketing case studies demonstrate that consumers never purchase products in isolation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "From mega sponsorships to store signs, consumers never buy items purely for their material utility.",
+      "concreteVisual": "The Marketer and Shopper converse in a room beside a trophy icon representing sponsorship glamour.",
+      "onScreenText": "NOT BUYING THE ITEM ITSELF",
+      "relationToPrevious": "Recalls memorable case studies discussed throughout the book.",
+      "addedInformation": "Reinforces that environmental framing dominates intrinsic product value."
+    }
+  },
+  {
+    "i": 365,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "BUYING THE MENTAL RELIEF",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Consumers purchase products to obtain the psychological comfort of an effortless shortcut.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We buy products to gain mental relief from letting cognitive shortcuts make difficult choices for us.",
+      "concreteVisual": "The Shopper smiles happily beside a glowing lightbulb icon, relieved of mental strain.",
+      "onScreenText": "BUYING THE MENTAL RELIEF",
+      "relationToPrevious": "Delivers the core insight that purchases buy cognitive ease rather than material goods.",
+      "addedInformation": "Identifies psychological relief as the primary consumer benefit."
+    }
+  },
+  {
+    "i": 366,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "DECISION FATIGUE",
+        "PAY THE BRAND",
+        "FREEDOM FROM THINKING"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "shotOverride": "insert",
+    "cast": [],
+    "expression": null,
+    "action": null,
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Consumers gladly pay brands to relieve decision fatigue and avoid mental effort.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We pay brands to eliminate decision fatigue and do the complex thinking on our behalf.",
+      "concreteVisual": "A flow diagram mapping decision fatigue to paying the brand to freedom from thinking.",
+      "onScreenText": "none",
+      "relationToPrevious": "Formalizes the root thesis of the entire book into a cause-and-effect chain.",
+      "addedInformation": "Frames brands as cognitive relief providers rather than mere product manufacturers."
+    }
+  },
+  {
+    "i": 367,
+    "concept": "food",
+    "diagram": null,
+    "callout": {
+      "text": "A FACTORY OF IRRATIONAL CHOICES",
+      "style": "box"
+    },
+    "set": "street",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "walk",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The consumer recognizes their own susceptibility as an engine of irrational choices.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Recognizing that we are factories of irrational choices empowers us to catch sudden impulses.",
+      "concreteVisual": "The Shopper walks along an urban street beside a food menu icon, pausing in self-recognition.",
+      "onScreenText": "A FACTORY OF IRRATIONAL CHOICES",
+      "relationToPrevious": "Turns the book's insights into direct personal reflection for the viewer.",
+      "addedInformation": "Grounds the theoretical concepts in everyday consumer life."
+    }
+  },
+  {
+    "i": 368,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "PAUSE FOR A SECOND",
+      "style": "highlight"
+    },
+    "set": "street",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "holds": null,
+    "continue": true,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The shopper pauses to breathe and interrupt their automatic cognitive shortcuts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When facing urgent scarcity, pause for a second to silence the inner rationalizing press secretary.",
+      "concreteVisual": "The Shopper pauses thoughtfully on the street beside a clock icon, taking a deep mindful breath.",
+      "onScreenText": "PAUSE FOR A SECOND",
+      "relationToPrevious": "Offers the actionable psychological antidote to impulsive heuristic traps.",
+      "addedInformation": "Advocates deliberate mental friction to counteract subconscious nudges."
+    }
+  },
+  {
+    "i": 369,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "DID THE ENVIRONMENT CHOOSE?",
+      "style": "reveal"
+    },
+    "set": "street",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The final takeaway urges consumers to question whether their decisions are conscious or framed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ask whether you are actively choosing or whether the environment chose for you three seconds ago.",
+      "concreteVisual": "The Shopper points forward toward the viewer beside a balance icon, presenting the closing question.",
+      "onScreenText": "DID THE ENVIRONMENT CHOOSE?",
+      "relationToPrevious": "Leaves the audience with the definitive philosophical question of the Choice Factory.",
+      "addedInformation": "Empowers the viewer with heightened metacognitive awareness over their choices."
+    }
+  }
+]

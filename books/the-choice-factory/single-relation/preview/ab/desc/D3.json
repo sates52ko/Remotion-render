@@ -1,0 +1,41 @@
+[
+  {
+    "img": "70792f7d23",
+    "sees": [
+      "frame 1: Two icons side by side on a light grey card — a dark navy shield icon labelled 'SAFE CHOICE' on the left, and a dark navy rectangle (resembling a phone or card) labelled 'FIRED' on the right. No connection between them.",
+      "frame 2: The same two icons, but now the shield is highlighted red/pink with a glowing circle around it, and the rectangle on the right has turned white/empty. A curved arrow runs from the shield over to the rectangle, suggesting a directional relationship.",
+      "frame 3: Almost identical to frame 2 — the shield remains red/pink with the glow circle, the rectangle remains white, and the curved arrow still points from the shield to the rectangle. The layout is static; no further change visible."
+    ],
+    "changed": "The shield icon changed from dark navy to red/pink with a highlight circle; the right rectangle changed from dark filled to white/empty; a curved arrow appeared connecting them.",
+    "cause": "The 'SAFE CHOICE' was selected or activated, which triggered a consequence represented by the arrow pointing to 'FIRED'.",
+    "effect": "Making the 'safe choice' leads to being 'fired' — an ironic or counter-intuitive outcome.",
+    "message": "Choosing the safe option can paradoxically result in getting fired.",
+    "wouldConfuse": "The word 'FIRED' next to a nearly blank rectangle is abstract — it is not immediately obvious whether the rectangle represents a person, a product, or an ad; the causal link (arrow) only appears in frame 2 and is subtle."
+  },
+  {
+    "img": "bbcf513e99",
+    "sees": [
+      "frame 1: A light grey background suggesting an indoor scene (faint outlines of a table and chairs). A large white speech-bubble/caption box in the centre reads: 'it made no mention of how often the theft occurred'.",
+      "frame 2: Identical composition to frame 1 — same background, same caption box with the same text. No visible change.",
+      "frame 3: Identical composition again — same background, same caption box with the same text. No visible change."
+    ],
+    "changed": "nothing",
+    "cause": "unclear",
+    "effect": "unclear",
+    "message": "A piece of information (a warning or sign) omitted the frequency of theft, which is presented as a meaningful detail.",
+    "wouldConfuse": "All three frames look identical; without audio or surrounding context it is impossible to tell what scene is being described or what 'it' refers to — the viewer has no visual anchor for 'theft'."
+  },
+  {
+    "img": "510e97d361",
+    "sees": [
+      "frame 1: Two flat-style animated male characters stand side by side against a city-skyline background. The left character (darker skin, goatee, dark suit with tie) faces right and extends his right arm/fist toward the second character. The right character (lighter skin, small goatee, dark top) looks toward the left character with a neutral expression.",
+      "frame 2: The same two characters in the same poses. The left character's arm is still extended. No change in composition or expression visible.",
+      "frame 3: Same characters and poses as before, but bold text 'THEORY IN THE WILD' has appeared in the upper-right area of the frame in large black letters with a salmon/pink highlight behind 'WILD'."
+    ],
+    "changed": "The title text 'THEORY IN THE WILD' appeared in the top-right corner of the frame.",
+    "cause": "The scene has reached the point where a section title or chapter label is introduced, signalling the start of a new segment.",
+    "effect": "The viewer is informed that what follows will be a real-world example or demonstration of a theory.",
+    "message": "We are about to see a real-life illustration of the theory just introduced.",
+    "wouldConfuse": "The extended arm/fist of the left character could be read as aggression or as pointing — it is ambiguous whether he is directing attention somewhere or making a confrontational gesture; also, only one of the two characters ever moves or speaks, which is unclear without audio."
+  }
+]

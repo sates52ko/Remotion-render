@@ -1,0 +1,797 @@
+{
+ "schema": "single-relation-active/1",
+ "policy": "c17-operator-selective-rollout",
+ "level2": "INCONCLUSIVE (cycle 16, dev/c16 audit/c16/holdout/result.json) — unchanged; this is a separate operator-approved selective rollout, not a Level-2 PASS",
+ "at": "2026-11-07T06:39:17.700Z",
+ "tool": "1445f823",
+ "configBefore": "101f514555ea7190",
+ "configAfter": "ddb203829fe097ab",
+ "scenes": [
+  {
+   "sceneIndex": 299,
+   "sceneId": "scene-299",
+   "narrationHash": "921ac59599128559",
+   "contractHash": "319168814d09eb8f",
+   "mechanism": "transfer",
+   "review": "OK",
+   "ab": {
+    "A": 16.7,
+    "B": 66.7,
+    "wiA": 0,
+    "wiB": 0
+   },
+   "diff": {
+    "shot": "twoShot→wide",
+    "cast": "marketer+shopper→none",
+    "concept": "none→none"
+   },
+   "previous": {
+    "id": "scene-299",
+    "fromFrame": 81924,
+    "durationFrames": 266,
+    "hud": {
+     "badge": "INSIGHT 07 / 08",
+     "topic": "CLOSE"
+    },
+    "_narration": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackjack table. They need to abstract the los",
+    "_noIcon": true,
+    "_authorship": {
+     "src": "art",
+     "propTypes": [],
+     "diagramAuthored": false,
+     "conceptAuthored": null,
+     "intent": null,
+     "lock": {
+      "planShot": "twoShot",
+      "artTexts": [
+       {
+        "text": "ABSTRACT THE LOSS",
+        "style": "reveal",
+        "color": "#1E1E22",
+        "boxColor": "#D9603C",
+        "enter": "pop",
+        "at": 205,
+        "src": "art"
+       }
+      ],
+      "shot": "twoShot",
+      "set": "room",
+      "cast": [
+       "marketer",
+       "shopper"
+      ],
+      "expression": "smirk",
+      "action": "offer",
+      "holds": "coin",
+      "partnerAction": "sit",
+      "partnerExpression": "worried",
+      "concept": null,
+      "props": [],
+      "propTypes": []
+     }
+    },
+    "_semanticAdapter": {
+     "archetype": "static_reflection",
+     "requiredActions": [],
+     "reason": "no_semantic_requirement",
+     "applied": false,
+     "provenance": {
+      "archetype": "static_reflection",
+      "domain": "philosophy_ideas",
+      "requiredActions": [],
+      "requiredAttributes": {
+       "mood": "analytical",
+       "visualRegister": "diagrammatic_editorial",
+       "lightingOrTone": "neutral"
+      },
+      "forbiddenTropes": [
+       "static_idle_actor_wallpaper",
+       "meaningless_abstract_blobs"
+      ],
+      "semanticRequirements": [
+       "cognitive_domain_coherence"
+      ]
+     },
+     "grammar": null,
+     "payload": null
+    },
+    "_beat": "question",
+    "_act": "resolution",
+    "shot": "twoShot",
+    "transition": {
+     "type": "irisIn",
+     "frames": 14,
+     "color": "#F59E0B"
+    },
+    "bg": {
+     "type": "gradient",
+     "colors": [
+      "rgb(235,217,186)",
+      "rgb(237,235,227)"
+     ],
+     "set": "room",
+     "texture": "grain",
+     "accent": "#1E1B4B",
+     "act": "resolution"
+    },
+    "camera": {
+     "zoom": [
+      1.08,
+      1
+     ],
+     "panX": [
+      0,
+      0
+     ],
+     "panY": [
+      0,
+      0
+     ],
+     "punch": {
+      "at": 205,
+      "amount": 0.055
+     },
+     "pulses": [
+      74,
+      156
+     ]
+    },
+    "characters": [
+     {
+      "id": "c299-0",
+      "rig": "everyman",
+      "identity": "marketer",
+      "role": "marketer",
+      "expression": "smirk",
+      "enter": "left",
+      "action": "offer",
+      "lookAt": "heldProp",
+      "silhouette": false,
+      "holds": "coin"
+     },
+     {
+      "id": "c299-1",
+      "rig": "everyman",
+      "identity": "shopper",
+      "role": "shopper",
+      "expression": "worried",
+      "enter": "right",
+      "action": "sit",
+      "lookAt": "partner",
+      "silhouette": false
+     }
+    ],
+    "props": [],
+    "texts": [
+     {
+      "text": "ABSTRACT THE LOSS",
+      "style": "reveal",
+      "color": "#1E1E22",
+      "boxColor": "#D9603C",
+      "enter": "pop",
+      "at": 205,
+      "src": "art"
+     }
+    ],
+    "_visualStrategy": {
+     "strategy": "UNRESOLVED",
+     "risks": [
+      "UNKNOWN_CAPABILITY:action:offer"
+     ],
+     "capabilityConfidence": null,
+     "semanticSignature": {
+      "action": "offer+sit",
+      "subject": "",
+      "relation": "",
+      "state": "",
+      "world": "",
+      "metaphor": ""
+     },
+     "levers": [],
+     "requirement": null,
+     "evidence": {
+      "unknownKeys": [
+       "action:offer"
+      ],
+      "note": "unknown capability with unproven action safety — measure first (PHASE G holdout closes this)",
+      "fallbackCandidatesChecked": [
+       "shot:illustration",
+       "shot:diorama",
+       "shot:medium",
+       "shot:closeUp"
+      ]
+     },
+     "resolution": {
+      "kind": "unresolved_no_proof",
+      "repairs": [],
+      "invalidActions": [],
+      "note": "unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+     },
+     "staging": {
+      "staged": [],
+      "skipped": "no_requirement"
+     },
+     "provenance": {
+      "decidedAt": "plan",
+      "capabilityMap": "data/visual-capability.json"
+     },
+     "note": "declarative metadata — the record of a decision, never a trusted flag; the firewall judges the scene and contract evidence",
+     "postPlanDeltas": [
+      {
+       "engine": "semantic_beat",
+       "pass": "1-story+visual-director",
+       "field": "narrative+visualJob+visualArc+attention",
+       "from": null,
+       "to": null,
+       "fields": [
+        "narrative",
+        "visualJob",
+        "visualArc",
+        "attention"
+       ],
+       "reason": "narrative function + visual director layer rewrite",
+       "detail": "narrative: null -> {\"function\":\"QUESTION\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"concept...; visualJob: undefined -> \"surprise\"; visualArc: null -> {\"startState\":\"apparent_security\",\"endState\":\"sudden_fracture\",\"transformatio...; attention: null -> [\"partner\",\"motif\",\"text\"]",
+       "sigBefore": {
+        "action": "offer+sit",
+        "subject": "",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "sigAfter": {
+        "action": "offer+sit",
+        "subject": "",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "changedKeys": [],
+       "semanticChange": false,
+       "stagedOverride": null,
+       "requirementBroken": null,
+       "reviewRequired": false
+      },
+      {
+       "engine": "chapter_arcs",
+       "pass": "3",
+       "field": "narrative+visualJob",
+       "from": null,
+       "to": null,
+       "fields": [
+        "narrative",
+        "visualJob"
+       ],
+       "reason": "chapter curiosity cycles",
+       "detail": "narrative: {\"function\":\"QUESTION\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"concept... -> {\"function\":\"PAYOFF\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"conceptua...; visualJob: \"surprise\" -> \"reveal\"",
+       "sigBefore": {
+        "action": "offer+sit",
+        "subject": "",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "sigAfter": {
+        "action": "offer+sit",
+        "subject": "",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "changedKeys": [],
+       "semanticChange": false,
+       "stagedOverride": null,
+       "requirementBroken": null,
+       "reviewRequired": false
+      },
+      {
+       "engine": "promise_engine",
+       "pass": "4",
+       "field": "narrative",
+       "from": null,
+       "to": null,
+       "fields": [
+        "narrative"
+       ],
+       "reason": "multi-beat curiosity lifecycles",
+       "detail": "narrative: {\"function\":\"PAYOFF\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"conceptua... -> {\"function\":\"PAYOFF\",\"escalates\":true,\"conceptual\":false,\"emotional\":false,\"p...",
+       "sigBefore": {
+        "action": "offer+sit",
+        "subject": "",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "sigAfter": {
+        "action": "offer+sit",
+        "subject": "",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "changedKeys": [],
+       "semanticChange": false,
+       "stagedOverride": null,
+       "requirementBroken": null,
+       "reviewRequired": false
+      },
+      {
+       "engine": "semantic_beat",
+       "pass": "1-story+visual-director",
+       "field": "narrative+visualJob",
+       "from": null,
+       "to": null,
+       "fields": [
+        "narrative",
+        "visualJob"
+       ],
+       "reason": "narrative function + visual director layer rewrite",
+       "detail": "narrative: {\"function\":\"PAYOFF\",\"escalates\":true,\"conceptual\":false,\"emotional\":false,\"p... -> {\"function\":\"QUESTION\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"concept...; visualJob: \"reveal\" -> \"surprise\"",
+       "sigBefore": {
+        "action": "offer+sit",
+        "subject": "argument",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "sigAfter": {
+        "action": "offer+sit",
+        "subject": "argument",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "changedKeys": [],
+       "semanticChange": false,
+       "stagedOverride": null,
+       "requirementBroken": null,
+       "reviewRequired": false
+      },
+      {
+       "engine": "chapter_arcs",
+       "pass": "3",
+       "field": "narrative+visualJob",
+       "from": null,
+       "to": null,
+       "fields": [
+        "narrative",
+        "visualJob"
+       ],
+       "reason": "chapter curiosity cycles",
+       "detail": "narrative: {\"function\":\"QUESTION\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"concept... -> {\"function\":\"PAYOFF\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"conceptua...; visualJob: \"surprise\" -> \"reveal\"",
+       "sigBefore": {
+        "action": "offer+sit",
+        "subject": "argument",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "sigAfter": {
+        "action": "offer+sit",
+        "subject": "argument",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "changedKeys": [],
+       "semanticChange": false,
+       "stagedOverride": null,
+       "requirementBroken": null,
+       "reviewRequired": false
+      },
+      {
+       "engine": "promise_engine",
+       "pass": "4",
+       "field": "narrative",
+       "from": null,
+       "to": null,
+       "fields": [
+        "narrative"
+       ],
+       "reason": "multi-beat curiosity lifecycles",
+       "detail": "narrative: {\"function\":\"PAYOFF\",\"payoffPromise\":\"promise-13\",\"escalates\":true,\"conceptua... -> {\"function\":\"PAYOFF\",\"escalates\":true,\"conceptual\":false,\"emotional\":false,\"p...",
+       "sigBefore": {
+        "action": "offer+sit",
+        "subject": "argument",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "sigAfter": {
+        "action": "offer+sit",
+        "subject": "argument",
+        "relation": "",
+        "state": "",
+        "world": "",
+        "metaphor": ""
+       },
+       "changedKeys": [],
+       "semanticChange": false,
+       "stagedOverride": null,
+       "requirementBroken": null,
+       "reviewRequired": false
+      }
+     ]
+    },
+    "narrative": {
+     "function": "PAYOFF",
+     "escalates": true,
+     "conceptual": false,
+     "emotional": false,
+     "promiseId": "p-29",
+     "promiseRole": "payoff",
+     "payoff": "p-29"
+    },
+    "visualJob": "reveal",
+    "visualArc": {
+     "startState": "apparent_security",
+     "endState": "sudden_fracture",
+     "transformation": "shrink"
+    },
+    "attention": [
+     "partner",
+     "motif",
+     "text"
+    ],
+    "audioEvents": [
+     {
+      "type": "whoosh",
+      "frameOffset": -7,
+      "volume": 0.14,
+      "durationFrames": 19,
+      "reason": "transition_irisIn"
+     },
+     {
+      "type": "ding",
+      "frameOffset": 6,
+      "volume": 0.16,
+      "durationFrames": 36,
+      "reason": "promise_payoff_revelation"
+     },
+     {
+      "type": "pop",
+      "frameOffset": 205,
+      "volume": 0.11,
+      "durationFrames": 12,
+      "reason": "kinetic_text_pop"
+     }
+    ],
+    "visualMode": "character_drama",
+    "visualProposition": {
+     "claim": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackjack table.",
+     "claimType": "assertion",
+     "epistemicStance": "affirmed",
+     "thesis": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackjack table.",
+     "counterThesisEvidence": "absent",
+     "visualQuestion": "What must the viewer see while hearing: \"It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackj\"?",
+     "visualAnswer": "UNANSWERED — no authored storyboard answer for this beat",
+     "subject": "argument",
+     "mechanism": "exposition",
+     "stakes": "theoretical_principle",
+     "stateIndex": 0,
+     "stateTotal": 1,
+     "statePhase": "discourse"
+    },
+    "visualInformationGain": "medium",
+    "vigScore": 2.31,
+    "vigBreakdown": {
+     "claimCoverage": 0.8,
+     "relationshipCoverage": 0.6,
+     "mechanismCoverage": 0.2,
+     "stateChange": 0.4,
+     "audioSurplus": 0.35
+    },
+    "director": {
+     "viewerFocus": "two_character_exchange",
+     "visualSubject": "marketer_and_shopper",
+     "secondarySubject": "cafe",
+     "relationship": "exchange",
+     "cameraIntent": "two-shot capturing the tension between the two speakers",
+     "composition": "left: marketer; right: shopper; background: cafe",
+     "blocking": "left: marketer; right: shopper; background: cafe",
+     "compositionRationale": "two-shot capturing the tension between the two speakers",
+     "motionIntent": "steady hold on the exchange",
+     "revealOrder": [
+      "marketer",
+      "shopper"
+     ]
+    },
+    "narrativeAtom": {
+     "bookId": "the-choice-factory",
+     "worldId": "choice-factory-contemporary",
+     "sourceChapter": "resolution",
+     "narrativeSubject": "marketer",
+     "narrativeRelation": "It's exactly why casinos force you to convert your cash into brightly colored pl",
+     "narrativeState": "reflective",
+     "allowedMotifs": [
+      "supermarket shelves",
+      "pricing tags",
+      "retail displays",
+      "decision charts",
+      "laboratory experiments"
+     ],
+     "forbiddenMotifs": [
+      "fantasy magic",
+      "historical medieval castles",
+      "space exploration"
+     ],
+     "allowedCharacters": [
+      "shopper",
+      "marketer",
+      "experimenter"
+     ],
+     "allowedLocations": [
+      "room",
+      "office",
+      "street",
+      "cafe",
+      "kitchen"
+     ],
+     "allowedProps": [
+      "coffee",
+      "coin",
+      "wallet",
+      "dollarExchange",
+      "phone",
+      "lightbulb",
+      "balance",
+      "target",
+      "notes",
+      "puppeteer",
+      "mask",
+      "book",
+      "compass",
+      "home",
+      "clock",
+      "road",
+      "tree",
+      "shield",
+      "game",
+      "water",
+      "heart",
+      "mirror",
+      "storm",
+      "medical",
+      "trophy",
+      "crash",
+      "food",
+      "hourglass",
+      "law",
+      "chains",
+      "star"
+     ]
+    },
+    "visualIntent": {
+     "bookId": "the-choice-factory",
+     "worldId": "choice-factory-contemporary",
+     "sourceChapter": "resolution",
+     "narrativeSubject": "marketer",
+     "narrativeRelation": "It's exactly why casinos force you to convert your cash into brightly colored pl",
+     "narrativeState": "reflective",
+     "allowedMotifs": [
+      "supermarket shelves",
+      "pricing tags",
+      "retail displays",
+      "decision charts",
+      "laboratory experiments"
+     ],
+     "forbiddenMotifs": [
+      "fantasy magic",
+      "historical medieval castles",
+      "space exploration"
+     ],
+     "allowedCharacters": [
+      "shopper",
+      "marketer",
+      "experimenter"
+     ],
+     "allowedLocations": [
+      "room",
+      "office",
+      "street",
+      "cafe",
+      "kitchen"
+     ],
+     "allowedProps": [
+      "coffee",
+      "coin",
+      "wallet",
+      "dollarExchange",
+      "phone",
+      "lightbulb",
+      "balance",
+      "target",
+      "notes",
+      "puppeteer",
+      "mask",
+      "book",
+      "compass",
+      "home",
+      "clock",
+      "road",
+      "tree",
+      "shield",
+      "game",
+      "water",
+      "heart",
+      "mirror",
+      "storm",
+      "medical",
+      "trophy",
+      "crash",
+      "food",
+      "hourglass",
+      "law",
+      "chains",
+      "star"
+     ],
+     "archetype": "static_reflection",
+     "domain": "philosophy_ideas",
+     "requiredActions": [],
+     "requiredAttributes": {
+      "mood": "analytical",
+      "visualRegister": "diagrammatic_editorial",
+      "lightingOrTone": "neutral"
+     },
+     "forbiddenTropes": [
+      "static_idle_actor_wallpaper",
+      "meaningless_abstract_blobs"
+     ],
+     "semanticRequirements": [
+      "cognitive_domain_coherence"
+     ],
+     "semanticGrammar": {
+      "kind": "none",
+      "subject": "marketer",
+      "relation": "It's exactly why casinos force you to convert your cash into brightly colored pl",
+      "state": "reflective"
+     },
+     "provenance": {
+      "derivedAt": "plan",
+      "source": "inject-provenance",
+      "atomText": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackjack table. They need to abstract the los"
+     }
+    },
+    "visualContract": {
+     "bookId": "the-choice-factory",
+     "worldId": "choice-factory-contemporary",
+     "sourceChapter": "resolution",
+     "narrativeSubject": "marketer",
+     "narrativeRelation": "It's exactly why casinos force you to convert your cash into brightly colored pl",
+     "narrativeState": "reflective",
+     "allowedMotifs": [
+      "supermarket shelves",
+      "pricing tags",
+      "retail displays",
+      "decision charts",
+      "laboratory experiments"
+     ],
+     "forbiddenMotifs": [
+      "fantasy magic",
+      "historical medieval castles",
+      "space exploration"
+     ],
+     "allowedCharacters": [
+      "shopper",
+      "marketer",
+      "experimenter"
+     ],
+     "allowedLocations": [
+      "room",
+      "office",
+      "street",
+      "cafe",
+      "kitchen"
+     ],
+     "allowedProps": [
+      "coffee",
+      "coin",
+      "wallet",
+      "dollarExchange",
+      "phone",
+      "lightbulb",
+      "balance",
+      "target",
+      "notes",
+      "puppeteer",
+      "mask",
+      "book",
+      "compass",
+      "home",
+      "clock",
+      "road",
+      "tree",
+      "shield",
+      "game",
+      "water",
+      "heart",
+      "mirror",
+      "storm",
+      "medical",
+      "trophy",
+      "crash",
+      "food",
+      "hourglass",
+      "law",
+      "chains",
+      "star"
+     ],
+     "visualEvidence": {
+      "subjects": [
+       "marketer"
+      ],
+      "relations": [
+       "It's exactly why casinos force you to convert your cash into brightly colored pl"
+      ],
+      "states": [
+       "reflective"
+      ],
+      "strategyResolution": {
+       "kind": "unresolved_no_proof",
+       "repairs": [],
+       "invalidActions": [],
+       "note": "unknown capability with unproven action safety — measure first (PHASE G holdout closes this)"
+      },
+      "resolutionProof": {
+       "authored": "art"
+      }
+     },
+     "characterIntent": [
+      {
+       "identity": "marketer",
+       "role": "marketer",
+       "action": "talk",
+       "gaze": "center",
+       "state": "neutral"
+      },
+      {
+       "identity": "shopper",
+       "role": "shopper",
+       "action": "talk",
+       "gaze": "center",
+       "state": "neutral"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "kept": [
+  {
+   "sceneIndex": 25,
+   "keep": "A",
+   "why": "A/B: wrong cause with B (2)"
+  },
+  {
+   "sceneIndex": 136,
+   "keep": "A",
+   "why": "A/B: B 16.7 not above A 50"
+  },
+  {
+   "sceneIndex": 187,
+   "keep": "A",
+   "why": "A/B: B 16.7 not above A 16.7"
+  },
+  {
+   "sceneIndex": 199,
+   "keep": "A",
+   "why": "A/B: B 50 not above A 50"
+  },
+  {
+   "sceneIndex": 210,
+   "keep": "A",
+   "why": "A/B: B 0 not above A 50"
+  }
+ ],
+ "reverted": []
+}

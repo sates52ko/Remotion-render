@@ -1,0 +1,54 @@
+[
+  {
+    "img": "33e78d9014",
+    "sees": [
+      "frame 1: A light-coloured room background with three icons arranged horizontally: a crowd of small human figures labelled 'CASINOS', a large grey coin with a dollar sign labelled 'CASH', and a chess-knight piece labelled 'CHIPS'. All three elements are static and evenly spaced.",
+      "frame 2: The same three icons, but the coin (CASH) has moved right and now sits next to the CHIPS icon. A dashed rectangle outlines both CASH and CHIPS together, grouping them. A curved arrow drawn with a red circle at its tail points from CASINOS up and over to the CHIPS/CASH group, suggesting a directional relationship.",
+      "frame 3: The layout is identical to frame 2 — CASINOS on the left, CASH and CHIPS grouped inside a dashed rectangle on the right — with the same curved arrow. The positions appear fully settled; there is no further motion visible."
+    ],
+    "changed": "The CASH coin moved from between CASINOS and CHIPS to beside CHIPS; a dashed grouping box appeared around CASH and CHIPS; a curved arrow appeared pointing from CASINOS to that group.",
+    "cause": "An animation is illustrating that casinos redirect or convert cash into chips — the arrow and grouping box show that cash and chips belong together as a destination of casino action.",
+    "effect": "The viewer understands that casinos take cash and exchange it for chips, bundling the two concepts together as the outcome of the casino relationship.",
+    "message": "Casinos convert your cash into chips, abstracting money into a less emotionally real form.",
+    "wouldConfuse": "The arrow originates from CASINOS but points toward the CHIPS/CASH group, which could make it ambiguous whether CASINOS is giving chips to players or players are bringing cash to casinos; also, CASH ends up inside the CHIPS group, which may imply they are equivalent rather than sequential."
+  },
+  {
+    "img": "502e8f23da",
+    "sees": [
+      "frame 1: A cartoon man in a dark suit stands facing slightly left in a grey office-like room. He has a neutral/slightly puzzled expression, one arm resting at his side. No text overlay is visible.",
+      "frame 2: The same cartoon man in the same pose and room. His expression appears marginally more attentive or engaged, but no meaningful change in posture or scene elements is visible.",
+      "frame 3: The same cartoon man, now with a bold orange rectangular label reading 'BIOLOGICAL REALITY' appearing to his right. His expression and pose are unchanged."
+    ],
+    "changed": "A bold orange text label 'BIOLOGICAL REALITY' appeared to the right of the character by frame 3.",
+    "cause": "The narrator reached a point in the script where this concept is introduced, triggering the text to animate in.",
+    "effect": "The term 'Biological Reality' is now prominently displayed, signalling that the upcoming or current point is grounded in human biology rather than opinion.",
+    "message": "The narrator is introducing 'biological reality' as the underlying reason for the behaviour being discussed.",
+    "wouldConfuse": "The character's expression does not change and he does nothing to indicate the significance of the label; a muted viewer might not understand why this label appeared or what it refers to."
+  },
+  {
+    "img": "1cfe0bf6d5",
+    "sees": [
+      "frame 1: A cartoon man in a dark suit stands on the left in a room with a grey radial-burst background. To his right is a large orange rectangle displaying the text 'THE DEFAULT SAFE CHOICE' in white bold letters. The man's eyes are open and he looks neutral.",
+      "frame 2: The same scene. The man's eyes are now closed or nearly closed, and his mouth is slightly open — he appears to be speaking or expressing something. The orange sign is unchanged.",
+      "frame 3: The same scene again. The man's eyes are open once more and his expression has returned to neutral. The orange sign remains. No other changes."
+    ],
+    "changed": "The character's eyes closed briefly (frame 2) and then reopened (frame 3); his mouth was slightly open in frame 2.",
+    "cause": "The character is mid-speech — a talking/blinking animation cycle playing while the sign is on screen.",
+    "effect": "The scene conveys that the presenter is actively talking about 'The Default Safe Choice' while the concept label stays visible.",
+    "message": "People tend to pick the default, safe option rather than taking a risk.",
+    "wouldConfuse": "With sound off, the blinking/talking animation is the only cue that the character is speaking; without audio, the scene change feels very minor and the viewer may not register anything is being explained."
+  },
+  {
+    "img": "87145487bc",
+    "sees": [
+      "frame 1: A cartoon man in a dark suit stands on the left side. The background is split: the left half behind him is white/light grey (like a wall with a window grid), and the right half is a warm yellow-orange. No text overlay.",
+      "frame 2: The same character in the same position. To his right, against the yellow-orange background, bold dark text has appeared reading 'HIRE THE CLUMSY ONE' in large stacked lines. The word 'ONE' has an orange highlight behind it.",
+      "frame 3: The scene is identical to frame 2 — the character stands on the left, and 'HIRE THE CLUMSY ONE' with the highlighted 'ONE' remains on the right. No further change."
+    ],
+    "changed": "The bold text 'HIRE THE CLUMSY ONE' (with 'ONE' highlighted in orange) appeared on the right side of the screen between frame 1 and frame 2, and remained through frame 3.",
+    "cause": "The narrator introduced a counter-intuitive recommendation, triggering the key phrase to animate onto the screen.",
+    "effect": "The provocative phrase 'HIRE THE CLUMSY ONE' is now the focal point, drawing the viewer's attention to an unexpected piece of advice.",
+    "message": "The narrator is advising that hiring the clumsy (imperfect, relatable) candidate can be advantageous — likely a reference to the pratfall effect.",
+    "wouldConfuse": "The word 'clumsy' is striking and unexpected; without audio context, a muted viewer might read this literally and find it baffling or sarcastic, with no visual cue explaining why clumsiness is desirable."
+  }
+]

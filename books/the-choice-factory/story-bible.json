@@ -1,0 +1,222 @@
+{
+  "slug": "the-choice-factory",
+  "world": {
+    "era": "contemporary",
+    "eraEvidence": "modern behavioral science, supermarket aisles, digital ads, and consumer retail experiments",
+    "worldId": "choice-factory-contemporary",
+    "approxYear": 2018,
+    "setting": "contemporary urban retail stores, offices, cafes, and everyday consumer decision spaces",
+    "register": "analytical, witty, observational behavioral science",
+    "forbid": []
+  },
+  "visualProvenance": {
+    "bookId": "the-choice-factory",
+    "worldId": "choice-factory-contemporary",
+    "allowedMotifs": [
+      "supermarket shelves",
+      "pricing tags",
+      "retail displays",
+      "decision charts",
+      "laboratory experiments"
+    ],
+    "forbiddenMotifs": [
+      "fantasy magic",
+      "historical medieval castles",
+      "space exploration"
+    ],
+    "allowedCharacters": [
+      "shopper",
+      "marketer",
+      "experimenter"
+    ],
+    "allowedLocations": [
+      "room",
+      "office",
+      "street",
+      "cafe",
+      "kitchen"
+    ],
+    "allowedProps": [
+      "coffee",
+      "coin",
+      "wallet",
+      "dollarExchange",
+      "phone",
+      "lightbulb",
+      "balance",
+      "target",
+      "notes",
+      "puppeteer",
+      "mask",
+      "book",
+      "compass",
+      "home",
+      "clock",
+      "road",
+      "tree",
+      "shield",
+      "game",
+      "water",
+      "heart",
+      "mirror",
+      "storm",
+      "medical",
+      "trophy",
+      "crash",
+      "food",
+      "hourglass",
+      "law",
+      "chains",
+      "star"
+    ]
+  },
+  "cast": {
+    "shopper": {
+      "name": "The Shopper",
+      "role": "everyman consumer navigating daily purchasing dilemmas and psychological traps",
+      "look": "A contemplative 35-year-old in everyday smart casual attire, standing perplexed before retail choices.",
+      "variant": {
+        "gender": "male",
+        "age": "adult",
+        "build": "average",
+        "outfit": "casual",
+        "suit": "#2E3A4B",
+        "shirt": "#E8ECEF",
+        "skin": "#D9A77C",
+        "hair": "#4A3525",
+        "hairStyle": "short",
+        "headwear": "none",
+        "height": 1.75,
+        "headScale": 1
+      },
+      "mentions": 30
+    },
+    "marketer": {
+      "name": "The Marketer",
+      "role": "an ambitious commercial strategist designing nudges, pricing decoys, and framing architecture",
+      "look": "A sharp 40-year-old in a tailored modern blazer and collared shirt holding a presentation clipboard.",
+      "variant": {
+        "gender": "male",
+        "age": "adult",
+        "build": "slight",
+        "outfit": "suit",
+        "suit": "#1A2536",
+        "shirt": "#FFFFFF",
+        "skin": "#C68E62",
+        "hair": "#2B2B2B",
+        "hairStyle": "short",
+        "headwear": "none",
+        "height": 1.8,
+        "headScale": 1
+      },
+      "mentions": 20
+    }
+  },
+  "places": {
+    "room": {
+      "set": "room",
+      "look": "A modern brightly lit retail space with organized product aisles and display stands.",
+      "mentions": 15
+    },
+    "office": {
+      "set": "office",
+      "look": "A sleek contemporary agency boardroom with presentation screens and whiteboard notes.",
+      "mentions": 8
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "A bustling urban cafe counter showcasing artisan coffee and chalkboard menu prices.",
+      "mentions": 8
+    },
+    "street": {
+      "set": "street",
+      "look": "A lively city pavement lined with storefronts, promotional sandwich boards, and pedestrians.",
+      "mentions": 6
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "A contemporary domestic kitchen where everyday household brand habits play out.",
+      "mentions": 3
+    }
+  },
+  "objects": [
+    {
+      "concept": "coin",
+      "mentions": 27,
+      "why": "financial decisions, micro-payments, and monetary valuations"
+    },
+    {
+      "concept": "dollarExchange",
+      "mentions": 20,
+      "why": "currency framing, price decoys, and purchasing transactions"
+    },
+    {
+      "concept": "wallet",
+      "mentions": 20,
+      "why": "spending resistance and the pain of paying"
+    },
+    {
+      "concept": "coffee",
+      "mentions": 16,
+      "why": "the opening anchor example of choosing between coffee blends and espresso pods"
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 15,
+      "why": "moments of behavioral insight and psychological realizations"
+    },
+    {
+      "concept": "balance",
+      "mentions": 14,
+      "why": "trade-offs, perceived fairness, and cognitive evaluations"
+    },
+    {
+      "concept": "target",
+      "mentions": 9,
+      "why": "marketer targeting, demographic assumptions, and behavioral goals"
+    },
+    {
+      "concept": "notes",
+      "mentions": 9,
+      "why": "psychological experiment records and field survey data"
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": "digital distractions, mobile shopping, and notifications"
+    },
+    {
+      "concept": "shield",
+      "mentions": 7,
+      "why": "loss aversion and self-protective cognitive justifications"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": "Consumers believe they make rational buying choices, but subconscious mental shortcuts dictate every purchase."
+    },
+    {
+      "act": "development",
+      "fromFrame": 18766,
+      "claim": "Context, social proof, and distinctiveness override pure price and quality comparisons."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 38354,
+      "claim": "Admitting flaws and leveraging anchoring can turn perceived product weaknesses into irresistible strengths."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 59966,
+      "claim": "Friction and scarcity create physical and emotional pressure points that dictate market winners."
+    },
+    {
+      "act": "close",
+      "fromFrame": 80506,
+      "claim": "We never buy products solely for what they are, but for the mental relief of letting a cognitive shortcut decide."
+    }
+  ],
+  "authored": true
+}

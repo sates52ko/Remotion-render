@@ -1,0 +1,28 @@
+{
+  "schema": "single-relation/1",
+  "type": "B",
+  "understanding": "Because it is a structural masterclass, this analysis forces us to see marketing theory applied in real life.",
+  "evidence": "It's a masterclass in structural analysis really because it forces us to see the theory in the wild.",
+  "claim": {
+    "asserted": "The structural masterclass forces us to see the theory in the wild.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "mechanism": "transfer",
+  "before": "A book (analysis) on the left side. A road (wild) slot on the right, waiting.",
+  "transformation": "The book sends a token (theory) across to the road — theory lands in the wild.",
+  "after": "The road now holds the theory token — wild slot is filled.",
+  "camera": { "framing": "wide-locked", "purpose": "analysis causing theory to appear in the wild, in one frame" },
+  "entities": [
+    { "id": "book", "kind": "object", "glyph": "book", "label": "analysis" },
+    { "id": "token", "kind": "object", "glyph": "compass", "label": "theory" },
+    { "id": "road", "kind": "object", "glyph": "road", "label": "wild" }
+  ],
+  "events": [
+    { "at": 0.35, "cause": "book", "effects": [ { "entity": "token", "moveTo": "road" } ] }
+  ],
+  "required": ["the analysis book", "the theory token moving to the wild (road)"],
+  "omitted": ["ivory tower", "billboard"],
+  "_author": "preview-agent"
+}

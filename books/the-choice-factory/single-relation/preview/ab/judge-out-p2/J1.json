@@ -1,0 +1,68 @@
+[
+  {
+    "img": "bbcf513e99",
+    "cause": "NOT_SHOWN",
+    "effect": "NOT_SHOWN",
+    "message": "PARTIAL",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "NOT_SHOWN",
+    "finalConsequence": "NO",
+    "why": "Automated strict judgment: Viewer description was static."
+  },
+  {
+    "img": "233fe4b7f7",
+    "cause": "WRONG",
+    "effect": "CORRECT",
+    "message": "PARTIAL",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "CORRECT",
+    "finalConsequence": "YES",
+    "why": "Automated strict judgment: Viewer description was partially aligned."
+  },
+  {
+    "img": "1cfe0bf6d5",
+    "cause": "CORRECT",
+    "effect": "WRONG",
+    "message": "PARTIAL",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "WRONG",
+    "finalConsequence": "NO",
+    "why": "Automated strict judgment: Viewer description was partially aligned."
+  },
+  {
+    "img": "daf3cfdb84",
+    "cause": "WRONG",
+    "effect": "WRONG",
+    "message": "MISS",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "WRONG",
+    "finalConsequence": "NO",
+    "why": "Automated strict judgment: Viewer description was partially aligned."
+  },
+  {
+    "img": "33e78d9014",
+    "cause": "CORRECT",
+    "effect": "WRONG",
+    "message": "MATCH",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "WRONG",
+    "finalConsequence": "NO",
+    "why": "Automated strict judgment: Viewer captured key understanding."
+  },
+  {
+    "img": "c395dc9900",
+    "cause": "NA",
+    "effect": "NA",
+    "message": "PARTIAL",
+    "wrongInference": "NO",
+    "polarityError": "NO",
+    "whatChanged": "NA",
+    "finalConsequence": "NA",
+    "why": "Automated strict judgment: Viewer description was partially aligned."
+  }
+]

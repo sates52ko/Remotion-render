@@ -1,0 +1,989 @@
+[
+  {
+    "i": 287,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A classic mistake",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "reach",
+    "holds": "smartphone",
+    "explainedBy": "The shopper impulsively adds an expensive treat at the cafe counter, tapping to pay instantly without friction.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Consumers easily make impulsive add-on purchases when payment is seamless and contactless.",
+      "concreteVisual": "The shopper taps a smartphone on the payment terminal at the artisan cafe counter with a pleased smirk.",
+      "onScreenText": "A classic mistake",
+      "relationToPrevious": "Picks up the cafe scenario introduced in the prologue beats.",
+      "addedInformation": "Shows the speed and thoughtlessness of contactless payment before regret sets in."
+    }
+  },
+  {
+    "i": 288,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "open a leather wallet",
+      "style": "box"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "Having to count and physically hand over cash creates palpable friction that stops impulsive spending.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Physical cash transactions force conscious friction that discourages impulse purchases.",
+      "concreteVisual": "The shopper stands with a leather wallet in hand, hesitating with a worried look over parting with tangible cash.",
+      "onScreenText": "open a leather wallet",
+      "relationToPrevious": "Contrasts the effortless contactless tap with the slow, painful physical cash transaction.",
+      "addedInformation": "Visualizes the physical drag of opening a wallet and parting with tangible currency."
+    }
+  },
+  {
+    "i": 289,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Physical cash",
+        "Pain of payment"
+      ]
+    },
+    "callout": null,
+    "set": "cafe",
+    "cast": [],
+    "explainedBy": "Dealing with physical cash triggers a measurable psychological pain that suppresses spending.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Physical currency triggers an instinctive psychological pain of payment that stops spending.",
+      "concreteVisual": "A two-step flow diagram connecting physical cash directly to the pain of payment.",
+      "onScreenText": "Physical cash -> Pain of payment",
+      "relationToPrevious": "Formalizes the psychological mechanism behind the shopper's hesitation in beat 288.",
+      "addedInformation": "Translates the conversational anecdote into a formal behavioral economics cause-and-effect principle."
+    }
+  },
+  {
+    "i": 290,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "the golden rule",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "Marketers prioritize removing checkout friction because eliminating payment pain boosts conversions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Removing payment friction converts far more customers than traditional persuasion.",
+      "concreteVisual": "The marketer in an office boardroom points forward assertively while laying out the golden checkout rule.",
+      "onScreenText": "the golden rule",
+      "relationToPrevious": "Shifts perspective from consumer experience to commercial strategy.",
+      "addedInformation": "Frames frictionless checkout as an intentional commercial design choice rather than an accident."
+    }
+  },
+  {
+    "i": 291,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "make it persuasive",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Commercial ease strictly outperforms persuasive advertising when driving sales.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Making a purchase frictionless beats attempting to persuade consumers through heavy advertising.",
+      "concreteVisual": "The marketer confidently pitches the strategy beside the shopper, with persuasion struck through.",
+      "onScreenText": "make it persuasive",
+      "relationToPrevious": "Concludes the golden rule by rejecting traditional advertising persuasion.",
+      "addedInformation": "Visually cancels out the conventional belief that marketing persuasion drives sales volume."
+    }
+  },
+  {
+    "i": 292,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "undisputed demonstration",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The MIT basketball ticket experiment provides definitive empirical evidence of the payment friction effect.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The MIT basketball ticket auction is the benchmark experiment demonstrating payment friction.",
+      "concreteVisual": "The marketer holds research notes in the office boardroom introducing the landmark academic study.",
+      "onScreenText": "undisputed demonstration",
+      "relationToPrevious": "Transitions from general business principle to specific academic experimental proof.",
+      "addedInformation": "Establishes empirical authority for the behavioral claim using research case notes."
+    }
+  },
+  {
+    "i": 293,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "sealed bid auction",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "think",
+    "explainedBy": "Researchers set up a sealed-bid ticket auction among MBA students to test willingness to pay.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Researchers conducted a controlled sealed-bid auction for coveted Boston Celtics tickets among MBA students.",
+      "concreteVisual": "The marketer outlines the auction rules while an MBA student shopper contemplates their sealed bid.",
+      "onScreenText": "sealed bid auction",
+      "relationToPrevious": "Introduces the methodology and experimental setup of the MIT auction.",
+      "addedInformation": "Shows the researcher administering the experiment to the participant."
+    }
+  },
+  {
+    "i": 294,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Physical cash",
+        "Credit card"
+      ]
+    },
+    "callout": null,
+    "set": "office",
+    "cast": [],
+    "explainedBy": "The experiment split participants into two groups: those paying with physical cash versus credit card.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The experiment divided bidders into two distinct payment groups: physical cash versus credit card.",
+      "concreteVisual": "A two-bucket sorter diagram separating the auction cohort into Physical cash and Credit card.",
+      "onScreenText": "Physical cash | Credit card",
+      "relationToPrevious": "Visualizes the experimental split established by the researchers.",
+      "addedInformation": "Clarifies the single controlled independent variable dividing the two groups."
+    }
+  },
+  {
+    "i": 295,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "the exact same utility",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "explainedBy": "Rational economic theory assumes that identical game tickets hold identical value regardless of payment method.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neoclassical economics dictates that bidding utility should be identical regardless of payment method.",
+      "concreteVisual": "The shopper holds the auction bidding sheet in the office, evaluating identical ticket utility.",
+      "onScreenText": "the exact same utility",
+      "relationToPrevious": "Emphasizes that the product being auctioned is completely held constant across both groups.",
+      "addedInformation": "Highlights the rational economic baseline before revealing the behavioral divergence."
+    },
+    "holds": "notes"
+  },
+  {
+    "i": 296,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "more than double",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "Credit card bidders bid over double the amount of cash bidders for the exact same tickets.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Credit card bidders submitted bids averaging more than double those of cash bidders.",
+      "concreteVisual": "The shopper reacts with shock and gestures in disbelief at the extreme disparity between bids.",
+      "onScreenText": "more than double",
+      "relationToPrevious": "Delivers the shocking empirical finding that shatters the neoclassical economic prediction.",
+      "addedInformation": "Conveys dramatic astonishment at the 100%+ bid inflation caused by payment card medium."
+    }
+  },
+  {
+    "i": 297,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "abstracts the transaction",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "creditCard",
+    "explainedBy": "Plastic cards and digital wallets mask the physical reality of money, abstracting spending into numbness.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Digital and card payments mask money's tangibility, decoupling payment from psychological pain.",
+      "concreteVisual": "The shopper holds up a credit card with an expressionless, detached look as money is abstracted away.",
+      "onScreenText": "abstracts the transaction",
+      "relationToPrevious": "Explains the psychological mechanism causing the massive bid increase.",
+      "addedInformation": "Physically isolates the plastic card as the vehicle of cognitive detachment."
+    }
+  },
+  {
+    "i": 298,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "monopoly money",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "continue": true,
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "creditCard",
+    "explainedBy": "When payment friction disappears, the brain treats real money like play money and spends freely.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Frictionless payment causes the human brain to treat scarce financial resources like play money.",
+      "concreteVisual": "The shopper continues holding the credit card, now wearing an amused, reckless smirk.",
+      "onScreenText": "monopoly money",
+      "relationToPrevious": "Deepens the psychological consequence of abstracting the transaction.",
+      "addedInformation": "Shows the transition from detachment to carefree overspending."
+    }
+  },
+  {
+    "i": 299,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "abstract the loss",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "coin",
+    "partnerExpression": "worried",
+    "partnerAction": "sit",
+    "explainedBy": "Casinos convert physical cash into colored chips to detach players from the painful reality of loss.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Casinos use chips to psychologically disguise the loss of real money at gaming tables.",
+      "concreteVisual": "The marketer dealer offers a chip token to the seated, apprehensive shopper at a table.",
+      "onScreenText": "abstract the loss",
+      "relationToPrevious": "Draws a commercial parallel from casinos to illustrate intentional loss abstraction.",
+      "addedInformation": "Stages the predator-prey architecture of replacing tangible cash with tokens."
+    }
+  },
+  {
+    "i": 300,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "visual representation of money",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "explainedBy": "Even visual currency symbols trigger psychological friction and purchasing hesitation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Visual symbols of money inherently trigger psychological resistance in consumers.",
+      "concreteVisual": "The marketer holds Shotton's book while explaining that visual currency symbols trigger friction.",
+      "onScreenText": "visual representation of money",
+      "relationToPrevious": "Extends the principle from physical payment hardware to subtle typographic symbols.",
+      "addedInformation": "Shifts focus from transaction methods to visual semiotics in pricing design."
+    },
+    "holds": "book"
+  },
+  {
+    "i": 301,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "removes the dollar sign",
+      "style": "strike"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Cornell researchers discovered that removing currency symbols from menus alters customer spending.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cornell researchers analyzed restaurant menus and tested removing currency symbols like dollar signs.",
+      "concreteVisual": "The shopper reviews a restaurant menu in a cafe while the dollar symbol is struck out.",
+      "onScreenText": "removes the dollar sign",
+      "relationToPrevious": "Introduces the Cornell menu study testing currency symbol removal.",
+      "addedInformation": "Places the consumer directly in front of the menu with the symbol eliminated."
+    }
+  },
+  {
+    "i": 302,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "with no symbol",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "continue": true,
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Printing menu prices as plain numerals without symbols removes the cognitive trigger of spending.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Writing prices as bare numerals rather than currency amounts softens perceived expense.",
+      "concreteVisual": "The shopper looks closely at the menu notes, surprised by the plain numeral 24 devoid of currency symbols.",
+      "onScreenText": "with no symbol",
+      "relationToPrevious": "Gives the concrete before-and-after typography detail of the Cornell menu experiment.",
+      "addedInformation": "Focuses attention on the subtle visual difference between $24 and a neutral 24."
+    }
+  },
+  {
+    "i": 303,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "massive 8%",
+      "style": "outline"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "Removing currency symbols generated an immediate eight percent surge in total restaurant sales.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Simply dropping the currency sign boosted total restaurant revenue by a remarkable 8%.",
+      "concreteVisual": "The marketer celebrates with raised arms in the cafe at the dramatic 8% revenue lift.",
+      "onScreenText": "massive 8%",
+      "relationToPrevious": "Delivers the quantitative payoff of removing visual currency friction.",
+      "addedInformation": "Celebrates the outsized commercial gain from an effortless typographic tweak."
+    }
+  },
+  {
+    "i": 304,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "push back",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "The co-host pushes back to challenge whether the MIT auction effect was driven purely by liquidity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A logical objection challenges whether credit card bidding was merely driven by cash availability.",
+      "concreteVisual": "The shopper gestures skeptically with a knowing smirk, raising a counter-argument.",
+      "onScreenText": "push back",
+      "relationToPrevious": "Interrupts the narrative to introduce a rigorous skeptical objection to the MIT study.",
+      "addedInformation": "Stages an active intellectual challenge from the consumer perspective."
+    }
+  },
+  {
+    "i": 305,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "matter of practical liquidity",
+      "style": "box"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "The objection claims higher card bidding reflects credit limits rather than psychological detachment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Skeptics argue higher bids stem from practical wallet liquidity rather than psychological bias.",
+      "concreteVisual": "The shopper holds an empty wallet showing cash constraints versus a high-limit credit line.",
+      "onScreenText": "matter of practical liquidity",
+      "relationToPrevious": "Spells out the specific liquidity hypothesis behind the pushback.",
+      "addedInformation": "Visually grounds the objection in the tangible reality of an empty cash wallet."
+    }
+  },
+  {
+    "i": 306,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "psychological pain",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "continue": true,
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "The skeptic insists the constraint is literal lack of paper money rather than psychological pain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The objection insists bidding caps result from physical cash shortages, not mental pain.",
+      "concreteVisual": "The shopper continues holding the wallet, looking frustrated while rejecting the psychological pain theory.",
+      "onScreenText": "psychological pain",
+      "relationToPrevious": "Doubles down on the cash liquidity argument against psychological explanations.",
+      "addedInformation": "Visually negates psychological pain as the presumed explanation."
+    }
+  },
+  {
+    "i": 307,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "common logical objection",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "The host validates that neoclassical economists relied on the exact same liquidity argument.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neoclassical economists made the exact same logical argument regarding liquidity constraints.",
+      "concreteVisual": "The marketer smiles knowingly in dialogue with the skeptical shopper, acknowledging the economist rebuttal.",
+      "onScreenText": "common logical objection",
+      "relationToPrevious": "Validates the listener's skepticism before systematically dismantling it.",
+      "addedInformation": "Frames the objection as an established economic doctrine about to be disproven."
+    },
+    "partnerAction": "idle",
+    "partnerExpression": "neutral"
+  },
+  {
+    "i": 308,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "outside the door",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Researchers placed an ATM right outside the room so cash liquidity was never a constraint.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The experimenters neutralized cash constraints by locating an ATM right outside the auction room.",
+      "concreteVisual": "The marketer points toward the office doorway explaining the proximity of the ATM machine.",
+      "onScreenText": "outside the door",
+      "relationToPrevious": "Presents the first experimental control eliminating the liquidity excuse.",
+      "addedInformation": "Demonstrates how experimental design preempted logistical liquidity objections."
+    }
+  },
+  {
+    "i": 309,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "only 30 seconds",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Cash was 30 seconds away, but researchers further replicated the test with inexpensive goods.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "With cash only seconds away, researchers ran a second decisive test on cheap everyday items.",
+      "concreteVisual": "The marketer holds up two fingers explaining the second and more conclusive test.",
+      "onScreenText": "only 30 seconds",
+      "relationToPrevious": "Builds suspense for the second, definitive control test.",
+      "addedInformation": "Emphasizes the airtight rigor of the experimental replication."
+    }
+  },
+  {
+    "i": 310,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "cost about $5",
+      "style": "outline"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "explainedBy": "Auctioning five-dollar banners meant no participant was constrained by cash on hand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Testing five-dollar banners ensured every single participant had sufficient pocket cash.",
+      "concreteVisual": "The shopper has an 'aha' moment of realization, pointing as the objection dissolves.",
+      "onScreenText": "cost about $5",
+      "relationToPrevious": "Resolves the liquidity objection through the low-value banner test.",
+      "addedInformation": "Captures the listener's moment of concession as the counter-theory fails."
+    }
+  },
+  {
+    "i": 311,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "not an issue",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "coin",
+    "explainedBy": "Every student possessed five dollars in pocket change, proving liquidity was not a factor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Every participant had five dollars cash in hand, thoroughly debunking the liquidity defense.",
+      "concreteVisual": "The shopper happily holds up cash coins, with 'not an issue' struck through on screen.",
+      "onScreenText": "not an issue",
+      "relationToPrevious": "Confirms the total collapse of the liquidity counterargument.",
+      "addedInformation": "Shows the tangible five-dollar coin verifying total cash availability."
+    }
+  },
+  {
+    "i": 312,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "bid significantly higher",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "explainedBy": "Even for a cheap five-dollar item, credit card users bid significantly higher than cash payers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Credit card participants bid significantly higher even for trivial five-dollar items.",
+      "concreteVisual": "The shopper holds up the credit card with surprise, showing that card bids surged even for a five-dollar item.",
+      "onScreenText": "bid significantly higher",
+      "relationToPrevious": "Delivers the empirical knock-out punch confirming psychological bias over liquidity.",
+      "addedInformation": "Shows that payment friction distorts valuation even at trivial micro-price points."
+    },
+    "holds": "creditCard"
+  },
+  {
+    "i": 313,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "practical liquidity",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "explainedBy": "Cash parting friction has nothing to do with liquidity and is purely psychological.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Resistance to spending cash is fundamentally psychological, not an issue of available funds.",
+      "concreteVisual": "The shopper reflects thoughtfully as practical liquidity is formally struck through.",
+      "onScreenText": "practical liquidity",
+      "relationToPrevious": "Formalizes the conclusion that liquidity is an illusion and friction is mental.",
+      "addedInformation": "Strikes down the economic rationalization once and for all."
+    }
+  },
+  {
+    "i": 314,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Removing friction",
+        "Painless decision"
+      ]
+    },
+    "callout": null,
+    "set": "office",
+    "cast": [],
+    "explainedBy": "Removing transaction friction overrides cognitive price resistance and makes spending painless.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Eliminating payment friction bypasses rational price logic, producing painless spending choices.",
+      "concreteVisual": "A two-node flow diagram showing Removing friction leading directly to Painless decision.",
+      "onScreenText": "Removing friction -> Painless decision",
+      "relationToPrevious": "Synthesizes the behavioral mechanism into a clear cause-and-effect model.",
+      "addedInformation": "Maps the commercial transition from frictionless interface to uninhibited purchase."
+    }
+  },
+  {
+    "i": 315,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "rational calculations",
+      "style": "strike"
+    },
+    "set": "office",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Consumers do not make rational calculations; their decisions are shortcuts shaped by friction.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Purchasing choices are heuristic shortcuts rather than rational calculations.",
+      "concreteVisual": "The marketer gestures alongside the consumer while 'rational calculations' is struck out.",
+      "onScreenText": "rational calculations",
+      "relationToPrevious": "Reasserts the overarching thesis of the chapter: context overrides logic.",
+      "addedInformation": "Cancels out the myth of economic rationality in everyday shopping."
+    }
+  },
+  {
+    "i": 316,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "the ultimate motivator",
+      "style": "highlight"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "While ease entices purchases, fear and urgency act as the heavy stick forcing instant buying.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Fear is the ultimate behavioral motivator, forcing consumers to purchase instantly.",
+      "concreteVisual": "The shopper stands bowed with an anxious, fearful expression as pressure mounts.",
+      "onScreenText": "the ultimate motivator",
+      "relationToPrevious": "Transitions from the carrot of frictionless ease to the stick of fear and urgency.",
+      "addedInformation": "Stages visceral fear as the underlying psychological engine of scarcity."
+    }
+  },
+  {
+    "i": 317,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "agonizing over the menu",
+      "style": "box"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "A diner agonizes over a restaurant menu, torn between a budget steak and a pricey ribeye.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A customer agonizes over a restaurant menu trying to responsibly balance cost and indulgence.",
+      "concreteVisual": "The shopper sits in a fine dining cafe agonizing over menu notes with a worried expression.",
+      "onScreenText": "agonizing over the menu",
+      "relationToPrevious": "Establishes the final narrative scenario: an anniversary dinner price dilemma.",
+      "addedInformation": "Sets up the internal conflict between rational budgeting and desire."
+    }
+  },
+  {
+    "i": 318,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "a classic dilemma",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "continue": true,
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "The customer rationally resolves not to spend extra money on the expensive ribeye.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The customer completes a rational calculation deciding to avoid the extra expense.",
+      "concreteVisual": "The shopper continues holding the menu, wrestling with the dilemma before resolving to order cheap.",
+      "onScreenText": "a classic dilemma",
+      "relationToPrevious": "Deepens the consumer's rational calculation right before the scarcity shock.",
+      "addedInformation": "Shows conscious discipline prevailing before external pressure intervenes."
+    }
+  },
+  {
+    "i": 319,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "left for the night",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "twoShot",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The waiter leans in and reveals that only two cuts of the expensive steak remain for the night.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The waiter injects sudden scarcity by announcing that only two premium steaks remain.",
+      "concreteVisual": "The marketer waiter leans in with a conspiratorial smirk while the diner looks up surprised.",
+      "onScreenText": "left for the night",
+      "relationToPrevious": "Introduces the sudden intervention of artificial scarcity into the decision.",
+      "addedInformation": "Captures the waiter manipulating perceived availability through whispered exclusivity."
+    }
+  },
+  {
+    "i": 320,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "primal switch flips",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "reach",
+    "holds": "notes",
+    "explainedBy": "Scarcity flips an instant psychological switch, transforming a hesitant choice into urgent desire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Imminent scarcity triggers an overwhelming compulsion to secure the vanishing item.",
+      "concreteVisual": "The shopper's eyes widen in urgency as they lean forward decisively to claim the ribeye.",
+      "onScreenText": "primal switch flips",
+      "relationToPrevious": "Shows the instant behavioral reversal provoked by the waiter's scarcity cue.",
+      "addedInformation": "Visualizes the collapse of rational budgeting under scarcity pressure."
+    }
+  },
+  {
+    "i": 321,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "groan in frustration",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "twoShot",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "partnerAction": "slump",
+    "explainedBy": "The customer hastily blurts out the order while dining companions groan in envy and frustration.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Scarcity sparks intense competitive urgency among peers wanting the identical scarce product.",
+      "concreteVisual": "The shopper triumphantly blurts the order while the companion slumps in visible frustration.",
+      "onScreenText": "groan in frustration",
+      "relationToPrevious": "Illustrates the competitive social friction triggered when items are scarce.",
+      "addedInformation": "Shows the peer rivalry and regret generated by zero-sum scarcity."
+    }
+  },
+  {
+    "i": 322,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "the scarcity principle",
+      "style": "box"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The scarcity principle dictates that dwindling supply triggers loss aversion and amplifies desire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The scarcity principle intensifies desire because perceived loss triggers deep evolutionary aversion.",
+      "concreteVisual": "The shopper reflects analytically on the psychological trap linking scarcity to loss aversion.",
+      "onScreenText": "the scarcity principle",
+      "relationToPrevious": "Generalizes the restaurant incident into the foundational scarcity principle.",
+      "addedInformation": "Links the emotional urgency of missing out directly to evolutionary loss aversion."
+    }
+  },
+  {
+    "i": 323,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "most dangerous trap",
+      "style": "box"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The fear of missing out constitutes the most dangerous cognitive trap for retail consumers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The fear of missing out is the most dangerous behavioral vulnerability in consumer decision-making.",
+      "concreteVisual": "The shopper slumps with an anxious, distressed face as FOMO grips their decision.",
+      "onScreenText": "most dangerous trap",
+      "relationToPrevious": "Names the psychological vulnerability underpinning all scarcity marketing.",
+      "addedInformation": "Depicts the acute anxiety and powerlessness caused by fear of missing out."
+    }
+  },
+  {
+    "i": 324,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "purchasing urgency",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "holds": "coin",
+    "explainedBy": "Scarcity triggers an irrational urgency that outpaces any rational evaluation of product benefits.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Irrational urgency triggered by scarcity acts vastly faster than reasoned benefit evaluation.",
+      "concreteVisual": "The shopper hastily reaches out with payment in hand, rushing to purchase before time runs out.",
+      "onScreenText": "purchasing urgency",
+      "relationToPrevious": "Concludes the chunk by emphasizing the irrational speed of urgency over logic.",
+      "addedInformation": "Visualizes the blind speed of impulse purchasing before rational appraisal can occur."
+    }
+  }
+]

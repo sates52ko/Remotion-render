@@ -1,0 +1,28 @@
+{
+  "slug": "the-choice-factory",
+  "hook": "THE SETUP",
+  "at": "2026-11-07T08:53:48.410Z",
+  "variants": [
+    {
+      "letter": "A",
+      "file": "out/thumbnail-the-choice-factory.png",
+      "hookVisible": true,
+      "changedPct": 5.33,
+      "detail": "5.33% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "B",
+      "file": "out/thumbnail-the-choice-factory-b.png",
+      "hookVisible": true,
+      "changedPct": 8.03,
+      "detail": "8.03% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "C",
+      "file": "out/thumbnail-the-choice-factory-c.png",
+      "hookVisible": true,
+      "changedPct": 2.35,
+      "detail": "2.35% of pixels change with the hook (visible ≥ 0.8%)"
+    }
+  ]
+}

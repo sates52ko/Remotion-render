@@ -1,0 +1,17 @@
+{
+  "schema": "single-relation/1",
+  "type": "H",
+  "text": "it made no mention of how often the theft occurred",
+  "understanding": "The sign begged people not to steal the wood but crucially omitted how often theft actually happened — no social proof.",
+  "evidence": "it made no mention of how often the theft occurred",
+  "claim": {
+    "asserted": "The sign made no mention of how often the theft occurred.",
+    "polarity": "asserted",
+    "speaker": "narrator",
+    "notAsserted": []
+  },
+  "camera": { "framing": "wide-locked", "purpose": "highlight the absence of social proof" },
+  "required": ["the absence of social proof"],
+  "omitted": ["the theft amount", "the sign itself"],
+  "_author": "preview-agent"
+}

@@ -1,0 +1,137 @@
+{
+ "schema": "stills/1",
+ "name": "single-relation A/B the-choice-factory",
+ "composition": "Antidote-lab",
+ "entry": "src/index.ts",
+ "silent": true,
+ "shards": 6,
+ "extra": [
+  "public/sfx/ding.wav",
+  "public/sfx/pop.wav",
+  "public/sfx/thud.wav",
+  "public/sfx/tick.wav",
+  "public/sfx/whoosh.wav"
+ ],
+ "jobs": [
+  {
+   "id": "s25-A",
+   "config": "configs/s25-A.json",
+   "frames": [
+    285,
+    367,
+    448
+   ],
+   "strip": true
+  },
+  {
+   "id": "s25-B",
+   "config": "configs/s25-B.json",
+   "frames": [
+    285,
+    367,
+    448
+   ],
+   "strip": true
+  },
+  {
+   "id": "s136-A",
+   "config": "configs/s136-A.json",
+   "frames": [
+    340,
+    422,
+    503
+   ],
+   "strip": true
+  },
+  {
+   "id": "s136-B",
+   "config": "configs/s136-B.json",
+   "frames": [
+    340,
+    422,
+    503
+   ],
+   "strip": true
+  },
+  {
+   "id": "s187-A",
+   "config": "configs/s187-A.json",
+   "frames": [
+    304,
+    411,
+    518
+   ],
+   "strip": true
+  },
+  {
+   "id": "s187-B",
+   "config": "configs/s187-B.json",
+   "frames": [
+    304,
+    411,
+    518
+   ],
+   "strip": true
+  },
+  {
+   "id": "s199-A",
+   "config": "configs/s199-A.json",
+   "frames": [
+    429,
+    545,
+    662
+   ],
+   "strip": true
+  },
+  {
+   "id": "s199-B",
+   "config": "configs/s199-B.json",
+   "frames": [
+    429,
+    545,
+    662
+   ],
+   "strip": true
+  },
+  {
+   "id": "s210-A",
+   "config": "configs/s210-A.json",
+   "frames": [
+    276,
+    345,
+    413
+   ],
+   "strip": true
+  },
+  {
+   "id": "s210-B",
+   "config": "configs/s210-B.json",
+   "frames": [
+    276,
+    345,
+    413
+   ],
+   "strip": true
+  },
+  {
+   "id": "s299-A",
+   "config": "configs/s299-A.json",
+   "frames": [
+    349,
+    429,
+    508
+   ],
+   "strip": true
+  },
+  {
+   "id": "s299-B",
+   "config": "configs/s299-B.json",
+   "frames": [
+    349,
+    429,
+    508
+   ],
+   "strip": true
+  }
+ ]
+}

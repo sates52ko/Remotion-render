@@ -1,0 +1,272 @@
+{
+ "instructions": "You judge whether muted viewers understood short scenes of animated book-summary videos. This file holds several items, each from a DIFFERENT scene; each has the narration spoken over the scene, the frozen answer key (what a muted viewer should understand, its cause, its effect, key facts, plausible wrong inferences, whether the narration states any causality at all, what the narrator asserts, and what the narration mentions but does NOT assert — notAsserted), and what a viewer with the sound off wrote (description). Some viewers saw three moments of the scene, some saw more moments; judge only what the description says. Judge each item on its own.\r\n1. cause — CORRECT (the viewer's cause matches the key's cause in meaning), WRONG (contradicts it), NOT_SHOWN (unclear / missing / something else). effect — the same against the key's effect. If the key says supportsCausality: false, answer \"NA\" for both.\r\n2. message — MATCH (the viewer's message states the key's understanding), PARTIAL (its subject or half of it), MISS.\r\n3b. polarityError — YES if the viewer states as true (or as the narrator's point) something the key lists under notAsserted (a rejected premise, counterfactual, hypothesis, question, quoted speech, uncertain claim or the setup half of a contrast); otherwise NO.\r\n3. wrongInference — YES if the viewer states something the key lists as a wrong inference, or a cause / claim that contradicts the narration; otherwise NO.\r\n4. whatChanged — CORRECT if who or what the viewer says changed matches the key's effect (the thing that ends up different), WRONG if the viewer names a different change that contradicts the key, NOT_SHOWN if the viewer names no change or an unrelated one, NA if the key states no causality.\r\n5. finalConsequence — YES if the viewer states the key's final consequence (the end state / result the narration gives), NO if not, NA if the key states no causality.\r\nJudge meaning, not wording; be strict and literal; do not reward a description for being longer, prettier or busier.\r\nWrite ONLY a JSON array (one object per item, same order) to the output path you were given: [{\"img\":\"…\",\"cause\":\"…\",\"effect\":\"…\",\"message\":\"…\",\"wrongInference\":\"YES|NO\",\"polarityError\":\"YES|NO\",\"whatChanged\":\"…\",\"finalConsequence\":\"…\",\"why\":\"…\"}, …]",
+ "items": [
+  {
+   "img": "bbcf513e99",
+   "narration": "It simply laid out the rule, begging people not to steal the wood. But crucially, it made no mention of how often the theft occurred. It provided no social proo",
+   "answerKey": {
+    "understanding": "A sign that simply stated a rule against stealing wood failed because it included no social proof about how common the theft was.",
+    "cause": "The sign used an injunctive norm (stating the rule) but made no mention of theft frequency",
+    "effect": "It provided no social proof, leaving a key persuasion mechanism unused",
+    "keyFacts": [
+     "The sign used an injunctive norm",
+     "It told people not to steal the wood",
+     "It made no mention of how often theft occurred",
+     "It provided no social proof"
+    ],
+    "wrongInferences": [
+     "The sign included statistics about theft frequency",
+     "The sign's lack of social proof reduced theft rates",
+     "Cialdini's team wrote the sign to test social proof's presence"
+    ],
+    "supportsCausality": true,
+    "asserted": "The injunctive-norm sign stated the rule but crucially omitted any reference to how often theft occurred, thus providing no social proof.",
+    "notAsserted": [
+     {
+      "text": "The sign reduced theft",
+      "why": "No outcome of this sign's effectiveness is stated in this narration"
+     },
+     {
+      "text": "Social proof was present but ignored",
+      "why": "The narration says social proof was absent, not ignored"
+     }
+    ]
+   },
+   "description": {
+    "img": "bbcf513e99",
+    "sees": [
+     "frame 1: A light grey background suggesting an indoor scene (faint outlines of a table and chairs). A large white speech-bubble/caption box in the centre reads: 'it made no mention of how often the theft occurred'.",
+     "frame 2: Identical composition to frame 1 — same background, same caption box with the same text. No visible change.",
+     "frame 3: Identical composition again — same background, same caption box with the same text. No visible change."
+    ],
+    "changed": "nothing",
+    "cause": "unclear",
+    "effect": "unclear",
+    "message": "A piece of information (a warning or sign) omitted the frequency of theft, which is presented as a meaningful detail.",
+    "wouldConfuse": "All three frames look identical; without audio or surrounding context it is impossible to tell what scene is being described or what 'it' refers to — the viewer has no visual anchor for 'theft'."
+   }
+  },
+  {
+   "img": "233fe4b7f7",
+   "narration": "It's basically the ivory tower meeting the billboard. It's a masterclass in structural analysis really because it forces us to see the theory in the wild.",
+   "answerKey": {
+    "understanding": "The book's value is that it forces readers to see academic theory applied to real-world commercial advertising.",
+    "cause": "Pitting academic theories against actual commercial campaigns and field trials",
+    "effect": "Readers are forced to see theory in the wild, making it a masterclass in structural analysis",
+    "keyFacts": [
+     "The book bridges academic theory and commercial advertising",
+     "It is described as a masterclass in structural analysis",
+     "It forces us to see theory applied in real contexts"
+    ],
+    "wrongInferences": [
+     "The billboard industry inspired the academic theories",
+     "Structural analysis is taught separately from advertising examples",
+     "The book is primarily a critique of ivory-tower thinking"
+    ],
+    "supportsCausality": true,
+    "asserted": "The book bridges the ivory tower and the billboard by forcing us to see theory in the wild.",
+    "notAsserted": [
+     {
+      "text": "The theories are proven correct by the campaigns",
+      "why": "The narration says we see theory in the wild, not that the theory is validated"
+     },
+     {
+      "text": "The book is easy to read",
+      "why": "No claim about difficulty or accessibility is made"
+     }
+    ]
+   },
+   "description": {
+    "img": "233fe4b7f7",
+    "sees": [
+     "frame 1: Three icons are displayed in a row against a light background with faint city-skyline silhouettes: a grey open book labelled 'ANALYSIS', a dark navy compass/diamond circle icon labelled 'THEORY', and a dark cone/obelisk shape labelled 'WILD'. They are evenly spaced, all roughly the same visual weight, with no connections between them.",
+     "frame 2: The book icon ('ANALYSIS') has enlarged and turned red/pink, surrounded by a pink circle, and is now highlighted as the focal element. A dashed arrow curves from the book icon rightward, and dashed-line boxes appear over the 'THEORY' and 'WILD' labels, suggesting a flow or relationship. The compass icon has moved slightly right and closer to the cone.",
+     "frame 3: Very similar to frame 2 — the book icon remains large, red, and circled. The dashed arrow and dashed boxes are still present. The compass icon (THEORY) and cone (WILD) have moved further right, with the compass icon now appearing even further to the right of the cone, as if re-ordered or shifted."
+    ],
+    "changed": "From frame 1 to frame 3: the ANALYSIS book icon becomes the dominant highlighted element (enlarged, red, circled), dashed arrows and boxes connect it to the other two icons, and the THEORY and WILD icons shift positions.",
+    "cause": "An animation is showing how 'ANALYSIS' leads to or connects with 'THEORY' and 'WILD', structuring the book's content framework.",
+    "effect": "The viewer understands that the book is organised around three categories — Analysis, Theory, Wild — with Analysis as the starting or primary element.",
+    "message": "The narrator is explaining the structure of the book or the insight series: each insight will cover analysis, theory, and a wild/unexpected angle.",
+    "wouldConfuse": "The re-ordering of THEORY and WILD icons between frames 2 and 3 (the compass moves to the far right, past the cone) may suggest WILD comes before THEORY, contradicting the original left-to-right order. The dashed boxes over THEORY and WILD could look like they are being crossed out or de-emphasised rather than connected."
+   }
+  },
+  {
+   "img": "1cfe0bf6d5",
+   "narration": "Nobody ever got fired for buying IBM because it's the default safe choice. Precisely. It is infinitely safer for a middle manager's career to fail conventionall",
+   "answerKey": {
+    "understanding": "Choosing the conventional, safe option (like IBM) protects a manager's career even if it fails, because failure by conformity is easier to justify than failure by innovation.",
+    "cause": "IBM is the default safe choice; failing conventionally is safer for a middle manager's career",
+    "effect": "It is infinitely safer to fail conventionally than unconventionally",
+    "keyFacts": [
+     "IBM is cited as the default safe corporate choice",
+     "Failing conventionally is safer for a middle manager's career",
+     "The saying 'Nobody ever got fired for buying IBM' is a famous corporate adage"
+    ],
+    "wrongInferences": [
+     "IBM became dominant because its products were superior",
+     "Middle managers who buy IBM are more likely to be promoted",
+     "Unconventional choices are safer for a manager's career than conventional ones"
+    ],
+    "supportsCausality": true,
+    "asserted": "Nobody ever got fired for buying IBM because conforming to the default is the safest career move for a middle manager.",
+    "notAsserted": [
+     {
+      "text": "IBM is the best product",
+      "why": "The narration makes a career-safety argument, not a product-quality claim"
+     },
+     {
+      "text": "Unconventional choices always fail",
+      "why": "The narration contrasts safety levels, not universal outcomes"
+     }
+    ]
+   },
+   "description": {
+    "img": "1cfe0bf6d5",
+    "sees": [
+     "frame 1: A cartoon man in a dark suit stands on the left in a room with a grey radial-burst background. To his right is a large orange rectangle displaying the text 'THE DEFAULT SAFE CHOICE' in white bold letters. The man's eyes are open and he looks neutral.",
+     "frame 2: The same scene. The man's eyes are now closed or nearly closed, and his mouth is slightly open — he appears to be speaking or expressing something. The orange sign is unchanged.",
+     "frame 3: The same scene again. The man's eyes are open once more and his expression has returned to neutral. The orange sign remains. No other changes."
+    ],
+    "changed": "The character's eyes closed briefly (frame 2) and then reopened (frame 3); his mouth was slightly open in frame 2.",
+    "cause": "The character is mid-speech — a talking/blinking animation cycle playing while the sign is on screen.",
+    "effect": "The scene conveys that the presenter is actively talking about 'The Default Safe Choice' while the concept label stays visible.",
+    "message": "People tend to pick the default, safe option rather than taking a risk.",
+    "wouldConfuse": "With sound off, the blinking/talking animation is the only cue that the character is speaking; without audio, the scene change feels very minor and the viewer may not register anything is being explained."
+   }
+  },
+  {
+   "img": "daf3cfdb84",
+   "narration": "clearly mortified. You sit down at your desk to make your decision, and you hire the clumsy one. It feels counterintuitive, doesn't it?",
+   "answerKey": {
+    "understanding": "Despite the clumsy candidate's embarrassing coffee spill, the interviewer decides to hire them, which feels counterintuitive.",
+    "cause": "The candidate spilled coffee and was clearly mortified",
+    "effect": "The interviewer sits down and hires the clumsy candidate anyway, against intuition",
+    "keyFacts": [
+     "The candidate spilled coffee on the carpet",
+     "The candidate was clearly mortified",
+     "The interviewer chose to hire the clumsy candidate",
+     "The decision is described as counterintuitive"
+    ],
+    "wrongInferences": [
+     "The interviewer rejected the clumsy candidate because of the spill",
+     "The coffee spill improved the interviewer's confidence in the candidate rationally",
+     "The other candidate was hired instead"
+    ],
+    "supportsCausality": true,
+    "asserted": "You hire the clumsy candidate who spilled coffee, and the narration acknowledges this feels counterintuitive.",
+    "notAsserted": [
+     {
+      "text": "The clumsy candidate is objectively the best hire",
+      "why": "The narration calls it counterintuitive, not objectively superior"
+     },
+     {
+      "text": "The coffee spill was intentional",
+      "why": "The candidate is described as mortified, implying accident"
+     }
+    ]
+   },
+   "description": {
+    "img": "daf3cfdb84",
+    "sees": [
+     "frame 1: A split-screen: on the left, a plain grey/white room with a male animated character standing alone; on the right (warmer beige background), a large bullseye/target icon with concentric circles and an arrow hitting the centre, labelled 'CLUMSY ONE' beneath it. The character and the target are separate, with no visual connection.",
+     "frame 2: The same split-screen. Now a large pink circle surrounds the character on the left, and a dashed arrow curves from the character up and rightward toward a dashed rectangular box that has appeared above the target. The target label 'CLUMSY ONE' remains. The character appears to be highlighted as the subject of discussion.",
+     "frame 3: Almost identical to frame 2 — the pink circle still surrounds the character, the dashed arrow still points to the dashed box, and the 'CLUMSY ONE' label is still visible. The target icon appears slightly smaller or moved. No new elements appear."
+    ],
+    "changed": "From frame 1 to frame 3: a pink highlight circle appears around the character, and a dashed arrow with a dashed destination box is added, linking the character to an empty placeholder box above the target.",
+    "cause": "An animation is establishing a relationship or mapping between the character and a concept (the 'CLUMSY ONE' target), suggesting the character is being identified with or is performing the 'clumsy' action.",
+    "effect": "The viewer understands the character is associated with the 'CLUMSY ONE' label — possibly demonstrating a clumsy persuasion technique.",
+    "message": "The narrator is introducing a character (or type of person/behaviour) called the 'Clumsy One', likely as an example of an ineffective or blunt approach.",
+    "wouldConfuse": "The dashed destination box is empty — there is no icon or label inside it — so it is unclear what the arrow is pointing toward or what the character is supposed to be linked to. The split-screen background change (grey vs. beige) could make a viewer think these are two separate scenes rather than one."
+   }
+  },
+  {
+   "img": "33e78d9014",
+   "narration": "It's exactly why casinos force you to convert your cash into brightly colored plastic chips before you sit at the blackjack table. They need to abstract the los",
+   "answerKey": {
+    "understanding": "Casinos convert cash into chips to psychologically distance gamblers from real money, reducing the pain of loss and encouraging more spending.",
+    "cause": "Casinos force players to convert cash into brightly colored plastic chips",
+    "effect": "The loss is abstracted, the brain stops registering spending as giving up a real resource, friction disappears, and spending increases",
+    "keyFacts": [
+     "Casinos require cash to be converted into brightly colored plastic chips",
+     "Chips abstract the loss away from real money",
+     "The brain stops treating chips as a finite survival resource",
+     "Removing friction increases spending"
+    ],
+    "wrongInferences": [
+     "Casinos use chips primarily for security and fraud prevention",
+     "Players spend less when using chips than cash",
+     "The chip system increases the brain's awareness of real financial loss"
+    ],
+    "supportsCausality": true,
+    "asserted": "Casinos use chips to abstract the loss so the brain treats money like Monopoly money, removing friction and enabling freer spending.",
+    "notAsserted": [
+     {
+      "text": "Chips make games fairer",
+      "why": "No fairness claim is made; the motivation given is psychological abstraction of loss"
+     },
+     {
+      "text": "Players are unaware of chip conversion",
+      "why": "The narration says casinos force conversion, implying players experience it"
+     }
+    ]
+   },
+   "description": {
+    "img": "33e78d9014",
+    "sees": [
+     "frame 1: A light-coloured room background with three icons arranged horizontally: a crowd of small human figures labelled 'CASINOS', a large grey coin with a dollar sign labelled 'CASH', and a chess-knight piece labelled 'CHIPS'. All three elements are static and evenly spaced.",
+     "frame 2: The same three icons, but the coin (CASH) has moved right and now sits next to the CHIPS icon. A dashed rectangle outlines both CASH and CHIPS together, grouping them. A curved arrow drawn with a red circle at its tail points from CASINOS up and over to the CHIPS/CASH group, suggesting a directional relationship.",
+     "frame 3: The layout is identical to frame 2 — CASINOS on the left, CASH and CHIPS grouped inside a dashed rectangle on the right — with the same curved arrow. The positions appear fully settled; there is no further motion visible."
+    ],
+    "changed": "The CASH coin moved from between CASINOS and CHIPS to beside CHIPS; a dashed grouping box appeared around CASH and CHIPS; a curved arrow appeared pointing from CASINOS to that group.",
+    "cause": "An animation is illustrating that casinos redirect or convert cash into chips — the arrow and grouping box show that cash and chips belong together as a destination of casino action.",
+    "effect": "The viewer understands that casinos take cash and exchange it for chips, bundling the two concepts together as the outcome of the casino relationship.",
+    "message": "Casinos convert your cash into chips, abstracting money into a less emotionally real form.",
+    "wouldConfuse": "The arrow originates from CASINOS but points toward the CHIPS/CASH group, which could make it ambiguous whether CASINOS is giving chips to players or players are bringing cash to casinos; also, CASH ends up inside the CHIPS group, which may imply they are equivalent rather than sequential."
+   }
+  },
+  {
+   "img": "c395dc9900",
+   "narration": "to be the blue moakin. But I'm going to stop you right there because this is the part that frustrates me. What's up? If the von restro effect is a biological re",
+   "answerKey": {
+    "understanding": "The speaker is about to object that something frustrates them regarding the von Restorff effect being a biological response.",
+    "cause": "The von Restorff effect is a biological response (the established claim being referenced)",
+    "effect": "The speaker interrupts to express frustration with that point",
+    "keyFacts": [
+     "The von Restorff effect is described as a biological response",
+     "The speaker expresses frustration with this framing",
+     "The speaker interrupts to raise an objection"
+    ],
+    "wrongInferences": [
+     "The speaker agrees that the von Restorff effect is purely biological",
+     "The brand failed because it chose to be the blue option",
+     "The speaker's frustration is about the brand's market success"
+    ],
+    "supportsCausality": false,
+    "asserted": "The speaker stops the conversation because the biological-response framing of the von Restorff effect frustrates them.",
+    "notAsserted": [
+     {
+      "text": "The von Restorff effect is NOT biological",
+      "why": "The narration expresses frustration, not a counter-claim; the effect's nature is not settled here"
+     },
+     {
+      "text": "The brand succeeded by being blue",
+      "why": "Color is referenced contextually from prior narration, not asserted as the cause here"
+     }
+    ]
+   },
+   "description": {
+    "img": "c395dc9900",
+    "sees": [
+     "frame 1: A mostly empty grey room with a grid of squares (like a whiteboard or billboard) on the left side, a T-shaped stand or table in the lower centre-right, and a white speech-bubble caption reading 'this is the part that frustrates me' in the lower-left area. No characters are visible.",
+     "frame 2: Identical layout — same grey room, same grid of squares, same T-shaped stand. The caption 'this is the part that frustrates me' has shifted slightly to the centre of the frame but remains unchanged in wording.",
+     "frame 3: Same scene again — grey room, grid of squares, T-shaped stand. The caption 'this is the part that frustrates me' is now positioned towards the right of the frame. No other visual changes."
+    ],
+    "changed": "The position of the caption bubble drifts from left to centre to right across the three frames; the room and all other elements remain static.",
+    "cause": "The caption appears to be animating or sliding across the screen, possibly synchronised with spoken narration.",
+    "effect": "The viewer's eye is drawn from left to right, following the moving text; no new visual information is introduced.",
+    "message": "The narrator is expressing personal frustration about something — likely a limitation or problem being introduced in this insight.",
+    "wouldConfuse": "There are no characters, faces, or actions visible, so it is completely unclear who is frustrated or what they are frustrated about. The empty room with the grid and stand provides no context for the emotion stated in the caption."
+   }
+  }
+ ]
+}

@@ -1,0 +1,1086 @@
+[
+  {
+    "i": 82,
+    "concept": "tree",
+    "diagram": null,
+    "callout": {
+      "text": "A STRANDED CAT",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The commuter reflexively looks toward the treetop, bewildered by what the crowd could be seeing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The subconscious mind directs attention toward the group's gaze before conscious reasoning can formulate a hypothesis.",
+      "concreteVisual": "The shopper standing on the street looks up with a surprised gaze toward an oak tree icon.",
+      "onScreenText": "A STRANDED CAT",
+      "relationToPrevious": "Continues the commute scenario from beat 81, shifting focus from the crowd of pedestrians to the driver's bewildered internal reaction.",
+      "addedInformation": "Contrasts the rapid physical head tilt with the slower, confused mental questioning of what might be in the branches."
+    }
+  },
+  {
+    "i": 83,
+    "concept": "tree",
+    "diagram": null,
+    "callout": {
+      "text": "INVOLUNTARY PHYSICAL REFLEX",
+      "style": "box"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "continue": true,
+    "explainedBy": "The driver involuntarily strains forward to look at the exact spot the crowd is watching.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Looking where a crowd looks is an automatic, involuntary motor reflex rather than a deliberate decision.",
+      "concreteVisual": "The shopper leans forward strained toward the oak tree icon with an intense, worried expression.",
+      "onScreenText": "INVOLUNTARY PHYSICAL REFLEX",
+      "relationToPrevious": "Maintains the street setting and tree focus while advancing the shopper's posture from passive thought into active, involuntary physical strain.",
+      "addedInformation": "Visually demonstrates how the body acts automatically before deliberate intent gives permission."
+    }
+  },
+  {
+    "i": 84,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "EVOLUTIONARY REASON",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "shield",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Holding up an evolutionary protective shield shows that following the tribe's gaze was an ancient survival adaptation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Herd gaze-following evolved as an essential survival mechanism for ancestral social groups.",
+      "concreteVisual": "The shopper holds up a sturdy shield representing evolutionary defense against ancestral threats.",
+      "onScreenText": "EVOLUTIONARY REASON",
+      "relationToPrevious": "Transitions from the modern commuter street vignette to the deep historical rationale behind the reflex.",
+      "addedInformation": "Frames the involuntary reflex as an ancient protective armor rather than simple modern foolishness."
+    }
+  },
+  {
+    "i": 85,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "UNSURE",
+        "LOOK TO THE CROWD",
+        "OUTSOURCE TO COLLECTIVE"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A causal flow diagram mapping how personal uncertainty leads to watching the crowd, which outsources choice to the collective.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In ambiguous situations, individuals bypass individual reasoning and outsource their choices directly to the crowd.",
+      "concreteVisual": "A three-stage flow diagram connecting initial hesitation to collective delegation.",
+      "onScreenText": "UNSURE → LOOK TO THE CROWD → OUTSOURCE TO COLLECTIVE",
+      "relationToPrevious": "Abstracts the evolutionary vignette into the universal cognitive mechanism driving herd behavior.",
+      "addedInformation": "Lays out the sequential psychological chain from internal doubt to external conformity."
+    }
+  },
+  {
+    "i": 86,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "A CHEAT CODE",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The marketer identifies the herd reflex as a high-leverage strategic advantage in commercial marketing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Commercial brands can exploit consumers' innate herd reflex as an unfair strategic shortcut.",
+      "concreteVisual": "The marketer in an agency office smirks while pointing at a chess knight strategy icon.",
+      "onScreenText": "A CHEAT CODE",
+      "relationToPrevious": "Transitions from consumer psychology to the commercial marketer exploiting that psychological vulnerability.",
+      "addedInformation": "Shows the calculating strategist capitalizing on what was introduced as an involuntary biological reflex."
+    }
+  },
+  {
+    "i": 87,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CONSUMER HESITATION INTO COMPLIANCE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "notes",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The marketer presents popularity records to a hesitant consumer, flipping doubt into automatic compliance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Displaying social proof dissolves buying friction by converting private hesitation into collective compliance.",
+      "concreteVisual": "The marketer offers sales record notes to a hesitant shopper standing in a retail room.",
+      "onScreenText": "CONSUMER HESITATION INTO COMPLIANCE",
+      "relationToPrevious": "Applies the marketer's strategic insight to an active commercial persuasion encounter with a shopper.",
+      "addedInformation": "Contrasts the confident strategist offering social data against the shopper's wavering reluctance."
+    }
+  },
+  {
+    "i": 88,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BYPASS CRITICAL THINKING",
+      "style": "strike"
+    },
+    "set": "room",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Demonstrating widespread popularity causes the consumer to shut down critical evaluation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Proof of popularity circumvents rational consumer scrutiny entirely.",
+      "concreteVisual": "The shopper converses neutrally beside the smirking marketer while critical scrutiny is struck out.",
+      "onScreenText": "BYPASS CRITICAL THINKING",
+      "relationToPrevious": "Deepens the interaction from beat 87 by detailing how the offered proof disables the shopper's analytical filter.",
+      "addedInformation": "Strikes through critical thinking to illustrate the cognitive bypass occurring inside the buyer's mind."
+    }
+  },
+  {
+    "i": 89,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WHERE DO I SIGN UP",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "take",
+    "holds": "coin",
+    "actionCue": "sign up",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The shopper eagerly grabs their coin to purchase, trading evaluation for the urgency of joining the crowd.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Social proof shifts the consumer question from evaluating quality to securing immediate inclusion.",
+      "concreteVisual": "The shopper eagerly takes a coin in hand with a compliant expression to sign up.",
+      "onScreenText": "WHERE DO I SIGN UP",
+      "relationToPrevious": "Shows the practical result of the cognitive bypass: active compliance and eager payment.",
+      "addedInformation": "Captures the sudden transition from cautious deliberation to impulsive financial commitment."
+    }
+  },
+  {
+    "i": 90,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE HOTEL TOWEL EXPERIMENT",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "book",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The marketer showcases the foundational study on social proof: Cialdini's hotel towel reuse experiment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Robert Cialdini's hotel towel study is the benchmark experimental proof of situational social norms.",
+      "concreteVisual": "The marketer holds up a book representing Cialdini's research inside an office setting.",
+      "onScreenText": "THE HOTEL TOWEL EXPERIMENT",
+      "relationToPrevious": "Pivots from the theoretical concept of herd compliance to the specific empirical experiment that proved it.",
+      "addedInformation": "Establishes scholarly authority and experimental rigor before breaking down the specific test conditions."
+    }
+  },
+  {
+    "i": 91,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "SAVE THE ENVIRONMENT",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "place",
+    "holds": "notes",
+    "actionCue": "left",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "A hotel guest sets down the ubiquitous environmental placard featuring a water droplet icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Standard corporate appeals rely on moral, environmental exhortations like saving water.",
+      "concreteVisual": "The shopper places a placard card on the table beside a water drop icon in a room.",
+      "onScreenText": "SAVE THE ENVIRONMENT",
+      "relationToPrevious": "Establishes the familiar baseline condition of the experiment before testing its behavioral effectiveness.",
+      "addedInformation": "Materializes the standard corporate messaging that Cialdini sought to rigorously measure and disrupt."
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "35% COMPLIANCE",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The experimenter reviews the baseline trial data showing a 35 percent guest compliance rate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The standard rational environmental plea generates a modest 35 percent baseline compliance rate.",
+      "concreteVisual": "The marketer holds experimental notes recording the 35 percent compliance baseline in an office.",
+      "onScreenText": "35% COMPLIANCE",
+      "relationToPrevious": "Quantifies the exact performance of the standard placard introduced in beat 91.",
+      "addedInformation": "Records the benchmark number that will serve as the control group for behavioral testing."
+    }
+  },
+  {
+    "i": 93,
+    "concept": "heart",
+    "diagram": null,
+    "callout": {
+      "text": "GENUINELY CARING ABOUT CONSERVATION",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The rational appeal fails to scale because it depends on individual moral conscience in an unobserved space.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Moral environmental pleas are fragile because they demand active ideological concern in total privacy.",
+      "concreteVisual": "The shopper stands alone in a private room reflecting beside a heart icon representing moral care.",
+      "onScreenText": "GENUINELY CARING ABOUT CONSERVATION",
+      "relationToPrevious": "Explains the psychological friction that caps the baseline message's success at 35 percent.",
+      "addedInformation": "Contrasts abstract ideological caring against the friction of real-world private convenience."
+    }
+  },
+  {
+    "i": 94,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STRIPPED AWAY THE MORAL PLEA",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The researcher strips away all moral and environmental arguments from the intervention.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Effective behavioral nudges discard complex moral judgments in favor of simple psychological triggers.",
+      "concreteVisual": "The marketer points decisively as the moral plea text is struck through on screen.",
+      "onScreenText": "STRIPPED AWAY THE MORAL PLEA",
+      "relationToPrevious": "Marks the experimental turning point where ethical persuasion is replaced with behavioral framing.",
+      "addedInformation": "Emphasizes the deliberate removal of traditional value-based messaging."
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MOST PEOPLE REUSE THEIR TOWELS",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "offer",
+    "holds": "notes",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The researcher introduces the altered card declaring that most fellow guests reuse their towels.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Replacing moral guilt with a descriptive social norm creates an immediate reference point.",
+      "concreteVisual": "The marketer presents the revised card to a surprised hotel guest in a room.",
+      "onScreenText": "MOST PEOPLE REUSE THEIR TOWELS",
+      "relationToPrevious": "Reveals Cialdini's minimalist experimental intervention.",
+      "addedInformation": "Shows the exact wording that activated herd compliance without altering physical incentives."
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BOOSTED COMPLIANCE TO 44%",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Social proof alone drives guest compliance up to 44 percent, proving the power of descriptive norms.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A single sentence of social proof produces a measurable 9 percentage point jump in compliance.",
+      "concreteVisual": "The marketer celebrates in an office as the 44 percent compliance metric is revealed.",
+      "onScreenText": "BOOSTED COMPLIANCE TO 44%",
+      "relationToPrevious": "Directly compares the 44 percent result against the 35 percent baseline from beat 92.",
+      "addedInformation": "Validates that social proof outperforms moral appeals even when economic incentives are identical."
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IN THIS SPECIFIC ROOM",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The experimenter heightens the norm by tying social proof directly to the guest's immediate physical room.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hyper-local social proof dramatically amplifies heuristic conformity.",
+      "concreteVisual": "The marketer smirks while holding a tailored placard inside the hotel room.",
+      "onScreenText": "IN THIS SPECIFIC ROOM",
+      "relationToPrevious": "Escalates Cialdini's experiment from generic social proof to hyper-targeted local context.",
+      "addedInformation": "Highlights how spatial proximity magnifies perceived peer pressure."
+    }
+  },
+  {
+    "i": 98,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COMPLIANCE PUSHED TO 49%",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "celebrate",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Hyper-localized social proof pushes guest compliance to nearly half of all visitors.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Contextual specificity elevates social compliance to an unprecedented 49 percent.",
+      "concreteVisual": "The shopper reacts with surprise in the room as the 49 percent compliance metric appears.",
+      "onScreenText": "COMPLIANCE PUSHED TO 49%",
+      "relationToPrevious": "Reaches the peak outcome of Cialdini's three-stage experimental progression.",
+      "addedInformation": "Underscores the magnitude of behavioral change achieved without spending a single dollar."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PHANTOM STRANGERS",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The guest conforms to the imagined habits of unseen strangers who previously occupied the same space.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Human conformity extends to anonymous prior occupants who have zero direct relationship with the decider.",
+      "concreteVisual": "The shopper stands pensively beside the bed in a hotel room reflecting on unseen strangers.",
+      "onScreenText": "PHANTOM STRANGERS",
+      "relationToPrevious": "Deconstructs the irrational cognitive driver behind the 49 percent compliance rate.",
+      "addedInformation": "Exposes the uncanny power of invisible social bonds between complete strangers."
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ODD ONE OUT",
+      "style": "strike"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The guest is driven entirely by the dread of deviating from the collective norm even when unobserved.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Private conformity is governed by internal aversion to social deviance rather than genuine conservation.",
+      "concreteVisual": "The shopper slumps with a worried expression in the privacy of the room.",
+      "onScreenText": "THE ODD ONE OUT",
+      "relationToPrevious": "Concludes the hotel towel analysis by pinpointing the visceral fear of non-conformity as the true engine.",
+      "addedInformation": "Reveals that social judgment operates internally even when external surveillance is absent."
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PHANTOM PEER PRESSURE",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "holds": "book",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The presenter transitions the social proof mechanism from hotel bathrooms to a retail pub experiment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Phantom peer pressure operates with equal potency in retail food and beverage environments.",
+      "concreteVisual": "The marketer points across a pub counter while holding a reference book.",
+      "onScreenText": "PHANTOM PEER PRESSURE",
+      "relationToPrevious": "Bridges Cialdini's towel study to Richard Shotton's retail beer experiment.",
+      "addedInformation": "Translates non-commercial conservation findings into practical commercial retail merchandising."
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A SPECIFIC PORTER",
+      "style": "box"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "cup",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "A pub patron holds a glass of draft porter that currently achieves only modest sales.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Products with stable, unexceptional sales provide the ideal canvas for social proof interventions.",
+      "concreteVisual": "The shopper holds a glass cup at the pub counter with a neutral expression.",
+      "onScreenText": "A SPECIFIC PORTER",
+      "relationToPrevious": "Introduces the subject of the retail experiment: an ordinary draft beer on tap.",
+      "addedInformation": "Grounds the study in tangible pub consumer goods with an established, average sales baseline."
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TINY SIGN ON THE BAR",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "place",
+    "holds": "notes",
+    "actionCue": "placed",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The marketer sets down a small printed label on the bar counter beside the patron.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A zero-cost sign declaring popularity alters buying behavior without changing price or quality.",
+      "concreteVisual": "The marketer places a small sign card onto the pub counter beside a patron.",
+      "onScreenText": "A TINY SIGN ON THE BAR",
+      "relationToPrevious": "Shows the execution of the experiment: applying a single descriptive label to the bar.",
+      "addedInformation": "Highlights the utter simplicity of the intervention compared to expensive traditional marketing."
+    }
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SALES MULTIPLIED BY 2.5X",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The tiny popularity label triggers an immediate two-and-a-half-fold increase in sales volume.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Labeling an item as the weekly bestseller immediately multiplies its sales volume by 250 percent.",
+      "concreteVisual": "The patron celebrates enthusiastically at the pub counter as sales surge.",
+      "onScreenText": "SALES MULTIPLIED BY 2.5X",
+      "relationToPrevious": "Delivers the quantitative payoff of the tiny sign placed in beat 103.",
+      "addedInformation": "Dramatizes the sheer disproportion between the negligible cost of the sign and its massive commercial return."
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HALO OF POPULARITY",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "cup",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The beverage itself remains physically unchanged while acquiring an unearned psychological halo.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Perceived product excellence is an attribution created by popularity rather than intrinsic quality.",
+      "concreteVisual": "The shopper examines their drink cup under the glowing halo of popularity.",
+      "onScreenText": "HALO OF POPULARITY",
+      "relationToPrevious": "Analyzes why the sales multiplied in beat 104 despite zero change in the beer's ingredients.",
+      "addedInformation": "Exposes the cognitive illusion that mistakes commercial volume for superior taste."
+    }
+  },
+  {
+    "i": 106,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SEEN AS POPULAR",
+        "MORE PEOPLE BUY",
+        "STRONGER SOCIAL PROOF"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A self-fulfilling feedback loop where perceived popularity generates purchases that intensify social proof.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Social proof generates an accelerating feedback loop where perceived popularity directly manufactures real popularity.",
+      "concreteVisual": "A three-part flow diagram illustrating the reinforcing cycle from perceived popularity to purchases to stronger proof.",
+      "onScreenText": "SEEN AS POPULAR → MORE PEOPLE BUY → STRONGER SOCIAL PROOF",
+      "relationToPrevious": "Synthesizes the pub experiment into a self-reinforcing mathematical feedback loop.",
+      "addedInformation": "Shows how social proof compounds exponentially beyond the initial nudge."
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A SERIOUS BONE TO PICK",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "The skeptic raises a sharp objection, questioning whether people truly follow the herd so blindly.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Consumers aggressively reject the idea that their personal choices are dictated by herd conformity.",
+      "concreteVisual": "The shopper confronts the smirking marketer in an office with a contentious challenge.",
+      "onScreenText": "A SERIOUS BONE TO PICK",
+      "relationToPrevious": "Interrupts the triumphant explanation of social proof with an intuitive consumer objection.",
+      "addedInformation": "Creates conversational tension between marketing theory and subjective human self-perception."
+    }
+  },
+  {
+    "i": 108,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "NOT INFLUENCED BY OTHERS",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Survey respondents vehemently deny that their preferences are swayed by peer behavior.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In explicit surveys, virtually all consumers adamantly insist they are immune to social proof.",
+      "concreteVisual": "The shopper aggressively points in an office while their claim of independence is struck through.",
+      "onScreenText": "NOT INFLUENCED BY OTHERS",
+      "relationToPrevious": "Articulates the core objection: stated survey answers diametrically contradict actual behavioral data.",
+      "addedInformation": "Strikes through the denial to visually brand it as self-deceptive denial."
+    }
+  },
+  {
+    "i": 109,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN INDEPENDENT THINKER",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": "cup",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The speaker recounts lecturing on complex hop profiles to rationalise a purely social purchase.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Individuals construct elaborate rational narratives to preserve their self-image as independent thinkers.",
+      "concreteVisual": "The shopper smirks sophisticatedly while holding a beer cup at the cafe counter.",
+      "onScreenText": "AN INDEPENDENT THINKER",
+      "relationToPrevious": "Personalizes the denial from beat 108 with a humorous first-person confession of beer snobbery.",
+      "addedInformation": "Portrays the pretentious self-flattery consumers use to disguise herd-driven choices."
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ARTISANAL BREWING METHOD",
+      "style": "box"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "holds": "cup",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "The consumer spins an articulate justification of artisanal brewing to mask herd influence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Post-rationalization generates sophisticated vocabulary to justify subconscious conformity.",
+      "concreteVisual": "The shopper continues holding their cup in the cafe speaking animatedly to the amused marketer.",
+      "onScreenText": "ARTISANAL BREWING METHOD",
+      "relationToPrevious": "Extends the comedic monologue of fake expertise from beat 109.",
+      "addedInformation": "Juxtaposes the speaker's proud artisanal lecture against the marketer's knowing smirk."
+    }
+  },
+  {
+    "i": 111,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "GENUINELY BELIEVE THE TRUTH",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The consumer genuinely believes their own fabricated justification rather than knowingly telling a falsehood.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Confabulation is sincere: consumers genuinely believe the logical excuses their conscious minds invent.",
+      "concreteVisual": "The shopper realizes their own self-deception with a surprised expression beside a mask icon.",
+      "onScreenText": "GENUINELY BELIEVE THE TRUTH",
+      "relationToPrevious": "Unpacks the crucial nuance: the consumer's rationalization is self-deception, not deliberate deceit.",
+      "addedInformation": "Uses the mask icon to depict the honest self-delusion separating conscious belief from subconscious cause."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "GARBAGE SURVEY RESULTS",
+      "style": "strike"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": "notes",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "Traditional market research fails because asking consumers why they buy produces entirely fictional explanations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Direct market research surveys generate misleading data because consumers cannot access their true subconscious motives.",
+      "concreteVisual": "The marketer slumps in an office holding market research notes that yield garbage results.",
+      "onScreenText": "GARBAGE SURVEY RESULTS",
+      "relationToPrevious": "Draws the macro business implication: because people confabulate, focus groups produce fatally flawed insights.",
+      "addedInformation": "Shows the commercial consequence of relying on self-reported consumer rationalizations."
+    }
+  },
+  {
+    "i": 113,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "DAVID OGILVY ON CONSUMERS",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The marketer invokes David Ogilvy's foundational law on the disconnect in consumer psychology.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "David Ogilvy recognized that consumers do not think what they feel, say what they think, or do what they say.",
+      "concreteVisual": "The marketer points in an office beside a lightbulb of advertising insight.",
+      "onScreenText": "DAVID OGILVY ON CONSUMERS",
+      "relationToPrevious": "Cites legendary advertising authority to canonize the disconnect between consumer speech and action.",
+      "addedInformation": "Frames Ogilvy's observation as an essential baseline truth for commercial strategists."
+    }
+  },
+  {
+    "i": 114,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE PRESS SECRETARY ANALOGY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The hosts introduce the press secretary metaphor to explain human post-hoc justification.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Conscious human reasoning functions not as an executive decision-maker, but as a spin-doctor press secretary.",
+      "concreteVisual": "The marketer introduces the press secretary analogy with an analytical smirk in an office.",
+      "onScreenText": "THE PRESS SECRETARY ANALOGY",
+      "relationToPrevious": "Provides the organizing mental model for Ogilvy's observation.",
+      "addedInformation": "Prepares the viewer for the distinction between subconscious choice and conscious spin."
+    }
+  },
+  {
+    "i": 115,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SPINNING THE NEWS",
+      "style": "highlight"
+    },
+    "set": "office",
+    "shotOverride": "split",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Contrasting the illusion of the rational brain as an Oval Office against its reality as a spin doctor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The conscious mind does not dictate decisions like a commander-in-chief; it merely justifies choices after the fact.",
+      "concreteVisual": "A split screen comparing the perplexed shopper's illusion of control against the marketer's explanation of news spinning.",
+      "onScreenText": "SPINNING THE NEWS",
+      "relationToPrevious": "Directly stages the two competing models of consciousness: executive commander versus reactive spokesperson.",
+      "addedInformation": "Visually splits the frame to contrast self-perceived rational governance with actual public-relations spinning."
+    }
+  },
+  {
+    "i": 116,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "SIGN ON THE BAR",
+        "SYSTEM ONE DECISION",
+        "PRESS SECRETARY INVENTS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A causal flow diagram mapping the timeline: a bar sign triggers a millisecond heuristic decision, followed by the press secretary inventing rational excuses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "System 1 executes the purchase instantaneously based on contextual signs, after which System 2 invents an articulate cover story.",
+      "concreteVisual": "A three-step flow diagram tracing the stimulus from the sign on the bar to the heuristic choice to the invented justification.",
+      "onScreenText": "SIGN ON THE BAR → SYSTEM ONE DECISION → PRESS SECRETARY INVENTS",
+      "relationToPrevious": "Structures the press secretary metaphor into a concrete chronological causal process.",
+      "addedInformation": "Clarifies that the rational story occurs strictly after the subconscious decision has already concluded."
+    }
+  },
+  {
+    "i": 117,
+    "concept": "mirror",
+    "diagram": null,
+    "callout": {
+      "text": "TO PROTECT OUR EGO",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "shield",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The consumer holds up a defensive shield beside their mirror reflection to safeguard their ego as a rational actor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Post-hoc confabulation exists primarily to shield consumer ego and maintain the illusion of self-directed agency.",
+      "concreteVisual": "The shopper holds a protective shield beside a mirror icon reflecting self-image in an office.",
+      "onScreenText": "TO PROTECT OUR EGO",
+      "relationToPrevious": "Explains the underlying psychological necessity driving the press secretary's invented excuses.",
+      "addedInformation": "Pairs the shield with the mirror icon to represent the defensive protection of personal vanity."
+    }
+  },
+  {
+    "i": 118,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHOSE FOR THE HOPS",
+      "style": "strike"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": "cup",
+    "says": "I chose the beer for the hops",
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The press secretary delivers the ridiculous cover story claiming hop connoisseurship while ignoring the bestseller sign.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The rational consumer model collapses as buyers credit product nuances for choices dictated by herd cues.",
+      "concreteVisual": "The shopper at the cafe counter proudly claims they chose the beer for the hops while the excuse is struck out.",
+      "onScreenText": "CHOSE FOR THE HOPS",
+      "relationToPrevious": "Dramatizes the comical disconnect between the stated reason and the actual environmental cause.",
+      "addedInformation": "Strikes through the connoisseur defense to emphasize its hollow, fabricated nature."
+    }
+  },
+  {
+    "i": 119,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A SPREADSHEET OF PROS AND CONS",
+      "style": "strike"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "think",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The myth of rational comparison shopping is dismissed as decisions are guided by framing and phantom strangers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Consumers do not rationally tabulate trade-offs; they rely on contextual framing shortcuts created by strangers.",
+      "concreteVisual": "The shopper stands beside a balance scale as the spreadsheet model is struck out on screen.",
+      "onScreenText": "A SPREADSHEET OF PROS AND CONS",
+      "relationToPrevious": "Summarizes the findings across both the hotel and pub experiments into a unified behavioral rule.",
+      "addedInformation": "Visually negates the classical economic assumption of deliberate pros-and-cons calculations."
+    }
+  },
+  {
+    "i": 120,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A REMARKABLY DANGEROUS STRATEGY",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": null,
+    "partnerAction": null,
+    "explainedBy": "The marketer sounds a serious alarm, warning that social proof can backfire disastrously when misapplied.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Leveraging social proof is perilous for brands that fail to anticipate the unintended signals it communicates.",
+      "concreteVisual": "The marketer in an office gestures with a worried warning expression toward the danger alert.",
+      "onScreenText": "A REMARKABLY DANGEROUS STRATEGY",
+      "relationToPrevious": "Pivots from the commercial successes of social proof to its severe latent risks.",
+      "addedInformation": "Signals a major structural turning point in the chapter from positive tactics to destructive traps."
+    }
+  },
+  {
+    "i": 121,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "NEGATIVE SOCIAL PROOF",
+      "style": "reveal"
+    },
+    "set": "street",
+    "shotOverride": "silhouette",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The introduction of the destructive twin: negative social proof, where highlighting bad behavior accidentally normalizes it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Negative social proof inadvertently encourages undesirable behavior by broadcasting how widespread it is.",
+      "concreteVisual": "A dark silhouette of the marketer and shopper bracing against a looming storm icon.",
+      "onScreenText": "NEGATIVE SOCIAL PROOF",
+      "relationToPrevious": "Introduces the dark twin concept that will govern the petrified wood and online paywall case studies in the next chunk.",
+      "addedInformation": "Uses ominous silhouette lighting and a storm motif to evoke the destructive consequence of poorly framed warnings."
+    }
+  }
+]

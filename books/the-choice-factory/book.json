@@ -1,0 +1,57 @@
+{
+  "slug": "the-choice-factory",
+  "title": "The Choice Factory: 25 behavioural biases that influence what we buy",
+  "author": "Richard Shotton",
+  "genre": "business",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "nonfiction",
+    "world": "ideas",
+    "realPeople": false,
+    "format": "argument",
+    "violence": "none",
+    "minorHarm": false,
+    "mustSee": [
+      "a shopper hesitating in a supermarket aisle",
+      "pricing tiers and framing comparisons",
+      "social proof cues and conformity cues",
+      "cognitive bias experiments and human decision flaws"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 45,
+    "reasons": [
+      "an ideas/advice book → concepts are drawn as icons, diagrams and an everyman (Antidote)"
+    ],
+    "risks": []
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-06",
+    "fit": "antidote",
+    "confidence": "strong",
+    "voxScore": 3.4,
+    "antidoteScore": 18.7,
+    "signals": {
+      "year": 0.5,
+      "history": 0.6,
+      "second": 25.6,
+      "abstract": 12.2,
+      "sensitive": 2.4,
+      "era": 2018,
+      "words": 9544
+    },
+    "reasons": [
+      "the narration addresses the viewer (\"you\" 25.6/1k) → an idea/advice film, drawn as icons, diagrams and an everyman (Antidote)",
+      "idea vocabulary 12.2/1k (habits, decisions, attention, money…) → concepts need icons/diagrams, not photographs (Antidote)"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/the-choice-factory.mp3"
+}

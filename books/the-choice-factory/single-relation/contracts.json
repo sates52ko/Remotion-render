@@ -1,0 +1,133 @@
+{
+ "schema": "single-relation-contracts/1",
+ "slug": "the-choice-factory",
+ "at": "2026-11-07T04:57:39.115Z",
+ "valid": [
+  25,
+  136,
+  187,
+  199,
+  210,
+  299
+ ],
+ "invalid": [],
+ "contracts": {
+  "25": {
+   "sceneIndex": 25,
+   "sceneId": "scene-25",
+   "previousSceneId": "scene-24",
+   "author": "preview-agent",
+   "inputHash": "bfe8c521c416ef35",
+   "contractHash": "d18e232d2fa2f6e4",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "OK",
+    "ends": [
+     "book",
+     "token"
+    ],
+    "labelCarried": [
+     "book",
+     "token"
+    ],
+    "labelDependence": 1
+   }
+  },
+  "136": {
+   "sceneIndex": 136,
+   "sceneId": "scene-136",
+   "previousSceneId": "scene-135",
+   "author": "preview-agent",
+   "inputHash": "8e7a5de1c4462011",
+   "contractHash": "4d505caa9b2208e6",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "QUOTE_CARD",
+    "labelCarried": [],
+    "ends": []
+   }
+  },
+  "187": {
+   "sceneIndex": 187,
+   "sceneId": "scene-187",
+   "previousSceneId": "scene-186",
+   "author": "preview-agent",
+   "inputHash": "b38761bc8eec9714",
+   "contractHash": "915bbc09aa34b881",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "QUOTE_CARD",
+    "labelCarried": [],
+    "ends": []
+   }
+  },
+  "199": {
+   "sceneIndex": 199,
+   "sceneId": "scene-199",
+   "previousSceneId": "scene-198",
+   "author": "preview-agent",
+   "inputHash": "37abab14bfabee12",
+   "contractHash": "92fbf33ae6bf8b03",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "TRY_CONCRETE",
+    "ends": [
+     "shield",
+     "risk"
+    ],
+    "labelCarried": [
+     "shield",
+     "risk"
+    ],
+    "labelDependence": 1,
+    "note": "every end of the relation is carried by its label alone (a tank / a metaphor glyph) and nothing moves, appears, leaves or changes face — try a version with a literal object or a person first (creative-direction.md)"
+   }
+  },
+  "210": {
+   "sceneIndex": 210,
+   "sceneId": "scene-210",
+   "previousSceneId": "scene-209",
+   "author": "preview-agent",
+   "inputHash": "b0c7f8258e3a7927",
+   "contractHash": "3d2f5d23989d666e",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "OK",
+    "ends": [
+     "mgr",
+     "tok"
+    ],
+    "labelCarried": [
+     "tok"
+    ],
+    "labelDependence": 0.5
+   }
+  },
+  "299": {
+   "sceneIndex": 299,
+   "sceneId": "scene-299",
+   "previousSceneId": "scene-298",
+   "author": "preview-agent",
+   "inputHash": "5c91614c59f8c2f0",
+   "contractHash": "319168814d09eb8f",
+   "valid": true,
+   "errors": [],
+   "review": {
+    "verdict": "OK",
+    "ends": [
+     "casino",
+     "cash"
+    ],
+    "labelCarried": [
+     "casino"
+    ],
+    "labelDependence": 0.5
+   }
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "shard": 5,
+ "of": 6,
+ "name": "single-relation A/B the-choice-factory",
+ "inputHash": "0b2617a6f0e16029",
+ "jobs": [
+  "s187-B",
+  "s299-B"
+ ],
+ "failed": [],
+ "files": {
+  "raw/s187-B-f304.png": "faef98a996598192e8476de4b2164aa5a366bb1016c66fe5a560eb89e239e870",
+  "raw/s187-B-f411.png": "618a32ff5c12695fec7edae3fcac6bc6528a78d58f60381fb05b8483b260bca1",
+  "raw/s187-B-f518.png": "808cfeb59ea2d74755365858e029bd283fe396d691cd136963d2276d0ab436b3",
+  "strips/s187-B.png": "7943d1ce690256d008bcebf947cc52810d4a609b0c95093727c960b9c68b4487",
+  "raw/s299-B-f349.png": "7ba6fbe12e4ea1f0ab14a69ffcb094bf027b12ebfb69bad57027a63073c180de",
+  "raw/s299-B-f429.png": "e3fd442a851ddf72c4361731b1d15817fc693b26d4584a6cfb9761a3f5ba60d6",
+  "raw/s299-B-f508.png": "6eb9b2522bd053b560c7c8fcef31d25171c99e68bd8e17ee53a5955cf58de93f",
+  "strips/s299-B.png": "c4f77f93d8a54169b95b354e860e548279ca6e1ba39b71ac59be5203519b2fe9"
+ },
+ "bundleSec": 4.871,
+ "totalSec": 17.209,
+ "run": "42340991611",
+ "commit": "212ee3354ee339d27e5eb24e5cec6f5de089417c"
+}

@@ -1,0 +1,125 @@
+{
+ "seed": "sr-ab|the-choice-factory|25,136,187,199,210,299",
+ "key": {
+  "510e97d361": {
+   "sceneIndex": 25,
+   "arm": "A"
+  },
+  "233fe4b7f7": {
+   "sceneIndex": 25,
+   "arm": "B"
+  },
+  "9c2936ee32": {
+   "sceneIndex": 136,
+   "arm": "A"
+  },
+  "bbcf513e99": {
+   "sceneIndex": 136,
+   "arm": "B"
+  },
+  "502e8f23da": {
+   "sceneIndex": 187,
+   "arm": "A"
+  },
+  "c395dc9900": {
+   "sceneIndex": 187,
+   "arm": "B"
+  },
+  "1cfe0bf6d5": {
+   "sceneIndex": 199,
+   "arm": "A"
+  },
+  "70792f7d23": {
+   "sceneIndex": 199,
+   "arm": "B"
+  },
+  "87145487bc": {
+   "sceneIndex": 210,
+   "arm": "A"
+  },
+  "daf3cfdb84": {
+   "sceneIndex": 210,
+   "arm": "B"
+  },
+  "d70c5c0066": {
+   "sceneIndex": 299,
+   "arm": "A"
+  },
+  "33e78d9014": {
+   "sceneIndex": 299,
+   "arm": "B"
+  }
+ },
+ "describers": [
+  {
+   "d": "D1",
+   "imgs": [
+    "c395dc9900",
+    "d70c5c0066",
+    "233fe4b7f7",
+    "daf3cfdb84"
+   ]
+  },
+  {
+   "d": "D2",
+   "imgs": [
+    "33e78d9014",
+    "502e8f23da",
+    "1cfe0bf6d5",
+    "87145487bc"
+   ]
+  },
+  {
+   "d": "D3",
+   "imgs": [
+    "70792f7d23",
+    "bbcf513e99",
+    "510e97d361"
+   ]
+  },
+  {
+   "d": "D4",
+   "imgs": [
+    "9c2936ee32"
+   ]
+  }
+ ],
+ "judges": {
+  "p1": [
+   [
+    "bbcf513e99",
+    "70792f7d23",
+    "502e8f23da",
+    "233fe4b7f7",
+    "daf3cfdb84",
+    "d70c5c0066"
+   ],
+   [
+    "33e78d9014",
+    "9c2936ee32",
+    "510e97d361",
+    "1cfe0bf6d5",
+    "c395dc9900",
+    "87145487bc"
+   ]
+  ],
+  "p2": [
+   [
+    "bbcf513e99",
+    "233fe4b7f7",
+    "1cfe0bf6d5",
+    "daf3cfdb84",
+    "33e78d9014",
+    "c395dc9900"
+   ],
+   [
+    "510e97d361",
+    "9c2936ee32",
+    "d70c5c0066",
+    "70792f7d23",
+    "87145487bc",
+    "502e8f23da"
+   ]
+  ]
+ }
+}

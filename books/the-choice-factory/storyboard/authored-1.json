@@ -1,0 +1,1111 @@
+[
+  {
+    "i": 0,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A PHYSICAL PLACEMENT",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "holds": null,
+    "explainedBy": "The shopper pauses before retail shelves, unaware the choice was pre-engineered by shelf placement.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A shopper's coffee purchase is determined by shelf placement seconds before conscious choice.",
+      "concreteVisual": "The Shopper hesitates before retail shelves, reaching toward a weighing balance icon.",
+      "onScreenText": "A PHYSICAL PLACEMENT",
+      "relationToPrevious": "Opening hook establishing consumer illusion.",
+      "addedInformation": "Shows the psychological pre-determination before the buyer even touches a product."
+    }
+  },
+  {
+    "i": 1,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STANDING IN THE AISLE",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "blank",
+    "action": "think",
+    "holds": null,
+    "continue": true,
+    "explainedBy": "The shopper stands frozen in the supermarket aisle under fluorescent lights trying to deliberate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Every shopper recognizes the familiar paralysis of deliberating in the grocery aisle.",
+      "concreteVisual": "The Shopper stands under supermarket lights with a finger to his chin in quiet deliberation.",
+      "onScreenText": "STANDING IN THE AISLE",
+      "relationToPrevious": "Continues the supermarket scene, zeroing in on the shopper's internal deliberation.",
+      "addedInformation": "Captures the physical posture of casual paralysis in an everyday shopping setting."
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "RIGOROUS LOGICAL CALCULATION",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "continue": true,
+    "explainedBy": "The consumer believes they are conducting an analytical calculation of product specifications.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Shoppers flatter themselves that they evaluate products through rigorous logic.",
+      "concreteVisual": "The Shopper examines technical notes with an earnest, serious expression.",
+      "onScreenText": "RIGOROUS LOGICAL CALCULATION",
+      "relationToPrevious": "Elaborates on the shopper's self-deception of being an analytical decision-maker.",
+      "addedInformation": "Contrasts the mundane setting with the absurdity of pretending to perform high-stakes analysis."
+    }
+  },
+  {
+    "i": 3,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ALREADY MADE FOR YOU",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The marketer designs the environment so the shopper's choice is decided before they deliberate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The choice has already been engineered by commercial architects before the buyer decides.",
+      "concreteVisual": "The Marketer stands smirking and pointing toward the bewildered Shopper.",
+      "onScreenText": "ALREADY MADE FOR YOU",
+      "relationToPrevious": "Reveals the unseen architect behind the shopper's illusion of choice.",
+      "addedInformation": "Presents both sides of the retail transaction: the architect and the unwitting subject."
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "SHELF ARCHITECTURE",
+        "LABEL TYPOGRAPHY",
+        "DECOY PRICING"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The physical shelf layout, visual typography, and decoy pricing form three structural levers guiding consumer attention.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Retailers steer purchases using shelf architecture, typography, and decoy pricing.",
+      "concreteVisual": "A three-part sorter diagram categorizing shelf architecture, label typography, and decoy pricing.",
+      "onScreenText": "SHELF ARCHITECTURE | LABEL TYPOGRAPHY | DECOY PRICING",
+      "relationToPrevious": "Breaks down the hidden retail levers mentioned in the previous beat.",
+      "addedInformation": "Structures the invisible environmental factors that dictate buying into three clear categories."
+    }
+  },
+  {
+    "i": 5,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "AN ILLUSION OF AGENCY",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "blank",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "The consumer's sense of deliberate control is an illusion orchestrated by unseen marketing forces.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Perceived consumer agency is an illusion orchestrated before conscious deliberation begins.",
+      "concreteVisual": "The Shopper stands slumped beneath a puppeteer icon representing unseen external control.",
+      "onScreenText": "AN ILLUSION OF AGENCY",
+      "relationToPrevious": "Synthesizes the shelf manipulation into the conceptual reality of lost agency.",
+      "addedInformation": "Uses the puppeteer motif to crystallize the feeling of puppeted decision-making."
+    }
+  },
+  {
+    "i": 6,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "A VERY COMFORTING ILLUSION",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "Humans cling to the comforting fiction that they consciously author every buying choice.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "People actively prefer the comforting fiction of self-directed decision-making.",
+      "concreteVisual": "The Shopper smiles reassuringly beside a mask icon representing comforting pretension.",
+      "onScreenText": "A VERY COMFORTING ILLUSION",
+      "relationToPrevious": "Explains why consumers defend their perceived agency despite evidence to the contrary.",
+      "addedInformation": "Highlights the psychological defense mechanism behind believing we are in control."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PURE LOGIC AND UTILITY",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "holds": "laptop",
+    "explainedBy": "Consumers imagine themselves as rational calculating machines processing pure logic and utility.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We flatter ourselves by imagining we operate like calculating machines of pure utility.",
+      "concreteVisual": "The Shopper gestures firmly while holding a laptop symbolizing algorithmic calculation.",
+      "onScreenText": "PURE LOGIC AND UTILITY",
+      "relationToPrevious": "Deepens the myth from general agency to the specific fantasy of mechanical rationality.",
+      "addedInformation": "Grounds the abstract concept of 'calculating machine' with a physical laptop prop."
+    }
+  },
+  {
+    "i": 8,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "BUILT ON THIS EXACT PREMISE",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Neoclassical economics institutionalized the myth of rational man as its foundational dogma for a century.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Neoclassical economics spent a century treating rational decision-making as literal truth.",
+      "concreteVisual": "The Marketer in an office holds a formal academic book representing economic dogma.",
+      "onScreenText": "BUILT ON THIS EXACT PREMISE",
+      "relationToPrevious": "Connects personal self-delusion to historical academic theory.",
+      "addedInformation": "Elevates the consumer's personal myth into an institutionalized economic doctrine."
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "WEIGH INFORMATION",
+        "MAXIMIZE BENEFIT"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The theoretical model of homo economicus assumes all data is weighed to maximize utility.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The theoretical rational agent weighs every piece of information to maximize personal utility.",
+      "concreteVisual": "A flow diagram charting the theoretical pipeline from weighing information to maximizing benefit.",
+      "onScreenText": "WEIGH INFORMATION → MAXIMIZE BENEFIT",
+      "relationToPrevious": "Outlines the idealized economic decision model before dismantling it.",
+      "addedInformation": "Provides a clean structural representation of classical economic theory."
+    }
+  },
+  {
+    "i": 10,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DIG INTO THE PSYCHOLOGY",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "Empirical psychology dismantles the neoclassical economic fiction of rational humanity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Psychological investigation exposes the rational actor model as an unscientific myth.",
+      "concreteVisual": "The Shopper speaks animatedly in the office with a surprised expression.",
+      "onScreenText": "DIG INTO THE PSYCHOLOGY",
+      "relationToPrevious": "Turns the lens from theoretical economics to real-world behavioral psychology.",
+      "addedInformation": "Signals the pivot from abstract economic theory to empirical human observation."
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE GRAND ILLUSION OF CHOICE",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The hosts establish that rational decision-making does not exist and announce the core theme.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The perfectly rational consumer does not exist; choice is largely an illusion.",
+      "concreteVisual": "The Marketer confidently addresses the audience while the Shopper listens uneasily.",
+      "onScreenText": "THE GRAND ILLUSION OF CHOICE",
+      "relationToPrevious": "Delivers the thesis statement that anchors the entire book summary.",
+      "addedInformation": "Frames the central revelation about human decision-making with dramatic visual weight."
+    }
+  },
+  {
+    "i": 12,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "IRRATIONAL MENTAL SHORTCUTS",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "Human purchasing behavior operates as a relentless engine of irrational mental shortcuts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Purchasing decisions rely on automated mental shortcuts rather than rational calculation.",
+      "concreteVisual": "The Shopper gestures with a worried expression beside a glowing lightbulb icon representing mental shortcuts.",
+      "onScreenText": "IRRATIONAL MENTAL SHORTCUTS",
+      "relationToPrevious": "Identifies the underlying engine driving irrational consumer choices.",
+      "addedInformation": "Personalizes the realization that our everyday decisions are governed by heuristics."
+    }
+  },
+  {
+    "i": 13,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "CONTEXT",
+        "SOCIAL VALIDATION",
+        "FRICTION"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Contextual cues, social proof, and physical friction systematically override product logic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Context, social validation, and friction systematically override price and product features.",
+      "concreteVisual": "A three-bucket sorter diagram grouping context, social validation, and friction.",
+      "onScreenText": "CONTEXT | SOCIAL VALIDATION | FRICTION",
+      "relationToPrevious": "Categorizes the specific behavioral forces that derail product logic.",
+      "addedInformation": "Organizes the three primary cognitive shortcuts into a clear visual taxonomy."
+    }
+  },
+  {
+    "i": 14,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "RIGHT IN PLAIN SIGHT",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": "notes",
+    "explainedBy": "Commercial strategists deliberately exploit psychological vulnerabilities in plain view.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Marketers intentionally exploit subconscious behavioral vulnerabilities daily.",
+      "concreteVisual": "The Marketer with a knowing smirk holds campaign notes in his modern agency office.",
+      "onScreenText": "RIGHT IN PLAIN SIGHT",
+      "relationToPrevious": "Shifts focus from the buyer's vulnerability to the seller's active exploitation.",
+      "addedInformation": "Exposes the intentionality behind commercial nudge architecture."
+    }
+  },
+  {
+    "i": 15,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A BIOLOGICAL PERSPECTIVE",
+      "style": "box"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "surprised",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The hosts explore the evolutionary necessity that forces human brains to use shortcuts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mental shortcuts are an evolutionary biological necessity, not merely human carelessness.",
+      "concreteVisual": "The Shopper leans in with genuine curiosity across from the Marketer in a cafe.",
+      "onScreenText": "A BIOLOGICAL PERSPECTIVE",
+      "relationToPrevious": "Introduces the biological and evolutionary defense of cognitive shortcuts.",
+      "addedInformation": "Reframes irrationality from a flaw into an essential survival adaptation."
+    }
+  },
+  {
+    "i": 16,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "THOUSANDS OF MICRO DECISIONS",
+      "style": "stack"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "A consumer is overwhelmed by thousands of micro-decisions required by daily modern life.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sheer volume of daily retail choices makes exhaustive logical evaluation impossible.",
+      "concreteVisual": "The Shopper stands slumped with exhaustion beside a weighing balance icon.",
+      "onScreenText": "THOUSANDS OF MICRO DECISIONS",
+      "relationToPrevious": "Illustrates the crushing cognitive load imposed by modern retail environments.",
+      "addedInformation": "Depicts the physical fatigue of navigating endless commercial micro-choices."
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "FLUORIDE CONCENTRATION",
+        "TUBE VOLUME",
+        "BRAND TRUST"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Evaluating even a tube of toothpaste requires balancing chemical, volumetric, and brand variables.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A simple purchase like toothpaste involves balancing dozens of competing variables.",
+      "concreteVisual": "A three-part sorter diagram displaying fluoride concentration, tube volume, and brand trust.",
+      "onScreenText": "FLUORIDE CONCENTRATION | TUBE VOLUME | BRAND TRUST",
+      "relationToPrevious": "Gives a concrete everyday example of the variables involved in a trivial purchase.",
+      "addedInformation": "Renders the hidden complexity behind a mundane drugstore decision visible."
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STRICTLY LIMITED BANDWIDTH",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "holds": "laptop",
+    "explainedBy": "Human cognitive processing power has hard limits, causing mental paralysis under excessive data.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Human cognitive capacity is strictly limited, freezing under excessive analytical load.",
+      "concreteVisual": "The Shopper looks frozen and stressed while holding a laptop representing computer memory limits.",
+      "onScreenText": "STRICTLY LIMITED BANDWIDTH",
+      "relationToPrevious": "Explains the biological mechanism behind the decision paralysis described previously.",
+      "addedInformation": "Uses computer hardware as a tangible metaphor for biological processing limits."
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "ANALYTICAL THINKING",
+        "SYSTEM ONE"
+      ],
+      "values": [
+        0.85
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Humans bypass exhausting analytical thinking by shifting everyday choices into fast System One shortcuts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern commerce forces humans to abandon slow System 2 thinking in favor of fast System 1.",
+      "concreteVisual": "A spectrum diagram charting the shift from slow analytical thinking to fast system one heuristics.",
+      "onScreenText": "ANALYTICAL THINKING ←→ SYSTEM ONE",
+      "relationToPrevious": "Frames the cognitive adaptation using Kahneman's dual-system psychological model.",
+      "addedInformation": "Visually maps the spectrum of human thought and indicates our heavy reliance on automatic processing."
+    }
+  },
+  {
+    "i": 20,
+    "concept": "compass",
+    "diagram": null,
+    "callout": {
+      "text": "ROADMAP FOR THIS DIVE",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "Mental heuristics serve as an internal compass navigating modern consumer complexity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Heuristics provide the navigational compass required to survive daily consumer choices.",
+      "concreteVisual": "The Shopper points forward with renewed confidence beside a compass icon.",
+      "onScreenText": "ROADMAP FOR THIS DIVE",
+      "relationToPrevious": "Concludes the problem setup and transitions to the book's structured roadmap.",
+      "addedInformation": "Provides visual orientation as the hosts transition from theory to practical evidence."
+    }
+  },
+  {
+    "i": 21,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CHOICE FACTORY",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "happy",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "The presenter introduces Richard Shotton's book The Choice Factory as the blueprint for understanding behavioral nudges.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Richard Shotton's The Choice Factory uncovers the mechanics behind purchasing decisions.",
+      "concreteVisual": "The Marketer proudly holds up the book in an executive office setting.",
+      "onScreenText": "THE CHOICE FACTORY",
+      "relationToPrevious": "Formally introduces the core text being analyzed.",
+      "addedInformation": "Establishes the physical book as the foundational source material for the breakdown."
+    }
+  },
+  {
+    "i": 22,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TWENTY FIVE MOMENTS",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "holds": "cup",
+    "explainedBy": "The book follows an average consumer experiencing 25 ordinary daily decision moments.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Shotton structures his analysis around 25 ordinary decision points in a single day.",
+      "concreteVisual": "The Shopper walks along a city street carrying a coffee cup on an ordinary morning.",
+      "onScreenText": "TWENTY FIVE MOMENTS",
+      "relationToPrevious": "Explains the book's narrative structure tracking an ordinary day.",
+      "addedInformation": "Grounds the study in the pedestrian reality of an everyday morning commute."
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "DAILY MOMENTS",
+        "BEHAVIORAL EXPERIMENTS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Every mundane purchasing choice maps directly to classic behavioral psychology experiments.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Shotton pairs everyday consumer actions with landmark behavioral psychology research.",
+      "concreteVisual": "A flow diagram linking ordinary daily moments directly to behavioral experiments.",
+      "onScreenText": "DAILY MOMENTS → BEHAVIORAL EXPERIMENTS",
+      "relationToPrevious": "Details how empirical science is mapped onto mundane consumer habits.",
+      "addedInformation": "Demonstrates the bridge between academic research and commercial everyday life."
+    }
+  },
+  {
+    "i": 24,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "ACADEMIC THEORIES",
+        "COMMERCIAL CAMPAIGNS"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The book tests academic behavioral theories against live commercial advertising campaigns.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Academic psychological theories are tested directly against real-world advertising campaigns.",
+      "concreteVisual": "A spectrum diagram contrasting academic theories against commercial advertising campaigns.",
+      "onScreenText": "ACADEMIC THEORIES ←→ COMMERCIAL CAMPAIGNS",
+      "relationToPrevious": "Shows the confrontation between laboratory theory and market reality.",
+      "addedInformation": "Balances academic prestige against practical market performance."
+    }
+  },
+  {
+    "i": 25,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THEORY IN THE WILD",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The synthesis of academic theory and street advertising reveals psychological rules operating in the wild.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Testing theory in commercial environments reveals how cognitive biases operate in the wild.",
+      "concreteVisual": "The Marketer points out commercial billboards to the curious Shopper on a busy street.",
+      "onScreenText": "THEORY IN THE WILD",
+      "relationToPrevious": "Visualizes the 'ivory tower meeting the billboard' on a real city street.",
+      "addedInformation": "Brings the hosts out of the studio onto the street where advertising actually takes place."
+    }
+  },
+  {
+    "i": 26,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "UNDERLYING PSYCHOLOGICAL MACHINERY",
+      "style": "box"
+    },
+    "set": "cafe",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "cup",
+    "explainedBy": "Everyday decisions like buying a flat white reveal the hidden psychological machinery governing human life.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mundane decisions like buying a coffee expose the invisible machinery guiding our lives.",
+      "concreteVisual": "The Shopper examines his coffee cup in a cafe with a look of sudden psychological insight.",
+      "onScreenText": "UNDERLYING PSYCHOLOGICAL MACHINERY",
+      "relationToPrevious": "Translates abstract cognitive models into the specific act of purchasing a morning coffee.",
+      "addedInformation": "Connects high-level behavioral science to a concrete sensory consumer ritual."
+    }
+  },
+  {
+    "i": 27,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THAT SPECIFIC PURCHASE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "The conversation shifts from clinical abstractions to the exact reasons behind personal purchases.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Behavioral science explains why you purchased that specific pair of shoes or clothes.",
+      "concreteVisual": "The Shopper points downward at his footwear in an apparel store with a startled realization.",
+      "onScreenText": "THAT SPECIFIC PURCHASE",
+      "relationToPrevious": "Shifts from coffee to retail apparel, bringing the stakes closer to the viewer's personal spending.",
+      "addedInformation": "Directly engages the viewer's own wardrobe and consumer history."
+    }
+  },
+  {
+    "i": 28,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IN THE CHECKOUT LINE",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "wallet",
+    "explainedBy": "The shopper prepares to see the psychological mechanisms operating every time they stand in a checkout line.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Understanding these biases fundamentally alters your internal monologue at the retail register.",
+      "concreteVisual": "The Shopper clutches his wallet nervously while waiting in a retail checkout line.",
+      "onScreenText": "IN THE CHECKOUT LINE",
+      "relationToPrevious": "Prepares the viewer for an irreversible shift in self-awareness during shopping.",
+      "addedInformation": "Highlights the wallet at the checkout counter as the exact locus of psychological vulnerability."
+    }
+  },
+  {
+    "i": 29,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "A TUESDAY MORNING",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "holds": null,
+    "explainedBy": "A consumer begins an ordinary Tuesday morning walk, setting up the first behavioral experiment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A routine Tuesday morning walk sets the stage for demonstrating attribution error.",
+      "concreteVisual": "The Shopper steps away from a residential house icon onto a suburban sidewalk.",
+      "onScreenText": "A TUESDAY MORNING",
+      "relationToPrevious": "Launches the first narrative vignette: an ordinary Tuesday morning scenario.",
+      "addedInformation": "Establishes a tranquil, familiar domestic starting point before introducing moral conflict."
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOWARD YOUR CAR",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "holds": "cup",
+    "continue": true,
+    "explainedBy": "The shopper trudges down the street holding a travel mug of coffee toward their parked car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The commuter trudges down the street holding a travel mug, lost in routine thoughts.",
+      "concreteVisual": "The Shopper walks along the street clutching a travel coffee mug in the morning chill.",
+      "onScreenText": "TOWARD YOUR CAR",
+      "relationToPrevious": "Continues the walk down the street with realistic physical details like the coffee mug.",
+      "addedInformation": "Draws the physical sensory reality of a cold morning commute with a coffee mug."
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLEARLY IN DISTRESS",
+      "style": "box"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "holds": "cup",
+    "continue": true,
+    "explainedBy": "The shopper spots a person slumped in distress in a doorway, creating an immediate moral test.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A person slumped in distress interrupts the shopper's morning commute.",
+      "concreteVisual": "The Shopper stops walking and points with concern toward a doorway while holding his coffee.",
+      "onScreenText": "CLEARLY IN DISTRESS",
+      "relationToPrevious": "Introduces the sudden ethical crisis that disrupts the ordinary routine.",
+      "addedInformation": "Depicts the unexpected visual disruption of human suffering on a cold morning."
+    }
+  },
+  {
+    "i": 32,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "LOOKING AT HIS WATCH",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "blank",
+    "action": "walk",
+    "holds": null,
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "A sharply dressed businessman in a suit hurries past the distressed man, averting his gaze.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A hurried businessman in a suit rushes past the suffering person without stopping.",
+      "concreteVisual": "The Marketer in a tailored suit strides briskly past, averting his gaze beside a clock icon.",
+      "onScreenText": "LOOKING AT HIS WATCH",
+      "relationToPrevious": "Introduces the third party whose harsh, hurried behavior triggers immediate moral judgment.",
+      "addedInformation": "Stages the businessman's hurried indifference with a clock icon to symbolize time pressure."
+    }
+  },
+  {
+    "i": 33,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN INCREDIBLY SELFISH PERSON",
+      "style": "box"
+    },
+    "set": "street",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "blank",
+    "partnerAction": "walk",
+    "explainedBy": "The observer instantly judges the rushing businessman as fundamentally selfish and callous.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We immediately attribute another person's neglectful behavior to a flawed moral character.",
+      "concreteVisual": "The Shopper scowls in anger toward the Marketer who walks briskly away in the background.",
+      "onScreenText": "AN INCREDIBLY SELFISH PERSON",
+      "relationToPrevious": "Captures the instantaneous moral condemnation triggered by the businessman's exit.",
+      "addedInformation": "Exaggerates the viewer's self-righteous moral superiority in the moment."
+    }
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "REACH INTO YOUR POCKET",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "surprised",
+    "action": "reach",
+    "holds": "wallet",
+    "explainedBy": "The observer reaches into their own pocket to help, only to discover their own financial constraint.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When confronted with the opportunity to help, the observer checks their own pocket.",
+      "concreteVisual": "The Shopper reaches into his coat pocket and pulls out his wallet with a surprised look.",
+      "onScreenText": "REACH INTO YOUR POCKET",
+      "relationToPrevious": "Flips the moral scrutiny from the passing businessman onto the observer himself.",
+      "addedInformation": "Depicts the physical search for cash that triggers the internal compromise."
+    }
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "YOU JUSTIFY IT TO YOURSELF",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "coin",
+    "continue": true,
+    "explainedBy": "Holding only a single bill needed for parking, the observer hesitates and generates a self-serving excuse.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Realizing you need your only bill, you hesitate and construct immediate personal justifications.",
+      "concreteVisual": "The Shopper stares worriedly at a bill in his hand as he debates his own selfishness.",
+      "onScreenText": "YOU JUSTIFY IT TO YOURSELF",
+      "relationToPrevious": "Captures the uncomfortable hesitation as self-interest overrides moral impulse.",
+      "addedInformation": "Reveals the instant rationalization machine spinning up inside the consumer's mind."
+    }
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AVERT YOUR GAZE",
+      "style": "box"
+    },
+    "set": "street",
+    "cast": [
+      "shopper"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "phone",
+    "explainedBy": "The observer grabs their phone and averts their eyes, committing the exact same deed they just condemned.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Under personal constraints, you perform the exact same evasive behavior you just condemned.",
+      "concreteVisual": "The Shopper pulls out his phone with a blank, evasive expression and averts his gaze.",
+      "onScreenText": "AVERT YOUR GAZE",
+      "relationToPrevious": "Closes the behavioral loop by showing the observer replicate the businessman's exact actions.",
+      "addedInformation": "Uses the phone as a universal modern shield for dodging uncomfortable social obligations."
+    }
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A BREATHTAKING DOUBLE STANDARD",
+      "style": "highlight"
+    },
+    "set": "office",
+    "cast": [
+      "shopper",
+      "marketer"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": null,
+    "partnerExpression": "smirk",
+    "partnerAction": "talk",
+    "explainedBy": "The mind executes a breathtaking double standard by judging others by character while pardoning oneself.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Human cognition instantly applies a double standard when evaluating self versus others.",
+      "concreteVisual": "The Shopper looks shamefully downward while the Marketer points out the hypocrisy.",
+      "onScreenText": "A BREATHTAKING DOUBLE STANDARD",
+      "relationToPrevious": "Steps back from the street vignette to analyze the cognitive hypocrisy just demonstrated.",
+      "addedInformation": "Contrasts the ashamed observer with the analytical analyst deconstructing the bias."
+    }
+  },
+  {
+    "i": 38,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "JUDGE THEIR CHARACTER",
+        "FORGIVE OWN CONTEXT"
+      ],
+      "values": [
+        0.5
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "We judge others by perceived character flaws while forgiving ourselves through situational excuses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We condemn other people's character while completely excusing our own identical actions.",
+      "concreteVisual": "A spectrum diagram contrasting character condemnation of others against situational forgiveness of self.",
+      "onScreenText": "JUDGE THEIR CHARACTER ←→ FORGIVE OWN CONTEXT",
+      "relationToPrevious": "Formalizes the cognitive divergence between external blame and internal pardon.",
+      "addedInformation": "Provides a balanced structural view of the two asymmetrical moral accounting ledgers."
+    }
+  },
+  {
+    "i": 39,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "ONLY HAD A FIVE",
+        "RUNNING LATE",
+        "NEEDED PARKING"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The mind rapidly generates situational excuses—limited cash, time pressure, parking costs—to justify selfish acts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We generate rapid situational excuses like running late or lacking cash to pardon ourselves.",
+      "concreteVisual": "A three-bucket sorter diagram listing common self-justifications: only had a five, running late, needed parking.",
+      "onScreenText": "ONLY HAD A FIVE | RUNNING LATE | NEEDED PARKING",
+      "relationToPrevious": "Inventories the exact verbal rationalizations consumers deploy to protect self-image.",
+      "addedInformation": "Exposes how ordinary trivial excuses are weaponized to evade moral responsibility."
+    }
+  },
+  {
+    "i": 40,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FUNDAMENTAL ATTRIBUTION ERROR",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": [
+      "marketer",
+      "shopper"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "holds": null,
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "The hosts officially name the bias: the fundamental attribution error.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "This cognitive blind spot is formally known as the Fundamental Attribution Error.",
+      "concreteVisual": "The Marketer explains the formal principle with a smirk while the Shopper listens in realization.",
+      "onScreenText": "FUNDAMENTAL ATTRIBUTION ERROR",
+      "relationToPrevious": "Names the psychological principle driving the double standard demonstrated in the vignette.",
+      "addedInformation": "Provides the academic nomenclature that unifies the previous narrative examples."
+    }
+  },
+  {
+    "i": 41,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "ENVIRONMENTAL CONTEXT",
+        "COSTING YOU MILLIONS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Ignoring environmental context in favor of personality costs marketing brands millions of dollars.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Overlooking environmental context costs marketing departments and brands millions.",
+      "concreteVisual": "A flow diagram linking immediate environmental context directly to costing millions in revenue.",
+      "onScreenText": "ENVIRONMENTAL CONTEXT → COSTING YOU MILLIONS",
+      "relationToPrevious": "Translates the psychological error into concrete commercial and financial losses.",
+      "addedInformation": "Connects abstract attribution psychology directly to corporate balance sheets."
+    }
+  },
+  {
+    "i": 42,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "TARGET DEMOGRAPHIC PROFILES",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": [
+      "marketer"
+    ],
+    "expression": "worried",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "Marketing departments obsess over rigid demographic profiles, age brackets, and personality types.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Brands waste entire quarters obsessing over rigid demographic and personality profiles.",
+      "concreteVisual": "The Marketer gestures toward a target icon in a corporate boardroom.",
+      "onScreenText": "TARGET DEMOGRAPHIC PROFILES",
+      "relationToPrevious": "Identifies the core corporate mistake: over-indexing on fixed demographics.",
+      "addedInformation": "Critiques the corporate marketing obsession with static demographic segmentations."
+    }
+  },
+  {
+    "i": 43,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "AMBITIOUS MILLENNIALS",
+        "AFFLUENT INTROVERTS"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Brands invent hollow demographic personas like 'ambitious millennials' and 'affluent introverts'.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Marketers rely on caricature personas like 'ambitious millennials' or 'affluent introverts'.",
+      "concreteVisual": "A two-bucket sorter diagram separating 'ambitious millennials' from 'affluent introverts'.",
+      "onScreenText": "AMBITIOUS MILLENNIALS | AFFLUENT INTROVERTS",
+      "relationToPrevious": "Parodies the hollow marketing caricatures created by ignoring context.",
+      "addedInformation": "Satirizes modern brand positioning strategies by isolating their silly buzzword segments."
+    }
+  }
+]

@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-06T19:44:11.279Z",
+  "n": 370,
+  "total": 370,
+  "sources": [
+    "readcheck",
+    "recheck-1"
+  ],
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "the-choice-factory-prep-32e7d546eb29",
+    "folders": {
+      "readcheck": {
+        "run": "the-choice-factory-prep-32e7d546eb29",
+        "evidenceSha256": "732e0b4b8e59fcb20a0084dd961beb5018fce9d6f641fd5b1f8b5a0fcc5e830d"
+      },
+      "recheck-1": {
+        "run": "the-choice-factory-prep-8dcf06c2ea30",
+        "evidenceSha256": "d4c2d0e84a1ae55bdaf9acdd5ac74b8a525868d454fad368359481ab349ca4e5"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 355,
+    "NEUTRAL": 9,
+    "WRONG": 6
+  },
+  "wrongRate": 0.016,
+  "blame": {
+    "words": 11,
+    "face": 2,
+    "nothing-fits": 1,
+    "diagram": 1
+  },
+  "iconBlame": {},
+  "beats": [
+    {
+      "i": 0,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess captures hesitating over physical placement, but frames placement as the choice rather than the hidden influence.",
+      "from": "readcheck",
+      "concept": "balance",
+      "callout": "A PHYSICAL PLACEMENT"
+    },
+    {
+      "i": 28,
+      "verdict": "WRONG",
+      "blame": "face",
+      "why": "The worried facial expression and holding the wallet led the viewer to guess customer payment anxiety rather than perspective on choice architecture.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "IN THE CHECKOUT LINE"
+    },
+    {
+      "i": 47,
+      "verdict": "WRONG",
+      "blame": "nothing-fits",
+      "why": "The guess claims the experiment was not intended as an indictment of character, directly contradicting the narration.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "INDICTMENT OF HUMAN CHARACTER"
+    },
+    {
+      "i": 66,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "The character smirking led the viewer to guess a critique of demographic data rather than the host playing devil advocate.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "CORE DEMOGRAPHIC DATA"
+    },
+    {
+      "i": 88,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The crossed-out words led the viewer to conclude that critical thinking is not bypassed, directly contradicting the narration.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "BYPASS CRITICAL THINKING"
+    },
+    {
+      "i": 147,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The callout \"LIVES ARE ON THE LINE\" led the viewer to guess diffusion of responsibility rather than questioning moral logic.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "LIVES ARE ON THE LINE"
+    },
+    {
+      "i": 148,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The callout phrase \"SEVERITY OF THE CRISIS\" lacked question framing, making an open challenge read like a settled conclusion.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "SEVERITY OF THE CRISIS"
+    },
+    {
+      "i": 167,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The scale diagram implied a delicate trade-off rather than the narrator's stark claim that fitting in guarantees invisibility.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 253,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The phrase \"NOT CHEAP OR EXPENSIVE\" was read as describing the middle option rather than the general absence of absolute price meters.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "NOT CHEAP OR EXPENSIVE"
+    },
+    {
+      "i": 269,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The callout \"REGULATORY UNIT PRICING\" lacked question framing, prompting an assumption that regulation fails rather than presenting the pushback.",
+      "from": "readcheck",
+      "concept": "shield",
+      "callout": "REGULATORY UNIT PRICING"
+    },
+    {
+      "i": 283,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess focuses literally on pulling out a wallet and misses the point about spending willingness.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "PHYSICAL ACT OF BUYING"
+    },
+    {
+      "i": 286,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The callout 'BEFORE YOU TAP' led the viewer to believe the video was advising caution before tapping to pay.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "BEFORE YOU TAP"
+    },
+    {
+      "i": 290,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess recognizes that a golden rule is being introduced but is vague about checkout and payment friction.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "the golden rule"
+    },
+    {
+      "i": 318,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The callout 'a classic dilemma' led the viewer to believe the dilemma was choice overload rather than spending restraint.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "a classic dilemma"
+    },
+    {
+      "i": 367,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The callout 'A FACTORY OF IRRATIONAL CHOICES' led the viewer to attribute the metaphor to the marketplace rather than the consumer.",
+      "from": "readcheck",
+      "concept": "food",
+      "callout": "A FACTORY OF IRRATIONAL CHOICES"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 11,
+    "wrong": [],
+    "neutral": [],
+    "cleared": 11,
+    "unread": []
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "img": "c395dc9900",
+    "sees": [
+      "frame 1: A mostly empty grey room with a grid of squares (like a whiteboard or billboard) on the left side, a T-shaped stand or table in the lower centre-right, and a white speech-bubble caption reading 'this is the part that frustrates me' in the lower-left area. No characters are visible.",
+      "frame 2: Identical layout — same grey room, same grid of squares, same T-shaped stand. The caption 'this is the part that frustrates me' has shifted slightly to the centre of the frame but remains unchanged in wording.",
+      "frame 3: Same scene again — grey room, grid of squares, T-shaped stand. The caption 'this is the part that frustrates me' is now positioned towards the right of the frame. No other visual changes."
+    ],
+    "changed": "The position of the caption bubble drifts from left to centre to right across the three frames; the room and all other elements remain static.",
+    "cause": "The caption appears to be animating or sliding across the screen, possibly synchronised with spoken narration.",
+    "effect": "The viewer's eye is drawn from left to right, following the moving text; no new visual information is introduced.",
+    "message": "The narrator is expressing personal frustration about something — likely a limitation or problem being introduced in this insight.",
+    "wouldConfuse": "There are no characters, faces, or actions visible, so it is completely unclear who is frustrated or what they are frustrated about. The empty room with the grid and stand provides no context for the emotion stated in the caption."
+  },
+  {
+    "img": "d70c5c0066",
+    "sees": [
+      "frame 1: Two animated cartoon men stand in a living-room setting (lamp, picture frame on wall). The taller man on the left, wearing a dark suit and tie, extends his arm and holds out a large gold coin with a dollar sign toward the shorter man on the right, who looks surprised. No on-screen text.",
+      "frame 2: Essentially the same scene — same two men, same body positions, same coin being offered. The shorter man's expression is still one of surprise or curiosity. No on-screen text visible.",
+      "frame 3: The same two men in the same positions with the same coin, but now bold black text 'ABSTRACT THE LOSS' has appeared in the upper-right area of the frame."
+    ],
+    "changed": "The on-screen title text 'ABSTRACT THE LOSS' appears in frame 3; the characters and their positions remain unchanged.",
+    "cause": "A title card or key-concept label animates in, labelling the idea being demonstrated by the scene.",
+    "effect": "The viewer now has a name for the concept being illustrated — abstracting a loss — framed by the act of one person offering money to another.",
+    "message": "The narrator is introducing the concept of 'abstracting the loss' — making a financial loss feel less painful, possibly by reframing or softening how it is presented.",
+    "wouldConfuse": "Without sound, it is unclear whether the taller man is giving money or asking for it, and whether the exchange is positive or negative. The phrase 'abstract the loss' is jargon that is unexplained visually."
+  },
+  {
+    "img": "233fe4b7f7",
+    "sees": [
+      "frame 1: Three icons are displayed in a row against a light background with faint city-skyline silhouettes: a grey open book labelled 'ANALYSIS', a dark navy compass/diamond circle icon labelled 'THEORY', and a dark cone/obelisk shape labelled 'WILD'. They are evenly spaced, all roughly the same visual weight, with no connections between them.",
+      "frame 2: The book icon ('ANALYSIS') has enlarged and turned red/pink, surrounded by a pink circle, and is now highlighted as the focal element. A dashed arrow curves from the book icon rightward, and dashed-line boxes appear over the 'THEORY' and 'WILD' labels, suggesting a flow or relationship. The compass icon has moved slightly right and closer to the cone.",
+      "frame 3: Very similar to frame 2 — the book icon remains large, red, and circled. The dashed arrow and dashed boxes are still present. The compass icon (THEORY) and cone (WILD) have moved further right, with the compass icon now appearing even further to the right of the cone, as if re-ordered or shifted."
+    ],
+    "changed": "From frame 1 to frame 3: the ANALYSIS book icon becomes the dominant highlighted element (enlarged, red, circled), dashed arrows and boxes connect it to the other two icons, and the THEORY and WILD icons shift positions.",
+    "cause": "An animation is showing how 'ANALYSIS' leads to or connects with 'THEORY' and 'WILD', structuring the book's content framework.",
+    "effect": "The viewer understands that the book is organised around three categories — Analysis, Theory, Wild — with Analysis as the starting or primary element.",
+    "message": "The narrator is explaining the structure of the book or the insight series: each insight will cover analysis, theory, and a wild/unexpected angle.",
+    "wouldConfuse": "The re-ordering of THEORY and WILD icons between frames 2 and 3 (the compass moves to the far right, past the cone) may suggest WILD comes before THEORY, contradicting the original left-to-right order. The dashed boxes over THEORY and WILD could look like they are being crossed out or de-emphasised rather than connected."
+  },
+  {
+    "img": "daf3cfdb84",
+    "sees": [
+      "frame 1: A split-screen: on the left, a plain grey/white room with a male animated character standing alone; on the right (warmer beige background), a large bullseye/target icon with concentric circles and an arrow hitting the centre, labelled 'CLUMSY ONE' beneath it. The character and the target are separate, with no visual connection.",
+      "frame 2: The same split-screen. Now a large pink circle surrounds the character on the left, and a dashed arrow curves from the character up and rightward toward a dashed rectangular box that has appeared above the target. The target label 'CLUMSY ONE' remains. The character appears to be highlighted as the subject of discussion.",
+      "frame 3: Almost identical to frame 2 — the pink circle still surrounds the character, the dashed arrow still points to the dashed box, and the 'CLUMSY ONE' label is still visible. The target icon appears slightly smaller or moved. No new elements appear."
+    ],
+    "changed": "From frame 1 to frame 3: a pink highlight circle appears around the character, and a dashed arrow with a dashed destination box is added, linking the character to an empty placeholder box above the target.",
+    "cause": "An animation is establishing a relationship or mapping between the character and a concept (the 'CLUMSY ONE' target), suggesting the character is being identified with or is performing the 'clumsy' action.",
+    "effect": "The viewer understands the character is associated with the 'CLUMSY ONE' label — possibly demonstrating a clumsy persuasion technique.",
+    "message": "The narrator is introducing a character (or type of person/behaviour) called the 'Clumsy One', likely as an example of an ineffective or blunt approach.",
+    "wouldConfuse": "The dashed destination box is empty — there is no icon or label inside it — so it is unclear what the arrow is pointing toward or what the character is supposed to be linked to. The split-screen background change (grey vs. beige) could make a viewer think these are two separate scenes rather than one."
+  }
+]
