@@ -1,0 +1,2380 @@
+{
+  "version": 1,
+  "slug": "then-she-was-gone",
+  "generatedAt": "2026-11-12T08:32:53.232Z",
+  "history": [
+    {
+      "at": "2026-11-12T06:26:48.856Z",
+      "reason": "pipeline",
+      "scenes": 244
+    },
+    {
+      "at": "2026-11-12T06:29:12.847Z",
+      "reason": "pipeline",
+      "scenes": 244
+    },
+    {
+      "at": "2026-11-12T06:30:48.238Z",
+      "reason": "pipeline",
+      "scenes": 244
+    },
+    {
+      "at": "2026-11-12T08:31:12.880Z",
+      "reason": "pipeline",
+      "scenes": 244
+    },
+    {
+      "at": "2026-11-12T08:32:53.221Z",
+      "reason": "pipeline",
+      "scenes": 244
+    }
+  ],
+  "scenes": {
+    "intro": {
+      "fp": "b9c89767ae",
+      "props": [],
+      "texts": 2,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-01": {
+      "fp": "42c7ef4c0e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-02": {
+      "fp": "c6451329e6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-03": {
+      "fp": "030ad9d865",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-04": {
+      "fp": "6d13075b28",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-05": {
+      "fp": "191ab658f3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-06": {
+      "fp": "d2e58524e4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-07": {
+      "fp": "777473fbcd",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-08": {
+      "fp": "6801e06de8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-09": {
+      "fp": "3a0ac29aaa",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-10": {
+      "fp": "14cecd8e66",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-11": {
+      "fp": "48a42488d6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-12": {
+      "fp": "779059c718",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "mask",
+      "set": "room"
+    },
+    "scene-13": {
+      "fp": "72a70d71e7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "library"
+    },
+    "scene-14": {
+      "fp": "e2db410e84",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "library"
+    },
+    "scene-15": {
+      "fp": "b6a746ee7d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "library"
+    },
+    "scene-16": {
+      "fp": "def8e31b58",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-17": {
+      "fp": "acb5bcdfb2",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-18": {
+      "fp": "29b4b2a964",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-19": {
+      "fp": "e340dee1b1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-20": {
+      "fp": "446b230a8b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "street"
+    },
+    "scene-21": {
+      "fp": "887f29046e",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "room"
+    },
+    "scene-22": {
+      "fp": "264d2508e1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-23": {
+      "fp": "3749ff7e43",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-24": {
+      "fp": "e2ca9cbfe7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-25": {
+      "fp": "81a55a0011",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-26": {
+      "fp": "46db093cb9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-27": {
+      "fp": "2614d5df36",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-28": {
+      "fp": "3d737e03b6",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "clock",
+      "set": "street"
+    },
+    "scene-29": {
+      "fp": "34bbea3dd3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "street"
+    },
+    "scene-30": {
+      "fp": "2f85d4dfc7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "street"
+    },
+    "scene-31": {
+      "fp": "b2e460fb27",
+      "props": [
+        "mirror"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mirror",
+      "set": "street"
+    },
+    "scene-32": {
+      "fp": "77bfb2fccf",
+      "props": [
+        "photo"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "photo",
+      "set": "street"
+    },
+    "scene-33": {
+      "fp": "5d9611ca80",
+      "props": [
+        "home"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "home",
+      "set": "kitchen"
+    },
+    "scene-34": {
+      "fp": "1e37f4f82d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-35": {
+      "fp": "5f0d5e77b6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-36": {
+      "fp": "d26588b2af",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-37": {
+      "fp": "5134185530",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-38": {
+      "fp": "4a39710308",
+      "props": [
+        "law"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "law",
+      "set": "room"
+    },
+    "scene-39": {
+      "fp": "815e1e4f58",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-40": {
+      "fp": "cd1d4cf4d6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-41": {
+      "fp": "d14306f0d6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-42": {
+      "fp": "c6737c1c8d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-43": {
+      "fp": "aab2346c7c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-44": {
+      "fp": "43a4a43edd",
+      "props": [
+        "medical"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "medical",
+      "set": "room"
+    },
+    "scene-45": {
+      "fp": "95cc0a924c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-46": {
+      "fp": "609cedba71",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-47": {
+      "fp": "6c93c8b37b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-48": {
+      "fp": "4aa3bc1b3d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-49": {
+      "fp": "d01187b9b2",
+      "props": [
+        "home"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "home",
+      "set": "room"
+    },
+    "scene-50": {
+      "fp": "56591e7308",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-51": {
+      "fp": "c90b1d9343",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-52": {
+      "fp": "8f18792052",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "room"
+    },
+    "scene-53": {
+      "fp": "4606fb0582",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-54": {
+      "fp": "755a98e0be",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mask",
+      "set": "room"
+    },
+    "scene-55": {
+      "fp": "c9b9c598fe",
+      "props": [],
+      "texts": 0,
+      "diagram": "sorter",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-56": {
+      "fp": "79bfa9e87b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-57": {
+      "fp": "6ba2dc4712",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-58": {
+      "fp": "5edc0fc29e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-59": {
+      "fp": "8661dd2b47",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-60": {
+      "fp": "c60f0fdf45",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-61": {
+      "fp": "ea8b226dcc",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "chains",
+      "set": "room"
+    },
+    "scene-62": {
+      "fp": "36438fd300",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-63": {
+      "fp": "d8ebe8c970",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-64": {
+      "fp": "6fe48ed9c2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-65": {
+      "fp": "0e5e97db15",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-66": {
+      "fp": "9765dde913",
+      "props": [
+        "food"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "food",
+      "set": "kitchen"
+    },
+    "scene-67": {
+      "fp": "fa0950602f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-68": {
+      "fp": "c7c2f7b326",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-69": {
+      "fp": "3ca9ec9480",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-70": {
+      "fp": "c798dec9ac",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-71": {
+      "fp": "674c9710a8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-72": {
+      "fp": "9a1709c69b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-73": {
+      "fp": "8a1a7c5fcb",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "room"
+    },
+    "scene-74": {
+      "fp": "b72dd55e03",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-75": {
+      "fp": "e8af016594",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "clock",
+      "set": "room"
+    },
+    "scene-76": {
+      "fp": "2e3407c388",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-77": {
+      "fp": "b7316a9883",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-78": {
+      "fp": "3abdf98518",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-79": {
+      "fp": "c8003986b7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-80": {
+      "fp": "3f755c75b9",
+      "props": [
+        "photo"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "photo",
+      "set": "room"
+    },
+    "scene-81": {
+      "fp": "e5d26354b2",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mask",
+      "set": "room"
+    },
+    "scene-82": {
+      "fp": "83b74e1c77",
+      "props": [
+        "target"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "target",
+      "set": "room"
+    },
+    "scene-83": {
+      "fp": "9521af5e49",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-84": {
+      "fp": "ff612e575e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-85": {
+      "fp": "2d6394bb81",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-86": {
+      "fp": "dcb041dbd9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-87": {
+      "fp": "7be3f4c8f0",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "mask",
+      "set": "cafe"
+    },
+    "scene-88": {
+      "fp": "57c27533ef",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-89": {
+      "fp": "2319d18dff",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-90": {
+      "fp": "3aca3002ec",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-91": {
+      "fp": "036b07a733",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "cafe"
+    },
+    "scene-92": {
+      "fp": "8f6c5e1bdb",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-93": {
+      "fp": "67d1ad8582",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-94": {
+      "fp": "3cb343ec5f",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mask",
+      "set": "kitchen"
+    },
+    "scene-95": {
+      "fp": "a55b01c928",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-96": {
+      "fp": "4e58bd651c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-97": {
+      "fp": "100278ef40",
+      "props": [
+        "key"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "key",
+      "set": "room"
+    },
+    "scene-98": {
+      "fp": "3702feed49",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "room"
+    },
+    "scene-99": {
+      "fp": "ed5d178204",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-100": {
+      "fp": "a8f759ebf4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-101": {
+      "fp": "d49ae6ba21",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-102": {
+      "fp": "6807a4bfed",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "chains",
+      "set": "room"
+    },
+    "scene-103": {
+      "fp": "db59f3066a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-104": {
+      "fp": "962ea5fb8c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-105": {
+      "fp": "541621474a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-106": {
+      "fp": "e66a3ec868",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-107": {
+      "fp": "636dff9d9b",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-108": {
+      "fp": "7ef999287e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-109": {
+      "fp": "0c76cff610",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-110": {
+      "fp": "287bdd5e3a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-111": {
+      "fp": "4079cfb228",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-112": {
+      "fp": "e5ea5577d5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-113": {
+      "fp": "25533022dd",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-114": {
+      "fp": "20cd7ef05e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-115": {
+      "fp": "ea0788cf65",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-116": {
+      "fp": "e593ab785b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-117": {
+      "fp": "4ef5a81066",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "kitchen"
+    },
+    "scene-118": {
+      "fp": "e450fe7687",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-119": {
+      "fp": "ed72f4949a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-120": {
+      "fp": "eb9b2ef0f2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-121": {
+      "fp": "e24ab3dbe8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-122": {
+      "fp": "8886d4b7dd",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mask",
+      "set": "cafe"
+    },
+    "scene-123": {
+      "fp": "c47d5fbdbe",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-124": {
+      "fp": "ff178a3574",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "kitchen"
+    },
+    "scene-125": {
+      "fp": "1780ea4acd",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-126": {
+      "fp": "a2bdf778e2",
+      "props": [
+        "home"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "home",
+      "set": "kitchen"
+    },
+    "scene-127": {
+      "fp": "cff0901021",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-128": {
+      "fp": "2e23cd4512",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "chains",
+      "set": "room"
+    },
+    "scene-129": {
+      "fp": "62ad0c0c7c",
+      "props": [
+        "clock"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "clock",
+      "set": "room"
+    },
+    "scene-130": {
+      "fp": "e0df4d3b93",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-131": {
+      "fp": "1ecad418e3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-132": {
+      "fp": "349094d60b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-133": {
+      "fp": "2f72e49394",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-134": {
+      "fp": "701b28746d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-135": {
+      "fp": "c5a9e3d9dc",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "mask",
+      "set": "room"
+    },
+    "scene-136": {
+      "fp": "49bcf9d278",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-137": {
+      "fp": "08ff4720b1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-138": {
+      "fp": "120ccc9d8e",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "chains",
+      "set": "kitchen"
+    },
+    "scene-139": {
+      "fp": "54bba0f340",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "room"
+    },
+    "scene-140": {
+      "fp": "5f7c9d1395",
+      "props": [
+        "photo"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "photo",
+      "set": "office"
+    },
+    "scene-141": {
+      "fp": "2598ae3f93",
+      "props": [
+        "mirror"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "mirror",
+      "set": "room"
+    },
+    "scene-142": {
+      "fp": "9f3cd8f35d",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "puppeteer",
+      "set": "kitchen"
+    },
+    "scene-143": {
+      "fp": "c5a8ed71c9",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "game",
+      "set": "room"
+    },
+    "scene-144": {
+      "fp": "7297332687",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mask",
+      "set": "street"
+    },
+    "scene-145": {
+      "fp": "c1ee14d5ca",
+      "props": [
+        "lightbulb"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "lightbulb",
+      "set": "room"
+    },
+    "scene-146": {
+      "fp": "b33dc496c1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-147": {
+      "fp": "69481cbf09",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-148": {
+      "fp": "248f55c6a6",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-149": {
+      "fp": "662f3833f3",
+      "props": [
+        "law"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "law",
+      "set": "office"
+    },
+    "scene-150": {
+      "fp": "05531b567d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-151": {
+      "fp": "51d79de949",
+      "props": [
+        "notes"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "notes",
+      "set": "room"
+    },
+    "scene-152": {
+      "fp": "9ed5620c06",
+      "props": [
+        "law"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "law",
+      "set": "office"
+    },
+    "scene-153": {
+      "fp": "5fe4e131f6",
+      "props": [
+        "book"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "book",
+      "set": "library"
+    },
+    "scene-154": {
+      "fp": "8e97c6c2fa",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-155": {
+      "fp": "7025249ff5",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-156": {
+      "fp": "9f68058bf3",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-157": {
+      "fp": "aaf468b181",
+      "props": [
+        "photo"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "photo",
+      "set": "office"
+    },
+    "scene-158": {
+      "fp": "2fd30d3227",
+      "props": [
+        "photo"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "photo",
+      "set": "office"
+    },
+    "scene-159": {
+      "fp": "0921149f6c",
+      "props": [
+        "mirror"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mirror",
+      "set": "office"
+    },
+    "scene-160": {
+      "fp": "3f02a0cbd2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-161": {
+      "fp": "a5cc2229de",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "office"
+    },
+    "scene-162": {
+      "fp": "22858b621e",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mask",
+      "set": "office"
+    },
+    "scene-163": {
+      "fp": "8aa16c7f3e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-164": {
+      "fp": "28f751fe06",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "office"
+    },
+    "scene-165": {
+      "fp": "dd86042e3d",
+      "props": [
+        "phone"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "phone",
+      "set": "office"
+    },
+    "scene-166": {
+      "fp": "7d41a6e937",
+      "props": [
+        "law"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "law",
+      "set": "office"
+    },
+    "scene-167": {
+      "fp": "994c20a2ba",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "shield",
+      "set": "room"
+    },
+    "scene-168": {
+      "fp": "0b31fe6af9",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "room"
+    },
+    "scene-169": {
+      "fp": "a9d461c8c2",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "street"
+    },
+    "scene-170": {
+      "fp": "c9d6b59bc7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-171": {
+      "fp": "d11ee2a307",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-172": {
+      "fp": "7f948976ee",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-173": {
+      "fp": "26f0aee7f9",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-174": {
+      "fp": "e534a150ef",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-175": {
+      "fp": "04dd5e6b26",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-176": {
+      "fp": "68fddf598a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-177": {
+      "fp": "4def1c3e42",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-178": {
+      "fp": "89cc9d08e0",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-179": {
+      "fp": "ba315bd006",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-180": {
+      "fp": "f3afdbdf8b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-181": {
+      "fp": "7c2401f77d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-182": {
+      "fp": "6bd16e6902",
+      "props": [
+        "mirror"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "mirror",
+      "set": "cafe"
+    },
+    "scene-183": {
+      "fp": "7ce788191f",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "cafe"
+    },
+    "scene-184": {
+      "fp": "9e51b6930f",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-185": {
+      "fp": "160e96d813",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-186": {
+      "fp": "3ed1d83943",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-187": {
+      "fp": "be3543a1c4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-188": {
+      "fp": "c1354644f4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-189": {
+      "fp": "8eb7f78d70",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-190": {
+      "fp": "1c3200591a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-191": {
+      "fp": "15bfb1c975",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-192": {
+      "fp": "30b4acc74e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-193": {
+      "fp": "5c2378dda1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-194": {
+      "fp": "ce47c0db7a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-195": {
+      "fp": "1eb4b0fbf4",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-196": {
+      "fp": "ad35ed6c92",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "room"
+    },
+    "scene-197": {
+      "fp": "521e9c28c8",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-198": {
+      "fp": "c77031326b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-199": {
+      "fp": "2ff3f9979a",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-200": {
+      "fp": "70dcb997a7",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-201": {
+      "fp": "115490c528",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-202": {
+      "fp": "c483bee516",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-203": {
+      "fp": "c9e1df759f",
+      "props": [
+        "inheritance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "inheritance",
+      "set": "room"
+    },
+    "scene-204": {
+      "fp": "83933c8f88",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-205": {
+      "fp": "b18f0655da",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-206": {
+      "fp": "a0e4eb515e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "office"
+    },
+    "scene-207": {
+      "fp": "70eb61aba9",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "office"
+    },
+    "scene-208": {
+      "fp": "9c02ba6191",
+      "props": [
+        "puppeteer"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "puppeteer",
+      "set": "office"
+    },
+    "scene-209": {
+      "fp": "8d2998eeeb",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "room"
+    },
+    "scene-210": {
+      "fp": "e36a8da2e9",
+      "props": [],
+      "texts": 0,
+      "diagram": "spectrum",
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-211": {
+      "fp": "c64be9a6d1",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-212": {
+      "fp": "714a0f7cb7",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "mask",
+      "set": "kitchen"
+    },
+    "scene-213": {
+      "fp": "ddc869ee63",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-214": {
+      "fp": "bbd715550f",
+      "props": [
+        "heart"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "heart",
+      "set": "room"
+    },
+    "scene-215": {
+      "fp": "83eb089763",
+      "props": [
+        "gift"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "gift",
+      "set": "room"
+    },
+    "scene-216": {
+      "fp": "41c5efa4cc",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-217": {
+      "fp": "120eccd233",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-218": {
+      "fp": "f37795c9d2",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-219": {
+      "fp": "4e4f1ec5b9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-220": {
+      "fp": "c00cbc8e66",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-221": {
+      "fp": "aa2b88b578",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-222": {
+      "fp": "773bef895b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-223": {
+      "fp": "68731e84c9",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-224": {
+      "fp": "85af1d4442",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "room"
+    },
+    "scene-225": {
+      "fp": "14b73b6618",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": null,
+      "set": "kitchen"
+    },
+    "scene-226": {
+      "fp": "618eb7ad2d",
+      "props": [
+        "game"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "game",
+      "set": "kitchen"
+    },
+    "scene-227": {
+      "fp": "b2d1737a00",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-228": {
+      "fp": "4746fb779e",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "cafe"
+    },
+    "scene-229": {
+      "fp": "e630b3482b",
+      "props": [
+        "city"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 0,
+      "concept": "city",
+      "set": "street"
+    },
+    "scene-230": {
+      "fp": "d469f7e440",
+      "props": [
+        "balance"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "balance",
+      "set": "room"
+    },
+    "scene-231": {
+      "fp": "ef04fd0d1d",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-232": {
+      "fp": "cea6b1f46d",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-233": {
+      "fp": "d50a343c65",
+      "props": [
+        "mask"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "mask",
+      "set": "cafe"
+    },
+    "scene-234": {
+      "fp": "3e62b9085b",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-235": {
+      "fp": "fe3ed0a5c3",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "chains",
+      "set": "room"
+    },
+    "scene-236": {
+      "fp": "b64da124dd",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-237": {
+      "fp": "62a64610f7",
+      "props": [
+        "grave"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "grave",
+      "set": "room"
+    },
+    "scene-238": {
+      "fp": "d93552274c",
+      "props": [],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-239": {
+      "fp": "bb4aa14a78",
+      "props": [
+        "chains"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "chains",
+      "set": "room"
+    },
+    "scene-240": {
+      "fp": "d01fd12b56",
+      "props": [
+        "key"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "key",
+      "set": "room"
+    },
+    "scene-241": {
+      "fp": "35fd505ab4",
+      "props": [],
+      "texts": 0,
+      "diagram": "flow",
+      "characters": 0,
+      "concept": null,
+      "set": "room"
+    },
+    "scene-242": {
+      "fp": "cbcb7a5e0b",
+      "props": [
+        "shield"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 1,
+      "concept": "shield",
+      "set": "room"
+    },
+    "scene-243": {
+      "fp": "6905eec4d4",
+      "props": [
+        "mirror"
+      ],
+      "texts": 1,
+      "diagram": null,
+      "characters": 2,
+      "concept": "mirror",
+      "set": "kitchen"
+    }
+  }
+}

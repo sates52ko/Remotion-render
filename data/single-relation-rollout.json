@@ -1,0 +1,53 @@
+{
+  "schema": "single-relation-rollout-policy/1",
+  "id": "c17-operator-selective-rollout",
+  "approvedAt": "2026-11-06",
+  "by": "operator",
+  "words": "Bu mesaj, yeni ve henüz production render'a girmemiş uygun Antidote kitaplarında sınırlı ve geri alınabilir feature activation için açık operatör onayıdır. … Bu onayı kullanmak için her kitapta tekrar \"Single-Relation açılsın mı?\" diye sorma. Ancak yetki yalnızca: Yeni, yayınlanmamış / Engine pin'i uygun / Henüz production render'a girmemiş / Antidote motoruyla hazırlanmış kitaplarda geçerlidir.",
+  "level2": "INCONCLUSIVE (cycle 16, dev/c16 audit/c16/holdout/result.json) — unchanged; this is a separate operator-approved selective rollout, not a Level-2 PASS",
+  "scope": {
+    "engine": "antidote",
+    "published": false,
+    "productionRendered": false,
+    "pinContains": [
+      "0296a84d",
+      "8cd04fc0"
+    ],
+    "globalDefault": false,
+    "pinNote": "0296a84d = the renderer; 8cd04fc0 = the workflow integration (make-book 1.885 re-applies the B scenes, preview-state stage singleRelation). A pin without the integration would drop the B scenes on its own make-book and loop on its own marker — such a book is not eligible; a Step-0 book (no work) can be repinned only on the operator's word (book-start --repin)."
+  },
+  "perBook": {
+    "maxScenes": null,
+    "requires": [
+      "every applied contract VALID against its scene's narration",
+      "an agent A/B on that beat: B > A, wrongInference(B) <= wrongInference(A), polarity(B) = 0, wrong cause(B) = 0",
+      "the narration review (an agent that sees the narration) finds no wrong object / wrong action / wrong causality in B — the reason keeps the narration's words and what was on screen; low appeal or uncertainty is not a veto",
+      "timing: the narrator's result phrase is found in the word timings (author anchor, or derived from where the evidence is said; a phrase said twice is matched in context), the compiled change does not start before it, and the change fits with a hold inside the beat — otherwise that B is dropped, the others go on",
+      "readcheck, firewall, mute test and preview-ready unchanged and run after the apply"
+    ],
+    "maxScenesNote": "none (operator, cycle 18: 'Sahne kotası veya kitap başına onay adımı koyma') — every B that wins its A/B and passes validation, the narration veto and the timing rule goes in; cycle 17 had 15"
+  },
+  "stop": "a wrong inference or a quality regression in the first book's preview / mute test -> revert those scenes (single-relation-rollout.js revert) and stop the rollout",
+  "notCovered": [
+    "full production render",
+    "upload",
+    "publish",
+    "cleanup",
+    "engine change",
+    "repin",
+    "paid Flux calls",
+    "published or production-rendered books"
+  ],
+  "cycle18": {
+    "approvedAt": "2026-11-07",
+    "words": "Motion 2.0 güncel Antidote production akışında varsayılan açık olsun. Doğrulamayı geçen her uygun B sahnesini otomatik uygula. Sahne kotası ve kitap başına ek onay adımı koyma.",
+    "motion2": [
+      "overload (overflow)",
+      "passage (via)",
+      "merge (mergeInto)",
+      "split (from)",
+      "phases + anchors"
+    ],
+    "scope": "production config + preview; full render, upload, publish keep their own approvals"
+  }
+}

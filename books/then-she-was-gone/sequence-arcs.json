@@ -1,0 +1,2933 @@
+{
+  "slug": "then-she-was-gone",
+  "totalSequences": 77,
+  "totalScenes": 244,
+  "averageDurationSecs": 27.7,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "engine",
+      "fromFrame": 5,
+      "durationFrames": 218,
+      "durationSeconds": 7.3,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 5,
+          "durationFrames": 218,
+          "role": "reveal",
+          "narration": "You are staring at a miracle that your brain knows is a trap, right? But your heart it just it deman"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "authored",
+      "fromFrame": 223,
+      "durationFrames": 1457,
+      "durationSeconds": 48.6,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 223,
+          "durationFrames": 163,
+          "role": "authored-start",
+          "narration": "No, absolutely. So, just picture it. A mother is standing in this brightly lit kitchen"
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 386,
+          "durationFrames": 356,
+          "role": "authored-kept",
+          "narration": "and she is staring at a 9-year-old girl who is simply making coffee, just a totally normal everyday "
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 742,
+          "durationFrames": 316,
+          "role": "authored-kept",
+          "narration": "in her left cheek. She has these um these heavy-litted eyes and she has the precise like mathematica"
+        },
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1058,
+          "durationFrames": 305,
+          "role": "authored-kept",
+          "narration": "Yeah, it's chilling. The mother actually has to grip the door frame to stay standing because this ch"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1363,
+          "durationFrames": 166,
+          "role": "authored-kept",
+          "narration": "The vanished daughter, the one who disappeared 10 years ago without a single trace, is standing righ"
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1529,
+          "durationFrames": 151,
+          "role": "authored-kept",
+          "narration": "pouring water through a filter, you know, completely unaware she is wearing a ghost's face."
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "engine",
+      "fromFrame": 1680,
+      "durationFrames": 646,
+      "durationSeconds": 21.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1680,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "It is um it's just the ultimate psychological ambush. And honestly, completely reframes how we have "
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2033,
+          "durationFrames": 293,
+          "role": "reveal",
+          "narration": "standard abduction thriller or a police you're going to miss it, right? you are going to miss the ac"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "authored",
+      "fromFrame": 2326,
+      "durationFrames": 1152,
+      "durationSeconds": 38.4,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2326,
+          "durationFrames": 302,
+          "role": "authored-start",
+          "narration": "It's a deeply unsettling study of maternal projection. Exactly. It's about how desperate, suffocatin"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2628,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "It dissolves a person's skepticism, their rational defenses, their basic survival instincts really. "
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2892,
+          "durationFrames": 274,
+          "role": "authored-kept",
+          "narration": "vacuum left behind by this missing girl, Ellie Mack. And that vacuum creates this insatiable appetit"
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3166,
+          "durationFrames": 312,
+          "role": "authored-kept",
+          "narration": "It is because that appetite becomes the absolute perfect camouflage for a predator to hide in plain "
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 3478,
+      "durationFrames": 883,
+      "durationSeconds": 29.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3478,
+          "durationFrames": 168,
+          "role": "setup",
+          "narration": "That concept of the vacuum, um, it's so critical to human psychology."
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3646,
+          "durationFrames": 343,
+          "role": "question",
+          "narration": "In our field, there's a term for this specific kind of trauma. It's called ambiguous Ambiguous loss,"
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 3989,
+          "durationFrames": 211,
+          "role": "complication",
+          "narration": "No body, no crime scene, just a normal walk to the library and then just gone."
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4200,
+          "durationFrames": 161,
+          "role": "reveal",
+          "narration": "The human brain is an incredibly sophisticated prediction machine and it fundamentally cannot handle"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "authored",
+      "fromFrame": 4361,
+      "durationFrames": 600,
+      "durationSeconds": 20,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4361,
+          "durationFrames": 266,
+          "role": "authored-start",
+          "narration": "It relies on cause and effect. So when there's no ending, Exactly. When there is no ending, the brai"
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4627,
+          "durationFrames": 334,
+          "role": "authored-kept",
+          "narration": "It is constantly trying to write its own conclusion to a story that has no final chapter. And becaus"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "engine",
+      "fromFrame": 4961,
+      "durationFrames": 458,
+      "durationSeconds": 15.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 4961,
+          "durationFrames": 259,
+          "role": "setup",
+          "narration": "Even if the materials it's using are highly toxic. Oh, absolutely. Which drops us right into our set"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5220,
+          "durationFrames": 199,
+          "role": "reveal",
+          "narration": "years since her golden perfect 15-year-old daughter Ellie walked out the door to study for her exams"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "authored",
+      "fromFrame": 5419,
+      "durationFrames": 365,
+      "durationSeconds": 12.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5419,
+          "durationFrames": 151,
+          "role": "authored-start",
+          "narration": "10 years. 10 whole years. And Laurel is effectively frozen in amber."
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5570,
+          "durationFrames": 214,
+          "role": "authored-kept",
+          "narration": "The collateral damage to her family is absolute. I mean, her husband Paul, this warm, grounded, good"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "authored",
+      "fromFrame": 5784,
+      "durationFrames": 744,
+      "durationSeconds": 24.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 5784,
+          "durationFrames": 358,
+          "role": "authored-start",
+          "narration": "Laurel is estranged from her surviving children, Jake and Hannah. Because she has hollowed herself o"
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6142,
+          "durationFrames": 386,
+          "role": "authored-kept",
+          "narration": "She can't actually bear to look her in the eye. She is living a life of pure routine just to insulat"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "engine",
+      "fromFrame": 6528,
+      "durationFrames": 965,
+      "durationSeconds": 32.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6528,
+          "durationFrames": 223,
+          "role": "setup",
+          "narration": "Oh, Floyd. Laurel meets this charming, slightly self-deprecating American mathematician in a cafe. A"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6751,
+          "durationFrames": 401,
+          "role": "question",
+          "narration": "It is intoxicating. And here is the catalyst. Floyd introduces Laurel to his 9-year-old homeschooled"
+        },
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7152,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "familiar to Laurel. To understand how Laurel could possibly walk into this trap, we have to look at "
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "authored",
+      "fromFrame": 7493,
+      "durationFrames": 1176,
+      "durationSeconds": 39.2,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7493,
+          "durationFrames": 211,
+          "role": "authored-start",
+          "narration": "Okay. Yeah, let's do that. So, let's go back to May 2005. It's 10:43 in the morning."
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7704,
+          "durationFrames": 166,
+          "role": "authored-kept",
+          "narration": "Ellie Mack is wearing a black t-shirt, pale denim jeans, and scruffy white trainers."
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7870,
+          "durationFrames": 151,
+          "role": "authored-kept",
+          "narration": "Her golden hair is in a messy ponytail. She's carrying a navy blue rucks sack."
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8021,
+          "durationFrames": 254,
+          "role": "authored-kept",
+          "narration": "Just a normal teenager. Exactly. And she pauses on Straoud Green Road to check her reflection in the"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8275,
+          "durationFrames": 394,
+          "role": "authored-kept",
+          "narration": "It's an entirely mundane moment. And it is the very last time she is seen. Wow. It's just the sheer "
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "authored",
+      "fromFrame": 8669,
+      "durationFrames": 468,
+      "durationSeconds": 15.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8669,
+          "durationFrames": 141,
+          "role": "authored-start",
+          "narration": "absolute fragile illusion that we all just agree to believe in."
+        },
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 8810,
+          "durationFrames": 327,
+          "role": "authored-kept",
+          "narration": "I mean, one minute you are standing in the kitchen arguing about who gets to eat the last portion of"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "authored",
+      "fromFrame": 9137,
+      "durationFrames": 533,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9137,
+          "durationFrames": 204,
+          "role": "authored-start",
+          "narration": "And the next minute, your entire family is fractured into lifelong suffocating guilt over a tiny kin"
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9341,
+          "durationFrames": 329,
+          "role": "authored-kept",
+          "narration": "like if she had left 2 minutes later or if she hadn't paused at the car window. It's that exact bena"
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "authored",
+      "fromFrame": 9670,
+      "durationFrames": 1363,
+      "durationSeconds": 45.4,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9670,
+          "durationFrames": 165,
+          "role": "authored-start",
+          "narration": "And we see how that trauma immediately warps Laurel's perception of reality. Oh, for sure."
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 9835,
+          "durationFrames": 168,
+          "role": "authored-kept",
+          "narration": "Think about the night of the disappearance. The police have been called. The panic is setting in."
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10003,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "Laurel is staring at her husband, Paul. The house is plunged into terror. But what does Laurel fixat"
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10202,
+          "durationFrames": 358,
+          "role": "authored-kept",
+          "narration": "Paul's cold, right? Paul happens to have a head cold. She watches him in his combat shorts and brigh"
+        },
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10560,
+          "durationFrames": 305,
+          "role": "authored-kept",
+          "narration": "mouth breathing. And she feels this intense, overwhelming hatred for him. She hates him simply becau"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10865,
+          "durationFrames": 168,
+          "role": "authored-kept",
+          "narration": "details of domesticity just turn violently toxic in the face of absolute terror."
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "engine",
+      "fromFrame": 11033,
+      "durationFrames": 1073,
+      "durationSeconds": 35.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11033,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "Exactly. I was thinking about this reaction and well the best way I can understand it is to look at "
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11304,
+          "durationFrames": 317,
+          "role": "question",
+          "narration": "response. Oh, interesting. Yeah. Like when the human body faces an invader, it can't fight. Sometime"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11621,
+          "durationFrames": 321,
+          "role": "complication",
+          "narration": "organs. Right. Right. So Laurel's brain is flooded with a panic it cannot resolve. The universe has "
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 11942,
+          "durationFrames": 164,
+          "role": "reveal",
+          "narration": "in the room, her marriage. It's displaced panic, making her hate his sniffles"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "engine",
+      "fromFrame": 12106,
+      "durationFrames": 302,
+      "durationSeconds": 10.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12106,
+          "durationFrames": 302,
+          "role": "reveal",
+          "narration": "just because she can't punch the concept of a missing child. You know, I mean, I think the autoimmun"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "authored",
+      "fromFrame": 12408,
+      "durationFrames": 1874,
+      "durationSeconds": 62.5,
+      "sceneCount": 7,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12408,
+          "durationFrames": 197,
+          "role": "authored-start",
+          "narration": "Okay, what do you mean? Laurel didn't just experience a spontaneous misfiring of her emotional immun"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12605,
+          "durationFrames": 254,
+          "role": "authored-kept",
+          "narration": "She actively weaponized Paul's cold. Weaponized it? Yes. She needed someone to punish for the vulner"
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 12859,
+          "durationFrames": 262,
+          "role": "authored-kept",
+          "narration": "If Paul hadn't been sick, she would have found another reason to despise him. Oh wow. She needed a s"
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13121,
+          "durationFrames": 249,
+          "role": "authored-kept",
+          "narration": "It was about her needing to look at someone and say, \"You aren't insane enough. You aren't big enoug"
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13370,
+          "durationFrames": 334,
+          "role": "authored-kept",
+          "narration": "She used his totally normal human vulnerability as an excuse to shut him out forever. Exactly. Becau"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13704,
+          "durationFrames": 230,
+          "role": "authored-kept",
+          "narration": "good of a father they are, can protect you from a random act of chaotic evil. Precisely. The truth i"
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 13934,
+          "durationFrames": 348,
+          "role": "authored-kept",
+          "narration": "So grief builds a counterfeit reality that we desperately want to move into. That's it right there. "
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "engine",
+      "fromFrame": 14282,
+      "durationFrames": 598,
+      "durationSeconds": 19.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14282,
+          "durationFrames": 346,
+          "role": "setup",
+          "narration": "it was Paul's inadequacy rather than random uncontrollable tragedy that failed them, which is a lie "
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14628,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "is not. Yeah. But that decision to weaponize Paul's cold, it isn't just a symptom of the initial sho"
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "authored",
+      "fromFrame": 14880,
+      "durationFrames": 1138,
+      "durationSeconds": 37.9,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 14880,
+          "durationFrames": 384,
+          "role": "authored-start",
+          "narration": "It becomes her permanent operating It really does. We see the horrific results of that 10 years late"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 15264,
+          "durationFrames": 194,
+          "role": "authored-kept",
+          "narration": "Oh, this scene. The place is completely gloomy, overshadowed by this tangle of wisteria."
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15458,
+          "durationFrames": 248,
+          "role": "authored-kept",
+          "narration": "Laurel is hyperfixating on the smallest details. She notices there is no cereal bowl in the sink. Th"
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15706,
+          "durationFrames": 312,
+          "role": "authored-kept",
+          "narration": "Just normal mess that's missing, right? But instantly, this ice plume of terror shoots down her spin"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "authored",
+      "fromFrame": 16018,
+      "durationFrames": 933,
+      "durationSeconds": 31.1,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 16018,
+          "durationFrames": 362,
+          "role": "authored-start",
+          "narration": "27-year-old Hannah dead in a ditch. On the surface, that looks like maternal But fundamentally, emot"
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16380,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "So, here's what this means for you. Her panic about Hannah isn't actually about Hannah's safety at W"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16584,
+          "durationFrames": 367,
+          "role": "authored-kept",
+          "narration": "It's about Laurel's unhealed trauma dictating her every waking moment. Grief can make you completely"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "authored",
+      "fromFrame": 16951,
+      "durationFrames": 1287,
+      "durationSeconds": 42.9,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 16951,
+          "durationFrames": 204,
+          "role": "authored-start",
+          "narration": "the dead. And the root of this emotional abandonment goes all the way back to the very night Ellie v"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 17155,
+          "durationFrames": 216,
+          "role": "authored-kept",
+          "narration": "The police have left. Hannah, who is the middle child, you know, the one always labeled difficult or"
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17371,
+          "durationFrames": 175,
+          "role": "authored-kept",
+          "narration": "Yeah. She comes into the kitchen and says she's hungry. Laurel makes her beans on toast."
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 17546,
+          "durationFrames": 209,
+          "role": "authored-kept",
+          "narration": "And as Laurel stands there watching Hannah eat, this horrific internal monologue shoots through her "
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 17755,
+          "durationFrames": 197,
+          "role": "authored-kept",
+          "narration": "It's so dark. She looks at her surviving daughter and actually thinks, \"It should be you missing"
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 17952,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "and Ellie eating beans on It is arguably one of the most brutal, chilling lines in the entire text. "
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "authored",
+      "fromFrame": 18238,
+      "durationFrames": 1524,
+      "durationSeconds": 50.8,
+      "sceneCount": 7,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 18238,
+          "durationFrames": 247,
+          "role": "authored-start",
+          "narration": "we usually assign to motherhood. You know, I have to be honest. When I first read that, my immediate"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 18485,
+          "durationFrames": 237,
+          "role": "authored-kept",
+          "narration": "I thought, surely this is just an intrusive thought. We're talking about a mother experiencing the w"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 18722,
+          "durationFrames": 195,
+          "role": "authored-kept",
+          "narration": "Her brain is right? Just a moment of madness. Exactly. It's a momentary lapse of sanity."
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 18917,
+          "durationFrames": 177,
+          "role": "authored-kept",
+          "narration": "Like a desperate flash of bargaining with the universe. Like, take the difficult one. Bring back the"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19094,
+          "durationFrames": 226,
+          "role": "authored-kept",
+          "narration": "We all have dark, intrusive thoughts we don't mean. It doesn't mean she actually believes it. It's i"
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 19320,
+          "durationFrames": 192,
+          "role": "authored-kept",
+          "narration": "But wait, if we examine the next 10 years of their family dynamic,"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 19512,
+          "durationFrames": 250,
+          "role": "authored-kept",
+          "narration": "we have to completely reject that You don't think it was just a passing Not at all. That was not a f"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "engine",
+      "fromFrame": 19762,
+      "durationFrames": 254,
+      "durationSeconds": 8.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 19762,
+          "durationFrames": 254,
+          "role": "reveal",
+          "narration": "That thought was the architectural blueprint for her family's destruction. Yes. Laurel actually enac"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "authored",
+      "fromFrame": 20016,
+      "durationFrames": 811,
+      "durationSeconds": 27,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 20016,
+          "durationFrames": 355,
+          "role": "authored-start",
+          "narration": "She emotionally abandoned Hannah from that night forward. She even admits to herself later that she "
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 20371,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "Yeah. She effectively made her surviving daughter a ghost just so she could keep all her emotional e"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 20618,
+          "durationFrames": 209,
+          "role": "authored-kept",
+          "narration": "She demanded that Hannah live in the shadow of a saint. She basically sacrificed the living child on"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "authored",
+      "fromFrame": 20827,
+      "durationFrames": 895,
+      "durationSeconds": 29.8,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 20827,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "And again, it goes back to that phrase, grief builds a counterfeit reality that we desperately want "
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 21156,
+          "durationFrames": 338,
+          "role": "authored-kept",
+          "narration": "leaves Laurel completely isolated. She pushed away her husband. She alienated her living children. S"
+        },
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 21494,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "knows exactly how to read that kind of vulnerability. So, let's look at how that vulnerability is ex"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "authored",
+      "fromFrame": 21722,
+      "durationFrames": 1289,
+      "durationSeconds": 43,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 21722,
+          "durationFrames": 368,
+          "role": "authored-start",
+          "narration": "We're in a cafe in Straoud Green on a blowy autumn afternoon. A blade of bright sunlight cuts across"
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 22090,
+          "durationFrames": 362,
+          "role": "authored-kept",
+          "narration": "Very specific details. And a charismatic, silver-haired stranger named Floyd pushes that glittering "
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 22452,
+          "durationFrames": 319,
+          "role": "authored-kept",
+          "narration": "Laurel is starved for adult companionship. Starved for someone to look at her as a woman rather than"
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 22771,
+          "durationFrames": 240,
+          "role": "authored-kept",
+          "narration": "So what this means for you is that the desperation for normaly will completely mask the glaring red "
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "authored",
+      "fromFrame": 23011,
+      "durationFrames": 523,
+      "durationSeconds": 17.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23011,
+          "durationFrames": 267,
+          "role": "authored-start",
+          "narration": "The intimacy is so instantaneous and it is so incredibly unearned. I mean by the end of their very f"
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 23278,
+          "durationFrames": 256,
+          "role": "authored-kept",
+          "narration": "restaurant, right? By the end of it, Floyd is intensely oversharing. He is divulging this massive de"
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 23534,
+      "durationFrames": 660,
+      "durationSeconds": 22,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 23534,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "He claims she abandoned his daughter Poppy at age four, cleared out the bank accounts, and just vani"
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 23815,
+          "durationFrames": 379,
+          "role": "reveal",
+          "narration": "ironclad bond based on sheer tragedy. He is laying out the bait perfectly. Okay, but wait. I have to"
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "authored",
+      "fromFrame": 24194,
+      "durationFrames": 550,
+      "durationSeconds": 18.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24194,
+          "durationFrames": 308,
+          "role": "authored-start",
+          "narration": "same piece of driftwood in the middle of a massive ocean. Okay, I see where you're going. I mean, it"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 24502,
+          "durationFrames": 242,
+          "role": "authored-kept",
+          "narration": "Laurel was abandoned. They are just two broken people finding a shortcut to intimacy because they do"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "engine",
+      "fromFrame": 24744,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 24744,
+          "durationFrames": 362,
+          "role": "setup",
+          "narration": "That is exactly what Floyd wants her and the reader to think. But if we dig into the psychology of p"
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 25106,
+          "durationFrames": 322,
+          "role": "question",
+          "narration": "Floyd didn't just stumble upon a fellow grieving soul. He didn't. No. He admits later that he Google"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25428,
+          "durationFrames": 312,
+          "role": "reveal",
+          "narration": "He has been collecting press clippings of Ellie's disappearance for a Oh my god. He knows her entire"
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "engine",
+      "fromFrame": 25740,
+      "durationFrames": 962,
+      "durationSeconds": 32.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 25740,
+          "durationFrames": 384,
+          "role": "setup",
+          "narration": "and talks about a vanished loved one, he is meticulously tailoring his vulnerability to perfectly fi"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 26124,
+          "durationFrames": 271,
+          "role": "question",
+          "narration": "loss so she will drop her guard. It's like a hacker finding the back door into a secure server. Exac"
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26395,
+          "durationFrames": 307,
+          "role": "reveal",
+          "narration": "against the ultimate victim of a missing person case. It's a classic trait of covert narcissism. The"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "engine",
+      "fromFrame": 26702,
+      "durationFrames": 788,
+      "durationSeconds": 26.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 26702,
+          "durationFrames": 296,
+          "role": "setup",
+          "narration": "He built a reality where he is the perfect understanding savior entirely to satisfy his own ego. Bec"
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 26998,
+          "durationFrames": 319,
+          "role": "question",
+          "narration": "that we desperately want to move into and Floyd just hands for the keys to it. Yep. And that psychol"
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 27317,
+          "durationFrames": 173,
+          "role": "reveal",
+          "narration": "reveal in the entire story, the This is where the trap snaps shut."
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "authored",
+      "fromFrame": 27490,
+      "durationFrames": 952,
+      "durationSeconds": 31.7,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27490,
+          "durationFrames": 369,
+          "role": "authored-start",
+          "narration": "It's the morning after Laurel and Floyd sleep together for the first time. Laurel, smelling of sex, "
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27859,
+          "durationFrames": 255,
+          "role": "authored-kept",
+          "narration": "Such a tense moment. Poppy smiles. She reveals these crooked teeth and has this air of precocious"
+        },
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 28114,
+          "durationFrames": 328,
+          "role": "authored-kept",
+          "narration": "adult entitlement. She casually offers Laurel coffee and Laurel has to grab the door frame to stop h"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 28442,
+      "durationFrames": 1061,
+      "durationSeconds": 35.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 28442,
+          "durationFrames": 279,
+          "role": "setup",
+          "narration": "It's mathematically identical around the mouth and the eyes. It's horrifying. This is a perfect exam"
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28721,
+          "durationFrames": 273,
+          "role": "question",
+          "narration": "In robotics and psychology, the uncanny valley is that deeply unsettling feeling we get when somethi"
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28994,
+          "durationFrames": 320,
+          "role": "complication",
+          "narration": "So, what this means for you here is that it triggers a profound evolutionary biological alarm. Laure"
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 29314,
+          "durationFrames": 189,
+          "role": "reveal",
+          "narration": "bloodline. Her DNA recognizes its own echo, but her rational brain refuses to process it"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "engine",
+      "fromFrame": 29503,
+      "durationFrames": 502,
+      "durationSeconds": 16.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29503,
+          "durationFrames": 173,
+          "role": "setup",
+          "narration": "because it is too monstrous to comprehend how it could even be possible. The cognitive dissonance is"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29676,
+          "durationFrames": 329,
+          "role": "reveal",
+          "narration": "She is looking at her own grandchild, but the only way that is possible involves accepting a reality"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "authored",
+      "fromFrame": 30005,
+      "durationFrames": 1200,
+      "durationSeconds": 40,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 30005,
+          "durationFrames": 221,
+          "role": "authored-start",
+          "narration": "goes. Later on, Laurel takes Poppy on a shopping trip to Brent Cross because it's raining. Laurel ta"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 30226,
+          "durationFrames": 384,
+          "role": "authored-kept",
+          "narration": "and she inhales. She smells the exact distinctive biological scent of Ellie's her own daughter's sce"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30610,
+          "durationFrames": 160,
+          "role": "authored-kept",
+          "narration": "for herself and actively dresses Poppy in a flannel shirt exactly like the ones Ellie used to wear."
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 30770,
+          "durationFrames": 212,
+          "role": "authored-kept",
+          "narration": "She is treating this child like a living doll of her dead daughter. It is a profound, incredibly dis"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 30982,
+          "durationFrames": 223,
+          "role": "authored-kept",
+          "narration": "She is mapping the ghost directly onto the living child. I really struggled with this scene to be Wh"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "engine",
+      "fromFrame": 31205,
+      "durationFrames": 1305,
+      "durationSeconds": 43.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 31205,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "Because on one hand, it's deeply creepy, but on the other hand, isn't Laurel just a victim of a crue"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31421,
+          "durationFrames": 233,
+          "role": "partial_answer",
+          "narration": "Like, she is an innocent, traumatized mother who's suddenly faced with a motherless child who happen"
+        },
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 31654,
+          "durationFrames": 244,
+          "role": "question",
+          "narration": "It's a tragedy of timing and resemblance. Isn't she just projecting because she's trying to mother a"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 31898,
+          "durationFrames": 238,
+          "role": "complication",
+          "narration": "And we really have to challenge the idea of her complete innocence here, though, because Laurel isn'"
+        },
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 32136,
+          "durationFrames": 374,
+          "role": "reveal",
+          "narration": "She becomes actively complicit in the delusion. Yes. She begins to prefer the projection over realit"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "authored",
+      "fromFrame": 32510,
+      "durationFrames": 567,
+      "durationSeconds": 18.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32510,
+          "durationFrames": 404,
+          "role": "authored-start",
+          "narration": "All right. Blue. Blue is an outsider. She has clear eyes. And she tells Laurel that Floyd has a dark"
+        },
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 32914,
+          "durationFrames": 163,
+          "role": "authored-kept",
+          "narration": "She completely snaps. She cuts them off entirely. She refuses to hear it."
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "engine",
+      "fromFrame": 33077,
+      "durationFrames": 146,
+      "durationSeconds": 4.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 33077,
+          "durationFrames": 146,
+          "role": "reveal",
+          "narration": "She defends the illusion. She defends Floyd because the counterfeit Ellie,"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "authored",
+      "fromFrame": 33223,
+      "durationFrames": 461,
+      "durationSeconds": 15.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33223,
+          "durationFrames": 228,
+          "role": "authored-start",
+          "narration": "this beautiful lie where she gets to brush her daughter's hair again, feels so much better than the "
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 33451,
+          "durationFrames": 233,
+          "role": "authored-kept",
+          "narration": "She will protect the ghost even if she has to live in the house of a predator to do it. The lie is s"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "engine",
+      "fromFrame": 33684,
+      "durationFrames": 168,
+      "durationSeconds": 5.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 33684,
+          "durationFrames": 168,
+          "role": "reveal",
+          "narration": "because grief builds a counterfeit reality that we desperately want to move into."
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "authored",
+      "fromFrame": 33852,
+      "durationFrames": 1822,
+      "durationSeconds": 60.7,
+      "sceneCount": 7,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 33852,
+          "durationFrames": 238,
+          "role": "authored-start",
+          "narration": "Nailed it. And the truth is worse than anything she could have imagined. Which forces us to finally "
+        },
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 34090,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "The reality she is trying so hard not to see. We have to shift the timeline back to 2005. To the bas"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 34318,
+          "durationFrames": 278,
+          "role": "authored-kept",
+          "narration": "to the basement. We are in a basement guest room clad in dirty gold pine. It smells of damp wood, ro"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 34596,
+          "durationFrames": 374,
+          "role": "authored-kept",
+          "narration": "The window is set high and obscured by dirt. It's awful. Standing in the middle of the room is Noel "
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 34970,
+          "durationFrames": 212,
+          "role": "authored-kept",
+          "narration": "Very specific, unpleasant sensory Yeah. She stands over a heavily pregnant 15-year-old Ellie."
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35182,
+          "durationFrames": 285,
+          "role": "authored-kept",
+          "narration": "Noel throws a pink and white plastic cage filled with live hamsters onto the bed, demanding that Ell"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 35467,
+          "durationFrames": 207,
+          "role": "authored-kept",
+          "narration": "It is such a bizarre, terrifying scene because it completely subverts our expectations of what a mon"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "engine",
+      "fromFrame": 35674,
+      "durationFrames": 609,
+      "durationSeconds": 20.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 35674,
+          "durationFrames": 355,
+          "role": "setup",
+          "narration": "You know, we are we are conditioned by by media to like look for the the movie villain like in the s"
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 36029,
+          "durationFrames": 254,
+          "role": "reveal",
+          "narration": "in this case a suffocating pathological educational obsession. Right? And the benality of evil doesn"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "authored",
+      "fromFrame": 36283,
+      "durationFrames": 519,
+      "durationSeconds": 17.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36283,
+          "durationFrames": 312,
+          "role": "authored-start",
+          "narration": "Sometimes it looks like a math tutor with like, you know, sensible rubber sold shoes who's like maki"
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 36595,
+          "durationFrames": 207,
+          "role": "authored-kept",
+          "narration": "holds you hostage. The benality of Noel is precisely what makes her so terrifying. Her plan is so tw"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "engine",
+      "fromFrame": 36802,
+      "durationFrames": 1144,
+      "durationSeconds": 38.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 36802,
+          "durationFrames": 156,
+          "role": "setup",
+          "narration": "She couldn't have a baby, so she abducted her smartest student. Just horrific."
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 36958,
+          "durationFrames": 220,
+          "role": "question",
+          "narration": "Then she systematically went on the internet and bought sperm from a PhD student who happened to loo"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 37178,
+          "durationFrames": 209,
+          "role": "partial_answer",
+          "narration": "The green eyes, dark hair. Exactly. She used this to artificially inseminate her captive to create a"
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 37387,
+          "durationFrames": 348,
+          "role": "complication",
+          "narration": "All to trap Floyd into staying with her. It is staggering. The level of psychopathy is breathtaking."
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 37735,
+          "durationFrames": 211,
+          "role": "reveal",
+          "narration": "actually a criminal mastermind? How so? Think about it. She pulled off a flawless multi-year decepti"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "engine",
+      "fromFrame": 37946,
+      "durationFrames": 564,
+      "durationSeconds": 18.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 37946,
+          "durationFrames": 324,
+          "role": "setup",
+          "narration": "hiding a pregnant teenager in a terrace house on a busy London street right under the noses of the p"
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 38270,
+          "durationFrames": 240,
+          "role": "reveal",
+          "narration": "That takes genius level planning. You would think so, right? To pull this off for a decade seems to "
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "authored",
+      "fromFrame": 38510,
+      "durationFrames": 807,
+      "durationSeconds": 26.9,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 38510,
+          "durationFrames": 188,
+          "role": "authored-start",
+          "narration": "But if you look closely at the text, the most terrifying part is how sloppy she actually was."
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 38698,
+          "durationFrames": 292,
+          "role": "authored-kept",
+          "narration": "She wasn't a mastermind. She was deeply impulsive and incompetent. She leaves 20 hamsters to starve "
+        },
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 38990,
+          "durationFrames": 327,
+          "role": "authored-kept",
+          "narration": "O, right. She clumsily hits Ellie with a chair in a moment of panic. She gets drunk and leaves the k"
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "engine",
+      "fromFrame": 39317,
+      "durationFrames": 1217,
+      "durationSeconds": 40.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 39317,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "with it for 10 years? She got away with it because of a complete systemic failure of the institution"
+        },
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 39557,
+          "durationFrames": 180,
+          "role": "question",
+          "narration": "The police and the family were entirely blinded by their own confirmation bias."
+        },
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 39737,
+          "durationFrames": 247,
+          "role": "partial_answer",
+          "narration": "They had a pre-written narrative. Ellie was a highly stressed, overachieving teenager who ran away f"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 39984,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "Noel didn't outsmart the police. The police outsmarted themselves. by refusing to look past their ow"
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 40217,
+          "durationFrames": 317,
+          "role": "reveal",
+          "narration": "They downgraded the search because the runaway narrative was the path of least resistance. They comp"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "engine",
+      "fromFrame": 40534,
+      "durationFrames": 328,
+      "durationSeconds": 10.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 40534,
+          "durationFrames": 328,
+          "role": "reveal",
+          "narration": "toothbrush was still in the bathroom. They chose the easy story because institutional blindness, muc"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "authored",
+      "fromFrame": 40862,
+      "durationFrames": 2122,
+      "durationSeconds": 70.7,
+      "sceneCount": 8,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 40862,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "And Noel just slipped right through the cracks of that willful ignorance. Which brings us perfectly "
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 41114,
+          "durationFrames": 248,
+          "role": "authored-kept",
+          "narration": "The true nature of Floyd Dunn and the mechanics of his denial. We have this incredible scene where t"
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 41362,
+          "durationFrames": 331,
+          "role": "authored-kept",
+          "narration": "He is sitting alone in his study. The glow of the computer screen illuminates his face. He is watchi"
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 41693,
+          "durationFrames": 182,
+          "role": "authored-kept",
+          "narration": "He sees the photo of missing Ellie on the screen. He looks over at his daughter, Poppy,"
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 41875,
+          "durationFrames": 324,
+          "role": "authored-kept",
+          "narration": "and the horrific jigsaw puzzle clicks into place. It all comes together. He remembers Noel telling h"
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 42199,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "The sheer reality of what Noel did, of who Poppy really is, hits him in the dark of his office. It i"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 42485,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "For years, Floyd utilized intellectualized rationalization to ignore the glaring red flags about Noe"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 42732,
+          "durationFrames": 252,
+          "role": "authored-kept",
+          "narration": "So, what this means for you is that this rationalization allows supposedly good people, charming, ed"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "engine",
+      "fromFrame": 42984,
+      "durationFrames": 478,
+      "durationSeconds": 15.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 42984,
+          "durationFrames": 209,
+          "role": "setup",
+          "narration": "terrible tragedies unfolding right beneath them simply to protect their own comfort and their own eg"
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 43193,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "He knew things didn't add up. But looking too closely would require And we see his true character in"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "authored",
+      "fromFrame": 43462,
+      "durationFrames": 655,
+      "durationSeconds": 21.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 43462,
+          "durationFrames": 352,
+          "role": "authored-start",
+          "narration": "He knows absolutely that Noel abducted Ellie. So what does he do? Does he call the cops? No. Instead"
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 43814,
+          "durationFrames": 303,
+          "role": "authored-kept",
+          "narration": "sits there and calculates his own personal risk. He assumes his own sperm was used on the minor. He "
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "engine",
+      "fromFrame": 44117,
+      "durationFrames": 638,
+      "durationSeconds": 21.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 44117,
+          "durationFrames": 309,
+          "role": "setup",
+          "narration": "He decides to protect himself, his reputation, and his custody of Poppy over everything else. He cho"
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 44426,
+          "durationFrames": 329,
+          "role": "reveal",
+          "narration": "and she reveals that she actually used donor sperm to make Poppy, meaning Floyd has zero biological "
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "authored",
+      "fromFrame": 44755,
+      "durationFrames": 370,
+      "durationSeconds": 12.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 44755,
+          "durationFrames": 216,
+          "role": "authored-start",
+          "narration": "He shoves her, she hits her head, and she dies. And what does he do? He buries her under a newly dug"
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 44971,
+          "durationFrames": 154,
+          "role": "authored-kept",
+          "narration": "He literally buries the evidence of a monster to preserve his own life."
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "authored",
+      "fromFrame": 45125,
+      "durationFrames": 633,
+      "durationSeconds": 21.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 45125,
+          "durationFrames": 350,
+          "role": "authored-start",
+          "narration": "We really have to analyze his motivation here because it reveals the core of his pathology. I have t"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 45475,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "He is a father who was trapped by a literal psychopath. He thought he was protecting his innocent da"
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "authored",
+      "fromFrame": 45758,
+      "durationFrames": 536,
+      "durationSeconds": 17.9,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 45758,
+          "durationFrames": 154,
+          "role": "authored-start",
+          "narration": "He made an impossible, terrible, morally gray choice, but he did it to protect a child."
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 45912,
+          "durationFrames": 226,
+          "role": "authored-kept",
+          "narration": "It's almost Shakespearean. I understand why you'd want to view him that way, but the psychological e"
+        },
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 46138,
+          "durationFrames": 156,
+          "role": "authored-kept",
+          "narration": "It does. Floyd is not a protector. He is a textbook covert narcissist."
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "authored",
+      "fromFrame": 46294,
+      "durationFrames": 938,
+      "durationSeconds": 31.3,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 46294,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "Pay very close attention to the sequence of events and the trigger for his violence. He didn't kill "
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 46546,
+          "durationFrames": 151,
+          "role": "authored-kept",
+          "narration": "He knew Noel was profoundly unstable for years and happily left Poppy in her care."
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 46697,
+          "durationFrames": 249,
+          "role": "authored-kept",
+          "narration": "He only killed Noel in a rage because she bruised his ego by revealing Poppy wasn't genetically his."
+        },
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 46946,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "Exactly. His pride was wounded. He realized he was a pawn. And then rather than confessing and doing"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "engine",
+      "fromFrame": 47232,
+      "durationFrames": 1094,
+      "durationSeconds": 36.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 47232,
+          "durationFrames": 154,
+          "role": "setup",
+          "narration": "and then actively stalks the grieving mother of the abducted girl just to play God with her emotions"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 47386,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "That is so messed up. He wanted Laurel to love him, to look at him as a savior, to validate his own "
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 47674,
+          "durationFrames": 336,
+          "role": "complication",
+          "narration": "protecting a child. That is ultimate predatory narcissism using a traumatized woman as a mirror for "
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 48010,
+          "durationFrames": 316,
+          "role": "reveal",
+          "narration": "in a counterfeit reality. So he built one specifically for her with him at the center which makes th"
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "authored",
+      "fromFrame": 48326,
+      "durationFrames": 1695,
+      "durationSeconds": 56.5,
+      "sceneCount": 7,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 48326,
+          "durationFrames": 200,
+          "role": "authored-start",
+          "narration": "grief builds a counterfeit reality that we desperately want to move Right. And now we have to look a"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 48526,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "The moment the void finally closes. This is brutal. It takes place in a sterile interview room at Fi"
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 48744,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "The air is thick. A clammy-handed young detective named Dne slides 10 by8 photos across a table to L"
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 48948,
+          "durationFrames": 298,
+          "role": "authored-kept",
+          "narration": "We see the photos one by one. It's a horrific inventory. Just devastating. A navy rucks sack with a "
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 49246,
+          "durationFrames": 340,
+          "role": "authored-kept",
+          "narration": "A packet of swollen obscene tampons. Pale denim jeans. A tiny patchwork purse with a red pom pom. Th"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 49586,
+          "durationFrames": 190,
+          "role": "authored-kept",
+          "narration": "Dover. The physical reality of those items is crucial when you are dealing with ambiguous loss."
+        },
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 49776,
+          "durationFrames": 245,
+          "role": "authored-kept",
+          "narration": "What this means for you is that the collapse of hope is not just emotional. It is a violent sematic "
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "engine",
+      "fromFrame": 50021,
+      "durationFrames": 386,
+      "durationSeconds": 12.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 50021,
+          "durationFrames": 386,
+          "role": "reveal",
+          "narration": "When the final undeniable truth arrives, it forces the brain to instantly surrender the comforting g"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "authored",
+      "fromFrame": 50407,
+      "durationFrames": 1152,
+      "durationSeconds": 38.4,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 50407,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "She looks at the photos and she zeros in on the fact that Hannah's passport is in the bag. Yeah, tha"
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 50736,
+          "durationFrames": 348,
+          "role": "authored-kept",
+          "narration": "But Laurel's brain breaks. She desperately tries to convince the police that Ellie must have broken "
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 51084,
+          "durationFrames": 317,
+          "role": "authored-kept",
+          "narration": "the passport. She just can't accept it. She is sitting in a police station looking at rotting clothe"
+        },
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 51401,
+          "durationFrames": 158,
+          "role": "authored-kept",
+          "narration": "criminal burglar than a corpse in the woods. It is the ultimate refusal of reality."
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "engine",
+      "fromFrame": 51559,
+      "durationFrames": 1023,
+      "durationSeconds": 34.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 51559,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "But look, even though it's incredibly painful, isn't finding the bones the ultimate goal here? We al"
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 51794,
+          "durationFrames": 279,
+          "role": "question",
+          "narration": "It finally offers them psychological closure. The ambiguity is gone. They know she was hit by a car "
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 52073,
+          "durationFrames": 319,
+          "role": "complication",
+          "narration": "They can bury her femurss and her skull. The not knowing is over so they can finally begin to heal. "
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 52392,
+          "durationFrames": 190,
+          "role": "reveal",
+          "narration": "A myth. Finding the bones doesn't bring peace. It completely shatters Laurel's entire coping mechani"
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "engine",
+      "fromFrame": 52582,
+      "durationFrames": 535,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 52582,
+          "durationFrames": 278,
+          "role": "setup",
+          "narration": "For 10 years, the possibility of Ellie, the idea that she was living happily in Paris or working in "
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 52860,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "She isn't finding closure in that police station. She's being forcefully, violently evicted from her"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "authored",
+      "fromFrame": 53117,
+      "durationFrames": 437,
+      "durationSeconds": 14.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 53117,
+          "durationFrames": 257,
+          "role": "authored-start",
+          "narration": "They rob her of her Wow. The void is finally filled, but it's filled with concrete. The comforting r"
+        },
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 53374,
+          "durationFrames": 180,
+          "role": "authored-kept",
+          "narration": "dead, which leaves her exposed to the final heaviest burden of all, the inheritance."
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "source": "engine",
+      "fromFrame": 53554,
+      "durationFrames": 201,
+      "durationSeconds": 6.7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 53554,
+          "durationFrames": 201,
+          "role": "reveal",
+          "narration": "This is where the psychological complexity reaches its absolute peak. Let's drop into the final beat"
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "source": "authored",
+      "fromFrame": 53755,
+      "durationFrames": 915,
+      "durationSeconds": 30.5,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 53755,
+          "durationFrames": 156,
+          "role": "authored-start",
+          "narration": "Laurel is sitting in Floyd's empty study, bathed in the glow of his computer monitor."
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 53911,
+          "durationFrames": 163,
+          "role": "authored-kept",
+          "narration": "She clicks play on a video file. Floyd's face appears, tears in his eyes."
+        },
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 54074,
+          "durationFrames": 305,
+          "role": "authored-kept",
+          "narration": "He delivers a pre-recorded suicide confession. It's his final performance. Yeah. He explains why Noe"
+        },
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 54379,
+          "durationFrames": 291,
+          "role": "authored-kept",
+          "narration": "He explains why he stalked Laurel, the sick logic behind his actions. and he begs her as his final a"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "source": "engine",
+      "fromFrame": 54670,
+      "durationFrames": 482,
+      "durationSeconds": 16.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 54670,
+          "durationFrames": 223,
+          "role": "setup",
+          "narration": "It is the ultimate test of survival. What this means for you is that Laurel is forced to confront th"
+        },
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 54893,
+          "durationFrames": 259,
+          "role": "reveal",
+          "narration": "She is now tasked with raising a child who is simultaneously the living, breathing legacy of her mur"
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "source": "authored",
+      "fromFrame": 55152,
+      "durationFrames": 506,
+      "durationSeconds": 16.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 55152,
+          "durationFrames": 190,
+          "role": "authored-start",
+          "narration": "unimaginable psychopathic trauma. And we see what Laurel chooses to do. She returns to Poppy."
+        },
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 55342,
+          "durationFrames": 316,
+          "role": "authored-kept",
+          "narration": "She immediately lies to the 9-year-old. She claims Floyd died simply of a guilty conscience. Hiding "
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "source": "authored",
+      "fromFrame": 55658,
+      "durationFrames": 977,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 55658,
+          "durationFrames": 240,
+          "role": "authored-start",
+          "narration": "Just acts like everything is fine. We see them have Christmas together. Hannah is there. And in a bi"
+        },
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 55898,
+          "durationFrames": 243,
+          "role": "authored-kept",
+          "narration": "unsettling twist, Hannah is now happily dating Theo, Ellie's former boyfriend, whose DNA was used to"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 56141,
+          "durationFrames": 156,
+          "role": "authored-kept",
+          "narration": "They are all sitting around the Christmas tree. It is a tableau of forced normaly."
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 56297,
+          "durationFrames": 338,
+          "role": "authored-kept",
+          "narration": "It looks like a greeting card, but the subtext is horrifying. I have to say despite though despite h"
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "source": "engine",
+      "fromFrame": 56635,
+      "durationFrames": 199,
+      "durationSeconds": 6.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 56635,
+          "durationFrames": 199,
+          "role": "reveal",
+          "narration": "Uh it's like a forest fire making way for new growth. You know, the old canopy burns down, but the a"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "source": "authored",
+      "fromFrame": 56834,
+      "durationFrames": 1904,
+      "durationSeconds": 63.5,
+      "sceneCount": 7,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 56834,
+          "durationFrames": 411,
+          "role": "authored-start",
+          "narration": "It's a redemptive ending. Um Laurel gets Laurel finally gets her family back. You know, she gets a l"
+        },
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 57245,
+          "durationFrames": 182,
+          "role": "authored-kept",
+          "narration": "We really need to look closer at the foundation of that happy ending. Is it actually redemptive?"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 57427,
+          "durationFrames": 389,
+          "role": "authored-kept",
+          "narration": "Laurel has absorbed a literal trauma product into her family. They are sitting around a flashing Chr"
+        },
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 57816,
+          "durationFrames": 146,
+          "role": "authored-kept",
+          "narration": "mean, Poppy is wearing Ellie's face. Hannah is sleeping with Ellie's boyfriend."
+        },
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 57962,
+          "durationFrames": 332,
+          "role": "authored-kept",
+          "narration": "It's an entire ecosystem built on a foundation of massive unsaid horrors. Laurel lied to Poppy about"
+        },
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 58294,
+          "durationFrames": 187,
+          "role": "authored-kept",
+          "narration": "floorboards. She has essentially just built a brand new counterfeit reality to replace the old Man,"
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 58481,
+          "durationFrames": 257,
+          "role": "authored-kept",
+          "narration": "she traded one illusion for another just to survive because grief builds a counterfeit reality that "
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "source": "engine",
+      "fromFrame": 58738,
+      "durationFrames": 1003,
+      "durationSeconds": 33.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 58738,
+          "durationFrames": 158,
+          "role": "setup",
+          "narration": "Exactly. Which brings up a really fair push back from a structural standpoint."
+        },
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 58896,
+          "durationFrames": 336,
+          "role": "question",
+          "narration": "As we analyze all this deep psychology, we have to address the elephant in the room regarding the pl"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 59232,
+          "durationFrames": 314,
+          "role": "complication",
+          "narration": "reality? It's a very common critique of the book for sure, right? I mean, think about it. Floyd just"
+        },
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 59546,
+          "durationFrames": 195,
+          "role": "reveal",
+          "narration": "the street from Laurel. And then Laurel just randomly runs into Floyd at a cafe three doors down fro"
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "source": "engine",
+      "fromFrame": 59741,
+      "durationFrames": 1145,
+      "durationSeconds": 38.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 59741,
+          "durationFrames": 348,
+          "role": "setup",
+          "narration": "In real life, London is a massive sprawling city of nine million people. The odds of all these peopl"
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 60089,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "If the plot is unbelievable, does the psychology still hold up? It is a totally valid tension to hig"
+        },
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 60413,
+          "durationFrames": 228,
+          "role": "complication",
+          "narration": "doing. They're a narrative vehicle. They are designed specifically to force Laurel to confront her s"
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 60641,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "In real life, trauma doesn't usually resolve with a neat bow of coincidental cafe meetings and perfe"
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "source": "engine",
+      "fromFrame": 60886,
+      "durationFrames": 369,
+      "durationSeconds": 12.3,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 60886,
+          "durationFrames": 369,
+          "role": "reveal",
+          "narration": "But the emotional truth of this story, the reality of being completely blinded by what we desperatel"
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "source": "authored",
+      "fromFrame": 61255,
+      "durationFrames": 463,
+      "durationSeconds": 15.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 61255,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "is 100% accurate. The plot might be heightened, but the psychology of the grief is brutally, terrify"
+        },
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 61507,
+          "durationFrames": 211,
+          "role": "authored-kept",
+          "narration": "The mechanics of the trap might be fiction, but the human reaction to being caught in it is as real "
+        }
+      ]
+    },
+    {
+      "id": "seq-76",
+      "source": "authored",
+      "fromFrame": 61718,
+      "durationFrames": 1397,
+      "durationSeconds": 46.6,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 61718,
+          "durationFrames": 298,
+          "role": "authored-start",
+          "narration": "So, as we pull all of these threads together, we land on this really profound realization. Morning's"
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 62016,
+          "durationFrames": 322,
+          "role": "authored-kept",
+          "narration": "No, the trauma of the event is only the beginning. The hardest part isn't the horrific inventory at "
+        },
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 62338,
+          "durationFrames": 319,
+          "role": "authored-kept",
+          "narration": "process of accepting that the survival story you told yourself to get through the night, the blaming"
+        },
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 62657,
+          "durationFrames": 185,
+          "role": "authored-kept",
+          "narration": "child, the fantasy of the perfect runaway. That story was actually your final cage."
+        },
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 62842,
+          "durationFrames": 273,
+          "role": "authored-kept",
+          "narration": "You built it, you locked yourself in, and you threw away the key. We all build survival stories. We "
+        }
+      ]
+    },
+    {
+      "id": "seq-77",
+      "source": "engine",
+      "fromFrame": 63115,
+      "durationFrames": 879,
+      "durationSeconds": 29.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 63115,
+          "durationFrames": 149,
+          "role": "setup",
+          "narration": "random cruelty of the universe because the human brain demands a reason."
+        },
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 63264,
+          "durationFrames": 398,
+          "role": "question",
+          "narration": "The question is whether we are willing to look closely at the materials we use to build those storie"
+        },
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 63662,
+          "durationFrames": 332,
+          "role": "reveal",
+          "narration": "or are they keeping you captive to an illusion? Because the next time you look across a brightly lit"
+        }
+      ]
+    }
+  ]
+}

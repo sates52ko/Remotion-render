@@ -1,0 +1,142 @@
+{
+  "slug": "then-she-was-gone",
+  "engine": "antidote",
+  "at": "2026-11-12T06:30:01.120Z",
+  "write": true,
+  "written": true,
+  "problems": 0,
+  "byClass": {
+    "OPERATOR": 0,
+    "AGENT_STEP": 0,
+    "REAUTHOR": 0,
+    "ROUTINE": 0
+  },
+  "byCode": [],
+  "byFile": {},
+  "operatorNeeded": false,
+  "next": "merged — next: node scripts/preview-state.js status (it names the next step: readcheck for Antidote, make-book for Vox); routine, never end the turn",
+  "items": [],
+  "warnings": 0,
+  "review": [
+    {
+      "i": 1,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"BRIGHTLY LIT KITCHEN\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 3,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"FAMILIAR CUPID'S BOW\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 7,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ULTIMATE PSYCHOLOGICAL AMBUSH\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 8,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"STANDARD ABDUCTION THRILLER\" repeats the narration and nothing else on screen carries the meaning (lone figure, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 13,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"CRITICAL TO HUMAN PSYCHOLOGY\" repeats the narration and nothing else on screen carries the meaning (lone figure, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 16,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"CANNOT HANDLE A VOID\" repeats the narration and nothing else on screen carries the meaning (lone figure, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 41,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"OVERWHELMING HATRED FOR HIM\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 76,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"FLEETING MEANINGLESS THOUGHT\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 95,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"THE REALITY IS MUCH DARKER\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 104,
+      "code": "EARLY_TEXT",
+      "field": "callout",
+      "why": "\"PRECOCIOUS ADULT ENTITLEMENT\" shows \"adult entitlement\" before the narration says it (beat 105) — move the text to that beat or use this beat's words",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 120,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"PASSIVE VICTIM OF COINCIDENCE\" repeats the narration and nothing else on screen carries the meaning (lone point, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 130,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"A BASEMENT GUEST ROOM\" repeats the narration and nothing else on screen carries the meaning (lone figure, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 170,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"PRESERVE HIS OWN LIFE\" repeats the narration and nothing else on screen carries the meaning (lone think, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 171,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"A TRAGIC ANTI-HERO\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 172,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"PROTECTING HIS INNOCENT DAUGHTER\" repeats the narration and nothing else on screen carries the meaning (lone talk, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 177,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"LEFT POPPY IN HER CARE\" repeats the narration and nothing else on screen carries the meaning (lone idle, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    },
+    {
+      "i": 217,
+      "code": "ECHO_ONLY_CARRIER",
+      "field": "callout",
+      "why": "the callout \"ASHES FERTILIZE THE SOIL\" repeats the narration and nothing else on screen carries the meaning (lone figure, no object/icon/diagram) — text-carried",
+      "signal": "REVIEW_REQUIRED"
+    }
+  ],
+  "refused": {}
+}

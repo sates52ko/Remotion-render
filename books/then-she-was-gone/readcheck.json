@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-12T06:58:26.296Z",
+  "n": 244,
+  "total": 244,
+  "sources": [
+    "readcheck",
+    "recheck-1"
+  ],
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "then-she-was-gone-prep-02daa7589c0e",
+    "folders": {
+      "readcheck": {
+        "run": "then-she-was-gone-prep-02daa7589c0e",
+        "evidenceSha256": "a90aad1daf40d340f38ad8a3aaa98bea15f5cd4cf41aef4d08f3bef83a0c610a"
+      },
+      "recheck-1": {
+        "run": "then-she-was-gone-prep-e85e7c6629e2",
+        "evidenceSha256": "9e237c7453f4c8ebf0f8aff0cd47bc8865f868520c14e85dd1edce6fe265a014"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 226,
+    "NEUTRAL": 4,
+    "WRONG": 14
+  },
+  "wrongRate": 0.057,
+  "blame": {
+    "people": 3,
+    "words": 9,
+    "icon": 2,
+    "diagram": 1,
+    "body": 2,
+    "face": 1
+  },
+  "iconBlame": {
+    "medical": 1,
+    "mask": 1
+  },
+  "beats": [
+    {
+      "i": 34,
+      "verdict": "WRONG",
+      "blame": "people",
+      "why": "The viewer assumes Ellie was arguing with her mother rather than her brother because only Ellie is shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "STANDING IN THE KITCHEN"
+    },
+    {
+      "i": 36,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The viewer misinterprets two minutes later as Laurel failing to run after her daughter after a fight rather than the timing of Ellie departure.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "TWO MINUTES LATER"
+    },
+    {
+      "i": 41,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The viewer assumes Laurel hates her husband for not driving Ellie to school rather than irrationally resenting him simply for being sick.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "OVERWHELMING HATRED FOR HIM"
+    },
+    {
+      "i": 44,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "The guess frames the bodily overdrive as a fight-or-flight response rather than an immune system reaction.",
+      "from": "readcheck",
+      "concept": "medical",
+      "callout": "MASSIVE OVERDRIVE"
+    },
+    {
+      "i": 55,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "The guess views the two buckets as two separate disasters rather than a psychological substitution of one for the other.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 59,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The viewer assumes Laurel is fixating on the morning Ellie disappeared rather than the details of Hannah flat.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "HYPERFIXATING ON SMALLEST DETAILS"
+    },
+    {
+      "i": 60,
+      "verdict": "WRONG",
+      "blame": "body",
+      "why": "Showing Laurel holding the phone leads the viewer to believe a ringing phone triggered her panic.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "PLUME OF TERROR"
+    },
+    {
+      "i": 62,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The viewer assumes the panic is about Ellie rather than Hannah.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "NOT ABOUT HER SAFETY"
+    },
+    {
+      "i": 122,
+      "verdict": "WRONG",
+      "blame": "people",
+      "why": "Showing only Laurel leads the viewer to believe Laurel is presenting a fake self rather than Floyd.",
+      "from": "readcheck",
+      "concept": "mask",
+      "callout": "PRESENTING A FAKE SELF"
+    },
+    {
+      "i": 146,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "The worried expression leads the viewer to focus on an anxious state rather than her sloppiness.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE MOST TERRIFYING PART"
+    },
+    {
+      "i": 153,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The on-screen words lead the viewer to believe criminal methods were learned from library books rather than an abductee leaving only with her books.",
+      "from": "readcheck",
+      "concept": "book",
+      "callout": "ONLY HER LIBRARY BOOKS"
+    },
+    {
+      "i": 162,
+      "verdict": "WRONG",
+      "blame": "icon",
+      "why": "The theatre mask icon leads the viewer to suspect active deception of others rather than charming people rationalizing away tragedies to protect their own comfort.",
+      "from": "readcheck",
+      "concept": "mask",
+      "callout": "CHARMING AND EDUCATED PEOPLE"
+    },
+    {
+      "i": 169,
+      "verdict": "WRONG",
+      "blame": "body",
+      "why": "The walking pose and afraid expression lead the viewer to believe he fled after discovering a grave rather than burying the body himself.",
+      "from": "readcheck",
+      "concept": "grave",
+      "callout": "A NEWLY DUG FLOWER BED"
+    },
+    {
+      "i": 194,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The on-screen words lead the viewer to believe an external burglar is being discussed rather than Laurel imagining her daughter as the thief.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A CALLOUS ESTRANGED BURGLAR"
+    },
+    {
+      "i": 199,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The crossed-out words suggest that closure being a myth is rejected, contradicting the narrator's point that closure is indeed a myth.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "CLOSURE IS A TOTAL MYTH"
+    },
+    {
+      "i": 202,
+      "verdict": "WRONG",
+      "blame": "words",
+      "why": "The on-screen words cause the viewer to interpret the metaphorical void filled with concrete as a literal grave filled with concrete.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "FILLED WITH CONCRETE"
+    },
+    {
+      "i": 237,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The on-screen words highlight bones in the woods without indicating the narrator's comparative point that this is not the hardest part.",
+      "from": "readcheck",
+      "concept": "grave",
+      "callout": "BONES IN THE WOODS"
+    },
+    {
+      "i": 238,
+      "verdict": "WRONG",
+      "blame": "people",
+      "why": "Staging mother and daughter together causes the viewer to believe they are collaborating on a shared survival story rather than hearing how the mother's survival story ignored her daughter.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE SURVIVAL STORY"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 17,
+    "wrong": [
+      {
+        "i": 41,
+        "code": "ECHO_ONLY_CARRIER"
+      }
+    ],
+    "neutral": [],
+    "cleared": 16,
+    "unread": []
+  }
+}

@@ -1,0 +1,729 @@
+[
+  {
+    "i": 90,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLEARED OUT THE BANK ACCOUNTS",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "cast": ["floyd", "laurel"],
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Floyd fabricates a sob story about his abandoned daughter to manufacture instant emotional intimacy with Laurel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd invents a sob story of abandonment and theft to manufacture sympathy.",
+      "concreteVisual": "Floyd sits in a dimly lit cafe looking sorrowful while Laurel listens with concern.",
+      "onScreenText": "CLEARED OUT THE BANK ACCOUNTS",
+      "relationToPrevious": "Picks up from their first dinner as Floyd begins his manufactured oversharing.",
+      "addedInformation": "Shows Laurel absorbing his false sob story before the calculation is revealed."
+    }
+  },
+  {
+    "i": 91,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "LAYING OUT THE BAIT",
+      "style": "box"
+    },
+    "set": "cafe",
+    "cast": ["floyd"],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "Floyd deploys his tragedy story as calculated bait to lure Laurel into an unearned bond.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd's tragic disclosure is a deliberate trap designed to hook Laurel.",
+      "concreteVisual": "Floyd smirking beside the chess knight icon, pointing at his calculated maneuver.",
+      "onScreenText": "LAYING OUT THE BAIT",
+      "relationToPrevious": "Exposes the manufactured sob story from beat 90 as a predatory maneuver.",
+      "addedInformation": "Frames his vulnerability as a chess move rather than genuine emotional openness."
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE SHAPE OF EACH OTHER'S GRIEF",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "twoShot",
+    "cast": ["laurel", "floyd"],
+    "expression": "sad",
+    "action": "sit",
+    "partnerExpression": "sad",
+    "partnerAction": "sit",
+    "explainedBy": "The hosts articulate the seductive illusion that Laurel and Floyd are simply two broken survivors finding comfort in shared grief.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts explain why the bond felt natural: two people recognizing shared grief.",
+      "concreteVisual": "Laurel and Floyd seated together in a cafe, both reflecting deep sorrow.",
+      "onScreenText": "THE SHAPE OF EACH OTHER'S GRIEF",
+      "relationToPrevious": "Explores the host's sympathetic first impression of their fast connection.",
+      "addedInformation": "Captures the perceived symmetry of their pain before that symmetry is debunked."
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A SHORTCUT TO INTIMACY",
+      "style": "highlight"
+    },
+    "set": "cafe",
+    "continue": true,
+    "cast": ["laurel", "floyd"],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "partnerAction": "reach",
+    "explainedBy": "Laurel's emotional exhaustion makes her accept an accelerated shortcut to intimacy that feels like serendipitous healing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Exhausted by tragedy, they skip ordinary courtship for immediate closeness.",
+      "concreteVisual": "Laurel slumped in exhaustion across the table as Floyd reaches toward her.",
+      "onScreenText": "A SHORTCUT TO INTIMACY",
+      "relationToPrevious": "Deepens beat 92's scene: grief creates an accelerated route to emotional attachment.",
+      "addedInformation": "Shows Laurel's vulnerability as physical exhaustion making her receptive to his advances."
+    }
+  },
+  {
+    "i": 94,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "NOT SERENDIPITY",
+      "style": "strike"
+    },
+    "cast": ["floyd"],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "mask",
+    "explainedBy": "The analysis rejects the romance framing, exposing Floyd's predatory mirroring as a calculated mask rather than serendipity.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Predatory mirroring shatters the comforting myth of serendipitous romance.",
+      "concreteVisual": "Floyd holds a deceptive mask with a calculating smirk as serendipity is struck out.",
+      "onScreenText": "NOT SERENDIPITY (struck through)",
+      "relationToPrevious": "Shatters the sympathetic scene from beats 92-93 by unmasking Floyd's calculated performance.",
+      "addedInformation": "The mask makes tangible the false face constructed specifically to mimic her pain."
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE REALITY IS MUCH DARKER",
+      "style": "reveal"
+    },
+    "set": "office",
+    "cast": ["floyd"],
+    "expression": "smirk",
+    "action": "think",
+    "explainedBy": "Floyd did not meet Laurel by chance; he entered the relationship already knowing her identity and history.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd did not stumble into Laurel by accident; he targeted her deliberately.",
+      "concreteVisual": "Floyd in his academic office, wearing a cold calculating smirk.",
+      "onScreenText": "THE REALITY IS MUCH DARKER",
+      "relationToPrevious": "Moves from the abstract concept of mirroring to Floyd's deliberate targeting.",
+      "addedInformation": "Places Floyd in his intellectual domain where calculation replaces empathy."
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PRESS CLIPPINGS OF ELLIE",
+      "style": "box"
+    },
+    "set": "office",
+    "cast": ["floyd"],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "notes",
+    "explainedBy": "Floyd spent years compiling press clippings about Ellie's disappearance to construct a detailed psychological dossier on Laurel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd obsessively collected press coverage of Ellie's disappearance for years.",
+      "concreteVisual": "Floyd in his office holding a dense stack of documented press clippings.",
+      "onScreenText": "PRESS CLIPPINGS OF ELLIE",
+      "relationToPrevious": "Shows the physical evidence of Floyd's decade-long premeditated obsession.",
+      "addedInformation": "Gives physical form to the psychological dossier he compiled on Laurel's trauma."
+    }
+  },
+  {
+    "i": 97,
+    "concept": "key",
+    "diagram": null,
+    "callout": {
+      "text": "THE PSYCHOLOGICAL KEYHOLE",
+      "style": "highlight"
+    },
+    "cast": ["floyd"],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "key",
+    "explainedBy": "Floyd tailors his performance of loss into an exact psychological key designed to bypass Laurel's defenses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd tailors his counterfeit grief to match the precise contour of Laurel's loss.",
+      "concreteVisual": "Floyd offering a brass key while smirking, symbolizing tailored psychological access.",
+      "onScreenText": "THE PSYCHOLOGICAL KEYHOLE",
+      "relationToPrevious": "Connects the research in beat 96 to the live manipulation at the table.",
+      "addedInformation": "Translates the audio's keyhole metaphor into an active gesture of manipulation."
+    }
+  },
+  {
+    "i": 98,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "DROP HER GUARD",
+      "style": "reveal"
+    },
+    "cast": ["laurel"],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Laurel drops her defensive guard because Floyd weaponizes the exact vocabulary of her missing child.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd weaponizes the missing person trope to force Laurel to drop her defenses.",
+      "concreteVisual": "Laurel standing slumped in sorrow beside the shield icon as her emotional guard collapses.",
+      "onScreenText": "DROP HER GUARD",
+      "relationToPrevious": "The consequence of Floyd's tailored manipulation in beat 97: Laurel disarms herself.",
+      "addedInformation": "Visually contrasts her emotional surrender against the psychological shield she needed."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": ["PERFORMANCE OF EMPATHY", "EXTRACTION"]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Covert narcissism weaponizes the outward performance of empathy as a mechanical instrument for emotional extraction.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Covert narcissists perform empathy not for connection but for psychological extraction.",
+      "concreteVisual": "A two-step flow diagram linking performance of empathy directly to extraction.",
+      "onScreenText": "PERFORMANCE OF EMPATHY -> EXTRACTION",
+      "relationToPrevious": "Abstracts Floyd's behavior into a psychological mechanism.",
+      "addedInformation": "Shows that empathy in this dynamic is an input toward an extractive goal."
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A COUNTERFEIT REALITY",
+      "style": "box"
+    },
+    "cast": ["floyd"],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Floyd fabricates a counterfeit domestic reality to satisfy his narcissistic desire to be seen as the ultimate savior.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd creates an artificial world where he casts himself as the noble savior.",
+      "concreteVisual": "Floyd gesturing with a self-satisfied smirk as he frames his manufactured world.",
+      "onScreenText": "A COUNTERFEIT REALITY",
+      "relationToPrevious": "Builds on the extractive narcissism from beat 99: he builds a fantasy to flatter his ego.",
+      "addedInformation": "Highlights his vanity rather than genuine devotion to Laurel."
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HANDS HER THE KEYS",
+      "style": "reveal"
+    },
+    "cast": ["floyd", "laurel"],
+    "expression": "smirk",
+    "action": "offer",
+    "holds": "key",
+    "partnerExpression": "sad",
+    "partnerAction": "reach",
+    "explainedBy": "Floyd hands Laurel the keys to his fabricated reality, completing the psychological entrapment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd offers Laurel entry into a seductive illusion of domestic recovery.",
+      "concreteVisual": "Floyd offering a key to Laurel, who reaches toward it in desperate hope.",
+      "onScreenText": "HANDS HER THE KEYS",
+      "relationToPrevious": "Translates the counterfeit reality of beat 100 into a physical exchange of entry.",
+      "addedInformation": "Stages the transaction of illusion where Laurel trades scrutiny for comfort."
+    }
+  },
+  {
+    "i": 102,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "THE TRAP SNAPS SHUT",
+      "style": "box"
+    },
+    "cast": ["laurel"],
+    "expression": "afraid",
+    "action": "stop",
+    "explainedBy": "Laurel's acceptance of Floyd's false sanctuary seals the trap, locking her inside his domestic orbit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The psychological snare closes completely as Laurel enters Floyd's domestic domain.",
+      "concreteVisual": "Laurel freezing in sudden dread beside the chains icon as the trap closes.",
+      "onScreenText": "THE TRAP SNAPS SHUT",
+      "relationToPrevious": "Marks the transition from psychological seduction to the shocking physical confrontation.",
+      "addedInformation": "Visualizes the sudden confinement before the physical reveal in the kitchen."
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "RUNS INTO NINE-YEAR-OLD POPPY",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "cast": ["laurel", "poppy"],
+    "expression": "surprised",
+    "action": "stop",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel backs out of Floyd's kitchen the morning after their first night and unexpectedly runs into nine-year-old Poppy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The morning after sleeping with Floyd, Laurel unexpectedly collides with his young daughter.",
+      "concreteVisual": "Laurel stopping abruptly in a sunny London kitchen as nine-year-old Poppy stands before her.",
+      "onScreenText": "RUNS INTO NINE-YEAR-OLD POPPY",
+      "relationToPrevious": "Begins the pivotal kitchen sequence, plunging Laurel from romantic intimacy into shock.",
+      "addedInformation": "Establishes the physical collision between adult secrecy and the hidden child."
+    }
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PRECOCIOUS ADULT ENTITLEMENT",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": ["poppy", "laurel"],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "surprised",
+    "partnerAction": "idle",
+    "explainedBy": "Poppy smiles with crooked teeth, displaying an unnerving adult entitlement that deepens the tension.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy exhibits an unnerving, adult-like poise rather than childish innocence.",
+      "concreteVisual": "Poppy smiling with sharp confidence in the kitchen as Laurel watches in disbelief.",
+      "onScreenText": "PRECOCIOUS ADULT ENTITLEMENT",
+      "relationToPrevious": "Focuses closely on Poppy's unsettling demeanor in the continued kitchen encounter.",
+      "addedInformation": "Contrasts the child's small stature with her domineering, adult-like presence."
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OFFERS LAUREL COFFEE",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": ["poppy", "laurel"],
+    "expression": "neutral",
+    "action": "offer",
+    "holds": "cup",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Poppy casually offers Laurel coffee while Laurel clutches the doorframe, overwhelmed by the child's identical resemblance to Ellie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy offers coffee while Laurel staggers from the uncanny physical resemblance to Ellie.",
+      "concreteVisual": "Poppy holding out a coffee cup while Laurel grips the doorway in sheer terror.",
+      "onScreenText": "OFFERS LAUREL COFFEE",
+      "relationToPrevious": "Escalates the kitchen encounter: a mundane domestic gesture triggers horrifying realization.",
+      "addedInformation": "Shows the stark contrast between the child's casual hospitality and the mother's terror."
+    }
+  },
+  {
+    "i": 106,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MATHEMATICALLY IDENTICAL",
+      "style": "box"
+    },
+    "set": "kitchen",
+    "cast": ["laurel"],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "Laurel recognizes that Poppy's mouth and eyes are mathematically identical to Ellie's, triggering real-world uncanny valley horror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The child's facial structure is an exact genetic match for Laurel's missing daughter.",
+      "concreteVisual": "Laurel clutching Ellie's photograph in horror as the mathematical match registers.",
+      "onScreenText": "MATHEMATICALLY IDENTICAL",
+      "relationToPrevious": "Consolidates the kitchen shock into clinical recognition of identical features.",
+      "addedInformation": "Uses the missing child photo to confirm why Laurel's reaction is terror rather than confusion."
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": ["ALMOST HUMAN", "DEEPLY UNSETTLING"],
+      "values": [0.85]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The hosts define the uncanny valley as the visceral psychological disturbance felt when something is almost human yet unnervingly off.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The uncanny valley occurs when an entity appears almost completely human but slightly wrong.",
+      "concreteVisual": "A spectrum diagram charting the descent from almost human into deeply unsettling.",
+      "onScreenText": "ALMOST HUMAN <-> DEEPLY UNSETTLING",
+      "relationToPrevious": "Provides the theoretical framework for Laurel's visceral revulsion in beat 106.",
+      "addedInformation": "Translates the audio's psychological definition into an objective measurable scale."
+    }
+  },
+  {
+    "i": 108,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A PROFOUND BIOLOGICAL ALARM",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": ["laurel"],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "Laurel's maternal body triggers an evolutionary biological alarm upon recognizing the physical continuation of her own lineage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's biology sounds an ancient evolutionary alarm that bypasses conscious thought.",
+      "concreteVisual": "Laurel slumped in visceral shock as her maternal instinct signals impossible biological recognition.",
+      "onScreenText": "A PROFOUND BIOLOGICAL ALARM",
+      "relationToPrevious": "Applies the uncanny valley concept directly to Laurel's physiological response.",
+      "addedInformation": "Emphasizes that her terror originates in instinctive biology rather than rational deduction."
+    }
+  },
+  {
+    "i": 109,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": ["DNA ECHO", "RATIONAL REFUSAL"]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Laurel's genetic instinct recognizes Ellie's DNA in Poppy, but her rational mind refuses to accept the monstrous implication.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Maternal DNA recognizes genetic lineage, but conscious reason blocks the implication.",
+      "concreteVisual": "A two-stage flow diagram contrasting the DNA echo against rational refusal.",
+      "onScreenText": "DNA ECHO -> RATIONAL REFUSAL",
+      "relationToPrevious": "Dissects the internal collision between biological instinct and cognitive defense.",
+      "addedInformation": "Visualizes the psychological stalemate where instinct is silenced by rational denial."
+    }
+  },
+  {
+    "i": 110,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TOO MONSTROUS TO COMPREHEND",
+      "style": "box"
+    },
+    "cast": ["laurel"],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The cognitive dissonance overwhelms Laurel because accepting Poppy's parentage requires confronting an unthinkable horror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The truth is so horrific that Laurel's psyche fractures under cognitive dissonance.",
+      "concreteVisual": "Laurel slumped in acute mental anguish, paralyzed by impossible contradictions.",
+      "onScreenText": "TOO MONSTROUS TO COMPREHEND",
+      "relationToPrevious": "Shows the emotional paralysis caused by the conflict mapped in beat 109.",
+      "addedInformation": "Portrays the agony of holding two irreconcilable realities at the same time."
+    }
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HER OWN GRANDCHILD",
+      "style": "highlight"
+    },
+    "cast": ["laurel"],
+    "expression": "blank",
+    "action": "slump",
+    "explainedBy": "Laurel stands before her biological grandchild, but the horrific reality forces her mind into total defensive denial.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel is face to face with her grandchild, but total denial slams shut.",
+      "concreteVisual": "Laurel standing with a blank, dissociated stare as her mind blocks out reality.",
+      "onScreenText": "HER OWN GRANDCHILD",
+      "relationToPrevious": "Names the unspeakable reality that forces Laurel into complete psychological shutdown.",
+      "addedInformation": "The blank expression shows the defensive dissociation protecting her from the truth."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A SHOPPING TRIP TO BRENT CROSS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": ["laurel", "poppy"],
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel takes Poppy on a rainy shopping trip to Brent Cross and begins undoing her braids to brush her hair.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel takes Poppy shopping and begins physically grooming her like her lost daughter.",
+      "concreteVisual": "Laurel talking gently to Poppy while undoing her braided hair in a quiet fitting room.",
+      "onScreenText": "A SHOPPING TRIP TO BRENT CROSS",
+      "relationToPrevious": "Transitions from abstract denial to Laurel's active reenactment of maternal habits.",
+      "addedInformation": "Shows the intimate physical touch that begins Laurel's disturbing transference."
+    }
+  },
+  {
+    "i": 113,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE DISTINCTIVE BIOLOGICAL SCENT",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": ["laurel", "poppy"],
+    "expression": "surprised",
+    "action": "think",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel inhales Poppy's hair, recognizing Ellie's unmistakable biological scent and losing herself to maternal muscle memory.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Inhaling Ellie's biological scent triggers Laurel's automatic maternal muscle memory.",
+      "concreteVisual": "Laurel freezing in sensory shock beside Poppy as scent memory overtakes her.",
+      "onScreenText": "THE DISTINCTIVE BIOLOGICAL SCENT",
+      "relationToPrevious": "Deepens the grooming sequence: sensory olfactory recognition breaks her restraint.",
+      "addedInformation": "Grounds the emotional regression in an involuntary physical and biological reflex."
+    }
+  },
+  {
+    "i": 114,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DRESSES POPPY LIKE ELLIE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": ["laurel", "poppy"],
+    "expression": "neutral",
+    "action": "point",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel rejects Poppy's clothing preferences and dresses her in flannel shirts identical to Ellie's wardrobe.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel overrides Poppy's choices and dresses the girl in Ellie's signature clothing.",
+      "concreteVisual": "Laurel pointing at Ellie-style flannel clothing to dress the compliant child.",
+      "onScreenText": "DRESSES POPPY LIKE ELLIE",
+      "relationToPrevious": "The physical manifestation of transference: replacing Poppy's identity with Ellie's.",
+      "addedInformation": "Shows Laurel actively recreating her lost daughter's visual wardrobe on the child."
+    }
+  },
+  {
+    "i": 115,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A LIVING DOLL",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": ["laurel", "poppy"],
+    "expression": "neutral",
+    "action": "point",
+    "partnerExpression": "blank",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel dehumanizes Poppy by turning her into a living doll to reenact life with her dead daughter.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel treats the living girl as an inanimate vessel for her deceased daughter.",
+      "concreteVisual": "Laurel posing Poppy like a mannequin as the child stands with a blank, doll-like expression.",
+      "onScreenText": "A LIVING DOLL",
+      "relationToPrevious": "Names the moral pathology underlying the dressing and styling of the child.",
+      "addedInformation": "Poppy's blank passivity visualizes the horrifying loss of her own individuality."
+    }
+  },
+  {
+    "i": 116,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MAPPING THE GHOST ONTO THE CHILD",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": ["laurel", "poppy"],
+    "expression": "sad",
+    "action": "think",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel maps the ghost of Ellie directly onto Poppy, erasing the living child in order to resurrect the dead.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel overlays Ellie's memory onto Poppy, erasing the real child's autonomy.",
+      "concreteVisual": "Laurel staring past Poppy into thin air, superimposing her grief over the girl.",
+      "onScreenText": "MAPPING THE GHOST ONTO THE CHILD",
+      "relationToPrevious": "Concludes the Brent Cross sequence with the critical analytical verdict.",
+      "addedInformation": "Visually separates Laurel's gaze from the actual child to show psychological erasure."
+    }
+  },
+  {
+    "i": 117,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A CRUEL STATISTICAL ANOMALY",
+      "style": "reveal"
+    },
+    "cast": ["laurel"],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The hosts weigh the disturbing nature of Laurel's behavior against the argument that she is merely a victim of an unthinkable coincidence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The host weighs whether Laurel is acting monstrously or suffering an impossible coincidence.",
+      "concreteVisual": "Laurel standing in deep contemplation beside the balance scale icon weighing her moral fault.",
+      "onScreenText": "A CRUEL STATISTICAL ANOMALY",
+      "relationToPrevious": "Steps back from the dressing scene to debate Laurel's moral responsibility.",
+      "addedInformation": "The scales reflect the tension between condemning her behavior and sympathizing with her trauma."
+    }
+  },
+  {
+    "i": 118,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN INNOCENT TRAUMATIZED MOTHER",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": ["laurel"],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The sympathetic reading frames Laurel as an innocent, shattered mother simply responding to a motherless child who mirrors her lost daughter.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sympathetic view casts Laurel as an innocent victim overwhelmed by tragic resemblance.",
+      "concreteVisual": "Laurel bowed in sorrow, embodying the fragile posture of an unhealed grieving mother.",
+      "onScreenText": "AN INNOCENT TRAUMATIZED MOTHER",
+      "relationToPrevious": "Articulates the defense side of the debate introduced in beat 117.",
+      "addedInformation": "Strips away judgment to show her raw maternal grief as the driving force."
+    }
+  },
+  {
+    "i": 119,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TRAGEDY OF TIMING",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "cast": ["laurel", "poppy"],
+    "expression": "sad",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The host questions whether Laurel's projection is actually driven by a sincere maternal impulse to care for a child who needs a mother.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The host asks whether her projection is just an honest attempt to nurture a neglected child.",
+      "concreteVisual": "Laurel speaking gently to Poppy in a warm kitchen, offering maternal protection.",
+      "onScreenText": "A TRAGEDY OF TIMING",
+      "relationToPrevious": "Extends the sympathetic defense: framing her actions as mutual maternal rescue.",
+      "addedInformation": "Stages genuine care to make the host's rhetorical defense plausible before it is refuted."
+    }
+  },
+  {
+    "i": 120,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PASSIVE VICTIM OF COINCIDENCE",
+      "style": "strike"
+    },
+    "cast": ["laurel"],
+    "expression": "worried",
+    "action": "point",
+    "explainedBy": "The analysis challenges Laurel's presumed innocence, firmly rejecting the notion that she is merely a passive victim of coincidence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The analysis rejects the excuse that Laurel is merely an innocent, passive victim.",
+      "concreteVisual": "Laurel confronted with her own actions as the victim excuse is struck through.",
+      "onScreenText": "PASSIVE VICTIM OF COINCIDENCE (struck through)",
+      "relationToPrevious": "Directly strikes down the sympathetic defense built up across beats 117-119.",
+      "addedInformation": "The strikethrough visibly dismantles the excuse of passive helplessness."
+    }
+  },
+  {
+    "i": 121,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PREFERS PROJECTION OVER REALITY",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": ["laurel"],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "Laurel becomes actively complicit in the delusion, choosing to preserve the comforting projection of Ellie rather than face reality.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel actively embraces the comforting falsehood, choosing fantasy over the painful truth.",
+      "concreteVisual": "Laurel clinging to Ellie's framed photo in a darkened room, withdrawing into delusion.",
+      "onScreenText": "PREFERS PROJECTION OVER REALITY",
+      "relationToPrevious": "Reaches the moral conclusion of chunk 3: Laurel's complicity in sustaining the lie.",
+      "addedInformation": "The held photo shows the past she refuses to surrender in favor of actual reality."
+    }
+  }
+]

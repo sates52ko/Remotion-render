@@ -1,0 +1,865 @@
+[
+  {
+    "i": 169,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "A NEWLY DUG FLOWER BED",
+      "style": "reveal"
+    },
+    "set": "street",
+    "shotOverride": "wide",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "afraid",
+    "action": "walk",
+    "holds": null,
+    "explainedBy": "Floyd conceals his accidental killing of Noelle by burying her body under a newly dug flower bed in his garden.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd buries Noelle in his garden after killing her in a rage.",
+      "concreteVisual": "Floyd walking anxiously beside a newly dug garden earth mound marked by a grave icon.",
+      "onScreenText": "A NEWLY DUG FLOWER BED",
+      "relationToPrevious": "Follows Floyd confronting Noelle; stages the aftermath of the killing.",
+      "addedInformation": "Frames the garden burial as a frantic criminal cover-up rather than an innocent accident."
+    }
+  },
+  {
+    "i": 170,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PRESERVE HIS OWN LIFE",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "street",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Floyd chooses self-preservation over justice by burying the evidence of the crime.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd hides the crime solely to preserve his own reputation and freedom.",
+      "concreteVisual": "Floyd remains on the street, standing in anxious contemplation as he calculates his self-preservation.",
+      "onScreenText": "PRESERVE HIS OWN LIFE",
+      "relationToPrevious": "Continues the garden burial scene, zooming in on Floyd's internal moral calculation.",
+      "addedInformation": "Emphasizes his calculated priority of self-protection over remorse or doing the right thing."
+    }
+  },
+  {
+    "i": 171,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TRAGIC ANTI-HERO",
+      "style": "reveal"
+    },
+    "set": "office",
+    "shotOverride": "medium",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "The host questions whether Floyd can be interpreted as a tragic anti-hero rather than a monster.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The discussion opens up the debate over Floyd's motivation and alleged anti-hero status.",
+      "concreteVisual": "Floyd in his scholarly office speaking with a sorrowful expression, projecting a wounded intellectual facade.",
+      "onScreenText": "A TRAGIC ANTI-HERO",
+      "relationToPrevious": "Shifts from the physical crime to analytical debate about Floyd's character archetype.",
+      "addedInformation": "Visualizes the tempting but misleading defense of Floyd as a sympathetic, wounded father."
+    }
+  },
+  {
+    "i": 172,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PROTECTING HIS INNOCENT DAUGHTER",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "office",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "The defense argues Floyd acted out of a fatherly duty to protect Poppy from the foster system or an abuser.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sympathetic reading argues Floyd was trapped by Noelle and trying to protect Poppy.",
+      "concreteVisual": "Floyd continues speaking in his office, gesticulating with earnest anxiety about protecting his daughter.",
+      "onScreenText": "PROTECTING HIS INNOCENT DAUGHTER",
+      "relationToPrevious": "Continues the office discussion, presenting the fatherly rationalization of his crimes.",
+      "addedInformation": "Highlights the father's moral dilemma while strictly avoiding any depiction of the child beside him."
+    }
+  },
+  {
+    "i": 173,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "TRAGIC PROTECTOR",
+        "COVERT NARCISSIST"
+      ],
+      "values": [
+        0.15
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A spectrum framework maps Floyd's defense initially as an alleged tragic protector making a gray moral choice.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The defense frames Floyd's choice as morally gray protection of a child.",
+      "concreteVisual": "A continuum spectrum displaying TRAGIC PROTECTOR on the left and COVERT NARCISSIST on the right, with the marker near TRAGIC PROTECTOR at 0.15.",
+      "onScreenText": "TRAGIC PROTECTOR / COVERT NARCISSIST",
+      "relationToPrevious": "Formalizes the narrative argument into a diagnostic spectrum between two opposing psychological models.",
+      "addedInformation": "Positions the defense's initial claim at the far protector end of the scale before dismantling it."
+    }
+  },
+  {
+    "i": 174,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "TRAGIC PROTECTOR",
+        "COVERT NARCISSIST"
+      ],
+      "values": [
+        0.55
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The psychological evidence challenges the Shakespearean defense, shifting the marker toward narcissism.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The book's psychological evidence tears apart the tragic protector defense.",
+      "concreteVisual": "The same spectrum continues, with the indicator marker sliding across the center line toward the narcissist pole at 0.55.",
+      "onScreenText": "TRAGIC PROTECTOR / COVERT NARCISSIST",
+      "relationToPrevious": "Continues the spectrum diagram as the host begins systematically refuting the defense.",
+      "addedInformation": "Visually tracks the shift in analytical stance from sympathetic rationalization toward hard evidence."
+    }
+  },
+  {
+    "i": 175,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "TRAGIC PROTECTOR",
+        "COVERT NARCISSIST"
+      ],
+      "values": [
+        0.95
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The analysis concludes that Floyd is a textbook covert narcissist rather than any kind of protector.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd is definitively classified as a textbook covert narcissist.",
+      "concreteVisual": "The spectrum completes its movement, firmly locking the indicator at 0.95 directly over COVERT NARCISSIST.",
+      "onScreenText": "TRAGIC PROTECTOR / COVERT NARCISSIST",
+      "relationToPrevious": "Completes the three-beat spectrum sequence with the definitive psychological verdict.",
+      "addedInformation": "Anchors the host's clinical diagnosis with visual finality."
+    }
+  },
+  {
+    "i": 176,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TRIGGER FOR HIS VIOLENCE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "blank",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Examining the timeline proves Floyd never acted to protect Poppy from abuse.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The actual trigger for Floyd's violence was not saving Poppy from an abuser.",
+      "concreteVisual": "Floyd in a stark room with a flat, cold expression, lost in cold calculation.",
+      "onScreenText": "TRIGGER FOR HIS VIOLENCE",
+      "relationToPrevious": "Transitions from the theoretical spectrum to the concrete timeline of Floyd's actions.",
+      "addedInformation": "Strips Floyd of his warm professorial veneer to expose his cold emotional detachment."
+    }
+  },
+  {
+    "i": 177,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LEFT POPPY IN HER CARE",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "holds": null,
+    "explainedBy": "Floyd knowingly tolerated Noelle's profound instability for years because it suited his convenience.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd was completely comfortable leaving Poppy with an unstable captor for years.",
+      "concreteVisual": "Floyd stands in the same stark room with a complacent smirk, revealing his complicit negligence.",
+      "onScreenText": "LEFT POPPY IN HER CARE",
+      "relationToPrevious": "Continues the breakdown of Floyd's timeline, contrasting his claimed protection with years of indifference.",
+      "addedInformation": "Exposes his long-term complicity: he only intervened when his own ego was struck."
+    }
+  },
+  {
+    "i": 178,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A NARCISSISTIC INJURY",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "holds": null,
+    "explainedBy": "Floyd killed Noelle in a fury because she wounded his ego by revealing Poppy was not biologically his.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The fatal confrontation was sparked purely by a narcissistic injury to Floyd's ego.",
+      "concreteVisual": "Floyd gestures furiously with an enraged scowl, displaying the wounded pride that caused the homicide.",
+      "onScreenText": "A NARCISSISTIC INJURY",
+      "relationToPrevious": "Reveals the true trigger for the murder after exposing his prior complacency.",
+      "addedInformation": "Dramatizes the sudden eruption of rage when his biological ownership of the child was shattered."
+    }
+  },
+  {
+    "i": 179,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BURIES THE BODY",
+      "style": "highlight"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Realizing he was a pawn, Floyd buries Noelle's body and retains the child rather than confessing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Rather than confessing, Floyd conceals the corpse and keeps the child to maintain his status.",
+      "concreteVisual": "Floyd stands calculating with a predatory smirk, choosing concealment and control over moral restitution.",
+      "onScreenText": "BURIES THE BODY",
+      "relationToPrevious": "Shows the immediate consequence of the narcissistic injury: deliberate cover-up and theft.",
+      "addedInformation": "Connects the domestic killing to the subsequent kidnapping cover-up."
+    }
+  },
+  {
+    "i": 180,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PLAY GOD WITH HER EMOTIONS",
+      "style": "reveal"
+    },
+    "set": "street",
+    "shotOverride": "twoShot",
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "partnerExpression": "sad",
+    "holds": null,
+    "explainedBy": "Floyd actively targets and stalks Laurel to manipulate her grief and play God.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd actively stalks Laurel Mack to manipulate her maternal grief.",
+      "concreteVisual": "Floyd walking with an insidious smirk on a London street while watching the grieving Laurel who walks ahead unaware and heartbroken.",
+      "onScreenText": "PLAY GOD WITH HER EMOTIONS",
+      "relationToPrevious": "Transitions from Floyd's secret domestic crime to his predatory pursuit of Ellie's mother.",
+      "addedInformation": "Visualizes the predatory stalking dynamic: Floyd shadowing Laurel while feeding on her sorrow."
+    }
+  },
+  {
+    "i": 181,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LOOK AT HIM AS A SAVIOR",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "twoShot",
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "holds": null,
+    "explainedBy": "Floyd engineers their romance so Laurel views him as a savior to validate his twisted self-worth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd craved Laurel's adoration to validate his own twisted self-worth.",
+      "concreteVisual": "Floyd talking with smooth calculated charm across a cafe table while Laurel listens with anxious vulnerability.",
+      "onScreenText": "LOOK AT HIM AS A SAVIOR",
+      "relationToPrevious": "Moves from street stalking to the intimate cafe encounters where Floyd stages his savior persona.",
+      "addedInformation": "Shows the artificial intimacy Floyd constructs to feed his narcissistic need for adulation."
+    }
+  },
+  {
+    "i": 182,
+    "concept": "mirror",
+    "diagram": null,
+    "callout": {
+      "text": "A MIRROR FOR HIS OWN EGO",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "holds": null,
+    "explainedBy": "Floyd uses Laurel's trauma as a mirror to reflect and elevate his narcissistic ego.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd's relationship with Laurel is predatory narcissism using her trauma as an ego mirror.",
+      "concreteVisual": "Floyd pointing toward an ornate mirror icon that reflects his smiling face, isolating his vanity.",
+      "onScreenText": "A MIRROR FOR HIS OWN EGO",
+      "relationToPrevious": "Deepens the psychological analysis of the cafe relationship, naming the mirror mechanism.",
+      "addedInformation": "Makes literal the narrator's metaphor of using a traumatized partner as an admiring reflection."
+    }
+  },
+  {
+    "i": 183,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "A COUNTERFEIT REALITY",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "shotOverride": "medium",
+    "cast": [
+      "floyd"
+    ],
+    "expression": "smirk",
+    "action": "reach",
+    "holds": null,
+    "explainedBy": "Floyd constructs an entire counterfeit reality around Laurel with himself as the central master.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd engineered a tailored counterfeit reality with himself positioned at its center.",
+      "concreteVisual": "Floyd reaching toward a puppeteer icon, symbolizing his deliberate puppet-mastering of Laurel's domestic life.",
+      "onScreenText": "A COUNTERFEIT REALITY",
+      "relationToPrevious": "Elevates the ego-mirror concept into the total fabrication of an artificial domestic world.",
+      "addedInformation": "Visualizes the puppeteering control Floyd exercises over Laurel's fragile emotional world."
+    }
+  },
+  {
+    "i": 184,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE DISCOVERY OF THE REMAINS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "The counterfeit reality shatters with the transition to the grim discovery of Ellie's remains.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The narrative pivots from Floyd's illusions to the brutal discovery of Ellie's physical remains.",
+      "concreteVisual": "Laurel sitting slumped in sorrow in a stark room, facing the impending collapse of her ten-year hope.",
+      "onScreenText": "THE DISCOVERY OF THE REMAINS",
+      "relationToPrevious": "Pivots from Floyd's psychological manipulation to the police revelation of physical evidence.",
+      "addedInformation": "Prepares the emotional ground for the devastating forensic evidence awaiting her at the station."
+    }
+  },
+  {
+    "i": 185,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A STERILE INTERVIEW ROOM",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "shotOverride": "wide",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "sit",
+    "holds": null,
+    "explainedBy": "Laurel sits in a sterile police interview room where the ten-year void is about to close.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The revelation occurs inside a sterile interview room at Finsbury Park Police Station.",
+      "concreteVisual": "Laurel seated stiffly in a sterile institutional room under harsh fluorescent lighting, gripped by dread.",
+      "onScreenText": "A STERILE INTERVIEW ROOM",
+      "relationToPrevious": "Establishes the physical institutional setting where the cold case reaches its forensic conclusion.",
+      "addedInformation": "Captures the claustrophobic chill of the police station setting before the evidence is presented."
+    }
+  },
+  {
+    "i": 186,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SLIDES PHOTOS ACROSS A TABLE",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "take",
+    "actionCue": "slides",
+    "holds": "photo",
+    "explainedBy": "The detective slides forensic photos across the table to Laurel, who reaches for them in horror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A detective slides 10x8 photographs of cold case evidence across the table to Laurel.",
+      "concreteVisual": "Laurel at the interview table reaching out to take the photographs slid before her.",
+      "onScreenText": "SLIDES PHOTOS ACROSS A TABLE",
+      "relationToPrevious": "The detective initiates the evidentiary reveal by sliding the crime scene photos forward.",
+      "addedInformation": "Stages the exact physical deed of receiving the photographic proof of Ellie's death."
+    }
+  },
+  {
+    "i": 187,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A HORRIFIC INVENTORY",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "Laurel examines the photos displaying Ellie's personal belongings: her school rucksack and pencil case.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The photos present a horrific inventory of Ellie's belongings: rucksack and pencil case.",
+      "concreteVisual": "Laurel holds the crime scene photograph, staring downward in devastated grief at Ellie's school gear.",
+      "onScreenText": "A HORRIFIC INVENTORY",
+      "relationToPrevious": "Continues holding the photo as the narration inventories the tragic personal artifacts.",
+      "addedInformation": "Keeps the photographic evidence in Laurel's hand as mundane school objects become forensic relics."
+    }
+  },
+  {
+    "i": 188,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PULLED FROM THE DIRT",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "The photos display intimate rotting clothing and detritus pulled from the dirt near Dover.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The undeniable detritus of a fifteen-year-old girl has been pulled from the earth.",
+      "concreteVisual": "Laurel continues clutching the photograph with a horrified expression as the grim forensic items are detailed.",
+      "onScreenText": "PULLED FROM THE DIRT",
+      "relationToPrevious": "Continues the photo sequence, confronting increasingly intimate and decomposed physical evidence.",
+      "addedInformation": "Emphasizes the brutal visceral reality of decayed clothing unearthed after a decade."
+    }
+  },
+  {
+    "i": 189,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DEALING WITH AMBIGUOUS LOSS",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "The concrete physical reality of the unearthed objects shatters a decade of ambiguous loss.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Physical evidence is the devastating turning point when dealing with ambiguous loss.",
+      "concreteVisual": "Laurel slumps over the table still holding the photo, crushed by the undeniable materiality of the loss.",
+      "onScreenText": "DEALING WITH AMBIGUOUS LOSS",
+      "relationToPrevious": "Concludes the inventory sequence by naming the psychological concept of ambiguous loss.",
+      "addedInformation": "Frames physical proof as both agonizing destruction of hope and undeniable reality."
+    }
+  },
+  {
+    "i": 190,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE COLLAPSE OF HOPE",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "The collapse of hope is a violent somatic event that overwhelms the body.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The collapse of long-held hope operates as a violent somatic shock to the body.",
+      "concreteVisual": "Laurel grips the evidence photograph with trembling terror, registering physical visceral shock.",
+      "onScreenText": "THE COLLAPSE OF HOPE",
+      "relationToPrevious": "Deepens the psychological impact of the photos into an acute physiological trauma.",
+      "addedInformation": "Captures the physical embodiment of grief: shock that attacks the body as well as the mind."
+    }
+  },
+  {
+    "i": 191,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SURRENDER THE GHOST STORIES",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "Undeniable proof forces the brain to surrender comforting ghost stories, but Laurel fights to keep them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Truth forces the mind to surrender comforting illusions, sparking desperate psychological resistance.",
+      "concreteVisual": "Laurel in the police room wrestling internally, torn between undeniable truth and desperate denial.",
+      "onScreenText": "SURRENDER THE GHOST STORIES",
+      "relationToPrevious": "Shifts from somatic shock to cognitive resistance against accepting Ellie's death.",
+      "addedInformation": "Dramatizes the mental gymnastics of a parent resisting the finality of their child's death."
+    }
+  },
+  {
+    "i": 192,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HANNAH'S PASSPORT IN THE BAG",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "surprised",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "Laurel spots Hannah's passport in Ellie's bag and seizes on it as proof of an alternate theory.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel fixates on the discovery of Hannah's passport inside the recovered bag.",
+      "concreteVisual": "Laurel inspects the photo with sudden intensity, pointing out the passport detail in desperate hope.",
+      "onScreenText": "HANNAH'S PASSPORT IN THE BAG",
+      "relationToPrevious": "Focuses on the specific forensic anomaly Laurel seizes upon to rebuild her denial.",
+      "addedInformation": "Shows how an ambiguous detail becomes an immediate lifeline for desperate denial."
+    }
+  },
+  {
+    "i": 193,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AN UNSOLVED BURGLARY",
+      "style": "highlight"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "holds": "photo",
+    "explainedBy": "Laurel invents an elaborate scenario where Ellie broke into their house during a burglary to steal the passport.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel invents a wild theory that Ellie burglarized their home years later to take the passport.",
+      "concreteVisual": "Laurel frantically argues across the police table, holding the photo while pleading her burglary theory.",
+      "onScreenText": "AN UNSOLVED BURGLARY",
+      "relationToPrevious": "Illustrates the irrational theory Laurel constructs to explain away the passport.",
+      "addedInformation": "Visualizes the extreme lengths to which grief will construct absurd explanations over acceptance."
+    }
+  },
+  {
+    "i": 194,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A CALLOUS ESTRANGED BURGLAR",
+      "style": "reveal"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "talk",
+    "holds": "photo",
+    "explainedBy": "Laurel would literally prefer to believe her daughter is an estranged criminal burglar than dead.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel would rather believe Ellie became a cold criminal runaway than acknowledge she is dead.",
+      "concreteVisual": "Laurel continues her tearful pleading, preferring to brand her child a thief rather than a corpse.",
+      "onScreenText": "A CALLOUS ESTRANGED BURGLAR",
+      "relationToPrevious": "Deepens the tragic paradox of preferring a morally fallen living child to a murdered one.",
+      "addedInformation": "Captures the heartbreaking defense mechanism: any living scenario is preferable to a grave."
+    }
+  },
+  {
+    "i": 195,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE ULTIMATE REFUSAL OF REALITY",
+      "style": "highlight"
+    },
+    "continue": true,
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "Sitting amidst rotting evidence, Laurel's denial represents the ultimate refusal of reality.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Refusing the forensic proof of Ellie's remains is the ultimate defense against unbearable reality.",
+      "concreteVisual": "Laurel clutching the evidence photo to her chest in terrified defiance of the forensic facts.",
+      "onScreenText": "THE ULTIMATE REFUSAL OF REALITY",
+      "relationToPrevious": "Sums up the police station interrogation sequence with the core psychological diagnosis.",
+      "addedInformation": "Cements the theme that denial is an active, desperate defense against annihilation."
+    }
+  },
+  {
+    "i": 196,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "FINDING THE BONES",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "The host questions whether finding the bones finally fulfills the family's search for closure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Popular belief assumes finding a missing victim's bones provides essential family closure.",
+      "concreteVisual": "Laurel slumped in sorrow beside a stark grave icon, embodying the grim arrival of the remains.",
+      "onScreenText": "FINDING THE BONES",
+      "relationToPrevious": "Transitions from Laurel's denial in the interview room to the cultural myth of closure.",
+      "addedInformation": "Contrasts the grim physical reality of unearthed bones with the promised comfort of closure."
+    }
+  },
+  {
+    "i": 197,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PSYCHOLOGICAL CLOSURE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "think",
+    "holds": null,
+    "explainedBy": "The conventional argument asserts that knowing the facts eliminates ambiguity and offers closure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The conventional assumption is that learning the truth brings psychological closure.",
+      "concreteVisual": "Laurel in close-up with downcast, sorrowful eyes, contemplating the hollow promise of closure.",
+      "onScreenText": "PSYCHOLOGICAL CLOSURE",
+      "relationToPrevious": "Articulates the conventional argument before the opposing host tears it down.",
+      "addedInformation": "Frames psychological closure as an elusive cultural promise that fails under severe trauma."
+    }
+  },
+  {
+    "i": 198,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FINALLY BEGIN TO HEAL",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "The speaker states the belief that burying the remains ends the not knowing and starts healing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Society believes burying physical remains ends the ambiguity and allows healing to begin.",
+      "concreteVisual": "Laurel standing bowed in mourning beside the interview table, representing burial of the remains.",
+      "onScreenText": "FINALLY BEGIN TO HEAL",
+      "relationToPrevious": "Completes the case for closure by picturing the formal burial of the skull and bones.",
+      "addedInformation": "Sets up the conventional expectation of healing just as the critical counter-argument strikes."
+    }
+  },
+  {
+    "i": 199,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLOSURE IS A TOTAL MYTH",
+      "style": "strike"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "The host rejects the closure narrative, stating that finding the bones shatters Laurel's coping mechanism.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In severe trauma, closure is a total myth that destroys coping mechanisms instead of bringing peace.",
+      "concreteVisual": "Laurel recoils in shock in the police room, struck by the total destruction of her mental defense.",
+      "onScreenText": "CLOSURE IS A TOTAL MYTH",
+      "relationToPrevious": "Directly rejects the preceding claim of healing with a struck refutation.",
+      "addedInformation": "Uses a struck callout to firmly reject the comforting cliché of closure."
+    }
+  },
+  {
+    "i": 200,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LIVING HAPPILY IN PARIS",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "closeUp",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "hold",
+    "holds": "photo",
+    "explainedBy": "For a decade, the fantasy that Ellie was living happily in a Paris cafe kept Laurel alive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "For ten years, the fantasy of Ellie living alive and happy in Paris was Laurel's sole lifeline.",
+      "concreteVisual": "Laurel clutching Ellie's childhood photo to her heart with wistful, aching grief.",
+      "onScreenText": "LIVING HAPPILY IN PARIS",
+      "relationToPrevious": "Explains why finding the bones shatters Laurel: it destroys her ten-year survival fantasy.",
+      "addedInformation": "Shows how the illusion of a runaway child in Europe kept the mother alive through the dark."
+    }
+  },
+  {
+    "i": 201,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EVICTED FROM HER SAFE SPACE",
+      "style": "reveal"
+    },
+    "set": "room",
+    "shotOverride": "medium",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "holds": null,
+    "explainedBy": "Rather than receiving closure, Laurel is violently evicted from her delusional safe space.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The discovery of bones does not bring peace; it violently evicts Laurel from her survival space.",
+      "concreteVisual": "Laurel slumps forward in complete devastation, her protective illusions stripped away forever.",
+      "onScreenText": "EVICTED FROM HER SAFE SPACE",
+      "relationToPrevious": "Concludes Chunk 5 with the brutal truth of what forensic evidence actually inflicts.",
+      "addedInformation": "Defines the arrival of the bones as a violent eviction rather than a peaceful ending."
+    }
+  }
+]

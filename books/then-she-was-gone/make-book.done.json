@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-12T08:32:17.106Z",
+  "at": "2026-11-12T08:33:34.615Z",
+  "config": "config.antidote.json",
+  "configSha256": "b4fba94e070f036163449356e6a2608cad10805d1512abe75177f60da4573e0d",
+  "inputs": {
+    "storyboard": {
+      "path": "books/then-she-was-gone/art.json",
+      "sha256": "40b68f5262a19ecf07c0588a536273f4ee8ecbd9f981116a3ca74fe1c74051b2"
+    },
+    "storyBible": {
+      "path": "books/then-she-was-gone/story-bible.json",
+      "sha256": "4cfb0c938948469ed170f01e7dde5c3c44e0e6fb88f40d313fb69ebf186c3f54"
+    },
+    "motifs": {
+      "path": "books/then-she-was-gone/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/then-she-was-gone.vtt",
+      "sha256": "c5d763bb3916232e0431ccc2197a80c44d52e433859d5421f2af12c59b70e2e2"
+    },
+    "audio": {
+      "path": "public/audio/then-she-was-gone.mp3",
+      "sha256": "0357cb19672fd8eccb2a4b066dbebb6463a1b6692f3e2ade1db6e53cf10ebef4"
+    },
+    "singleRelation": {
+      "path": "books/then-she-was-gone/single-relation/active.json",
+      "sha256": null
+    }
+  },
+  "head": "1313d9b1122b28c59fa739662100862548553595",
+  "previewOnly": true,
+  "skipPack": true
+}

@@ -1,0 +1,227 @@
+{
+ "schema": "single-relation-candidates/1",
+ "slug": "then-she-was-gone",
+ "at": "2026-11-12T06:59:29.449Z",
+ "capability": "single-relation/1",
+ "level": "Level 1 — default OFF; candidates are proposals, nothing is applied",
+ "scenes": 244,
+ "causalBeats": 19,
+ "listed": 4,
+ "configHash": "b4fba94e070f0361",
+ "candidates": [
+  {
+   "sceneIndex": 11,
+   "sceneId": "scene-11",
+   "evidence": "And that vacuum creates this insatiable appetite for comforting illusions.",
+   "cause": "And that vacuum",
+   "effect": "this insatiable appetite for comforting illusions.",
+   "cue": "creates",
+   "inputHash": "f78251bf3e4b2dd7",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "And that vacuum → this insatiable appetite for comforting illusions.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 36,
+   "sceneId": "scene-36",
+   "evidence": "It's that exact benality of the before that makes the after so unendurable.",
+   "cause": "It's that exact benality of the before that",
+   "effect": "the after so unendurable.",
+   "cue": "makes",
+   "inputHash": "93e08896ffe833a1",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "It's that exact benality of the before that → the after so unendurable.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 108,
+   "sceneId": "scene-108",
+   "evidence": "So, what this means for you here is that it triggers a profound evolutionary biological alarm.",
+   "cause": "So, what this means for you here is that it",
+   "effect": "a profound evolutionary biological alarm.",
+   "cue": "triggers",
+   "inputHash": "6efa9fe2635c4ba8",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "So, what this means for you here is that it → a profound evolutionary biological alarm.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  },
+  {
+   "sceneIndex": 176,
+   "sceneId": "scene-176",
+   "evidence": "Pay very close attention to the sequence of events and the trigger for his violence.",
+   "cause": "Pay very close attention to the sequence of events and",
+   "effect": "for his violence.",
+   "cue": "trigger",
+   "inputHash": "0b19bbbc0e459a86",
+   "currentLimitation": "people + on-screen words only (shot medium) — no object or diagram shows the effect; a muted viewer gets it from words or a face",
+   "proposedRepresentation": "B cause → effect: the cause marked, a token, a pause, the effect visibly changes another entity (one locked frame)",
+   "proposedMechanism": "cause-effect",
+   "expectedUnderstanding": "Pay very close attention to the sequence of events and → for his violence.",
+   "risk": "the two ends must be drawable as entities named in the narration; if not, or if the author finds the claim not asserted, fall back to the authored scene (or a quote card)"
+  }
+ ],
+ "rejected": [
+  {
+   "sceneIndex": 4,
+   "sceneId": "scene-04",
+   "evidence": "The mother actually has to grip the door frame to stay standing because this child, she isn't just similar.",
+   "cause": "this child, she isn't just similar.",
+   "effect": "The mother actually has to grip the door frame to",
+   "cue": "because",
+   "inputHash": "e5c280d936006080",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"isn't\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 17,
+   "sceneId": "scene-17",
+   "evidence": "When there is no ending, the brain is forced into this state of perpetual hyperarousal.",
+   "cause": "When there is no ending, the brain is",
+   "effect": "into this state of perpetual hyperarousal.",
+   "cue": "forced",
+   "inputHash": "652ea357b33a7fb3",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 41,
+   "sceneId": "scene-41",
+   "evidence": "She hates him simply because he is sick.",
+   "cause": "he is sick.",
+   "effect": "She hates him simply",
+   "cue": "because",
+   "inputHash": "0fe96d15f48b10fc",
+   "rejectClass": "an end that is only a pronoun",
+   "reason": "an end that is only a pronoun cue — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 93,
+   "sceneId": "scene-93",
+   "evidence": "They are just two broken people finding a shortcut to intimacy because they don't have the energy for small talk anymore.",
+   "cause": "they don't have the energy for small talk anymore.",
+   "effect": "They are just two broken people finding a shortcut to",
+   "cue": "because",
+   "inputHash": "c542c9893c1c575e",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"don't\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 120,
+   "sceneId": "scene-120",
+   "evidence": "And we really have to challenge the idea of her complete innocence here, though, because Laurel isn't just a passive victim of coincidence.",
+   "cause": "Laurel isn't just a passive victim of coincidence.",
+   "effect": "And we really have to challenge the idea of her",
+   "cue": "because",
+   "inputHash": "9cad573a1aa785a4",
+   "rejectClass": "planned / hypothetical",
+   "reason": "planned / hypothetical cue (\"idea of\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 138,
+   "sceneId": "scene-138",
+   "evidence": "The benality of Noel is precisely what makes her so terrifying.",
+   "cause": "The benality of Noel is precisely what",
+   "effect": "her so terrifying.",
+   "cue": "makes",
+   "inputHash": "8b52fdd67a0edcd3",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 141,
+   "sceneId": "scene-141",
+   "evidence": "She used this to artificially inseminate her captive to create a perfect child.",
+   "cause": "She used this to artificially inseminate her captive to",
+   "effect": "a perfect child.",
+   "cue": "create",
+   "inputHash": "5e8472ea53f5e6b6",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 149,
+   "sceneId": "scene-149",
+   "evidence": "She got away with it because of a complete systemic failure of the institutions around her.",
+   "cause": "a complete systemic failure of the institutions around her.",
+   "effect": "She got away with it",
+   "cue": "because of",
+   "inputHash": "c0d6937d17f4b4f5",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 153,
+   "sceneId": "scene-153",
+   "evidence": "They downgraded the search because the runaway narrative was the path of least resistance.",
+   "cause": "the runaway narrative was the path of least resistance.",
+   "effect": "They downgraded the search",
+   "cue": "because",
+   "inputHash": "bffc559c648417e6",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 171,
+   "sceneId": "scene-171",
+   "evidence": "We really have to analyze his motivation here because it reveals the core of his pathology.",
+   "cause": "it reveals the core of his pathology.",
+   "effect": "We really have to analyze his motivation here",
+   "cue": "because",
+   "inputHash": "41985e6def963a76",
+   "rejectClass": "obligation / advice",
+   "reason": "obligation / advice cue (\"have to\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 178,
+   "sceneId": "scene-178",
+   "evidence": "He only killed Noel in a rage because she bruised his ego by revealing Poppy wasn't genetically his.",
+   "cause": "she bruised his ego by revealing Poppy wasn't genetically his.",
+   "effect": "He only killed Noel in a rage",
+   "cue": "because",
+   "inputHash": "1b1b2c7dff02111d",
+   "rejectClass": "negation",
+   "reason": "negation cue (\"wasn't\") — not an asserted, drawable relation; stays as authored (or a quote card)"
+  },
+  {
+   "sceneIndex": 209,
+   "sceneId": "scene-209",
+   "evidence": "What this means for you is that Laurel is forced to confront this impossible paradox of inheritance.",
+   "cause": "What this means for you is that Laurel is",
+   "effect": "to confront this impossible paradox of inheritance.",
+   "cue": "forced",
+   "inputHash": "ab9a46f293e99ec8",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 224,
+   "sceneId": "scene-224",
+   "evidence": "she traded one illusion for another just to survive because grief builds a counterfeit reality that we desperately want to move into.",
+   "cause": "grief builds a counterfeit reality that we desperately want to",
+   "effect": "she traded one illusion for another just to survive",
+   "cue": "because",
+   "inputHash": "bce62646285eafb3",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 231,
+   "sceneId": "scene-231",
+   "evidence": "They are designed specifically to force Laurel to confront her shadow self.",
+   "cause": "They are designed specifically to",
+   "effect": "Laurel to confront her shadow self.",
+   "cue": "force",
+   "inputHash": "91b0c9e372b42da4",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  },
+  {
+   "sceneIndex": 241,
+   "sceneId": "scene-241",
+   "evidence": "random cruelty of the universe because the human brain demands a reason.",
+   "cause": "the human brain demands a reason.",
+   "effect": "random cruelty of the universe",
+   "cue": "because",
+   "inputHash": "d78ea99a3fdec12a",
+   "reason": "the scene already shows an object / diagram that can carry the effect — keep the authored storyboard"
+  }
+ ]
+}

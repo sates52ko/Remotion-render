@@ -1,0 +1,37 @@
+{
+  "runs": [
+    {
+      "label": "final",
+      "date": "2026-11-12T08:28:52.524Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 29,
+        "ADDS": 25,
+        "TEXT_ONLY": 5,
+        "EXPLAINS": 3,
+        "NEUTRAL": 1
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": true,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "036afa2e9f1b492d658b985f83bace048a3979e299ea63dbed565517ce018aa5",
+      "verdict": true,
+      "dead": 0,
+      "addsTargetMet": true,
+      "evidenceSha256": "aab77dbe02423261a7546db5c84ae009f5ae1acbb8139934a2ce79ffec8f0d85",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 83,
+      "configSha256": "b4fba94e070f036163449356e6a2608cad10805d1512abe75177f60da4573e0d",
+      "renderInputHash": "23710416a15a89a4",
+      "codeHead": "1313d9b1122b28c59fa739662100862548553595",
+      "framesConfigSha": "b4fba94e070f0361"
+    }
+  ]
+}

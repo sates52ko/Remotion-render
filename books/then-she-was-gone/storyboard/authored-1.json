@@ -1,0 +1,1169 @@
+[
+  {
+    "i": 0,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A TRAP",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "Laurel hesitates at the threshold between rational suspicion of a trap and desperate maternal longing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Maternal desire forces Laurel to step into a psychological trap that her intellect warns her against.",
+      "concreteVisual": "Laurel stands in a shadowed doorway, hand to her chin in conflicted hesitation.",
+      "onScreenText": "A TRAP",
+      "relationToPrevious": "Cold open: establishing the central psychological dilemma.",
+      "addedInformation": "Visualises the internal friction between intellect and grief through Laurel's conflicted stance."
+    }
+  },
+  {
+    "i": 1,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BRIGHTLY LIT KITCHEN",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The passage establishes Laurel standing frozen in Floyd's sunlit kitchen before the shock.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The setting begins with an ordinary, brightly lit kitchen.",
+      "concreteVisual": "Laurel standing in the bright morning light of an orderly London kitchen.",
+      "onScreenText": "BRIGHTLY LIT KITCHEN",
+      "relationToPrevious": "Transitions from abstract theme to the specific domestic setting.",
+      "addedInformation": "Establishes the deceptively peaceful domestic baseline before the psychological shock."
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SIMPLY MAKING COFFEE",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": [
+      "laurel",
+      "poppy"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The kitchen sequence introduces Poppy making coffee while Laurel stares in growing disbelief.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy performs a mundane domestic task while Laurel watches in growing shock.",
+      "concreteVisual": "In the kitchen, Laurel stares transfixed as young Poppy calmly prepares coffee.",
+      "onScreenText": "SIMPLY MAKING COFFEE",
+      "relationToPrevious": "Keeps the kitchen stage, introducing Poppy into the frame.",
+      "addedInformation": "Shows the stark contrast between Poppy's mundane calm and Laurel's escalating shock."
+    }
+  },
+  {
+    "i": 3,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FAMILIAR CUPID'S BOW",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "shotOverride": "closeUp",
+    "cast": [
+      "poppy"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The kitchen sequence zooms into Poppy's facial features matching Ellie's distinct genetics.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy's facial features possess the uncanny physical signature of missing Ellie.",
+      "concreteVisual": "A close-up on Poppy's face highlighting the distinct cupid's bow and tilted head.",
+      "onScreenText": "FAMILIAR CUPID'S BOW",
+      "relationToPrevious": "Continues the kitchen scene, cutting closer to Poppy's features.",
+      "addedInformation": "Focuses on the exact genetic details that trigger Laurel's recognition."
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HER BIOLOGY IS SCREAMING",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": [
+      "laurel",
+      "poppy"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "The kitchen sequence shows Laurel clutching the door frame as somatic shock overwhelms her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel experiences visceral biological recognition that threatens to knock her off her feet.",
+      "concreteVisual": "Laurel slumps against the doorway in terror and shock, watching Poppy across the room.",
+      "onScreenText": "HER BIOLOGY IS SCREAMING",
+      "relationToPrevious": "Continues the kitchen sequence, shifting focus back to Laurel's physical collapse.",
+      "addedInformation": "Shows the somatic intensity of maternal recognition overpowering rational composure."
+    }
+  },
+  {
+    "i": 5,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WITHOUT A SINGLE TRACE",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": [
+      "ellie",
+      "laurel"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "slump",
+    "explainedBy": "The sequence overlays the memory of Ellie who vanished ten years earlier onto the present child.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel perceives her vanished daughter standing directly in front of her.",
+      "concreteVisual": "A ghostly manifestation of Ellie appears beside Laurel in the kitchen.",
+      "onScreenText": "WITHOUT A SINGLE TRACE",
+      "relationToPrevious": "Continues the kitchen sequence, replacing Poppy with the phantom of Ellie.",
+      "addedInformation": "Makes visible the ten-year ghost that Laurel projects onto the room."
+    }
+  },
+  {
+    "i": 6,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WEARING A GHOST'S FACE",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": [
+      "poppy",
+      "laurel"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "cup",
+    "partnerExpression": "worried",
+    "partnerAction": "slump",
+    "explainedBy": "The sequence resolves back to innocent Poppy calmly pouring coffee, oblivious to the haunting.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Poppy remains completely innocent and unaware of the phantom identity projected onto her.",
+      "concreteVisual": "Poppy continues pouring coffee with calm composure while Laurel watches from the kitchen shadows.",
+      "onScreenText": "WEARING A GHOST'S FACE",
+      "relationToPrevious": "Closes the kitchen sequence, returning from the phantom Ellie to the real child.",
+      "addedInformation": "Emphasizes Poppy's complete innocence against Laurel's horrifying recognition."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ULTIMATE PSYCHOLOGICAL AMBUSH",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The host reframes the novel as a psychological ambush rather than a procedural thriller.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The book functions as an emotional ambush rather than a conventional detective story.",
+      "concreteVisual": "Laurel stands pensively in a dimly lit room as the narrative thesis is introduced.",
+      "onScreenText": "ULTIMATE PSYCHOLOGICAL AMBUSH",
+      "relationToPrevious": "Shifts from the introductory scene to literary and psychological analysis.",
+      "addedInformation": "Establishes the genre shift from standard crime thriller to psychological analysis."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STANDARD ABDUCTION THRILLER",
+      "style": "strike"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The host rejects the police procedural genre expectation in favor of psychological study.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts explicitly reject reading the book as a standard police abduction procedural.",
+      "concreteVisual": "A struck callout refutes the procedural genre expectation against an austere background.",
+      "onScreenText": "STANDARD ABDUCTION THRILLER",
+      "relationToPrevious": "Directly strikes down the false genre assumption mentioned in beat 7.",
+      "addedInformation": "Rejects the formulaic mystery genre to prepare the viewer for psychological analysis."
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MATERNAL PROJECTION",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The passage defines maternal projection as suffocating grief that breaks down cognitive barriers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The core subject is maternal projection driven by suffocating grief.",
+      "concreteVisual": "Laurel slumps alone in a bare room, weighted by overwhelming grief.",
+      "onScreenText": "MATERNAL PROJECTION",
+      "relationToPrevious": "Introduces the true analytical theme of the book.",
+      "addedInformation": "Focuses on the internal emotional vulnerability rather than external plot action."
+    }
+  },
+  {
+    "i": 10,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DISSOLVES RATIONAL DEFENSES",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "blank",
+    "action": "think",
+    "explainedBy": "Grief systematically dissolves Laurel's skepticism, rational defenses, and survival instincts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Grief acts as a solvent, stripping away skepticism and natural survival instincts.",
+      "concreteVisual": "Laurel sits unmoving with a blank gaze as her cognitive defenses erode.",
+      "onScreenText": "DISSOLVES RATIONAL DEFENSES",
+      "relationToPrevious": "Develops the solvent metaphor, showing Laurel's internal detachment.",
+      "addedInformation": "Portrays numbness and loss of critical skepticism rather than active panic."
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COMFORTING ILLUSIONS",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "think",
+    "explainedBy": "The absence of Ellie creates an agonizing void that hungers for comforting illusions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The void left by Ellie's disappearance creates a desperate hunger for comforting illusions.",
+      "concreteVisual": "Laurel reaches outward into empty air, seeking anything to alleviate her grief.",
+      "onScreenText": "COMFORTING ILLUSIONS",
+      "relationToPrevious": "Links the loss of defense to an active craving for solace.",
+      "addedInformation": "Visualises the emotional reach toward false comfort that leaves her exposed."
+    }
+  },
+  {
+    "i": 12,
+    "concept": "mask",
+    "diagram": null,
+    "callout": {
+      "text": "PERFECT CAMOUFLAGE FOR A PREDATOR",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel's craving for comfort provides ideal camouflage for a predator like Floyd to enter.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A predator exploits the victim's open emotional doorway by presenting a benign front.",
+      "concreteVisual": "Floyd enters with a charming smirk beside a mask icon as Laurel leaves herself undefended.",
+      "onScreenText": "PERFECT CAMOUFLAGE FOR A PREDATOR",
+      "relationToPrevious": "Shows the dangerous consequence of the emotional hunger described in beat 11.",
+      "addedInformation": "Stages Floyd's calculated charm entering the space Laurel left unprotected."
+    }
+  },
+  {
+    "i": 13,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CRITICAL TO HUMAN PSYCHOLOGY",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The hosts transition to the formal psychological definition of unresolved absence.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The concept of an emotional vacuum is central to understanding unresolved loss.",
+      "concreteVisual": "An austere layout highlighting the psychological principle behind unresolved grief.",
+      "onScreenText": "CRITICAL TO HUMAN PSYCHOLOGY",
+      "relationToPrevious": "Shifts from the narrative characters to clinical psychological theory.",
+      "addedInformation": "Frames the domestic mystery within clinical trauma research."
+    }
+  },
+  {
+    "i": 14,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "AMBIGUOUS LOSS",
+      "style": "box"
+    },
+    "cast": [],
+    "explainedBy": "The hosts introduce the clinical framework of ambiguous loss for someone who vanishes without closure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ambiguous loss defines the specific trauma of an disappearance without physical proof of death.",
+      "concreteVisual": "A bold clinical text callout defining ambiguous loss on screen.",
+      "onScreenText": "AMBIGUOUS LOSS",
+      "relationToPrevious": "Provides the exact clinical terminology for the psychological vacuum.",
+      "addedInformation": "Establishes the scientific term used throughout the trauma literature."
+    }
+  },
+  {
+    "i": 15,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "JUST A NORMAL WALK",
+      "style": "reveal"
+    },
+    "set": "library",
+    "cast": [
+      "ellie"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "holds": "book",
+    "explainedBy": "Ellie walks toward the library with her revision books before vanishing without a trace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ambiguous loss begins with a mundane everyday task that produces no crime scene or body.",
+      "concreteVisual": "Ellie carries her library books along a quiet street before disappearing.",
+      "onScreenText": "JUST A NORMAL WALK",
+      "relationToPrevious": "Illustrates the clinical definition with Ellie's actual last mundane action.",
+      "addedInformation": "Shows the utter ordinariness of the walk that produced ten years of agony."
+    }
+  },
+  {
+    "i": 16,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CANNOT HANDLE A VOID",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The host explains that the brain's prediction mechanism fails when confronted with an empty void.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The brain is an engine of predictive cause and effect that cannot process an unresolved void.",
+      "concreteVisual": "A focused cognitive concept highlighting the mind's failure to resolve an empty void.",
+      "onScreenText": "CANNOT HANDLE A VOID",
+      "relationToPrevious": "Explains the cognitive neurological reason why ambiguous loss is unendurable.",
+      "addedInformation": "Grounds the emotional agony in cognitive predictive processing theory."
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "NO ENDING",
+        "PERPETUAL HYPERAROUSAL"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The diagram maps how the absence of an ending forces the cognitive system into perpetual hyperarousal.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A lack of narrative closure drives the brain into chronic hyperarousal.",
+      "concreteVisual": "A two-stage flow diagram connecting 'NO ENDING' directly to 'PERPETUAL HYPERAROUSAL'.",
+      "onScreenText": "none",
+      "relationToPrevious": "Diagrams the cause-and-effect breakdown described in beat 16.",
+      "addedInformation": "Provides a structural schematic of trauma processing without narrative resolution."
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "NO ENDING",
+        "PERPETUAL HYPERAROUSAL",
+        "FILL THE VOID"
+      ]
+    },
+    "continue": true,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The flow diagram expands to show the hyperaroused mind grasping at anything to fill the void.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Desperate to close the narrative loop, the hyperaroused mind seizes any available explanation.",
+      "concreteVisual": "The flow diagram adds a third node: 'FILL THE VOID' completing the chain.",
+      "onScreenText": "none",
+      "relationToPrevious": "Completes the growing flow diagram begun in beat 17.",
+      "addedInformation": "Shows how hyperarousal directly precipitates the uncritical acceptance of dangerous illusions."
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HIGHLY TOXIC MATERIALS",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Laurel's desperate mind adopts psychologically toxic substitutes to plug the unbearable void.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mind will consume toxic emotional substitutes rather than endure the unresolved void.",
+      "concreteVisual": "Laurel stands isolated in her room, bowed under the toxic weight of false solace.",
+      "onScreenText": "HIGHLY TOXIC MATERIALS",
+      "relationToPrevious": "Transitions from the abstract cognitive chain back to Laurel's personal situation.",
+      "addedInformation": "Applies the cognitive rule directly to Laurel's emotional choices."
+    }
+  },
+  {
+    "i": 20,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NEVER CAME BACK",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [
+      "ellie"
+    ],
+    "expression": "happy",
+    "action": "walk",
+    "holds": "book",
+    "explainedBy": "The narrative recalls the sunny morning Ellie walked out with her books and never returned.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie walked out of the house to study ten years ago and vanished forever.",
+      "concreteVisual": "Ellie in her school uniform happily walks down the street carrying her study books.",
+      "onScreenText": "NEVER CAME BACK",
+      "relationToPrevious": "Contrasts the preceding psychological diagnosis with the original point of rupture.",
+      "addedInformation": "Visualises the bright, ordinary morning that anchored Laurel's ten-year paralysis."
+    }
+  },
+  {
+    "i": 21,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "FROZEN IN AMBER",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Ten years of unresolved ambiguity leave Laurel emotionally frozen in place.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A decade without answers has trapped Laurel in suspended, frozen grief.",
+      "concreteVisual": "Laurel stands rigid and motionless beside a clock icon in her stagnant room.",
+      "onScreenText": "FROZEN IN AMBER",
+      "relationToPrevious": "Jumps from Ellie's 2005 departure to Laurel frozen ten years later.",
+      "addedInformation": "Contrasts the ticking of ten years against Laurel's complete psychological immobility."
+    }
+  },
+  {
+    "i": 22,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COLLATERAL DAMAGE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The chronic unresolved grief destroys Laurel's marriage, driving her husband away.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Unresolved grief caused absolute collateral damage, ending Laurel's marriage.",
+      "concreteVisual": "Laurel slumps alone in the empty bedroom where her marriage dissolved.",
+      "onScreenText": "COLLATERAL DAMAGE",
+      "relationToPrevious": "Shows the relational casualty resulting from Laurel being frozen in grief.",
+      "addedInformation": "Demonstrates how ambiguity rots living relationships while preserving a ghost."
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CLEANS IN SECRET",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "laurel",
+      "hannah"
+    ],
+    "expression": "sad",
+    "action": "walk",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "Laurel cleans Hannah's flat in secret to connect with her surviving daughter without speaking.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Estranged from her living children, Laurel secretly cleans Hannah's apartment.",
+      "concreteVisual": "Laurel silently tidies the room while Hannah stands distanced and guarded in the background.",
+      "onScreenText": "CLEANS IN SECRET",
+      "relationToPrevious": "Expands the collateral damage from the broken marriage to the surviving children.",
+      "addedInformation": "Shows the bizarre, stealthy acts of parenting Laurel resorts to in lieu of real contact."
+    }
+  },
+  {
+    "i": 24,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ENTER FLOYD DUNN",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "smirk",
+    "action": "walk",
+    "partnerExpression": "surprised",
+    "partnerAction": "slump",
+    "explainedBy": "Floyd Dunn steps across the threshold, shattering Laurel's insulated routine.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's defensive routine of insulation is breached by the arrival of Floyd Dunn.",
+      "concreteVisual": "Floyd steps into the room with an approachable smirk as Laurel looks up in surprise.",
+      "onScreenText": "ENTER FLOYD DUNN",
+      "relationToPrevious": "Breaches the stagnant domestic routine established in beats 21-23.",
+      "addedInformation": "Marks the critical narrative turning point where the catalyst enters Laurel's world."
+    }
+  },
+  {
+    "i": 25,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "CHARMING AMERICAN MATHEMATICIAN",
+      "style": "reveal"
+    },
+    "set": "cafe",
+    "cast": [
+      "floyd",
+      "laurel"
+    ],
+    "expression": "happy",
+    "action": "talk",
+    "holds": "cup",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Floyd charms Laurel in a neighbourhood cafe during a whirlwind, sudden romance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel falls into a sudden, intoxicating cafe romance with charming professor Floyd.",
+      "concreteVisual": "Floyd chats amiably holding a coffee cup at a small cafe table across from a receptive Laurel.",
+      "onScreenText": "CHARMING AMERICAN MATHEMATICIAN",
+      "relationToPrevious": "Shifts location to the cozy cafe where the counterfeit romance begins.",
+      "addedInformation": "Shows Floyd's disarming, scholarly facade that lowers Laurel's defenses."
+    }
+  },
+  {
+    "i": 26,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HERE IS THE CATALYST",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "cast": [
+      "floyd",
+      "poppy"
+    ],
+    "expression": "happy",
+    "action": "point",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Floyd presents his daughter Poppy, introducing the catalyst that reignites Laurel's obsession.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Floyd introduces nine-year-old Poppy, the catalyst who triggers Laurel's uncanny obsession.",
+      "concreteVisual": "Floyd gestures proudly toward young Poppy standing quietly in the kitchen.",
+      "onScreenText": "HERE IS THE CATALYST",
+      "relationToPrevious": "Introduces the catalyst that connects the romance to the opening kitchen scene.",
+      "addedInformation": "Shows Floyd actively staging Poppy before Laurel as the bait in the trap."
+    }
+  },
+  {
+    "i": 27,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ANATOMY OF THE VANISHING",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "The analysis turns back to the exact anatomy of Ellie's vanishing that rewrote Laurel's reality.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Understanding Laurel's trap requires dissecting the anatomy of the original vanishing.",
+      "concreteVisual": "Laurel stands pensive as the analysis pivots back to the 2005 cold case.",
+      "onScreenText": "ANATOMY OF THE VANISHING",
+      "relationToPrevious": "Bridges the modern catalyst back to the historical moment of disappearance.",
+      "addedInformation": "Prepares the visual transition back to the 2005 street timeline."
+    }
+  },
+  {
+    "i": 28,
+    "concept": "clock",
+    "diagram": null,
+    "callout": {
+      "text": "10:43 IN THE MORNING",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [],
+    "explainedBy": "The timeline resets to the exact date and hour of Ellie's disappearance: May 2005 at 10:43.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The timeline returns to the exact morning of the vanishing: May 2005, 10:43 AM.",
+      "concreteVisual": "A clock icon marks the exact morning hour over a quiet north London street.",
+      "onScreenText": "10:43 IN THE MORNING",
+      "relationToPrevious": "Establishes the chronological flashback to the moment of disappearance.",
+      "addedInformation": "Pins the exact minute in time before the mundane street scene unfolds."
+    }
+  },
+  {
+    "i": 29,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SCRUFFY WHITE TRAINERS",
+      "style": "reveal"
+    },
+    "set": "street",
+    "continue": true,
+    "cast": [
+      "ellie"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "explainedBy": "Ellie walks along the street in her casual teenage clothes on the morning she vanished.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie's mundane physical appearance is recorded in minute police detail.",
+      "concreteVisual": "Ellie in her casual jeans and t-shirt walks along the sunlit pavement.",
+      "onScreenText": "SCRUFFY WHITE TRAINERS",
+      "relationToPrevious": "Places Ellie onto the street established by the clock in beat 28.",
+      "addedInformation": "Grounds Ellie in hyper-specific physical reality right before she disappears."
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NAVY BLUE RUCKSACK",
+      "style": "reveal"
+    },
+    "set": "street",
+    "continue": true,
+    "cast": [
+      "ellie"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "Ellie carries her revision books in her blue pack on her way to study.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ellie carries her study materials, emphasizing the innocence of her destination.",
+      "concreteVisual": "Ellie continues walking down the street holding her study books.",
+      "onScreenText": "NAVY BLUE RUCKSACK",
+      "relationToPrevious": "Continues Ellie's walk along the street, detailing what she carries.",
+      "addedInformation": "Highlights the school revision items that define her intended trip to the library."
+    }
+  },
+  {
+    "i": 31,
+    "concept": "mirror",
+    "diagram": null,
+    "callout": {
+      "text": "PAUSES TO CHECK HER REFLECTION",
+      "style": "highlight"
+    },
+    "set": "street",
+    "continue": true,
+    "cast": [
+      "ellie"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "explainedBy": "Ellie pauses to check her reflection in a car window, captured on street CCTV.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The final recorded sighting shows Ellie pausing naturally to check her reflection.",
+      "concreteVisual": "Ellie stops beside a mirror icon on the pavement to inspect her reflection.",
+      "onScreenText": "PAUSES TO CHECK HER REFLECTION",
+      "relationToPrevious": "Continues the street sequence to Ellie's final recorded action.",
+      "addedInformation": "Captures the heart-wrenching banality of her final captured gesture."
+    },
+    "holds": "book"
+  },
+  {
+    "i": 32,
+    "concept": "photo",
+    "diagram": null,
+    "callout": {
+      "text": "THE VERY LAST TIME",
+      "style": "reveal"
+    },
+    "set": "street",
+    "continue": true,
+    "cast": [
+      "ellie"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "explainedBy": "The CCTV capture becomes the permanent cold-case photo: the last time Ellie is seen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "This mundane paused moment becomes the last time Ellie is ever seen alive.",
+      "concreteVisual": "Ellie's frozen frame sits beside a missing photo icon as she vanishes into history.",
+      "onScreenText": "THE VERY LAST TIME",
+      "relationToPrevious": "Freezes the street sequence into an enduring cold-case evidentiary still.",
+      "addedInformation": "Transforms the casual sidewalk moment into an agonizing memorial photograph."
+    },
+    "holds": "book"
+  },
+  {
+    "i": 33,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "ABSOLUTE FRAGILE ILLUSION",
+      "style": "box"
+    },
+    "set": "kitchen",
+    "cast": [],
+    "explainedBy": "The hosts argue that domestic safety is a fragile fiction people mutually agree to believe.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Domestic sanctuary is merely an agreed-upon illusion vulnerable to sudden rupture.",
+      "concreteVisual": "A home icon displayed alone, representing the fragile domestic construct.",
+      "onScreenText": "ABSOLUTE FRAGILE ILLUSION",
+      "relationToPrevious": "Draws a broader philosophical principle from Ellie's sudden disappearance.",
+      "addedInformation": "Emphasizes the ideological vulnerability of domestic security."
+    }
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "STANDING IN THE KITCHEN",
+      "style": "reveal"
+    },
+    "set": "kitchen",
+    "continue": true,
+    "cast": [
+      "ellie"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "explainedBy": "Minutes before vanishing, Ellie had a petty teenage kitchen squabble over leftover food.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The final family interaction was a petty, completely ordinary kitchen squabble.",
+      "concreteVisual": "Ellie argues petulantly in the kitchen right before stepping out the door.",
+      "onScreenText": "STANDING IN THE KITCHEN",
+      "relationToPrevious": "Continues the kitchen setting, grounding the domestic illusion in concrete memory.",
+      "addedInformation": "Shows the mundane sibling friction that later becomes a source of suffocating guilt."
+    }
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LIFELONG SUFFOCATING GUILT",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "A tiny rupture in the timeline fractures the surviving family into permanent, suffocating guilt.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A minute shift in timing shatters the entire family into lifelong suffocating remorse.",
+      "concreteVisual": "Laurel slumps heavily in the center of a fractured, darkened room.",
+      "onScreenText": "LIFELONG SUFFOCATING GUILT",
+      "relationToPrevious": "Juxtaposes the trivial kitchen argument with its catastrophic emotional aftermath.",
+      "addedInformation": "Illustrates the permanent psychological damage inflicted on the surviving parent."
+    }
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TWO MINUTES LATER",
+      "style": "strike"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "worried",
+    "action": "think",
+    "explainedBy": "Laurel obsessively ruminates on counterfactual timeline tweaks that could not save Ellie.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The tormenting contrast between before and after is fueled by obsessive counterfactuals.",
+      "concreteVisual": "Laurel stands trapped in painful rumination over the counterfactual timing.",
+      "onScreenText": "TWO MINUTES LATER",
+      "relationToPrevious": "Continues Laurel's room setting, detailing her obsessive mental recalculations.",
+      "addedInformation": "Highlights the mental torture of replaying tiny temporal increments."
+    }
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WARPS PERCEPTION OF REALITY",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "surprised",
+    "action": "think",
+    "explainedBy": "The shock of Ellie's disappearance immediately distorts Laurel's cognitive perception.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Acute traumatic shock instantly warps how Laurel perceives external reality.",
+      "concreteVisual": "Laurel stares outward with disoriented eyes as panic begins to alter her worldview.",
+      "onScreenText": "WARPS PERCEPTION OF REALITY",
+      "relationToPrevious": "Shifts focus from retrospective guilt to the immediate night of the crime.",
+      "addedInformation": "Frames the distortion of perception as an immediate defensive reaction to panic."
+    }
+  },
+  {
+    "i": 38,
+    "concept": "law",
+    "diagram": null,
+    "callout": {
+      "text": "POLICE HAVE BEEN CALLED",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "On the night Ellie vanishes, police are called and acute terror plunges into the home.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The domestic sphere is invaded by terror as the police are summoned.",
+      "concreteVisual": "Laurel stands terrified in the living room beside an ominous law icon.",
+      "onScreenText": "POLICE HAVE BEEN CALLED",
+      "relationToPrevious": "Continues the room stage, escalating the immediate domestic emergency.",
+      "addedInformation": "Marks the official entrance of law enforcement into the private crisis."
+    }
+  },
+  {
+    "i": 39,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PLUNGED INTO TERROR",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "explainedBy": "Amidst overwhelming terror, Laurel's focus irrationally locks onto her husband.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In the grip of unbearable terror, Laurel irrationally fixates on her husband Paul.",
+      "concreteVisual": "Laurel glares angrily across the room, focusing her panic on her husband.",
+      "onScreenText": "PLUNGED INTO TERROR",
+      "relationToPrevious": "Continues the night-of panic, narrowing Laurel's attention onto Paul.",
+      "addedInformation": "Captures the bizarre cognitive narrowing that targets a partner during catastrophe."
+    }
+  },
+  {
+    "i": 40,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A HEAD COLD",
+      "style": "reveal"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "think",
+    "explainedBy": "Laurel fixates with bitter disgust on Paul's trivial physical symptoms and sniffles.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel channels her terrifying helplessness into visceral disgust at Paul's illness.",
+      "concreteVisual": "Laurel watches with intense irritation as Paul sniffles across the room.",
+      "onScreenText": "A HEAD COLD",
+      "relationToPrevious": "Specifies the exact banal irritation that Laurel seizes upon.",
+      "addedInformation": "Shows domestic banality mutating into revulsion under extreme stress."
+    }
+  },
+  {
+    "i": 41,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "OVERWHELMING HATRED FOR HIM",
+      "style": "highlight"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "explainedBy": "Laurel feels overwhelming hatred for her sick husband because he cannot protect them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Terror converts into intense, irrational hatred directed squarely at her husband.",
+      "concreteVisual": "Laurel's face hardens into open hostility as she speaks with suppressed fury.",
+      "onScreenText": "OVERWHELMING HATRED FOR HIM",
+      "relationToPrevious": "Reaches the emotional climax of Laurel's displaced rage against Paul.",
+      "addedInformation": "Demonstrates the destructive emotional displacement born of utter powerlessness."
+    }
+  },
+  {
+    "i": 42,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "VIOLENTLY TOXIC DOMESTICITY",
+      "style": "box"
+    },
+    "set": "room",
+    "continue": true,
+    "cast": [
+      "laurel"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Ordinary domesticity turns violently toxic under the weight of catastrophic terror.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Familiar domestic routines turn poisonously toxic when confronted with horror.",
+      "concreteVisual": "Laurel slumps alone amid the domestic debris as toxic resentment takes hold.",
+      "onScreenText": "VIOLENTLY TOXIC DOMESTICITY",
+      "relationToPrevious": "Summarizes the domestic breakdown resulting from Laurel's displaced hatred.",
+      "addedInformation": "Concludes the scene of the night of disappearance with domestic ruin."
+    }
+  },
+  {
+    "i": 43,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PSYCHOLOGICAL AUTOIMMUNE",
+      "style": "box"
+    },
+    "cast": [],
+    "explainedBy": "The hosts propose a psychological autoimmune model to explain Laurel's self-destructive anger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel's irrational hatred operates like a psychological autoimmune disorder.",
+      "concreteVisual": "An analytical title card introducing the autoimmune psychological model.",
+      "onScreenText": "PSYCHOLOGICAL AUTOIMMUNE",
+      "relationToPrevious": "Transitions from narrative recounting to medical metaphor.",
+      "addedInformation": "Provides a conceptual diagnostic framework for understanding irrational displacement."
+    }
+  },
+  {
+    "i": 44,
+    "concept": "medical",
+    "diagram": null,
+    "callout": {
+      "text": "MASSIVE OVERDRIVE",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The host explains how an immune system in overdrive attacks its own healthy tissue when helpless.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When unable to eliminate a threat, an overdriven defense attacks healthy internal tissue.",
+      "concreteVisual": "A medical icon displayed as the biological mechanism of autoimmune overdrive is explained.",
+      "onScreenText": "MASSIVE OVERDRIVE",
+      "relationToPrevious": "Establishes the biological baseline of the autoimmune analogy.",
+      "addedInformation": "Explains the physiological mechanism that mirrors psychological displacement."
+    }
+  },
+  {
+    "i": 45,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FLOODED WITH PANIC",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "afraid",
+    "action": "think",
+    "explainedBy": "Confronted by an unresolvable theft, Laurel's panicked mind turns against her marriage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Incapacitated by unresolvable terror, Laurel's brain targets the nearest healthy bond.",
+      "concreteVisual": "Laurel clutches her head in her room as overwhelming panic floods her mind.",
+      "onScreenText": "FLOODED WITH PANIC",
+      "relationToPrevious": "Applies the autoimmune biological concept directly to Laurel's psychological state.",
+      "addedInformation": "Connects theoretical autoimmune attack to Laurel's actual mental crisis."
+    }
+  },
+  {
+    "i": 46,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "DISPLACED PANIC",
+        "HATE HIS SNIFFLES"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The flow diagram illustrates how displaced panic manifests as irrational hatred of his sniffles.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Displaced panic directly converts unresolvable terror into hatred of her husband's sniffles.",
+      "concreteVisual": "A flow diagram linking 'DISPLACED PANIC' to 'HATE HIS SNIFFLES'.",
+      "onScreenText": "none",
+      "relationToPrevious": "Diagrams the precise psychological translation from panic into marital hatred.",
+      "addedInformation": "Clarifies how profound existential helplessness manifests as petty domestic irritation."
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A MISSING CHILD",
+      "style": "box"
+    },
+    "set": "room",
+    "cast": [
+      "laurel"
+    ],
+    "expression": "angry",
+    "action": "slump",
+    "explainedBy": "Unable to strike at the intangible horror of a missing child, Laurel's rage needs a target.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Laurel lashes out at her husband because she cannot physically confront the concept of a missing child.",
+      "concreteVisual": "Laurel slumps in helpless fury, staring at the empty space left by Ellie.",
+      "onScreenText": "A MISSING CHILD",
+      "relationToPrevious": "Articulates the core helplessness driving the autoimmune displacement.",
+      "addedInformation": "Names the tragic impossibility of fighting an abstract, vanished adversary."
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "slug": "then-she-was-gone",
+  "title": "Then She Was Gone",
+  "author": "Lisa Jewell",
+  "genre": "thriller",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): contemporary fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%); minorHarm: photoreal is excluded by policy → Antidote, symbolic staging only RISK: violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically; harm to a minor is central → never depict the child in that context; symbolic/abstract only (storyboard rule), photoreal excluded",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "contemporary",
+    "era": 2017,
+    "realPeople": false,
+    "format": "story",
+    "violence": "central",
+    "minorHarm": true,
+    "mustSee": [
+      "Ellie Mack disappearance and cold case investigation",
+      "Laurel meeting Floyd and discovering Poppy",
+      "The truth about Ellie captivity in Noelle basement"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 35,
+    "reasons": [
+      "contemporary fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%)",
+      "minorHarm: photoreal is excluded by policy → Antidote, symbolic staging only"
+    ],
+    "risks": [
+      "violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically",
+      "harm to a minor is central → never depict the child in that context; symbolic/abstract only (storyboard rule), photoreal excluded"
+    ]
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-12",
+    "fit": "antidote",
+    "confidence": "moderate",
+    "voxScore": 1.9,
+    "antidoteScore": 9.4,
+    "signals": {
+      "year": 0.3,
+      "history": 0.3,
+      "second": 10.3,
+      "abstract": 7.3,
+      "sensitive": 4.2,
+      "era": 2017,
+      "words": 6143
+    },
+    "reasons": [
+      "no dominant signal — the story itself decides; contemporary fiction with a cast works in Antidote (WWL), period or documentary worlds in Vox"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/then-she-was-gone.mp3"
+}
