@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-18T07:19:03.238Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "The Myth of Sisyphus, and Other Essays",
+      "author": "Albert Camus",
+      "genre": "philosophy"
+    }
+  },
+  "world": {
+    "universeKey": "contemporary_general",
+    "label": "Contemporary General Non-Fiction",
+    "recommendedEngine": "antidote",
+    "engineConfidence": 0.7,
+    "engineRationale": "Balanced narrative pace suited for expressive vector characters and kinetic callouts.",
+    "palette": {
+      "primary": "#2563EB",
+      "secondary": "#1E293B",
+      "accent": "#F97316",
+      "paper": "#FAFAF9",
+      "ink": "#18181B"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "office",
+      "room",
+      "stage"
+    ],
+    "activeCustomMotifs": {},
+    "gaps": []
+  },
+  "vox": {
+    "primaryDocType": "newspaper",
+    "suggestedLocations": [],
+    "photoPromptStyle": "Contemporary General Non-Fiction, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

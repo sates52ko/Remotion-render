@@ -1,0 +1,54 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "My Remotion video",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/captions": "4.0.414",
+    "@remotion/cli": "4.0.414",
+    "@remotion/google-fonts": "4.0.414",
+    "@remotion/lambda": "4.0.414",
+    "@remotion/media-utils": "4.0.414",
+    "@remotion/noise": "4.0.414",
+    "@remotion/player": "4.0.414",
+    "@remotion/tailwind-v4": "4.0.414",
+    "@remotion/three": "4.0.414",
+    "@remotion/transitions": "4.0.414",
+    "@types/three": "^0.183.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.414",
+    "remotion-bits": "^0.2.0",
+    "sentiment": "^5.0.2",
+    "tailwindcss": "4.0.0",
+    "three": "^0.183.2",
+    "zod": "^3.22.3"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.414",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "prettier": "3.6.0",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "render": "node scripts/render.js",
+    "render:github": "node scripts/render.js --method=github",
+    "render:local": "node scripts/render.js --method=local",
+    "render:lambda": "node scripts/render.js --method=lambda",
+    "queue:add": "node scripts/render-queue.js --add",
+    "queue:run": "node scripts/render-queue.js --run",
+    "queue:status": "node scripts/render-queue.js --status",
+    "semantic:benchmark": "node scripts/semantic-benchmark-runner.js"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

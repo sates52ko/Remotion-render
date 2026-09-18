@@ -1,0 +1,97 @@
+# Worker Registry Ref: 1788361261771
+name: Render Remotion Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Kitap / Proje Slug'
+        required: true
+        default: 'single-dad-dilemma'
+      composition:
+        description: 'Composition ID'
+        required: false
+        default: ''
+      chunk_size:
+        description: 'Chunk boyutu'
+        required: false
+        default: '400'
+      concurrency:
+        description: 'Concurrency'
+        required: false
+        default: '2'
+      frames:
+        description: 'Frame aralığı (örn 0-32921) — boşsa tüm video. Uzun videoyu 6s job limiti altında tutmak için segment render.'
+        required: false
+        default: ''
+      seg:
+        description: 'Segment etiketi (örn 1). Verilirse çıktı <slug>-seg<seg>.mp4 olarak adlandırılır ve ayrı artifact yüklenir.'
+        required: false
+        default: ''
+
+concurrency:
+  group: render-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    name: Render Video
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install System Dependencies (FFmpeg & Chromium)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg chromium-browser
+
+      - name: Install NPM Dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Generate Books Registry
+        run: node scripts/gen-books-registry.js
+
+      # Mastering is NOT optional. The bundle only ever ships the RAW audio
+      # (*.mastered.m4a is gitignored), and render-bundle.js re-points meta.audio
+      # at that raw file, so this step is what brings the -14 LUFS master into
+      # existence and repoints the config at it. It used to end in
+      # `|| echo "master-audio skipped"`, which meant a mastering failure was
+      # swallowed and the render shipped the quiet raw audio - or, when the config
+      # still named the mastered file, SILENCE. Either way the post-render ffprobe
+      # check passed, because it verifies duration and decode, not loudness. Fail
+      # loudly here instead: burning ~45 min of runner time on an unusable master
+      # is far worse than stopping now.
+      - name: Master audio
+        run: node scripts/master-audio.js --slug="${{ github.event.inputs.slug }}" --update-config
+
+      - name: Render Video (Local Chunking on Runner)
+        run: |
+          node scripts/render.js \
+            --slug="${{ github.event.inputs.slug }}" \
+            ${{ github.event.inputs.composition != '' && format('--composition="{0}"', github.event.inputs.composition) || '' }} \
+            --method=local \
+            --chunk-size=${{ github.event.inputs.chunk_size }} \
+            --concurrency=${{ github.event.inputs.concurrency }} \
+            ${{ github.event.inputs.frames != '' && format('--frames={0}', github.event.inputs.frames) || '' }}
+
+      - name: Label segment output
+        if: ${{ github.event.inputs.seg != '' }}
+        run: mv "out/${{ github.event.inputs.slug }}.mp4" "out/${{ github.event.inputs.slug }}-seg${{ github.event.inputs.seg }}.mp4"
+
+      - name: Upload Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-${{ github.event.inputs.slug }}${{ github.event.inputs.seg != '' && format('-seg{0}', github.event.inputs.seg) || '' }}
+          path: out/*.mp4
+          retention-days: 14
+          if-no-files-found: error

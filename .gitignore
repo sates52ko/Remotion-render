@@ -1,0 +1,27 @@
+node_modules
+dist
+.DS_Store
+.env*
+aws.txt
+guncel_env.txt
+*.log
+*.stackdump
+
+# Build & outputs
+out
+build
+.cache/
+tmp/
+scratch/
+
+# Render media assets & temporary files
+public/audio/
+public/scenes/
+public/captions/
+*.mp4
+*.m4a
+*.webm
+*.zip
+
+# Skool pack media
+empire-downfall-skool-pack/

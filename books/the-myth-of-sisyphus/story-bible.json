@@ -1,0 +1,187 @@
+{
+  "slug": "the-myth-of-sisyphus",
+  "world": {
+    "era": "classical antiquity",
+    "approxYear": -375,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical",
+      "coffee",
+      "classroom",
+      "office",
+      "workstation",
+      "startupGarage",
+      "serverRoom",
+      "pitchStage",
+      "kitchen",
+      "bedroom",
+      "hospital"
+    ]
+  },
+  "cast": {
+    "cas": {
+      "name": "Cas",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "kirkagard": {
+      "name": "Kirkagard",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "juan": {
+      "name": "Juan",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "kimus": {
+      "name": "Kimus",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "kay": {
+      "name": "Kay",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "revolt": {
+      "name": "Revolt",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "manuscript": {
+      "set": "manuscript",
+      "look": "",
+      "mentions": 3
+    },
+    "shipDeck": {
+      "set": "shipDeck",
+      "look": "",
+      "mentions": 3
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 2
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "chains",
+      "mentions": 18,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "ledge",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 14328,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 28085,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 42943,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 58387,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}
