@@ -4,6 +4,10 @@ name: Render Remotion Video
 on:
   workflow_dispatch:
     inputs:
+      preview_only:
+        description: 'Operatör istisnası: firewall REVIEW geçer, BLOCK durdurur (varsayılan kapalı)'
+        required: false
+        default: 'false'
       slug:
         description: 'Kitap / Proje Slug'
         required: true
@@ -82,7 +86,8 @@ jobs:
             --method=local \
             --chunk-size=${{ github.event.inputs.chunk_size }} \
             --concurrency=${{ github.event.inputs.concurrency }} \
-            ${{ github.event.inputs.frames != '' && format('--frames={0}', github.event.inputs.frames) || '' }}
+            ${{ github.event.inputs.frames != '' && format('--frames={0}', github.event.inputs.frames) || '' }} \
+            ${{ github.event.inputs.preview_only == 'true' && '--preview-only' || '' }}
 
       - name: Label segment output
         if: ${{ github.event.inputs.seg != '' }}
