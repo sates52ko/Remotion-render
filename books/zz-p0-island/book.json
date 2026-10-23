@@ -1,0 +1,49 @@
+{
+  "slug": "zz-p0-island",
+  "title": "The Island of Missing Trees",
+  "author": "Elif Shafak",
+  "genre": "fiction",
+  "engine": "antidote",
+  "engineRationale": "Contemporary fiction with dual timeline (1974 Cyprus and late 2010s London), staged character relationship drama and the symbolic fig tree narrator fitting Antidote flat-vector rigs.",
+  "engineDecidedBy": "claude-explicit",
+  "bgTint": true,
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "contemporary",
+    "era": 1974,
+    "realPeople": false,
+    "format": "story",
+    "violence": "some",
+    "minorHarm": false,
+    "mustSee": [
+      "the fig tree narrator",
+      "The Happy Fig taverna in divided Nicosia",
+      "Ada screaming in the London classroom",
+      "the buried branch cutting in the winter trench",
+      "the deep well with chains and oil tin"
+    ]
+  },
+  "engineCheck": {
+    "at": "2026-10-23",
+    "fit": "vox",
+    "confidence": "moderate",
+    "voxScore": 12.3,
+    "antidoteScore": 5.4,
+    "signals": {
+      "year": 1.1,
+      "history": 3.3,
+      "second": 7.1,
+      "abstract": 3.3,
+      "sensitive": 6.2,
+      "era": 1974,
+      "words": 6445
+    },
+    "reasons": [
+      "real-world / dated references (1.1 years, 3.3 history terms per 1k words) → photoreal shows the actual world (Vox)"
+    ],
+    "risks": [
+      "violence/death 6.2/1k (> 6) → Flux will refuse many Vox images of the key scenes (CONTENT_FILTERED); Antidote draws them symbolically"
+    ],
+    "confirmed": false
+  }
+}

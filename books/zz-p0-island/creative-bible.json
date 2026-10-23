@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-23T09:41:39.155Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "The Island of Missing Trees",
+      "author": "Elif Shafak",
+      "genre": "fiction"
+    }
+  },
+  "world": {
+    "universeKey": "investigative_history",
+    "label": "Investigative Journalism & Modern History",
+    "recommendedEngine": "vox",
+    "engineConfidence": 0.95,
+    "engineRationale": "Authentic archival paper, declassified files, confidential stamps and geographical cartography are quintessential Vox.",
+    "palette": {
+      "primary": "#DC2626",
+      "secondary": "#44403C",
+      "accent": "#EAB308",
+      "paper": "#F4EFE6",
+      "ink": "#1C1917"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "office",
+      "street",
+      "highway"
+    ],
+    "activeCustomMotifs": {},
+    "gaps": []
+  },
+  "vox": {
+    "primaryDocType": "declassified",
+    "suggestedLocations": [
+      {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    ],
+    "photoPromptStyle": "Investigative Journalism & Modern History, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

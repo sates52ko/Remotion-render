@@ -1,0 +1,151 @@
+{
+  "note": "What a MUTED viewer actually reads from each shared Antidote icon, measured by blind mute tests, not intended. storyboard.js writes this into every Antidote book's rules.md. When a mute test shows an icon misread, add or sharpen its row here (book + date) so the next book's authors avoid it.",
+  "icons": {
+    "mask": {
+      "reads": "a false public face, pretending",
+      "neverFor": ""
+    },
+    "chains": {
+      "reads": "bound, imprisoned, controlled (drawn intact)",
+      "neverFor": "numbness, stupefaction, silenced writers, surrender to technology, links or continuity (F451 holdout1+2: 4 misreads, read as 'links' / 'history')",
+      "measured": "fahrenheit-451 2026-09-24"
+    },
+    "puppeteer": {
+      "reads": "one person controlling others",
+      "neverFor": ""
+    },
+    "crack": {
+      "reads": "an abstract orange branching line (blind viewers do NOT see a crack)",
+      "neverFor": "cultural rot, conflict, a breakdown of society (F451 holdout2+3: described 3x as an abstract branching structure)",
+      "measured": "fahrenheit-451 2026-09-25"
+    },
+    "balance": {
+      "reads": "weighing two sides, fairness, justice",
+      "neverFor": "a critique, a reframing, a verdict on society (an empty tipped scale read as nothing, F451)",
+      "measured": "fahrenheit-451 2026-09-24"
+    },
+    "door": {
+      "reads": "a CLOSED BOOK, a story (blind icon sheet: 3 of 3 named it a book, none a door)",
+      "neverFor": "a door, a way in or out, exclusion, 'no way out' — viewers do not see a door until it is redrawn",
+      "measured": "icon sheet 2026-10-17 (3 fresh blind namers)"
+    },
+    "game": {
+      "reads": "a chess knight: strategy, a calculated move (redrawn 2026-10-17; the old drawing was a trophy cup read as winning 3/3)",
+      "neverFor": "winning, a prize, an award",
+      "measured": "icon sheet 2026-10-17 (3 fresh blind namers, 3/3 'chess knight / strategy')"
+    },
+    "mirror": {
+      "reads": "self-image, reflection",
+      "neverFor": "appearance, looks or vanity, judging yourself against others (read as appearance-checking, the-courage-to-be-disliked readcheck #17 #109 #229)",
+      "measured": "the-courage-to-be-disliked 2026-09-25"
+    },
+    "boulder": {
+      "reads": "a heavy burden sitting in the path",
+      "neverFor": "an internalized or reflective weight, or stress that comes from home/family (read as a burden others dumped on you, the-courage-to-be-disliked readcheck #283; also mutes a 'this weight is not yours' reveal, #1)",
+      "measured": "the-courage-to-be-disliked 2026-09-25"
+    },
+    "hourglass": {
+      "reads": "time running out",
+      "neverFor": "an epidemic, a cost, a price paid (read as 'time passing', F451)",
+      "measured": "fahrenheit-451 2026-09-24"
+    },
+    "clock": {
+      "reads": "time, a deadline",
+      "neverFor": "speed, environmental distortion, a lack of mental silence (read as literal schedule time, F451 x2)",
+      "measured": "fahrenheit-451 2026-09-25"
+    },
+    "shield": {
+      "reads": "protection",
+      "neverFor": ""
+    },
+    "trophy": {
+      "reads": "status, a prize",
+      "neverFor": "weakness; sabotage, crisis, a rejected title or prize the narration refuses (burn-of-the-everflame framecheck 2026-10-16: read as winning 5x)",
+      "measured": "burn-of-the-everflame 2026-10-16"
+    },
+    "gift": {
+      "reads": "a present, giving away",
+      "neverFor": ""
+    },
+    "inheritance": {
+      "reads": "a will, an estate, an heir",
+      "neverFor": ""
+    },
+    "magnifier": {
+      "reads": "close examination",
+      "neverFor": ""
+    },
+    "medical": {
+      "reads": "healthcare, a hospital, being treated",
+      "neverFor": "an execution, a lethal injection, an injury while fleeing, an overdose handled coldly (read as benign care, F451 x3)",
+      "measured": "fahrenheit-451 2026-09-24"
+    },
+    "coin": {
+      "reads": "literal cash on hand, plain endorsement of money",
+      "neverFor": "a vow about money, a doubt about money, or money-as-metaphor (die-with-zero readcheck: 2 misreads) — the attitude must come from the words and people, or the viewer reads endorsement"
+    },
+    "phone": {
+      "reads": "a MODERN smartphone",
+      "neverFor": "any world before ~2000: 1950s TV walls, radios, telephones (read as smartphone anxiety, F451)",
+      "measured": "fahrenheit-451 2026-09-24"
+    },
+    "fire": {
+      "reads": "fire, burning",
+      "neverFor": "a job described as 'cleaning' unless the fire itself is the subject"
+    },
+    "city": {
+      "reads": "a standing, intact city",
+      "neverFor": "a city being destroyed (it is drawn intact, F451)",
+      "measured": "fahrenheit-451 2026-09-24"
+    },
+    "heart": {
+      "reads": "love, romance",
+      "neverFor": ""
+    },
+    "target": {
+      "reads": "aiming at a goal, being targeted",
+      "neverFor": "where an idea came from, its origins (read as irrelevant, F451)"
+    },
+    "star": {
+      "reads": "a glowing decorative star",
+      "neverFor": "a character introduction or anything specific (read as nothing, F451)",
+      "measured": "fahrenheit-451 2026-09-25"
+    },
+    "food": {
+      "reads": "a dinner plate with fork and knife, literal eating",
+      "neverFor": "a metaphor of consuming or enjoying anything else (read as dining, F451)",
+      "measured": "fahrenheit-451 2026-09-25"
+    },
+    "family": {
+      "reads": "abstract geometric shapes (blind viewers do not see a family)",
+      "neverFor": "caregiving, a household, relatives (Southern Book Club: read as a lamp and shadows)",
+      "measured": "southern-book-club 2026-09-26"
+    },
+    "casserole": {
+      "reads": "(SBC own icon) a black toaster-like appliance — redraw own icons as the silhouette a stranger names in one word",
+      "neverFor": "",
+      "measured": "southern-book-club 2026-09-26"
+    }
+  },
+  "staging": {
+    "worried + talk": "reads as SHOCKED (open mouth) — never for suppressed anger or quiet worry; use worried + slump or think (SBC #166)",
+    "neutral face in closeUp": "carries nothing — a close-up needs a face that IS the claim (SBC #88/#179/#220)",
+    "neutral + idle, no icon": "an empty frame: only the callout speaks — stage the person DOING the idea or give an icon (SBC: 24 beats)",
+    "cast order": "the FIRST cast member is drawn as the lead — put the person the sentence is ABOUT first (SBC #59 showed Carter on \"the women do not feel safe\")",
+    "happy on the antagonist": "reads as a FRIENDLY man — the muted viewer does not know he is the villain. Use smirk (charm with an edge) or angry for the threat; happy only for genuine warmth (SBC run6 #2/#78/#108)",
+    "physical states the rig cannot draw": "biting and a death scene with blood are still not drawn. Lying, collapsed, falling, fighting, struggling and grabbing ARE actions now (2026-09-28, rows below): never again stage \"lies paralyzed on the floor\" with standing people (SBC #189 read as nothing happening)",
+    "action lying": "reads as LYING DOWN on a bed (blind: \"lying\", \"lying down\" in wide and bust framing) — for in bed / ill / resting / lying awake. The rig's low bed is sometimes read as a bench or treadmill: put it in a room set",
+    "action collapsed": "reads as FALLEN / FAINTED — a body sprawled on the floor, eyes shut (blind: \"fallen\", \"fainting\") — for collapses, knocked out, found on the floor, dead",
+    "action falling": "reads as FALLING — tipped, airborne, flailing, motion streaks (blind: \"falling\") — for falls, trips, being pushed; afraid/surprised face",
+    "action fighting": "WITH a second cast member reads as FIGHTING (blind: \"fighting\", a scuffle with impact bursts); ALONE it reads as \"fuming\" — an angry man thrusting a fist. merge refuses it alone",
+    "action grabbing": "WITH a second cast member reads as GRABBING (blind: \"grabs the startled boy by the arm\"); the partner is drawn struggling. ALONE it reads as \"walking\". merge refuses it alone",
+    "action struggling": "WITH a second cast member (drawn grabbing) reads as BEING GRABBED and pulling away (blind: \"grabbing\", \"flinches back\"); ALONE it reads as \"recoiling / startled\". merge refuses it alone",
+    "action reach": "alone with no motif it reads as \"waving\" — reach needs its subject on screen (an icon or held object)",
+    "crowd / multiple figures": "the crowd shot repeats ONE person many times — viewers see ghost duplicates, never \"a community\"",
+    "new faces (2026-09-26)": "angry = threat, rage, confrontation · smirk = sinister charm, manipulation, the predator smiling · blank = apathy, numbness, indifference (\"pure apathy\") · afraid = fear, terror (surprised is NOT fear: it reads as \"wow\")",
+    "hair messy (cast look)": "its two tufts read as HORNS (blind: \"horns\", \"devil horns\") on 111/403 frames of messy-haired figures (28%, 23 books); every other hair style 4/1755. Never for a sympathetic or ordinary character — in the story bible give them short, curly, bun or long hair (mute data 2026-10-22)",
+    "action think": "reads as POINTING or a raised-finger gesture (blind: \"points\", \"gestures\": 80-162 of 315 single-figure frames, 28 books) and as thinking only 16/315 (5%). Never to show that someone thinks, wonders or decides: put what the thought is about on screen (the icon or the held object). The \"worried + talk\" row's alternative \"worried + think\" carries the same risk: prefer worried + slump (mute data 2026-10-22)",
+    "worried face": "reads as WORRY (307/471, 65%) and almost never as fear (12/471, 3%) — for fear use afraid (afraid = fear, row above); worried is for concern, anxiety, unease (mute data 2026-10-22)",
+    "holds notes": "the held note is missed in 1 of 3 frames (named as a note, paper or card in 49/73, 21 books) — when the note itself matters, name it in the callout or make it the icon (mute data 2026-10-22)"
+  }
+}

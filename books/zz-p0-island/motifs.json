@@ -1,0 +1,35 @@
+{
+  "figTreeCutting": {
+    "title": "Buried Fig Tree Cutting",
+    "reads": "a pruned tree branch bundled in ropes buried in a dark soil trench",
+    "viewBox": "0 0 520 520",
+    "paths": [
+      { "d": "M40 380 L480 380", "stroke": "ink", "strokeWidth": 14, "fill": "none" },
+      { "d": "M60 380 L100 480 L420 480 L460 380 Z", "fill": "ink", "stroke": "ink", "strokeWidth": 6 },
+      { "d": "M140 430 L380 430", "stroke": "accent", "strokeWidth": 24, "fill": "none" },
+      { "d": "M200 430 L250 405", "stroke": "accent", "strokeWidth": 12, "fill": "none" },
+      { "d": "M320 430 L350 410", "stroke": "accent", "strokeWidth": 12, "fill": "none" },
+      { "d": "M180 415 L180 445", "stroke": "ink", "strokeWidth": 6, "fill": "none" },
+      { "d": "M240 415 L240 445", "stroke": "ink", "strokeWidth": 6, "fill": "none" },
+      { "d": "M300 415 L300 445", "stroke": "ink", "strokeWidth": 6, "fill": "none" },
+      { "d": "M360 415 L360 445", "stroke": "ink", "strokeWidth": 6, "fill": "none" },
+      { "d": "M100 340 L160 380 L100 380 Z", "fill": "accent" },
+      { "d": "M420 340 L360 380 L420 380 Z", "fill": "accent" }
+    ]
+  },
+  "buriedWell": {
+    "title": "The Deep Well and Oil Tin",
+    "reads": "a deep stone well shaft with chains dropping down into darkness tied to a weighted tin",
+    "viewBox": "0 0 520 520",
+    "paths": [
+      { "d": "M120 220 L400 220 L430 480 L90 480 Z", "fill": "ink", "stroke": "ink", "strokeWidth": 10 },
+      { "d": "M140 220 A120 40 0 1 0 380 220 A120 40 0 1 0 140 220 Z", "fill": "accent", "stroke": "ink", "strokeWidth": 8 },
+      { "d": "M120 220 L120 100", "stroke": "ink", "strokeWidth": 12, "fill": "none" },
+      { "d": "M400 220 L400 100", "stroke": "ink", "strokeWidth": 12, "fill": "none" },
+      { "d": "M90 100 L260 40 L430 100 Z", "fill": "accent", "stroke": "ink", "strokeWidth": 8 },
+      { "d": "M260 100 L260 360", "stroke": "accent", "strokeWidth": 8, "strokeDasharray": "12,8", "fill": "none" },
+      { "d": "M220 360 L300 360 L300 450 L220 450 Z", "fill": "ink", "stroke": "accent", "strokeWidth": 6 },
+      { "d": "M235 340 L285 340 L285 360 L235 360 Z", "fill": "accent" }
+    ]
+  }
+}

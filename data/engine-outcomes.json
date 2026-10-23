@@ -1,0 +1,2501 @@
+{
+  "note": "one row per mute-test run; see scripts/lib/engine-fit.js",
+  "runs": [
+    {
+      "slug": "we-were-liars",
+      "engine": "antidote",
+      "genre": "young adult",
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.2,
+          "history": 1.8,
+          "second": 13.8,
+          "abstract": 8.4,
+          "sensitive": 3.5,
+          "era": 2014,
+          "words": 5452
+        }
+      },
+      "label": "faz1-full",
+      "date": "2026-09-24",
+      "n": 30,
+      "correct": 28,
+      "wrong": 0,
+      "adds": 10,
+      "pass": false
+    },
+    {
+      "slug": "we-were-liars",
+      "engine": "antidote",
+      "genre": "young adult",
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.2,
+          "history": 1.8,
+          "second": 13.8,
+          "abstract": 8.4,
+          "sensitive": 3.5,
+          "era": 2014,
+          "words": 5452
+        }
+      },
+      "label": "faz2b",
+      "date": "2026-09-24",
+      "n": 30,
+      "correct": 27,
+      "wrong": 0,
+      "adds": 21,
+      "pass": true
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "run1",
+      "date": "2026-09-24",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": null,
+      "n": 30,
+      "correct": 21,
+      "wrong": 9,
+      "adds": 16,
+      "pass": false
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "run2",
+      "date": "2026-09-24",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": null,
+      "n": 30,
+      "correct": 27,
+      "wrong": 3,
+      "adds": 25,
+      "pass": false
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "run3",
+      "date": "2026-09-24",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": null,
+      "n": 30,
+      "correct": 29,
+      "wrong": 0,
+      "adds": 25,
+      "pass": true
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run1",
+      "date": "2026-09-24",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 2,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run2",
+      "date": "2026-09-24",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 2,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run3",
+      "date": "2026-09-24",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 26,
+      "wrong": 0,
+      "adds": 22,
+      "pass": true
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run3-fresh",
+      "date": "2026-09-24",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 3,
+      "adds": 7,
+      "pass": false
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "holdout2",
+      "date": "2026-09-25",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": null,
+      "n": 30,
+      "correct": 23,
+      "wrong": 5,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "holdout1",
+      "date": "2026-09-25",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": null,
+      "n": 30,
+      "correct": 21,
+      "wrong": 7,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "holdout3",
+      "date": "2026-09-25",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.1,
+          "history": 1.9,
+          "second": 13.9,
+          "abstract": 5.3,
+          "sensitive": 5.1,
+          "era": 2050,
+          "words": 7478
+        }
+      },
+      "n": 30,
+      "correct": 20,
+      "wrong": 8,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "fahrenheit-451",
+      "label": "holdout4",
+      "date": "2026-09-25",
+      "engine": "antidote",
+      "genre": "dystopian",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.1,
+          "history": 1.9,
+          "second": 13.9,
+          "abstract": 5.3,
+          "sensitive": 5.1,
+          "era": 2050,
+          "words": 7478
+        }
+      },
+      "n": 30,
+      "correct": 29,
+      "wrong": 1,
+      "adds": 19,
+      "pass": true
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run4",
+      "date": "2026-09-25",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 2,
+      "adds": 6,
+      "pass": false
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run5",
+      "date": "2026-09-25",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 0,
+      "adds": 14,
+      "pass": true
+    },
+    {
+      "slug": "unhinged",
+      "label": "run1",
+      "date": "2026-09-25",
+      "engine": "antidote",
+      "genre": "dark-romance",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.2,
+          "history": 0.5,
+          "second": 27.4,
+          "abstract": 8.8,
+          "sensitive": 3.3,
+          "era": 2024,
+          "words": 6127
+        }
+      },
+      "n": 30,
+      "correct": 21,
+      "wrong": 9,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "all-the-light-we-cannot-see",
+      "label": "run6",
+      "date": "2026-09-25",
+      "engine": "vox",
+      "genre": "historical fiction",
+      "engineDecidedBy": "operator-switch-after-audio",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "period",
+        "era": 1944,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "walled city of Saint-Malo",
+          "the scale model of the town",
+          "a boy fixing radios",
+          "the Sea of Flames diamond",
+          "the 1944 siege and its ruins"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.4,
+          "history": 3.9,
+          "second": 10.5,
+          "abstract": 6.9,
+          "sensitive": 2,
+          "era": 1944,
+          "words": 5622
+        }
+      },
+      "n": 30,
+      "correct": 26,
+      "wrong": 1,
+      "adds": 18,
+      "pass": true
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run1",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 2,
+      "adds": 14,
+      "pass": false
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run2",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 13,
+      "wrong": 5,
+      "adds": 13,
+      "pass": false
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run3",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 22,
+      "wrong": 3,
+      "adds": 19,
+      "pass": false
+    },
+    {
+      "slug": "die-with-zero",
+      "label": "run1",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.3,
+          "history": 0.4,
+          "second": 54.5,
+          "abstract": 19.7,
+          "sensitive": 3,
+          "era": 2020,
+          "words": 7345
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 3,
+      "adds": 16,
+      "pass": false
+    },
+    {
+      "slug": "die-with-zero",
+      "label": "run2",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.3,
+          "history": 0.4,
+          "second": 54.5,
+          "abstract": 19.7,
+          "sensitive": 3,
+          "era": 2020,
+          "words": 7345
+        }
+      },
+      "n": 30,
+      "correct": 24,
+      "wrong": 2,
+      "adds": 17,
+      "pass": false
+    },
+    {
+      "slug": "die-with-zero",
+      "label": "run3",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.3,
+          "history": 0.4,
+          "second": 54.5,
+          "abstract": 19.7,
+          "sensitive": 3,
+          "era": 2020,
+          "words": 7345
+        }
+      },
+      "n": 30,
+      "correct": 28,
+      "wrong": 1,
+      "adds": 13,
+      "pass": false
+    },
+    {
+      "slug": "the-courage-to-be-disliked",
+      "label": "run1",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "self-help",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 0.7,
+          "second": 38.7,
+          "abstract": 8.1,
+          "sensitive": 2.3,
+          "era": 2020,
+          "words": 8104
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 1,
+      "adds": 22,
+      "pass": true
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run4",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 24,
+      "wrong": 0,
+      "adds": 14,
+      "pass": false
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run5",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 5,
+      "adds": 13,
+      "pass": false
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run6",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 15,
+      "wrong": 10,
+      "adds": 22,
+      "pass": false
+    },
+    {
+      "slug": "the-southern-book-club-s-guide-to-slaying-vampires",
+      "label": "run7",
+      "date": "2026-09-26",
+      "engine": "antidote",
+      "genre": "horror",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 0.8,
+          "second": 8.3,
+          "abstract": 3.5,
+          "sensitive": 6.2,
+          "era": 1993,
+          "words": 6001
+        }
+      },
+      "n": 30,
+      "correct": 13,
+      "wrong": 6,
+      "adds": 11,
+      "pass": false
+    },
+    {
+      "slug": "unhinged",
+      "label": "run2",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "dark-romance",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.2,
+          "history": 0.5,
+          "second": 27.4,
+          "abstract": 8.8,
+          "sensitive": 3.3,
+          "era": 2024,
+          "words": 6127
+        }
+      },
+      "n": 30,
+      "correct": 13,
+      "wrong": 6,
+      "adds": 16,
+      "pass": false
+    },
+    {
+      "slug": "unhinged",
+      "label": "run3",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "dark-romance",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.2,
+          "history": 0.5,
+          "second": 27.4,
+          "abstract": 8.8,
+          "sensitive": 3.3,
+          "era": 2024,
+          "words": 6127
+        }
+      },
+      "n": 30,
+      "correct": 23,
+      "wrong": 1,
+      "adds": 11,
+      "pass": false
+    },
+    {
+      "slug": "lolita",
+      "label": "run1",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "classics",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0.9,
+          "history": 1.4,
+          "second": 12.4,
+          "abstract": 3,
+          "sensitive": 7.4,
+          "era": 1950,
+          "words": 5711
+        }
+      },
+      "n": 30,
+      "correct": 10,
+      "wrong": 10,
+      "adds": 8,
+      "pass": false
+    },
+    {
+      "slug": "stolen-focus",
+      "label": "run1",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 0.6,
+          "second": 29.2,
+          "abstract": 19.3,
+          "sensitive": 1.4,
+          "era": 2022,
+          "words": 7738
+        }
+      },
+      "n": 30,
+      "correct": 29,
+      "wrong": 0,
+      "adds": 22,
+      "pass": true
+    },
+    {
+      "slug": "lolita",
+      "label": "run2",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "classics",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0.9,
+          "history": 1.4,
+          "second": 12.4,
+          "abstract": 3,
+          "sensitive": 7.4,
+          "era": 1950,
+          "words": 5711
+        }
+      },
+      "n": 30,
+      "correct": 21,
+      "wrong": 4,
+      "adds": 19,
+      "pass": false
+    },
+    {
+      "slug": "lolita",
+      "label": "run3",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "classics",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0.9,
+          "history": 1.4,
+          "second": 12.4,
+          "abstract": 3,
+          "sensitive": 7.4,
+          "era": 1950,
+          "words": 5711
+        }
+      },
+      "n": 30,
+      "correct": 12,
+      "wrong": 8,
+      "adds": 12,
+      "pass": false
+    },
+    {
+      "slug": "unhinged",
+      "label": "run4",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "dark-romance",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.2,
+          "history": 0.5,
+          "second": 27.4,
+          "abstract": 8.8,
+          "sensitive": 3.3,
+          "era": 2024,
+          "words": 6127
+        }
+      },
+      "n": 30,
+      "correct": 16,
+      "wrong": 9,
+      "adds": 11,
+      "pass": false
+    },
+    {
+      "slug": "unhinged",
+      "label": "run5",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "dark-romance",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.2,
+          "history": 0.5,
+          "second": 27.4,
+          "abstract": 8.8,
+          "sensitive": 3.3,
+          "era": 2024,
+          "words": 6127
+        }
+      },
+      "n": 30,
+      "correct": 22,
+      "wrong": 3,
+      "adds": 23,
+      "pass": false
+    },
+    {
+      "slug": "lolita",
+      "label": "run4",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "classics",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0.9,
+          "history": 1.4,
+          "second": 12.4,
+          "abstract": 3,
+          "sensitive": 7.4,
+          "era": 1950,
+          "words": 5711
+        }
+      },
+      "n": 30,
+      "correct": 10,
+      "wrong": 3,
+      "adds": 10,
+      "pass": false
+    },
+    {
+      "slug": "unhinged",
+      "label": "run6",
+      "date": "2026-09-28",
+      "engine": "antidote",
+      "genre": "dark-romance",
+      "engineDecidedBy": null,
+      "engineProfile": null,
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.2,
+          "history": 0.5,
+          "second": 27.4,
+          "abstract": 8.8,
+          "sensitive": 3.3,
+          "era": 2024,
+          "words": 6127
+        }
+      },
+      "n": 30,
+      "correct": 18,
+      "wrong": 1,
+      "adds": 15,
+      "pass": false
+    },
+    {
+      "slug": "sapiens",
+      "label": "run1",
+      "date": "2026-09-28",
+      "engine": "vox",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "realPeople": false,
+        "format": "mixed",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "prehistoric Homo sapiens and Neanderthals around an Ice Age campfire with cave art",
+          "the Agricultural Revolution: wheat fields, domesticated cattle, and early mudbrick settlements like Jericho",
+          "ancient clay tablets with cuneiform bookkeeping (Kushim tablet) and imperial silver coinage",
+          "scientific revolution exploration ships, astronomical telescopes, and early modern laboratories",
+          "modern biotechnology laboratories, DNA double helix models, and future cyborg technology"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.8,
+          "history": 4,
+          "second": 11.5,
+          "abstract": 9.1,
+          "sensitive": 3.2,
+          "era": -10000,
+          "words": 7908
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 1,
+      "adds": 23,
+      "dead": 0,
+      "explains": null,
+      "pass": true
+    },
+    {
+      "slug": "frederick-douglass-prophet-of-freedom",
+      "label": "run1",
+      "date": "2026-09-28",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 1860,
+        "realPeople": true,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Frederick Douglass delivering an impassioned oration at the podium",
+          "young Douglass learning to read in secret and escaping Baltimore",
+          "meeting with Abraham Lincoln at the White House during the Civil War",
+          "printing press producing The North Star abolitionist newspaper",
+          "Reconstruction era Washington D.C. and Cedar Hill"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2,
+          "history": 14.3,
+          "second": 9.3,
+          "abstract": 5.9,
+          "sensitive": 5.6,
+          "era": 1860,
+          "words": 7119
+        }
+      },
+      "n": 30,
+      "correct": 23,
+      "wrong": 6,
+      "adds": 13,
+      "dead": 0,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "frederick-douglass-prophet-of-freedom",
+      "label": "run2",
+      "date": "2026-09-29",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 1860,
+        "realPeople": true,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Frederick Douglass delivering an impassioned oration at the podium",
+          "young Douglass learning to read in secret and escaping Baltimore",
+          "meeting with Abraham Lincoln at the White House during the Civil War",
+          "printing press producing The North Star abolitionist newspaper",
+          "Reconstruction era Washington D.C. and Cedar Hill"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2,
+          "history": 14.3,
+          "second": 9.3,
+          "abstract": 5.9,
+          "sensitive": 5.6,
+          "era": 1860,
+          "words": 7119
+        }
+      },
+      "n": 30,
+      "correct": 20,
+      "wrong": 7,
+      "adds": 16,
+      "dead": 0,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "frederick-douglass-prophet-of-freedom",
+      "label": "run3",
+      "date": "2026-09-29",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 1860,
+        "realPeople": true,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Frederick Douglass delivering an impassioned oration at the podium",
+          "young Douglass learning to read in secret and escaping Baltimore",
+          "meeting with Abraham Lincoln at the White House during the Civil War",
+          "printing press producing The North Star abolitionist newspaper",
+          "Reconstruction era Washington D.C. and Cedar Hill"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2,
+          "history": 14.3,
+          "second": 9.3,
+          "abstract": 5.9,
+          "sensitive": 5.6,
+          "era": 1860,
+          "words": 7119
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 2,
+      "adds": 20,
+      "dead": 1,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "frederick-douglass-prophet-of-freedom",
+      "label": "run4",
+      "date": "2026-09-29",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 1860,
+        "realPeople": true,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Frederick Douglass delivering an impassioned oration at the podium",
+          "young Douglass learning to read in secret and escaping Baltimore",
+          "meeting with Abraham Lincoln at the White House during the Civil War",
+          "printing press producing The North Star abolitionist newspaper",
+          "Reconstruction era Washington D.C. and Cedar Hill"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2,
+          "history": 14.3,
+          "second": 9.3,
+          "abstract": 5.9,
+          "sensitive": 5.6,
+          "era": 1860,
+          "words": 7119
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 3,
+      "adds": 10,
+      "dead": 0,
+      "explains": 1,
+      "pass": false
+    },
+    {
+      "slug": "frederick-douglass-prophet-of-freedom",
+      "label": "run5",
+      "date": "2026-09-29",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 1860,
+        "realPeople": true,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Frederick Douglass delivering an impassioned oration at the podium",
+          "young Douglass learning to read in secret and escaping Baltimore",
+          "meeting with Abraham Lincoln at the White House during the Civil War",
+          "printing press producing The North Star abolitionist newspaper",
+          "Reconstruction era Washington D.C. and Cedar Hill"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2,
+          "history": 14.3,
+          "second": 9.3,
+          "abstract": 5.9,
+          "sensitive": 5.6,
+          "era": 1860,
+          "words": 7119
+        }
+      },
+      "n": 30,
+      "correct": 29,
+      "wrong": 0,
+      "adds": 19,
+      "dead": 1,
+      "explains": null,
+      "pass": true
+    },
+    {
+      "slug": "surrounded-by-idiots",
+      "label": "run1",
+      "date": "2026-09-29",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "format": "argument",
+        "kind": "nonfiction",
+        "mustSee": [
+          "the four-color behavior grid Red Yellow Green Blue",
+          "a Red boss versus Green colleague clash at work",
+          "adapting your message to each color type"
+        ],
+        "realPeople": false,
+        "violence": "none",
+        "world": "ideas"
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 0.7,
+          "second": 28.2,
+          "abstract": 10.8,
+          "sensitive": 2.4,
+          "era": 2014,
+          "words": 6975
+        }
+      },
+      "n": 30,
+      "correct": 11,
+      "wrong": 3,
+      "adds": 15,
+      "dead": 15,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "surrounded-by-idiots",
+      "label": "run2",
+      "date": "2026-09-29",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "format": "argument",
+        "kind": "nonfiction",
+        "mustSee": [
+          "the four-color behavior grid Red Yellow Green Blue",
+          "a Red boss versus Green colleague clash at work",
+          "adapting your message to each color type"
+        ],
+        "realPeople": false,
+        "violence": "none",
+        "world": "ideas"
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 0.7,
+          "second": 28.2,
+          "abstract": 10.8,
+          "sensitive": 2.4,
+          "era": 2014,
+          "words": 6975
+        }
+      },
+      "n": 30,
+      "correct": 24,
+      "wrong": 1,
+      "adds": 16,
+      "dead": 3,
+      "explains": 1,
+      "pass": true
+    },
+    {
+      "slug": "death-row",
+      "label": "run1",
+      "date": "2026-09-30",
+      "engine": "antidote",
+      "genre": "thriller",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "contemporary",
+        "era": 2026,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Talia Kemper in the women's prison visiting room",
+          "the man she is certain is her dead husband Noel — the priest who comes for last rites",
+          "her death-row cell and the countdown to her execution",
+          "the house fire that killed Noel (shown as aftermath)",
+          "the last appeal meeting with her attorney Clarence Bowman"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0,
+          "history": 0.2,
+          "second": 16.1,
+          "abstract": 7.7,
+          "sensitive": 9.5,
+          "era": 2026,
+          "words": 5464
+        }
+      },
+      "n": 30,
+      "correct": 20,
+      "wrong": 1,
+      "adds": 11,
+      "dead": 8,
+      "explains": 2,
+      "pass": false
+    },
+    {
+      "slug": "death-row",
+      "label": "run2",
+      "date": "2026-09-30",
+      "engine": "antidote",
+      "genre": "thriller",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "contemporary",
+        "era": 2026,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Talia Kemper in the women's prison visiting room",
+          "the man she is certain is her dead husband Noel — the priest who comes for last rites",
+          "her death-row cell and the countdown to her execution",
+          "the house fire that killed Noel (shown as aftermath)",
+          "the last appeal meeting with her attorney Clarence Bowman"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0,
+          "history": 0.2,
+          "second": 16.1,
+          "abstract": 7.7,
+          "sensitive": 9.5,
+          "era": 2026,
+          "words": 5464
+        }
+      },
+      "n": 30,
+      "correct": 25,
+      "wrong": 2,
+      "adds": 15,
+      "dead": 0,
+      "explains": 7,
+      "pass": false
+    },
+    {
+      "slug": "i-robot",
+      "label": "run1",
+      "date": "2026-09-30",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2054,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "a boy-sized humanoid robot playing with a human child in a mid-century American city",
+          "Susan Calvin, the robot psychologist, alone with a machine, reading the positronic brain",
+          "the Three Laws of Robotics laid out as instructions a machine cannot interpret loosely",
+          "machines doing every human job, while humans are asked to stay out of the way",
+          "a factory burning with robots inside it, the case closed because no machine lies"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.1,
+          "history": 0.9,
+          "second": 9.8,
+          "abstract": 7.1,
+          "sensitive": 2.5,
+          "era": 2057,
+          "words": 6911
+        }
+      },
+      "n": 30,
+      "correct": 29,
+      "wrong": 1,
+      "adds": 21,
+      "dead": 2,
+      "explains": 1,
+      "pass": true
+    },
+    {
+      "slug": "skin-in-the-game",
+      "label": "run1",
+      "date": "2026-09-30",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "era": 2018,
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "the split payoff: a banker pockets his bonus while a homeowner is left holding the loss",
+          "a stubborn 4 percent minority deciding what everyone else eats (one refusing daughter at the table, halal catering)",
+          "the Intellectual Yet Idiot: an empty suit with a credential who never pays for his own advice",
+          "Antaeus the giant losing his strength the moment his feet leave the ground",
+          "risk landing back on the person who took it (symmetry) versus being pushed onto someone else (asymmetry)"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.4,
+          "history": 3.1,
+          "second": 21.8,
+          "abstract": 13.4,
+          "sensitive": 2.5,
+          "era": 2018,
+          "words": 8971
+        }
+      },
+      "n": 30,
+      "correct": 29,
+      "wrong": 1,
+      "adds": 19,
+      "dead": 0,
+      "explains": 1,
+      "pass": true
+    },
+    {
+      "slug": "the-hate-u-give",
+      "label": "run1",
+      "date": "2026-10-01",
+      "engine": "antidote",
+      "genre": "young-adult",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "contemporary",
+        "era": 2017,
+        "realPeople": false,
+        "format": "story",
+        "violence": "central",
+        "minorHarm": false,
+        "mustSee": [
+          "Starr navigating two split worlds: Williamson Prep and Garden Heights",
+          "the police traffic stop and Khalil's fatal shooting",
+          "community protests, tear gas, and police barricades",
+          "Starr speaking through a megaphone on top of a car",
+          "Maverick's grocery store burning and community defiance"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 3.3,
+          "second": 11.7,
+          "abstract": 6.1,
+          "sensitive": 6.3,
+          "era": 2017,
+          "words": 5210
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 2,
+      "adds": 22,
+      "dead": 1,
+      "explains": 4,
+      "pass": false
+    },
+    {
+      "slug": "the-hate-u-give",
+      "label": "run2",
+      "date": "2026-10-01",
+      "engine": "antidote",
+      "genre": "young-adult",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "contemporary",
+        "era": 2017,
+        "realPeople": false,
+        "format": "story",
+        "violence": "central",
+        "minorHarm": false,
+        "mustSee": [
+          "Starr navigating two split worlds: Williamson Prep and Garden Heights",
+          "the police traffic stop and Khalil's fatal shooting",
+          "community protests, tear gas, and police barricades",
+          "Starr speaking through a megaphone on top of a car",
+          "Maverick's grocery store burning and community defiance"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 3.3,
+          "second": 11.7,
+          "abstract": 6.1,
+          "sensitive": 6.3,
+          "era": 2017,
+          "words": 5210
+        }
+      },
+      "n": 30,
+      "correct": 28,
+      "wrong": 2,
+      "adds": 27,
+      "dead": 0,
+      "explains": 5,
+      "pass": false
+    },
+    {
+      "slug": "the-hate-u-give",
+      "label": "run3",
+      "date": "2026-10-01",
+      "engine": "antidote",
+      "genre": "young-adult",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "contemporary",
+        "era": 2017,
+        "realPeople": false,
+        "format": "story",
+        "violence": "central",
+        "minorHarm": false,
+        "mustSee": [
+          "Starr navigating two split worlds: Williamson Prep and Garden Heights",
+          "the police traffic stop and Khalil's fatal shooting",
+          "community protests, tear gas, and police barricades",
+          "Starr speaking through a megaphone on top of a car",
+          "Maverick's grocery store burning and community defiance"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0,
+          "history": 3.3,
+          "second": 11.7,
+          "abstract": 6.1,
+          "sensitive": 6.3,
+          "era": 2017,
+          "words": 5210
+        }
+      },
+      "n": 30,
+      "correct": 23,
+      "wrong": 5,
+      "adds": 20,
+      "dead": 2,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "spare",
+      "label": "run1",
+      "date": "2026-10-01",
+      "engine": "vox",
+      "genre": "nonfiction",
+      "engineDecidedBy": "claude-explicit",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 2023,
+        "realPeople": true,
+        "format": "mixed",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Prince Harry himself at different ages, from boy walking behind his mother's coffin to soldier to father",
+          "Princess Diana and the aftermath of her death in Paris",
+          "the royal family and Buckingham Palace institution, William, Charles, the press pack",
+          "his Apache helicopter military service in Afghanistan",
+          "Meghan, the wedding, leaving royal life and the Oprah interview fallout"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0.6,
+          "history": 2.6,
+          "second": 12.8,
+          "abstract": 8.6,
+          "sensitive": 2.6,
+          "era": 2015,
+          "words": 6496
+        }
+      },
+      "n": 30,
+      "correct": 24,
+      "wrong": 5,
+      "adds": 13,
+      "dead": 5,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "spare",
+      "label": "run2",
+      "date": "2026-10-01",
+      "engine": "vox",
+      "genre": "nonfiction",
+      "engineDecidedBy": "claude-explicit",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "era": 2023,
+        "realPeople": true,
+        "format": "mixed",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "Prince Harry himself at different ages, from boy walking behind his mother's coffin to soldier to father",
+          "Princess Diana and the aftermath of her death in Paris",
+          "the royal family and Buckingham Palace institution, William, Charles, the press pack",
+          "his Apache helicopter military service in Afghanistan",
+          "Meghan, the wedding, leaving royal life and the Oprah interview fallout"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "weak",
+        "signals": {
+          "year": 0.6,
+          "history": 2.6,
+          "second": 12.8,
+          "abstract": 8.6,
+          "sensitive": 2.6,
+          "era": 2015,
+          "words": 6496
+        }
+      },
+      "n": 30,
+      "correct": 14,
+      "wrong": 1,
+      "adds": 11,
+      "dead": 4,
+      "explains": null,
+      "pass": true
+    },
+    {
+      "slug": "the-fourth-turning",
+      "label": "run1",
+      "date": "2026-10-01",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "realPeople": true,
+        "format": "mixed",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "American Revolution Continental Congress and soldiers",
+          "Civil War battlefields and Abraham Lincoln",
+          "Great Depression breadlines and FDR WWII mobilization",
+          "Post-WWII 1950s American High suburbia and booming factories",
+          "Modern civic crisis, institutional distrust, and 21st-century polarized America"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2.4,
+          "history": 10.2,
+          "second": 13.6,
+          "abstract": 6.3,
+          "sensitive": 3.3,
+          "era": 1997,
+          "words": 7570
+        }
+      },
+      "n": 30,
+      "correct": 26,
+      "wrong": 3,
+      "adds": 18,
+      "dead": 2,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "the-fourth-turning",
+      "label": "run2",
+      "date": "2026-10-01",
+      "engine": "vox",
+      "genre": "history",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "real-historical",
+        "realPeople": true,
+        "format": "mixed",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "American Revolution Continental Congress and soldiers",
+          "Civil War battlefields and Abraham Lincoln",
+          "Great Depression breadlines and FDR WWII mobilization",
+          "Post-WWII 1950s American High suburbia and booming factories",
+          "Modern civic crisis, institutional distrust, and 21st-century polarized America"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "strong",
+        "signals": {
+          "year": 2.4,
+          "history": 10.2,
+          "second": 13.6,
+          "abstract": 6.3,
+          "sensitive": 3.3,
+          "era": 1997,
+          "words": 7570
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 3,
+      "adds": 16,
+      "dead": 2,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "the-paradox-of-choice",
+      "label": "run1",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "psychology",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "supermarket gourmet jam display with 24 vs 6 options",
+          "shopper overwhelmed in a denim aisle by dozens of jean fits",
+          "maximizer agonizing over comparisons to elusive perfection",
+          "satisficer settling on good enough with calm contentment"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0,
+          "history": 0,
+          "second": 29.6,
+          "abstract": 13.4,
+          "sensitive": 1.3,
+          "era": 2004,
+          "words": 7746
+        }
+      },
+      "n": 30,
+      "correct": 30,
+      "wrong": 0,
+      "adds": 8,
+      "dead": 0,
+      "explains": null,
+      "pass": true
+    },
+    {
+      "slug": "ready-player-one",
+      "label": "run1",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2045,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "the dystopian stacks and Wade's hideout",
+          "the OASIS virtual reality world and haptic visor",
+          "the copper, jade, and crystal keys",
+          "Nolan Sorrento and the IOI Sixers",
+          "the final battle at Castle Anorak"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.9,
+          "history": 3.6,
+          "second": 12.7,
+          "abstract": 4.2,
+          "sensitive": 5.1,
+          "era": 2045,
+          "words": 8085
+        }
+      },
+      "n": 30,
+      "correct": 22,
+      "wrong": 8,
+      "adds": 6,
+      "dead": 0,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "ready-player-one",
+      "label": "run2",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2045,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "the dystopian stacks and Wade's hideout",
+          "the OASIS virtual reality world and haptic visor",
+          "the copper, jade, and crystal keys",
+          "Nolan Sorrento and the IOI Sixers",
+          "the final battle at Castle Anorak"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.9,
+          "history": 3.6,
+          "second": 12.7,
+          "abstract": 4.2,
+          "sensitive": 5.1,
+          "era": 2045,
+          "words": 8085
+        }
+      },
+      "n": 30,
+      "correct": 22,
+      "wrong": 8,
+      "adds": 9,
+      "dead": 2,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation",
+      "label": "run1",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person sitting in meditation, following the breath",
+          "washing dishes mindfully, just to wash the dishes",
+          "walking meditation, each step an arrival",
+          "a mindfulness bell calling attention back",
+          "a flower held in the palm, made of non-flower elements"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 3.3,
+          "second": 35.4,
+          "abstract": 8.6,
+          "sensitive": 3.4,
+          "era": 1974,
+          "words": 6753
+        }
+      },
+      "n": 30,
+      "correct": 16,
+      "wrong": 14,
+      "adds": 12,
+      "dead": 14,
+      "explains": 2,
+      "pass": false
+    },
+    {
+      "slug": "the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation",
+      "label": "run1-redesc",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person sitting in meditation, following the breath",
+          "washing dishes mindfully, just to wash the dishes",
+          "walking meditation, each step an arrival",
+          "a mindfulness bell calling attention back",
+          "a flower held in the palm, made of non-flower elements"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 3.3,
+          "second": 35.4,
+          "abstract": 8.6,
+          "sensitive": 3.4,
+          "era": 1974,
+          "words": 6753
+        }
+      },
+      "n": 30,
+      "correct": 18,
+      "wrong": 6,
+      "adds": 12,
+      "dead": 17,
+      "explains": 3,
+      "pass": false
+    },
+    {
+      "slug": "ready-player-one",
+      "label": "run3",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2045,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "the dystopian stacks and Wade's hideout",
+          "the OASIS virtual reality world and haptic visor",
+          "the copper, jade, and crystal keys",
+          "Nolan Sorrento and the IOI Sixers",
+          "the final battle at Castle Anorak"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.9,
+          "history": 3.6,
+          "second": 12.7,
+          "abstract": 4.2,
+          "sensitive": 5.1,
+          "era": 2045,
+          "words": 8085
+        }
+      },
+      "n": 30,
+      "correct": 28,
+      "wrong": 2,
+      "adds": 15,
+      "dead": 0,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "ready-player-one",
+      "label": "run4",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2045,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "the dystopian stacks and Wade's hideout",
+          "the OASIS virtual reality world and haptic visor",
+          "the copper, jade, and crystal keys",
+          "Nolan Sorrento and the IOI Sixers",
+          "the final battle at Castle Anorak"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.9,
+          "history": 3.6,
+          "second": 12.7,
+          "abstract": 4.2,
+          "sensitive": 5.1,
+          "era": 2045,
+          "words": 8085
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 3,
+      "adds": 14,
+      "dead": 3,
+      "explains": null,
+      "pass": false
+    },
+    {
+      "slug": "ready-player-one",
+      "label": "run5",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2045,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "the dystopian stacks and Wade's hideout",
+          "the OASIS virtual reality world and haptic visor",
+          "the copper, jade, and crystal keys",
+          "Nolan Sorrento and the IOI Sixers",
+          "the final battle at Castle Anorak"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.9,
+          "history": 3.6,
+          "second": 12.7,
+          "abstract": 4.2,
+          "sensitive": 5.1,
+          "era": 2045,
+          "words": 8085
+        }
+      },
+      "n": 30,
+      "correct": 27,
+      "wrong": 3,
+      "adds": 13,
+      "dead": 0,
+      "explains": 1,
+      "pass": false
+    },
+    {
+      "slug": "ready-player-one",
+      "label": "run6",
+      "date": "2026-10-02",
+      "engine": "antidote",
+      "genre": "science fiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "fiction",
+        "world": "speculative",
+        "era": 2045,
+        "realPeople": false,
+        "format": "story",
+        "violence": "some",
+        "minorHarm": false,
+        "mustSee": [
+          "the dystopian stacks and Wade's hideout",
+          "the OASIS virtual reality world and haptic visor",
+          "the copper, jade, and crystal keys",
+          "Nolan Sorrento and the IOI Sixers",
+          "the final battle at Castle Anorak"
+        ]
+      },
+      "engineCheck": {
+        "fit": "vox",
+        "confidence": "moderate",
+        "signals": {
+          "year": 0.9,
+          "history": 3.6,
+          "second": 12.7,
+          "abstract": 4.2,
+          "sensitive": 5.1,
+          "era": 2045,
+          "words": 8085
+        }
+      },
+      "n": 30,
+      "correct": 30,
+      "wrong": 0,
+      "adds": 21,
+      "dead": 0,
+      "explains": null,
+      "pass": true
+    },
+    {
+      "slug": "the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation",
+      "label": "run2",
+      "date": "2026-10-03",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person sitting in meditation, following the breath",
+          "washing dishes mindfully, just to wash the dishes",
+          "walking meditation, each step an arrival",
+          "a mindfulness bell calling attention back",
+          "a flower held in the palm, made of non-flower elements"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 3.3,
+          "second": 35.4,
+          "abstract": 8.6,
+          "sensitive": 3.4,
+          "era": 1974,
+          "words": 6753
+        }
+      },
+      "n": 30,
+      "correct": 21,
+      "wrong": 7,
+      "adds": 11,
+      "dead": 2,
+      "explains": 3,
+      "pass": false
+    },
+    {
+      "slug": "the-miracle-of-mindfulness-an-introduction-to-the-practice-of-meditation",
+      "label": "run3",
+      "date": "2026-10-03",
+      "engine": "antidote",
+      "genre": "nonfiction",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person sitting in meditation, following the breath",
+          "washing dishes mindfully, just to wash the dishes",
+          "walking meditation, each step an arrival",
+          "a mindfulness bell calling attention back",
+          "a flower held in the palm, made of non-flower elements"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0.1,
+          "history": 3.3,
+          "second": 35.4,
+          "abstract": 8.6,
+          "sensitive": 3.4,
+          "era": 1974,
+          "words": 6753
+        }
+      },
+      "n": 30,
+      "correct": 22,
+      "wrong": 8,
+      "adds": 14,
+      "dead": 0,
+      "explains": 2,
+      "pass": false
+    },
+    {
+      "slug": "don-t-believe-everything-you-think",
+      "label": "run1",
+      "date": "2026-10-03",
+      "engine": "antidote",
+      "genre": "self-help",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person overwhelmed by a spiral of racing thoughts",
+          "the distinction between thought as an event vs thinking as rumination",
+          "the cycle of psychological suffering created by believing internal narratives",
+          "a calm, clear mind operating in flow and intuition"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0,
+          "history": 0.2,
+          "second": 41.9,
+          "abstract": 9.1,
+          "sensitive": 1.7,
+          "era": 2024,
+          "words": 6343
+        }
+      },
+      "n": 30,
+      "correct": 18,
+      "wrong": 1,
+      "adds": 14,
+      "dead": 9,
+      "explains": 3,
+      "pass": false
+    },
+    {
+      "slug": "don-t-believe-everything-you-think",
+      "label": "run2",
+      "date": "2026-10-03",
+      "engine": "antidote",
+      "genre": "self-help",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person overwhelmed by a spiral of racing thoughts",
+          "the distinction between thought as an event vs thinking as rumination",
+          "the cycle of psychological suffering created by believing internal narratives",
+          "a calm, clear mind operating in flow and intuition"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0,
+          "history": 0.2,
+          "second": 41.9,
+          "abstract": 9.1,
+          "sensitive": 1.7,
+          "era": 2024,
+          "words": 6343
+        }
+      },
+      "n": 30,
+      "correct": 18,
+      "wrong": 1,
+      "adds": 19,
+      "dead": 9,
+      "explains": 3,
+      "pass": false
+    },
+    {
+      "slug": "don-t-believe-everything-you-think",
+      "label": "run4",
+      "date": "2026-10-03",
+      "engine": "antidote",
+      "genre": "self-help",
+      "engineDecidedBy": "book-profile",
+      "engineProfile": {
+        "kind": "nonfiction",
+        "world": "ideas",
+        "realPeople": false,
+        "format": "argument",
+        "violence": "none",
+        "minorHarm": false,
+        "mustSee": [
+          "a person overwhelmed by a spiral of racing thoughts",
+          "the distinction between thought as an event vs thinking as rumination",
+          "the cycle of psychological suffering created by believing internal narratives",
+          "a calm, clear mind operating in flow and intuition"
+        ]
+      },
+      "engineCheck": {
+        "fit": "antidote",
+        "confidence": "strong",
+        "signals": {
+          "year": 0,
+          "history": 0.2,
+          "second": 41.9,
+          "abstract": 9.1,
+          "sensitive": 1.7,
+          "era": 2024,
+          "words": 6343
+        }
+      },
+      "n": 30,
+      "correct": 15,
+      "wrong": 0,
+      "adds": 20,
+      "dead": 6,
+      "explains": null,
+      "pass": false
+    }
+  ]
+}

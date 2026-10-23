@@ -1,0 +1,28 @@
+{
+  "note": "Mute-test bars. OPERATOR DECISIONS ONLY (CLAUDE.md invariant 2). Operational thresholds calibrated on the current production corpus (7 books, 2026-09-28: good films 1-4 dead frames, failing 17-18); re-calibrate when the corpus grows (benchmark: node scripts/quality-benchmark.js).",
+  "version": "2026-09-28",
+  "muteTest": {
+    "blocking": { "wrongPer30": 1, "deadPer30": 5 },
+    "targets": { "adds": 0.6 },
+    "measured": ["explains"],
+    "holdout": { "maxRepeatedPer30": 3 }
+  },
+  "hardGate": {
+    "note": "OPERATOR DECISIONS ONLY. A gate listed in nonBlocking still runs and is reported as FAIL when it fails, but does not stop the chain and does not trigger auto-fix. Thresholds are unchanged.",
+    "nonBlocking": {
+      "11": {
+        "decidedBy": "operator (Savas), 2026-10-15",
+        "temporary": true,
+        "reason": "Gate 11 passed on published books only because of an uncommitted 'Average VIG Floor' block in scripts/lib/visual-intent.js that raised vigScore to >= 2.7 and restaged authored beats (split shots, prop arcs). That block is removed. VIG has not been shown to predict mute-test DEAD frames, so Gate 11 reports FAIL non-blocking until a replacement metric is decided. VIG is recomputed from the final scene, not read from a stored score."
+      }
+    }
+  },
+  "narrativeFirewall": {
+    "note": "OPERATOR DECISIONS ONLY. Scope: preview-ready only; production delivery rules are unchanged.",
+    "previewReady": {
+      "rule": "noBlock",
+      "decidedBy": "operator (Savas), 2026-10-16",
+      "reason": "The production firewall status FAILs on any REVIEW finding; every recent book had 300-500 REVIEW findings (mostly the fallback-lever class, which asks for a shot the author did not choose). Measured on Beloved run1, the firewall flagged 27/30 frames with 37% precision for DEAD/WRONG, so REVIEW does not predict a failed preview. preview-ready now requires 0 BLOCK; REVIEW findings stay in the report and are shown as quality debt. The blind mute test remains the verdict."
+    }
+  }
+}

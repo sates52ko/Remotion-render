@@ -1,0 +1,51 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-10-23T17:06:34.659Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "72c37ca2",
+      "configHash": "a766b6a417d3094f",
+      "renderInputHash": "a0e4a4832c68aa5f",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 8
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "P0 render-input verification: sandbox copy (zz-p0-island, first 4 scenes of the-island-of-missing-trees), operator-approved single-worker Actions check 2026-10-23",
+        "covered": 5,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN"
+    },
+    {
+      "at": "2026-10-23T17:08:58.183Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "72c37ca2",
+      "configHash": "a766b6a417d3094f",
+      "renderInputHash": "a0e4a4832c68aa5f",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 8
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT",
+        "ok": true,
+        "accepted": false,
+        "reason": null,
+        "covered": 5,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN"
+    }
+  ]
+}

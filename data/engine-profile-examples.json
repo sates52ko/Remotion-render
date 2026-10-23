@@ -1,0 +1,38 @@
+{
+  "note": "Reference book profiles for the Step 0 engine decision (scripts/lib/engine-fit.js analyzeBookProfile). Agents fill a new book's profile by comparing it with these; scripts/test-engine-fit.js asserts each still yields `expect`. Add a row when a book's outcome (mute test / retention) teaches something.",
+  "rubric": {
+    "kind": "fiction | nonfiction",
+    "world": "real-historical = the book is ABOUT real events/people (biography, history, true crime, memoir) · period = invented story in a past world whose look matters (before ~1950) · contemporary = invented story, roughly the last 70 years · speculative = sci-fi/fantasy/dystopia · ideas = argument/advice/philosophy without a story world",
+    "realPeople": "true only when specific real people/events are the SUBJECT. A novel with a real backdrop (WWII) = false + world period",
+    "format": "story = told as a story · argument = ideas/advice/analysis · mixed = both carry the book",
+    "violence": "central = the climax or most of mustSee is death/gore/violence · some = present, but the key images are not violent · none",
+    "minorHarm": "true when abuse/harm of a child is central to the book (policy: never depicted, photoreal excluded)",
+    "mustSee": "3-5 CONCRETE things the viewer must see for the summary to work (places, people, objects, events)"
+  },
+  "examples": [
+    { "book": "We Were Liars (E. Lockhart)", "expect": "antidote",
+      "profile": { "kind": "fiction", "world": "contemporary", "era": 2014, "realPeople": false, "format": "story", "violence": "central", "minorHarm": false, "mustSee": ["the private island", "the fire", "the Sinclair family"] },
+      "why": "contemporary cast staged in Antidote; the teenagers' deaths in the fire are refused by Flux. Measured: 0/30 wrong, image adds 70%." },
+    { "book": "The Frozen River (Ariel Lawhon)", "expect": "vox",
+      "profile": { "kind": "fiction", "world": "period", "era": 1789, "realPeople": true, "format": "story", "violence": "some", "minorHarm": false, "mustSee": ["the frozen Kennebec river", "midwife Martha Ballard", "a 1789 Maine town"] },
+      "why": "a real 18th-century woman in a period world — photoreal period realism." },
+    { "book": "All the Light We Cannot See (Anthony Doerr)", "expect": "vox",
+      "profile": { "kind": "fiction", "world": "period", "era": 1944, "realPeople": false, "format": "story", "violence": "some", "minorHarm": false, "mustSee": ["walled city of Saint-Malo", "the scale model of the town", "a boy fixing radios", "the Sea of Flames diamond", "the 1944 siege and its ruins"] },
+      "why": "a WWII period world is the book's visual core; the bombing shown as aftermath." },
+    { "book": "Just Mercy (Bryan Stevenson)", "expect": "vox",
+      "profile": { "kind": "nonfiction", "world": "real-historical", "era": 1989, "realPeople": true, "format": "story", "violence": "some", "minorHarm": false, "mustSee": ["Walter McMillian", "Alabama death row", "the courtroom"] },
+      "why": "real people and real places are the subject." },
+    { "book": "Stolen Focus (Johann Hari)", "expect": "antidote",
+      "profile": { "kind": "nonfiction", "world": "ideas", "realPeople": false, "format": "argument", "violence": "none", "minorHarm": false, "mustSee": ["a distracted person", "notifications pulling attention", "deep focus regained"] },
+      "why": "an argument about attention — icons, diagrams and an everyman." },
+    { "book": "The Southern Book Club's Guide to Slaying Vampires (Grady Hendrix)", "expect": "antidote",
+      "profile": { "kind": "fiction", "world": "contemporary", "era": 1990, "realPeople": false, "format": "story", "violence": "central", "minorHarm": false, "mustSee": ["the suburban book club", "the vampire neighbour", "the attacks"] },
+      "why": "gory horror — Flux would drop the key scenes; a staged cast works in Antidote." },
+    { "book": "Lolita (Vladimir Nabokov)", "expect": "antidote",
+      "profile": { "kind": "fiction", "world": "period", "era": 1950, "realPeople": false, "format": "story", "violence": "some", "minorHarm": true, "mustSee": ["the unreliable narrator's voice", "the motels and roads of 1950s America", "the manipulation behind the prose"] },
+      "why": "policy: harm to a minor is never depicted; symbolic Antidote only, even though the period world alone would lean Vox." },
+    { "book": "Unhinged (Steph Macca)", "expect": "antidote",
+      "profile": { "kind": "fiction", "world": "contemporary", "realPeople": false, "format": "story", "violence": "central", "minorHarm": false, "mustSee": ["the obsessive relationship", "the psychological power game", "the dark turns"] },
+      "why": "contemporary dark romance/thriller — internal power dynamics, violent turns." }
+  ]
+}

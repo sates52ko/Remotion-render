@@ -1,0 +1,430 @@
+{
+ "date": "2026-10-09T14:05:13.612Z",
+ "unit": "frame (a key.json img, worst majority verdict across its runs)",
+ "booksJudged": [
+  "die-with-zero",
+  "i-robot",
+  "skin-in-the-game"
+ ],
+ "framesJudged": 90,
+ "prior": 2,
+ "formula": "confidence = 1 − (wrongMajority + 0.5·neutralMajority) / (frames + 2); null when never judged",
+ "bands": "strong ≥0.95 · solid ≥0.85 · weak ≥0.70 · poor <0.70 · unmeasured",
+ "source": "measured-only diagnostic; never a gate; engine never swaps an authored action because of this map",
+ "capabilities": {
+  "action:slump": {
+   "frames": 7,
+   "framesWrong": 1,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 2,
+   "scenesInCorpus": 900,
+   "confidence": 0.889,
+   "band": "solid"
+  },
+  "cast:1": {
+   "frames": 72,
+   "framesWrong": 7,
+   "framesWrongMajority": 4,
+   "framesNeutralMajority": 16,
+   "scenesInCorpus": 6754,
+   "confidence": 0.838,
+   "band": "weak"
+  },
+  "shot:illustration": {
+   "frames": 28,
+   "framesWrong": 2,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 8,
+   "scenesInCorpus": 1675,
+   "confidence": 0.8,
+   "band": "weak"
+  },
+  "expression:sad": {
+   "frames": 9,
+   "framesWrong": 1,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 4,
+   "scenesInCorpus": 718,
+   "confidence": 0.818,
+   "band": "weak"
+  },
+  "action:point": {
+   "frames": 11,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 2,
+   "scenesInCorpus": 1076,
+   "confidence": 0.923,
+   "band": "solid"
+  },
+  "shot:medium": {
+   "frames": 27,
+   "framesWrong": 1,
+   "framesWrongMajority": 1,
+   "framesNeutralMajority": 7,
+   "scenesInCorpus": 1949,
+   "confidence": 0.845,
+   "band": "weak"
+  },
+  "expression:neutral": {
+   "frames": 42,
+   "framesWrong": 6,
+   "framesWrongMajority": 4,
+   "framesNeutralMajority": 14,
+   "scenesInCorpus": 5354,
+   "confidence": 0.75,
+   "band": "weak"
+  },
+  "action:celebrate": {
+   "frames": 3,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 124,
+   "confidence": 1,
+   "band": "strong"
+  },
+  "shot:diorama": {
+   "frames": 6,
+   "framesWrong": 2,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 1785,
+   "confidence": 0.938,
+   "band": "solid"
+  },
+  "expression:happy": {
+   "frames": 7,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 2,
+   "scenesInCorpus": 656,
+   "confidence": 0.889,
+   "band": "solid"
+  },
+  "expression:worried": {
+   "frames": 17,
+   "framesWrong": 1,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 2,
+   "scenesInCorpus": 1873,
+   "confidence": 0.947,
+   "band": "solid"
+  },
+  "action:think": {
+   "frames": 10,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 4,
+   "scenesInCorpus": 1065,
+   "confidence": 0.833,
+   "band": "weak"
+  },
+  "shot:lowAngle": {
+   "frames": 3,
+   "framesWrong": 1,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 154,
+   "confidence": 1,
+   "band": "strong"
+  },
+  "cast:0": {
+   "frames": 5,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 377,
+   "confidence": 0.929,
+   "band": "solid"
+  },
+  "shot:insert": {
+   "frames": 6,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 380,
+   "confidence": 0.938,
+   "band": "solid"
+  },
+  "action:sit": {
+   "frames": 6,
+   "framesWrong": 3,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 497,
+   "confidence": 0.688,
+   "band": "poor"
+  },
+  "shot:wide": {
+   "frames": 3,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 356,
+   "confidence": 1,
+   "band": "strong"
+  },
+  "action:talk": {
+   "frames": 18,
+   "framesWrong": 3,
+   "framesWrongMajority": 3,
+   "framesNeutralMajority": 6,
+   "scenesInCorpus": 2351,
+   "confidence": 0.7,
+   "band": "weak"
+  },
+  "action:idle": {
+   "frames": 22,
+   "framesWrong": 5,
+   "framesWrongMajority": 3,
+   "framesNeutralMajority": 7,
+   "scenesInCorpus": 2655,
+   "confidence": 0.729,
+   "band": "weak"
+  },
+  "shot:closeUp": {
+   "frames": 4,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 835,
+   "confidence": 0.917,
+   "band": "solid"
+  },
+  "action:walk": {
+   "frames": 8,
+   "framesWrong": 1,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 2,
+   "scenesInCorpus": 550,
+   "confidence": 0.9,
+   "band": "solid"
+  },
+  "cast:2": {
+   "frames": 13,
+   "framesWrong": 4,
+   "framesWrongMajority": 3,
+   "framesNeutralMajority": 5,
+   "scenesInCorpus": 1850,
+   "confidence": 0.633,
+   "band": "poor"
+  },
+  "action:hold": {
+   "frames": 11,
+   "framesWrong": 2,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 993,
+   "confidence": 0.846,
+   "band": "weak"
+  },
+  "expression:smirk": {
+   "frames": 8,
+   "framesWrong": 2,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 355,
+   "confidence": 0.75,
+   "band": "weak"
+  },
+  "expression:afraid": {
+   "frames": 7,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 2,
+   "scenesInCorpus": 355,
+   "confidence": 0.889,
+   "band": "solid"
+  },
+  "expression:angry": {
+   "frames": 5,
+   "framesWrong": 2,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 309,
+   "confidence": 0.714,
+   "band": "weak"
+  },
+  "shot:silhouette": {
+   "frames": 4,
+   "framesWrong": 1,
+   "framesWrongMajority": 1,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 259,
+   "confidence": 0.75,
+   "band": "weak"
+  },
+  "shot:twoShot": {
+   "frames": 8,
+   "framesWrong": 3,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 3,
+   "scenesInCorpus": 808,
+   "confidence": 0.65,
+   "band": "poor"
+  },
+  "expression:blank": {
+   "frames": 3,
+   "framesWrong": 3,
+   "framesWrongMajority": 2,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 406,
+   "confidence": 0.5,
+   "band": "poor"
+  },
+  "action:grabbing": {
+   "frames": 1,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 19,
+   "confidence": 0.833,
+   "band": "weak"
+  },
+  "action:struggling": {
+   "frames": 1,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 1,
+   "scenesInCorpus": 19,
+   "confidence": 0.833,
+   "band": "weak"
+  },
+  "shot:split": {
+   "frames": 1,
+   "framesWrong": 1,
+   "framesWrongMajority": 1,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 190,
+   "confidence": 0.667,
+   "band": "poor"
+  },
+  "expression:surprised": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 428,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:reach": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 156,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:lying": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 9,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:collapsed": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 19,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:fighting": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 10,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "shot:overShoulder": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 434,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "shot:chapterCard": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 87,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "shot:crowd": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 57,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "shot:beforeAfter": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 10,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:falling": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 7,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "expression:none": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 6,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:push": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 9,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "action:gesture": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 1,
+   "confidence": null,
+   "band": "unmeasured"
+  },
+  "cast:3": {
+   "frames": 0,
+   "framesWrong": 0,
+   "framesWrongMajority": 0,
+   "framesNeutralMajority": 0,
+   "scenesInCorpus": 2,
+   "confidence": null,
+   "band": "unmeasured"
+  }
+ }
+}

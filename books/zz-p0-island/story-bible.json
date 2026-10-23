@@ -1,0 +1,481 @@
+{
+  "slug": "zz-p0-island",
+  "authored": true,
+  "authoredBy": "Antigravity — Story Bible for The Island of Missing Trees (Elif Shafak)",
+  "world": {
+    "era": "Contemporary dual timeline: 1974 Nicosia (divided Cyprus during civil war/partition) and late 2010s North London (suburban exile and storm Hera)",
+    "worldId": "elif-shafak-island-of-missing-trees",
+    "approxYear": 1974,
+    "setting": "A dual-world narrative: The war-torn, sun-baked alleys of divided Nicosia centered around The Happy Fig tavern, contrasted with a stormy, winter-frozen suburban North London garden where an immigrant botanist buries a cutting beneath the English earth.",
+    "register": "literary drama / ecological memory / transgenerational trauma",
+    "forbid": [
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "alarmClock"
+    ]
+  },
+  "cast": {
+    "narrator": {
+      "name": "Narrator / The Fig Tree",
+      "role": "dialogue_host",
+      "look": "A sentient ecological observer and literary host reflecting on transgenerational memory and botanical resilience across decades of civil conflict.",
+      "variant": {
+        "skin": "#E8B98A",
+        "hair": "#1E293B",
+        "suit": "#0F172A",
+        "shirt": "#F8F8F4",
+        "expression": "neutral",
+        "hairStyle": "short",
+        "glasses": false,
+        "beard": "stubble",
+        "gender": "m",
+        "age": "adult",
+        "outfit": "suit",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 1,
+        "headScale": 1,
+        "trim": "#16A34A",
+        "overlay": []
+      },
+      "mentions": 140
+    },
+    "kostas": {
+      "name": "Kostas Kazantzakis",
+      "role": "protagonist",
+      "look": "Greek Cypriot botanist and evolutionary ecologist, quiet, scientific, grieving his late wife while tending his North London garden.",
+      "variant": {
+        "skin": "#E5C29F",
+        "hair": "#64748B",
+        "suit": "#334155",
+        "shirt": "#E2E8F0",
+        "expression": "worried",
+        "hairStyle": "short",
+        "glasses": true,
+        "beard": "stubble",
+        "gender": "m",
+        "age": "adult",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 1.02,
+        "headScale": 1,
+        "trim": "#2563EB",
+        "overlay": []
+      },
+      "mentions": 60
+    },
+    "defne": {
+      "name": "Defne",
+      "role": "protagonist",
+      "look": "Turkish Cypriot woman with deep, expressive dark eyes and dark curly hair; an archaeologist working for the Committee on Missing Persons.",
+      "variant": {
+        "skin": "#DDB892",
+        "hair": "#1C1917",
+        "suit": "#475569",
+        "shirt": "#FEF3C7",
+        "expression": "sad",
+        "hairStyle": "curly",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "necklace",
+        "build": "slight",
+        "height": 0.96,
+        "headScale": 1,
+        "trim": "#DC2626",
+        "overlay": []
+      },
+      "mentions": 33
+    },
+    "ada": {
+      "name": "Ada Kazantzakis",
+      "role": "protagonist",
+      "look": "Sixteen-year-old British-Cypriot high school student in North London with dark shoulder-length hair and an intense, wounded posture.",
+      "variant": {
+        "skin": "#E0B790",
+        "hair": "#1E293B",
+        "suit": "#1E1B4B",
+        "shirt": "#FFFFFF",
+        "expression": "worried",
+        "hairStyle": "long",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "young",
+        "outfit": "uniform",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "slight",
+        "height": 0.92,
+        "headScale": 1,
+        "trim": "#7C3AED",
+        "overlay": []
+      },
+      "mentions": 45
+    },
+    "meryem": {
+      "name": "Aunt Meryem",
+      "role": "mentor",
+      "look": "Defne's vibrant, volatile Turkish sister arriving from Cyprus with colorful patterned dresses, bold jewelry, and suitcase full of spices and superstitions.",
+      "variant": {
+        "skin": "#D9A066",
+        "hair": "#451A03",
+        "suit": "#78350F",
+        "shirt": "#FDE68A",
+        "expression": "neutral",
+        "hairStyle": "bun",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "dress",
+        "headwear": "none",
+        "accessory": "scarf",
+        "build": "average",
+        "height": 0.95,
+        "headScale": 1,
+        "trim": "#D97706",
+        "overlay": []
+      },
+      "mentions": 15
+    },
+    "yiorgos": {
+      "name": "Yiorgos",
+      "role": "supporting",
+      "look": "Greek taverna owner of The Happy Fig, warm, hospitable, with a thick moustache, working alongside Yusuf to shelter lovers in a divided city.",
+      "variant": {
+        "skin": "#D2A274",
+        "hair": "#1F2937",
+        "suit": "#1F2937",
+        "shirt": "#F3F4F6",
+        "expression": "neutral",
+        "hairStyle": "short",
+        "glasses": false,
+        "beard": "full",
+        "gender": "m",
+        "age": "adult",
+        "outfit": "apron",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "heavy",
+        "height": 1.04,
+        "headScale": 1,
+        "trim": "#059669",
+        "overlay": []
+      },
+      "mentions": 18
+    },
+    "yusuf": {
+      "name": "Yusuf",
+      "role": "supporting",
+      "look": "Turkish taverna co-owner of The Happy Fig, gentle, thoughtful, culinary partner of Yiorgos creating a peaceful culinary haven.",
+      "variant": {
+        "skin": "#CD9765",
+        "hair": "#374151",
+        "suit": "#374151",
+        "shirt": "#FEF2F2",
+        "expression": "neutral",
+        "hairStyle": "short",
+        "glasses": false,
+        "beard": "stubble",
+        "gender": "m",
+        "age": "adult",
+        "outfit": "apron",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 1,
+        "headScale": 1,
+        "trim": "#EA580C",
+        "overlay": []
+      },
+      "mentions": 24
+    },
+    "everyman": {
+      "name": "The Observer",
+      "role": "everyman",
+      "look": "The outside reader probing the anatomy of inherited silence, civil war partitions, and transgenerational grief.",
+      "variant": {
+        "skin": "#DFBA98",
+        "hair": "#334155",
+        "suit": "#1E293B",
+        "shirt": "#F8FAFC",
+        "expression": "neutral",
+        "hairStyle": "short",
+        "glasses": true,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 0.96,
+        "headScale": 1,
+        "trim": "#0F172A",
+        "overlay": []
+      },
+      "mentions": 80
+    }
+  },
+  "places": {
+    "classroom": {
+      "set": "classroom",
+      "look": "The stifling, fluorescent-lit North London classroom where Ada's 52-second scream goes viral.",
+      "mentions": 20
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "The Happy Fig taverna in Nicosia with its lush fig tree growing through the roof, hanging herbs, and clandestine candlelit tables.",
+      "mentions": 35
+    },
+    "room": {
+      "set": "room",
+      "look": "The quiet, sterile London home filled with unspoken memories and unaddressed grief.",
+      "mentions": 30
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "The suburban London kitchen transformed by Meryem's aromatic Mediterranean cooking and traditional dishes.",
+      "mentions": 15
+    },
+    "forest": {
+      "set": "forest",
+      "look": "The cold suburban garden trench in winter and the wild Mediterranean flora of Cyprus.",
+      "mentions": 25
+    },
+    "street": {
+      "set": "street",
+      "look": "The divided streets of Nicosia with barbed wire and military checkpoints.",
+      "mentions": 20
+    },
+    "horizon": {
+      "set": "horizon",
+      "look": "The Mediterranean coastline of Cyprus and the overcast skies of London awaiting Storm Hera.",
+      "mentions": 15
+    },
+    "abstract": {
+      "set": "abstract",
+      "look": "The conceptual space of subterranean root networks, historical trauma, and silence.",
+      "mentions": 25
+    }
+  },
+  "objects": [
+    {
+      "concept": "tree",
+      "mentions": 63,
+      "why": "The fig tree (Ficus carica) as sentient narrator, memory keeper, and biological witness"
+    },
+    {
+      "concept": "figTreeCutting",
+      "mentions": 30,
+      "why": "The bundled cutting buried underground in London to survive the frost, embodying migrant memory"
+    },
+    {
+      "concept": "buriedWell",
+      "mentions": 25,
+      "why": "The dark well where Yiorgos and Yusuf were murdered, tied to a weighted tin"
+    },
+    {
+      "concept": "war",
+      "mentions": 25,
+      "why": "The 1974 Cyprus conflict, partition, and the Green Line"
+    },
+    {
+      "concept": "grave",
+      "mentions": 24,
+      "why": "The excavations of the Committee on Missing Persons uncovering hidden bones"
+    },
+    {
+      "concept": "storm",
+      "mentions": 15,
+      "why": "Storm Hera approaching North London as emotional and meteorological climax"
+    },
+    {
+      "concept": "family",
+      "mentions": 26,
+      "why": "Transgenerational trauma passed silently from Defne and Kostas to Ada"
+    },
+    {
+      "concept": "food",
+      "mentions": 18,
+      "why": "The taverna's shared meals and Meryem's sensory cultural reclamation"
+    },
+    {
+      "concept": "heart",
+      "mentions": 15,
+      "why": "The forbidden love between Greek Christian Kostas and Turkish Muslim Defne"
+    },
+    {
+      "concept": "notes",
+      "mentions": 12,
+      "why": "Botanical field notebooks and encrypted messages passed between lovers"
+    },
+    {
+      "concept": "fire",
+      "mentions": 10,
+      "why": "The explosion and flames that scarred the tavern and the fig tree"
+    },
+    {
+      "concept": "mirror",
+      "mentions": 8,
+      "why": "The reflection of unacknowledged trauma and family resemblance"
+    }
+  ],
+  "visualProvenance": {
+    "bookId": "zz-p0-island",
+    "worldId": "elif-shafak-island-of-missing-trees",
+    "allowedCharacters": [
+      "narrator",
+      "kostas",
+      "defne",
+      "ada",
+      "meryem",
+      "yiorgos",
+      "yusuf",
+      "everyman"
+    ],
+    "allowedLocations": [
+      "classroom",
+      "cafe",
+      "room",
+      "kitchen",
+      "forest",
+      "street",
+      "horizon",
+      "abstract"
+    ],
+    "allowedMotifs": [
+      "tree",
+      "figTreeCutting",
+      "buriedWell",
+      "war",
+      "grave",
+      "storm",
+      "family",
+      "food",
+      "heart",
+      "notes",
+      "fire",
+      "mirror",
+      "water",
+      "chains",
+      "clock",
+      "door",
+      "balance",
+      "shield",
+      "book",
+      "phone",
+      "mask",
+      "target",
+      "home",
+      "crash",
+      "law",
+      "photo",
+      "key",
+      "boulder",
+      "medical",
+      "crack",
+      "inheritance",
+      "gift",
+      "trophy",
+      "hourglass",
+      "star"
+    ],
+    "forbiddenMotifs": [
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "alarmClock"
+    ],
+    "allowedProps": [
+      "tree",
+      "figTreeCutting",
+      "buriedWell",
+      "war",
+      "grave",
+      "storm",
+      "family",
+      "food",
+      "heart",
+      "notes",
+      "fire",
+      "mirror",
+      "water",
+      "chains",
+      "clock",
+      "door",
+      "balance",
+      "shield",
+      "book",
+      "phone",
+      "mask",
+      "target",
+      "home",
+      "crash",
+      "law",
+      "photo",
+      "key",
+      "boulder",
+      "medical",
+      "crack",
+      "inheritance",
+      "gift",
+      "trophy",
+      "hourglass",
+      "star"
+    ]
+  },
+  "signatureObjects": [
+    {
+      "key": "figTreeCutting",
+      "name": "Buried Fig Tree Cutting",
+      "why": "Kostas trenches and buries the cutting from Cyprus in North London to protect it from frost, an exact physical manifestation of buried migrant memory."
+    },
+    {
+      "key": "buriedWell",
+      "name": "The Deep Well and Oil Tin",
+      "why": "The tragic mass grave where Yiorgos and Yusuf were chained and sunk with a concrete-filled oil tin, discovered by the Committee on Missing Persons."
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": "Ada's viral classroom scream in North London and the mystery of buried migrant grief."
+    },
+    {
+      "act": "development",
+      "fromFrame": 14217,
+      "claim": "The sanctuary of The Happy Fig in 1974 Nicosia and the forbidden love across ethnic lines."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 28435,
+      "claim": "Civil conflict, the destruction of the taverna, and the excavation of missing persons' graves."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 42653,
+      "claim": "Aunt Meryem's arrival in London, culinary reclamation, and breaking the family's code of silence."
+    },
+    {
+      "act": "close",
+      "fromFrame": 56871,
+      "claim": "The unearthing of the buried fig tree as Storm Hera breaks, proving ecological memory outlasts borders."
+    }
+  ]
+}
