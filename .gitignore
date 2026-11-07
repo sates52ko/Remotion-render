@@ -1,0 +1,58 @@
+node_modules
+dist
+.DS_Store
+.env*
+aws.txt
+guncel_env.txt
+*.log
+*.stackdump
+
+# Build & outputs
+out
+build
+.cache/
+tmp/
+scratch/
+
+# Render media assets & temporary files
+public/audio/
+public/scenes/
+public/captions/
+*.mp4
+*.m4a
+*.webm
+*.zip
+
+# Skool pack media
+empire-downfall-skool-pack/
+
+# Never commit: local credentials & render-account config
+render-accounts.json
+nvidia_preview.html
+test_aws_creds.js
+AWS_SESSION_REGISTRY.md
+
+# Session backups, caches & local-only artifacts
+*.bak-*
+.claude/*
+# project skills are shared with every agent (e.g. preview-hazirla)
+!.claude/skills/
+__pycache__/
+out_*_chunks/
+*.lnk
+audit/visionless-10x/p8-backup/
+audit/visionless-10x/p9b-smoke/
+audit/visionless-10x/p9b2c-pilot/stills/
+audit/visionless-10x/p9b2c-pilot/serve/
+audit/visionless-10x/p9b2c-pilot/props/
+audit/visionless-10x/p9b2c-pilot/render.log
+audit/visionless-10x/p9b2c-pilot/bundle.err.log
+# P10.2a render artifacts: keep bundles/logs/local-stage dirs out of git (per-scene stills referenced by records stay tracked under p10.2a-render/<id>/)
+audit/visionless-10x/p10/p10.1-render/serve/
+audit/visionless-10x/p10/p10.2a-render/serve/
+audit/visionless-10x/p10/tmp-livetest/
+audit/visionless-10x/p10/p10.2a-render/*.log
+audit/visionless-10x/p10/p10.2a-visual-scan.json
+
+# per-book production pin (preview-state.js): local to the worktree that produces the book, never committed
+books/*/production-base.json
