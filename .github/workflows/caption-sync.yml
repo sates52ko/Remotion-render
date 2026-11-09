@@ -1,0 +1,55 @@
+# One-off (2026-11-09): re-time the-witch clean.vtt to its DELIVERED film, measured from the film. Reads the film
+# artifact of the delivered cloud assembly run in THIS repo with the run's own read-only token; renders, assembles and
+# publishes nothing. Output: artifact caption-sync-the-witch (the .youtube-sync.vtt + the measurement report).
+name: Caption sync (the-witch)
+on:
+  push:
+    branches: ["render/the-witch-captions"]
+permissions:
+  contents: read
+  actions: read
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: FFmpeg (bounded apt)
+        timeout-minutes: 8
+        run: |
+          command -v ffmpeg >/dev/null && exit 0
+          for i in 1 2 3; do
+            if timeout 120 sudo apt-get update -qq && timeout 180 sudo apt-get install -y -qq ffmpeg unzip; then exit 0; fi
+            sleep 5
+          done
+          exit 1
+      - name: Source audio (the rendered bundle f98dd53b, verified by its git blob id)
+        run: |
+          mkdir -p root/public/audio
+          curl -sSL --retry 4 -o root/public/audio/the-witch.mp3 "https://raw.githubusercontent.com/${{ github.repository }}/f98dd53b192cf0dca66ff031be25e8f3641a06cc/public/audio/the-witch.mp3"
+          test "$(git hash-object --no-filters root/public/audio/the-witch.mp3)" = cf83c410de1347ee5a6fde4e3fa7d86768ebebe0
+      - name: The delivered film (artifact 13566382336 of run 42352420641)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl -sSL -H "Authorization: Bearer $GH_TOKEN" -o film.zip "https://api.github.com/repos/${{ github.repository }}/actions/artifacts/13566382336/zip"
+          unzip -o -q film.zip -d root/out && rm film.zip
+          ls -la root/out
+      - name: Measure, verify, re-time
+        run: |
+          mkdir -p result
+          node caption-sync.js --root=root --slug=the-witch --write | tee result/the-witch.sync-log.txt
+          cp root/public/captions/the-witch.youtube-sync.vtt result/
+          cp the-witch.sync-report.json result/ 2>/dev/null || true
+          sha256sum root/out/the-witch.mp4 root/public/audio/the-witch.mp3 result/* | tee result/sha256.txt
+      - uses: actions/upload-artifact@v4
+        if: ${{ always() }}
+        with:
+          name: caption-sync-the-witch
+          path: result/
+          retention-days: 14

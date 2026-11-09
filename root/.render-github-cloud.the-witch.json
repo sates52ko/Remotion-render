@@ -1,0 +1,190 @@
+{
+  "slug": "the-witch",
+  "at": "2026-11-07T07:54:20.968Z",
+  "bundleSha": "f98dd53b192cf0dca66ff031be25e8f3641a06cc",
+  "mode": "PRODUCTION",
+  "run": {
+    "repo": "sates52ko/Remotion-render",
+    "id": 42352420641,
+    "url": "https://github.com/sates52ko/Remotion-render/actions/runs/42352420641",
+    "conclusion": "success"
+  },
+  "manifest": "1:sates52ko/Remotion-render:42349669897:0-7844;2:goodbooksummary-a11y/Remotion-render:42349678120:7845-15689;3:ahmetbahadir79-wq/Remotion-render:42349683002:15690-23534;4:berilasal099-byte/Remotion-render:42349687929:23535-31379;5:canek65/Remotion-render:42349693674:31380-39224;6:cansukilic134-cyber/Remotion-render:42349699034:39225-47069;7:konusarakogrenduru-web/Remotion-render:42349705892:47070-54914;8:konusarakogrensiniflar-ctrl/Remotion-render:42349711821:54915-62759;9:labsnarrative-coder/Remotion-render:42349716989:62760-70604;10:gulbendeniz0102-ai/Remotion-render:42349722877:70605-78444",
+  "finalArtifact": {
+    "id": 13566382336,
+    "name": "video-the-witch-final",
+    "bytes": 3205787452
+  },
+  "verified": true,
+  "report": {
+    "slug": "the-witch",
+    "at": "2026-11-07T07:44:23.371Z",
+    "mode": "PRODUCTION",
+    "runner": "sates52ko/Remotion-render",
+    "runId": "42352420641",
+    "segments": [
+      {
+        "seg": 1,
+        "repo": "sates52ko/Remotion-render",
+        "runId": 42349669897,
+        "artifactId": 13565693537,
+        "range": "0-7844",
+        "file": "the-witch-seg1.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 2,
+        "repo": "goodbooksummary-a11y/Remotion-render",
+        "runId": 42349678120,
+        "artifactId": 13565804012,
+        "range": "7845-15689",
+        "file": "the-witch-seg2.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 3,
+        "repo": "ahmetbahadir79-wq/Remotion-render",
+        "runId": 42349683002,
+        "artifactId": 13565352867,
+        "range": "15690-23534",
+        "file": "the-witch-seg3.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 4,
+        "repo": "berilasal099-byte/Remotion-render",
+        "runId": 42349687929,
+        "artifactId": 13566405286,
+        "range": "23535-31379",
+        "file": "the-witch-seg4.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 5,
+        "repo": "canek65/Remotion-render",
+        "runId": 42349693674,
+        "artifactId": 13566435154,
+        "range": "31380-39224",
+        "file": "the-witch-seg5.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 6,
+        "repo": "cansukilic134-cyber/Remotion-render",
+        "runId": 42349699034,
+        "artifactId": 13565343121,
+        "range": "39225-47069",
+        "file": "the-witch-seg6.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 7,
+        "repo": "konusarakogrenduru-web/Remotion-render",
+        "runId": 42349705892,
+        "artifactId": 13566125525,
+        "range": "47070-54914",
+        "file": "the-witch-seg7.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 8,
+        "repo": "konusarakogrensiniflar-ctrl/Remotion-render",
+        "runId": 42349711821,
+        "artifactId": 13564839877,
+        "range": "54915-62759",
+        "file": "the-witch-seg8.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 9,
+        "repo": "labsnarrative-coder/Remotion-render",
+        "runId": 42349716989,
+        "artifactId": 13565223580,
+        "range": "62760-70604",
+        "file": "the-witch-seg9.mp4",
+        "expected": 7845,
+        "frames": 7845,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      },
+      {
+        "seg": 10,
+        "repo": "gulbendeniz0102-ai/Remotion-render",
+        "runId": 42349722877,
+        "artifactId": 13565729525,
+        "range": "70605-78444",
+        "file": "the-witch-seg10.mp4",
+        "expected": 7840,
+        "frames": 7840,
+        "decodes": true,
+        "audio": true,
+        "ok": true,
+        "problems": []
+      }
+    ],
+    "final": {
+      "file": "the-witch.mp4",
+      "ok": true,
+      "problems": [],
+      "frames": 78445,
+      "expected": 78445,
+      "decodes": true,
+      "durationSec": 2623.381333,
+      "bytes": 3205787312,
+      "sha256": "9121c933d62a75975788efe1a90bf2193d14c8869615d23ff6581bf8d54be08d"
+    },
+    "ok": true,
+    "joinRepair": {
+      "status": "NOT_REPAIRED",
+      "reason": "the audio length does not match the chunk geometry (last chunk leaves -1024 samples) — not repaired"
+    }
+  },
+  "fetched": {
+    "at": "2026-11-07T10:27:35.970Z",
+    "sha256": "9121c933d62a75975788efe1a90bf2193d14c8869615d23ff6581bf8d54be08d",
+    "file": "out\\the-witch.mp4",
+    "bytes": 3205787312
+  }
+}
